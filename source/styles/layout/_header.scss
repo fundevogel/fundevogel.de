@@ -1,0 +1,54 @@
+//
+// Header
+//
+
+.site-header {
+  background-color: $yellow;
+  box-shadow: 0 2px 5px rgba(115, 115, 0, 0.25);
+  flex: none;
+  padding-top: 50px;
+  z-index: z(header);
+}
+
+.logo {
+  bottom: -10px;
+  position: relative;
+
+  // @include max-width(largeMax) {
+  //   width: 125px;
+  // }
+}
+
+.hgroup {
+  display: inline-block;
+  text-align: center;
+  vertical-align: bottom;
+  width: 100%;
+
+  @include min-width(600) {
+    padding-left: $small-spacing;
+    text-align: left;
+    width: auto;
+  }
+}
+
+.site-title {
+  font-size: 3rem;
+
+  @include min-width(small) {
+    font-size: 4rem;
+  }
+
+  @include min-width(medium) {
+    font-size: 3rem;
+  }
+
+  @include min-width(large) {
+    font-size: 3.5rem;
+  }
+}
+
+.site-subtitle {
+  color: $dark-gray;
+  font-size: 1.7rem;
+}

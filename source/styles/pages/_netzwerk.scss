@@ -1,0 +1,20 @@
+.motto {
+  color: $action-color;
+  font-variant: small-caps;
+  font-weight: 700;
+
+  &.large-down {
+    margin: 0 auto;
+    max-width: 600px;
+
+    @include min-width(large) {
+      display: none;
+    }
+  }
+}
+
+.motto + figure {
+  @include max-width(largeMax) {
+    margin-top: 2 * $base-spacing;
+  }
+}

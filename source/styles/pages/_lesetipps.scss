@@ -1,0 +1,12 @@
+.recommendations figure {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.lesetipp {
+
+  h2 + &,
+  & + & {
+    margin-top: 2em;
+  }
+}

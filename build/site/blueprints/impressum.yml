@@ -1,0 +1,20 @@
+title: Impressum
+
+pages: false
+files: false
+
+fields:
+  title:
+    label: Überschrift
+    type:  text
+    required: true
+
+  left:
+    label: Linke Spalte
+    type:  textarea
+    width: 1/2
+
+  right:
+    label: Rechte Spalte
+    type:  textarea
+    width: 1/2

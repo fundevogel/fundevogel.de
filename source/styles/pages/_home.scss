@@ -1,0 +1,24 @@
+.home {
+
+  .site-title {
+
+    @include min-width(medium) {
+      font-size: 4rem;
+      margin-bottom: -10px;
+    }
+  }
+}
+
+.subtitle {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.image-area {
+  text-align: center;
+
+  figure {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+}

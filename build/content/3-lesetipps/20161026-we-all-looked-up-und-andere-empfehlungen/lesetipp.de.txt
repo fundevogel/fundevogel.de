@@ -1,0 +1,57 @@
+Title: we all looked up ... und andere Empfehlungen
+
+----
+
+Date: 2016-10-26
+
+----
+
+Intro: 
+
+Derzeit gibt es so etwas wie einen Trend im Bereich der Jugendbücher: Geschichten, die einem unter die Haut gehen, nicht weil etwa die Handlung so spannend wäre, sondern sie tritt in den Hintergrund und gibt vielmehr die dramatische Kulisse ab, auf der sich ganz gegenwärtig zentrale Fragen an den Leser stellen: Wie willst Du eigentlich leben? Was und wer ist Dir in Deinem leben wichtig?
+Dies z. B. bei dem Buch „28 Tage lang“: ‚Vordergründig‘ handelt das beeindruckende Buch vom historischen Aufstand und dem Widerstand im Warschauer Ghetto. Dahinter verbergen sich jedoch grundsätzliche Fragen, nach welchen Werten wir denn gedenken unser Leben auszurichten.
+In „Jenseits der blauen Grenze“ wird die Flucht zweier Menschen aus der DDR über die Ostsee geschildert. 50 Kilometer Wasser trennen von der Freiheit. Und auf jeder Seite stellt sich dem Leser die Frage nach einem selbstbestimmten Leben.
+In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
+Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, die man am liebsten in Stein meißeln möchte. Wie die Sätze in dem Buch "we all looked up": "Die besten Bücher handeln nicht von Dingen,über die du noch nie nachgedacht hast. Sie handeln von Dingen, über die du schon immer nachgedacht hast, bei denen du aber meintest, keiner sonst würde sich über sie Gedanken machen. Du liest sie und plötzlich bist du ein kleines bisschen weniger allein auf der Welt."
+
+----
+
+Verdict: Also: alle drei Bücher unbedingt lesen!
+
+----
+
+Info: 
+
+----
+
+Angaben: 
+
+- 
+  titel: 28 Tage lang
+  autor: David Safier
+  verlag: Rowohlt TB
+  isbn: 978-3-499-26663-8
+  Cover: 28-tage-lang_david-safier.jpg
+  preis: 9,99
+  alter: ab 13 Jahren
+  cover: 28-tage-lang_david-safier.jpg
+- 
+  titel: Jenseits der blauen Grenze
+  autor: Dorit Linke
+  verlag: Magellan
+  isbn: 978-3-7348-8201-2
+  Cover: >
+    jenseits-der-blauen-grenze_dorit-linke.jpg
+  preis: 8,95
+  alter: ab 14 Jahren
+  cover: >
+    jenseits-der-blauen-grenze_dorit-linke.jpg
+- 
+  titel: We all looked up
+  autor: Tommy Wallach
+  verlag: cbj
+  isbn: 978-3-570-40342-6
+  Cover: we-all-looked-up_tommy-wallach.jpg
+  preis: 12,99
+  alter: ab 12 Jahren
+  cover: we-all-looked-up_tommy-wallach.jpg

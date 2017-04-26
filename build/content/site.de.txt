@@ -1,0 +1,34 @@
+Title: Kinder- und Jugendbuchhandlung Fundevogel in Freiburg
+
+----
+
+Author: 
+
+----
+
+Description: 
+
+----
+
+Copyright: 
+
+----
+
+Mail: info@fundevogel.de
+
+----
+
+Text: 
+
+<p class="lead"> - Kinder- und Jugendbuchhandlung Fundevogel -</p>
+
+- Marienstr. 13 - 79098 Freiburg -
+- Tel.: 0761/25218 - Fax: 0761/30041 -
+
+----
+
+Footer: 
+
+<p class="lead">- Kinder- und Jugendbuchhandlung Fundevogel -</p>
+<p>- Marienstr. 13 - 79098 Freiburg -<br>
+- Tel.: 0761/25218 - Fax: 0761/30041 -</p>

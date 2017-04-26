@@ -1,0 +1,23 @@
+title: Shop
+
+pages: false
+files: false
+
+fields:
+  title:
+    label: Überschrift
+    type: text
+    width: 1/2
+
+  subtitle:
+    label: Zwischenüberschrift
+    type: text
+    width: 1/2
+
+  iframe:
+    label: iFrame-Link
+    type:  text
+
+  handle:
+    type: hidden
+    default: Shop

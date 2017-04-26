@@ -1,0 +1,68 @@
+title: Lesetipps
+
+pages: true
+  template: lesetipp
+  sort: flip
+  num: date
+
+files: true
+  fields:
+    heading:
+      label: Titel
+      type: text
+    desc:
+      label: Beschreibung
+      type: text
+    alt:
+      label: Alternativtext
+      type: text
+
+icon: book
+
+fields:
+  title:
+    label: Überschrift
+    type: text
+    required: true
+    width: 3/4
+
+  perpage:
+    label: Lesetipps / Seite
+    type: number
+    min: 1
+    max: 20
+    default: 5
+    width: 1/4
+
+  intro:
+    label: Einleitung
+    type: textarea
+
+  pdf_spring:
+    label: Frühjahrsempfehlungen
+    type: select
+    width: 1/2
+    options: documents
+
+  pdf_autumn:
+    label: Herbstempfehlungen
+    type: select
+    width: 1/2
+    options: documents
+
+  subtitle:
+    label: Zwischenüberschrift
+    type: text
+
+  info:
+    label: Hint
+    type: info
+    text: >
+      The blog page fetches its subpages and displays them as blog posts.
+      To fill the blog page with content, just hit the <b>Add</b> button
+      to create a new article. Your blog articles will be automatically ordered by
+      date.
+
+  handle:
+    type: hidden
+    default: Lesetipps

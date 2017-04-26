@@ -1,0 +1,46 @@
+title: Netzwerk
+
+pages: false
+files: true
+  fields:
+    desc:
+      label: Bildunterschrift
+      type: text
+    alt:
+      label: Alternativtext (Was ist zu sehen?)
+      type: text
+
+icon: share-alt
+
+fields:
+  title:
+    label: Überschrift
+    type: text
+
+  intro:
+    label: Einleitung
+    type: textarea
+
+  motto:
+    label: Unser Motto
+    type: textarea
+
+  subtitle:
+    label: Überschrift (Netzwerk)
+    type: text
+    width: 1/2
+
+  netzwerk:
+    label: Unser Netzwerk
+    type: structure
+    style: table
+    entry: >
+      {{desc}}
+    fields:
+      desc:
+        label: Beschreibung
+        type: textarea
+
+  handle:
+    type: hidden
+    default: Netzwerk

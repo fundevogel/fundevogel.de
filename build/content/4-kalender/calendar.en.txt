@@ -1,0 +1,33 @@
+Title: Kalender
+
+----
+
+Date: 2017-02-10
+
+----
+
+Text:
+
+##Wir freuen uns auf Sie
+Hier ensteht ein Einleitungstext zu unserem Veranstaltungskalender.
+Mit einem Klick auf diesen Kalender können Sie sämtliche Termine des Fundevogels bequem in Ihren Kalender importieren.
+
+----
+
+Webcal-text: Abonnieren Sie unsere Veranstaltungen!
+
+----
+
+Timezone: Europe/Berlin
+
+----
+
+Subtitle: Alle Veranstaltungen im Überblick
+
+----
+
+Perpage: 1
+
+----
+
+Handle: Calendar

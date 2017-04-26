@@ -1,0 +1,63 @@
+.post-nav {
+  display: table;
+  margin-top: $base-spacing;
+  padding: 0;
+  width: 100%;
+
+  button {
+    box-shadow: $base-box-shadow;
+    line-height: 1.1;
+    width: 100% !important;
+  }
+}
+
+.btn {
+  background-color: $action-color;
+  display: table-cell;
+  opacity: 0.75;
+  padding: 1em 0;
+  transition: opacity $base-duration $base-timing;
+  vertical-align: middle;
+  border-radius: $base-border-radius;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+    color: #fff;
+  }
+
+  &.left {
+    border-radius: $base-border-radius 0 0 $base-border-radius;
+  }
+
+  &.right {
+    border-radius: 0 $base-border-radius $base-border-radius 0;
+  }
+
+  &.is-disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    width: 50%;
+  }
+
+  &--text {
+    font-size: 1.4rem;
+
+    @include min-width(medium) {
+      font-size: 1.8rem;
+    }
+  }
+
+  svg {
+    @include min-width(small) {
+      display: none;
+    }
+
+    @include min-width(medium) {
+      display: inline;
+      position: relative;
+      top: 0.15em;
+      margin: 0 1.25em;
+    }
+  }
+}

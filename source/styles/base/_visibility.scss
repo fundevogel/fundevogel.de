@@ -1,0 +1,37 @@
+.show-small-up {
+  display: none;
+
+  @include min-width(small) {
+    display: inline;
+  }
+}
+
+.show-medium-up {
+  display: none;
+
+  @include min-width(medium) {
+    display: inline;
+  }
+}
+
+.show-large-up {
+  display: none;
+
+  @include min-width(large) {
+    display: inline;
+  }
+}
+
+@include max-width(smallMax) {
+  .hide-on-small {
+    display: none;
+  }
+}
+
+// .screen-reader-text {
+//   position: absolute !important;
+//   width: 1px;
+//   height: 1px;
+//   overflow: hidden;
+//   clip: rect(0px, 0px, 0px, 0px);
+// }

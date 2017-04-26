@@ -1,0 +1,38 @@
+title: Neues aus dem FV
+
+pages: false
+files: true
+  fields:
+    desc:
+      label: Bildunterschrift
+      type: text
+    alt:
+      label: Alternativtext (Was ist zu sehen?)
+      type: text
+
+icon: newspaper-o
+
+fields:
+  title:
+    label: Überschrift
+    type: text
+    width: 3/4
+
+  date:
+    icon: calendar
+    label: Datum
+    type: date
+    format: DD.MM.YYYY
+    placeholder: Wähle ein Datum!
+    default: today
+    required: true
+    width: 1/4
+
+  subtitle:
+    label: Untertitel
+    type: text
+    required: true
+
+  intro:
+    label: Einleitung
+    type:  textarea

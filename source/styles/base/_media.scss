@@ -1,0 +1,28 @@
+img {
+  border-radius: $base-border-radius;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure {
+  border-radius: $base-border-radius;
+  box-shadow: $base-box-shadow;
+  display: inline-block;
+  margin-bottom: 1em;
+
+  a {
+    display: table;
+  }
+}
+
+figcaption {
+  border-radius: 0 0 $base-border-radius $base-border-radius;
+  cursor: default;
+  padding: 0.5rem 0.125rem;
+  text-align: center;
+
+  a & {
+    cursor: pointer;
+  }
+}

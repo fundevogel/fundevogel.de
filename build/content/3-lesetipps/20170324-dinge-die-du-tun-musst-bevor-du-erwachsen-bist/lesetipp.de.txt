@@ -1,0 +1,29 @@
+Title: 101 Dinge, die du tun musst, bevor du erwachsen bist
+
+----
+
+Date: 2017-03-24
+
+----
+
+Intro: Mit diesem Buch wirst Du zum Helden deines Alltags. Hier findest du 101 Ideen und Anregungen, die richtig Spaß bringen. Du kannst deine eigene Eiscreme in nur 10 Minuten machen, dir selbst einen Kompass bauen, zum Wetterpropheten werden, dir deinen eigenen Superhelden erfinden, lernen einen Comic zu zeichen und noch viel mehr coole Sachen.
+
+----
+
+Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.
+
+----
+
+Angaben: 
+
+- 
+  titel: >
+    101 Dinge, die du tun musst, bevor du
+    erwachsen bist
+  autor: Laura Dower
+  verlag: Fischer Meyers
+  isbn: 978-3-7373-7170-4
+  cover: >
+    101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist.jpg
+  preis: 9,99
+  alter: ab 8 Jahren

@@ -1,0 +1,21 @@
+.download {
+  fill: $action-color;
+  transition: $base-duration $base-timing;
+
+  &:hover {
+    fill: shade($action-color, 20%);
+  }
+}
+
+.kalender,
+.vergangene-veranstaltungen {
+
+  .card {
+    margin-bottom: calc(#{$base-spacing} - 13px);
+    text-align: center;
+
+    p {
+      font-size: 0.9rem;
+    }
+  }
+}

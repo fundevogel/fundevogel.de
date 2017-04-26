@@ -1,0 +1,42 @@
+Title: Lesetipps
+
+----
+
+Intro:
+
+## Unsere Empfehlungen
+Hier teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben. Im Archiv findet Ihr noch mehr Lieblingsbücher.
+
+Außerdem sammeln wir jedes Jahr im Herbst und Frühling eine Auswahl der Neuerscheinungen in einer Empfehlungsliste. Die aktuelle Liste bekommt Ihr als PDF durch nebenstehenden Link oder regelmäßig per Mail, wenn Ihr Euch in unseren Verteiler eintragen lasst.
+
+----
+
+About-us:
+
+----
+
+Left:
+
+----
+
+Right:
+
+----
+
+Handle: Recommendations
+
+----
+
+Pdf-spring: buchempfehlungen-fruehjahr-2016.pdf
+
+----
+
+Pdf-autumn: buchempfehlungen-herbst-2016.pdf
+
+----
+
+Perpage: 5
+
+----
+
+Subtitle: Alle Lesetipps im Überblick

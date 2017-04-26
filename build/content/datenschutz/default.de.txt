@@ -1,0 +1,17 @@
+Title: Datenschutz
+
+----
+
+Text: 
+
+##Unsere Datenschutz-Richtlinien
+Wir, die Buchhandlung Fundevogel, Marienstr. 13 in 79098 Freiburg i. Brsg. nehmen den Schutz Ihrer persönlichen Daten ernst und halten uns an die Regeln der Datenschutzgesetze.
+
+Die persönlichen Daten, die auf diesen Seiten erfragt werden, umfassen den Namen, Angaben zum Kontakt sowie Informationen zur Rechnungsstellung und Abwicklung Ihrer Bestellung. Wir speichern und nutzen Ihre persönlichen Daten nur, soweit dies zur Vertragsabwicklung, Leistungserbringung und Abrechnung erforderlich ist.
+
+Für die Aufnahme der Bestelldaten wird eine Verschlüsselungstechnologie angewendet, die den Zugriff unberechtigter Dritter darauf unterbinden und somit die Privatsphäre des Bestsellers vor Mißbrauch schützen sollen. Bei dieser Verschlüsselungstechnologie handelt es sich um die TLS (vormals SSL), ein hybrides Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet. Der Wechsel zum Sicherheitsserver erfolgt mit Klick auf "Kaufen" innerhalb des Warenkorbes und ist in der Browserleiste anhand des https zu erkennen. HTTPS steht für "HyperText Transfer Protocol Secure" und ist ein Verfahren, um Daten abhörsicher im WWW zu übertragen.
+
+---
+
+###Einsatz von Cookies
+Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, verwenden wir auf verschiedenen Seiten sog. Cookies. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät abgelegt werden. Die meisten der von uns verwendeten Cookies werden nach Ende der Browser-Sitzung wieder gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen uns, Ihren Browser beim nächsten Besuch wiederzuerkennen (dauerhafte Cookies). Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden, von Fall zu Fall über die Annahme entscheiden oder die Annahme von Cookies grundsätzlich ausschließen. Bei der Nichtannahme von Cookies kann die Funktionalität unserer Website eingeschränkt sein.

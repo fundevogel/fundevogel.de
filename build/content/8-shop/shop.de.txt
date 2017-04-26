@@ -1,0 +1,17 @@
+Text: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&amp;storeId=63715&amp;langId=-3
+
+----
+
+Handle: Shop
+
+----
+
+Title: Shop
+
+----
+
+Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&amp;storeId=63715&amp;langId=-3
+
+----
+
+Subtitle: Einfach & bequem Bücher bestellen

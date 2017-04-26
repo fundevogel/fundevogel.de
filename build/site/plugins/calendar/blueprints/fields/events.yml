@@ -1,0 +1,43 @@
+label: Calendar
+type: structure
+sort: begin_date
+entry: >
+  <strong>{{summary}}</strong><br>
+  Art der Veranstaltung: {{what}}<br>
+  Veranstaltungsort: {{location}}<br>
+  Beginn: {{begin_date}} - {{begin_time}}<br>
+  Ende: {{end_date}} - {{end_time}}
+fields:
+  summary:
+    label: Name der Veranstaltung
+    type: text
+  description:
+    label: Beschreibung
+    type: textarea
+  what:
+    label: Art der Veranstaltung
+    type: text
+  location:
+    label: Veranstaltungsort
+    type: text
+    required: true
+  begin_date:
+    label: Beginn (Datum)
+    type: date
+    format: DD.MM.YYYY
+    width: 1/2
+  end_date:
+    label: Ende (Datum)
+    type: date
+    format: DD.MM.YYYY
+    width: 1/2
+  begin_time:
+    label: Beginn (Zeit)
+    type: time
+    interval: 15
+    width: 1/2
+  end_time:
+    label: Ende (Zeit)
+    type: time
+    interval: 15
+    width: 1/2

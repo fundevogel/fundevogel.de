@@ -1,0 +1,44 @@
+Title: Externe Veranstaltungen
+
+----
+
+Events: 
+
+- 
+  summary: Café-lecture au Café Marcel
+  description: |
+    Es geht weiter mit der zweiten Café-Lesung, diesmal für die Nachmittagspause! Wie bei der ersten Veranstaltung, gelesen wird auf französisch für Kinder von 3 bis 6.
+    Bitte prüft am Tag der Lesung auf unserer Webseite oder beim (link: http://www.cafemarcel.de/ text: Café Marcel), wo die Lesung stattfindet (bei Regen wird im Fundevogel vorgelesen).
+    
+    Eintritt frei, keine Reservierung notwendig.
+  what: Lesung französischer Kinderbücher
+  location: Café Marcel
+  begin_date: 2017-03-29
+  end_date: ""
+  begin_time: 15:30
+  end_time: ""
+- 
+  summary: 'Büchertisch zum Thema: "Wie entsteht ein Bilderbuch?"'
+  description: |
+    Anlässlich der Sonderausstellung „Todsicher? Letzte Reise ungewiss“ veranschaulicht die Illustratorin und Autorin Kathrin Schärer die Entstehung eines Bilderbuchs anhand des Buches „Der Tod auf dem Apfelbaum“. Auf weitere Buchempfehlungen folgt ein offener Austausch zum Thema Tod im Kinderbuch. Diese Veranstaltung begleiten wir mit einem Büchertisch. Für ErzieherInnen, LehrerInnen und Interessierte.
+    
+    Ort: Museum Natur und Mensch, 2. OG, Gerberau 32, 79098 Freiburg
+    Eintritt 8 Euro inkl. Museumseintritt mit Anmeldung.
+    In Zusammenarbeit u.a. mit dem Literaturbüro Freiburg.
+  begin_date: 2017-06-22
+  begin_time: 16:30
+  end_date: ""
+  end_time: 18:00
+  what: Büchertisch
+  location: Museum Natur und Mensch
+- 
+  summary: >
+    Großes Abschlussfest des
+    LirumLarumLesefests
+  description: 'Ganztägig im Stadttheater Freiburg - Programm und Veranstaltungsdetails folgen'
+  what: LirumLarumLesefest
+  location: Stadttheater Freiburg
+  begin_date: 2016-10-16
+  end_date: ""
+  begin_time: ""
+  end_time: ""

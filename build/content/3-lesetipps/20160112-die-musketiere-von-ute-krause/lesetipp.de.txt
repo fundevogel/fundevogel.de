@@ -1,0 +1,46 @@
+Title: Die Muskeltiere. Einer für alle, alle für einen.
+
+----
+
+Text: Hallo!
+
+----
+
+Cover: die-musketiere_ute-krause.jpg
+
+----
+
+Date: 2016-01-12
+
+----
+
+Intro: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch keine Werbung für französischen Käse. Aber eine kleine Verbindung gibt es wohl. Picandou C. Saint-Albray ist nämlich eine Maus, die im Keller eines Feinkostladens wohnt. Der Glückliche … Er lässt es sich ziemlich gut gehen. Aber dann kommt alles anders und Frau Fröhlich vom Feinkostladen braucht seine Hilfe. Ist es also doch nicht so verkehrt, dass er eine graue Maus – oder ist es vielleicht doch eine Ratte – nach einem Unwetter bei sich aufnimmt?
+
+----
+
+Verdict: Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Schriftsteller Alexandre Dumas? Sie kämpfen gemeinsam gegen die Ungerechtigkeit. Und ähnlich machen das auch Picandou und seine neuen Freunde. Gemeinsam sind sie ziemlich hungrig, immer lustig und einfach unschlagbar!
+
+----
+
+Info: 
+
+----
+
+Author: Ute Krause
+
+----
+
+Angaben: 
+
+- 
+  titel: >
+    Die Muskeltiere. Einer für alle, alle
+    für einen.
+  autor: >
+    Geschrieben und illustriert von Ute
+    Krause
+  verlag: 'cbj Kinder- und Jugendbuch Verlag'
+  isbn: 978-3-570-15903-3
+  cover: die-musketiere_ute-krause.jpg
+  preis: 14,99
+  alter: ""

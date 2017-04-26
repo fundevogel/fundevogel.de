@@ -1,0 +1,37 @@
+Title: Fundevogel
+
+----
+
+Text: YIAH!
+
+----
+
+Intro: 
+
+## Herzlich Willkommen im Fundevogel,
+**der Kinder- und Jugendbuchhandlung für Freiburg und Umgebung!**
+Hier findet Ihr erlesene Schätze der Kinder- und Jugendliteratur, kompetente Beratung und Raum für gemütliches Stöbern. Mehr erfahrt Ihr auf diesen Seiten – oder direkt bei uns im Buchladen!
+
+----
+
+Handle: Willkommen!
+
+----
+
+Perpage: 
+
+----
+
+Subtitle: Neues aus dem Fundevogel
+
+----
+
+Offset: 5
+
+----
+
+Limit: 15
+
+----
+
+Button: Frühere Neuigkeiten

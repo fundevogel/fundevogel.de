@@ -1,0 +1,57 @@
+//
+// Figures
+//
+
+.fig {
+
+  img {
+    position: relative;
+    border-radius: $base-border-radius $base-border-radius 0 0;
+    transition: all $base-duration $base-timing;
+  }
+
+  &.has-hover {
+    position: relative;
+    overflow: hidden;
+
+    figcaption {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      font-size: 2rem;
+      opacity: 0;
+      transform: translate3d(0, 100%, 0);
+      backface-visibility: hidden;
+      transition: transform 0.4s, opacity 0.1s ease 0.3s;
+    }
+
+    @include min-width(600) {
+
+      &:hover,
+      &:focus {
+
+        img {
+          // transform: translate3d(0, -35px, 0);
+          opacity: 0.75 !important;
+        }
+
+        figcaption {
+          opacity: 1;
+          transform: translate3d(0, 0, 0);
+          transition: transform 0.35s, opacity 0.1s;
+        }
+      }
+    }
+  }
+}
+
+.caption {
+  display: block;
+
+  span {
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-left: 4px;
+  }
+}

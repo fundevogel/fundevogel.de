@@ -1,0 +1,26 @@
+*.log
+node_modules
+workbench
+workbench
+build/assets
+
+
+# Temporary files
+# ---------------
+
+build/thumbs/*
+!build/thumbs/index.html
+
+build/site/cache/*
+!build/site/cache/index.html
+
+
+# -------------SECURITY-------------
+# NEVER publish these files via Git!
+# -------------SECURITY-------------
+
+# Kirby accounts
+# ---------------
+
+build/site/accounts/*
+!build/site/accounts/index.html

@@ -1,0 +1,79 @@
+Title: Im Fundevogel
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Zu Gast der Künstler, Autor und
+    Illustrator Mehrdad Zaeri
+  description: |
+    **Prinzessin Sharifa und der mutige Walter** und **Ein großer Freund**: Diese beiden Bücher wird uns Mehrdad Zaeri an diesem Nachmittag mit in den FUNDEVOGEL bringen.
+    Prinzessin Sharifa und der mutige Walter erzählt zwei alte Geschichten neu, aus zwei Kulturräumen, auf arabisch und auf deutsch. Beide sprechen eine universelle Sprache und handeln von Mut zum Widerstand und von freier Meinungsäußerung.
+    Ein großer Freund ist eine humorvolle Parabel über den Umgang mit Unterschiedlichkeiten.
+    
+    Zaeris Veranstaltungen zeichnen sich dadurch aus, dass der Künstler während der Lesungen live zeichnet - ein besonderes Erlebnis - für Menschen ab 6 Jahren.
+    
+    **Eintritt frei, wir bitten jedoch um eine kurze Anmeldung per Mail, Fax, Telefon oder direkt bei uns im Fundevogel, wenn ihr diese Veranstaltung besuchen möchtet.**
+    
+    Inhaltsbeschreibung - **Prinzessin Sharifa und der mutige Walter**
+    Die unerschrockene Sharifa will sich das Land ohne Frauen ansehen. Denn der im Nachbarreich regierende König Hamed bin Bathara hat aus Zorn alle Frauen, außer seiner Mutter, aus dem Land verbannt. Sharifa verkleidet sich und besucht als Prinz Sharif unter Lebensgefahr das Reich der Männer. Der König aber misstraut dem schönen Besucher. Mit drei Aufgaben versucht er, seinem Gast auf die Schliche zu kommen. Mutig und klug weiß sich Sharifa zu helfen. Die Legende von Wilhelm Tell wiederum ist uns bekannt. Was aber passiert, wenn der europäische Urstoff zum Thema Mut und Freiheit heute in Ägypten gelesen und interpretiert wird? Da verschieben sich die Gewichte und der Sohn Walter ruckt ins Zentrum. Der aus dem Iran stammende Illustrator Mehrdad Zaeri hat die beiden Neufassungen illustriert. Daraus ist ein Kinderbuch entstanden, das spielend kulturelle Grenzen uberwindet und uns alte Geschichten neu sehen lässt. Ein symbolhafter Bilderreigen voller Schalk und Poesie.
+    *Quelle: KNV*
+    
+    Inhaltsbeschreibung - **Der große Freund**
+    Eines Tages kam der kleine Rabe nach Hause geflogen und berichtete glücklich: „Mama, endlich habe ich einen Freund gefunden! Sieh mal, er steht gerade vor unserem Nest.“ Die Rabenmutter kann es nicht fassen, ausgerechnet ein Elefant!.Das kann nicht gut gehen!
+    Das Rabenmädchen aber ist erstaunt über die Sorgen der Mutter. Der Größenunterschied? Das ist allein eine Frage der Perspektive. Einen Streit? Nein, den wird es nicht geben. Und dass es der Elefantensprache nicht mächtig ist, kann nicht wirklich ein Problem sein: es gibt tausend Arten, miteinander zu kommunizieren.
+    Der Dialog zwischen der besorgten Rabenmutter und dem scharfsinnigen Rabenmädchen ist herzerwärmend. Bei allem Verständnis für die mütterlichen Ängste: die kindliche Unvoreingenommenheit ist unübertrefflich.
+    Der iranische Autor Babak Saberi und der Illustrator Mehrdad Zaeri haben für dieses Buch erstmals zusammengefunden. Mit Feder und Zeichenstift gelingt ihnen das, was man versucht ist, Herzensbildung zu nennen.
+    *Quelle: KNV*
+  what: Autorentreff
+  location: Fundevogel
+  begin_date: 2016-10-15
+  end_date: ""
+  begin_time: 15:00
+  end_time: ""
+- 
+  summary: HerbstLESE im Fundevogel
+  description: |
+    Präsentation und Vorstellung ausgewählter Neuerscheinungen
+    
+    Dieser Abend besitzt im Fundevogel bereits Tradition und ist ganz den Neuerscheinungen des Bücherherbstes aus dem Bereich der Kinder- und Jugendliteratur gewidmet.
+    
+    Aus der Vielzahl der Neuheiten haben wir für Sie eine Auswahl von empfehlenswerten Titeln getroffen, um sie Ihnen in gemütlicher Atmosphäre bei Sekt und Selters, Wein, Saft und Brezeln persönlich vorzustellen. So möchten wir Ihnen einen individuell geprägten Überblick über die Neuheiten dieses Herbstes 2016 geben. Lassen Sie sich von uns in die Welt der Bücher entführen.
+    
+    Sie sind herzlich eingeladen!
+    
+    **Der Eintritt ist frei. Wir bitten um vorherige Anmeldung**
+  what: Vorstellung von Neuerscheinungen
+  location: Fundevogel
+  begin_date: 2016-11-12
+  end_date: ""
+  begin_time: 19:00
+  end_time: ""
+- 
+  summary: >
+    Musikalische Feier zur Erweiterung
+    unseres Sortiments
+  description: |
+    Am 11. März, 18 Uhr feiern wir bei uns im Fundevogel die Erweiterung unseres Sortiments um französische Bücher.
+    Die Präsentation unserer kleinen französischen Ecke wird mit Liedern von Boris Vian live begleitet.
+    Wenn Sie möchten, dürfen Sie gerne auch die Klassiker der Chanson francaise mitsingen! Kommen Sie und feiern Sie mit!
+  begin_date: 2017-03-11
+  begin_time: 18:00
+  end_date: ""
+  end_time: ""
+  location: Fundevogel
+  what: Feier mit Livemusik
+- 
+  summary: Weltgeschichtentag im Fundevogel
+  description: |
+    Zum zweiten Mal findet in Freiburg der große Weltgeschichtentag statt. An diesem Tag werden in verschiedenen Sprachen, mit Gebärden oder auch ganz ohne Sprache an verschiedenen Orten der Freiburg Altstadt Geschichten erzählt. Wir freuen uns auch dieses Jahr wieder dabei sein zu dürfen!
+    
+    Ab 12 Uhr werden Flüchtlinge verschiedener Nationalitäten im Fundevogel kurze Geschichten aus ihren Ländern erzählen. Genauere Informationen zum Weltgeschichtentag werden wir demnächst an dieser Stelle veröffentlichen.
+  begin_date: 2017-03-01
+  begin_time: 12:00
+  end_date: ""
+  end_time: ""
+  location: Fundevogel
+  what: Lesungen

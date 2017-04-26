@@ -1,0 +1,17 @@
+//
+// Slick-Carousel
+//
+
+.slideshow {
+  margin-bottom: 1em;
+}
+
+.fig--slick-slider {
+  display: inline-block;
+  max-width: 460px;
+  width: 100%;
+
+  figcaption {
+    cursor: pointer;
+  }
+}

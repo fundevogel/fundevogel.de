@@ -1,0 +1,36 @@
+.unsere-agb,
+.datenschutz,
+.widerruf {
+
+  .site-content {
+
+    h3 {
+      margin-bottom: 0.5em;
+      text-align: center;
+    }
+
+    p {
+      margin-bottom: 1.25em;
+    }
+  }
+}
+
+.teaser {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.list {
+
+  h2 {
+    margin-bottom: $base-spacing;
+  }
+
+  hr {
+    max-width: 480px;
+
+    @include min-width(large) {
+      max-width: 620px;
+    }
+  }
+}

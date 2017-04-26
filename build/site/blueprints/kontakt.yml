@@ -1,0 +1,51 @@
+title: Kontakt
+
+pages: false
+files: true
+  fields:
+    desc:
+      label: Bildunterschrift
+      type: text
+    alt:
+      label: Alternativtext (Was ist zu sehen?)
+      type: text
+
+icon: envelope
+
+fields:
+  title:
+    label: Überschrift
+    type: text
+
+  subtitle:
+    label: Zwischenüberschrift (Anfahrtmöglichkeiten)
+    type: text
+
+  bike:
+    label: Anfahrt mit Fahrrad
+    type: textarea
+    width: 1/3
+
+  auto:
+    label: Anfahrt mit Auto
+    type: textarea
+    width: 1/3
+
+  tram:
+    label: Anfahrt mit Tram
+    type: textarea
+    width: 1/3
+
+  kontaktinfos:
+    label: Kontaktinformationen
+    type: textarea
+    width: 1/2
+
+  oeffnungszeiten:
+    label: Öffnungszeiten
+    type: textarea
+    width: 1/2
+
+  handle:
+    type: hidden
+    default: Kontakt

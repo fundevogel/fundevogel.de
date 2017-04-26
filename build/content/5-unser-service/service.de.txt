@@ -1,0 +1,43 @@
+Title: Unser Service
+
+----
+
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
+
+----
+
+Intro:
+
+##Hereinspaziert!
+Schaut Euch um, mit Muße und Neugier. Steckt genüsslich die Nasen zwischen die Buchseiten. Sucht Euch Abenteuer und Geborgenheit. Und wenn Ihr den Wald vor lauter Büchern nicht mehr seht, dürft Ihr Euch gerne mit all Euren Fragen an uns wenden.
+
+----
+
+Motto:
+
+----
+
+Subtitle: Was wir sonst noch haben & können:
+
+----
+
+Services:
+
+-
+  desc: 'Eine **fachkundige Beratung** (wenn gewünscht), die sich an Euren persönlichen Interessen und Bedürfnissen orientiert.'
+-
+  desc: '**Vielfältige Veranstaltungen** im Rahmen von Leseförderung und -forderung. Alljährliche Fixpunkte sind unsere Veranstaltungen rund um den Welttag des Buches, sowie die Autorenlesungen im Rahmen des **Lirum Larum Lesefestes** und unsere beliebte **„Bücherlese“** im Herbst, bei der wir unsere liebsten Neuerscheinungen des Herbstes bei einem gemütlichen Abend in den Räumlichkeiten des Fundevogels vorstellen. **Informationen** zu diesen und weiteren Veranstaltungen findet Ihr im (link: /kalender/ text: Kalender).'
+-
+  desc: '**Schnelle Bestellung** aller lieferbarer Titel, übrigens auch außerhalb des Kinder- und Jugendbuchsortiments. Das geht bei uns im Laden, (email: info@fundevogel.de text: per Mail) oder Telefon oder (link: /shop/ text: gleich hier).'
+-
+  desc: '**Buchausstellungen und Büchertische** in Einrichtungen bzw. auf Veranstaltungen. Gerne stellen wir Ihnen eine **individuelle Buchauswahl** zusammen. Bitte nehmt **rechtzeitig Kontakt** mit uns auf, damit wir den Rahmen gemeinsam festlegen und eine für Euch passende Buchauswahl treffen können.'
+-
+  desc: 'Gründlich recherchierte **Literaturlisten** zu individuellen Themen. Setzt Euch bei Bedarf einfach mit uns (email: info@fundevogel.de text: in Verbindung).'
+-
+  desc: 'Besuche von **Schulklassen, Kindergartengruppen** etc. im Fundevogel. Bitte meldet einen Besuch als Klasse bzw. Gruppe frühzeitig an. So können wir uns darauf vorbereiten und auf Eure Wünsche eingehen.'
+-
+  desc: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
+
+----
+
+Handle: Service
