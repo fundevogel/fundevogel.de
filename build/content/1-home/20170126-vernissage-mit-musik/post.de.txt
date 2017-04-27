@@ -10,4 +10,4 @@ Subtitle: Einweihung unseres neuen Sortiments
 
 ----
 
-Intro: Sie sind am **11. März, 18 Uhr** herzlich bei uns im Fundevogel eingeladen, um die Erweiterung unseres Sortiments um französische Bücher mit Musik zu feiern. Die Präsentation unserer kleinen französischen Ecke wird mit Liedern von Boris Vian live begleitet. Wenn Sie möchten, dürfen Sie gerne auch die Klassiker der Chanson francaise mitsingen. Der Eintritt ist frei, die Liedtexte vor Ort. Kommen Sie und feiern Sie mit!
+Text: Sie sind am **11. März, 18 Uhr** herzlich bei uns im Fundevogel eingeladen, um die Erweiterung unseres Sortiments um französische Bücher mit Musik zu feiern. Die Präsentation unserer kleinen französischen Ecke wird mit Liedern von Boris Vian live begleitet. Wenn Sie möchten, dürfen Sie gerne auch die Klassiker der Chanson francaise mitsingen. Der Eintritt ist frei, die Liedtexte vor Ort. Kommen Sie und feiern Sie mit!

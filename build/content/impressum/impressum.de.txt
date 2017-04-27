@@ -33,3 +33,11 @@ BIC GENO DE 61 FR 1
 Handelsregisternummer: Nicht benötigt
 Umsatzsteuer-ID: DE 142035994
 Steuernummer: 06112/49132 - Finanzamt Freiburg-Stadt
+
+----
+
+Seo: 
+
+-
+  seo-title: "Impressum"
+  seo-description: "Kinder- und Jugendbuchhandlung Fundevogel für Freiburg und Umgebung | Marienstraße 13, 79098 Freiburg | Telefon: 0761 / 25218 | E-Mail: info@fundevogel.de"

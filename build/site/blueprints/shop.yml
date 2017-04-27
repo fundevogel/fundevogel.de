@@ -8,15 +8,14 @@ fields:
     label: Überschrift
     type: text
     width: 1/2
-
   subtitle:
     label: Zwischenüberschrift
     type: text
     width: 1/2
-
   iframe:
     label: iFrame-Link
     type:  text
+  seo: seo
 
   handle:
     type: hidden

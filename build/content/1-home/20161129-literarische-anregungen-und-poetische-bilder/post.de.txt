@@ -10,4 +10,4 @@ Subtitle: Literarischer Weihnachtskalender
 
 ----
 
-Intro: Hinter jedem Türchen unseres Fensters begleitet Sie Tag für Tag ein Bild, ein Gedicht oder ein kurzer Text durch die Adventszeit.
+Text: Hinter jedem Türchen unseres Fensters begleitet Sie Tag für Tag ein Bild, ein Gedicht oder ein kurzer Text durch die Adventszeit.

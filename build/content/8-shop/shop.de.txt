@@ -6,7 +6,7 @@ Handle: Shop
 
 ----
 
-Title: Shop
+Title: Unser Shop
 
 ----
 
@@ -15,3 +15,11 @@ Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStor
 ----
 
 Subtitle: Einfach & bequem Bücher bestellen
+
+----
+
+Seo: 
+
+-
+  seo-title: "Unser Shop"
+  seo-description: "Über unseren Online-Shop könnt Ihr einfach und bequem Bücher bestellen und sie anschließend pünktlich bei uns abholen - wir freuen uns auf euch!"

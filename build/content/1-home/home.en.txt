@@ -6,7 +6,7 @@ Text: YIAH!
 
 ----
 
-Intro: 
+Text: 
 
 ## Welcome to Fundevogel,
 **the bookstore for children and adolescents in Freiburg!**

@@ -27,12 +27,12 @@ fields:
     default: today
     required: true
     width: 1/4
-
   subtitle:
     label: Untertitel
     type: text
     required: true
-
-  intro:
-    label: Einleitung
+  text:
+    label: Text
     type:  textarea
+
+  seo: seo

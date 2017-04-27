@@ -22,26 +22,23 @@ fields:
     type: text
     required: true
     width: 3/4
-
   limit:
     label: Einträge / Seite
     type: number
     min: 1
     width: 1/4
-
-  intro:
+  text:
     label: Intro
     type:  textarea
-
   subtitle:
     label: Zwischenüberschrift
     type: text
     width: 3/4
-
   button:
     label: Button-Text
     type: text
     width: 1/4
+  seo: seo
 
   handle:
     type: hidden

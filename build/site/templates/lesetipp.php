@@ -4,7 +4,7 @@
   <header>
     <time datetime="<?= $page->date('Y-m-d') ?>"><?= $page->date('d.m.Y') ?></time>
     <h2><?= $page->title()->html() ?></h2>
-    <?= $page->intro()->kirbytext() ?>
+    <?= $page->text()->kirbytext() ?>
   </header>
   <hr>
   <?php $lesetipps = $page->angaben()->toStructure(); ?>

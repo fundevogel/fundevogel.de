@@ -7,3 +7,6 @@
 [submodule "build/site/plugins/fingerprint"]
 	path = build/site/plugins/fingerprint
 	url = https://github.com/iksi/KirbyFingerprint.git
+[submodule "build/site/plugins/seo"]
+	path = build/site/plugins/seo
+	url = https://github.com/jenstornell/kirby-seo.git

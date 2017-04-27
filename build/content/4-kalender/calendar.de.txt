@@ -1,4 +1,4 @@
-Title: Kalender
+Title: Veranstaltungen
 
 ----
 
@@ -26,7 +26,7 @@ Subtitle: Alle Veranstaltungen im Überblick
 
 ----
 
-Perpage: 2
+Perpage: 5
 
 ----
 
@@ -35,3 +35,11 @@ Handle: Kalender
 ----
 
 Button: Frühere Veranstaltungen
+
+----
+
+Seo: 
+
+-
+  seo-title: "Veranstaltungskalender"
+  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"

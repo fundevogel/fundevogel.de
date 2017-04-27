@@ -17,29 +17,25 @@ fields:
     label: Überschrift
     type: text
     width: 1/2
-
   caption:
     label: Bildunterschrift
     type: text
     width: 1/2
-
   fundevogel:
     label: Fundevogel
     type: textarea
-
   about_us:
     label: Über uns
     type: textarea
-
   left:
     label: Lieber barfuß als ohne Buch
     type: textarea
     width: 1/2
-
   right:
     label: Bücher öffnen Welten
     type: textarea
     width: 1/2
+  seo: seo
 
   handle:
     type: hidden

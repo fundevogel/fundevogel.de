@@ -23,17 +23,15 @@ fields:
     label: Überschrift
     type: text
     required: true
-
-  intro:
-    label: Einleitung
+  text:
+    label: Text
     type: textarea
-
   subtitle:
     label: Zwischenüberschrift
     type: text
     width: 3/4
-
   button:
     label: Button-Text
     type: text
     width: 1/4
+  seo: seo

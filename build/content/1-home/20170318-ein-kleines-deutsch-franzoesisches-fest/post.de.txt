@@ -10,4 +10,4 @@ Subtitle: Les copains d'abord
 
 ----
 
-Intro: In einer schönen, musikalischen Atmosphäre wurde am Samstag, dem 11. März die kleine Abteilung mit Büchern auf französisch eröffnet. Viele Interessierte sind gekommen und hatten eine große Freude bei dieser fröhlichen, deutsch-französischen Feier!
+Text: In einer schönen, musikalischen Atmosphäre wurde am Samstag, dem 11. März die kleine Abteilung mit Büchern auf französisch eröffnet. Viele Interessierte sind gekommen und hatten eine große Freude bei dieser fröhlichen, deutsch-französischen Feier!

@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <section class="wrap">
-  <?= $page->intro()->kirbytext() ?>
+  <?= $page->text()->kirbytext() ?>
   <figure class="fig has-hover">
     <?php
       $image = $page->image();

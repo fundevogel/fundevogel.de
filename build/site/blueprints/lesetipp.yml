@@ -17,22 +17,18 @@ fields:
     label: Überschrift
     type: text
     width: 3/4
-
   date:
     label: Datum
     type: date
     format: DD.MM.YYYY
     default: today
     width: 1/4
-
-  intro:
-    label: Einleitung
+  text:
+    label: Text
     type:  textarea
-
   verdict:
     label: Einschätzung
     type:  textarea
-
   angaben:
     label: Bibliographische Angaben
     type: structure
@@ -69,3 +65,4 @@ fields:
         label: Altersempfehlung
         type: text
         width: 2/3
+  seo: seo

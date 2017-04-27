@@ -3,7 +3,7 @@
 <header>
   <div class="wrap">
     <div class="one-half--wide">
-      <?= $page->intro()->kirbytext() ?>
+      <?= $page->text()->kirbytext() ?>
     </div>
     <div class="one-half--wide teaser">
       <p class="motto large-down">

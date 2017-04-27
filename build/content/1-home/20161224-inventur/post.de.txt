@@ -10,4 +10,4 @@ Subtitle: Achtung:
 
 ----
 
-Intro: Am Samstag, dem 7. Januar wird das ganze Team zwar im Laden sein ... wir haben aber den ganzen Tag zu!
+Text: Am Samstag, dem 7. Januar wird das ganze Team zwar im Laden sein ... wir haben aber den ganzen Tag zu!

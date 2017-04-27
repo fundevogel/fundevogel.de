@@ -14,7 +14,7 @@ Date: 2016-01-12
 
 ----
 
-Intro: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch keine Werbung für französischen Käse. Aber eine kleine Verbindung gibt es wohl. Picandou C. Saint-Albray ist nämlich eine Maus, die im Keller eines Feinkostladens wohnt. Der Glückliche … Er lässt es sich ziemlich gut gehen. Aber dann kommt alles anders und Frau Fröhlich vom Feinkostladen braucht seine Hilfe. Ist es also doch nicht so verkehrt, dass er eine graue Maus – oder ist es vielleicht doch eine Ratte – nach einem Unwetter bei sich aufnimmt?
+Text: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch keine Werbung für französischen Käse. Aber eine kleine Verbindung gibt es wohl. Picandou C. Saint-Albray ist nämlich eine Maus, die im Keller eines Feinkostladens wohnt. Der Glückliche … Er lässt es sich ziemlich gut gehen. Aber dann kommt alles anders und Frau Fröhlich vom Feinkostladen braucht seine Hilfe. Ist es also doch nicht so verkehrt, dass er eine graue Maus – oder ist es vielleicht doch eine Ratte – nach einem Unwetter bei sich aufnimmt?
 
 ----
 
@@ -22,7 +22,7 @@ Verdict: Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Sch
 
 ----
 
-Info: 
+Info:
 
 ----
 
@@ -30,9 +30,9 @@ Author: Ute Krause
 
 ----
 
-Angaben: 
+Angaben:
 
-- 
+-
   titel: >
     Die Muskeltiere. Einer für alle, alle
     für einen.

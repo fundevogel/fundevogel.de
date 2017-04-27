@@ -14,7 +14,7 @@ Date: 2016-04-18
 
 ----
 
-Intro:
+Text:
 
 Mag Wildcat ist ihr Bandenname.
 

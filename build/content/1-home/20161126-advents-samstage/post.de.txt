@@ -10,4 +10,4 @@ Subtitle: Öffnungszeiten
 
 ----
 
-Intro: Wir haben die nächsten vier Samstage bis 18Uhr für Sie geöffnet!
+Text: Wir haben die nächsten vier Samstage bis 18Uhr für Sie geöffnet!

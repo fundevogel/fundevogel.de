@@ -16,20 +16,16 @@ fields:
   title:
     label: Überschrift
     type: text
-
-  intro:
-    label: Einleitung
+  text:
+    label: Text
     type: textarea
-
   motto:
     label: Unser Motto
     type: textarea
-
   subtitle:
     label: Überschrift (Netzwerk)
     type: text
     width: 1/2
-
   netzwerk:
     label: Unser Netzwerk
     type: structure
@@ -40,6 +36,7 @@ fields:
       desc:
         label: Beschreibung
         type: textarea
+  seo: seo
 
   handle:
     type: hidden

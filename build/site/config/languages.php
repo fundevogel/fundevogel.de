@@ -23,3 +23,5 @@ c::set('languages', array(
     'locale'  => 'en_US',
   ),
 ));
+
+c::set('language.detect', true);

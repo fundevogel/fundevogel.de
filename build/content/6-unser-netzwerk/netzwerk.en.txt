@@ -6,7 +6,7 @@ Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen!
 
 ----
 
-Intro:
+Text:
 
 ## In guter Gesellschaft
 > „Es ist nicht gut, dass der Mensch alleine sei, und besonders nicht, dass er alleine arbeite; vielmehr bedarf er der Teilnahme und Anregung, wenn etwas gelingen soll.“

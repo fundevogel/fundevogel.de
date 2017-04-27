@@ -36,3 +36,11 @@ Oeffnungszeiten:
 ###Öffnungszeiten
 Montag bis Freitag: 9:00–18:30 Uhr
 Samstag: 9:00–16:00 Uhr
+
+----
+
+Seo: 
+
+-
+  seo-title: "Kontakt"
+  seo-description: "Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218."

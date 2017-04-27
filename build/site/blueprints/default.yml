@@ -8,7 +8,7 @@ fields:
     label: Title
     type:  text
     required: true
-
   text:
     label: Text
     type:  textarea
+  seo: seo

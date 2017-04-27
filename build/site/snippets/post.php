@@ -17,14 +17,14 @@
     <div class="two-thirds">
       <time datetime="<?= $post->date('Y-m-d') ?>"><?= $post->date('d.m.Y') ?></time><span class="subtitle"> - <?= $post->subtitle()->html() ?></span>
       <h3><?= $post->title()->html() ?></h3>
-      <?= $post->intro()->kirbytext() ?>
+      <?= $post->text()->kirbytext() ?>
     </div>
 
   <?php else : ?>
 
     <time datetime="<?= $post->date('Y-m-d') ?>"><?= $post->date('d.m.Y') ?></time><span class="subtitle"> - <?= $post->subtitle()->html() ?></span>
     <h3><?= $post->title()->html() ?></h3>
-    <?= $post->intro()->kirbytext() ?>
+    <?= $post->text()->kirbytext() ?>
     <div class="image-area">
       <?php $images = $post->images(); foreach ($images as $img) : ?>
         <?php $crop = $img->crop(180); ?>

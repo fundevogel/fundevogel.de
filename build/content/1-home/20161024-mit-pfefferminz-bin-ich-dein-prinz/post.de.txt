@@ -6,7 +6,7 @@ Date: 2016-10-24
 
 ----
 
-Intro: 
+Text: 
 
 **Eine besondere Lieferung**
 Heute Morgen im Fundevogel. Ein großes, schweres Paket. Wir öffneten es, in der festen Überzeugung, eine Lieferung Weihnachtsbücher vorzufinden ...

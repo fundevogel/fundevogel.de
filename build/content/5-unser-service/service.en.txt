@@ -6,7 +6,7 @@ Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
 
 ----
 
-Intro: 
+Text: 
 
 ##Hereinspaziert!
 Schaut Euch um, mit Muße und Neugier. Steckt genüsslich die Nasen zwischen die Buchseiten. Sucht Euch Abenteuer und Geborgenheit. Und wenn Ihr den Wald vor lauter Büchern nicht mehr seht, dürft Ihr Euch gerne mit all Euren Fragen an uns wenden.

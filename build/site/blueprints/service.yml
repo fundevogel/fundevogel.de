@@ -16,15 +16,12 @@ fields:
   title:
     label: Überschrift
     type: text
-
-  intro:
-    label: Einleitung
+  text:
+    label: Text
     type: textarea
-
   subtitle:
     label: Überschrift (Services)
     type: text
-
   services:
     label: Unsere Services
     type: structure
@@ -35,6 +32,7 @@ fields:
       desc:
         label: Beschreibung
         type: textarea
+  seo: seo
 
   handle:
     type: hidden

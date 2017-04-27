@@ -42,3 +42,4 @@ fields:
     required: true
     help: >
       Enter a valid <a href="/calendar/timezones" title="Calendar Timezones" target="timezones">DateTimeZone ID</a>.
+  seo: seo

@@ -14,7 +14,7 @@ Date: 2016-10-23
 
 ----
 
-Intro: Mit Dr. Kroch, einem typischen Wissenschaftler und seinem Assistenten Valet, werden wir in eine überaus spannende Geschichte förmlich hineingezogen. Dr Kroch behandelt Patienten und forscht intensiv in seinem Labor. Von einem Patienten wird er per Brief an einen unbestimmten Ort gebeten, in der Hoffnung, dass ihn der Doktor von seinem Goldfieber erlösen kann. Kroch und Valet begeben sich auf die Suche nach diesem geheimnisvollen Ort.
+Text: Mit Dr. Kroch, einem typischen Wissenschaftler und seinem Assistenten Valet, werden wir in eine überaus spannende Geschichte förmlich hineingezogen. Dr Kroch behandelt Patienten und forscht intensiv in seinem Labor. Von einem Patienten wird er per Brief an einen unbestimmten Ort gebeten, in der Hoffnung, dass ihn der Doktor von seinem Goldfieber erlösen kann. Kroch und Valet begeben sich auf die Suche nach diesem geheimnisvollen Ort.
 
 ----
 

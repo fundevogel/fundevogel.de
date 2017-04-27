@@ -15,3 +15,11 @@ Für die Aufnahme der Bestelldaten wird eine Verschlüsselungstechnologie angewe
 
 ###Einsatz von Cookies
 Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, verwenden wir auf verschiedenen Seiten sog. Cookies. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät abgelegt werden. Die meisten der von uns verwendeten Cookies werden nach Ende der Browser-Sitzung wieder gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen uns, Ihren Browser beim nächsten Besuch wiederzuerkennen (dauerhafte Cookies). Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden, von Fall zu Fall über die Annahme entscheiden oder die Annahme von Cookies grundsätzlich ausschließen. Bei der Nichtannahme von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
+
+----
+
+Seo: 
+
+-
+  seo-title: "Datenschutz"
+  seo-description: "Wir nehmen den Schutz Ihrer persönlichen Daten ernst ... aber mal ehrlich: wer schon keine Daten erhebt, muss sich um ihren Verbleib nicht sorgen!"

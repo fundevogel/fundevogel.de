@@ -1,1 +1,13 @@
 Title: Error
+
+----
+
+Text: Das kam so plötzlich, wir wissen auch noch nicht, wohin solch etwas führen kann - wir kümmern uns darum: besuche einige Seiten und komm später noch einmal vorbei!
+
+----
+
+Seo: 
+
+-
+  seo-title: "Error"
+  seo-description: "Das kam so plötzlich, wir wissen auch noch nicht, wohin solch etwas führen kann - wir kümmern uns darum: besuche einige Seiten und komm später wieder!"

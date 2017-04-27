@@ -4,7 +4,7 @@
 
 <header class="wrap">
   <div class="one-half--wide">
-    <?= $page->intro()->kirbytext() ?>
+    <?= $page->text()->kirbytext() ?>
   </div>
   <div class="one-half--wide recommendations center">
     <?php
@@ -55,7 +55,7 @@
             <a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a>
           </h3>
           <p>
-            <?= $lesetipp->intro()->kirbytext()->excerpt(40, 'words') ?>
+            <?= $lesetipp->text()->kirbytext()->excerpt(40, 'words') ?>
             <a href="<?= $lesetipp->url() ?>">&rarr; Weiterlesen</a>
           </p>
         </div>
@@ -67,7 +67,7 @@
           <a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a>
         </h3>
         <p>
-          <?= $lesetipp->intro()->kirbytext()->excerpt(40, 'words') ?>
+          <?= $lesetipp->text()->kirbytext()->excerpt(40, 'words') ?>
           <a href="<?= $lesetipp->url() ?>">&rarr; Weiterlesen</a>
         </p>
         <div class="image-area">

@@ -6,7 +6,7 @@ Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen!
 
 ----
 
-Intro: 
+Text: 
 
 ## In guter Gesellschaft
 > „Es ist nicht gut, dass der Mensch alleine sei, und besonders nicht, dass er alleine arbeite; vielmehr bedarf er der Teilnahme und Anregung, wenn etwas gelingen soll.“
@@ -61,3 +61,11 @@ Motto: Das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und
 ----
 
 Subtitle: Unsere Kooperationspartner
+
+----
+
+Seo: 
+
+-
+  seo-title: "Unser Netzwerk"
+  seo-description: "Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden."

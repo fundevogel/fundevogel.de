@@ -17,9 +17,13 @@ module.exports = {
   styles: {
     prefix: [
       // For more browsers, see https://github.com/ai/browserslist
+      'last 2 version',
       '> 1%',
-      'last 3 versions',
-      'IE >= 9',
+      'Edge >= 12',
+      'Explorer >= 8',
+      'Firefox 3.6',
+      'Firefox ESR',
+      'Opera 12.1',
     ],
     include: [
       // 'node_modules',
