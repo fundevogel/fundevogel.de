@@ -18,10 +18,8 @@
         </nav>
       </div>
     </footer>
-    <a data-scroll id="js-back-to-top" class="back-to-top show-medium-up" href="#">
-      <?= (new Asset("assets/images/arrow-up.svg"))->content() ?>
-    </a>
 
-    <?= js('assets/scripts/main.js') ?>
+    <?php snippet('foot'); ?>
+
   </body>
 </html>

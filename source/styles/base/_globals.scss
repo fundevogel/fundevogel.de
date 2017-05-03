@@ -22,12 +22,3 @@ body {
   display: flex;
   flex-direction: column;
 }
-
-[data-jslghtbx] {
-  cursor: pointer;
-  transition: box-shadow $base-duration $base-timing;
-
-  &:hover {
-    box-shadow: $hover-box-shadow;
-  }
-}
