@@ -11,7 +11,9 @@
             $crop = $image->resize(250);
           }
          ?>
-        <img src="<?= $crop->url() ?>" data-jslghtbx="<?= $image->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+        <a href="<?= $image->url() ?>" data-fancybox data-caption="<?= $image->desc()->html() ?>">
+          <img src="<?= $crop->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+        </a>
       </figure>
     </div>
     <div class="two-thirds">
@@ -29,7 +31,9 @@
       <?php $images = $post->images(); foreach ($images as $img) : ?>
         <?php $crop = $img->crop(180); ?>
         <figure>
-          <img src="<?= $crop->url() ?>" data-jslghtbx="<?= $img->url() ?>" title="<?= $img->desc()->html() ?>" alt="<?= $img->alt()->html() ?>" data-jslghtbx-group="<?= $post->slug() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+          <a href="<?= $img->url() ?>" data-fancybox="<?= $post->slug() ?>" data-caption="<?= $img->desc()->html() ?>">
+            <img src="<?= $crop->url() ?>" title="<?= $img->desc()->html() ?>" alt="<?= $img->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+          </a>
         </figure>
       <?php endforeach ?>
     </div>
