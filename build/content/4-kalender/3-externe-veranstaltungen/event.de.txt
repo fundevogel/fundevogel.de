@@ -5,6 +5,17 @@ Title: Externe Veranstaltungen
 Events: 
 
 - 
+  summary: >
+    Großes Abschlussfest des
+    LirumLarumLesefests
+  description: 'Ganztägig im Stadttheater Freiburg - Programm und Veranstaltungsdetails folgen'
+  what: LirumLarumLesefest
+  location: Stadttheater Freiburg
+  begin_date: 2016-10-16
+  end_date: ""
+  begin_time: ""
+  end_time: ""
+- 
   summary: Café-lecture au Café Marcel
   description: |
     Es geht weiter mit der zweiten Café-Lesung, diesmal für die Nachmittagspause! Wie bei der ersten Veranstaltung, gelesen wird auf französisch für Kinder von 3 bis 6.
@@ -27,18 +38,7 @@ Events:
     In Zusammenarbeit u.a. mit dem Literaturbüro Freiburg.
   begin_date: 2017-06-22
   begin_time: 16:30
-  end_date: ""
+  end_date: 2017-06-22
   end_time: 18:00
   what: Büchertisch
   location: Museum Natur und Mensch
-- 
-  summary: >
-    Großes Abschlussfest des
-    LirumLarumLesefests
-  description: 'Ganztägig im Stadttheater Freiburg - Programm und Veranstaltungsdetails folgen'
-  what: LirumLarumLesefest
-  location: Stadttheater Freiburg
-  begin_date: 2016-10-16
-  end_date: ""
-  begin_time: ""
-  end_time: ""

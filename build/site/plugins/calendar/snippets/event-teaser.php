@@ -14,11 +14,11 @@
           Was: <?= $event->what()->html() ?><br>
           Wann: <?= date('d.m.Y', $begin_date) ?><br>
           <?php if($event->begin_time()->isNotEmpty()) : ?>
-            Start: <?= $event->begin_time() ?> <?php if($event->end_time()->isNotEmpty()) : ?>bis <?= $event->end_time() ?><?php endif ?>Uhr<br>
+          Zeit: <?= $event->begin_time() ?> <?php if($event->end_time()->isNotEmpty()) : ?>bis <?= $event->end_time() ?><?php endif ?>Uhr<br>
           <?php endif ?>
           Ort: <?= $event->location()->html() ?><br>
-          <?php if($end_date) : ?>
-            Ende: <?= date('d.m.Y', $end_date) ?><br>
+          <?php if($end_date && $end_date !== $begin_date) : ?>
+          Ende: <?= date('d.m.Y', $end_date) ?><br>
           <?php endif ?>
         </p>
       </div>

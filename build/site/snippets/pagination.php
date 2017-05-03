@@ -11,7 +11,7 @@
 
   <?php if($pagination->hasNextPage()) : ?>
     <a class="btn right bg--primary" href="<?= $pagination->nextPageURL() ?>" rel="next" title="Frühere Lesetipps">
-      <span class="btn--text show-small-up"><?php e($page->is('lesetipps'), 'Frühere Lesetipps', 'Frühere Einträge') ?></span>
+      <span class="btn--text show-small-up"><?php e($page->is('lesetipps'), 'Ältere Lesetipps', 'Frühere Einträge') ?></span>
       <?= (new Asset("assets/images/arrow-right.svg"))->content() ?>
     </a>
   <?php else : ?>

@@ -3,8 +3,8 @@
   <section class="list">
     <h2 class="center"><?= $page->subtitle()->html() ?></h2>
       <?php $events = page('kalender')->events($own = true, $allies = array('children' => true, 'siblings' => true)); ?>
-      <?php $events = $events->sortBy('begin_date', 'asc'); ?>
-      <?php $events = $events->filter(function($child) { return $child->date(null, 'begin_date') < time(); }); ?>
+      <?php $events = $events->sortBy('begin_date', 'desc'); ?>
+      <?php $events = $events->filter(function($child) { return $child->date(null, 'end_date') <= time(); }); ?>
       <?php $last = $events->count(); ?>
       <?php $count = 0; foreach ($events as $key => $event) : ?>
         <?php snippet('event-teaser', array('event' => $event)); ?>

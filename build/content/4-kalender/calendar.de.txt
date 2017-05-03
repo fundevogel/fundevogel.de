@@ -6,7 +6,7 @@ Date: 2017-02-10
 
 ----
 
-Text: 
+Text:
 
 ## Wir freuen uns auf Sie
 Hier ensteht ein Einleitungstext zu unserem Veranstaltungskalender.
@@ -26,7 +26,7 @@ Subtitle: Alle Veranstaltungen im Überblick
 
 ----
 
-Perpage: 5
+Perpage: 10
 
 ----
 
@@ -34,11 +34,11 @@ Handle: Kalender
 
 ----
 
-Button: Frühere Veranstaltungen
+Button: Vergangene Veranstaltungen
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Veranstaltungskalender"
