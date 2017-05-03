@@ -1,42 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js" lang="<?= $site->language() ?>">
-  <head>
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <?php snippet('head'); ?>
 
-    <!-- Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Dosis:300,500,700' rel='stylesheet' type='text/css'>
-
-    <!-- SEO -->
-    <title><?php if($page->isHomePage()) : ?><?= seo('title', array(), true); ?><?php else : ?><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?><?php endif ?></title>
-    <?= seo('description'); ?>
-    <link rel="canonical" href="<?= $page->url() ?>">
-
-    <!-- Facebook -->
-    <meta property="og:locale" content="<?= $site->language()->locale() ?>">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="<?php if($page->isHomePage()) : ?><?= seo('title', array(), true); ?><?php else : ?><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?><?php endif ?>">
-    <meta property="og:description" content="<?= seo('description', array(), true); ?>">
-    <meta property="og:url" content="<?= $page->url() ?>">
-    <meta property="og:site_name" content="<?= $site->title()->html() ?>">
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="<?php if($page->isHomePage()) : ?><?= seo('title', array(), true); ?><?php else : ?><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?><?php endif ?>">
-
-    <!-- Miscellaneous -->
-    <link rel="shortcut icon" href="<?= url() ?>/favicon.ico" />
-
-    <?php foreach($site->languages() as $language): ?>
-      <?php if($language == $site->language()) continue; ?>
-        <link rel="alternate" hreflang="<?= html($language->code()) ?>" href="<?= $page->url($language->code()) ?>" />
-    <?php endforeach ?>
-
-    <?= css('assets/styles/main.css') ?>
-
-  </head>
   <body class="<?= $page->slug() ?>">
     <!--[if IE]>
       <div class="alert alert-warning">
@@ -52,9 +18,9 @@
         <nav id="nav-menu" class="nav-menu">
           <?php snippet('nav-menu') ?>
         </nav>
-        <!-- <nav class="lang-menu">
+        <nav class="lang-menu">
           <?php snippet('lang-menu') ?>
-        </nav> -->
+        </nav>
       </div>
 
       <div class="wrap">
@@ -64,9 +30,9 @@
         <div class="hgroup">
           <h1 class="site-title sketch">
             <?php if($page->isChildOf('lesetipps')) : ?>
-              Lesetipps
+              <?= page('lesetipps')->title()->html() ?>
             <?php elseif($page->isChildOf('kalender')) : ?>
-              Kalender
+              <?= page('kalender')->title()->html() ?>
             <?php else : ?>
               <?= $page->title()->html() ?>
             <?php endif ?>

@@ -20,8 +20,8 @@ c::set('languages', array(
     'code'    => 'en',
     'name'    => 'English',
     'url'     => '/en',
-    'locale'  => 'en_US',
+    'locale'  => 'en_GB',
   ),
 ));
 
-c::set('language.detect', true);
+c::set('language.detect', false);
