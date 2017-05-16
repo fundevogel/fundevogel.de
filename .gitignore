@@ -1,7 +1,6 @@
 *.log
 node_modules
 workbench
-workbench
 build/assets
 
 
@@ -24,3 +23,8 @@ build/site/cache/*
 
 build/site/accounts/*
 !build/site/accounts/index.html
+
+# License
+# ---------------
+
+build/site/config/config.fundevogel.de.php
