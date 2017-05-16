@@ -6,3 +6,22 @@
     box-shadow: $hover-box-shadow;
   }
 }
+
+.fancybox-controls {
+  background: rgba(30, 30, 30, 0.6);
+  height: 50px;
+}
+
+.fancybox-button {
+  height: 50px !important;
+  width: 50px !important;
+
+  &--left::after,
+  &--right::after {
+    top: 23px !important;
+  }
+}
+
+.fancybox-infobar__body {
+  line-height: 50px !important;
+}

@@ -13,17 +13,17 @@
 
 .btn {
   background-color: $action-color;
+  border-radius: $base-border-radius;
   display: table-cell;
   opacity: 0.75;
   padding: 1em 0;
   transition: opacity $base-duration $base-timing;
   vertical-align: middle;
-  border-radius: $base-border-radius;
 
   &:hover,
   &:focus {
-    opacity: 1;
     color: #fff;
+    opacity: 1;
   }
 
   &.left {
@@ -35,8 +35,8 @@
   }
 
   &.is-disabled {
-    opacity: 0.5;
     cursor: not-allowed;
+    opacity: 0.5;
     width: 50%;
   }
 
@@ -55,9 +55,9 @@
 
     @include min-width(medium) {
       display: inline;
+      margin: 0 1.25em;
       position: relative;
       top: 0.15em;
-      margin: 0 1.25em;
     }
   }
 }

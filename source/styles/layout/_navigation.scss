@@ -137,7 +137,9 @@
         }
 
         &.is-active,
-        &:hover {
+        &:hover,
+        &:focus,
+        &:active {
           background: rgba(255, 255, 255, 0.8);
           color: $action-color;
           text-shadow: none;
@@ -150,10 +152,6 @@
     }
   }
 }
-
-
-
-
 
 .lang-menu {
   position: fixed;
