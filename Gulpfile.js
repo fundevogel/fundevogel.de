@@ -30,7 +30,7 @@ var
   syntax_scss   = require('postcss-scss'),
   uglify        = require('gulp-uglify'),
   webpack       = require('webpack-stream'),
-  wp            = require('webpack')
+  webpack2      = require('webpack')
 ;
 
 
@@ -111,18 +111,18 @@ gulp.task('make:scripts', function() {
     .pipe(named())
     .pipe(webpack({
       watch: false,
-      resolve: {
-        alias: {
-          jquery: 'jquery/src/jquery',
-        },
-      },
-      plugins: [
-        new wp.ProvidePlugin({
-          $: 'jquery',
-          jQuery: 'jquery',
-        }),
-      ],
-    }))
+      // resolve: {
+      //   alias: {
+      //     jquery: 'jquery/src/jquery',
+      //   },
+      // },
+      // plugins: [
+      //   new webpack2.ProvidePlugin({
+      //     $: 'jquery',
+      //     jQuery: 'jquery',
+      //   }),
+      // ],
+    }, webpack2))
     .pipe(gulpif(!development, uglify()))
     .pipe(size({gzip: true, showFiles: true}))
     .pipe(gulp.dest(config.assets.build + '/scripts'))
