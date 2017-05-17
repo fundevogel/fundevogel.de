@@ -1,0 +1,13 @@
+Title: Vergangene Veranstaltungen
+
+----
+
+Text: 
+
+----
+
+Subtitle: Alle vergangenen Veranstaltungen im Überblick
+
+----
+
+Button: Kommende Veranstaltungen

@@ -16,21 +16,6 @@ fields:
   title:
     label: Überschrift
     type: text
-  subtitle:
-    label: Zwischenüberschrift (Anfahrtmöglichkeiten)
-    type: text
-  bike:
-    label: Anfahrt mit Fahrrad
-    type: textarea
-    width: 1/3
-  auto:
-    label: Anfahrt mit Auto
-    type: textarea
-    width: 1/3
-  tram:
-    label: Anfahrt mit Tram
-    type: textarea
-    width: 1/3
   kontaktinfos:
     label: Kontaktinformationen
     type: textarea
@@ -39,8 +24,13 @@ fields:
     label: Öffnungszeiten
     type: textarea
     width: 1/2
+  bike:
+    label: Anfahrt mit Fahrrad
+    type: textarea
+  auto:
+    label: Anfahrt mit Auto
+    type: textarea
+  tram:
+    label: Anfahrt mit Tram
+    type: textarea
   seo: seo
-
-  handle:
-    type: hidden
-    default: Kontakt

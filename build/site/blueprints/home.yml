@@ -39,7 +39,3 @@ fields:
     type: text
     width: 1/4
   seo: seo
-
-  handle:
-    type: hidden
-    default: Willkommen!

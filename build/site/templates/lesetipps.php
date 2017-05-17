@@ -14,13 +14,13 @@
     <figure class="fig">
       <a href="<?= $page->file($page->pdf_spring())->url() ?>" target="_blank">
         <img src="<?= $spring->url() ?>" title="<?= $spring->desc() ?>" alt="<?= $spring->alt() ?>" width="155" height="235" />
-        <figcaption class="bg--primary"><?= $spring->heading() ?></figcaption>
+        <figcaption class="bg--primary"><?= $spring->caption() ?></figcaption>
       </a>
     </figure>
     <figure class="fig">
       <a href="<?= $page->file($page->pdf_autumn())->url() ?>" target="_blank">
         <img src="<?= $autumn->url() ?>" title="<?= $autumn->desc() ?>" alt="<?= $spring->alt() ?>" width="155" height="235" />
-        <figcaption class="bg--primary"><?= $autumn->heading() ?></figcaption>
+        <figcaption class="bg--primary"><?= $autumn->caption() ?></figcaption>
       </a>
     </figure>
   </div>
@@ -30,7 +30,7 @@
 <?php endif ?>
 
 <section class="list">
-  <h2 class="center"><?= $page->subtitle()->html() ?></h2>
+  <h2><?= l::get('lesetipps_ueberschrift-liste') ?></h2>
 
   <?php $count = 1; foreach($lesetipps as $lesetipp) : ?>
 
@@ -56,7 +56,7 @@
           </h3>
           <p>
             <?= $lesetipp->text()->kirbytext()->excerpt(40, 'words') ?>
-            <a href="<?= $lesetipp->url() ?>">&rarr; Weiterlesen</a>
+            <a href="<?= $lesetipp->url() ?>" title="<?= l::get('lesetipps_weiterlesen--title') ?>">&rarr; <?= l::get('lesetipps_weiterlesen') ?></a>
           </p>
         </div>
 
@@ -68,7 +68,7 @@
         </h3>
         <p>
           <?= $lesetipp->text()->kirbytext()->excerpt(40, 'words') ?>
-          <a href="<?= $lesetipp->url() ?>">&rarr; Weiterlesen</a>
+          <a href="<?= $lesetipp->url() ?>">&rarr; <?= l::get('lesetipps_weiterlesen') ?></a>
         </p>
         <div class="image-area">
           <a href="<?= $lesetipp->url() ?>">

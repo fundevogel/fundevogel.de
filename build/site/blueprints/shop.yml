@@ -3,6 +3,8 @@ title: Shop
 pages: false
 files: false
 
+icon: shopping-cart
+
 fields:
   title:
     label: Überschrift
@@ -16,7 +18,3 @@ fields:
     label: iFrame-Link
     type:  text
   seo: seo
-
-  handle:
-    type: hidden
-    default: Shop

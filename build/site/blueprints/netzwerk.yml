@@ -19,13 +19,11 @@ fields:
   text:
     label: Text
     type: textarea
+    width: 3/4
   motto:
     label: Unser Motto
     type: textarea
-  subtitle:
-    label: Überschrift (Netzwerk)
-    type: text
-    width: 1/2
+    width: 1/4
   netzwerk:
     label: Unser Netzwerk
     type: structure
@@ -37,7 +35,3 @@ fields:
         label: Beschreibung
         type: textarea
   seo: seo
-
-  handle:
-    type: hidden
-    default: Netzwerk

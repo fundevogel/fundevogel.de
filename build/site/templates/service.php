@@ -1,28 +1,25 @@
 <?php snippet('header') ?>
 
-<header>
-  <div class="wrap">
-    <div class="one-half--wide">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-    <div class="one-half--wide teaser">
-      <figure class="fig">
-        <?php
-          $image = $page->image();
-          $crop = $image->resize(460);
-         ?>
-        <img src="<?= $crop->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
-        <figcaption class="bg--primary"><?= $image->desc()->html() ?></figcaption>
-      </figure>
-    </div>
+<header class="wrap">
+  <div class="one-half--wide">
+    <?= $page->text()->kirbytext() ?>
+  </div>
+  <div class="one-half--wide teaser">
+    <figure class="fig">
+      <?php
+        $image = $page->image();
+        $thumb = thumb($image, array('width' => 460, 'quality' => 85));
+       ?>
+      <img src="<?= $thumb->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+      <figcaption class="bg--primary"><?= $image->desc()->html() ?></figcaption>
+    </figure>
   </div>
 </header>
 <hr>
-<section class="wrap">
-  <header class="center">
-    <h3><?= $page->subtitle()->html() ?></h3>
-  </header>
-  <div id="macy" class="spread-out">
+<section class="list wrap">
+  <h2><?= l::get('service_ueberschrift-liste') ?>:</h2>
+
+  <div id="macy" class="macy">
     <?php foreach($page->services()->toStructure() as $item) : ?>
       <article class="card card--outer">
         <div class="card--inner">

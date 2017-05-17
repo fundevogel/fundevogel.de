@@ -12,9 +12,9 @@
       <figure class="fig">
         <?php
           $image = $page->image();
-          $crop = $image->resize(460);
+          $thumb = thumb($image, array('width' => 460, 'quality' => 85));
          ?>
-        <img src="<?= $crop->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+        <img src="<?= $thumb->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
         <figcaption class="bg--primary"><?= $image->desc()->html() ?></figcaption>
       </figure>
     </div>
@@ -24,11 +24,10 @@
   </div>
 </header>
 <hr>
-<section class="wrap">
-  <header class="center">
-    <h3><?= $page->subtitle()->html() ?></h3>
-  </header>
-  <div id="macy" class="spread-out">
+<section class="list wrap">
+  <h2><?= l::get('netzwerk_ueberschrift-liste') ?>:</h2>
+
+  <div id="macy" class="macy">
     <?php foreach($page->netzwerk()->toStructure() as $item) : ?>
       <article class="card card--outer">
         <div class="card--inner">

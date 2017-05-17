@@ -7,7 +7,7 @@ pages: true
 
 files: true
   fields:
-    heading:
+    caption:
       label: Titel
       type: text
     desc:
@@ -45,11 +45,4 @@ fields:
     type: select
     width: 1/2
     options: documents
-  subtitle:
-    label: Zwischenüberschrift
-    type: text
   seo: seo
-
-  handle:
-    type: hidden
-    default: Lesetipps

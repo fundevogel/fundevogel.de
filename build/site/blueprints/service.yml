@@ -19,9 +19,6 @@ fields:
   text:
     label: Text
     type: textarea
-  subtitle:
-    label: Überschrift (Services)
-    type: text
   services:
     label: Unsere Services
     type: structure
@@ -33,7 +30,3 @@ fields:
         label: Beschreibung
         type: textarea
   seo: seo
-
-  handle:
-    type: hidden
-    default: Service

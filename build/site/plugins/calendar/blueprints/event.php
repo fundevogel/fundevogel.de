@@ -6,6 +6,6 @@ files: true
 icon: calendar-check-o
 fields:
   title:
-    label: Title
+    label: Überschrift
     type:  text
   events: events

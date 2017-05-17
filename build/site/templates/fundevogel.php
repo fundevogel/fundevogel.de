@@ -7,9 +7,15 @@
   <div class="one-half--wide teaser">
     <figure class="fig fig--slick-slider has-hover">
       <div class="slick-carousel" data-slick='{"lazyLoad": "ondemand", "autoplay": true, "arrows": false, "fade": true, "cssEase": "linear"}'>
-        <?php $images = $page->images(); foreach ($images as $img) : ?>
-          <?php $crop = $img->crop(460, 400); ?>
-          <div><img data-lazy="<?= $crop->url() ?>" data-jslghtbx="<?= $img->url() ?>" title="<?= $img->desc()->html() ?>" alt="<?= $img->alt()->html() ?>" data-jslghtbx-group="fundevogel-carousel"></div>
+        <?php
+          $images = $page->images();
+          $first = $images->first();
+        ?>
+        <?php foreach ($images as $image) : ?>
+          <?php $thumb = thumb($image, array('width' => 460, 'height' => 400, 'quality' => 85, 'crop' => true)); ?>
+          <a href="<?= $image->url() ?>" data-fancybox="fundevogel-und-team" data-caption="<?= $image->desc()->html() ?>">
+            <img<?php if($image == $first) : ?> src ="<?= $thumb->url() ?>" <?php else : ?> data-lazy="<?= $thumb->url() ?>"<?php endif ?> title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+          </a>
         <?php endforeach ?>
       </div>
       <figcaption class="sketch bg--primary">

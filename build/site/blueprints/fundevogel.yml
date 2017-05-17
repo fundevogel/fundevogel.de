@@ -36,7 +36,3 @@ fields:
     type: textarea
     width: 1/2
   seo: seo
-
-  handle:
-    type: hidden
-    default: Fundevogel

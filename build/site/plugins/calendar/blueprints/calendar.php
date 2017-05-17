@@ -17,29 +17,18 @@ fields:
     max: 20
     default: 5
     width: 1/4
-  date:
-    label: Stand des Kalenders
-    type: date
   text:
     label: Text
     type: textarea
-  subtitle:
-    label: Zwischenüberschrift
+  timezone:
+    label: Zeitzone
     type: text
     width: 3/4
-  button:
-    label: Button-Text
-    type: text
-    width: 1/4
-  webcal_text:
-    label: Hovertext fürs Kalendersymbol
-    type: text
-    width: 1/2
-  timezone:
-    label: Timezone
-    type: text
-    width: 1/2
     required: true
     help: >
-      Enter a valid <a href="/calendar/timezones" title="Calendar Timezones" target="timezones">DateTimeZone ID</a>.
+      Eine Übersicht über alle Zeitzonen gibt's <a href="/calendar/timezones" title="Zeitzonen" target="timezones">hier</a>.
+  date:
+    label: Stand des Kalenders
+    type: date
+    width: 1/4
   seo: seo

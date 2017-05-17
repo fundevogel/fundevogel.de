@@ -6,8 +6,6 @@
   <!-- Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Dosis:300,500,700' rel='stylesheet' type='text/css'>
-  <link href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css' rel='stylesheet' type='text/css'>
-
 
   <!-- SEO -->
   <title><?php if($page->isHomePage()) : ?><?= seo('title', array(), true); ?><?php else : ?><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?><?php endif ?></title>
@@ -36,4 +34,7 @@
 
   <?= css('assets/styles/main.css') ?>
 
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
 </head>

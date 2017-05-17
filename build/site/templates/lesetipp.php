@@ -9,7 +9,7 @@
   <hr>
   <?php $lesetipps = $page->angaben()->toStructure(); ?>
   <?php $last = $lesetipps->count(); ?>
-  <?php $count = 1; foreach ($lesetipps as $lesetipp) : ?>
+  <?php $count = 0; foreach ($lesetipps as $lesetipp) : ?>
     <section style="clear: both">
       <div class="one-third center">
         <figure>
@@ -18,20 +18,25 @@
         </figure>
       </div>
       <div class="two-thirds">
-        <?php if($count == 1) echo $page->verdict()->kirbytext() ?>
+        <?= $lesetipp->verdict()->kirbytext() ?>
         <blockquote>
           <?= $lesetipp->titel()->html() ?><br>
           <?= $lesetipp->autor()->html() ?><br>
           <?= $lesetipp->verlag()->html() ?><br>
           ISBN <?= $lesetipp->isbn()->html() ?><br>
-          <?= $lesetipp->preis()->html() ?> €; <?= $lesetipp->alter()->html() ?><br>
+          <?= $lesetipp->preis()->html() ?> €<?php if($lesetipp->alter()->isNotEmpty()) : ?>; <?= $lesetipp->alter()->html() ?><?php endif ?>
         </blockquote>
       </div>
     </section>
     <?php $count++;?>
   <?php endforeach ?>
+  <?php if($count > 1 && $page->conclusion()->isNotEmpty()) : ?>
+    <p style="clear: both">
+      <?= $page->conclusion()->html() ?>
+    </p>
+  <?php endif ?>
   <p>
-    Wenn Ihr Lust bekommen habt, <?php e($page->images()->count() > 1, 'diese Bücher', 'dieses Buch') ?> zu lesen, dann kommt bei uns vorbei oder bestellt das Buch in unserem <a href="/shop/">Online-Shop</a>!
+    <?= l::get('lesetipp_hinweis-shop--1-5') ?> <?php e($page->images()->count() > 1, l::get('lesetipp_hinweis-shop--2-5'), l::get('lesetipp_hinweis-shop--3-5')) ?> <?= l::get('lesetipp_hinweis-shop--4-5') ?> <a href="/shop/"><?= l::get('lesetipp_hinweis-shop--5-5') ?></a>!
   </p>
 </article>
 

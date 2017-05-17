@@ -9,22 +9,18 @@
     <figure class="fig has-hover">
       <?php
         $image = $page->image();
-        $crop = $image->resize(630);
-       ?>
-      <img src="<?= $crop->url() ?>" data-jslghtbx="<?= $image->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+        $thumb = thumb($image, array('width' => 460, 'quality' => 85));
+      ?>
+      <a href="<?= $image->url() ?>" data-fancybox data-caption="<?= $image->desc()->html() ?>">
+        <img src="<?= $thumb->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+      </a>
       <figcaption class="sketch bg--primary"><?= $image->desc()->html() ?></figcaption>
     </figure>
   </div>
 </section>
 <hr>
-<section class="wrap">
-  <header>
-    <!-- <div class="wrap"> -->
-    <h2>
-      <?= $page->subtitle()->html() ?>
-    </h2>
-  </div>
-  <!-- </header> -->
+<section class="list wrap">
+  <h2><?= l::get('kontakt_ueberschrift-liste') ?></h2>
   <div class="one-third">
     <div class="center">
       <?= (new Asset("assets/images/bike.svg"))->content() ?>
