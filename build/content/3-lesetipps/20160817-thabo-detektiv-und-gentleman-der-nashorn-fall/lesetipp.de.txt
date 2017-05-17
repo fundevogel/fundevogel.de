@@ -18,22 +18,20 @@ Text: Als Thabo bei einer Safari-Tour eine SMS von Miss Agatha bekommt, die HILF
 
 ----
 
-Verdict: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
+Info:
 
 ----
 
-Info: 
+Hint:
 
 ----
 
-Hint: 
+Angaben:
 
-----
-
-Angaben: 
-
-- 
+-
   titel: 'Thabo, Detektiv & Gentleman: Der Nashorn-Fall'
+  verdict: >
+    Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
   autor: Geschrieben von Kirsten Boie
   verlag: Oetinger Verlag
   isbn: 978-3-7891-2033-6

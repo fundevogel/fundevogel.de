@@ -10,16 +10,14 @@ Text: Mit diesem Buch wirst Du zum Helden deines Alltags. Hier findest du 101 Id
 
 ----
 
-Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.
+Angaben:
 
-----
-
-Angaben: 
-
-- 
+-
   titel: >
     101 Dinge, die du tun musst, bevor du
     erwachsen bist
+  verdict: >
+    Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.
   autor: Laura Dower
   verlag: Fischer Meyers
   isbn: 978-3-7373-7170-4

@@ -18,24 +18,12 @@ Text: Van Gogh und Rudolf haben es gut in Amsterdam! Dem Kater fehlt zwar ein Oh
 
 ----
 
-Verdict: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
+Angaben:
 
-----
-
-Info: 
-
-> Ein Haufen Ärger
-> Geschrieben von Sabine Ludwig
-> Fischer Schatzinsel Verlag
-> ISBN 978-3-59680-479-5
-> 7,95 Euro; ab 11 Jahren
-
-----
-
-Angaben: 
-
-- 
+-
   titel: Ein Haufen Ärger
+  verdict: >
+    Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
   autor: Geschrieben von Sabine Ludwig
   verlag: Fischer Schatzinsel Verlag
   isbn: 978-3-59680-479-5

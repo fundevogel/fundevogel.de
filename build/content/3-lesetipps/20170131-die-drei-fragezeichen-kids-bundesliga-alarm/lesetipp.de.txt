@@ -18,21 +18,17 @@ Text: Ein spannender Fall für die drei ???: Die Meisterschale wurde geklaut. Um
 
 ----
 
-Verdict: ab 8 Jahren
+Info:
 
 ----
 
-Info: 
+Hint:
 
 ----
 
-Hint: 
+Angaben:
 
-----
-
-Angaben: 
-
-- 
+-
   titel: 'Die drei ??? Kids - Bundesliga-Alarm'
   autor: Boris Pfeiffer
   verlag: Franckh-Kosmos Verlag

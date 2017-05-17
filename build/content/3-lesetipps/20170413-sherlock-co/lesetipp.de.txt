@@ -10,17 +10,24 @@ Text: Zuerst bekommst du die unterschiedlichsten Personen der aufregenden Geschi
 
 ----
 
-Verdict: Ein spannender Comic-Krimi aus der Schule!
-
-----
-
 Angaben: 
 
 - 
   titel: 'Sherlock & Co, Die Schule der Detektive, Band 1'
+  verdict: >
+    Ein spannender Comic-Krimi aus der
+    Schule!
   autor: Sam Hearn
   verlag: Schneider Verlag
   isbn: 978-3-505-13973-4
   cover: sherlock-und-co.jpg
   preis: 10,00
-  alter: Ab 9 Jahren
+  alter: ab 9 Jahren
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

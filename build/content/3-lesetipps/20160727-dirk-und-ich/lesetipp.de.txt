@@ -18,21 +18,19 @@ Text: Andreas und Dirk sind zwei ganz normale Brüder möchte man meinen, aber s
 
 ----
 
-Verdict: Ein herrlich spritziges Buch, das mit viel Witz von den frechen Brüdern erzählt und von irre komischen, farbigen Illustrationen begleitet wird. Viele Lacher und ein großer Lesespaß sind dabei auf jedenfall vorprogrammiert.
+Info:
 
 ----
 
-Info: 
+Angaben:
 
-----
-
-Angaben: 
-
-- 
+-
   titel: Dirk und Ich
+  verdict: >
+    Ein herrlich spritziges Buch, das mit viel Witz von den frechen Brüdern erzählt und von irre komischen, farbigen Illustrationen begleitet wird. Viele Lacher und ein großer Lesespaß sind dabei auf jedenfall vorprogrammiert.
   autor: Geschrieben von Andreas Steinhöfel
   verlag: Carlsen Verlag
   isbn: 978-3-551-55365-2
   cover: dirk-und-ich_andreas-steinhoefel.jpg
   preis: 12,99
-  alter: zum Vorlesen ab 6 oder Selberlesen ab 9
+  alter: zum Vorlesen ab 6 oder Selberlesen ab 9 Jahren

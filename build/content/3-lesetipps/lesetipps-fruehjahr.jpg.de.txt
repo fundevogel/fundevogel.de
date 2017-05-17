@@ -10,4 +10,4 @@ Alt: Buchcover der Frühjahrsempfehlungen
 
 ----
 
-Heading: Frühjahr
+Caption: Frühjahr

@@ -18,20 +18,18 @@ Text: Constanze von Kitzing hat wunderbare Illustrationen geschaffen, die erkenn
 
 ----
 
-Verdict: Ich mag ... das Buch!
+Info:
 
 ----
 
-Info: 
+Angaben:
 
-----
-
-Angaben: 
-
-- 
+-
   titel: >
     Ich mag ... schaukeln, malen, Fußball,
     Krach
+  verdict: >
+    Ich mag ... das Buch!
   autor: Constanze von Kitzing
   verlag: Carlsen
   isbn: 978-3-551-17061-3

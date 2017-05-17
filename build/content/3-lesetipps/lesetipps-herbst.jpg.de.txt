@@ -10,4 +10,4 @@ Alt: Buchcover der Herbstempfehlungen
 
 ----
 
-Heading: Herbst
+Caption: Herbst

@@ -18,22 +18,12 @@ Text: Ausgerechnet Bocki und seine fiese Bande sind es, die Opa Pucki, Isabellas
 
 ----
 
-Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache Kokosnuss"-Autor Ingo Siegner für Kinder ab 6 Jahren.
+Angaben:
 
-----
-
-Info: 
-
-----
-
-Hint: 
-
-----
-
-Angaben: 
-
-- 
+-
   titel: Eliot und Isabella im Finsterwald
+  verdict: >
+    Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache Kokosnuss"-Autor Ingo Siegner.
   autor: Ingo Siegner
   verlag: Beltz
   isbn: 978-3-407-82161-4

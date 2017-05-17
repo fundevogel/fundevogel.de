@@ -18,26 +18,16 @@ Text: Mit Dr. Kroch, einem typischen Wissenschaftler und seinem Assistenten Vale
 
 ----
 
-Verdict: Ein bis zum Ende atemberaubend spannendes Buch!
+Angaben:
 
-----
-
-Info: 
-
-----
-
-Hint: 
-
-----
-
-Angaben: 
-
-- 
+-
   titel: Der Fluch des Wüstenwolfs
+  verdict: >
+    Ein bis zum Ende atemberaubend spannendes Buch!
   autor: Geschrieben von Paul Biegel
   verlag: Urachhaus
   isbn: 978-3-8251-7965-6
   cover: >
     der-fluch-des-wuestenwolfs_paul-biegel.jpg
   preis: 16,90
-  alter: zum Vorlesen und Selberlesen ab 9 Jahre
+  alter: zum Vorlesen oder Selberlesen ab 9 Jahren

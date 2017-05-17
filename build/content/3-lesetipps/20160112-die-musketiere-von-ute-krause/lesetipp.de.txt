@@ -18,10 +18,6 @@ Text: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch k
 
 ----
 
-Verdict: Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Schriftsteller Alexandre Dumas? Sie kämpfen gemeinsam gegen die Ungerechtigkeit. Und ähnlich machen das auch Picandou und seine neuen Freunde. Gemeinsam sind sie ziemlich hungrig, immer lustig und einfach unschlagbar!
-
-----
-
 Info:
 
 ----
@@ -36,6 +32,8 @@ Angaben:
   titel: >
     Die Muskeltiere. Einer für alle, alle
     für einen.
+  verdict: >
+    Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Schriftsteller Alexandre Dumas? Sie kämpfen gemeinsam gegen die Ungerechtigkeit. Und ähnlich machen das auch Picandou und seine neuen Freunde. Gemeinsam sind sie ziemlich hungrig, immer lustig und einfach unschlagbar!
   autor: >
     Geschrieben und illustriert von Ute
     Krause
