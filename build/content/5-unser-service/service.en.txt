@@ -1,4 +1,4 @@
-Title: Our Services
+Title: Our Service
 
 ----
 
@@ -44,4 +44,4 @@ Handle: Service
 
 ----
 
-Url-key: services
+Url-key: our-service

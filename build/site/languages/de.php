@@ -86,6 +86,7 @@ l::set(array(
     'kalender_termin-thema' => 'Was', // termin-ueberblick 'Was'
     'kalender_termin-tage' => 'Wann', // termin-ueberblick 'Wann'
     'kalender_termin-zeit' => 'Zeit', // termin-ueberblick 'Zeit'
+    'kalender_termin-uhr' => 'Uhr', // termin-ueberblick 'Uhr'
     'kalender_termin-ort' => 'Ort', // termin-ueberblick 'Ort'
     'kalender_termin-ende' => 'Ende', // termin-ueberblick 'Ende'
 
