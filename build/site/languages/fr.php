@@ -71,7 +71,7 @@ l::set(array(
 
   // IV. Agenda + animations passées
     'kalender_ueberschrift-liste' => 'Voici toutes nos animations, à venir et passées', // zwischenueberschrift (t)
-    'kalender_download' => 'Télécharger le calendrier des animations', // bildunterschrift kalendersymbol (t)
+    'kalender_download' => 'Télécharger l\'agenda', // bildunterschrift kalendersymbol (t)
     'kalender_download--title' => 'Vous souhaitez être tenus au courant ? Abonnez-vous !', // (m)
 
     // 2. Termin im Überblick (t)
@@ -90,9 +90,9 @@ l::set(array(
     'kalender_kommende-veranstaltungen--title' => 'Animations à venir, par ici', // (m)
 
   // V. SERVICE + RESEAU + CONTACT (t)
-    'service_ueberschrift-liste' => 'Nous vous proposons également :', // zwischenueberschrift
+    'service_ueberschrift-liste' => 'Ce que nous vous offrons', // zwischenueberschrift
     'netzwerk_ueberschrift-liste' => 'Nos partenaires', // zwischenueberschrift
-    'kontakt_ueberschrift-liste' => 'Comment venir ?', // zwischenueberschrift
+    'kontakt_ueberschrift-liste' => 'Comment venir?', // zwischenueberschrift
 
   // VI. Notes de bas de page
     'footer_email' => 'Nous écrire', // mail-adresse (m)

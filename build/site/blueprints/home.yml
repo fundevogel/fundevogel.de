@@ -33,9 +33,4 @@ fields:
   subtitle:
     label: Zwischenüberschrift
     type: text
-    width: 3/4
-  button:
-    label: Button-Text
-    type: text
-    width: 1/4
   seo: seo

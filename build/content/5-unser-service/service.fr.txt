@@ -1,0 +1,51 @@
+Title: Unser Service
+
+----
+
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
+
+----
+
+Text: 
+
+## Nous vous accueillons!
+Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez les, à la recherche d'aventures ou de douceur ... nous ne sommes pressés et à vos côtés pour vous aiguiller!
+
+----
+
+Motto: 
+
+----
+
+Subtitle: Was wir sonst noch haben & können:
+
+----
+
+Services: 
+
+- 
+  desc: 'Des **conseils compétents** qui respectent vos goûts et vos envies'
+- 
+  desc: "Diverses **manifestations pour encourager la lecture**, comme nos quizz avec les élèves dans le cadre de la Journée mondiale du livre, ou encore les lectures d'auteurs lors du festival **Lirum Larum Lesefeste**. Nous vous invitons également chaque année en automne à notre **soirée littéraire**, où Brezel et mousseux cotoient chaleureusement la présentation de nos coups de coeur. Pour plus d'informations concernant nos manifestations, consultez notre (link: /kalender/ text: agenda)."
+- 
+  desc: 'Une **commande rapide** de tous les titres disponibles, également au-delà de la littérature jeunesse, directement en magasin ou par téléphone, (email: info@fundevogel.de text: mail) ou en (link: /shop/ text: ligne).'
+- 
+  desc: "Des **stands et expositions** de nos livres dans divers lieux. Nous vous concoctons avec plaisir une **sélection personnelle** sur un thème particulier. Pour cela, merci de bien vouloir nous contacter suffisamment à l'avance afin de convenir d'un rendez-vous."
+- 
+  desc: 'Des **sélections de livres** faites sur mesure. Veuillez-nous (email: info@fundevogel.de text: contacter) si cela vous intéresse.'
+- 
+  desc: "Des **enfants de primaire et de crèche**, qui viennent régulièrement participer à nos manifestations. Afin de pouvoir préparer au mieux votre visite et de répondre à vos attentes, merci d'inscrire votre classe à l'avance."
+- 
+  desc: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
+
+----
+
+Handle: Service
+
+----
+
+Seo: 
+
+-
+  seo-title: "Unser Service"
+  seo-description: "Hereinspaziert! Euch erwarten fachkundige Beratung, vielfältige Veranstaltungen, Buchausstellungen, ein motiviertes Team und natürlich erlesene Bücher!"

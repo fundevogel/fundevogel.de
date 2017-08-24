@@ -28,6 +28,7 @@ fields:
     label: Unser Netzwerk
     type: structure
     style: table
+    modalsize: large
     entry: >
       {{desc}}
     fields:

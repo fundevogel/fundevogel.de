@@ -70,3 +70,81 @@ Events:
   location: Kindergarten St. Michael
   event_type: Büchertisch
   what: Büchertisch (kindergartenintern)
+- 
+  summary: Buchausstellung in der Kita Rotlaub
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kita Rotlaub
+  begin_date: 2017-10-09
+  end_date: 2017-10-13
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Blasius
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten St. Blasius
+  begin_date: 2017-11-13
+  end_date: 2017-11-17
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Gallus
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten St. Gallus
+  begin_date: 2017-11-13
+  end_date: 2017-11-17
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergertaen
+    Sonnenwiese
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergertaen Sonnenwiese
+  begin_date: 2017-11-20
+  end_date: 2017-11-23
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten
+    Westarkaden
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten Westarkaden
+  begin_date: 2017-11-20
+  end_date: 2017-11-23
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung in der Schule Paula
+    Fürst
+  description: ""
+  what: Schulinterne Ausstellung
+  location: Schule Paula Fürst
+  begin_date: 2017-11-30
+  end_date: 2017-12-01
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Eröffnungsfest des Lirum Larum
+    Lesefests
+  description: |
+    Alle Veranstaltungen im Rahmen des LirumLarum-
+    Lesefests an diesem Tag im Theater Freiburg sind
+    öffentlich und der Eintritt ist frei.
+  what: Lirum Larum Lesefest
+  location: Stadttheater Freiburg
+  begin_date: 2017-10-15
+  end_date: 2017-10-15
+  begin_time: 12:30
+  end_time: 18:30

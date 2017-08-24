@@ -31,7 +31,7 @@ Pdf-spring: buchempfehlungen-fruehjahr-2017.pdf
 
 ----
 
-Pdf-autumn: buchempfehlungen-herbst-2016.pdf
+Pdf-autumn: buchempfehlungen-herbst-2017.pdf
 
 ----
 

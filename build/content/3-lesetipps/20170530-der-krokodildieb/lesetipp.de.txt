@@ -1,0 +1,28 @@
+Title: Der Krokodildieb
+
+----
+
+Date: 2017-05-30
+
+----
+
+Text: Der schüchterne Odd findet den Schulausflug ins Aquarium ein bisschen gruselig, schliesslich könnte er von einem Hai oder einer Schlange gefressen werden – die Krokodile sind dann aber doch super spannend! Und wie cool wäre es erst, ein Krokodil zum Freund zu haben? Es könnte den Sportlehrer in den Hintern beißen und niemand würde ihn mehr „Odd-Birnenkompott“ rufen. Kurzerhand „leiht“ Odd sich einen kleinen Kaiman ...
+
+----
+
+Angaben: 
+
+- 
+  titel: Der Krokodildieb
+  verdict: >
+    Empfehlenswert!
+  autor: Taran Bjornstad und Christoffer Grav
+  verlag: 'Beltz&Gelberg'
+  isbn: 9783-4078-2109-6
+  cover: der-krokodildieb.jpg
+  preis: 12,95 Euro
+  alter: ab 8 Jahren
+
+----
+
+Seo: 

@@ -40,8 +40,4 @@ Services:
 
 ----
 
-Handle: Service
-
-----
-
 Url-key: our-service

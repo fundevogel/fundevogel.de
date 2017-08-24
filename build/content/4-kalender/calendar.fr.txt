@@ -1,4 +1,4 @@
-Title: Kalender
+Title: Agenda
 
 ----
 
@@ -8,8 +8,8 @@ Date: 2017-02-10
 
 Text: 
 
-## Wir freuen uns auf Sie
-Hier findet ihr alle Informationen zu den aktuellen Veranstaltungen des Fundevogels.
+## Venez nombreux!
+Cliquez sur le lien pour pouvoir consulter notre agenda tranquillement de chez vous!
 
 Wenn ihr sehen wollt, was wir in der Vergangenheit so auf die Beine gestellt haben, findet ihr hier auch die vergangenen Veranstaltungen.
 

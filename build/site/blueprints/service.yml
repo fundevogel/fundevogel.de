@@ -23,6 +23,7 @@ fields:
     label: Unsere Services
     type: structure
     style: table
+    modalsize: large
     entry: >
       {{desc}}
     fields:

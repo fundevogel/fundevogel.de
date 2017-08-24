@@ -1,0 +1,28 @@
+Title: Das U-Boot auf dem Berg
+
+----
+
+Date: 2017-08-17
+
+----
+
+Text: Als der schüchterne Mauritius Besuch von seinem Onkel bekommt, fängt sein Leben oben auf dem Soliner Berg an endlich einmal spannend zu werden. Seine Mutter hatte ihm doch gesagt, der Onkel sei verrückt. Klar, er verhält sich alles andere als normal, aber wenn das eine Krankheit sein soll, dann möge sie bitte ansteckend sein! Onkel Christoph tut einfach alles, was er will, und kennt keine Regeln. Er schafft es sogar, sich mit dem immer schlecht gelaunten Nachbarn anzufreunden! Hätte Mauritius nur ein bisschen von seiner Begabung, würde er auf der Stelle die schöne Mieke zu seiner Geburtstagsfeier einladen ... Übrigens, welches Geschenk wird wohl dem Onkel einfallen?
+
+----
+
+Angaben: 
+
+- 
+  titel: Das U-Boot auf dem Berg
+  verdict: >
+    Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
+  autor: Ulrich Fasshauer
+  verlag: Tulipan
+  isbn: 978-3-864-29367-2
+  cover: u-boot-auf-dem-berg_ulrich-fasshauer.jpg
+  preis: "13"
+  alter: ab 10 Jahren
+
+----
+
+Seo: 

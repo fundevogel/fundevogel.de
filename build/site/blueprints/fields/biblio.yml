@@ -1,5 +1,6 @@
 label: Bibliographische Angaben
 type: structure
+modalsize: large
 entry: >
   <strong>{{titel}}</strong><br>
   {{autor}}<br>

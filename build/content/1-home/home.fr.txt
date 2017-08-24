@@ -4,9 +4,9 @@ Title: Fundevogel
 
 Text: 
 
-## Herzlich Willkommen im Fundevogel,
-**der Kinder- und Jugendbuchhandlung für Freiburg und Umgebung!**
-Hier findet Ihr erlesene Schätze der Kinder- und Jugendliteratur, kompetente Beratung und Raum für gemütliches Stöbern. Mehr erfahrt Ihr auf diesen Seiten – oder direkt bei uns im Buchladen!
+## Bienvenue au Fundevogel,
+**la librairie jeunesse pour la ville de Fribourg et ses alentours!**
+Nous vous conseillons et vous guidons volontiers parmi notre sélection de livres pour petits et grands. Vous pouvez également profiter du confort de notre canapé pour feuilleter au calme les livres de votre choix ... Bonne visite du site, ou à bientôt directement chez nous!
 
 ----
 
@@ -18,7 +18,7 @@ Perpage:
 
 ----
 
-Subtitle: Neues aus dem Fundevogel
+Subtitle: L'actualité du Fundevogel
 
 ----
 

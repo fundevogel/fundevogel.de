@@ -2,4 +2,11 @@
 
 include kirby()->roots()->config() . '/routes.php';
 include kirby()->roots()->config() . '/languages.php';
-include kirby()->roots()->config() . '/settings-development.php';
+
+
+// Development settings
+
+c::set('debug', true);
+c::set('fingerprint', false);
+c::set('cache', false);
+c::set('thumbs.driver', 'im');
