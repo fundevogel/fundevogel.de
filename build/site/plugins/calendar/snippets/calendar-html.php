@@ -4,15 +4,12 @@
     <div class="one-half--wide">
       <?= $page->text()->kirbytext() ?>
       <?php if ($page->webcal_text()->isNotEmpty()): ?>
-        <!-- <p class="center">
-          <a class="download" href="<?= $page->webcal_url() ?>" title="<?= l::get('kalender_download--title') ?>!">
-            <?= (new Asset("assets/images/calendar.svg"))->content() ?>
-            <small class="caption">
-              <?= (new Asset("assets/images/download.svg"))->content() ?>
-              <span><?= l::get('kalender_download') ?></span>
-            </small>
+        <p class="center">
+          <a class="download caption" href="<?= $page->webcal_url() ?>" title="<?= l::get('kalender_download--title') ?>!">
+            <?= (new Asset("assets/images/download.svg"))->content() ?>
+            <span><?= l::get('kalender_download') ?></span>
           </a>
-        </p> -->
+        </p>
       <?php endif ?>
     </div>
     <div class="one-half--wide teaser">

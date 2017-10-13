@@ -5,6 +5,12 @@
   &:hover {
     fill: shade($action-color, 20%);
   }
+
+  span {
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-left: 4px;
+  }
 }
 
 .kalender,
