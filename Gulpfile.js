@@ -71,7 +71,7 @@ gulp.task('make:styles', function() {
   .pipe(plumber({ errorHandler: onError }))
   .pipe(sass({
     precision: 10, // https://github.com/sass/sass/issues/1122
-    includePaths: config.styles.include
+    // includePaths: config.styles.include
   }))
   .pipe(postcss([
     prefix({browsers: config.styles.prefix})
@@ -109,20 +109,8 @@ gulp.task('make:scripts', function() {
 
   return gulp.src(config.assets.source + '/scripts/main.js')
     .pipe(named())
-    .pipe(webpack({
-      watch: false,
-      // resolve: {
-      //   alias: {
-      //     jquery: 'jquery/src/jquery',
-      //   },
-      // },
-      // plugins: [
-      //   new webpack2.ProvidePlugin({
-      //     $: 'jquery',
-      //     jQuery: 'jquery',
-      //   }),
-      // ],
-    }, webpack2))
+    .pipe(webpack({watch: false}))
+    .pipe(babel({ presets: ['es2015'] }))
     .pipe(gulpif(!development, uglify()))
     .pipe(size({gzip: true, showFiles: true}))
     .pipe(gulp.dest(config.assets.build + '/scripts'))
