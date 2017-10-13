@@ -13,6 +13,9 @@ files: true
 icon: users
 
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
@@ -24,6 +27,9 @@ fields:
   fundevogel:
     label: Fundevogel
     type: textarea
+  tab2:
+    label: Hauptinhalt
+    type:  tabs
   about_us:
     label: Über uns
     type: textarea
@@ -35,4 +41,7 @@ fields:
     label: Bücher öffnen Welten
     type: textarea
     width: 1/2
+  tab3:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

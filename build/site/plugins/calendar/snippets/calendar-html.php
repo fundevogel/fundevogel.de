@@ -4,7 +4,7 @@
     <div class="one-half--wide">
       <?= $page->text()->kirbytext() ?>
       <?php if ($page->webcal_text()->isNotEmpty()): ?>
-        <p class="center">
+        <!-- <p class="center">
           <a class="download" href="<?= $page->webcal_url() ?>" title="<?= l::get('kalender_download--title') ?>!">
             <?= (new Asset("assets/images/calendar.svg"))->content() ?>
             <small class="caption">
@@ -12,7 +12,7 @@
               <span><?= l::get('kalender_download') ?></span>
             </small>
           </a>
-        </p>
+        </p> -->
       <?php endif ?>
     </div>
     <div class="one-half--wide teaser">
