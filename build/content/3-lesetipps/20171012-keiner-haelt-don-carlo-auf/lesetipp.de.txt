@@ -20,7 +20,8 @@ Angaben:
   autor: Oliver Scherz
   verlag: Thienemann Verlag
   isbn: 978-3-522-18395-6
-  cover: 5230519100001z.jpg
+  cover: >
+    keiner-haelt-don-carlo-auf_oliver-scherz.jpg
   preis: 9,99 Euro
   alter: ""
 

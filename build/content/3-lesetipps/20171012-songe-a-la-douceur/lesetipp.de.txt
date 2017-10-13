@@ -18,7 +18,8 @@ Angaben:
   autor: Clémentine Beauvais
   verlag: Editions Sarbacane
   isbn: "9782848659084"
-  cover: couv-songe-a-la-douceur-620x987.jpg
+  cover: >
+    songe-a-la-douceur_clementine-beauvais.jpg
   preis: 22,80 Euro
   alter: à partir de 13 ans
 
