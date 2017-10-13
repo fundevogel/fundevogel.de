@@ -7,6 +7,7 @@ I. Prerequisites
 */
 
 var
+  babel         = require('gulp-babel'),
   browserSync   = require('browser-sync').init,
   cache         = require('gulp-memory-cache'),
   changed       = require('gulp-changed'),

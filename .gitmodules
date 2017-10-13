@@ -16,3 +16,6 @@
 [submodule "build/site/fields/textarea"]
 	path = build/site/fields/textarea
 	url = https://github.com/medienbaecker/kirby-enhanced-textarea.git
+[submodule "build/site/plugins/compress"]
+	path = build/site/plugins/compress
+	url = https://github.com/iksi/kirby-compress.git

@@ -27,4 +27,4 @@ build/site/accounts/*
 # License
 # ---------------
 
-build/site/config/config.fundevogel.de.php
+build/site/config/license.php
