@@ -13,3 +13,6 @@
 [submodule "build/site/plugins/seo"]
 	path = build/site/plugins/seo
 	url = https://github.com/jenstornell/kirby-seo.git
+[submodule "build/site/fields/textarea"]
+	path = build/site/fields/textarea
+	url = https://github.com/medienbaecker/kirby-enhanced-textarea.git
