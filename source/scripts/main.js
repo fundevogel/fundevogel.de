@@ -1,7 +1,7 @@
 'use strict';
 
 /*
- * Importing partials
+ * Importing functions ..
  */
 
 import featureDetection from './partials/featureDetection';
@@ -10,7 +10,7 @@ import backToTop from './partials/backToTop';
 import macyJS from './partials/macy';
 
 /*
- * Loading scripts
+ * .. and executing them
  */
 
 featureDetection();
