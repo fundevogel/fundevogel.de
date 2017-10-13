@@ -6,11 +6,11 @@ Handle: Shop
 
 ----
 
-Title: Unser Shop
+Title: Our Shop
 
 ----
 
-Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&storeId=63715&langId=-3
+Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&amp;storeId=63715&amp;langId=-3
 
 ----
 

@@ -1,4 +1,4 @@
-Title: Unser Netzwerk
+Title: Our Partners
 
 ----
 
@@ -6,7 +6,7 @@ Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen!
 
 ----
 
-Text:
+Text: 
 
 ## In guter Gesellschaft
 > „Es ist nicht gut, dass der Mensch alleine sei, und besonders nicht, dass er alleine arbeite; vielmehr bedarf er der Teilnahme und Anregung, wenn etwas gelingen soll.“
@@ -16,38 +16,38 @@ Wir suchen die Kooperation überall da, wo Kinder und Jugendliche mit Büchern z
 
 ----
 
-Netzwerk:
+Netzwerk: 
 
--
+- 
   street: Nadja Rümelin
   zip: ndakndkad
   city: text
   desc: 'Nicht mehr vor Ort und trotzdem dabei: Kollegin (link: http://nadjaruemelin.de text: Nadja Rümelin) steuert von Erfurt aus Grafisches, Gezeichnetes und Gedachtes bei und ist auch sonst ganz dem (Kinder)buch verschrieben – als Illustratorin, Autorin und Setzerin. Wer genau hinschaut, kann ihren Namen ab und zu in unseren Regalen entdecken …'
--
+- 
   desc: 'Vom Kinderbuch zu den (link: http://www.buchkinder.de/ text: Buchkindern popup: yes): Unsere ehemalige Kollegin Katharina arbeitet nun in einer Leipziger Schreib- und Druckwerkstatt, in der Kinder- und Jugendliteratur in ihrer reinsten Form entsteht: Von Kindern geschrieben, illustriert und gestaltet und dann in kleiner Auflage zum eigenen Buch gebunden. Wir freuen uns, diese spannenden Geschichten und Bilder auch nach Freiburg zu holen.'
--
+- 
   desc: 'Als Kooperationspartner des SC Freiburg unterstützen wir den (link: http://www.fuechsleclub.de/ text: Füchsle Club) bei seinem Projekt ‚Fussball und Lesen‘, u.a. mit der Aktion LeseTüte, mit regelmäßigen Rezensionen und gemeinsamen Veranstaltungen. Wer mag, findet uns auch alljährlich mit einem Stand bei der Saisoneröffnung im Stadion.'
--
+- 
   desc: 'Auch bei uns sind (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk popup: yes): Seit einiger Zeit zieren die schönen Schriftzüge von Monika Schwab unsere Blumenkästen im Schaufenster. Da wir oft gefragt werden, wo man diese denn herbekommt, möchten wir alle Fans der „Wortschätze“ auf die Website der Künstlerin verweisen.'
--
+- 
   desc: 'Unter Federführung des Kulturamts Freiburg, namentlich (link: http://www.kulturelle-bildung-freiburg.de/index.php?id=55 text: Martina Wolff popup: yes) und (link: http://www.junges.theater.freiburg.de/ text: Michael Kaiser popup: yes) vom Jungen Theater Freiburg, begleiten wir die Vorbereitungen und Durchführung des großen (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes popup: yes), das jährlich im Oktober stattfindet.'
--
+- 
   desc: 'Hier sind wir öfters zu Gast, dem (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone popup: yes) in St. Märgen: Ein absolut vorbildliches und unterstützenswertes Projekt der dortigen Landfrauen. Schöne Bücher für die kleinen Gäste zum Anschauen gibts dort auch!'
--
+- 
   desc: 'Die Schauspielerin (link: http://www.petra-gack.de/ text: Petra Gack popup: yes) und der Musiker (link: http://www.mike-schweizer.de/Home.html text: Mike Schweizer popup: yes) sind Teil unseres Netzwerks, weil wir mit ihnen wundervolle Veranstaltungen machen können.'
--
+- 
   desc: |
     (link: http://kathinkamarcks.com/ text: Kathinka Marcks popup: yes):
     „Sprache ist kein Hindernis, sondern eine Möglichkeit!“
--
+- 
   desc: 'Das (link: http://www.literaturbuero-freiburg.de/cms/ text: Literaturbüro Freiburg popup: yes) gehört zu unseren Partnern, weil man dort unter anderem so tolle Projekte wie die ‚Freileser‘ findet.'
--
+- 
   desc: 'Gönn Dir mal wieder ein kleines Märchen…mit einem Stück Drachenschuppenkuchen im (link: http://www.cafe-fabelhaft.org/ text: Café Fabelhaft popup: yes)! Das ist was Ihr, unter anderem, an diesem fabelhaften Ort geniessen könnt. Noch dazu könnt Ihr montags stundenlang puzzlen, und dienstags ein Märchen anhören. Ein schönes Café zum Entschleunigen mit oder ohne Kinder!'
--
+- 
   desc: 'Zu unseren liebsten Nachbarn gehört das (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst popup: yes). Nicht allein, weil es direkt gegenüber vom Fundevogel liegt, sondern auch weil Kunst und Literatur im Alltag nicht weit voneinander entfernt sind.'
--
+- 
   desc: '(link: http://www.traeumothek.de/ text: Träumothek - Innehalten, Erzählen, Träumen popup: yes). Ein Kulturzentrum zum Tagträumen ... Es ist ein Ort des Innehaltens in Zeiten von allgemeiner Hektik, eine Ruheoase, in der Schäferwägen, aussergewöhnliche Hängezelte und Hängematten dazu einladen, einfach mal nichts zu tun, und der eigenen Vorstellungskraft und Kreativität freien Raum zu lassen. Wir freuen uns, dass unsere Postkarten die Tagträumereien anspornen dürfen.'
--
+- 
   desc: 'Die Sonne scheint und die Stühle vom (link: http://www.cafemarcel.de/ text: Café Marcel popup: yes) sind wieder im Stadtgarten zu sehen! Während die Eltern Freiburger Kaffee und französische Croissants genießen, können sich die Kinder auf dem nahgelegenen Spielplatz vergnügen.'
 
 ----
@@ -61,3 +61,11 @@ Motto: Das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und
 ----
 
 Subtitle: Unsere Kooperationspartner
+
+----
+
+Seo: 
+
+-
+  seo-title: "Unser Netzwerk"
+  seo-description: "Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden."

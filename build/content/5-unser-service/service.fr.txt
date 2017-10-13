@@ -36,7 +36,7 @@ Services:
 - 
   desc: "Des **enfants de primaire et de crèche**, qui viennent régulièrement participer à nos manifestations. Afin de pouvoir préparer au mieux votre visite et de répondre à vos attentes, merci d'inscrire votre classe à l'avance."
 - 
-  desc: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
+  desc: 'Un petit **coin jeux** et un beau **cheval à bacule**, une **table à langer**, des chaises et un canapé pour lire tranquillement, une **équipe motivée** et bien sûr un tas de **livres de qualité** pour les petits comme pour les grands !'
 
 ----
 

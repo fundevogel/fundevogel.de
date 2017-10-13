@@ -6,11 +6,12 @@ Date: 2017-02-10
 
 ----
 
-Text:
+Text: 
 
-##Wir freuen uns auf Sie
-Hier ensteht ein Einleitungstext zu unserem Veranstaltungskalender.
-Mit einem Klick auf diesen Kalender können Sie sämtliche Termine des Fundevogels bequem in Ihren Kalender importieren.
+## We look forward to seeing you
+Here you will find all information about the current events of the Fundevogel.
+
+If you want to see what we have done in the past, you can also find the past events here.
 
 ----
 
@@ -31,3 +32,15 @@ Perpage: 1
 ----
 
 Handle: Calendar
+
+----
+
+Button: Vergangene Veranstaltungen
+
+----
+
+Seo: 
+
+-
+  seo-title: "Veranstaltungskalender"
+  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"

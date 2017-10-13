@@ -1,0 +1,275 @@
+Title: Kindergarten + Schule
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Carolus
+  description: Kindergarteninterne Veranstaltung
+  what: Buchausstellung (kindergartenintern)
+  location: Kindergarten St. Carolus
+  begin_date: 2016-11-07
+  end_date: 2016-11-11
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Blasius
+  description: Kindergarteninterne Veranstaltung
+  what: Buchausstellung (kindergartenintern)
+  location: Kindergarten St. Blasius
+  begin_date: 2016-11-14
+  end_date: 2016-11-18
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten concept
+    maternel in Freiburg St.-Georgen
+  description: Kindergarteninterne Veranstaltung
+  what: Buchausstellung (kindergartenintern)
+  location: Kindergarten "concept maternel"
+  begin_date: 2016-12-05
+  end_date: 2016-12-09
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Büchertisch in der Grundschule
+    Hugstetten
+  description: Schulinterne Veranstaltung
+  begin_date: 2017-03-27
+  begin_time: ""
+  end_date: 2017-03-31
+  end_time: ""
+  location: Grundschule Hugstetten
+  what: Büchertisch (schulintern)
+- 
+  summary: Welttag des Buches
+  description: |
+    In diesem Zeitraum besuchen uns jeweils vormittags Schulklassen der 4. und 5. Klassen. Mit jeder Klasse führen wir eine etwa anderthalbstündige (klasseninterne) Veranstaltung anlässlich des Welttag des Buches durch.
+    
+    Informationen zur Anmeldung für 2018 unter 0761/25218 oder (link: http://www.welttag-des-buches.de text: im Netz).
+  begin_date: 2017-04-24
+  begin_time: ""
+  end_date: 2017-05-12
+  end_time: ""
+  location: Fundevogel
+  what: Klasseninterne Veranstaltung
+- 
+  summary: Büchertisch im Kindergarten St. Michael
+  description: Kindergarteninterne Ausstellung
+  begin_date: 2017-04-24
+  begin_time: ""
+  end_date: 2017-04-28
+  end_time: ""
+  location: Kindergarten St. Michael
+  event_type: Büchertisch
+  what: Büchertisch (kindergartenintern)
+- 
+  summary: Buchausstellung in der Kita Rotlaub
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kita Rotlaub
+  begin_date: 2017-10-09
+  end_date: 2017-10-13
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Blasius
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten St. Blasius
+  begin_date: 2017-11-13
+  end_date: 2017-11-17
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Gallus
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten St. Gallus
+  begin_date: 2017-11-13
+  end_date: 2017-11-17
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten
+    Sonnenwiese
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten Sonnenwiese
+  begin_date: 2017-11-20
+  end_date: 2017-11-23
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung im Kindergarten
+    Westarkaden
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindergarten Westarkaden
+  begin_date: 2017-11-20
+  end_date: 2017-11-23
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Buchausstellung in der Schule Paula
+    Fürst
+  description: ""
+  what: Schulinterne Ausstellung
+  location: Schule Paula Fürst
+  begin_date: 2017-11-30
+  end_date: 2017-12-01
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Eröffnungsfest des Lirum Larum
+    Lesefests
+  description: |
+    An diesem Sonntag startet das grosse Lirum Larum Lesefest mit einem Feuerwerk an Veranstaltungen im Stadttheater Freiburg. Alle Veranstaltungen im Rahmen des LirumLarum-
+    Lesefests an diesem Tag im Theater Freiburg sind
+    öffentlich und der Eintritt ist frei. Das Programm für diesen Tag sowie für die geamte Woche findet ihr unter dem Link: http://www.freiburg.de/pb/,Lde/230520.html
+  what: Lirum Larum Lesefest
+  location: Stadttheater Freiburg
+  begin_date: 2017-10-15
+  end_date: 2017-10-15
+  begin_time: 12:30
+  end_time: 18:30
+- 
+  summary: Aktion Lesetüte
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen .
+  what: Schulinterne Ausstellung
+  location: >
+    Grundschule Löffingen Außenstelle
+    Göschweiler
+  begin_date: 2017-09-20
+  end_date: 2017-09-20
+  begin_time: 11:00
+  end_time: 12:00
+- 
+  summary: Aktion Lesetüte
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen .
+  what: Schulinterne Ausstellung
+  location: Wolftalschule in Oberwolfach
+  begin_date: 2017-09-21
+  end_date: 2017-09-21
+  begin_time: 09:45
+  end_time: 10:45
+- 
+  summary: Aktion Lesetüte
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen .
+  what: Schulinterne Ausstellung
+  location: Grundschule Lahr-Sulz
+  begin_date: 2017-09-27
+  end_date: 2017-09-27
+  begin_time: 09:15
+  end_time: 10:15
+- 
+  summary: Aktion Lesetüte
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen .
+  what: schulinterne Veranstaltung
+  location: Loretto-Grundschule Freiburg
+  begin_date: 2017-10-13
+  end_date: 2017-10-13
+  begin_time: 09:45
+  end_time: 10:45
+- 
+  summary: Aktion Lesetüte
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen .
+  what: Schulinterne Ausstellung
+  location: >
+    Maria Sybilla Merian Grundschule
+    Kiechlinsbergen Königschaffhausen
+  begin_date: 2017-10-17
+  end_date: 2017-10-17
+  begin_time: 09:15
+  end_time: 10:15
+- 
+  summary: >
+    Buchausstellung im Waldkindergarten
+    Buchenbach
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Waldkindergarten Buchenbach
+  begin_date: 2017-10-23
+  end_date: 2017-10-27
+  begin_time: ""
+  end_time: ""

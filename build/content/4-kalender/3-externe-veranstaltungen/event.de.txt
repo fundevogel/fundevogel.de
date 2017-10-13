@@ -42,3 +42,92 @@ Events:
   end_time: 18:00
   what: Büchertisch
   location: Museum Natur und Mensch
+- 
+  summary: >
+    Büchertisch zum Erntedank in der
+    Friedensgemeinde
+  description: >
+    Wie jedes Jahr freuen wir uns besonders
+    am Fest der Friedensgemeinde anläßlich
+    Erntedank mit einem Büchtisch
+    teilnehmen zu dürfen. Immer wieder eine
+    besondere Atmosphäre!
+  what: offene Veranstaltung, ganztägig
+  location: Friedensgemeinde Hirzbergstraße
+  begin_date: 2017-09-24
+  end_date: 2017-09-24
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Büchertisch anlässlich der Lesung von
+    Andreas Steinhöfel
+  description: >
+    Mit seinem neuen Rico-Oskar-Buch ist
+    Andreas Steinhöfel zu Gast im
+    Literaturhaus. Er wird aus "Rico, Oskar
+    und das Vomhimmelhoch" vorlesen, ein
+    Buch, das Ende September erscheint.
+  what: >
+    Anmeldung bitte beim Literaturbüro
+    Freiburg
+  location: Literaturhaus Freiburg
+  begin_date: 2017-11-17
+  end_date: 2017-11-17
+  begin_time: 17:00
+  end_time: 18:30
+- 
+  summary: >
+    Adventsausstellung in der Oberlin
+    Grundschule
+  description: >
+    Zum Adventscafé präsentiert der
+    Fundevogel einen bunten Strauß von
+    Büchern.
+  what: schulinterne Veranstaltung
+  location: Oberlin Schule in Freiburg
+  begin_date: 2017-12-01
+  end_date: 2017-12-02
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Büchertisch anlässlich der Lesung von
+    Andreas Venzke
+  description: 'Büchertisch bei der Veranstaltung mit dem Füchsleclub des SC-Freiburg: »CARLOS KANN DOCH TORE SCHIESSEN«, Lesung mit Andreas Venzke'
+  what: Lesung
+  location: >
+    Schwarzwald-Stadion. Schwarzwaldstraße
+    193, 79117 Freiburg. Ausgebucht!
+  begin_date: 2017-10-17
+  end_date: 2017-10-17
+  begin_time: 11:30
+  end_time: 12:30
+- 
+  summary: >
+    Buchausstellung in der
+    Kindertagesstätte Immergrün
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindertagesstätte Immergrün
+  begin_date: 2017-11-17
+  end_date: 2017-11-01
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Fête du livre / Bücherfest in der
+    deutsch-französischen Grundschule
+  description: >
+    Anlässlich des deutsch-französischen
+    Bücherfests präsentieren wir Ihnen
+    eine Auswahl an französischen und
+    bilingualen Bücher. Venez nombreux !
+  what: Büchertisch
+  location: >
+    Deutsch-Französische Grundschule,
+    Belchenstraße 2, 79115 Freiburg
+  begin_date: 2017-11-25
+  end_date: 2017-11-25
+  begin_time: 12:00
+  end_time: 16:30

@@ -77,3 +77,40 @@ Events:
   end_time: ""
   location: Fundevogel
   what: Lesungen
+- 
+  summary: Lesung mit Oliver Scherz
+  description: >
+    Was tut man, wenn spätabends ein
+    Elefant ans Fenster klopft? Wenn dieser
+    Elefant aus dem Zoo ausgebrochen ist, um
+    seine Großfamilie in Afrika zu
+    besuchen? Und wenn er gar nicht weiß,
+    wo Afrika überhaupt liegt? Man packt
+    Äpfel, Kekse und einen Globus in den
+    Rucksack und begleitet ihn. Genau das
+    tun Joscha und Marie. So weit wird
+    Afrika nicht sein, denken sie und
+    erleben eine Reise, die alles
+    übertrifft, was sie sich vorgestellt
+    haben. Mit seinem Buch "Wir sind nachher
+    wieder da, wir müssen kurz nach Afrika"
+    ist Oliver Scherz zu Gast im Fundevogel.
+  what: 'Lesung ab 6 Jahre. Eintritt frei. Anmeldung per Telefon: 0761/25218 oder E-Mail: info@fundevogel.de'
+  location: Fundevogel
+  begin_date: 2017-10-17
+  end_date: 2017-10-17
+  begin_time: 15:00
+  end_time: 16:30
+- 
+  summary: HerbstLESE
+  description: 'Dieser Abend besitzt im Fundevogel bereits Tradition! Aus der Vielzahl der Neuheiten haben wir für Sie eine Auswahl von empfehlenswerten Titeln getroffen, die wir Ihnen in einer gemütlichen Atmosphäre persönlich vorstellen.  Sie sind herzlich eingeladen!'
+  what: >
+    Präsentation und Vorstellung
+    ausgewählter Neuerscheinungen
+  location: >
+    Der Eintritt ist frei. Wir bitten um
+    Anmeldung!
+  begin_date: 2017-11-18
+  end_date: 2017-11-18
+  begin_time: 19:00
+  end_time: 22:00
