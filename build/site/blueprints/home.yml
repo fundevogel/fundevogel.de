@@ -1,9 +1,11 @@
 title: Home
+icon: newspaper-o
 
 pages: true
   template: post
   sort: flip
   num: date
+  limit: 10
 
 files: true
   fields:
@@ -14,9 +16,10 @@ files: true
       label: Alternativtext (Was ist zu sehen?)
       type: text
 
-icon: newspaper-o
-
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
@@ -33,4 +36,7 @@ fields:
   subtitle:
     label: Zwischenüberschrift
     type: text
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

@@ -1,0 +1,10 @@
+label: Was wir können
+type: structure
+style: table
+modalsize: large
+entry: >
+  {{desc}}
+fields:
+  desc:
+    label: Beschreibung
+    type: textarea

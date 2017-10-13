@@ -4,6 +4,9 @@ pages: false
 files: true
 
 fields:
+  tab1:
+    label: Hauptinhalt
+    type:  tabs
   title:
     label: Title
     type:  text
@@ -11,4 +14,7 @@ fields:
   text:
     label: Text
     type:  textarea
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

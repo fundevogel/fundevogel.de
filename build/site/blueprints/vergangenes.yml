@@ -4,8 +4,14 @@ pages: false
 files: false
 
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
     required: true
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

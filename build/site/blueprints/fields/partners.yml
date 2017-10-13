@@ -1,0 +1,10 @@
+label: Unsere Kooperationspartner
+type: structure
+style: table
+modalsize: large
+entry: >
+  {{desc}}
+fields:
+  desc:
+    label: Beschreibung
+    type: textarea

@@ -4,6 +4,9 @@ pages: false
 files: false
 
 fields:
+  tab1:
+    label: Hauptinhalt
+    type:  tabs
   title:
     label: Überschrift
     type:  text
@@ -16,4 +19,7 @@ fields:
     label: Rechte Spalte
     type:  textarea
     width: 1/2
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

@@ -1,4 +1,5 @@
 title: Kontakt
+icon: envelope
 
 pages: false
 files: true
@@ -10,9 +11,10 @@ files: true
       label: Alternativtext (Was ist zu sehen?)
       type: text
 
-icon: envelope
-
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
@@ -24,6 +26,9 @@ fields:
     label: Öffnungszeiten
     type: textarea
     width: 1/2
+  tab2:
+    label: Wegbeschreibungen
+    type:  tabs
   bike:
     label: Anfahrt mit Fahrrad
     type: textarea
@@ -33,4 +38,7 @@ fields:
   tram:
     label: Anfahrt mit Tram
     type: textarea
+  tab3:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

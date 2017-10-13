@@ -4,14 +4,14 @@ Title: Unsere AGB
 
 Text: 
 
-##Allgemeine Geschäftsbedingungen (AGB) der Buchhandlung Fundevogel
+## Allgemeine Geschäftsbedingungen (AGB) der Buchhandlung Fundevogel
 
-###§ 1 Geltungsbereich
+### § 1 Geltungsbereich
 Für die Geschäftsbeziehung zwischen der Buchhandlung Fundevogel (im Folgenden: Verkäufer) und dem Besteller gelten die nachfolgenden Allgemeinen Geschäftsbedingungen.
 
 ---
 
-###§ 2 Bestellung
+### § 2 Bestellung
 Sie haben die Möglichkeit, unser Angebot in aller Ruhe zu durchstöbern. Wenn Sie etwas Interessantes entdeckt haben, legen Sie das Produkt in Ihren virtuellen Warenkorb. Dazu klicken Sie auf das kleine Warenkorbsymbol, das wir neben dem Produkt eingeblendet haben. Selbstverständlich haben Sie die Möglichkeit, Produkte jederzeit wieder aus Ihrem Warenkorb herauszunehmen.
 
 Den Bestellvorgang leiten Sie ein, in dem Sie das Schaltfeld „Zur Kasse“ anklicken. Sie werden hierauf gebeten, sich mit Ihren Nutzerdaten anzumelden bzw. als Neukunde ein Nutzerkonto einzurichten. Sie können sich aber auch als Gast anmelden. Dabei werden Ihre Daten nur temporär erfasst. Im Anschluss können Sie wahlweise Ihre Adresse angeben um die bestellten Titel per Post zu erhalten oder sie wählen unsere Buchhandlung als Lieferort aus. Über den Button „Weiter“ gelangen Sie zur Bestellübersicht. Hier erhalten Sie eine komplette Übersicht über die bestellten Titel und die gesamten Kosten. Sie haben hier ebenfalls die Möglichkeit Ihre Bestellung zu verändern oder abzubrechen.
@@ -20,7 +20,7 @@ Durch Betätigen der Schaltfläche „Kauf abschließen“ wird Ihre Bestellung 
 
 ---
 
-###§ 3 Vertragsschluss
+### § 3 Vertragsschluss
 Bei einer Bestellung schließen Sie einen Vertrag mit:
 Buchhandlung Fundevogel, vertreten durch dessen Inhaber Claus-Peter Jepsen, Marienstr. 13 in 79098 Freiburg i. Brsg. Tele.: +49 0761 25218, Telefax: +049 0761 30041, E-Mail. info@fundevogel.de
 
@@ -30,12 +30,12 @@ Die für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.
 
 ---
 
-###§ 4 Vorbehalt der Nichtverfügbarkeit
+### § 4 Vorbehalt der Nichtverfügbarkeit
 Wir behalten uns vor, von einer Ausführung Ihrer Bestellung abzusehen, wenn wir den bestellten Titel nicht vorrätig haben, der nicht vorrätige Titel beim Verlag vergriffen und die bestellte Ware infolgedessen nicht verfügbar ist. In diesem Fall werden wir Sie unverzüglich über die Nichtverfügbarkeit informieren und einen gegebenenfalls von Ihnen bereits gezahlten Kaufpreis unverzüglich rückerstatten.
 
 ---
 
-###§ 5 Versandkosten
+### § 5 Versandkosten
 Die Ware kann bei uns im Ladengeschäft abgeholt werden und ist in diesem Fall selbstverständlich Versandkostenfrei. Sollten Sie Versand wünschen, wird die Ware nach Eingang in unserer Buchhandlung sofort mit Rechnung an Sie versandt. In der Regel liefern wir auf dem Postweg, für dessen Laufzeit wir keine Verantwortung übernehmen können. Die Lieferung erfolgt erfahrungsgemäß innerhalb von 1-3 Tagen. Innerhalb Deutschlands liefern wir ab einem Bestellwert von € 20,- portofrei. Bei einem Bestellwert unter 20,- Euro berechnen wir pauschal € 1,70 Versandkosten.
 
 Bei Lieferungen ins Ausland erheben wir Versandkosten gestaffelt nach Bestellwert:
@@ -47,7 +47,7 @@ Bei einem Bestellwert über 500 EUR erheben wir eine Versandkostenpauschale von 
 
 ---
 
-###§ 6 Zahlung
+### § 6 Zahlung
 Der Kaufpreis ist sofort fällig und ohne Abzug zahlbar, spätestens innerhalb von 14 Tagen nach Rechnungsstellung auf das Konto der
 Buchhandlung Fundevogel, Claus-Peter Jepsen,
 Volksbank Freiburg,
@@ -65,7 +65,7 @@ Im Falle eines Widerrufs (siehe Widerrufsrecht) haben Sie die regelmäßigen Kos
 
 ---
 
-###§ 7 Eigentumsvorbehalt
+### § 7 Eigentumsvorbehalt
 Bis zur vollständigen Erfüllung der Kaufpreisforderung durch den Besteller verbleibt die gelieferte Ware im Eigentum des Verkäufers.
 
 ---
@@ -75,7 +75,7 @@ Es gilt das gesetzliche Mängelhaftungsrecht.
 
 ---
 
-###§ 9 Anwendbares Recht und Gerichtsstand
+### § 9 Anwendbares Recht und Gerichtsstand
 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
 
 Ist der Besteller Kaufmann oder juristische Person des öffentlichen Rechts, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus dem Vertragsverhältnis das für unseren Firmensitz Freiburg i.Brsg. zuständige Gericht.

@@ -6,6 +6,9 @@ pages:
 files: true
 icon: calendar
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type:  text
@@ -31,4 +34,7 @@ fields:
     label: Stand des Kalenders
     type: date
     width: 1/4
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

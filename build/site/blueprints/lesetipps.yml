@@ -1,9 +1,11 @@
 title: Lesetipps
+icon: book
 
 pages: true
   template: lesetipp
   sort: flip
   num: date
+  limit: 10
 
 files: true
   fields:
@@ -17,9 +19,10 @@ files: true
       label: Alternativtext
       type: text
 
-icon: book
-
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
@@ -45,4 +48,7 @@ fields:
     type: select
     width: 1/2
     options: documents
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo

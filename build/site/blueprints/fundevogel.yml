@@ -1,4 +1,5 @@
 title: Fundevogel & Team
+icon: users
 
 pages: false
 files: true
@@ -9,8 +10,6 @@ files: true
     alt:
       label: Alternativtext (Was ist zu sehen?)
       type: text
-
-icon: users
 
 fields:
   tab1:

@@ -1,11 +1,13 @@
 title: Shop
+icon: shopping-cart
 
 pages: false
 files: false
 
-icon: shopping-cart
-
 fields:
+  tab1:
+    label: Einleitung
+    type:  tabs
   title:
     label: Überschrift
     type: text
@@ -17,4 +19,7 @@ fields:
   iframe:
     label: iFrame-Link
     type:  text
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo
