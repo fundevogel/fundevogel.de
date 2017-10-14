@@ -15,14 +15,19 @@ Angaben:
 - 
   titel: Salon Salami. Einer ist immer besonders
   verdict: >
-    Eine spannende, lustige und doch sehr kluge Geschichte.
+    Eine spannende, lustige und doch sehr
+    kluge Geschichte.
   autor: Benjamin Tienti
   verlag: Dressler Verlag
   isbn: 978-3-7915-0047-8
-  cover: salon-salami.jpg
+  cover: salon-salami_benjamin-tienti.jpg
   preis: 12,99
   alter: ab 10 Jahren
 
 ----
 
 Seo: 
+
+----
+
+Conclusion: 

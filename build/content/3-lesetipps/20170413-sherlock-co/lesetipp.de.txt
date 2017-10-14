@@ -20,7 +20,7 @@ Angaben:
   autor: Sam Hearn
   verlag: Schneider Verlag
   isbn: 978-3-505-13973-4
-  cover: sherlock-und-co.jpg
+  cover: sherlock-und-co_sam-hearn.jpg
   preis: 10,00
   alter: ab 9 Jahren
 

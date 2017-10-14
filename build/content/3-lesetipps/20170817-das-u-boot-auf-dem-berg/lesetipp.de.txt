@@ -10,19 +10,20 @@ Text: Als der schüchterne Mauritius Besuch von seinem Onkel bekommt, fängt sei
 
 ----
 
-Angaben: 
+Angaben:
 
-- 
+-
   titel: Das U-Boot auf dem Berg
   verdict: >
     Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
   autor: Ulrich Fasshauer
   verlag: Tulipan
   isbn: 978-3-864-29367-2
-  cover: u-boot-auf-dem-berg_ulrich-fasshauer.jpg
+  cover: >
+    u-boot-auf-dem-berg_ulrich-fasshauer.jpg
   preis: "13"
   alter: ab 10 Jahren
 
 ----
 
-Seo: 
+Seo:

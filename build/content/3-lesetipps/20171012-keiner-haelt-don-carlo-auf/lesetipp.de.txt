@@ -16,7 +16,7 @@ Angaben:
   titel: Keiner hält Don Carlo auf
   verdict: |
     Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
-    Übrigens: Oliver Scherz, der Autor dieser Geschichte ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern.
+    Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern.
   autor: Oliver Scherz
   verlag: Thienemann Verlag
   isbn: 978-3-522-18395-6

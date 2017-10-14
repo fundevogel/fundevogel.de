@@ -6,7 +6,7 @@ Date: 2017-10-12
 
 ----
 
-Text:
+Text: 
 
 Finn und Frieda lieben den Sommer, denn ein sonniger, heißer Tag mit Eis und Abenteuern im Garten folgt auf den nächsten.
 Doch eines Morgens wachen sie auf, und draußen ist es kalt und regnerisch. Die Blätter an den Bäumen haben sich bunt gefärbt, die Pflaumen sind fast reif und ein Drachen steigt am Horizont auf.
@@ -16,9 +16,9 @@ Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: Finn und Frieda halten den Herbst auf
   verdict: ""
   autor: Martin Klein
@@ -26,13 +26,13 @@ Angaben:
   isbn: 9783-8642-9395-5
   cover: >
     finn-und-frieda-halten-den-herbst-auf_martin-klein.jpg
-  preis: 8,95
+  preis: 8,95 Euro
   alter: 'Ab 7 - Für Leseanfänger'
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Seo:
+Seo: 

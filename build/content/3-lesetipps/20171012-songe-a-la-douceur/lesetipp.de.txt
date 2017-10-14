@@ -17,10 +17,10 @@ Angaben:
   verdict: "Ecrite en vers, cette histoire d'amour intemporelle déroute, envôute, et emmène loin, très loin. Laissons-nous porter par ce flot pour songer, nous aussi, à la douceur."
   autor: Clémentine Beauvais
   verlag: Editions Sarbacane
-  isbn: 978-2-848-65908-4
+  isbn: "9782848659084"
   cover: >
     songe-a-la-douceur_clementine-beauvais.jpg
-  preis: 22,80
+  preis: 22,80 Euro
   alter: à partir de 13 ans
 
 ----

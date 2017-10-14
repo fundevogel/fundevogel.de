@@ -6,13 +6,7 @@ Date: 2017-07-27
 
 ----
 
-Text: 
-
-Die großen Ferien stehen an und Max kann es kaum erwarten endlich nach Frankreich ans Meer zu kommen, denn es müssen ja noch Sandburgen gebaut und ferngesteuerte Schiffe schwimmen gelassen werden.
-Doch kaum angekommen muss Max feststellen, dass die Wellen zu hoch sind für sein Schiff. Bevor er jedoch allzu enttäuscht sein kann, steht plötzlich Marie vor ihm, barfüßig, in ihrem hellblauen Kleid, den kurzen
-schwarzen Haaren und den herrlich duftenden Zuckerkringeln, die sie in ihrem Bauchladen verkauft. Vergessen ist das Boot, denn Max kann nur noch an Marie denken und daran, wie er ihr am Besten helfen kann
-ganz viele Zuckerkringel zu verkaufen. Denn Marie braucht ganz dringend Geld, sonst muss der kranke, alte Nachbar sein Pferd verkaufen. Und obwohl die beiden ganz viele Zuckerkringel und selbstgemachte Glücks-
-muscheln verkaufen reicht das Geld trotzdem nicht. Und dann ist da auch noch Luuk, ein anderer Junge, der Marie unbedingt helfen will. Jetzt muss Max sich aber ins Zeug legen...
+Text: Die großen Ferien stehen an und Max kann es kaum erwarten endlich nach Frankreich ans Meer zu kommen, denn es müssen ja noch Sandburgen gebaut und ferngesteuerte Schiffe schwimmen gelassen werden. Doch kaum angekommen muss Max feststellen, dass die Wellen zu hoch sind für sein Schiff. Bevor er jedoch allzu enttäuscht sein kann, steht plötzlich Marie vor ihm, barfüßig, in ihrem hellblauen Kleid, den kurzen schwarzen Haaren und den herrlich duftenden Zuckerkringeln, die sie in ihrem Bauchladen verkauft. Vergessen ist das Boot, denn Max kann nur noch an Marie denken und daran, wie er ihr am Besten helfen kann ganz viele Zuckerkringel zu verkaufen. Denn Marie braucht ganz dringend Geld, sonst muss der kranke, alte Nachbar sein Pferd verkaufen. Und obwohl die beiden ganz viele Zuckerkringel und selbstgemachte Glücksmuscheln verkaufen reicht das Geld trotzdem nicht. Und dann ist da auch noch Luuk, ein anderer Junge, der Marie unbedingt helfen will. Jetzt muss Max sich aber ins Zeug legen ...
 
 ----
 
@@ -21,7 +15,9 @@ Angaben:
 - 
   titel: Zuckerkringel-Ferien mit Marie
   verdict: >
-    Ein spannendes Ferienabenteuer über die allererste Liebe und eine starke Freundschaft.
+    Ein spannendes Ferienabenteuer über die
+    allererste Liebe und eine starke
+    Freundschaft.
   autor: Beate Döling, Didier Laget
   verlag: DTV Junior
   isbn: 978-3-423-76174-1
@@ -32,3 +28,7 @@ Angaben:
 ----
 
 Seo: 
+
+----
+
+Conclusion: 
