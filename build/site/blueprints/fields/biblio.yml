@@ -29,7 +29,9 @@ fields:
     width: 1/2
   cover:
     label: Buchcover
-    type: image
+    type: quickselect
+    placeholder: Wähle ein Bild ..
+    options: images
     width: 1/2
   preis:
     label: Preis (ohne €)

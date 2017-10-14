@@ -19,3 +19,6 @@
 [submodule "build/site/plugins/compress"]
 	path = build/site/plugins/compress
 	url = https://github.com/iksi/kirby-compress.git
+[submodule "build/site/plugins/quickselect"]
+	path = build/site/plugins/quickselect
+	url = https://github.com/medienbaecker/kirby-quickselect.git
