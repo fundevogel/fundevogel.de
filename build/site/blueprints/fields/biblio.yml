@@ -13,28 +13,29 @@ fields:
   titel:
     label: Buchtitel
     type: text
+    width: 2/3
+  isbn:
+    label: ISBN (xxx-x-xxx-xxxxx-x)
+    type: text
+    width: 1/3
   verdict:
     label: Einschätzung
     type: textarea
   autor:
     label: AutorIn
     type: text
+    width: 1/2
   verlag:
     label: Name des Verlags
     type: text
-  isbn:
-    label: ISBN
-    type: text
-    help: 'Ohne "ISBN"'
     width: 1/2
   cover:
     label: Buchcover
     type: quickselect
     placeholder: Wähle ein Bild ..
     options: images
-    width: 1/2
   preis:
-    label: Preis (ohne €)
+    label: Preis (ohne Euro / €)
     type: text
     width: 1/3
   alter:

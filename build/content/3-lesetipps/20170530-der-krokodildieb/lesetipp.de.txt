@@ -10,9 +10,9 @@ Text: Der schüchterne Odd findet den Schulausflug ins Aquarium ein bisschen gru
 
 ----
 
-Angaben: 
+Angaben:
 
-- 
+-
   titel: Der Krokodildieb
   verdict: >
     Empfehlenswert!
@@ -20,9 +20,9 @@ Angaben:
   verlag: 'Beltz&Gelberg'
   isbn: 9783-4078-2109-6
   cover: der-krokodildieb.jpg
-  preis: 12,95 Euro
+  preis: 12,95
   alter: ab 8 Jahren
 
 ----
 
-Seo: 
+Seo:
