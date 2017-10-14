@@ -34,6 +34,7 @@ fields:
     type: quickselect
     placeholder: Wähle ein Bild ..
     options: images
+    required: true
   preis:
     label: Preis (ohne Euro / €)
     type: text

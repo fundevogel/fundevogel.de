@@ -32,10 +32,20 @@ fields:
     label: Bibliographisches
     type:  tabs
   angaben: biblio
+  conclusion_toggle:
+    label: Einfach- oder Mehrfachrezension?
+    type: fieldtoggle
+    width: 2/3
+    options:
+      yes: "Einzelnes Buch"
+      no: "Mehrere Bücher"
+    show:
+      no: conclusion
+    hide:
+      yes: conclusion
   conclusion:
     label: Zusammenfassung
     type:  textarea
-    help: Wird nur für Mehrfachrezensionen angezeigt!
   tab3:
     label: Meta-Informationen
     type:  tabs
