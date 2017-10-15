@@ -90,3 +90,7 @@ Seo:
 -
   seo-title: ""
   seo-description: "Hier geht's zu den Allgemeinen Geschäftsbedingungen (kurz AGB) der Freiburger Kinder- und Jugendbuchhandlung Fundevogel."
+
+----
+
+Translation-ready: 1

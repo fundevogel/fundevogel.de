@@ -20,6 +20,8 @@ files: true
       type: text
 
 fields:
+  translation_ready:
+    type: translations
   tab1:
     label: Einleitung
     type:  tabs
@@ -40,12 +42,12 @@ fields:
     type: textarea
   pdf_spring:
     label: Frühjahrsempfehlungen
-    type: select
+    type: quickselect
     width: 1/2
     options: documents
   pdf_autumn:
     label: Herbstempfehlungen
-    type: select
+    type: quickselect
     width: 1/2
     options: documents
   tab2:

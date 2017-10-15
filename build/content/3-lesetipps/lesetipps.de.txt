@@ -48,3 +48,7 @@ Seo:
 -
   seo-title: "Lesetipps"
   seo-description: "Mit unseren aktuellen Empfehlungen teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben!"
+
+----
+
+Translation-ready: 1

@@ -10,7 +10,7 @@ Text:
 
 ## In guter Gesellschaft
 > „Es ist nicht gut, dass der Mensch alleine sei, und besonders nicht, dass er alleine arbeite; vielmehr bedarf er der Teilnahme und Anregung, wenn etwas gelingen soll.“
-> <cite> Johann Wolfgang von Goethe</cite>
+> <cite>Johann Wolfgang von Goethe</cite>
 
 Wir suchen die Kooperation überall da, wo Kinder und Jugendliche mit Büchern zusammenkommen. Wir suchen Partnerschaften dort, wo uns eine gemeinsame Idee verbindet:
 
@@ -22,7 +22,7 @@ Netzwerk:
   street: Nadja Rümelin
   zip: ndakndkad
   city: text
-  desc: 'Nicht mehr vor Ort und trotzdem dabei: Kollegin (link: http://nadjaruemelin.de text: Nadja Rümelin) steuert von Erfurt aus Grafisches, Gezeichnetes und Gedachtes bei und ist auch sonst ganz dem (Kinder)buch verschrieben – als Illustratorin, Autorin und Setzerin. Wer genau hinschaut, kann ihren Namen ab und zu in unseren Regalen entdecken …'
+  desc: 'Nicht mehr vor Ort und trotzdem dabei: Kollegin (link: http://nadjaruemelin.de text: Nadja Rümelin popup: yes) steuert von Erfurt aus Grafisches, Gezeichnetes und Gedachtes bei und ist auch sonst ganz dem (Kinder)buch verschrieben – als Illustratorin, Autorin und Setzerin. Wer genau hinschaut, kann ihren Namen ab und zu in unseren Regalen entdecken …'
 - 
   desc: 'Vom Kinderbuch zu den (link: http://www.buchkinder.de/ text: Buchkindern popup: yes): Unsere ehemalige Kollegin Katharina arbeitet nun in einer Leipziger Schreib- und Druckwerkstatt, in der Kinder- und Jugendliteratur in ihrer reinsten Form entsteht: Von Kindern geschrieben, illustriert und gestaltet und dann in kleiner Auflage zum eigenen Buch gebunden. Wir freuen uns, diese spannenden Geschichten und Bilder auch nach Freiburg zu holen.'
 - 
@@ -67,5 +67,13 @@ Subtitle: Unsere Kooperationspartner
 Seo: 
 
 -
-  seo-title: "Unser Netzwerk"
+  seo-title: "Our partners"
   seo-description: "Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden."
+
+----
+
+Translation-ready: 0
+
+----
+
+Url-key: our-partners

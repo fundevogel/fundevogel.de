@@ -58,3 +58,7 @@ Seo:
 -
   seo-title: "Fundevogel & Team"
   seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
+
+----
+
+Translation-ready: 1

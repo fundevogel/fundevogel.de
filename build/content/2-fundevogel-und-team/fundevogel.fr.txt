@@ -15,19 +15,19 @@ Image:
 
 Fundevogel: 
 
-## Fundevogel,
-das ist der Titel eines Märchens der Brüder Grimm. Es handelt von zwei Kindern, die gemeinsam aufwachsen und sich ewigen Zusammenhalt schwören.
+## Fundevogel ..
+.. c'est le titre d'un conte des frères Grimm. En francais, il a été traduit par "Volé-Trouvé". Il raconte l'histoire de Linette et Volé-Trouvé, deux enfants qui grandissent ensemble et se jurent de ne jamais se quitter. 
 
-> ... da sprach Lehnchen zum Fundevogel: „Verlässt du mich nicht, so verlass ich dich auch nicht!“ – so sprach der Fundevogel: „Nun und nimmermehr.“ 
+> ... Linette réveille Volé-Trouvé et lui dit : "Si tu ne me quittes pas, je ne te quitte pas non plus." Il répond : "Ni maintenant, ni jamais!"
 
-Einen solchen Zusammenhalt wünschen wir uns auch – sowohl untereinander im Team, als auch mit unseren Nachbarn, Freunden und Besuchern.
+Nous aspirons également à une telle solidarité, au sein de notre équipe mais aussi avec nos voisins, nos amis et nos visiteurs.
 
 ----
 
 About-us: 
 
-### Über uns
-Wir sind ein bunt gemischtes Team aus Buchhändlerinnen, Pädagogen und Freischaffenden. Am Anfang, Mitte der 80er Jahre, stand eine Gruppe junger Leute mit großen Ideen und der Liebe zu Büchern. Nicht unwesentlich motiviert durch das Werk von Michael Ende, wollten sie die Welt der Kinder- und Jugendliteratur ernst nehmen und ihr mit einem besonderen Laden an der Schwelle zur Freiburger Innenstadtflut ein eigenes kleines Universum eröffnen. Noch heute da sind der Laden, die Liebe und die Idee – Einer, der blieb, und Andere, die kamen und kommen, um mit ihren Ideen dem Fundevogel immer neue Flügel wachsen zu lassen. So unterschiedlich, wie wir sind, treffen wir uns nicht immer im selben Punkt … doch Hand in Hand wird ein Kreis daraus, in dem wir uns sehr wohl fühlen – und Ihr hoffentlich ebenso!
+## Qui sommes-nous?
+Notre sommes une petite équipe de libraires, de pédagogues et d'étudiants, tous passionnés de littérature. Tout a commencé dans les années 80, quand un groupe de jeunes adultes, rassemblés autour d'idées communes et motivés notamment par l'oeuvre de Michael Ende, décida de prendre au sérieux la littérature jeunesse. Pour cela, ils lui dédièrent un espace en plein coeur de Freiburg, dans une belle petite boutique. De ce groupe n'est resté qu'un membre, qui a fait fleurir la librairie de ses idées et de son amour pour les livres. D'autres personnes l'ont tour à tour accompagné et épaulé, et participent à faire de Fundevogel ce que la librairie est aujourd'hui. Tous différents, nos collègues passés et présents suivent chacun leur chemin, mais main dans la main, nous restons un cercle au sein duquel il fait bon vivre. Nous espérons pouvoir vous le faire sentir!
 
 ----
 
@@ -49,7 +49,7 @@ Handle: Fundevogel
 
 ----
 
-Caption: So sieht's bei uns aus!
+Caption: C'est chez nous!
 
 ----
 
@@ -58,3 +58,11 @@ Seo:
 -
   seo-title: "Fundevogel & Team"
   seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
+
+----
+
+Translation-ready: 1
+
+----
+
+Url-key: fundevogel-et-team

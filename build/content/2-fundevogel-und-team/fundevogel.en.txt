@@ -1,4 +1,4 @@
-Title: Fundevogel & Us
+Title: Fundevogel & Team
 
 ----
 
@@ -49,7 +49,7 @@ Handle: Fundevogel
 
 ----
 
-Caption: So sieht's bei uns aus!
+Caption: Come have a look!
 
 ----
 
@@ -58,3 +58,11 @@ Seo:
 -
   seo-title: "Fundevogel & Team"
   seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
+
+----
+
+Translation-ready: 1
+
+----
+
+Url-key: fundevogel-and-team

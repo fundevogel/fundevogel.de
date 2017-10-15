@@ -6,7 +6,7 @@ Date: 2017-02-10
 
 ----
 
-Text:
+Text: 
 
 ## Venez nombreux!
 Cliquez sur le lien pour pouvoir consulter notre agenda tranquillement de chez vous!
@@ -39,8 +39,16 @@ Button: Vergangene Veranstaltungen
 
 ----
 
-Seo:
+Seo: 
 
 -
   seo-title: "Veranstaltungskalender"
   seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"
+
+----
+
+Translation-ready: 1
+
+----
+
+Url-key: agenda

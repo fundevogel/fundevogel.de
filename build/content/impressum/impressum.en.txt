@@ -44,4 +44,4 @@ Seo:
 
 ----
 
-Translation-ready: 1
+Translation-ready: 0

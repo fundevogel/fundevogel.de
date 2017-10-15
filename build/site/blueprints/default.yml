@@ -4,6 +4,8 @@ pages: false
 files: true
 
 fields:
+  translation_ready:
+    type: translations
   tab1:
     label: Hauptinhalt
     type:  tabs

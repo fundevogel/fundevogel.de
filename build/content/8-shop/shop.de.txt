@@ -23,3 +23,7 @@ Seo:
 -
   seo-title: "Unser Shop"
   seo-description: "Über unseren Online-Shop könnt Ihr einfach und bequem Bücher bestellen und sie anschließend pünktlich bei uns abholen - wir freuen uns auf euch!"
+
+----
+
+Translation-ready: 1

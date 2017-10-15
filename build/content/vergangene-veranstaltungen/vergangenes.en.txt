@@ -1,4 +1,4 @@
-Title: Vergangene Veranstaltungen
+Title: Previous events
 
 ----
 
@@ -19,3 +19,7 @@ Translation-ready: 1
 ----
 
 Seo: 
+
+----
+
+Url-key: previous-events

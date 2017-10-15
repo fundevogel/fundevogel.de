@@ -4,8 +4,17 @@ title: Calendar
 pages:
   template: event
 files: true
+  fields:
+    desc:
+      label: Bildunterschrift
+      type: text
+    alt:
+      label: Alternativtext (Was ist zu sehen?)
+      type: text
 icon: calendar
 fields:
+  translation_ready:
+    type: translations
   tab1:
     label: Einleitung
     type:  tabs

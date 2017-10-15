@@ -2,10 +2,6 @@ Title: Fundevogel
 
 ----
 
-Text: YIAH!
-
-----
-
 Text: 
 
 ## Welcome to Fundevogel,
@@ -35,3 +31,15 @@ Limit: 10
 ----
 
 Button: Load more news
+
+----
+
+Seo: 
+
+-
+  seo-title: "Kinder- und Jugendbuchhandlung Fundevogel in Freiburg"
+  seo-description: "Herzlich Willkommen im Fundevogel! Hier findet Ihr erlesene Schätze der Kinder- und Jugendliteratur, kompetente Beratung und Raum für gemütliches Stöbern."
+
+----
+
+Translation-ready: 1

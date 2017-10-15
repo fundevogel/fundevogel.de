@@ -49,3 +49,7 @@ Seo:
 -
   seo-title: "Unser Service"
   seo-description: "Hereinspaziert! Euch erwarten fachkundige Beratung, vielfältige Veranstaltungen, Buchausstellungen, ein motiviertes Team und natürlich erlesene Bücher!"
+
+----
+
+Translation-ready: 1

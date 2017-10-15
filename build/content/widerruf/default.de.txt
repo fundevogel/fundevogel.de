@@ -32,3 +32,7 @@ Seo:
 -
   seo-title: "Widerruf"
   seo-description: "Alles zum Thema Widerruf: Widerrufsbelehrung, Widerrufsrecht, Folgen des Widerrufs sowie Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts."
+
+----
+
+Translation-ready: 1

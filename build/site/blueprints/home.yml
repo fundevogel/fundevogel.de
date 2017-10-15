@@ -17,6 +17,8 @@ files: true
       type: text
 
 fields:
+  translation_ready:
+    type: translations
   tab1:
     label: Einleitung
     type:  tabs

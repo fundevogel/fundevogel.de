@@ -1,4 +1,4 @@
-Title: Unser Service
+Title: Service
 
 ----
 
@@ -47,5 +47,13 @@ Handle: Service
 Seo: 
 
 -
-  seo-title: "Unser Service"
-  seo-description: "Hereinspaziert! Euch erwarten fachkundige Beratung, vielfältige Veranstaltungen, Buchausstellungen, ein motiviertes Team und natürlich erlesene Bücher!"
+  seo-title: "Notre service"
+  seo-description: "Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez les, à la recherche d'aventures ou de douceur ... nous ne sommes pressés et à vos côtés pour vous aiguiller!"
+
+----
+
+Translation-ready: 1
+
+----
+
+Url-key: notre-service

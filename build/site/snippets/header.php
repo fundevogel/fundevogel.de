@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html class="no-js" lang="<?= $site->language() ?>">
 
+  <?php // if($page->translation_ready()->bool()) { /* render page content */ } else { go('error'); } ?>
+
   <?php snippet('head'); ?>
 
-  <body class="<?= $page->slug() ?>">
+  <body class="<?= $page->uid() ?>">
     <!--[if IE]>
       <div class="alert alert-warning">
         <p>Sie nutzen einen <strong>veralteten</strong> Browser. Bitte laden Sie einen <a href="http://browsehappy.com/">aktuellen Browser</a> herunter.</p>
