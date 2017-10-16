@@ -26,7 +26,7 @@ Angaben:
   autor: Chris Callaghan
   verlag: Chicken House im Carlsen Verlag
   isbn: 978-3-551-52094-4
-  cover: schokopokalypse_chris-callaghan.jpg
+  cover: 6392750700001z.jpg
   preis: 12,99 Euro
   alter: ""
 

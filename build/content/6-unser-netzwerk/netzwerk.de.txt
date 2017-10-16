@@ -30,7 +30,7 @@ Netzwerk:
 - 
   desc: 'Auch bei uns sind (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk popup: yes): Seit einiger Zeit zieren die schönen Schriftzüge von Monika Schwab unsere Blumenkästen im Schaufenster. Da wir oft gefragt werden, wo man diese denn herbekommt, möchten wir alle Fans der „Wortschätze“ auf die Website der Künstlerin verweisen.'
 - 
-  desc: 'Unter Federführung des Kulturamts Freiburg, namentlich (link: http://www.kulturelle-bildung-freiburg.de/index.php?id=55 text: Martina Wolff popup: yes) und (link: http://www.junges.theater.freiburg.de/ text: Michael Kaiser popup: yes) vom Jungen Theater Freiburg, begleiten wir die Vorbereitungen und Durchführung des großen (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes popup: yes), das jährlich im Oktober stattfindet.'
+  desc: 'Unter Federführung des Kulturamts Freiburg, namentlich (link: http://www.kulturelle-bildung-freiburg.de/index.php?id=55 text: Martina Wolff popup: yes) und (link: http://www.theater.freiburg.de/de_DE/junges-theater/ text: Michael Kaiser popup: yes) vom Jungen Theater Freiburg, begleiten wir die Vorbereitungen und Durchführung des großen (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes popup: yes), das jährlich im Oktober stattfindet.'
 - 
   desc: 'Hier sind wir öfters zu Gast, dem (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone popup: yes) in St. Märgen: Ein absolut vorbildliches und unterstützenswertes Projekt der dortigen Landfrauen. Schöne Bücher für die kleinen Gäste zum Anschauen gibts dort auch!'
 - 

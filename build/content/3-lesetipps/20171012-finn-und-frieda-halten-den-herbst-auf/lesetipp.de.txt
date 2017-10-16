@@ -24,8 +24,7 @@ Angaben:
   autor: Martin Klein
   verlag: Tulipan Verlag
   isbn: 9783-8642-9395-5
-  cover: >
-    finn-und-frieda-halten-den-herbst-auf_martin-klein.jpg
+  cover: 6404998100001z.jpg
   preis: 8,95 Euro
   alter: 'Ab 7 - Für Leseanfänger'
 
