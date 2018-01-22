@@ -1,4 +1,4 @@
-Text: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&amp;storeId=63715&amp;langId=-3
+Text: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&storeId=63715&langId=-3
 
 ----
 
@@ -10,7 +10,7 @@ Title: Our Shop
 
 ----
 
-Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&amp;storeId=63715&amp;langId=-3
+Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStore?catalogId=4099276460822233275&storeId=63715&langId=-3
 
 ----
 
@@ -22,7 +22,7 @@ Seo:
 
 -
   seo-title: "Unser Shop"
-  seo-description: "Ãœber unseren Online-Shop kÃ¶nnt Ihr einfach und bequem BÃ¼cher bestellen und sie anschlieÃŸend pÃ¼nktlich bei uns abholen - wir freuen uns auf euch!"
+  seo-description: "Über unseren Online-Shop könnt Ihr einfach und bequem Bücher bestellen und sie anschließend pünktlich bei uns abholen - wir freuen uns auf euch!"
 
 ----
 

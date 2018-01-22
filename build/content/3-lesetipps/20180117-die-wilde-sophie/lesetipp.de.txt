@@ -1,0 +1,51 @@
+Tab1: 
+
+----
+
+Title: Die wilde Sophie
+
+----
+
+Date: 2018-01-17
+
+----
+
+Text: 
+
+Wollt Ihr wissen, wie man in einem richtigen Schloss lebt?
+Umgeben von einem Heer von Aufpassern, Nebenhergehern, Kleiderwärmern und Insektenjägern, überbehütet, dass einem bloß nichts zustößt.
+Blass und schüchtern wächst Prinz Jan auf, bis er die kleine Sophie kennenlernt, die alle Dinge tut, die ihm verboten sind und die ihm beibringt, was mutig, gefährlich und wild ist.
+
+----
+
+Tab2: 
+
+----
+
+Angaben: 
+
+- 
+  titel: Die wilde Sophie
+  isbn: 978-3-257-01199-9
+  verdict: 'Eine überaus spannende Geschichte, die im Heißluftballon endet, wie euch das Cover des Buches  zeigt. Für Kinder ab 9 Jahren.'
+  autor: Lukas Hartmann
+  verlag: Diogenes
+  cover: wilde-sophie.jpg
+  preis: "16"
+  alter: ab 9 Jahren
+
+----
+
+Conclusion-toggle: yes
+
+----
+
+Conclusion: 
+
+----
+
+Tab3: 
+
+----
+
+Seo: 

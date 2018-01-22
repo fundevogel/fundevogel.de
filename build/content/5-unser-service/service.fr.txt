@@ -9,7 +9,7 @@ Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
 Text: 
 
 ## Nous vous accueillons!
-Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez les, à la recherche d'aventures ou de douceur ... nous ne sommes pressés et à vos côtés pour vous aiguiller!
+Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez-les, à la recherche d'aventures ou de douceur ... nous ne sommes pas pressés et à vos côtés pour vous aiguiller !
 
 ----
 

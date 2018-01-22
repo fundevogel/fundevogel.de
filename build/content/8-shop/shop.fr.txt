@@ -6,7 +6,7 @@ Handle: Shop
 
 ----
 
-Title: Unser Shop
+Title: Boutique en ligne
 
 ----
 
@@ -14,7 +14,7 @@ Iframe: http://www.buchkatalog-reloaded.de/webapp/wcs/stores/servlet/KNVHomeStor
 
 ----
 
-Subtitle: Einfach & bequem Bücher bestellen
+Subtitle: Pour commander vos livres de chez vous
 
 ----
 
@@ -27,3 +27,7 @@ Seo:
 ----
 
 Translation-ready: 1
+
+----
+
+Url-key: shop

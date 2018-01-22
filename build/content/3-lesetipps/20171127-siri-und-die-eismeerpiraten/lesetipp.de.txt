@@ -1,0 +1,52 @@
+Tab1: 
+
+----
+
+Title: Siri und die Eismeerpiraten
+
+----
+
+Date: 2017-11-27
+
+----
+
+Text: 
+
+Um es gleich vorweg zu sagen: Für mich mit eines der schönsten Kinderbücher der letzten Jahre.
+Die zehnjährige Siri lebt nach dem Tod der Mutter mit ihrem Vater und ihrer jüngeren Schwester Miki auf einer kleinen Insel inmitten des Eismeeres. Das Leben hier ist karg und einfach. Abwechslung bieten die fein schmeckenden Winterbeeren. Siri schickt Miki alleine zum Sammeln. Dabei weiß sie, wie gefährlich das sein kann, wachsen die begehrten Beeren doch in der Nähe der Nester von angriffslustigen Walhühner. Aber es sind nicht die Vögel, die Miki bedrohen, sondern sie fällt dem gefürchteten Kapitän Weißhaupt in die Hände, dem schrecklichsten aller Piraten des ganzen Eismeeres. Er entführt Kinder und verschleppt sie in seine Diamantenminen, wo sie sich nicht selten zu Tode schuften müssen. Siri plagen Schuldgefühle und so heuert sie heimlich auf dem Schiff ‚Polarstern‘ an . Das Abenteuer beginnt und wir begleiten Siris Odyssee auf der Suche nach Miki. Auf dieser Suche begegnet sie nicht nur mürrischen Seebären, übel gelaunten Piraten und unförmigen Seejungfrauen, sondern gegen alle Widerstände findet sie auch Freunde und Verbündete und schließlich einen wahren Freund, den Smutje Fredrik, der ihr Schicksal teilt.
+
+----
+
+Tab2: 
+
+----
+
+Angaben: 
+
+- 
+  titel: Siri und die Eismeerpiraten
+  isbn: 978 3 8369 5920 9
+  verdict: 'Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern, die das Herz am rechten Fleck haben. Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim Knopf. Denn es erzählt weit mehr als ein spannende Abenteuergeschichte: es erzählt von Geschwisterliebe, von der Kraft der Freundschaft und vom Mut selbst das unmöglich scheinende zu wagen. Ein zutiefst berührendes Buch, an dem auch Erwachsene viel Freude haben werden.'
+  autor: Frida Nilsson
+  verlag: Gerstenberg
+  cover: siri.jpg
+  preis: 14,95
+  alter: >
+    So ist es bestens zum Vorlesen geeignet
+    oder zum Selberlesen ab 10 Jahren.
+
+----
+
+Conclusion-toggle: yes
+
+----
+
+Conclusion: 
+
+----
+
+Tab3: 
+
+----
+
+Seo: 
