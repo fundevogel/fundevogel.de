@@ -30,8 +30,7 @@ var
   stylelint     = require('stylelint'),
   syntax_scss   = require('postcss-scss'),
   uglify        = require('gulp-uglify'),
-  webpack       = require('webpack-stream'),
-  webpack2      = require('webpack')
+  webpack       = require('webpack-stream')
 ;
 
 
@@ -72,7 +71,7 @@ gulp.task('make:styles', function() {
   .pipe(plumber({ errorHandler: onError }))
   .pipe(sass({
     precision: 10, // https://github.com/sass/sass/issues/1122
-    // includePaths: config.styles.include
+    includePaths: config.styles.include
   }))
   .pipe(postcss([
     prefix({browsers: config.styles.prefix})
@@ -111,7 +110,7 @@ gulp.task('make:scripts', function() {
   return gulp.src(config.assets.source + '/scripts/main.js')
     .pipe(named())
     .pipe(webpack({watch: false}))
-    .pipe(babel({ presets: ['es2015'] }))
+    .pipe(babel({ presets: ['env'] }))
     .pipe(gulpif(!development, uglify()))
     .pipe(size({gzip: true, showFiles: true}))
     .pipe(gulp.dest(config.assets.build + '/scripts'))
