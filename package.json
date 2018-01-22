@@ -1,17 +1,17 @@
 {
-  "name": "gulp-kirby-starter-kit",
+  "name": "Fundevogel Kinder- und Jugendbuchhandlung",
   "version": "1.0.0",
-  "description": "Gulp v4 - Kirby CMS - Starter",
+  "description": "Source code of fundevogel.de",
   "author": "S1SYPHOS <hello@twobrain.io>",
-  "homepage": "https://github.com/S1SYPHOS/Gulp-Kirby-Starter-Kit#readme",
+  "homepage": "https://fundevogel.de",
   "main": "Gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S1SYPHOS/Gulp-Kirby-Starter-Kit.git"
+    "url": "git+https://github.com/two-brain/fundevogel.de.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S1SYPHOS/Gulp-Kirby-Starter-Kit/issues"
+    "url": "https://github.com/two-brain/fundevogel.de/issues"
   },
   "keywords": [
     "Gulp",
