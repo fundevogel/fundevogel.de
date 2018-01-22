@@ -15,4 +15,5 @@
       </a>
     </li>
   <?php endforeach ?>
+  <li><a href="http://shop.fundevogel.de" title="Fundevogel-Shop"></a></li>
 </ul>
