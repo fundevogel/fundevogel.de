@@ -1,1 +1,3 @@
-# Source code of fundevogel.de
+# fundevogel.de
+
+:copyright: Fundevogel Kinder- und Jugendbuchhandlung
