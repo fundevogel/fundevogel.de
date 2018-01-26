@@ -30,4 +30,4 @@ Mytranslations: 1
 
 ----
 
-Translation-ready: 1
+Translations: 1

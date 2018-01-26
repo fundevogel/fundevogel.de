@@ -2,7 +2,7 @@ Title: Fundevogel
 
 ----
 
-Text: 
+Text:
 
 ## Herzlich Willkommen im Fundevogel,
 **der Kinder- und Jugendbuchhandlung für Freiburg und Umgebung!**
@@ -14,7 +14,7 @@ Handle: Willkommen!
 
 ----
 
-Perpage: 
+Perpage:
 
 ----
 
@@ -34,7 +34,7 @@ Button: Frühere Neuigkeiten
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Kinder- und Jugendbuchhandlung Fundevogel in Freiburg"
@@ -42,4 +42,4 @@ Seo:
 
 ----
 
-Translation-ready: 1
+Translations: 1

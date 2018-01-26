@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="<?= $site->language() ?>">
 
-  <?php // if($page->translations()->bool()) { /* render page content */ } else { go('error'); } ?>
-
   <?php snippet('head'); ?>
 
   <body class="<?= $page->uid() ?>">

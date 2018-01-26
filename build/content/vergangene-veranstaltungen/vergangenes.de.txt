@@ -14,7 +14,7 @@ Button: Kommende Veranstaltungen
 
 ----
 
-Translation-ready: 1
+Translations: 1
 
 ----
 
