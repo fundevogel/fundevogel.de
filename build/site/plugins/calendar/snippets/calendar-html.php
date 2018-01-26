@@ -18,8 +18,8 @@
           $image = $page->image();
           $crop = $image->resize(460);
          ?>
-        <img src="<?= $crop->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
-        <figcaption class="bg--primary"><?= $image->desc()->html() ?></figcaption>
+        <img src="<?= $crop->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $crop->width() ?>" height="<?= $crop->height() ?>">
+        <figcaption class="bg--primary"><?= $image->caption()->html() ?></figcaption>
       </figure>
     </div>
   </header>
