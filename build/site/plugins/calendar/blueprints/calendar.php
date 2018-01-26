@@ -13,8 +13,7 @@ files: true
       type: text
 icon: calendar
 fields:
-  translation_ready:
-    type: translations
+  translations: translations
   tab1:
     label: Einleitung
     type:  tabs

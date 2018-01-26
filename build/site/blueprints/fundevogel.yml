@@ -12,8 +12,7 @@ files: true
       type: text
 
 fields:
-  translation_ready:
-    type: translations
+  translations: translations
   tab1:
     label: Einleitung
     type:  tabs

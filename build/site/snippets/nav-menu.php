@@ -1,6 +1,6 @@
 <ul class="inline-list spread-out">
   <?php
-    $translatedPages = $pages->visible()->filterBy('translation_ready', '1')->filter(function($p) {
+    $translatedPages = $pages->visible()->filterBy('translations', '1')->filter(function($p) {
       return $p->content(site()->language()->code())->exists();
     });
   ?>
