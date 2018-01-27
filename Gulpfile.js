@@ -84,7 +84,7 @@ gulp.task('make:styles', function() {
 });
 
 gulp.task('styles', gulp.series(
-  'lint:styles',
+  // 'lint:styles',
   'make:styles'
 ));
 

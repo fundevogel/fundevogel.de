@@ -31,6 +31,12 @@ fields:
   text:
     label: Text
     type: textarea
+    width: 1/2
+  cover:
+    label: Cover
+    type: quickselect
+    options: images
+    width: 1/2
   timezone:
     label: Zeitzone
     type: text

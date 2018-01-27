@@ -6,10 +6,10 @@
 
 $kirby->set('template', 'calendar', __DIR__ . '/templates/calendar.php');
 $kirby->set('template', 'event', __DIR__ . '/templates/event.php');
-$kirby->set('blueprint', 'calendar', __DIR__ . '/blueprints/calendar.php');
+// $kirby->set('blueprint', 'calendar', __DIR__ . '/blueprints/calendar.php');
 $kirby->set('blueprint', 'fields/events', __DIR__ . '/blueprints/fields/events.yml');
 $kirby->set('blueprint', 'event', __DIR__ . '/blueprints/event.php');
-$kirby->set('snippet', 'calendar-html', __DIR__ . '/snippets/calendar-html.php');
+// $kirby->set('snippet', 'calendar-html', __DIR__ . '/snippets/calendar-html.php');
 $kirby->set('snippet', 'calendar-ics', __DIR__ . '/snippets/calendar-ics.php');
 $kirby->set('snippet', 'events', __DIR__ . '/snippets/events.php');
 $kirby->set('snippet', 'event-teaser', __DIR__ . '/snippets/event-teaser.php');
