@@ -5,24 +5,17 @@
       <?= $page->text()->kirbytext() ?>
     </div>
     <div class="one-half--wide teaser">
-      <?php snippet('coverimage') ?>
+      <?php snippet('cover/coverimage') ?>
     </div>
   </header>
   <hr>
-
   <section class="list">
     <h2 class="center"><?= l::get('kalender_ueberschrift-liste') ?></h2>
-
-      <?php $events = $page->events($own = true, $allies = array('children' => true, 'siblings' => true)); ?>
-      <?php $events = $events->sortBy('begin_date', 'asc'); ?>
-      <?php $events = $events->filter(function($child) { return $child->date(null, 'end_date') >= time(); }); ?>
-      <?php $last = $events->count(); ?>
-      <?php $count = 0; foreach ($events as $key => $event) : ?>
-        <?php snippet('event-teaser', array('event' => $event)); ?>
-        <?php $count++; ?>
-        <?php if($last > $count) echo '<hr>' ?>
+      <?php foreach ($events as $key => $event) : ?>
+      <?php snippet('event-teaser', array('event' => $event)); ?>
+      <?php $count++; ?>
+      <?php if($last > $count) echo '<hr>' ?>
       <?php endforeach ?>
-
   </section>
   <nav class="wrap post-nav center">
     <a class="btn bg--primary" href="<?= page('vergangene-veranstaltungen')->url() ?>" title="<?= l::get('kalender_vergangene-veranstaltungen--title') ?>">

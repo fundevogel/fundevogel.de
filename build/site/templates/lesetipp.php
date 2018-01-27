@@ -4,40 +4,35 @@
   <header>
     <time datetime="<?= $page->date('Y-m-d') ?>"><?= $page->date('d.m.Y') ?></time>
     <h2><?= $page->title()->html() ?></h2>
-    <?= $page->text()->kirbytext() ?>
+    <?= $page->text()->kt() ?>
   </header>
   <hr>
-  <?php $lesetipps = $page->angaben()->toStructure(); ?>
-  <?php $last = $lesetipps->count(); ?>
-  <?php $count = 0; foreach ($lesetipps as $lesetipp) : ?>
-    <section style="clear: both">
+  <?php
+    foreach ($lesetipps as $lesetipp) :
+    $image = $lesetipp->cover()->toFile();
+  ?>
+  <section class="list">
+    <article class="wrap">
       <div class="one-third center">
-        <figure>
-          <?php $image = $lesetipp->cover()->toFile(); ?>
-          <img src="<?= $image->url() ?>" title="<?= $image->desc()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $image->width() ?>" height="<?= $image->height() ?>">
-        </figure>
+        <?php snippet('cover/bookcover', $image) ?>
       </div>
       <div class="two-thirds">
-        <?= $lesetipp->verdict()->kirbytext() ?>
-        <blockquote>
-          <?= $lesetipp->titel()->html() ?><br>
-          <?= $lesetipp->autor()->html() ?><br>
-          <?= $lesetipp->verlag()->html() ?><br>
-          ISBN <?= $lesetipp->isbn()->html() ?><br>
-          <?= $lesetipp->preis()->html() ?> €<?php if($lesetipp->alter()->isNotEmpty()) : ?>; <?= $lesetipp->alter()->html() ?><?php endif ?>
-        </blockquote>
+        <?php snippet('partials/biblio', $lesetipp) ?>
       </div>
-    </section>
-    <?php $count++;?>
-  <?php endforeach ?>
-  <?php if($count > 1 && $page->conclusion()->isNotEmpty()) : ?>
-    <p style="clear: both">
-      <?= $page->conclusion()->html() ?>
-    </p>
+    </article>
+    <?php e($lesetipp !== $last, '<hr>') ?>
+  </section>
+  <?php if ($lesetipp == $last) : ?>
+  <hr>
+  <footer class="wrap">
+    <?php e($page->conclusion()->isNotEmpty(), $page->conclusion()->kt()) ?>
+    <p><?= l::get('lesetipp_hinweis-shop--1-5') ?> <?php e(count($lesetipps) > 1, l::get('lesetipp_hinweis-shop--2-5'), l::get('lesetipp_hinweis-shop--3-5')) ?> <?= l::get('lesetipp_hinweis-shop--4-5') ?> <a href="<?php e(count($lesetipps) == 1 && $lesetipp->shop()->isNotEmpty(), $lesetipp->shop(), $site->shop()) ?>" target="_blank"><?= l::get('lesetipp_hinweis-shop--5-5') ?></a>!</p>
+  </footer>
   <?php endif ?>
-  <p>
-    <?= l::get('lesetipp_hinweis-shop--1-5') ?> <?php e($page->images()->count() > 1, l::get('lesetipp_hinweis-shop--2-5'), l::get('lesetipp_hinweis-shop--3-5')) ?> <?= l::get('lesetipp_hinweis-shop--4-5') ?> <a href="/shop/"><?= l::get('lesetipp_hinweis-shop--5-5') ?></a>!
-  </p>
+  <?php
+    $count++;
+    endforeach
+  ?>
 </article>
 
 <?php snippet('prevnext') ?>
