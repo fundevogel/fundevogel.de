@@ -58,7 +58,7 @@ l::set(array(
   // III. LESETIPP(S)
     'lesetipps_ueberschrift-liste' => 'Alle Lesetipps im Überblick', // zwischenueberschrift (t)
     'lesetipps_weiterlesen' => 'Weiterlesen', // link zum lesetipp (t)
-    'lesetipps_weiterlesen--title' => 'Erfahren Sie mehr zu diesm Lesetipp', // link zum lesetipp (t)
+    'lesetipps_weiterlesen--title' => 'Erfahren Sie mehr zu diesem Lesetipp', // link zum lesetipp (t)
 
     // 1. Shop-Hinweis (t)
     'lesetipp_hinweis-shop--1-5' => 'Wenn Ihr Lust bekommen habt,',
