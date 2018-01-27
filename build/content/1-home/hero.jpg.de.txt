@@ -1,4 +1,4 @@
-Desc: Lieber Barfuss als ohne Buch.
+Caption: Lieber Barfuss als ohne Buch.
 
 ----
 

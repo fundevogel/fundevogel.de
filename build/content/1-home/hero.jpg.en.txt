@@ -1,4 +1,4 @@
-Desc: Rather bare-foot than bare-book.
+Caption: Rather bare-foot than bare-book.
 
 ----
 

@@ -1,0 +1,59 @@
+Title: Service
+
+----
+
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
+
+----
+
+Text: 
+
+## Nous vous accueillons!
+Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez-les, à la recherche d'aventures ou de douceur ... nous ne sommes pas pressés et à vos côtés pour vous aiguiller !
+
+----
+
+Motto: 
+
+----
+
+Subtitle: Was wir sonst noch haben & können:
+
+----
+
+Services: 
+
+- 
+  description: 'Des **conseils compétents** qui respectent vos goûts et vos envies'
+- 
+  description: "Diverses **manifestations pour encourager la lecture**, comme nos quizz avec les élèves dans le cadre de la Journée mondiale du livre, ou encore les lectures d'auteurs lors du festival **Lirum Larum Lesefeste**. Nous vous invitons également chaque année en automne à notre **soirée littéraire**, où Brezel et mousseux cotoient chaleureusement la présentation de nos coups de coeur. Pour plus d'informations concernant nos manifestations, consultez notre (link: /kalender/ text: agenda)."
+- 
+  description: 'Une **commande rapide** de tous les titres disponibles, également au-delà de la littérature jeunesse, directement en magasin ou par téléphone, (email: info@fundevogel.de text: mail) ou en (link: /shop/ text: ligne).'
+- 
+  description: "Des **stands et expositions** de nos livres dans divers lieux. Nous vous concoctons avec plaisir une **sélection personnelle** sur un thème particulier. Pour cela, merci de bien vouloir nous contacter suffisamment à l'avance afin de convenir d'un rendez-vous."
+- 
+  description: 'Des **sélections de livres** faites sur mesure. Veuillez-nous (email: info@fundevogel.de text: contacter) si cela vous intéresse.'
+- 
+  description: "Des **enfants de primaire et de crèche**, qui viennent régulièrement participer à nos manifestations. Afin de pouvoir préparer au mieux votre visite et de répondre à vos attentes, merci d'inscrire votre classe à l'avance."
+- 
+  description: 'Un petit **coin jeux** et un beau **cheval à bacule**, une **table à langer**, des chaises et un canapé pour lire tranquillement, une **équipe motivée** et bien sûr un tas de **livres de qualité** pour les petits comme pour les grands !'
+
+----
+
+Handle: Service
+
+----
+
+Seo: 
+
+-
+  seo-title: "Notre service"
+  seo-description: "Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez les, à la recherche d'aventures ou de douceur ... nous ne sommes pressés et à vos côtés pour vous aiguiller!"
+
+----
+
+Translations: 1
+
+----
+
+Url-key: notre-service

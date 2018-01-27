@@ -114,3 +114,36 @@ Events:
   end_date: 2017-11-18
   begin_time: 19:00
   end_time: 22:00
+- 
+  summary: Welttag des Buches
+  description: >
+    Rund um den Welttag des Buches am 23.
+    April werden uns in einem Zeitraum von
+    einem Monat wieder zahlreiche
+    Schulklassen in der Buchhandlung
+    besuchen kommen. Gemeinsam mit den
+    Schülern werden wir den Tag des Buches
+    feiern und in die Welt der Bücher
+    eintauchen.
+  what: >
+    Veranstaltung für angemeldete
+    Schulklassen
+  location: Buchhandlung Fundevogel
+  begin_date: 2018-04-16
+  end_date: 2018-05-15
+  begin_time: ""
+  end_time: ""
+- 
+  summary: Weltgeschichtentag
+  description: >
+    Am 17.3.2018 feiern wir im Fundevogel
+    wieder den Weltgeschichtentag. Welche
+    Veranstaltungen an diesem Tag bei uns
+    stattfinden, erfahrt ihr demnächst an
+    dieser Stelle!
+  what: Offen für alle!
+  location: Buchhandlung Fundevogel
+  begin_date: 2018-03-17
+  end_date: 2018-03-17
+  begin_time: ""
+  end_time: ""

@@ -1,0 +1,50 @@
+Title: Kontakt
+
+----
+
+Auto: Wer den Fundevogel mit dem Auto besuchen möchte, gelangt am einfachsten über die Wallstraße in die Marienstraße. Hier ist allerdings nur kurzes Halten zum Be- und Entladen direkt vor der Buchhandlung möglich. Parkmöglichkeiten bieten die umliegenden Parkhäuser, zum Beispiel die Schlossberggarage oder die Schwabentorgarage (jeweils fünf Gehminuten von uns).
+
+----
+
+Bike: Der Fundevogel liegt zentral in der idyllischen Altstadt Freiburgs, nur zwei Gehminuten entfernt vom Augustinerplatz. Es führen viele Wege zu uns. Vom Augustinerplatz kommend, geht Ihr an der Brauerei Feierling vorbei und überquert rechts den Gewerbebach über die Brücke beim Krokodil. Nun geht es noch einige Meter geradeaus, bis Ihr den Fundevogel auf der linken Seite sehen könnt. Die Buchhandlung befindet sich direkt gegenüber dem Museum für Neue Kunst.
+
+----
+
+Tram: Oder Ihr fahrt mit der Straßenbahn. Die nächstgelegenen Haltestellen sind der „Bertoldsbrunnen“, der „Holzmarkt“ oder die Haltestelle „Oberlinden“ an der Linie 1.
+
+----
+
+Handle: Kontakt
+
+----
+
+Subtitle: So erreicht ihr uns
+
+----
+
+Kontaktinfos: 
+
+### Kontaktinfos
+Marienstr. 13 - 79098 Freiburg
+Tel.: 0761/25218 - Fax: 0761/30041
+info@fundevogel.de
+
+----
+
+Oeffnungszeiten: 
+
+###Öffnungszeiten
+Montag bis Freitag: 9:00–18:30 Uhr
+Samstag: 9:00–16:00 Uhr
+
+----
+
+Seo: 
+
+-
+  seo-title: "Kontakt"
+  seo-description: "Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218."
+
+----
+
+Translations: 1

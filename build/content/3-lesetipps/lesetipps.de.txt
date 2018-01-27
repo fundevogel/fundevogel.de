@@ -52,3 +52,11 @@ Seo:
 ----
 
 Translations: 1
+
+----
+
+Image-spring: lesetipps-fruehjahr.jpg
+
+----
+
+Image-autumn: lesetipps-herbst.jpg

@@ -1,0 +1,59 @@
+Title: Our Service
+
+----
+
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher.
+
+----
+
+Text: 
+
+## Come on in!
+Relax, take a deep breath and have a look around: Before you lies a world full of adventure and mystery! And should you ever miss the forest for the trees, just ask away and we are there, guiding you through the mist of written wonder.
+
+----
+
+Motto: 
+
+----
+
+Subtitle: Was wir sonst noch haben & können:
+
+----
+
+Services: 
+
+- 
+  description: 'We offer competent **advice** (at your option) to find just the right book - for every age, for every occasion.'
+- 
+  description: 'Many different **events** regarding the support and development of reading - annual highlights include (but are not limited to) the World Book Day, and also inviting authors to read from their books at **Lirum Larum Lesefest* as well as our autumnal in-house **„Bücherlese“**, where we talk about compelling novelties, simply having a good time. For more **information**, see our (link: /kalender/ text: calendar).'
+- 
+  description: '**Fast delivery** of all available books (pretty much anything). Tell us what you need,  in the store, (email: info@fundevogel.de text: via email), call us or order it through our (link: /shop/ text: online shop).'
+- 
+  description: 'Organising **exhibitions and presentations** in different institutions and at certain events, in which case we put together a **fine selection** of matching books. Please be sure however to contact us in good time prior to the event.'
+- 
+  description: 'Well-researched **recommendations** on specific topics. Just  (email: info@fundevogel.de text: let us know) what you have  in mind.'
+- 
+  description: '**School classes** as well as **kindergartners** often come to visit Fundevogel. If you are interested or planning such a trip yourself, please talk to us early on.'
+- 
+  description: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
+
+----
+
+Url-key: our-service
+
+----
+
+Handle: Service
+
+----
+
+Seo: 
+
+-
+  seo-title: "Our service"
+  seo-description: "Have a look around: Before you lies a world full of adventure and mystery - and we are there to guide you through the mist of written wonder!"
+
+----
+
+Translations: 1

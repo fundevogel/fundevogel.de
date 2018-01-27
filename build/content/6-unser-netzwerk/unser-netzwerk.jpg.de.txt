@@ -1,4 +1,4 @@
-Desc: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen
+Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen
 
 ----
 

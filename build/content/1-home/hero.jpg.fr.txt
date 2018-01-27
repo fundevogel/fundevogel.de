@@ -1,4 +1,4 @@
-Desc: Mieux vaut être pieds nus que sans livre.
+Caption: Mieux vaut être pieds nus que sans livre.
 
 ----
 

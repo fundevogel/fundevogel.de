@@ -273,3 +273,21 @@ Events:
   end_date: 2017-10-27
   begin_time: ""
   end_time: ""
+- 
+  summary: Buchausstellung in der Kita St. Michael
+  description: ""
+  what: Kindergarteninterne Veranstaltung
+  location: Kita St. Michael
+  begin_date: 2018-04-16
+  end_date: 2018-04-20
+  begin_time: ""
+  end_time: ""
+- 
+  summary: Buchausstellung in der Kita Sonnengarten
+  description: ""
+  what: Kindergarteninterne Veranstaltung
+  location: Kita Sonnengarten
+  begin_date: 2018-04-23
+  end_date: 2018-04-27
+  begin_time: ""
+  end_time: ""

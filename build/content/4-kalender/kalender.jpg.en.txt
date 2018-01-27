@@ -1,4 +1,4 @@
-Desc: Be sure to stop by and browse our collection!
+Caption: Be sure to stop by and browse our collection!
 
 ----
 

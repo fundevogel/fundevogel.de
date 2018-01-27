@@ -48,3 +48,7 @@ Seo:
 ----
 
 Translations: 1
+
+----
+
+Cover: kalender.jpg

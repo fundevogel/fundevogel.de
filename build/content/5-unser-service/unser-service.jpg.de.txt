@@ -1,4 +1,4 @@
-Desc: Durch diese Tür gelangst du bei uns in die Welt der Bücher
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher
 
 ----
 
