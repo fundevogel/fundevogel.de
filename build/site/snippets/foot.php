@@ -59,7 +59,7 @@
 
       $.get(url, {limit: limit, offset: offset}, function(data) {
 
-        if(data.more === true) {
+        if (data.more === true) {
           $('.list').append('<hr>');
         } else {
           $('#load-more').addClass('is-disabled');

@@ -13,14 +13,10 @@
 
   <!-- hreflang Tags -->
   <?php foreach($site->languages() as $language): ?>
-    <?php if($language == $site->language()) continue; ?>
-      <link rel="alternate" hreflang="<?= html($language->code()) ?>" href="<?= $page->url($language->code()) ?>" />
+    <?php if ($language == $site->language()) continue; ?>
+    <link rel="alternate" hreflang="<?= html($language->code()) ?>" href="<?= $page->url($language->code()) ?>" />
   <?php endforeach ?>
 
   <!-- Miscellaneous -->
   <link rel="shortcut icon" href="<?= url('favicon.png') ?>">
-
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
 </head>

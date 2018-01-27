@@ -11,7 +11,7 @@
     <?php $count = 0; foreach ($events as $key => $event) : ?>
       <?php snippet('event-teaser', array('event' => $event)); ?>
       <?php $count++; ?>
-      <?php if($last > $count) echo '<hr>' ?>
+      <?php if ($last > $count) echo '<hr>' ?>
     <?php endforeach ?>
 
   </section>

@@ -3,10 +3,10 @@
 <section class="wrap">
   <h2>Fundevogel</h2>
   <div class="one-half">
-    <?= $page->left()->kirbytext() ?>
+    <?= $page->left()->kt() ?>
   </div>
   <div class="one-half">
-    <?= $page->right()->kirbytext() ?>
+    <?= $page->right()->kt() ?>
   </div>
 
 <?php snippet('footer') ?>
