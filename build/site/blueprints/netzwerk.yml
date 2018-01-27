@@ -1,24 +1,35 @@
-title: Netzwerk
+title:
+  de: Netzwerk
+  en: Network
 icon: share-alt
+
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
 
 pages: false
 files: true
   fields:
-    desc:
-      label: Bildunterschrift
-      type: text
-    alt:
-      label: Alternativtext (Was ist zu sehen?)
-      type: text
+    caption: caption
+    alt: alt
 
 fields:
   translations: translations
   tab1:
     label: Einleitung
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
     type: text
+    width: 1/2
+  cover:
+    label: Cover
+    type: quickselect
+    options: images
+    width: 1/2
   text:
     label: Text
     type: textarea
@@ -27,9 +38,9 @@ fields:
     type: text
   tab2:
     label: Netzwerk
-    type:  tabs
-  netzwerk: partners
+    type: tabs
+  netzwerk: entries
   tab3:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo

@@ -1,15 +1,24 @@
-title: Site
+title:
+  de: Seite
+  en: Site
 
-pages: true
 files: false
 
 fields:
   title:
-    label: Name der Website
-    type:  text
+    label:
+      de: Name der Website
+      en: Website title
+    type: text
     width: 2/3
 
   mail:
     label: E-Mail
     type: email
     width: 1/3
+
+  shop:
+    label:
+      de: URL der Shopseite
+      en: Shop website URL
+    type: url

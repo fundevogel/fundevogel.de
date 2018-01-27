@@ -1,21 +1,24 @@
 title: Fundevogel & Team
 icon: users
 
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+
 pages: false
 files: true
   fields:
-    desc:
-      label: Bildunterschrift
-      type: text
-    alt:
-      label: Alternativtext (Was ist zu sehen?)
-      type: text
+    caption: caption
+    alt: alt
 
 fields:
   translations: translations
   tab1:
     label: Einleitung
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
     type: text
@@ -29,7 +32,7 @@ fields:
     type: textarea
   tab2:
     label: Hauptinhalt
-    type:  tabs
+    type: tabs
   about_us:
     label: Über uns
     type: textarea
@@ -43,5 +46,5 @@ fields:
     width: 1/2
   tab3:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo

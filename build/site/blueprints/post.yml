@@ -1,20 +1,25 @@
-title: Neues aus dem FV
+title:
+  de: Neues aus dem FV
+  en: News report
 icon: newspaper-o
+
+options:
+  preview: true
+  status: true
+  template: false
+  url: true
+  delete: true
 
 pages: false
 files: true
   fields:
-    desc:
-      label: Bildunterschrift
-      type: text
-    alt:
-      label: Alternativtext (Was ist zu sehen?)
-      type: text
+    caption: caption
+    alt: alt
 
 fields:
   tab1:
     label: Hauptinhalt
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
     type: text
@@ -34,8 +39,8 @@ fields:
     required: true
   text:
     label: Text
-    type:  textarea
+    type: textarea
   tab2:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo

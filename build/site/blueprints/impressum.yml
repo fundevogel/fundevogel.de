@@ -1,4 +1,13 @@
-title: Impressum
+title:
+  de: Impressum
+  en: Legal / Imprint
+
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
 
 pages: false
 files: false
@@ -7,20 +16,18 @@ fields:
   translations: translations
   tab1:
     label: Hauptinhalt
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
-    type:  text
+    type: text
     required: true
   left:
     label: Linke Spalte
-    type:  textarea
-    width: 1/2
+    type: textarea
   right:
     label: Rechte Spalte
-    type:  textarea
-    width: 1/2
+    type: textarea
   tab2:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo

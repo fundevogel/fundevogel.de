@@ -34,7 +34,6 @@ fields:
     type: quickselect
     placeholder: Wähle ein Bild ..
     options: images
-    required: true
   preis:
     label: Preis (ohne Euro / €)
     type: text
@@ -43,3 +42,6 @@ fields:
     label: Altersempfehlung
     type: text
     width: 2/3
+  shop:
+    label: Shop (URL)
+    type: url

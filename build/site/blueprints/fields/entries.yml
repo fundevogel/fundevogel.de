@@ -1,10 +1,12 @@
-label: Was wir können
+label:
+  de: Einträge
+  en: Entries
 type: structure
 style: table
 modalsize: large
 entry: >
-  {{desc}}
+  {{description}}
 fields:
-  desc:
+  description:
     label: Beschreibung
     type: textarea

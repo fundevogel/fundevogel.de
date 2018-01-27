@@ -1,29 +1,28 @@
 title: Lesetipps
 icon: book
 
-pages: true
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+
+pages:
   template: lesetipp
   sort: flip
   num: date
   limit: 10
-
 files: true
   fields:
-    caption:
-      label: Titel
-      type: text
-    desc:
-      label: Beschreibung
-      type: text
-    alt:
-      label: Alternativtext
-      type: text
+    caption: caption
+    alt: alt
 
 fields:
   translations: translations
   tab1:
     label: Einleitung
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
     type: text
@@ -39,17 +38,30 @@ fields:
   text:
     label: Text
     type: textarea
-  pdf_spring:
-    label: Frühjahrsempfehlungen
-    type: quickselect
-    width: 1/2
-    options: documents
-  pdf_autumn:
-    label: Herbstempfehlungen
-    type: quickselect
-    width: 1/2
-    options: documents
   tab2:
+    label: Empfehlungen
+    type: tabs
+  pdf_spring:
+    label: Frühjahrsempfehlungen (PDF)
+    type: quickselect
+    options: documents
+    width: 1/2
+  image_spring:
+    label: Frühjahrsempfehlungen (Bild)
+    type: quickselect
+    options: images
+    width: 1/2
+  pdf_autumn:
+    label: Herbstempfehlungen (PDF)
+    type: quickselect
+    options: documents
+    width: 1/2
+  image_autumn:
+    label: Herbstempfehlungen (Bild)
+    type: quickselect
+    options: images
+    width: 1/2
+  tab3:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo

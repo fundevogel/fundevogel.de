@@ -1,7 +1,7 @@
 title:
-  de: Startseite
-  en: Home
-icon: newspaper-o
+  de: Dienstleistungen
+  en: Services
+icon: coffee
 
 options:
   preview: true
@@ -10,12 +10,7 @@ options:
   url: false
   delete: false
 
-pages:
-  template: post
-  sort: flip
-  num: date
-  limit: 10
-
+pages: false
 files: true
   fields:
     caption: caption
@@ -29,20 +24,20 @@ fields:
   title:
     label: Überschrift
     type: text
-    required: true
-    width: 3/4
-  limit:
-    label: Einträge / Seite
-    type: number
-    min: 1
-    width: 1/4
+    width: 1/2
+  cover:
+    label: Cover
+    type: quickselect
+    options: images
+    width: 1/2
   text:
-    label: Intro
+    label: Text
     type: textarea
-  subtitle:
-    label: Zwischenüberschrift
-    type: text
   tab2:
+    label: Services
+    type: tabs
+  services: entries
+  tab3:
     label: Meta-Informationen
     type: tabs
   seo: seo

@@ -1,20 +1,23 @@
 title: Lesetipp
 icon: book
 
+options:
+  preview: true
+  status: true
+  template: false
+  url: true
+  delete: true
+
 pages: false
 files: true
   fields:
-    desc:
-      label: Bildunterschrift
-      type: text
-    alt:
-      label: Alternativtext (Was ist zu sehen?)
-      type: text
+    caption: caption
+    alt: alt
 
 fields:
   tab1:
     label: Hauptinhalt
-    type:  tabs
+    type: tabs
   title:
     label: Überschrift
     type: text
@@ -27,26 +30,15 @@ fields:
     width: 1/4
   text:
     label: Text
-    type:  textarea
-  tab2:
-    label: Bibliographisches
-    type:  tabs
-  angaben: biblio
-  conclusion_toggle:
-    label: Einfach- oder Mehrfachrezension?
-    type: fieldtoggle
-    width: 2/3
-    options:
-      yes: "Einzelnes Buch"
-      no: "Mehrere Bücher"
-    show:
-      no: conclusion
-    hide:
-      yes: conclusion
+    type: textarea
   conclusion:
     label: Zusammenfassung
-    type:  textarea
+    type: textarea
+  tab2:
+    label: Bibliographisches
+    type: tabs
+  angaben: biblio
   tab3:
     label: Meta-Informationen
-    type:  tabs
+    type: tabs
   seo: seo
