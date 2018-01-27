@@ -1,12 +1,13 @@
 <?php
   $id = $post->uid();
-  if ($item) :
-  if (@$gallery) { $thumb = $item->crop(200, null, 85); }
-  else { $thumb = $item->isLandscape() ? $item->crop(250, null, 85) : $item->resize(250, null, 85); }
+  if ($image) :
+  if (@$gallery) { $thumb = $image->crop(200, null, 85); }
+  else { $thumb = $image->isLandscape() ? $image->crop(250, null, 85) : $image->resize(250, null, 85); }
+  $crop = $image->resize(1280, null, 85);
 ?>
 <figure>
-  <a href="<?= $item->url() ?>"<?php e(@$gallery, ' data-fancybox="' . $id . '"', ' data-fancybox') ?> data-caption="<?= $item->caption()->html() ?>">
-    <img src="<?= $thumb->url() ?>" title="<?= $item->caption()->html() ?>" alt="<?= $item->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+  <a href="<?= $crop->url() ?>"<?php e(@$gallery, ' data-fancybox="' . $id . '"', ' data-fancybox') ?> data-caption="<?= $image->caption()->html() ?>">
+    <img src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
   </a>
 </figure>
 <?php endif ?>
