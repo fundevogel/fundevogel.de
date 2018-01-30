@@ -11,26 +11,18 @@
   <hr>
   <section class="list">
     <h2 class="center"><?= l::get('kalender_ueberschrift-liste') ?></h2>
-
-
-      <?php
-        foreach($pages->find('kalender/year-2018')->children() as $child) :
-        $events = $child->events()->toStructure();
-        var_dump($child);
-
+    <?php
+      foreach($pages->find('kalender/year-2018')->children() as $year) {
+        $events = $year->events()->toStructure();
+        $events = $events->filter(function($child) { return $child->date(null, 'end_date') >= time(); });
         $last = count($events);
-        foreach($events as $event) :
-          snippet('partials/event', ['event' => $event]);
+        foreach($events as $event) {
+          snippet('partials/event', ['event' => $event, 'year' => $year]);
           $count++;
           e($last > $count, '<hr>');
-        endforeach;
-        endforeach;
-      ?>
-
-
-
-
-
+        }
+      }
+    ?>
   </section>
   <nav class="wrap post-nav center">
     <a class="btn bg--primary" href="<?= page('vergangene-veranstaltungen')->url() ?>" title="<?= l::get('kalender_vergangene-veranstaltungen--title') ?>">

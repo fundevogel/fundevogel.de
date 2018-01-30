@@ -1,16 +1,17 @@
 <article class="wrap">
   <div class="two-thirds--wide">
-    <h3><?= $event->summary()->escape() ?></h3>
-    <?= $event->description()->kirbytext() ?>
+    <h3><?= $event->summary()->html() ?></h3>
+    <?= $event->description()->kt() ?>
   </div>
   <aside class="one-third--wide">
     <div class="card card--outer">
       <div class="card--inner">
         <h4><?= l::get('kalender_termin-ueberschrift') ?></h4>
         <p>
-          <?php $begin_date = strtotime($event->begin_date()); ?>
-          <?php $end_date = strtotime($event->end_date()); ?>
-
+          <?php
+            $begin_date = strtotime($year->title());
+            $end_date = strtotime($event->end_date());
+          ?>
           <?= l::get('kalender_termin-thema') ?>: <?= $event->css()->html() ?><br>
           <?= l::get('kalender_termin-tage') ?>: <?= date('d.m.Y', $begin_date) ?><br>
           <?php if($event->begin_time()->isNotEmpty()) : ?>
