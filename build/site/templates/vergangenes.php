@@ -4,15 +4,24 @@
     <h2>
       <?= $page->subtitle()->html() ?>
     </h2>
-    <?php $events = page('kalender')->events($own = true, $allies = array('children' => true, 'siblings' => true)); ?>
-    <?php $events = $events->sortBy('begin_date', 'desc'); ?>
-    <?php $events = $events->filter(function($child) { return $child->date(null, 'end_date') <= time(); }); ?>
-    <?php $last = $events->count(); ?>
-    <?php $count = 0; foreach ($events as $key => $event) : ?>
-      <?php snippet('event-teaser', array('event' => $event)); ?>
-      <?php $count++; ?>
-      <?php if ($last > $count) echo '<hr>' ?>
-    <?php endforeach ?>
+
+    <?php
+      foreach($pages->find('kalender/year-2018')->children() as $child) :
+      $events = $child->events()->toStructure();
+      $events = $events->sortBy('begin_date', 'desc');
+      $events = $events->filter(function($child) { return $child->date(null, 'end_date') <= time(); });
+      $last = count($events);
+      foreach($events as $event) :
+        snippet('event-teaser', ['event' => $event]);
+        $count++;
+        e($last > $count, '<hr>');
+      endforeach;
+      endforeach;
+    ?>
+
+
+
+
 
   </section>
   <nav class="wrap post-nav center">

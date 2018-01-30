@@ -23,7 +23,7 @@ fields:
     type: tabs
   title:
     label: Überschrift
-    type:  text
+    type: text
     width: 1/3
   cover:
     label: Cover
@@ -41,11 +41,12 @@ fields:
     label: Text
     type: textarea
   tab2:
-    label: Veranstaltungen
+    label: Kalendereinträge
     type: tabs
   calendar:
     label: Veranstaltungen
     type: calendarboard
+    spoiler: ab {{begin_time}} - {{summary}}
   tab3:
     label: Meta-Informationen
     type: tabs

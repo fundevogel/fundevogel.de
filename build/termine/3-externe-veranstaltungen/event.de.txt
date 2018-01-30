@@ -1,0 +1,155 @@
+Title: Externe Veranstaltungen
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Großes Abschlussfest des
+    LirumLarumLesefests
+  description: 'Ganztägig im Stadttheater Freiburg - Programm und Veranstaltungsdetails folgen'
+  what: LirumLarumLesefest
+  location: Stadttheater Freiburg
+  begin_date: 2016-10-16
+  end_date: ""
+  begin_time: ""
+  end_time: ""
+- 
+  summary: Café-lecture au Café Marcel
+  description: |
+    Es geht weiter mit der zweiten Café-Lesung, diesmal für die Nachmittagspause! Wie bei der ersten Veranstaltung, gelesen wird auf französisch für Kinder von 3 bis 6.
+    Bitte prüft am Tag der Lesung auf unserer Webseite oder beim (link: http://www.cafemarcel.de/ text: Café Marcel), wo die Lesung stattfindet (bei Regen wird im Fundevogel vorgelesen).
+    
+    Eintritt frei, keine Reservierung notwendig.
+  what: Lesung französischer Kinderbücher
+  location: Café Marcel
+  begin_date: 2017-03-29
+  end_date: ""
+  begin_time: 15:30
+  end_time: ""
+- 
+  summary: 'Büchertisch zum Thema: "Wie entsteht ein Bilderbuch?"'
+  description: |
+    Anlässlich der Sonderausstellung „Todsicher? Letzte Reise ungewiss“ veranschaulicht die Illustratorin und Autorin Kathrin Schärer die Entstehung eines Bilderbuchs anhand des Buches „Der Tod auf dem Apfelbaum“. Auf weitere Buchempfehlungen folgt ein offener Austausch zum Thema Tod im Kinderbuch. Diese Veranstaltung begleiten wir mit einem Büchertisch. Für ErzieherInnen, LehrerInnen und Interessierte.
+    
+    Ort: Museum Natur und Mensch, 2. OG, Gerberau 32, 79098 Freiburg
+    Eintritt 8 Euro inkl. Museumseintritt mit Anmeldung.
+    In Zusammenarbeit u.a. mit dem Literaturbüro Freiburg.
+  begin_date: 2017-06-22
+  begin_time: 16:30
+  end_date: 2017-06-22
+  end_time: 18:00
+  what: Büchertisch
+  location: Museum Natur und Mensch
+- 
+  summary: >
+    Büchertisch zum Erntedank in der
+    Friedensgemeinde
+  description: >
+    Wie jedes Jahr freuen wir uns besonders
+    am Fest der Friedensgemeinde anläßlich
+    Erntedank mit einem Büchtisch
+    teilnehmen zu dürfen. Immer wieder eine
+    besondere Atmosphäre!
+  what: offene Veranstaltung, ganztägig
+  location: Friedensgemeinde Hirzbergstraße
+  begin_date: 2017-09-24
+  end_date: 2017-09-24
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Büchertisch anlässlich der Lesung von
+    Andreas Steinhöfel
+  description: >
+    Mit seinem neuen Rico-Oskar-Buch ist
+    Andreas Steinhöfel zu Gast im
+    Literaturhaus. Er wird aus "Rico, Oskar
+    und das Vomhimmelhoch" vorlesen, ein
+    Buch, das Ende September erscheint.
+  what: >
+    Anmeldung bitte beim Literaturbüro
+    Freiburg
+  location: Literaturhaus Freiburg
+  begin_date: 2017-11-17
+  end_date: 2017-11-17
+  begin_time: 17:00
+  end_time: 18:30
+- 
+  summary: >
+    Adventsausstellung in der Oberlin
+    Grundschule
+  description: >
+    Zum Adventscafé präsentiert der
+    Fundevogel einen bunten Strauß von
+    Büchern.
+  what: schulinterne Veranstaltung
+  location: Oberlin Schule in Freiburg
+  begin_date: 2017-12-01
+  end_date: 2017-12-02
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Büchertisch anlässlich der Lesung von
+    Andreas Venzke
+  description: 'Büchertisch bei der Veranstaltung mit dem Füchsleclub des SC-Freiburg: »CARLOS KANN DOCH TORE SCHIESSEN«, Lesung mit Andreas Venzke'
+  what: Lesung
+  location: >
+    Schwarzwald-Stadion. Schwarzwaldstraße
+    193, 79117 Freiburg. Ausgebucht!
+  begin_date: 2017-10-17
+  end_date: 2017-10-17
+  begin_time: 11:30
+  end_time: 12:30
+- 
+  summary: >
+    Buchausstellung in der
+    Kindertagesstätte Immergrün
+  description: ""
+  what: Kindergarteninterne Ausstellung
+  location: Kindertagesstätte Immergrün
+  begin_date: 2017-11-17
+  end_date: 2017-11-01
+  begin_time: ""
+  end_time: ""
+- 
+  summary: >
+    Fête du livre / Bücherfest in der
+    deutsch-französischen Grundschule
+  description: >
+    Anlässlich des deutsch-französischen
+    Bücherfests präsentieren wir Ihnen
+    eine Auswahl an französischen und
+    bilingualen Bücher. Venez nombreux !
+  what: Büchertisch
+  location: >
+    Deutsch-Französische Grundschule,
+    Belchenstraße 2, 79115 Freiburg
+  begin_date: 2017-11-25
+  end_date: 2017-11-25
+  begin_time: 12:00
+  end_time: 16:30
+- 
+  summary: Kirsten Boie in Freiburg
+  description: |
+    Am 22. Januar 2018 ist Kirsten Boie zu Gast in der Katholischen Akademie. Um 16 Uhr  wird sie die Kinder auf eine Reise in Ihre Bücherwelt entführen.
+    Erwachsene dürfen die Schriftstellerin um 19 Uhr im Gespräch mit dem Redakteur Karsten Umlauf (SWR 2) erleben, und so die verschiedenen Gesichter ihrer Person und ihres Werkes erfahren.
+    Das Ende der Veranstaltung ist ca. um 20.30 Uhr.
+    Ausklang bei Wein und Brot.
+    Wir freuen uns beide Veranstaltungen mit einem Büchertisch begleiten zu dürfen.
+    Kosten jeweils: Eintritt 6,00 €, ermäßigt 3,00€.
+    Es wird freundlich um Anmeldung gebeten.
+    Katholische Akademie
+    Postfach 947 Telefon 0761 31918 0, Fax 0761 31918 111
+    E-Mail: mail@katholische-akademie-freiburg.de
+    Internet: www.katholische-akademie-freiburg.de
+  what: ""
+  location: >
+    Katholische Akademie, Wintererstraße 1,
+    79104 Freiburg
+  begin_date: 2018-01-22
+  end_date: 2018-01-22
+  begin_time: 16:00
+  end_time: 20:30
