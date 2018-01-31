@@ -3,14 +3,18 @@
   <section class="list">
     <h2><?= $page->subtitle()->html() ?></h2>
     <?php
-      foreach($pages->find('kalender/year-2018')->children() as $year) {
-        $events = $year->events()->toStructure();
-        $events = $events->filter(function($child) { return $child->date(null, 'end_date') <= time(); });
-        $last = count($events);
-        foreach($events as $event) {
-          snippet('partials/event', ['event' => $event, 'year' => $year]);
-          $count++;
-          e($last > $count, '<hr>');
+      $years = page('kalender')->children()->flip();
+      foreach($years as $year) {
+        $days = $year->children()->flip();
+        foreach($days as $day) {
+          $events = $day->events()->toStructure();
+          $events = $events->filter(function($child) { return $child->date(null, 'end_date') <= time(); });
+          $last = count($events);
+          foreach($events as $event) {
+            snippet('partials/event', ['event' => $event, 'year' => $day]);
+            $count++;
+            e($last > $count, '<hr>');
+          }
         }
       }
     ?>
