@@ -6,22 +6,24 @@ entry: >
   <strong>{{summary}}</strong><br>
   Art der Veranstaltung: {{css}}<br>
   Veranstaltungsort: {{location}}<br>
-  Beginn: {{begin_date}} - {{begin_time}}<br>
+  Beginn: {{begin_time}}<br>
   Ende: {{end_date}} - {{end_time}}
 fields:
   summary:
     label: Name der Veranstaltung
     type: text
     required: true
-    width: 1/2
+    width: 2/3
+  begin_time:
+    label: Beginn (Zeit)
+    type: time
+    interval: 15
+    width: 1/3
   location:
     label: Veranstaltungsort
     type: text
     required: true
-    width: 1/2
-  description:
-    label: Beschreibung
-    type: textarea
+    width: 2/3
   css:
     label: Art der Veranstaltung
     type: quickselect
@@ -29,34 +31,26 @@ fields:
       Autorengespräch: Autorengespräch
       category2: Lesung
       category3: Büchertisch
-    width: 3/4
+    width: 1/3
+  description:
+    label: Beschreibung
+    type: textarea
+  end_date:
+    label: Ende (Datum)
+    type: date
+    format: DD.MM.YYYY
+    width: 1/3
+    required: true
+  end_time:
+    label: Ende (Zeit)
+    type: time
+    interval: 15
+    width: 1/3
   cloning:
     label:
       de: Für x Tage
       en: Repeat for days
     type: number
-    width: 1/4
+    width: 1/3
     # validate:
       # max: 5
-  begin_date:
-    label: Beginn (Datum)
-    type: date
-    format: DD.MM.YYYY
-    width: 1/2
-    required: true
-  end_date:
-    label: Ende (Datum)
-    type: date
-    format: DD.MM.YYYY
-    width: 1/2
-    required: true
-  begin_time:
-    label: Beginn (Zeit)
-    type: time
-    interval: 15
-    width: 1/2
-  end_time:
-    label: Ende (Zeit)
-    type: time
-    interval: 15
-    width: 1/2

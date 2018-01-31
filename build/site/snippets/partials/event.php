@@ -9,18 +9,25 @@
         <h4><?= l::get('kalender_termin-ueberschrift') ?></h4>
         <p>
           <?php
-            $begin_date = strtotime($year->title());
-            $end_date = strtotime($event->end_date());
+            $location = $event->location();
+            $type = $event->css();
+            $start_time = $event->begin_time();
+            $end_time = $event->end_time();
+            $start_date = $year->title();
+            $end_date = $event->end_date();
+            $start = strtotime($start_date . ' ' . $start_time);
+            $end = strtotime($event->end_date() . ' ' . $event->end_time());
+
+            e($type->isNotEmpty(), l::get('kalender_termin-thema') . ': ' . $type->html() . '<br>');
+            e($start, l::get('kalender_termin-tage') . ': ' . date('d.m.Y', $start) . '<br>');
+            if($start_time->isNotEmpty()) {
+              echo l::get('kalender_termin-zeit') . ': ' . date('H:i', $start);
+              e($end_time && date('H:i', $end) !== date('H:i', $start), '- '. date('H:i', $end));
+              echo ' ' . l::get('kalender_termin-uhr') . '<br>';
+            }
+            e($location->isNotEmpty(), l::get('kalender_termin-ort') . ': ' . $location->html() . '<br>');
+            e($end_date && date('d.m.Y', $end) !== date('d.m.Y', $start), l::get('kalender_termin-ende') . ': ' . date('d.m.Y', $end));
           ?>
-          <?= l::get('kalender_termin-thema') ?>: <?= $event->css()->html() ?><br>
-          <?= l::get('kalender_termin-tage') ?>: <?= date('d.m.Y', $begin_date) ?><br>
-          <?php if($event->begin_time()->isNotEmpty()) : ?>
-          <?= l::get('kalender_termin-zeit') ?>: <?= $event->begin_time() ?> <?php if($event->end_time()->isNotEmpty()) : ?>- <?= $event->end_time() ?><?php endif ?> <?= l::get('kalender_termin-uhr') ?><br>
-          <?php endif ?>
-          <?= l::get('kalender_termin-ort') ?>: <?= $event->location()->html() ?><br>
-          <?php if($end_date && $end_date !== $begin_date) : ?>
-          <?= l::get('kalender_termin-ende') ?>: <?= date('d.m.Y', $end_date) ?><br>
-          <?php endif ?>
         </p>
       </div>
     </div>
