@@ -28,9 +28,19 @@ fields:
     label: Art der Veranstaltung
     type: quickselect
     options:
+      # Author
       Autorengespräch: Autorengespräch
-      category2: Lesung
-      category3: Büchertisch
+      Lesung: Lesung
+
+      # School + Kindergarten
+      "Kindergarteninterne Veranstaltung": Kindergarten
+      "Schulinterne Veranstaltung": Schule
+      "Veranstaltung für angemeldete Schulklassen": Schulklassen
+
+      # Generic
+      Büchertisch: Büchertisch
+      Weltgeschichtentag: Weltgeschichtentag
+      "Präsentation und Vorstellung ausgewählter Neuerscheinungen": HerbstLESE
     width: 1/3
   description:
     label: Beschreibung
