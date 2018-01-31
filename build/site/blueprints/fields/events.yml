@@ -40,7 +40,6 @@ fields:
     type: date
     format: DD.MM.YYYY
     width: 1/3
-    required: true
   end_time:
     label: Ende (Zeit)
     type: time
