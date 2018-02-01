@@ -1,0 +1,14 @@
+Title: 23-04-2018
+
+----
+
+Events: 
+
+- 
+  summary: Buchausstellung in der Kita Sonnengarten
+  begin_time: ""
+  location: Kita Sonnengarten
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  end_date: 2018-04-27
+  end_time: ""

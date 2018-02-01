@@ -1,0 +1,17 @@
+Title: 01-03-2017
+
+----
+
+Events: 
+
+- 
+  summary: Weltgeschichtentag im Fundevogel
+  location: Buchhandlung Fundevogel
+  css: Weltgeschichtentag
+  description: |
+    Zum zweiten Mal findet in Freiburg der große Weltgeschichtentag statt. An diesem Tag werden in verschiedenen Sprachen, mit Gebärden oder auch ganz ohne Sprache an verschiedenen Orten der Freiburg Altstadt Geschichten erzählt. Wir freuen uns auch dieses Jahr wieder dabei sein zu dürfen!
+    
+    Ab 12 Uhr werden Flüchtlinge verschiedener Nationalitäten im Fundevogel kurze Geschichten aus ihren Ländern erzählen. Genauere Informationen zum Weltgeschichtentag werden wir demnächst an dieser Stelle veröffentlichen.
+  begin_time: 12:00
+  end_time: ""
+  end_date: 2017-03-01

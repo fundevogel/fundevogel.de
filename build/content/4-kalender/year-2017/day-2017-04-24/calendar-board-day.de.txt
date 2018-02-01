@@ -1,0 +1,27 @@
+Title: 24-04-2017
+
+----
+
+Events: 
+
+- 
+  summary: Welttag des Buches
+  location: Buchhandlung Fundevogel
+  css: >
+    Veranstaltung für angemeldete
+    Schulklassen
+  description: |
+    In diesem Zeitraum besuchen uns jeweils vormittags Schulklassen der 4. und 5. Klassen. Mit jeder Klasse führen wir eine etwa anderthalbstündige (klasseninterne) Veranstaltung anlässlich des Welttag des Buches durch.
+    
+    Informationen zur Anmeldung für 2018 unter 0761/25218 oder (link: http://www.welttag-des-buches.de/ text: im Netz).
+  begin_time: ""
+  end_time: ""
+  end_date: 2017-05-12
+- 
+  summary: Büchertisch im Kindergarten St. Michael
+  location: Kindergarten St. Michael
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  begin_time: ""
+  end_time: ""
+  end_date: 2017-04-28

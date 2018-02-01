@@ -1,0 +1,32 @@
+Title: 16-04-2018
+
+----
+
+Events: 
+
+- 
+  summary: Buchausstellung in der Kita St. Michael
+  begin_time: ""
+  location: Kita St. Michael
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  end_date: 2018-04-20
+  end_time: ""
+- 
+  summary: Welttag des Buches
+  begin_time: ""
+  location: Buchhandlung Fundevogel
+  css: >
+    Veranstaltung für angemeldete
+    Schulklassen
+  description: >
+    Rund um den Welttag des Buches am 23.
+    April werden uns in einem Zeitraum von
+    einem Monat wieder zahlreiche
+    Schulklassen in der Buchhandlung
+    besuchen kommen. Gemeinsam mit den
+    Schülern werden wir den Tag des Buches
+    feiern und in die Welt der Bücher
+    eintauchen.
+  end_date: 2018-05-15
+  end_time: ""

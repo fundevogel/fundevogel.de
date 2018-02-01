@@ -1,0 +1,19 @@
+Title: 17-03-2018
+
+----
+
+Events: 
+
+- 
+  summary: Weltgeschichtentag
+  begin_time: ""
+  location: Buchhandlung Fundevogel
+  css: Weltgeschichtentag
+  description: >
+    Am 17.3.2018 feiern wir im Fundevogel
+    wieder den Weltgeschichtentag. Welche
+    Veranstaltungen an diesem Tag bei uns
+    stattfinden, erfahrt ihr demnächst an
+    dieser Stelle!
+  end_date: 2018-03-17
+  end_time: ""

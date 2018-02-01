@@ -1,0 +1,29 @@
+Title: 13-10-2017
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Aktion Lesetüte in der
+    Loretto-Grundschule Freiburg
+  location: Loretto-Grundschule Freiburg
+  css: Schulinterne Veranstaltung
+  description: >
+    Wir sind mit dem SC-Freiburg und dem
+    Füchsle in Sachen "Fußball und lesen"
+    unterwegs, um den Schülern einen guten
+    Start ins neue Schuljahr zu wünschen.
+    Die Erstklässler bekommen bei dieser
+    Veranstaltung eine von uns gut gefüllte
+    Lesetüte überreicht. Diese haben die
+    älteren Schüler vor den Sommerferien
+    für die Neuankömmlinge künstlerisch
+    gestaltet. Als Dankeschön für ihr
+    Engagement dürfen sich die Künstler
+    ein Vorlesebuch für ihre Klasse
+    aussuchen.
+  begin_time: 09:45
+  end_time: 10:45
+  end_date: 2017-10-13

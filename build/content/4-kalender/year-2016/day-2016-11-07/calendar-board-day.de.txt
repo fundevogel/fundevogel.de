@@ -1,0 +1,16 @@
+Title: 07-11-2016
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Carolus
+  location: Kindergarten St. Carolus
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  begin_time: ""
+  end_time: ""
+  end_date: 2016-11-11
