@@ -48,7 +48,7 @@
 #calendarboard a.day.is-sibling {
   cursor:default;
   color:#ccc;
-}
+}  
 
 #calendarboard a.day>p{
     position:absolute;
@@ -74,13 +74,13 @@
   width:28.57142857142857%;
   text-align:center;
   font-size: 2em;
-  line-height: 1;
+  line-height: 1; 
   cursor:pointer;
-  color:#999;
+  color:#999;  
 }
 
 #calendarboard span.month__prev:hover, #calendarboard span.month__next:hover{
-  color:#000;
+  color:#000;  
 }
 
 #calendarboard div.calendar__title{
@@ -104,7 +104,7 @@
   border-radius:2px;
   background-color:#000;
   width:100%;
-  white-space: nowrap;
+  white-space: nowrap; 
   overflow: hidden;
   text-overflow: ellipsis;
   margin-bottom:2px;

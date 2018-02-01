@@ -19,12 +19,12 @@ class CalendarboardFieldController extends Kirby\Panel\Controllers\Field {
     $currentMonth = $cal->month($year, $month);
 
     return tpl::load(__DIR__ . DS . 'template.php', array(
-      'currentMonth' => $currentMonth,
-      'get_day_route_url' => purl($this->model(), 'field/' . $this->field()->name . '/calendarboard/get-day/'),
-      'calendarboard_url' => $this->model(),
-      'year_folder' => '/year-' . $year,
-      'spoiler__tpl' => $spoiler__tpl,
-      'spoiler__fields' => $spoiler__fields
+        'currentMonth' => $currentMonth,
+        'get_day_route_url' => purl($this->model(), 'field/' . $this->field()->name . '/calendarboard/get-day/'),
+        'calendarboard_url' => $this->model(),
+        'year_folder' => '/year-' . $year,
+        'spoiler__tpl' => $spoiler__tpl,
+        'spoiler__fields' => $spoiler__fields
     ));
   }
 
@@ -40,7 +40,7 @@ class CalendarboardFieldController extends Kirby\Panel\Controllers\Field {
     $this->field()->check_day($this->model(), $date);
 
     // Go to day edit page
-    go(purl($this->model(), 'year-' . $Date[0] . '/day-' . $date . '/edit'));
+    go(purl($this->model(), 'year-' . $Date[0] . '/day-' . $date . '/edit'));  
   }
 
   public function moveEvent($index, $fromDay, $toDay) {
@@ -64,13 +64,13 @@ class CalendarboardFieldController extends Kirby\Panel\Controllers\Field {
        $eventsFrom = array_values($eventsFrom);
 
         $pageFrom->update(array(
-          'events' => yaml::encode($eventsFrom)
+           'events' => yaml::encode($eventsFrom)
         ));
 
         $eventsTo[] = $eventToMove;
 
         $pageTo->update(array(
-          'events' => yaml::encode($eventsTo)
+           'events' => yaml::encode($eventsTo)
         ));
       }
 

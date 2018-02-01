@@ -1,0 +1,40 @@
+title: day
+pages: false
+files: false
+deletable: false
+fields:
+  title:
+    label: Day
+    type:  text
+    readonly: true
+  events:
+    label: Job meetings
+    type: structure
+    fields:
+      hour:
+        label: Time
+        type: time 
+      pathology:
+        label: Pathology
+        type: select
+        options:
+          pat1: Mal di testa
+          pat2: Dissenteria
+          pat3: Influenza
+      patient:
+        label: Patient
+        type: text 
+      css:
+        label: Categoria
+        type: select
+        options:
+          category1: Categoria 1
+          category2: Categoria 2
+          category3: Categoria 3
+          category4: Categoria 4
+          category5: Categoria 5
+      cloning:
+        label: Repeat for days
+        type: number
+        validate:
+          max: 5

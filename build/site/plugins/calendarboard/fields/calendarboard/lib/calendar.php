@@ -8,15 +8,15 @@ class CalendarIterator implements \Iterator {
   public function __construct($array=array()) {
     $this->_ = $array;
   }
-
+      
   function __toString() {
     $result = '';
     foreach($this->_ as $date) {
       $result .= $date . '<br />';
     }
     return $result;
-  }
-
+  }      
+      
   function rewind() {
     reset($this->_);
   }
@@ -42,10 +42,10 @@ class CalendarIterator implements \Iterator {
     $var = ($key !== null && $key !== false);
     return $var;
   }
-
+      
   function count() {
     return count($this->_);
-  }
+  }  
 
   function first() {
     return array_shift($this->_);
@@ -57,7 +57,7 @@ class CalendarIterator implements \Iterator {
 
   function nth($n) {
     $values = array_values($this->_);
-    return isset($values[$n]) ? $values[$n] : null;
+    return isset($values[$n]) ? $values[$n] : null;  
   }
 
   function indexOf($needle) {
@@ -76,11 +76,11 @@ class CalendarIterator implements \Iterator {
   function limit($limit) {
     return $this->slice(0, $limit);
   }
-
+    
 }
 
 class CalendarObj {
-
+  
   var $yearINT;
   var $monthINT;
   var $dayINT;
@@ -94,18 +94,18 @@ class CalendarObj {
     if(!$year)  $year   = date('Y');
     if(!$month) $month  = date('m');
     if(!$day)   $day    = date('d');
-
+    
     $this->yearINT   = intval($year);
     $this->monthINT  = intval($month);
     $this->dayINT    = intval($day);
     $this->hourINT   = intval($hour);
     $this->minuteINT = intval($minute);
     $this->secondINT = intval($second);
-
+        
     // convert this to timestamp
     $this->timestamp = mktime($hour, $minute, $second, $month, $day, $year);
   }
-
+  
   function year($year=false) {
     if(!$year) $year = $this->yearINT;
     return new CalendarYear($year, 1, 1, 0, 0, 0);
@@ -143,9 +143,9 @@ class CalendarObj {
   function __toString() {
     return date('Y-m-d H:i:s', $this->timestamp);
   }
-
+  
   function format($format) {
-    return date($format, $this->timestamp);
+    return date($format, $this->timestamp);  
   }
 
   function iso() {
@@ -183,22 +183,22 @@ class CalendarObj {
 
   function plus($string) {
     $modifier = (is_int($string)) ? $string : '+' . $string;
-    return $this->modify($modifier);
+    return $this->modify($modifier);                
   }
 
   function add($string) {
-    return $this->plus($string);
+    return $this->plus($string);  
   }
-
+  
   function minus($string) {
     $modifier = (is_int($string)) ? -$string : '-' . $string;
-    return $this->modify($modifier);
+    return $this->modify($modifier);                  
   }
 
   function sub($string) {
-    return $this->minus($string);
+    return $this->minus($string);  
   }
-
+  
   function dmy() {
     return $this->format('d.m.Y');
   }
@@ -227,30 +227,30 @@ class Calendar {
 
   function months($year=false) {
     $year = new CalendarYear($year, 1, 1, 0, 0, 0);
-    return $year->months();
+    return $year->months();    
   }
 
   function month($year, $month) {
     return new CalendarMonth($year, $month, 1, 0, 0);
   }
-
+  
   function week($year=false, $week=false) {
-    return new CalendarWeek($year, $week);
+    return new CalendarWeek($year, $week);  
   }
 
   function days($year=false) {
     $year = new CalendarYear($year);
-    return $year->days();
+    return $year->days();    
   }
 
   function day($year=false, $month=false, $day=false) {
-    return new CalendarDay($year, $month, $day);
+    return new CalendarDay($year, $month, $day);    
   }
-
+  
   function date() {
 
     $args = func_get_args();
-
+    
     if(count($args) > 1) {
 
       $year   = isset($args[0]) ? $args[0] : false;
@@ -261,7 +261,7 @@ class Calendar {
       $second = isset($args[5]) ? $args[5] : 0;
 
     } else {
-
+      
       if(isset($args[0])) {
         $ts = (is_int($args[0])) ? $args[0] : strtotime($args[0]);
       } else {
@@ -277,12 +277,12 @@ class Calendar {
       $minute = date('i', $ts);
       $second = date('s', $ts);
 
-    }
+  	} 
 
     return new CalendarDay($year, $month, $day, $hour, $minute, $second);
 
   }
-
+  
   function today() {
     return $this->date('today');
   }
@@ -298,7 +298,7 @@ class Calendar {
   function yesterday() {
     return $this->date('yesterday');
   }
-
+  
 }
 
 class CalendarYear extends CalendarObj {
@@ -318,7 +318,7 @@ class CalendarYear extends CalendarObj {
     }
     return new CalendarIterator($array);
   }
-
+  
   function month($month=1) {
     return new CalendarMonth($this->yearINT, $month);
   }
@@ -331,54 +331,54 @@ class CalendarYear extends CalendarObj {
     }
     return new CalendarIterator($array);
   }
-
+  
   function week($week=1) {
-    return new CalendarWeek($this, $week);
+    return new CalendarWeek($this, $week);  
   }
-
+  
   function countDays() {
-    return (int)date('z', mktime(0,0,0,12,31,$this->yearINT))+1;
+    return (int)date('z', mktime(0,0,0,12,31,$this->yearINT))+1;  
   }
-
+    
   function days() {
-
+        
     $days  = $this->countDays();
     $array = array();
     $ts    = false;
 
     for($x=0; $x<$days; $x++) {
       $ts      = (!$ts) ? $this->timestamp : strtotime('tomorrow', $ts);
-      $month   = date('m', $ts);
+      $month   = date('m', $ts);      
       $day     = date('d', $ts);
       $array[] = $this->month($month)->day($day);
     }
 
-    return new CalendarIterator($array);
+    return new CalendarIterator($array);      
 
   }
-
+    
   function next() {
     return $this->plus('1year')->year();
   }
-
+  
   function prev() {
     return $this->minus('1year')->year();
   }
-
+  
   function name() {
     return $this->int();
   }
-
+  
   function firstMonday() {
     $cal = new Calendar();
-    return $cal->date(strtotime('first monday of ' . date('Y', $this->timestamp)));
+    return $cal->date(strtotime('first monday of ' . date('Y', $this->timestamp)));   
   }
 
   function firstSunday() {
     $cal = new Calendar();
-    return $cal->date(strtotime('first sunday of ' . date('Y', $this->timestamp)));
+    return $cal->date(strtotime('first sunday of ' . date('Y', $this->timestamp)));   
   }
-
+  
 }
 
 class CalendarMonth extends CalendarObj {
@@ -394,33 +394,33 @@ class CalendarMonth extends CalendarObj {
   function weeks($force=false) {
 
     $first = $this->firstDay();
-    $week  = $first->week();
-
+    $week  = $first->week();    
+        
     $currentMonth = $this->int();
     $nextMonth    = $this->next()->int();
 
     $max = ($force) ? $force : 6;
-
+      
     for($x=0; $x<$max; $x++) {
-
+      
       // make sure not to add weeks without a single day in the same month
       if(!$force && $x>0 && $week->firstDay()->month()->int() != $currentMonth) break;
-
+      
       $array[] = $week;
-
+            
       // make sure not to add weeks without a single day in the same month
       if(!$force && $week->lastDay()->month()->int() != $currentMonth) break;
 
       $week = $week->next();
 
     }
-
+        
     return new CalendarIterator($array);
-
+        
   }
 
   function countDays() {
-    return date('t', $this->timestamp);
+    return date('t', $this->timestamp);  
   }
 
   function firstDay() {
@@ -428,36 +428,36 @@ class CalendarMonth extends CalendarObj {
   }
 
   function lastDay() {
-    return new CalendarDay($this->yearINT, $this->monthINT, $this->countDays());
+    return new CalendarDay($this->yearINT, $this->monthINT, $this->countDays());  
   }
 
   function days() {
-
+    
     // number of days per month
     $days  = date('t', $this->timestamp);
     $array = array();
     $ts    = $this->firstDay()->timestamp();
 
     foreach(range(1, $days) as $day) {
-      $array[] = $this->day($day);
+      $array[] = $this->day($day);    
     }
 
-    return new CalendarIterator($array);
+    return new CalendarIterator($array);      
 
   }
 
   function day($day=1) {
     return new CalendarDay($this->yearINT, $this->monthINT, $day);
   }
-
+  
   function next() {
     return $this->plus('1month')->month();
   }
-
+  
   function prev() {
     return $this->minus('1month')->month();
   }
-
+  
   function name() {
     return strftime('%B', $this->timestamp);
   }
@@ -492,17 +492,17 @@ class CalendarWeek extends CalendarObj {
     $monday = strtotime('-3days', $ts);
 
     parent::__construct(date('Y', $monday), date('m', $monday), date('d', $monday), 0, 0, 0);
-
+    
   }
-
+  
   function years() {
     $array = array();
     $array[] = $this->firstDay()->year();
     $array[] = $this->lastDay()->year();
-
+      
     // remove duplicates
     $array = array_unique($array);
-
+    
     return new CalendarIterator($array);
   }
 
@@ -516,27 +516,27 @@ class CalendarWeek extends CalendarObj {
 
     return new CalendarIterator($array);
   }
-
+  
   function firstDay() {
     $cal = new Calendar();
-    return $cal->date($this->timestamp);
+    return $cal->date($this->timestamp);    
   }
 
   function lastDay() {
     $first = $this->firstDay();
     return $first->plus('6 days');
   }
-
+    
   function days() {
-
+    
     $day   = $this->firstDay();
     $array = array();
-
+                
     for($x=0; $x<7; $x++) {
       $array[] = $day;
       $day = $day->next();
     }
-
+        
     return new CalendarIterator($array);
 
   }
@@ -546,11 +546,11 @@ class CalendarWeek extends CalendarObj {
     $next = strtotime('Thursday next week', $this->timestamp);
     $year = date('Y', $next);
     $week = date('W', $next);
-
+                                  
     return new CalendarWeek($year, $week);
 
   }
-
+  
   function prev() {
 
     $prev = strtotime('Monday last week', $this->timestamp);
@@ -560,9 +560,9 @@ class CalendarWeek extends CalendarObj {
     return new CalendarWeek($year, $week);
 
   }
-
-}
-
+   
+}  
+  
 
 class CalendarDay extends CalendarObj {
 
@@ -573,17 +573,17 @@ class CalendarDay extends CalendarObj {
   function int() {
     return $this->dayINT;
   }
-
+  
   function week() {
     $week = date('W', $this->timestamp);
     $year = ($this->monthINT == 1 && $week > 5) ? $this->year()->prev() : $this->year();
-    return new CalendarWeek($year->int(), $week);
+    return new CalendarWeek($year->int(), $week);      
   }
 
   function next() {
     return $this->plus('1day');
   }
-
+  
   function prev() {
     return $this->minus('1day');
   }
@@ -591,7 +591,7 @@ class CalendarDay extends CalendarObj {
   function weekday() {
     return date('N', $this->timestamp);
   }
-
+  
   function name() {
     return strftime('%A', $this->timestamp);
   }
@@ -599,40 +599,40 @@ class CalendarDay extends CalendarObj {
   function shortname() {
     return strftime('%a', $this->timestamp);
   }
-
+    
   function isToday() {
     $cal = new Calendar();
     return $this == $cal->today();
   }
-
+  
   function isYesterday() {
     $cal = new Calendar();
-    return $this == $cal->yesterday();
+    return $this == $cal->yesterday();  
   }
-
+  
   function isTomorrow() {
     $cal = new Calendar();
-    return $this == $cal->tomorrow();
+    return $this == $cal->tomorrow();    
   }
-
+  
   function isInThePast() {
     return ($this->timestamp < time()) ? true : false;
   }
-
+  
   function isInTheFuture() {
-    return ($this->timestamp > time()) ? true : false;
+    return ($this->timestamp > time()) ? true : false;  
   }
 
   function hours() {
 
     $obj   = $this;
     $array = array();
-
+    
     while($obj->int() == $this->int()) {
       $array[] = $obj->hour();
-      $obj = $obj->plus('1hour');
+      $obj = $obj->plus('1hour');    
     }
-
+    
     return new CalendarIterator($array);
 
   }
@@ -652,13 +652,13 @@ class CalendarHour extends CalendarObj {
 
     while($obj->hourINT == $this->hourINT) {
       $array[] = $obj;
-      $obj = $obj->plus('1minute')->minute();
+      $obj = $obj->plus('1minute')->minute();    
     }
 
     return new CalendarIterator($array);
-
+        
   }
-
+  
   function next() {
     return $this->plus('1hour')->hour();
   }
@@ -679,12 +679,12 @@ class CalendarMinute extends CalendarObj {
 
     $obj   = $this;
     $array = array();
-
+    
     while($obj->minuteINT == $this->minuteINT) {
       $array[] = $obj;
-      $obj = $obj->plus('1second')->second();
+      $obj = $obj->plus('1second')->second();    
     }
-
+    
     return new CalendarIterator($array);
 
   }
@@ -704,7 +704,7 @@ class CalendarSecond extends CalendarObj {
   function int() {
     return $this->secondINT;
   }
-
+  
   function next() {
     return $this->plus('1second')->second();
   }
@@ -714,3 +714,6 @@ class CalendarSecond extends CalendarObj {
   }
 
 }
+
+
+
