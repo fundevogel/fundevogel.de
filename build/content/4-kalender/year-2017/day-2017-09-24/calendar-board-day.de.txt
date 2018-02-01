@@ -1,0 +1,19 @@
+Title: 24-09-2017
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Büchertisch zum Erntedank in der
+    Friedensgemeinde
+  location: Friedensgemeinde Hirzbergstraße
+  css: Büchertisch
+  description: |
+    Wie jedes Jahr freuen wir uns besonders am Fest der Friedensgemeinde anläßlich Erntedank mit einem Büchtisch teilnehmen zu dürfen. Immer wieder eine besondere Atmosphäre!
+    
+    *offene Veranstaltung, ganztägig*
+  begin_time: ""
+  end_time: ""
+  end_date: 2017-09-24

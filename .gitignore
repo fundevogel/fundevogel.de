@@ -1,6 +1,7 @@
 yarn.lock
 node_modules
-build/assets
+build/assets/*
+!build/assets/panel.css
 
 
 # Temporary files

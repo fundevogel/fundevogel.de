@@ -1,0 +1,12 @@
+title: Appointments
+pages: false
+files: false
+deletable: false
+fields:
+  title:
+    label: Title
+    type:  text   
+  calendar:
+    label: Calendar
+    type:  calendarboard
+    spoiler: testo {{hour}}

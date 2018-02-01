@@ -1,0 +1,26 @@
+Title: 22-01-2018
+
+----
+
+Events:
+
+-
+  summary: Kirsten Boie in Freiburg
+  begin_time: 16:00
+  location: >
+    Katholische Akademie, Wintererstraße 1,
+    79104 Freiburg
+  css: Autorengespräch
+  description: |
+    Am 22. Januar 2018 ist Kirsten Boie zu Gast in der Katholischen Akademie. Um 16 Uhr  wird sie die Kinder auf eine Reise in Ihre Bücherwelt entführen. Erwachsene dürfen die Schriftstellerin um 19 Uhr im Gespräch mit dem Redakteur Karsten Umlauf (SWR 2) erleben, und so die verschiedenen Gesichter ihrer Person und ihres Werkes erfahren. Das Ende der Veranstaltung ist ca. um 20.30 Uhr.
+    Ausklang bei Wein und Brot.
+
+    Wir freuen uns, beide Veranstaltungen mit einem Büchertisch begleiten zu dürfen.
+    Kosten jeweils: Eintritt 6,00 €, ermäßigt 3,00€.
+    Es wird freundlich um Anmeldung gebeten.
+    Katholische Akademie
+    Postfach 947 Telefon 0761 31918 0, Fax 0761 31918 111
+    E-Mail: mail@katholische-akademie-freiburg.de
+    Internet: www.katholische-akademie-freiburg.de
+  end_date: 2018-01-22
+  end_time: 20:30

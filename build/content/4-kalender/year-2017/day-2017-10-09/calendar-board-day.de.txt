@@ -1,0 +1,14 @@
+Title: 09-10-2017
+
+----
+
+Events: 
+
+- 
+  summary: Buchausstellung in der Kita Rotlaub
+  location: Kita Rotlaub
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  begin_time: ""
+  end_time: ""
+  end_date: 2017-10-13

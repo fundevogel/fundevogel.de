@@ -1,0 +1,16 @@
+Title: 11-03-2017
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Musikalische Feier zur Erweiterung
+    unseres Sortiments
+  location: Buchhandlung Fundevogel
+  css: Feier / Fest
+  description: 'Am 11. März, 18 Uhr feiern wir bei uns im Fundevogel die Erweiterung unseres Sortiments um französische Bücher.  Die Präsentation unserer kleinen französischen Ecke wird mit Liedern von Boris Vian live begleitet.  Wenn Sie möchten, dürfen Sie gerne auch die Klassiker der Chanson francaise mitsingen! Kommen Sie und feiern Sie mit!'
+  begin_time: 18:00
+  end_time: ""
+  end_date: 2017-03-11

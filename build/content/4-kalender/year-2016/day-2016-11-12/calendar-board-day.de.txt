@@ -1,0 +1,23 @@
+Title: 12-11-2016
+
+----
+
+Events: 
+
+- 
+  summary: HerbstLESE im Fundevogel
+  location: Buchhandlung Fundevogel
+  css: >
+    Präsentation und Vorstellung
+    ausgewählter Neuerscheinungen
+  description: |
+    Dieser Abend besitzt im Fundevogel bereits Tradition und ist ganz den Neuerscheinungen des Bücherherbstes aus dem Bereich der Kinder- und Jugendliteratur gewidmet.
+    
+    Aus der Vielzahl der Neuheiten haben wir für Sie eine Auswahl von empfehlenswerten Titeln getroffen, um sie Ihnen in gemütlicher Atmosphäre bei Sekt und Selters, Wein, Saft und Brezeln persönlich vorzustellen. So möchten wir Ihnen einen individuell geprägten Überblick über die Neuheiten dieses Herbstes 2016 geben. Lassen Sie sich von uns in die Welt der Bücher entführen.
+    
+    **Sie sind herzlich eingeladen!**
+    
+    *Der Eintritt ist frei. Wir bitten um vorherige Anmeldung!*
+  begin_time: 19:00
+  end_time: ""
+  end_date: 2016-11-12

@@ -1,0 +1,18 @@
+title: Tag
+
+pages: false
+files: false
+
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: true
+
+fields:
+  title:
+    label: Tag
+    type: text
+    readonly: true
+  events: events

@@ -1,0 +1,16 @@
+Title: 14-11-2016
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Buchausstellung im Kindergarten St.
+    Blasius
+  location: Kindergarten St. Blasius
+  css: Kindergarteninterne Veranstaltung
+  description: ""
+  begin_time: ""
+  end_time: ""
+  end_date: 2016-11-18

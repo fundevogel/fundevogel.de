@@ -27,3 +27,5 @@ c::set('textarea.buttons', array(
   'link'
   // 'email'
 ));
+
+c::set('panel.stylesheet', 'assets/panel.css');

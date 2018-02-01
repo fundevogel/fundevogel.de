@@ -1,0 +1,16 @@
+Title: 16-10-2016
+
+----
+
+Events: 
+
+- 
+  summary: >
+    Großes Abschlussfest des
+    LirumLarumLesefests
+  location: Stadttheater Freiburg
+  css: Lirum Larum Lesefest
+  description: 'Ganztägig im Stadttheater Freiburg - Programm und Veranstaltungsdetails folgen'
+  begin_time: ""
+  end_time: ""
+  end_date: 2016-10-16

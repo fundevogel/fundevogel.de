@@ -5,13 +5,13 @@ return function($site, $pages, $page) {
   $image = $page->cover()->toFile();
   $thumb = thumb($image, array('width' => 460, 'quality' => 85));
 
-  $years = $page->children()->flip();
+  $years = page('kalender')->children()->flip();
 
   foreach($years as $year) {
-    $days = $year->children();
+    $days = $year->children()->flip();
     foreach($days as $day) {
       $dates = $day->events()->toStructure();
-      $dates = $dates->filter(function($child) { return $child->date(null, 'end_date') >= time(); });
+      $dates = $dates->filter(function($child) { return $child->date(null, 'end_date') < time(); });
       foreach($dates as $date) {
         $date = $date->append('day', $day->title());
         $events[] = $date;
