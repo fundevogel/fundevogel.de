@@ -13,7 +13,7 @@
             $type = $event->css();
             $start_time = $event->begin_time();
             $end_time = $event->end_time();
-            $start_date = $year->title();
+            $start_date = $event->day();
             $end_date = $event->end_date();
             $start = strtotime($start_date . ' ' . $start_time);
             $end = strtotime($event->end_date() . ' ' . $event->end_time());

@@ -46,7 +46,7 @@ fields:
   calendar:
     label: Veranstaltungen
     type: calendarboard
-    spoiler: {{summary}}
+    spoiler: - {{summary}} -
   tab3:
     label: Meta-Informationen
     type: tabs

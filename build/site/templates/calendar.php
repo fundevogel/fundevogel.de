@@ -12,15 +12,9 @@
   <section class="list">
     <h2 class="center"><?= l::get('kalender_ueberschrift-liste') ?></h2>
     <?php
-      foreach($pages->find('kalender/year-2018')->children() as $year) {
-        $events = $year->events()->toStructure();
-        $events = $events->filter(function($child) { return $child->date(null, 'end_date') >= time(); });
-        $last = count($events);
-        foreach($events as $event) {
-          snippet('partials/event', ['event' => $event, 'year' => $year]);
-          $count++;
-          e($last > $count, '<hr>');
-        }
+      foreach ($events as $event) {
+        snippet('partials/event', ['event' => $event]);
+        e($event !== $last, '<hr>');
       }
     ?>
   </section>
