@@ -12,6 +12,7 @@ c::set('thumbs.driver', 'im');
 
 // Plugin settings
 
+c::set('plugin.html.minifier.active', false);
 c::set('textarea.buttons', array(
   // 'h1',
   'h2',

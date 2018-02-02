@@ -28,3 +28,6 @@
 [submodule "build/site/plugins/kirby-sri"]
 	path = build/site/plugins/kirby-sri
 	url = https://github.com/S1SYPHOS/kirby-sri.git
+[submodule "build/site/plugins/kirby-html-minifier"]
+	path = build/site/plugins/kirby-html-minifier
+	url = https://github.com/jenstornell/kirby-html-minifier.git
