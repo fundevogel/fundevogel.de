@@ -11,12 +11,7 @@
   <hr>
   <section class="list">
     <h2 class="center"><?= l::get('kalender_ueberschrift-liste') ?></h2>
-    <?php
-      foreach ($events as $event) {
-        snippet('partials/event', ['event' => $event]);
-        e($event !== $last, '<hr>');
-      }
-    ?>
+    <?php foreach ($events as $event) { snippet('partials/event', compact('event', 'last')); } ?>
   </section>
   <nav class="wrap post-nav center">
     <a class="btn bg--primary" href="<?= page('vergangene-veranstaltungen')->url() ?>" title="<?= l::get('kalender_vergangene-veranstaltungen--title') ?>">

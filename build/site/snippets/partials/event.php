@@ -33,3 +33,4 @@
     </div>
   </aside>
 </article>
+<?php e($event !== $last, '<hr>'); ?>

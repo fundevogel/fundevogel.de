@@ -7,9 +7,7 @@
 <hr>
 <section id="infinite-scroll" class="list" data-page="<?= $page->url() ?>" data-limit="<?= $limit ?>">
   <h2><?= l::get('home_ueberschrift-liste') ?></h2>
-  <?php foreach($posts as $post) : ?>
-  <?php snippet('partials/post', compact('post', 'last')) ?>
-  <?php endforeach ?>
+  <?php foreach($posts as $post) { snippet('partials/post', compact('post', 'last')); } ?>
 </section>
 <nav class="wrap post-nav">
   <button id="load-more" class="btn bg--primary" type="button" title="<?= l::get('home_mehr-anzeigen--title') ?>">
