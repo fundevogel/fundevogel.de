@@ -23,16 +23,18 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     required: true
     width: 3/4
   limit:
-    label: Einträge / Seite
+    label:
+      de: Einträge / Seite
+      en: Posts per page
     type: number
     min: 1
     width: 1/4
@@ -40,9 +42,9 @@ fields:
     label: Intro
     type: textarea
   subtitle:
-    label: Zwischenüberschrift
+    label:
+      de: Zwischenüberschrift
+      en: Subtitle
     type: text
-  tab2:
-    label: Meta-Informationen
-    type: tabs
+  tab2: meta
   seo: seo

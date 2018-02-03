@@ -14,14 +14,12 @@ files: false
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     required: true
-  tab2:
-    label: Meta-Informationen
-    type: tabs
+  tab2: meta
   seo: seo

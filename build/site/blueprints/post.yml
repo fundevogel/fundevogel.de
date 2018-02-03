@@ -17,16 +17,16 @@ files: true
     alt: alt
 
 fields:
-  tab1:
-    label: Hauptinhalt
-    type: tabs
+  tab1: main
   title:
     label: Überschrift
     type: text
     width: 3/4
   date:
+    label:
+      de: Datum
+      en: Date
     icon: calendar
-    label: Datum
     type: date
     format: DD.MM.YYYY
     placeholder: Wähle ein Datum!
@@ -34,13 +34,13 @@ fields:
     required: true
     width: 1/4
   subtitle:
-    label: Untertitel
+    label:
+      de: Untertitel
+      en: Subtitle
     type: text
     required: true
   text:
     label: Text
     type: textarea
-  tab2:
-    label: Meta-Informationen
-    type: tabs
+  tab2: meta
   seo: seo

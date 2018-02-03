@@ -18,12 +18,13 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
+    required: true
     width: 1/2
   cover:
     label: Cover
@@ -34,10 +35,10 @@ fields:
     label: Text
     type: textarea
   tab2:
-    label: Services
+    label:
+      de: Dienstleistungen
+      en: Services
     type: tabs
   services: entries
-  tab3:
-    label: Meta-Informationen
-    type: tabs
+  tab3: meta
   seo: seo

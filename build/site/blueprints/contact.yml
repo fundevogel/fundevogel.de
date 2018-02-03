@@ -18,33 +18,44 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
+    required: true
   kontaktinfos:
-    label: Kontaktinformationen
+    label:
+      de: Kontaktinformationen
+      en: Contact information
     type: textarea
     width: 1/2
   oeffnungszeiten:
-    label: Öffnungszeiten
+    label:
+      de: Öffnungszeiten
+      en: Opening hours
     type: textarea
     width: 1/2
   tab2:
-    label: Wegbeschreibungen
+    label:
+      de: Wegbeschreibungen
+      en: Directions
     type: tabs
   bike:
-    label: Anfahrt mit Fahrrad
+    label:
+      de: Anfahrt mit Fahrrad
+      en: By bike
     type: textarea
   auto:
-    label: Anfahrt mit Auto
+    label:
+      de: Anfahrt mit Auto
+      en: By car
     type: textarea
   tram:
-    label: Anfahrt mit Tram
+    label:
+      de: Anfahrt mit Tram
+      en: By tram
     type: textarea
-  tab3:
-    label: Meta-Informationen
-    type: tabs
+  tab3: meta
   seo: seo

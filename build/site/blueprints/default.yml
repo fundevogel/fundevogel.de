@@ -15,17 +15,15 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Hauptinhalt
-    type: tabs
+  tab1: main
   title:
-    label: Title
+    label:
+      de: Überschrift
+      en: Title
     type: text
     required: true
   text:
     label: Text
     type: textarea
-  tab2:
-    label: Meta-Informationen
-    type: tabs
+  tab2: meta
   seo: seo

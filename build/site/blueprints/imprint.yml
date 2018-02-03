@@ -14,20 +14,22 @@ files: false
 
 fields:
   translations: translations
-  tab1:
-    label: Hauptinhalt
-    type: tabs
+  tab1: main
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     required: true
   left:
-    label: Linke Spalte
+    label:
+      de: Linke Spalte
+      en: Content area (left)
     type: textarea
   right:
-    label: Rechte Spalte
+    label:
+      de: Rechte Spalte
+      en: Content area (right)
     type: textarea
-  tab2:
-    label: Meta-Informationen
-    type: tabs
+  tab2: meta
   seo: seo

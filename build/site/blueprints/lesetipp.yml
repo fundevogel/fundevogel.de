@@ -15,15 +15,18 @@ files: true
     alt: alt
 
 fields:
-  tab1:
-    label: Hauptinhalt
-    type: tabs
+  tab1: main
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     width: 3/4
+    required: true
   date:
-    label: Datum
+    label:
+      de: Datum
+      en: Date
     type: date
     format: DD.MM.YYYY
     default: today
@@ -32,13 +35,15 @@ fields:
     label: Text
     type: textarea
   conclusion:
-    label: Zusammenfassung
+    label:
+      de: Zusammenfassung
+      en: Summary
     type: textarea
   tab2:
-    label: Bibliographisches
+    label:
+      de: Bibliographisches
+      en: Bibliography
     type: tabs
   angaben: biblio
-  tab3:
-    label: Meta-Informationen
-    type: tabs
+  tab3: meta
   seo: seo

@@ -1,4 +1,6 @@
-title: Tag
+title:
+  de: Tag
+  en: Day
 
 pages: false
 files: false
@@ -12,7 +14,9 @@ options:
 
 fields:
   title:
-    label: Tag
+    label:
+      de: Tag
+      en: Day
     type: text
     readonly: true
   events: events

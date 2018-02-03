@@ -20,16 +20,18 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     required: true
     width: 3/4
   perpage:
-    label: Lesetipps / Seite
+    label:
+      de: Lesetipps / Seite
+      en: Lesetipps per page
     type: number
     min: 1
     max: 20
@@ -39,29 +41,37 @@ fields:
     label: Text
     type: textarea
   tab2:
-    label: Empfehlungen
+    label:
+      de: Empfehlungen
+      en: Recommendations
     type: tabs
   pdf_spring:
-    label: Frühjahrsempfehlungen (PDF)
+    label:
+      de: Frühjahrsempfehlungen (PDF)
+      en: Spring edition (PDF)
     type: quickselect
     options: documents
     width: 1/2
   image_spring:
-    label: Frühjahrsempfehlungen (Bild)
+    label:
+      de: Frühjahrsempfehlungen (Bild)
+      en: Spring edition (cover)
     type: quickselect
     options: images
     width: 1/2
   pdf_autumn:
-    label: Herbstempfehlungen (PDF)
+    label:
+      de: Herbstempfehlungen (PDF)
+      en: Autumn edition (PDF)
     type: quickselect
     options: documents
     width: 1/2
   image_autumn:
-    label: Herbstempfehlungen (Bild)
+    label:
+      de: Herbstempfehlungen (Bild)
+      en: Autumn edition (cover)
     type: quickselect
     options: images
     width: 1/2
-  tab3:
-    label: Meta-Informationen
-    type: tabs
+  tab3: meta
   seo: seo

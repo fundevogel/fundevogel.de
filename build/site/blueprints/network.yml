@@ -18,11 +18,11 @@ files: true
 
 fields:
   translations: translations
-  tab1:
-    label: Einleitung
-    type: tabs
+  tab1: intro
   title:
-    label: Überschrift
+    label:
+      de: Überschrift
+      en: Title
     type: text
     width: 1/2
   cover:
@@ -34,13 +34,15 @@ fields:
     label: Text
     type: textarea
   motto:
-    label: Unser Motto
+    label:
+      de: Unser Motto
+      en: Motto
     type: text
   tab2:
-    label: Netzwerk
+    label:
+      de: Netzwerk
+      en: Partners
     type: tabs
   netzwerk: entries
-  tab3:
-    label: Meta-Informationen
-    type: tabs
+  tab3: meta
   seo: seo
