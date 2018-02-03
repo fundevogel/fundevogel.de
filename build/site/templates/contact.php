@@ -14,19 +14,19 @@
   <h2><?= l::get('kontakt_ueberschrift-liste') ?></h2>
   <div class="one-third">
     <div class="center">
-      <?= (new Asset("assets/images/bike.svg"))->content() ?>
+      <?= $bike->content() ?>
     </div>
     <?= $page->bike()->kt() ?>
   </div>
   <div class="one-third">
     <div class="center">
-      <?= (new Asset("assets/images/auto.svg"))->content() ?>
+      <?= $car->content() ?>
     </div>
     <?= $page->auto()->kt() ?>
   </div>
   <div class="one-third">
     <div class="center">
-      <?= (new Asset("assets/images/tram.svg"))->content() ?>
+      <?= $tram->content() ?>
     </div>
     <?= $page->tram()->kt() ?>
   </div>
