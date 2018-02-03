@@ -49,24 +49,26 @@
   });
 
   // AJAX content loading on home page
+  var button  = $('#load-more');
   var element = $('#infinite-scroll');
   var url     = element.data('page') + '/.json';
   var limit   = parseInt(element.data('limit'));
   var offset  = limit;
 
   $(function() {
-    $('#load-more').on('click', function(e) {
+    button.on('click', function(e) {
 
       $.get(url, {limit: limit, offset: offset}, function(data) {
 
         if (data.more === true) {
-          $('.list').append('<hr>');
+          console.log('Yay :)');
         } else {
-          $('#load-more').addClass('is-disabled');
+          button.addClass('is-disabled');
           $('#load-more span').text('<?= l::get('home_mehr-anzeigen--ende') ?>');
+          console.log('Nay :(');
         }
 
-        element.children().last().after(data.html);
+        element.children().last().after(data.html).css({ opacity: 0 }).fadeTo('normal', 0.5);
 
         offset += limit;
       });

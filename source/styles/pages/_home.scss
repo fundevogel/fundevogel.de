@@ -22,3 +22,13 @@
     margin-right: 6px;
   }
 }
+
+@keyframes fadeIn {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.ajaxd {
+  animation-name: fadeIn;
+  animation-duration: 500ms;
+}

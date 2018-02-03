@@ -8,8 +8,7 @@
 <section id="infinite-scroll" class="list" data-page="<?= $page->url() ?>" data-limit="<?= $limit ?>">
   <h2><?= l::get('home_ueberschrift-liste') ?></h2>
   <?php foreach($posts as $post) : ?>
-    <?php snippet('partials/post', ['post' => $post]) ?>
-  <?php e($post !== $last, '<hr>') ?>
+  <?php snippet('partials/post', compact('post', 'last')) ?>
   <?php endforeach ?>
 </section>
 <nav class="wrap post-nav">

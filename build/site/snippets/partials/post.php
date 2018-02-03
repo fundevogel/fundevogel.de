@@ -2,7 +2,7 @@
   $image = $post->image();
   $images = $post->images();
 ?>
-<article class="wrap">
+<article class="wrap<?php e(r::ajax(), ' ajaxd') ?>">
 <?php if (count($images) == 1) : ?>
 <div class="one-third image-area">
   <?php snippet('cover/postcover', ['post' => $post, 'image' => $image, 'gallery' => false]) ?>
@@ -23,3 +23,4 @@
 </div>
 <?php endif ?>
 </article>
+<?php e($post !== $last, '<hr>') ?>

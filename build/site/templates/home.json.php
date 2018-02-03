@@ -3,7 +3,7 @@
 $html = '';
 
 foreach($posts as $post) {
-  $html .= snippet('post', compact('post'), true);
+  $html .= snippet('partials/post', compact('post', 'last'), true);
 }
 
 $data['html'] = $html;
