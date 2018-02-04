@@ -19,9 +19,6 @@
 [submodule "build/site/plugins/quickselect"]
 	path = build/site/plugins/quickselect
 	url = https://github.com/medienbaecker/kirby-quickselect.git
-[submodule "build/site/fields/fieldtoggle"]
-	path = build/site/fields/fieldtoggle
-	url = https://github.com/medienbaecker/kirby-fieldtoggle.git
 [submodule "build/site/plugins/translations"]
 	path = build/site/plugins/translations
 	url = https://github.com/flokosiol/kirby-translations.git
