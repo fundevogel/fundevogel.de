@@ -27,7 +27,8 @@
   },
   "dependencies": {
     "Astro": "cferdinandi/astro",
-    "macy": "^2.3.0"
+    "macy": "^2.3.0",
+    "tiny-slider": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
