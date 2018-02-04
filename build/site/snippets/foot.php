@@ -6,7 +6,6 @@
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
 <script type="text/javascript">
 
   // SmoothScroll back-to-top on all pages
@@ -74,9 +73,6 @@
       });
     });
   });
-
-  // Slick carousel on team page
-  $('.slick-carousel').slick();
 
   // Fancybox (lightbox alternative)
   $('[data-fancybox]').fancybox({

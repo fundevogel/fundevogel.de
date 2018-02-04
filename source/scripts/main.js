@@ -6,7 +6,7 @@
 
 import Astro from 'Astro';
 import macy from 'macy';
-
+import { tns } from 'tiny-slider/src/tiny-slider.module.js';
 
 /*
  * .. and executing them
@@ -49,6 +49,18 @@ function macyJS() {
   });
 }
 
+let slider = tns({
+  container: '.gallery',
+  mode: 'gallery',
+  speed: 1000,
+  lazyload: true,
+  autoplay: true,
+  autoplayTimeout: 4000,
+  autoplayHoverPause: true,
+  autoplayButtonOutput: false,
+  nav: false,
+  controls: false,
+});
 
 featureDetection();
 astroJS();

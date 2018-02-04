@@ -16,7 +16,7 @@
 
       <div class="wrap">
         <div class="show-medium-up">
-          <img class="logo" src="<?= (new Asset('assets/images/rabe.png'))->url() ?>" title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo" width="175" height="135" />
+          <img class="logo" src="<?= (new Asset('assets/images/logo.png'))->url() ?>" title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo" width="175" height="135" />
         </div>
         <div class="hgroup">
           <h1 class="site-title sketch">

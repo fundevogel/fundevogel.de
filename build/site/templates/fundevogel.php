@@ -5,7 +5,7 @@
     <?= $page->fundevogel()->kt() ?>
   </div>
   <div class="one-half--wide teaser">
-    <?php snippet('cover/slick-carousel') ?>
+    <?php snippet('cover/gallery') ?>
   </div>
 </header>
 <hr>
