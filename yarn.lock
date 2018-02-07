@@ -4487,6 +4487,10 @@ liftoff@^2.3.0:
     rechoir "^0.6.2"
     resolve "^1.1.7"
 
+lightgallery.js@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/lightgallery.js/-/lightgallery.js-1.0.2.tgz#554ebc12515a277862e771fcd9bf8e99e4ad1ec6"
+
 limiter@^1.0.5:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/limiter/-/limiter-1.1.2.tgz#229d8055891c8b11af9e0ee5200e8e09bb3dcbeb"

@@ -9,6 +9,10 @@ import Astro from 'Astro';
 import macy from 'macy';
 import { tns } from 'tiny-slider/src/tiny-slider.module';
 
+
+require('lightgallery.js/dist/js/lightgallery.min.js');
+// lightGallery(document.getElementById('lightgallery'));
+
 window.$ = window.jQuery = jQuery;
 
 
