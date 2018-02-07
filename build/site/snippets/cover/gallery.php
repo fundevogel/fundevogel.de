@@ -1,5 +1,5 @@
 <figure class="fig fig--gallery has-hover">
-  <div class="gallery">
+  <div id="lightgallery" class="gallery">
     <?php
       foreach ($page->images() as $image) :
       $thumb = $image->crop(460, 400, 85);

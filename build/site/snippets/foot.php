@@ -4,9 +4,12 @@
 
 <?= js('assets/scripts/main.js', true) ?>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js" integrity="sha256-MXT+AJD8HdXQ4nLEbqkMqW3wXXfvjaGQt/Q/iRlBNSU=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.0.2/dist/css/lightgallery.min.css">
+<script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.0.2/dist/js/lightgallery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script> -->
 <script type="text/javascript">
+
+    lightGallery(document.getElementById('lightgallery'));
 
   // AJAX content loading on home page
   var button  = $('#load-more');
