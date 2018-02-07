@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "Astro": "cferdinandi/astro",
+    "jquery": "2.2.4",
     "macy": "^2.3.0",
     "tiny-slider": "^2.5.2"
   },
