@@ -8,7 +8,7 @@
   </header>
   <hr>
   <?php
-    foreach ($lesetipps as $lesetipp) :
+    $count = 1; foreach ($lesetipps as $lesetipp) :
     $image = $lesetipp->cover()->toFile();
   ?>
   <section class="list">

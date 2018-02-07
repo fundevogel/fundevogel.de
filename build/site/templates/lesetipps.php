@@ -18,7 +18,7 @@
 <section class="list">
   <h2><?= l::get('lesetipps_ueberschrift-liste') ?></h2>
   <?php
-    foreach($lesetipps as $lesetipp) :
+    $count = 1; foreach($lesetipps as $lesetipp) :
     $image = $lesetipp->image();
     $images = $lesetipp->images();
     $excerpt = excerpt($lesetipp->text(), 40, 'words');
@@ -26,7 +26,6 @@
   ?>
   <article class="wrap">
     <?php if (count($images) == 1) : ?>
-
     <div class="one-third center">
       <a class="" href="<?= $lesetipp->url() ?>">
         <?php snippet('cover/bookcover', $image) ?>
@@ -37,9 +36,7 @@
       <h3><a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
       <p><?= $excerpt ?><br><?= $more ?></p>
     </div>
-
     <?php else : ?>
-
     <time datetime="<?= $lesetipp->date('Y-m-d') ?>"><?= $lesetipp->date('d.m.Y') ?></time>
     <h3><a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
     <p><?= $excerpt ?><br><?= $more ?></p>

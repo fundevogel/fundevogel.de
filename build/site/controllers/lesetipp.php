@@ -3,10 +3,10 @@
 return function($site, $pages, $page) {
 
   $lesetipps = $page->angaben()->toStructure();
+  $last = $lesetipps->last();
 
-  return [
-    'count'     => 1,
-    'lesetipps' => $lesetipps,
-    'last'      => $lesetipps->last()
-  ];
+  return compact(
+    'lesetipps',
+    'last'
+  );
 };

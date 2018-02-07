@@ -6,7 +6,7 @@
 
 import Astro from 'Astro';
 import macy from 'macy';
-import { tns } from 'tiny-slider/src/tiny-slider.module.js';
+import { tns } from 'tiny-slider/src/tiny-slider.module';
 
 /*
  * .. and executing them

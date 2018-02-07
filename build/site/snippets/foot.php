@@ -4,8 +4,8 @@
 
 <?= js('assets/scripts/main.js', true) ?>
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js" integrity="sha256-MXT+AJD8HdXQ4nLEbqkMqW3wXXfvjaGQt/Q/iRlBNSU=" crossorigin="anonymous"></script>
 <script type="text/javascript">
 
   // SmoothScroll back-to-top on all pages
