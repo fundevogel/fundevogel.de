@@ -8,10 +8,7 @@ import jQuery from 'jquery';
 import Astro from 'Astro';
 import macy from 'macy';
 import { tns } from 'tiny-slider/src/tiny-slider.module';
-
-
-require('lightgallery.js/dist/js/lightgallery.min.js');
-// lightGallery(document.getElementById('lightgallery'));
+// require('lightgallery.js');
 
 window.$ = window.jQuery = jQuery;
 
@@ -19,6 +16,32 @@ window.$ = window.jQuery = jQuery;
 /*
  * .. and executing them
  */
+
+$(function() {
+
+  var button  = $('#load-more');
+  var element = $('#infinite-scroll');
+  var url     = element.data('page') + '/.json';
+  var limit   = parseInt(element.data('limit'));
+  var offset  = limit;
+
+  button.on('click', function(e) {
+    $.get(url, {limit: limit, offset: offset}, function(data) {
+      if (data.more === true) {
+        console.log('Yay :)');
+      } else {
+        button.addClass('is-disabled');
+        $('#load-more span').text(button.data('more'));
+        console.log('Nay :(');
+      }
+
+      element.children().last().after(data.html);
+
+      offset += limit;
+    });
+  });
+});
+
 
 function featureDetection() {
   let className = '';
@@ -108,6 +131,11 @@ let slider = tns({
   nav: false,
   controls: false,
 });
+
+// var galleries = document.getElementsByClassName('lightgallery');
+// for(var i = 0; i < galleries.length; i++) {
+//   lightGallery(galleries[i]);
+// }
 
 featureDetection();
 astroJS();
