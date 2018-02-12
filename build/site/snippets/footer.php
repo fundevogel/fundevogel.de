@@ -19,7 +19,11 @@
       </div>
     </footer>
 
-    <?php snippet('foot'); ?>
+    <a data-scroll id="js-back-to-top" class="back-to-top show-medium-up" href="#top" title="<?= l::get('back-to-top--title') ?>">
+      <?= (new Asset("assets/images/arrow-up.svg"))->content() ?>
+    </a>
+
+    <?= js('assets/scripts/main.js') ?>
 
   </body>
 </html>
