@@ -34,6 +34,8 @@ Handelsregisternummer: Nicht benötigt
 Umsatzsteuer-ID: DE 142035994
 Steuernummer: 06112/49132 - Finanzamt Freiburg-Stadt
 
+Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers popup: yes).
+
 ----
 
 Seo: 

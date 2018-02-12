@@ -30,6 +30,8 @@ Netzwerk:
 - 
   description: 'Auch bei uns sind (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk popup: yes): Seit einiger Zeit zieren die schönen Schriftzüge von Monika Schwab unsere Blumenkästen im Schaufenster. Da wir oft gefragt werden, wo man diese denn herbekommt, möchten wir alle Fans der „Wortschätze“ auf die Website der Künstlerin verweisen.'
 - 
+  description: 'Die fortlaufende Betreuung unserer Webseite ist bei (link: https://twobrain.io text: Martin Folkers popup: yes) in guten Händen - Kompetenz mit Liebe zum Detail, Hut ab!'
+- 
   description: 'Unter Federführung des Kulturamts Freiburg, namentlich (link: http://www.kulturelle-bildung-freiburg.de/index.php?id=55 text: Martina Wolff popup: yes) und (link: http://www.theater.freiburg.de/de_DE/junges-theater/ text: Michael Kaiser popup: yes) vom Jungen Theater Freiburg, begleiten wir die Vorbereitungen und Durchführung des großen (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes popup: yes), das jährlich im Oktober stattfindet.'
 - 
   description: 'Hier sind wir öfters zu Gast, dem (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone popup: yes) in St. Märgen: Ein absolut vorbildliches und unterstützenswertes Projekt der dortigen Landfrauen. Schöne Bücher für die kleinen Gäste zum Anschauen gibts dort auch!'
@@ -40,9 +42,9 @@ Netzwerk:
     (link: http://kathinkamarcks.com/ text: Kathinka Marcks popup: yes):
     „Sprache ist kein Hindernis, sondern eine Möglichkeit!“
 - 
-  description: 'Das (link: http://www.literaturbuero-freiburg.de/cms/ text: Literaturbüro Freiburg popup: yes) gehört zu unseren Partnern, weil man dort unter anderem so tolle Projekte wie die ‚Freileser‘ findet.'
-- 
   description: 'Gönn Dir mal wieder ein kleines Märchen…mit einem Stück Drachenschuppenkuchen im (link: http://www.cafe-fabelhaft.org/ text: Café Fabelhaft popup: yes)! Das ist was Ihr, unter anderem, an diesem fabelhaften Ort geniessen könnt. Noch dazu könnt Ihr montags stundenlang puzzlen, und dienstags ein Märchen anhören. Ein schönes Café zum Entschleunigen mit oder ohne Kinder!'
+- 
+  description: 'Das (link: http://www.literaturbuero-freiburg.de/cms/ text: Literaturbüro Freiburg popup: yes) gehört zu unseren Partnern, weil man dort unter anderem so tolle Projekte wie die ‚Freileser‘ findet.'
 - 
   description: 'Zu unseren liebsten Nachbarn gehört das (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst popup: yes). Nicht allein, weil es direkt gegenüber vom Fundevogel liegt, sondern auch weil Kunst und Literatur im Alltag nicht weit voneinander entfernt sind.'
 - 
