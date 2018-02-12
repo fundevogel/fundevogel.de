@@ -8,7 +8,7 @@ import jQuery from 'jquery';
 import Astro from 'Astro';
 import macy from 'macy';
 import { tns } from 'tiny-slider/src/tiny-slider.module';
-require('lightgallery.js');
+import 'lightgallery.js';
 
 window.$ = window.jQuery = jQuery;
 
@@ -16,6 +16,18 @@ window.$ = window.jQuery = jQuery;
 /*
  * .. and executing them
  */
+
+var options = {
+  speed: 1000,
+  hideBarsDelay: 5000,
+  download: false,
+  counter: false
+};
+
+var galleries = document.getElementsByClassName('lightgallery');
+for(var i = 0; i < galleries.length; i++) {
+  lightGallery(galleries[i], options);
+}
 
 $(function() {
 
@@ -38,6 +50,11 @@ $(function() {
       element.children().last().after(data.html);
 
       offset += limit;
+
+      var galleries = document.getElementsByClassName('lightgallery');
+      for (var i = 0; i < galleries.length; i++) {
+        lightGallery(galleries[i], options);
+      }
     });
   });
 });
@@ -131,16 +148,6 @@ let slider = tns({
   nav: false,
   controls: false,
 });
-
-var galleries = document.getElementsByClassName('lightgallery');
-for(var i = 0; i < galleries.length; i++) {
-  lightGallery(galleries[i], {
-    speed: 1000,
-    hideBarsDelay: 5000,
-    download: false,
-    counter: false,
-  });
-}
 
 featureDetection();
 astroJS();
