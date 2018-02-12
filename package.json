@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "Astro": "cferdinandi/astro",
-    "jquery": "2.2.4",
+    "jquery": "^3.3.1",
     "lightgallery.js": "^1.0.2",
     "macy": "^2.3.0",
     "tiny-slider": "^2.5.2"
