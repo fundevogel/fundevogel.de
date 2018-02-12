@@ -1,14 +1,23 @@
-// default theme
+$lg-border-radius-base: 35%;
+$lg-actions-font-size: 26px;
+$lg-toolbar-bg: $action-color;
+$lg-toolbar-icon-dimension: 50px;
+$lg-toolbar-icon-color: tint($action-color, 60%);
+$lg-sub-html-bg: $action-color;
+$lg-sub-html-color: $white;
+$lg-actions-padding: 1em;
+$lg-next-prev-bg: $action-color;
+$lg-next-prev-color: tint($action-color, 60%);
+
+// Fundevogel theme
 .lg-actions {
   .lg-next, .lg-prev {
     background-color: $lg-next-prev-bg;
-    border-radius: $lg-border-radius-base;
     color: $lg-next-prev-color;
     cursor: pointer;
     display: block;
-    font-size: 22px;
+    font-size: $lg-actions-font-size;
     margin-top: -10px;
-    padding: 8px 10px 9px;
     position: absolute;
     top: 50%;
     z-index: $zindex-controls;
@@ -24,7 +33,9 @@
   }
 
   .lg-next {
-    right: 20px;
+    right: 0;
+    border-radius: $lg-border-radius-base 0 0 $lg-border-radius-base;
+    padding: 16px 24px 16px 16px;
 
     &:before {
       content: "\e095";
@@ -32,7 +43,9 @@
   }
 
   .lg-prev {
-    left: 20px;
+    left: 0;
+    border-radius: 0 $lg-border-radius-base $lg-border-radius-base 0;
+    padding: 16px 16px 16px 24px;
 
     &:after {
       content: "\e094";
@@ -90,21 +103,23 @@
 .lg-toolbar {
   z-index: $zindex-toolbar;
   left: 0;
+  height: 50px;
   position: absolute;
   top: 0;
   width: 100%;
   background-color: $lg-toolbar-bg;
+  box-shadow: 0 2px 3px rgba(175, 75, 50, 0.5);
 
   .lg-icon {
     color: $lg-toolbar-icon-color;
     cursor: pointer;
     float: right;
-    font-size: 24px;
-    height: 47px;
-    line-height: 27px;
+    font-size: $lg-actions-font-size;
+    height: $lg-toolbar-icon-dimension;
+    line-height: 28px;
     padding: 10px 0;
     text-align: center;
-    width: 50px;
+    width: $lg-toolbar-icon-dimension;
     text-decoration: none !important;
     outline: medium none;
     @include transition(color 0.2s linear);
@@ -120,11 +135,11 @@
     }
   }
 
-  .lg-download {
-    &:after {
-      content: "\e0f2";
-    }
-  }
+  // .lg-download {
+  //   &:after {
+  //     content: "\e0f2";
+  //   }
+  // }
 }
 
 // lightGallery title
@@ -132,14 +147,21 @@
   background-color: $lg-sub-html-bg;
   bottom: 0;
   color: $lg-sub-html-color;
-  font-size: 16px;
+  font-size: 22px;
   left: 0;
-  padding: 10px 40px;
+  padding: 32px 24px;
   position: fixed;
   right: 0;
   text-align: center;
   z-index: $zindex-subhtml;
+  border-top: 13px;
+  border-image-outset: 13px;
+  border-image-source: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxMyIgd2lkdGg9IjMwcHgiIGhlaWdodD0iMTNweCI+CiAgPHBhdGggZmlsbD0iI2YwNjk0YiIgZD0iTTcuNiAwTDAgNy4zVjEzaDMwVjcuM0wyMi40IDAgMTUgNyA3LjYgMHoiLz4KPC9zdmc+Cg==);
+  border-image-repeat: repeat;
 
+  border-image-slice: 13 0;
+
+  border-image-width: 13px;
   h4 {
     margin: 0;
     font-size: 13px;
@@ -153,14 +175,14 @@
 }
 
 // lg image counter
-#lg-counter {
-  color: $lg-icon-color;
-  display: inline-block;
-  font-size: $lg-counter-font-size;
-  padding-left: 20px;
-  padding-top: 12px;
-  vertical-align: middle;
-}
+// #lg-counter {
+//   color: $lg-icon-color;
+//   display: inline-block;
+//   font-size: $lg-counter-font-size;
+//   padding-left: 20px;
+//   padding-top: 12px;
+//   vertical-align: middle;
+// }
 
 // for idle state
 .lg-toolbar, .lg-prev, .lg-next {
@@ -186,7 +208,7 @@
 }
 
 // Starting effect
-body:not(.lg-from-hash){
+body:not(.lg-from-hash) {
   .lg-outer {
     &.lg-start-zoom{
       .lg-object{
