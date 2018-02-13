@@ -17,9 +17,9 @@
 
 [data-lightgallery] {
   cursor: pointer;
-  transition: box-shadow $base-duration $base-timing;
+  // transition: box-shadow $base-duration $base-timing;
 
-  &:hover {
-    box-shadow: $hover-box-shadow;
-  }
+  // &:hover {
+  //   box-shadow: $hover-box-shadow;
+  // }
 }
