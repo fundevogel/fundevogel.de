@@ -24,7 +24,6 @@ l::set(array(
 
 
   // I. ALLGEMEIN
-    'back-to-top--title' => 'Zurück zum Seitenanfang', // pfeil nach oben (m)
     'startseite' => 'Startseite',
 
     // 1. Menü-Links (t)

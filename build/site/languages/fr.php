@@ -24,7 +24,6 @@ l::set(array(
 
 
   // I. ALLGEMEIN
-    'back-to-top--title' => 'Haut de page', // pfeil nach oben (m)
     'startseite' => 'Page d\'accueil',
 
     // 1. Menü-Links (t)
