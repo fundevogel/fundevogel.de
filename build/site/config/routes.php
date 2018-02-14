@@ -1,6 +1,8 @@
 <?php
 
-// Routes
+/*
+ * Setting up routes
+ */
 
 c::set('routes', array(
   array(

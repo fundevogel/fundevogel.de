@@ -56,6 +56,6 @@
   ?>
 </section>
 
-<?php snippet('pagination') ?>
+<?php snippet('navigation/pagination') ?>
 
 <?php snippet('footer') ?>

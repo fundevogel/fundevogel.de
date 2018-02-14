@@ -7,9 +7,11 @@
   <link href='https://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Dosis:300,500,700' rel='stylesheet' type='text/css'>
 
-  <?php snippet('seo') ?>
+  <?php snippet('partials/seo') ?>
 
-  <?= css('assets/styles/main.css') ?>
+  <style media="screen">
+    <?= (new Asset('assets/styles/main.css'))->content() ?>
+  </style>
 
   <!-- hreflang Tags -->
   <?php foreach($site->languages() as $language): ?>

@@ -35,6 +35,6 @@
   ?>
 </article>
 
-<?php snippet('prevnext') ?>
+<?php snippet('navigation/prevnext') ?>
 
 <?php snippet('footer') ?>

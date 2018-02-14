@@ -1,6 +1,8 @@
 <?php
 
-// Languages
+/*
+ * Language definitions
+ */
 
 c::set('languages', array(
   array(

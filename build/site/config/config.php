@@ -1,18 +1,19 @@
 <?php
 
+/*
+ * Including config partials
+ */
+
 include kirby()->roots()->config() . '/license.php';
 include kirby()->roots()->config() . '/routes.php';
 include kirby()->roots()->config() . '/languages.php';
 
 
-// Development settings
+/*
+ * General settings
+ */
 
-c::set('debug', true);
-c::set('thumbs.driver', 'im');
-
-// Plugin settings
-
-c::set('plugin.html.minifier.active', false);
+c::set('panel.stylesheet', 'assets/panel.css');
 c::set('textarea.buttons', array(
   // 'h1',
   'h2',
@@ -29,4 +30,11 @@ c::set('textarea.buttons', array(
   // 'email'
 ));
 
-c::set('panel.stylesheet', 'assets/panel.css');
+
+/*
+ * Development settings
+ */
+
+c::set('debug', true);
+c::set('thumbs.driver', 'im');
+c::set('plugin.html.minifier.active', false);
