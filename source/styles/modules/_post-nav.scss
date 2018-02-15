@@ -41,21 +41,24 @@
   }
 
   &--text {
-    font-size: 1.4rem;
+    font-size: 1.75rem;
 
-    @include min-width(medium) {
-      font-size: 1.8rem;
+    // @include min-width(medium) {
+    // }
+
+    @include min-width(large) {
+      font-size: 2.2rem;
     }
   }
 
   svg {
-    @include min-width(small) {
+    @include min-width(600) {
       display: none;
     }
 
     @include min-width(medium) {
       display: inline;
-      margin: 0 1.25em;
+      margin: 0 1.5em;
       position: relative;
       top: 0.15em;
     }

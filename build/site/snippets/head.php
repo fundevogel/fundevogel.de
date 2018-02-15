@@ -1,24 +1,27 @@
 <head>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="preload" href="/assets/fonts/Dosis-Light-supersubset.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/CabinSketch-Bold-ultrasubset.woff2" as="font" type="font/woff2" crossorigin>
 
-  <!-- Fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Dosis:300,500,700' rel='stylesheet' type='text/css'>
-
+  <!-- SEO -->
   <?php snippet('partials/seo') ?>
 
-  <style media="screen">
-    <?= (new Asset('assets/styles/main.css'))->content() ?>
-  </style>
+  <!-- CSS -->
+  <style><?= (new Asset('assets/styles/main.css'))->content() ?></style>
 
   <!-- hreflang Tags -->
-  <?php foreach($site->languages() as $language): ?>
+  <?php foreach($site->languages() as $language) : ?>
     <?php if ($language == $site->language()) continue; ?>
     <link rel="alternate" hreflang="<?= html($language->code()) ?>" href="<?= $page->url($language->code()) ?>" />
   <?php endforeach ?>
 
-  <!-- Miscellaneous -->
+  <!-- Favicon -->
   <link rel="shortcut icon" href="<?= url('favicon.png') ?>">
+
+  <!-- Fallback CSS -->
+  <noscript><?= css('assets/styles/main.css') ?></noscript>
+
+  <!-- Font loading -->
+  <?php snippet('partials/font-loading') ?>
 </head>

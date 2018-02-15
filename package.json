@@ -55,6 +55,7 @@
     "gulp-stylelint": "^6.0.0",
     "gulp-uglify": "^3.0.0",
     "imagemin-pngquant": "^5.0.1",
+    "postcss-foft-classes": "^1.0.2",
     "postcss-reporter": "^5.0.0",
     "postcss-scss": "^1.0.3",
     "stylelint": "^8.4.0",

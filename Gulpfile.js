@@ -15,6 +15,7 @@ var
   connect       = require('gulp-connect-php'),
   development   = ((process.env.NODE_ENV || '').trim().toLowerCase() !== 'production'),
   eslint        = require('gulp-eslint'),
+  foft          = require('postcss-foft-classes'),
   gulp          = require('gulp'),
   gulpif        = require('gulp-if'),
   imagemin      = require('gulp-imagemin'),
@@ -74,6 +75,12 @@ gulp.task('make:styles', function() {
     includePaths: config.styles.include
   }))
   .pipe(postcss([
+    foft({
+      groups: [{
+        families: ['DosisInitial', 'Dosis'],
+        classNames: ['fonts-loaded', 'fonts-loaded-2']
+      }]
+    }),
     prefix({browsers: config.styles.prefix})
   ]))
   .pipe(gulpif(!development, minify()))
