@@ -4,6 +4,7 @@
  * Including config partials
  */
 
+include kirby()->roots()->config() . '/security.php';
 include kirby()->roots()->config() . '/license.php';
 include kirby()->roots()->config() . '/routes.php';
 include kirby()->roots()->config() . '/languages.php';

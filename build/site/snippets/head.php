@@ -23,5 +23,5 @@
   <noscript><?= css('assets/styles/main.css') ?></noscript>
 
   <!-- Font loading -->
-  <?php snippet('partials/font-loading') ?>
+  <script integrity="sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw="><?= (new Asset('assets/font-loading.js'))->content() ?></script>
 </head>
