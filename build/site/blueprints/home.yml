@@ -31,7 +31,7 @@ fields:
     type: text
     required: true
     width: 3/4
-  limit:
+  perpage:
     label:
       de: Einträge / Seite
       en: Posts per page

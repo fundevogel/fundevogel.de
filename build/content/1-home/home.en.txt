@@ -14,19 +14,11 @@ Handle: Welcome!
 
 ----
 
-Perpage: 
+Perpage: 10
 
 ----
 
 Subtitle: News from Fundevogel
-
-----
-
-Offset: 5
-
-----
-
-Limit: 10
 
 ----
 
