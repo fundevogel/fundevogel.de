@@ -1,3 +1,10 @@
+//
+// Variables
+//
+
+$bp-small: 30em;
+$bp-mediumMax: 47.9375em;
+
 $breakpoints: (
   smallMax: 29.938em,
   small: 30em,
@@ -11,6 +18,14 @@ $breakpoints: (
   xxlarge: 100em,
 );
 
+$z-layers: (
+  ground: 1,
+  surface: 2,
+  header: 50,
+  modal: 3000,
+  overlay: 200,
+  space: 999
+);
 
 //
 // Typography

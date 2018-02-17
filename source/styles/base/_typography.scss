@@ -125,6 +125,16 @@ hr {
   }
 }
 
+.inline-list li {
+  display: inline;
+  margin-right: $inline-list-margin;
+
+  a {
+    display: inline-block;
+    font-size: 20px;
+  }
+}
+
 .lead {
   font-size: 120%;
   margin-bottom: 0.25em;
@@ -132,4 +142,10 @@ hr {
 
 .center {
   text-align: center;
+}
+
+.sketch {
+  font-family: 'Cabin Sketch', sans-serif !important;
+  font-variant: small-caps;
+  font-weight: 700;
 }

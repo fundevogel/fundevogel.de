@@ -1,11 +1,7 @@
-.home {
-
-  .site-title {
-
-    @include min-width(medium) {
-      font-size: 4rem;
-      margin-bottom: -10px;
-    }
+.home .site-title {
+  @include min-width(medium) {
+    font-size: 4rem;
+    margin-bottom: -10px;
   }
 }
 
@@ -24,12 +20,7 @@
   }
 }
 
-@keyframes fadeIn {
-  0%   { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-.ajaxd {
+.post {
   animation-name: fadeIn;
   animation-duration: 500ms;
 }
