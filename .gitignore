@@ -2,6 +2,7 @@ yarn.lock
 node_modules
 build/assets/*
 !build/assets/panel.css
+!build/assets/font-loading.js
 
 
 # Temporary files
