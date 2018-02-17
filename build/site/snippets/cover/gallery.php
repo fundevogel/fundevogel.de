@@ -5,7 +5,7 @@
       $thumb = $image->crop(460, 400, 85);
     ?>
     <a href="<?= $image->url() ?>" data-lightgallery>
-      <img src ="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+      <img src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
     </a>
     <?php endforeach ?>
   </div>

@@ -6,6 +6,6 @@
   $crop = $image->resize(1280, null, 85);
 ?>
 <figure data-lightgallery data-src="<?= $crop->url() ?>" data-sub-html="<?= $image->caption()->html() ?>">
-  <img src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+  <img data-layzr="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
 </figure>
 <?php endif ?>
