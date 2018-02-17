@@ -155,7 +155,7 @@ $lg-next-prev-color: tint($action-color, 60%);
   text-align: center;
   z-index: $zindex-subhtml;
   border-top: 16px solid $lg-toolbar-bg;
-  border-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxMyIgd2lkdGg9IjMwcHgiIGhlaWdodD0iMTNweCI+CiAgPHBhdGggZmlsbD0iI2YwNjk0YiIgZD0iTTcuNiAwTDAgNy4zVjEzaDMwVjcuM0wyMi40IDAgMTUgNyA3LjYgMHoiLz4KPC9zdmc+Cg==) 13 0 / 13px 0 0 / 13px 0 0 repeat;
+  border-image: url('/assets/images/border.svg') 13 0 / 13px 0 0 / 13px 0 0 repeat;
 
   h4 {
     margin: 0;
