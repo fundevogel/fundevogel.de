@@ -4,14 +4,12 @@
  * Importing functions ..
  */
 
-import jQuery from 'jquery';
 import Astro from 'Astro';
 import macy from 'macy';
 import { tns } from 'tiny-slider/src/tiny-slider.module';
 import 'lightgallery.js';
 import Layzr from 'layzr.js';
-
-window.$ = window.jQuery = jQuery;
+import InfiniteScroll from 'infinite-scroll';
 
 
 /*
@@ -37,44 +35,21 @@ for(var i = 0; i < galleries.length; i++) {
   lightGallery(galleries[i], options);
 }
 
-$(function() {
-
-  var button  = $('#load-more');
-  var element = $('#infinite-scroll');
-  var url     = element.data('page') + '/.json';
-  var limit   = parseInt(element.data('limit'));
-  var offset  = limit;
-
-  button.on('click', function(e) {
-    $.get(url, {limit: limit, offset: offset}, function(data) {
-      if (data.more === true) {
-        // more articles available
-        console.log('Yay :)');
-      } else {
-        // no more articles available; disable button & swap text
-        button.addClass('is-disabled');
-        $('#load-more span').text(button.data('more'));
-        console.log('Nay :(');
-      }
-
-      // Append AJAX-loaded articles to the list
-      element.children().last().after(data.html);
-
-      // Increase offset by limit
-      offset += limit;
-
-      // Update Layzr.js instance
-      lazyload.update();
-
-      // Update Lightgallery.js nodes
-      var galleries = document.getElementsByClassName('lightgallery');
-      for (var i = 0; i < galleries.length; i++) {
-        lightGallery(galleries[i], options);
-      }
-    });
-  });
+var infScroll = new InfiniteScroll('.list', {
+  path: '.next-page',
+  append: '.post',
+  history: false,
+  button: '.load-more',
+  scrollThreshold: false,
+  hideNav: '.next-page'
 });
 
+infScroll.on('append', function() {
+  lazyload.update();
+  for(var i = 0; i < galleries.length; i++) {
+    lightGallery(galleries[i], options);
+  }
+});
 
 function featureDetection() {
   let className = '';
@@ -118,4 +93,3 @@ let slider = tns({
 featureDetection();
 astroJS();
 macyJS();
-

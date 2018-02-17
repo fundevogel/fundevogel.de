@@ -14,19 +14,11 @@ Handle: Willkommen!
 
 ----
 
-Perpage:
+Perpage: 10
 
 ----
 
 Subtitle: Neues aus dem Fundevogel
-
-----
-
-Offset: 5
-
-----
-
-Limit: 10
 
 ----
 

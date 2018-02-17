@@ -2,7 +2,7 @@
   $image = $post->image();
   $images = $post->images();
 ?>
-<article class="wrap<?php e(r::ajax(), ' ajaxd') ?>">
+<article class="wrap<?php e(r::ajax(), ' ajaxd') ?> post">
 <?php if (count($images) == 1) : ?>
 <div class="one-third image-area lightgallery">
   <?php snippet('cover/postcover', ['post' => $post, 'image' => $image, 'gallery' => false]) ?>
@@ -22,5 +22,5 @@
   <?php endforeach ?>
 </div>
 <?php endif ?>
+<?php e($post !== $last, '<hr>', '<h3 class="center">' . l::get('home_mehr-anzeigen--ende') . '</h3>') ?>
 </article>
-<?php e($post !== $last, '<hr>') ?>
