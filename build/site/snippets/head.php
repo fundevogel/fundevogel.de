@@ -17,7 +17,7 @@
   <?php endforeach ?>
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="<?= url('favicon.png') ?>">
+  <link rel="shortcut icon" href="<?= url('favicon.ico') ?>">
 
   <!-- Fallback CSS -->
   <noscript><?= css('assets/styles/main.css') ?></noscript>

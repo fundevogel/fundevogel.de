@@ -29,6 +29,7 @@
   "dependencies": {
     "Astro": "cferdinandi/astro",
     "jquery": "^3.3.1",
+    "layzr.js": "^2.2.2",
     "lightgallery.js": "^1.0.2",
     "macy": "^2.3.0",
     "tiny-slider": "^2.5.2"
