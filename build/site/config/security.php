@@ -5,7 +5,7 @@
  */
 
 $csp_nonce = base64_encode(random_bytes(20));
-$csp_header = "Content-Security-Policy: default-src 'none'; style-src 'self' 'unsafe-inline'; script-src 'self' 'sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw=' 'unsafe-inline'; img-src 'self'; font-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none';";
+$csp_header = "Content-Security-Policy: default-src 'none'; style-src 'self' 'unsafe-inline'; script-src 'self' 'sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw='; img-src 'self'; font-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none';";
 
 c::set('csp-nonce', $csp_nonce);
 
