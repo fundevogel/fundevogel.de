@@ -16,6 +16,6 @@
       </a>
     </li>
     <?php endforeach ?>
-    <?php e($site->shop()->isNotEmpty(), '<li><a href="' . $site->shop() . '" title="Shop"><span>Shop</span></a></li>') ?>
+    <?php e($site->shop()->isNotEmpty(), '<li><a href="' . $site->shop() . '" title="Shop" target="_blank"><span>Shop</span></a></li>') ?>
   </ul>
 </nav>
