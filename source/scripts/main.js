@@ -24,7 +24,7 @@ function featureDetection() {
 
 const lazyload = Layzr({
   normal: 'data-layzr',
-  threshold: 0
+  threshold: 25
 })
 
 lazyload
