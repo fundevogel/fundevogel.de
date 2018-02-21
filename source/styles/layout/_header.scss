@@ -13,10 +13,6 @@
 .logo {
   bottom: -10px;
   position: relative;
-
-  // @include max-width(largeMax) {
-  //   width: 125px;
-  // }
 }
 
 .hgroup {
@@ -24,9 +20,10 @@
   text-align: center;
   vertical-align: bottom;
   width: 100%;
+  padding: $small-spacing / 3 0;
 
-  @include min-width(600) {
-    padding-left: $small-spacing;
+  @include min-width(medium) {
+    padding: 0 0 0 $small-spacing;
     text-align: left;
     width: auto;
   }
@@ -34,14 +31,6 @@
 
 .site-title {
   font-size: 3rem;
-
-  @include min-width(small) {
-    font-size: 4rem;
-  }
-
-  @include min-width(medium) {
-    font-size: 3rem;
-  }
 
   @include min-width(large) {
     font-size: 3.5rem;

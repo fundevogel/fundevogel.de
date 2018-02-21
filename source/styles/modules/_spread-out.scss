@@ -1,11 +1,7 @@
-//
-// Spread-out hover effect
-//
-
 .spread-out {
 
   span::after {
-    background-color: #fff;
+    background-color: $white;
     content: '';
     display: block;
     height: 1px;

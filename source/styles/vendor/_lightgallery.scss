@@ -1,4 +1,3 @@
-// Core variables and mixins
 @import
 	'lightgallery/variables',
 	'lightgallery/mixins',
@@ -17,6 +16,7 @@
 
 [data-lightgallery] {
   cursor: pointer;
+	// TODO: awesome effects, maybe try mocassins.css
   // transition: box-shadow $base-duration $base-timing;
 
   // &:hover {

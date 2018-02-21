@@ -1,5 +1,9 @@
+$header-nav-box-shadow: 0 2px 3px rgba(175, 75, 50, 0.5);
+$nav-toggle-padding: 32px;
+$lang-nav-right: 25px - $inline-list-margin;
+
 .header-nav {
-  box-shadow: 0 2px 3px rgba(175, 75, 50, 0.5);
+  box-shadow: $header-nav-box-shadow;
   position: fixed;
   top: 0;
   transition: box-shadow $base-duration;
@@ -129,7 +133,7 @@
         font-size: 1.4rem;
         font-weight: 500;
         padding: 10px 0;
-        transition: background $base-duration;
+        transition: background-color $base-duration;
         width: 100%;
 
         @include min-height(600) {
@@ -140,7 +144,7 @@
         &:hover,
         &:focus,
         &:active {
-          background: rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 255, 255, 0.8);
           color: $action-color;
           text-shadow: none;
         }
