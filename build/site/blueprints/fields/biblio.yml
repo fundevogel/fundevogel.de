@@ -8,7 +8,8 @@ entry: >
   {{autor}}<br>
   {{verlag}}<br>
   {{isbn}}<br>
-  {{preis}}; {{alter}}<br>
+  {{preis}} €; {{alter}}<br>
+  <a href="{{shop}}" target="_blank">Shop-Link</a>
   <br>
   {{verdict}}
 fields:
