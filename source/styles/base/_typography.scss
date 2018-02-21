@@ -125,16 +125,6 @@ hr {
   }
 }
 
-.inline-list li {
-  display: inline;
-  margin-right: $inline-list-margin;
-
-  a {
-    display: inline-block;
-    font-size: 20px;
-  }
-}
-
 .lead {
   font-size: 120%;
   margin-bottom: 0.25em;
