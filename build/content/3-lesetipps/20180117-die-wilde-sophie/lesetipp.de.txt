@@ -33,6 +33,8 @@ Angaben:
   cover: wilde-sophie.jpg
   preis: "16"
   alter: ab 9 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/3000000223333/Buecher_Abenteuer/Lukas-Hartmann/Die-wilde-Sophie
 
 ----
 

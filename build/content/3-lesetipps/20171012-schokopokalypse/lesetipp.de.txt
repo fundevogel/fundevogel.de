@@ -6,19 +6,19 @@ Date: 2017-10-12
 
 ----
 
-Text:
+Text: 
 
 Die wunderschöne Stadt Mampfton, Zentrum der Schokoladenherstellung und Schokoladenliebhaber, wird eines Tages von einer Schreckensmeldung erschüttert:
-"In sechs Tagen wird es keine Schokolade mehr geben...für immer". Jelly ist fassungslos, denn genau wie ihre Mama, ihr Papa, ihre Oma und überhaupt jeder in der kleinen Stadt
-liebt sie Schokolade über alles, sogar mehr als Pommes oder Pizza. Was soll sie nur ohne Schokodokis, Kakao und all die anderen schokoladigen Köstlichkeiten machen? Für Jelly ist klar,
-sie muss etwas gegen die bevorstehende Schokopokalypse unternehmen. Doch wie lässt sich die düstere Prophezeihung des alten Schokolati-Stammes aufhalten? Und was haben
-der fragwürdige Geschäftsmann Garibaldi und sein Helfer Dave mit der ganzen Sache zu tun?
+
+> "In sechs Tagen wird es keine Schokolade mehr geben ... für immer"
+
+Jelly ist fassungslos, denn genau wie ihre Mama, ihr Papa, ihre Oma und überhaupt jeder in der kleinen Stadt liebt sie Schokolade über alles, sogar mehr als Pommes oder Pizza. Was soll sie nur ohne Schokodokis, Kakao und all die anderen schokoladigen Köstlichkeiten machen? Für Jelly ist klar, sie muss etwas gegen die bevorstehende Schokopokalypse unternehmen. Doch wie lässt sich die düstere Prophezeihung des alten Schokolati-Stammes aufhalten? Und was haben der fragwürdige Geschäftsmann Garibaldi und sein Helfer Dave mit der ganzen Sache zu tun?
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: Schokopokalypse
   verdict: >
     Eine herrlich witzige und schokoladige
@@ -29,11 +29,13 @@ Angaben:
   cover: schokopokalypse_chris-callaghan.jpg
   preis: 12,99 Euro
   alter: ""
+  shop: >
+    http://shop.fundevogel.de/product/3000000180516/Buecher_Kinder--und-Jugend/Chris-Callaghan/Schokopokalypse
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Seo:
+Seo: 

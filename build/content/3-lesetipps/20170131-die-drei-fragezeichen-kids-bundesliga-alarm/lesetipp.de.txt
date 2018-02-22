@@ -14,21 +14,21 @@ Date: 2017-01-31
 
 ----
 
-Text: Ein spannender Fall für die drei ???: Die Meisterschale wurde geklaut. Um den Dieb zu erwischen begeben sich Justus, Peter und Bob mit Tante Mathilde und Onkel Titus auf eine wilde Verfolgungsjagd quer durch Deutschland. Ermittelt wird bei 27 Bundesligavereinen direkt vor Ort. Dabei haben sie keine Angst vor großen Namen – sei es FC Schalke 04 oder der VfL Wolfsburg. Klar, dass unsere cleveren Detektive auch beim SC Freiburg ermitteln und im Schwarzwaldstadion vorbeischauen. Und Du bist immer unmittelbar vor Ort dabei. Du kannst beim Lösen des Falles dabei sein und kriegst Einblick ins Stadionleben und das jeweilige Vereinsleben. So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser kennen und vielleicht erwischst Du auch den dreisten Dieb.
+Text: Ein spannender Fall für die drei ???: Die Meisterschale wurde geklaut. Um den Dieb zu erwischen begeben sich Justus, Peter und Bob mit Tante Mathilde und Onkel Titus auf eine wilde Verfolgungsjagd quer durch Deutschland. Ermittelt wird bei 27 Bundesligavereinen direkt vor Ort. Dabei haben sie keine Angst vor großen Namen – sei es FC Schalke 04 oder der VfL Wolfsburg. Klar, dass unsere cleveren Detektive auch beim SC Freiburg ermitteln und im Schwarzwaldstadion vorbeischauen. Und Du bist immer unmittelbar vor Ort dabei. Du kannst beim Lösen des Falles dabei sein und kriegst Einblick ins Stadionleben und das jeweilige Vereinsleben.
 
 ----
 
-Info:
+Info: 
 
 ----
 
-Hint:
+Hint: 
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: 'Die drei ??? Kids - Bundesliga-Alarm'
   autor: Boris Pfeiffer
   verlag: Franckh-Kosmos Verlag
@@ -37,3 +37,20 @@ Angaben:
   alter: ab 8 Jahren
   Cover: >
     die-drei-fragezeichen-kids-bundesliga-alarm_boris-pfeiffer.jpg
+  verdict: >
+    So lernst Du Deinen Lieblingsverein
+    vielleicht noch ein bisschen besser
+    kennen und vielleicht erwischst Du auch
+    den dreisten Dieb!
+  cover: >
+    die-drei-fragezeichen-kids-bundesliga-alarm_boris-pfeiffer.jpg
+  shop: >
+    http://shop.fundevogel.de/product/3000000459044/Hardcover-Softcover-Karte_Kinder--und-Jugendbuecher_Kinder--und-Jugendromane-u--erzaehlungen//Die-drei--Kids-Bundesliga-Alarm
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

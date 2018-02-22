@@ -18,20 +18,31 @@ Text: Karlines Familie wirkt auf den ersten Blick ganz normal. Auf den zweiten B
 
 ----
 
-Info:
+Info: 
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: Superhelden fliegen geheim
-  verdict: >
-    Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.
+  verdict: 'Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.'
   autor: Geschrieben von Alice Pantermüller
   verlag: Arena
   isbn: 978-3-401-06825-1
   cover: >
     superhelden-fliegen-geheim_alice-pantermueller.jpg
   preis: 9,99
-  alter: zum Vorlesen oder Selberlesen ab 9 Jahren
+  alter: >
+    zum Vorlesen oder Selberlesen ab 9
+    Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460841295620/Buecher_Fantasy/Alice-Pantermueller/Superhelden-fliegen-geheim
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

@@ -10,12 +10,21 @@ Text: Eine Adventskalendergeschichte der besonderen Art: Jonas und seine kleine 
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: 13 Weihnachtstrolle machen Ärger
   verdict: >
-    24 spannende und witzige Kapitel entführen uns in richtiges Winterweihnachtsabenteuer, das die Zeit des Wartens auf den Weihnachtsmann bestens und aufs Vergnüglichste verkürzt. Eine unterhaltsame Geschichte zum Selberlesen für Kinder ab 8 Jahren, die sich aber auch auf wunderbare Weise zum Vorlesen für die ganze Familie eignet.
+    24 spannende und witzige Kapitel
+    entführen uns in richtiges
+    Winterweihnachtsabenteuer, das die Zeit
+    des Wartens auf den Weihnachtsmann
+    bestens und aufs Vergnüglichste
+    verkürzt. Eine unterhaltsame Geschichte
+    zum Selberlesen für Kinder ab 8 Jahren,
+    die sich aber auch auf wunderbare Weise
+    zum Vorlesen für die ganze Familie
+    eignet.
   autor: Geschrieben von Sabine Städing
   verlag: Boje Verlag
   isbn: 978-341-482434-9
@@ -23,3 +32,13 @@ Angaben:
     13-weihnachtstrolle-machen-aerger_sabine-staeding.jpg
   preis: "13"
   alter: zum Selberlesen ab 8 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460851940704/Buecher_Kinder--und-Jugend/Sabine-Staeding/13-Weihnachtstrolle-machen-aerger
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

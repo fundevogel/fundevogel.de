@@ -34,6 +34,8 @@ Angaben:
   alter: >
     zum Vorlesen oder Selberlesen ab 9
     Jahren
+  shop: >
+    http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Paul-Biegel/Der-Fluch-des-Wuestenwolfs/63715/4099276460822233275/4099276460851044509/-3/4099276460822241237/4099276460822241224/4099276460822241224
 
 ----
 

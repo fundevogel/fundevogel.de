@@ -14,7 +14,7 @@ Date: 2016-04-18
 
 ----
 
-Text:
+Text: 
 
 Mag Wildcat ist ihr Bandenname.
 
@@ -24,16 +24,36 @@ Hier lernt Mag Wildcat alles, was für das Überleben auf der Straße wichtig is
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: Maggie und die Stadt der Diebe
   verdict: >
-    Wenn du packende Spannung und Rätselhaftes magst und Freundschaftsgeschichten, vielleicht ein bisschen New York kennen lernen willst und schon ein paar Brocken Englisch verstehst (oder einen Übersetzer hast), dann brauchst du nur noch einen Bandennamen – fällt dir schon einer ein? Übrigens kann es passieren, dass du den Autor auf Freiburgs Pflaster entdeckst. Das ist dann kein Trugbild!
+    Wenn du packende Spannung und
+    Rätselhaftes magst und
+    Freundschaftsgeschichten, vielleicht ein
+    bisschen New York kennen lernen willst
+    und schon ein paar Brocken Englisch
+    verstehst (oder einen Übersetzer hast),
+    dann brauchst du nur noch einen
+    Bandennamen – fällt dir schon einer
+    ein? Übrigens kann es passieren, dass
+    du den Autor auf Freiburgs Pflaster
+    entdeckst. Das ist dann kein Trugbild!
   autor: Geschrieben von Patrick Hertweck
   verlag: Thienemann Verlag
   isbn: 978-3-522-18403-8
   cover: >
     maggie-und-die-stadt-der-diebe_patrick-hertweck.jpg
-  preis: 14,95
+  preis: 14,99
   alter: ab 11 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460848873278/Buecher_Kinder--und-Jugend/Patrick-Hertweck/Maggie-und-die-Stadt-der-Diebe
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

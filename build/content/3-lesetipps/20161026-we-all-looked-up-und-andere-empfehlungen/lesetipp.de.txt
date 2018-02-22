@@ -1,4 +1,4 @@
-Title: we all looked up ... und andere Empfehlungen
+Title: We all looked up ... und andere Empfehlungen
 
 ----
 
@@ -26,6 +26,8 @@ Angaben:
   preis: 9,99
   alter: ab 13 Jahren
   cover: 28-tage-lang_david-safier.jpg
+  shop: >
+    http://shop.fundevogel.de/product/4099276460846234909/Buecher_Romane/David-Safier/28-Tage-lang
 - 
   titel: Jenseits der blauen Grenze
   autor: Dorit Linke
@@ -45,6 +47,8 @@ Angaben:
     Freiheit. Und auf jeder Seite stellt
     sich dem Leser die Frage nach einem
     selbstbestimmten Leben.
+  shop: >
+    http://shop.fundevogel.de/product/4099276460852095055/Buecher_Kinder--und-Jugend/Dorit-Linke/Jenseits-der-blauen-Grenze
 - 
   titel: We all looked up
   autor: Tommy Wallach
@@ -55,6 +59,8 @@ Angaben:
   alter: ab 12 Jahren
   cover: we-all-looked-up_tommy-wallach.jpg
   verdict: 'In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?'
+  shop: >
+    http://shop.fundevogel.de/product/4099276460850965849/Buecher_Kinder--und-Jugend/Tommy-Wallach/We-All-Looked-Up
 
 ----
 

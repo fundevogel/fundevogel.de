@@ -26,7 +26,8 @@ Angaben:
     das-u-boot-auf-dem-berg_ulrich-fasshauer.jpg
   preis: "13"
   alter: ab 10 Jahren
-  shop: ""
+  shop: >
+    http://shop.fundevogel.de/product/4099276460853507847/Buecher_Kinder--und-Jugend/Ulrich-Fasshauer/Das-U-Boot-auf-dem-Berg
 
 ----
 

@@ -18,18 +18,17 @@ Text: Constanze von Kitzing hat wunderbare Illustrationen geschaffen, die erkenn
 
 ----
 
-Info:
+Info: 
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: >
     Ich mag ... schaukeln, malen, Fußball,
     Krach
-  verdict: >
-    Ich mag ... das Buch!
+  verdict: Ich mag ... das Buch!
   autor: Constanze von Kitzing
   verlag: Carlsen
   isbn: 978-3-551-17061-3
@@ -37,3 +36,12 @@ Angaben:
     ich-mag-schaukeln-malen-fussball-krach_constanze-von-kitzing.jpg
   preis: 12,99
   alter: ab 2 Jahren
+  shop: 'http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach/63715/4099276460822233275/4099276460851007401/-3/4099276460822241241/%204099276460822241224/%204099276460822241224'
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

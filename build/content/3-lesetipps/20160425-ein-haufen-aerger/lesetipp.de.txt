@@ -18,15 +18,28 @@ Text: Van Gogh und Rudolf haben es gut in Amsterdam! Dem Kater fehlt zwar ein Oh
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: Ein Haufen Ärger
   verdict: >
-    Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
+    Eine witzige und berührende Geschichte
+    vom Anders-sein und Zusammenleben, mit
+    schönen farbigen Illustrationen von
+    Sabine Wilharm auf jeder Seite!
   autor: Geschrieben von Sabine Ludwig
   verlag: Fischer Schatzinsel Verlag
   isbn: 978-3-59680-479-5
   cover: ein-haufen-aerger_sabine-ludwig.jpg
   preis: 7,95
   alter: ab 11 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/1602295/Buecher_Kinder--und-Jugend/Sabine-Ludwig/Ein-Haufen-aerger
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

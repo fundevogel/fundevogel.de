@@ -23,6 +23,8 @@ Angaben:
   cover: sherlock-und-co_sam-hearn.jpg
   preis: 10,00
   alter: ab 9 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460853500893/Buecher_Kinder--und-Jugend/Sam-Hearn/Die-Schule-der-Detektive---Sherlock--Co-jagen-den-Museumsraeuber
 
 ----
 

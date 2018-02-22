@@ -33,6 +33,8 @@ Angaben:
   cover: oskar.jpg
   preis: 12,95
   alter: ab 8 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/3000000206926/Buecher_Kinder--und-Jugend/Hildegard-Mueller/Oskar---Ein-Kater-mit-Charakter
 
 ----
 

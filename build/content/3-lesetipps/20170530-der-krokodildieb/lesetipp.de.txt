@@ -21,6 +21,8 @@ Angaben:
   cover: der-krokodildieb_taran-bjornstad.jpg
   preis: 12,95
   alter: ab 8 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460851006974/Buecher_Kinder--und-Jugend/Taran-Bjrnstad/Der-Krokodildieb
 
 ----
 

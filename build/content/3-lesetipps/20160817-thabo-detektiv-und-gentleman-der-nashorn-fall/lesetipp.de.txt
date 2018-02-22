@@ -18,20 +18,22 @@ Text: Als Thabo bei einer Safari-Tour eine SMS von Miss Agatha bekommt, die HILF
 
 ----
 
-Info:
+Info: 
 
 ----
 
-Hint:
+Hint: 
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: 'Thabo, Detektiv & Gentleman: Der Nashorn-Fall'
   verdict: >
-    Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
+    Ein spannender Krimi, in dem man auch
+    noch viel über die Wildtiere
+    Südafrikas erfährt!
   autor: Geschrieben von Kirsten Boie
   verlag: Oetinger Verlag
   isbn: 978-3-7891-2033-6
@@ -39,3 +41,13 @@ Angaben:
     thabo-detektiv-und-gentleman_kirsten-boie.jpg
   preis: 12,99
   alter: ab 10 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460851356366/Buecher_Abenteuer/Kirsten-Boie/Thabo-Detektiv--Gentleman---Der-Nashorn-Fall
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

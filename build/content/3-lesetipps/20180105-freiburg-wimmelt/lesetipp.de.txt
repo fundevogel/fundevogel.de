@@ -34,6 +34,7 @@ Angaben:
   cover: 6432496200001z.jpg
   preis: 14,90
   alter: ""
+  shop: 'http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Steph-Burlefinger/Freiburg-wimmelt/63715/4099276460822233275/3000000309416/-3/4099276460822241241/%204099276460822241224/%204099276460822241224#'
 
 ----
 

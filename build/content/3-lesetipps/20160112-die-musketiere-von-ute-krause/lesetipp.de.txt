@@ -2,7 +2,7 @@ Title: Die Muskeltiere. Einer für alle, alle für einen.
 
 ----
 
-Text: Hallo!
+Text: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch keine Werbung für französischen Käse. Aber eine kleine Verbindung gibt es wohl. Picandou C. Saint-Albray ist nämlich eine Maus, die im Keller eines Feinkostladens wohnt. Der Glückliche … Er lässt es sich ziemlich gut gehen. Aber dann kommt alles anders und Frau Fröhlich vom Feinkostladen braucht seine Hilfe. Ist es also doch nicht so verkehrt, dass er eine graue Maus – oder ist es vielleicht doch eine Ratte – nach einem Unwetter bei sich aufnimmt?
 
 ----
 
@@ -14,11 +14,7 @@ Date: 2016-01-12
 
 ----
 
-Text: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch keine Werbung für französischen Käse. Aber eine kleine Verbindung gibt es wohl. Picandou C. Saint-Albray ist nämlich eine Maus, die im Keller eines Feinkostladens wohnt. Der Glückliche … Er lässt es sich ziemlich gut gehen. Aber dann kommt alles anders und Frau Fröhlich vom Feinkostladen braucht seine Hilfe. Ist es also doch nicht so verkehrt, dass er eine graue Maus – oder ist es vielleicht doch eine Ratte – nach einem Unwetter bei sich aufnimmt?
-
-----
-
-Info:
+Info: 
 
 ----
 
@@ -26,19 +22,36 @@ Author: Ute Krause
 
 ----
 
-Angaben:
+Angaben: 
 
--
+- 
   titel: >
     Die Muskeltiere. Einer für alle, alle
     für einen.
   verdict: >
-    Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Schriftsteller Alexandre Dumas? Sie kämpfen gemeinsam gegen die Ungerechtigkeit. Und ähnlich machen das auch Picandou und seine neuen Freunde. Gemeinsam sind sie ziemlich hungrig, immer lustig und einfach unschlagbar!
+    Kennt ihr die drei Musketiere, ein
+    Klassiker von dem französischen
+    Schriftsteller Alexandre Dumas? Sie
+    kämpfen gemeinsam gegen die
+    Ungerechtigkeit. Und ähnlich machen das
+    auch Picandou und seine neuen Freunde.
+    Gemeinsam sind sie ziemlich hungrig,
+    immer lustig und einfach unschlagbar!
   autor: >
     Geschrieben und illustriert von Ute
     Krause
-  verlag: 'cbj Kinder- und Jugendbuch Verlag'
+  verlag: cbj
   isbn: 978-3-570-15903-3
   cover: die-musketiere_ute-krause.jpg
   preis: 14,99
-  alter: ""
+  alter: ab 8 Jahren
+  shop: >
+    http://shop.fundevogel.de/product/4099276460845218677/Buecher_Abenteuer/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
+
+----
+
+Conclusion: 
+
+----
+
+Seo: 

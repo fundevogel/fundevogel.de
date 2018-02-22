@@ -24,6 +24,8 @@ Angaben:
   cover: zuckerkringel-ferien-mit-marie.jpg
   preis: "10.95"
   alter: ab 9 Jahren
+  shop: >
+    http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Beate-Doelling/Zuckerkringel-Ferien-mit-Marie/63715/4099276460822233275/4099276460853500835/-3/4099276460822241237/4099276460822241224/4099276460822241224
 
 ----
 
