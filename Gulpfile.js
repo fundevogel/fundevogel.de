@@ -11,6 +11,7 @@ var
   browserSync   = require('browser-sync').init,
   cache         = require('gulp-memory-cache'),
   changed       = require('gulp-changed'),
+  clone         = require('gulp-clone').sink(),
   config        = require('./config'),
   connect       = require('gulp-connect-php'),
   development   = ((process.env.NODE_ENV || '').trim().toLowerCase() !== 'production'),
@@ -35,7 +36,7 @@ var
   webpack       = require('webpack-stream')
 ;
 
-var clone = require('gulp-clone').sink();
+
 
 /*
 ---------------------------------------
