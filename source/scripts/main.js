@@ -80,7 +80,7 @@ document.addEventListener('turbolinks:load', function() {
     });
 
     infScroll.on('append', function() {
-      lazyload.update();
+      lazyload.update().check();
       lightgalleryJS();
     });
   } else if (document.body.classList.contains('fundevogel-und-team')) {
