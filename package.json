@@ -32,7 +32,8 @@
     "layzr.js": "^2.2.2",
     "lightgallery.js": "^1.0.2",
     "macy": "^2.3.0",
-    "tiny-slider": "^2.5.2"
+    "tiny-slider": "^2.5.2",
+    "turbolinks": "^5.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
