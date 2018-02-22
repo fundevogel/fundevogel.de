@@ -18,8 +18,5 @@
         </nav>
       </div>
     </footer>
-
-    <?= js('assets/scripts/main.js') ?>
-
   </body>
 </html>

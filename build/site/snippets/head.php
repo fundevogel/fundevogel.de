@@ -24,4 +24,6 @@
 
   <!-- Font loading -->
   <script integrity="sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw="><?= (new Asset('assets/font-loading.js'))->content() ?></script>
+    
+  <?= js('assets/scripts/main.js', ['defer' => true]) ?>
 </head>
