@@ -31,10 +31,11 @@ var
   stylelint     = require('stylelint'),
   syntax_scss   = require('postcss-scss'),
   uglify        = require('gulp-uglify'),
+  webp          = require('gulp-webp'),
   webpack       = require('webpack-stream')
 ;
 
-
+var clone = require('gulp-clone').sink();
 
 /*
 ---------------------------------------
@@ -139,14 +140,17 @@ gulp.task('scripts', gulp.series(
 
 gulp.task('images', function() {
   return gulp.src(config.assets.source + '/images/**/*')
-   .pipe(changed(config.assets.build + '/images'))
-   .pipe(imagemin({
+    .pipe(changed(config.assets.build + '/images'))
+    .pipe(imagemin({
       progressive: true,
       use: [pngquant()],
-   }))
-   .pipe(size({showFiles: true}))
-   .pipe(gulp.dest(config.assets.build + '/images'))
-   .pipe(browserSync.stream())
+    }))
+    .pipe(clone)
+    .pipe(webp({ lossless: true }))
+    .pipe(clone.tap())
+    .pipe(size({showFiles: true}))
+    .pipe(gulp.dest(config.assets.build + '/images'))
+    .pipe(browserSync.stream())
   ;
 });
 
