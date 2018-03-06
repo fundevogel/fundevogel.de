@@ -4,7 +4,6 @@
   <link rel="preload" href="/assets/fonts/Dosis-Light-supersubset.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/CabinSketch-Bold-ultrasubset.woff2" as="font" type="font/woff2" crossorigin>
 
-  <!-- SEO -->
   <?php snippet('partials/seo') ?>
 
   <!-- CSS -->
@@ -24,6 +23,6 @@
 
   <!-- Font loading -->
   <script integrity="sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw="><?= (new Asset('assets/font-loading.js'))->content() ?></script>
-    
+
   <?= js('assets/scripts/main.js', ['defer' => true]) ?>
 </head>
