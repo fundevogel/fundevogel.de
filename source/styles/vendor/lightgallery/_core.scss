@@ -166,8 +166,7 @@ $lg-backdrop-background-color: $base-background-color;
 
   // Hide title div if empty
   .lg-empty-html {
-    // display: none;
-    min-height: 57px; // CUSTOM: same height as one-line caption
+    display: none;
   }
 
   &.lg-hide-download{
