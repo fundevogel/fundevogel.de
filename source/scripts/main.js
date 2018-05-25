@@ -68,15 +68,15 @@ document.addEventListener('turbolinks:load', function() {
     .update()
     .check()
     .handlers(true);
-  
+
   if (document.body.classList.contains('home')) {
     const infScroll = new InfiniteScroll('.list', {
-      path: '.next-page',
+      path: '.load-more-target',
       append: '.post',
       history: false,
       button: '.load-more',
       scrollThreshold: false,
-      hideNav: '.next-page'
+      hideNav: '.load-more-target'
     });
 
     infScroll.on('append', function() {

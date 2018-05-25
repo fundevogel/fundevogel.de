@@ -1,29 +1,29 @@
 .post-nav {
-  display: table;
   margin-top: $base-spacing;
   padding: 0;
+  display: flex;
   width: 100%;
-
-  button {
-    box-shadow: $base-box-shadow;
-    line-height: 1.1;
-    width: 100% !important;
-  }
 }
 
 .btn {
-  background-color: $action-color;
-  border-radius: $base-border-radius;
-  display: table-cell;
+  flex-basis: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   opacity: 0.75;
   padding: 1em 0;
   transition: opacity $base-duration $base-timing;
-  vertical-align: middle;
 
   &:hover,
   &:focus {
     color: $white;
     opacity: 1;
+  }
+
+  // Hide on home when JS is activated - AJAX button taking over
+  .js .home &.left,
+  .js .home &.right {
+    display: none;
   }
 
   &.left {
@@ -37,14 +37,13 @@
   &.is-disabled {
     cursor: not-allowed;
     opacity: 0.5;
-    width: 50%;
   }
 
   &--text {
     font-size: 1.75rem;
 
     @include min-width(large) {
-      font-size: 2.2rem;
+      font-size: 2rem;
     }
   }
 
@@ -55,9 +54,14 @@
 
     @include min-width(medium) {
       display: inline;
-      margin: 0 1.5em;
-      position: relative;
-      top: 0.15em;
+    }
+  }
+
+  &.load-more {
+    flex-basis: 100%;
+
+    .no-js & {
+      display: none;
     }
   }
 }

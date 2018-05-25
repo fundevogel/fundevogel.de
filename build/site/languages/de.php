@@ -51,6 +51,8 @@ l::set(array(
     'home_ueberschrift-liste' => 'Neues aus dem Fundevogel', // zwischenueberschrift (t)
     'home_mehr-anzeigen' => 'Frühere Neuigkeiten', // button zum nachladen (t)
     'home_mehr-anzeigen--title' => 'Frühere Neuigkeiten anzeigen', // (m)
+    'home_frueheres' => 'Früheres', // wenn JS (-): button zum nachladen (t)
+    'home_aelteres' => 'Älteres', // wenn JS (-): button zum nachladen (t)
     'home_mehr-anzeigen--ende' => 'Mehr haben wir nicht!', // wie oben + ende erreicht (t)
 
 
