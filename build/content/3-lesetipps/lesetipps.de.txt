@@ -27,7 +27,7 @@ Handle: Lesetipps
 
 ----
 
-Pdf-spring: buchempfehlungen-fruehjahr-2017.pdf
+Pdf-spring: buchempfehlungen-fruehjahr-2018.pdf
 
 ----
 

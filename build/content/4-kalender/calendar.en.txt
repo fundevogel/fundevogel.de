@@ -6,12 +6,12 @@ Date: 2017-02-10
 
 ----
 
-Text: 
+Text:
 
 ## We look forward to seeing you
 Here you will find all information about the current events of the Fundevogel.
 
-If you want to see what we have done in the past, you can also find the past events here.
+If you want to see what we have done in the past, you can also find the past events (link: /vergangene-veranstaltungen text: here).
 
 ----
 
@@ -39,7 +39,7 @@ Button: Vergangene Veranstaltungen
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Veranstaltungskalender"

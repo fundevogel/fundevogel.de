@@ -1,0 +1,21 @@
+Title: 20-10-2018
+
+----
+
+Events: 
+
+- 
+  summary: Torben Kuhlmann im Fundevogel
+  location: Buchhandlung Fundevogel
+  css: Lirum Larum Lesefest
+  description: >
+    Wir freuen uns sehr im Rahmen des Lirum
+    Larum Lesefestes den Autor und
+    Illustrator Torben Kuhlmann im
+    Fundevogel zu Gast zu haben. Genauere
+    Informationen zum Inhalt der
+    Veranstaltung folgen in Kürze an dieser
+    Stelle.
+  begin_time: 14:00
+  end_time: 15:30
+  end_date: 2018-10-20
