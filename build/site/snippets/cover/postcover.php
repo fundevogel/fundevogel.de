@@ -8,4 +8,11 @@
 <figure data-lightgallery data-src="<?= $crop->url() ?>" data-sub-html="<?= $image->caption()->html() ?>">
   <img data-layzr="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
 </figure>
+<noscript>  
+  <figure>
+    <a href="<?= $image->url() ?>">
+      <img src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+    </a>
+  </figure>
+</noscript>
 <?php endif ?>

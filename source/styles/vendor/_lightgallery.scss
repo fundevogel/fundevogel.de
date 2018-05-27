@@ -14,6 +14,7 @@
 	// 'lightgallery/share'
 ;
 
+
 [data-lightgallery] {
   cursor: pointer;
 	// TODO: awesome effects, maybe try mocassins.css
@@ -22,4 +23,7 @@
   // &:hover {
   //   box-shadow: $hover-box-shadow;
   // }
+	.no-js & {
+		display: none;
+	}
 }
