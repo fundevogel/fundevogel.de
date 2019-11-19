@@ -5,7 +5,7 @@
     <?= $page->text()->kt() ?>
   </div>
   <div class="one-half--wide teaser">
-    <?php snippet('templates/fundevogel/lightgallery') ?>
+    <?php snippet('templates/fundevogel.slides') ?>
   </div>
 </header>
 <hr>
