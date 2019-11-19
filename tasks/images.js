@@ -14,8 +14,8 @@ const
   imagemin = require('gulp-imagemin'),
   newer = require('gulp-newer'),
   rename = require('gulp-rename'),
-  svg = require('gulp-svgstore'),
-  svgmin = require('gulp-svgmin')
+  svg = require('gulp-svgstore')
+  // svgmin = require('gulp-svgmin')
 ;
 
 
@@ -48,7 +48,8 @@ function combineIcons() {
 
   return src(iconsSource)
     .pipe(newer(conf.dist.icons))
-    .pipe(svgmin(conf.icons.minify))
+    // TODO: Minifying currently destroys `en` flag icon ..
+    // .pipe(svgmin(conf.icons.minify))
     .pipe(svg({inlineSvg: conf.icons.inline})) // See https://github.com/w0rm/gulp-svgstore#options
     .pipe(rename(conf.icons.output))
     .pipe(dest(conf.dist.icons));
@@ -68,7 +69,7 @@ function createFavicons() {
     .pipe(snippet)
     .pipe(rename({extname: '.php'}))
     .pipe(snippet.restore)
-    .pipe(dest(conf.src.images + '/favicons'));
+    .pipe(dest(conf.public + '/favicons'));
 }
 
 
