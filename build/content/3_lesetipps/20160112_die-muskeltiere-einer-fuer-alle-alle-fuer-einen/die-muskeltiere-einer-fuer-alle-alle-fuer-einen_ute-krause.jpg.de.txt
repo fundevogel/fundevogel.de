@@ -1,0 +1,21 @@
+Titleattribute: "Die Muskeltiere, Einer für alle - alle für einen" von Ute Krause
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Muskeltiere, Einer für alle - alle für einen" von Ute Krause
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

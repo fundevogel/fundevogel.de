@@ -1,0 +1,9 @@
+title: Standard
+
+options: options/default
+
+tabs:
+  tab_content: tabs/content
+
+  # Metadata
+  tab_seo: tabs/seo

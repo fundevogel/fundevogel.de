@@ -1,0 +1,45 @@
+Title: Tage der offenen Tür
+
+----
+
+Location: Hauptfriedhof Freiburg
+
+----
+
+Date: 2018-06-22
+
+----
+
+Link: 
+
+----
+
+Category: Feier / Fest
+
+----
+
+Text: Der Friedhof ist nicht immer ein Ort der Trauer. An diesem Wochenende wird die Eröffnung des Verwaltungsneubaus mit zwei Tagen der offenen Tür gefeiert. Ein buntes Programm mit Informationen, Führungen und Vorträgen bildet den Kern der Feierlichkeiten. Für die kleinen Gäste ist für Spiel- und Bastelspaß inkl. Kinderschminken gesorgt. "Alles ist anders": So lautet ein Angebot mit Hildegard Bargeda, der Leiterin der Hospizgruppe. Wir freuen uns, u.a. dies Angebot für trauernde Kinder und Jugendliche am **Sonntag ab 13.00 Uhr** mit einem ausführlichen **Büchertisch **zum Thema begleiten zu dürfen.
+
+----
+
+Begin-time: 13:00
+
+----
+
+End-time: 16:30
+
+----
+
+End-date: 2018-06-24
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

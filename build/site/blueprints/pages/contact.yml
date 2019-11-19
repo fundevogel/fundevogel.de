@@ -1,0 +1,53 @@
+title:
+  de: Kontakt
+  en: Contact
+
+options: options/default
+
+tabs:
+  tab_content:
+    preset: page
+    icon: text
+    label:
+      de: Inhalt
+      en: Content
+
+    fields:
+      bike:
+        label:
+          de: Anfahrt mit Fahrrad
+          en: By bike
+        type: textarea
+
+      auto:
+        label:
+          de: Anfahrt mit Auto
+          en: By car
+        type: textarea
+
+      tram:
+        label:
+          de: Anfahrt mit Tram
+          en: By tram
+        type: textarea
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          kontaktinfos:
+            label:
+              de: Kontaktinformationen
+              en: Contact information
+            type: textarea
+
+          oeffnungszeiten:
+            label:
+              de: Öffnungszeiten
+              en: Opening hours
+            type: textarea
+
+      sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo

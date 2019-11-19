@@ -1,0 +1,72 @@
+Title: Agenda
+
+----
+
+Slug: agenda
+
+----
+
+Text:
+
+## Venez nombreux!
+Cliquez sur le lien pour pouvoir consulter notre agenda tranquillement de chez vous!
+
+Vous pouvez également, si vous le souhaitez, jeter un oeil aux événements (link: /vergangene-veranstaltungen text: passés), pour vous faire une petite idée de ce que nous proposons.
+
+----
+
+Perpage-wanted: true
+
+----
+
+Perpage: 10
+
+----
+
+Cover:
+
+- kalender.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Date: 2017-02-10
+
+----
+
+Webcal-text: Abonnieren Sie unsere Veranstaltungen!
+
+----
+
+Timezone: Europe/Berlin
+
+----
+
+Subtitle: Alle Veranstaltungen im Überblick
+
+----
+
+Handle: Kalender
+
+----
+
+Button: Vergangene Veranstaltungen
+
+----
+
+Seo:
+
+-
+  seo-title: "Veranstaltungskalender"
+  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"
+
+----
+
+Translations: 1

@@ -1,0 +1,70 @@
+Title: Our Partners
+
+----
+
+Cover:
+
+- unser-netzwerk.jpg
+
+----
+
+Text:
+
+## In good company
+> „It is not good for man to be alone, and especially to work alone. On the contrary, he needs sympathy and suggestion to do anything well.“
+> <cite>Johann Wolfgang von Goethe</cite>
+
+We are looking for partnerships, where children, adolescents and books come together and connect - especially when sharing the one idea, we are passionate about:
+
+----
+
+Cards:
+
+-
+  entry: "(link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) lives in Erfurt and supports us with beautiful illustrations, and also she's an author herself! If you look closely, you'll find some of her work among the treasures of our book store .."
+-
+  entry: 'Our former colleague Katharina, who joined the (link: http://www.buchkinder.de/ text: Buchkinder Leipzig target: blank), a writing workshop and printery. They assist children with writing their own books, designing and illustrating them and finally printing them, all by themselves! We are glad to bring their stories and pictures to Freiburg.'
+-
+  entry: "As cooperation partner of the German Bundesliga club (link: https://www.scfreiburg.com/ text: SC Freiburg) we support the (link: http://www.fuechsleclub.de/ text: Füchsle Club's) project ‚football and reading‘, writing inspiring book reviews and organising events together. Come visit our stall each season start at Freiburg's football stadium!"
+-
+  entry: "At our book store, there are  (link: http://www.traeume-am-werk.de/index.html text: dreams at work target: blank): For quite a while now, Monika Schwab's letterings embellish our window boards. Have a look at her website, or visit our book store and see for yourself!"
+-
+  entry: 'Alongside the cultural office Freiburg, especially (link: http://www.kulturelle-bildung-freiburg.de/kontakt/ text: Martina Wolff target: blank) and (link: http://www.theater.freiburg.de/de_DE/junges-theater/ text: Michael Kaiser target: blank) we mount the magnificent (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes target: blank), taking place anually in October.'
+-
+  entry: 'If you are ever in St. Märgen, take some time and drop by the (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone target: blank): An absolutely commendable project and worthy of support - and they got a fine selection of books for the little ones as well!'
+-
+  entry: 'Actress (link: http://www.petra-gack.de/ text: Petra Gack target: blank) and musician (link: http://www.mike-schweizer.de/Home.html text: Mike Schweizer target: blank) belong to our network, because time and again we are having great events together.'
+-
+  entry: |
+    (link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank):
+    „Language is not an obstacle, but a possibility!“
+-
+  entry: 'The (link: http://www.literaturbuero-freiburg.de/cms/ text: Literaturbüro Freiburg target: blank) is our partner because of the great projects you can find there, for example ‚Freileser‘.'
+-
+  entry: 'Did you ever taste home-made dragon scale cake? Check out (link: http://www.cafe-fabelhaft.org/ text: Café Fabelhaft target: blank) and have some! This place really is fabulous.'
+-
+  entry: 'One of our dearest neighbors is the (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst target: blank) - art and literature being very close (and just across the street).'
+-
+  entry: "It's an oasis of calm where you can just take it easy, sling a hammock and relax - no muss, no fuss! Spend your days dreaming and decelerating at (link: http://www.traeumothek.de/ text: Träumothek target: blank)."
+-
+  entry: 'When the sun is shining, (link: http://www.cafemarcel.de/ text: Café Marcel target: blank) is definitely the place to be. While their parents relish coffee specialties and french croissants, their kids play at the huge playground nearby.'
+
+----
+
+Handle: Network
+
+----
+
+Motto: Awakening interest in books and literature, to enjoy reading, and having fun.
+
+----
+
+Seotitle: Our partners
+
+----
+
+Seodescription: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden.
+
+----
+
+slug: our-partners

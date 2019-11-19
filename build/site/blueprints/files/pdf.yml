@@ -1,0 +1,41 @@
+title:
+  de: BiblioListe
+  en: BiblioList
+extends: tabs/default
+
+accept: application/pdf
+
+columns:
+  column_main:
+    sections:
+      section_fields:
+        type: fields
+        fields:
+          titleAttribute:
+            extends: fields/files/title
+            width: 1/2
+
+          edition:
+            label:
+              de: Ausgabe
+              en: Edition
+            type: radio
+            columns: 2
+            options:
+              - Frühjahr
+              - Herbst
+            width: 1/4
+
+          year:
+            label:
+              de: Jahr
+              en: Year
+            type: number
+            width: 1/4
+
+          altAttribute:
+            extends: fields/files/alt
+
+  column_sidebar:
+    sections:
+      info: sections/info-ux

@@ -1,0 +1,41 @@
+Title: Kinderliteraturfest im Stadttheater
+
+----
+
+Date: 2018-10-21
+
+----
+
+Location: Stadttheater Freiburg
+
+----
+
+Category: Lirum Larum Lesefest
+
+----
+
+Text: Zum großen Abschlussfest des diesjährigen **Lirum Larum Lesefestes** im Stadttheater ist selbstverständlich auch der Fundevogel wieder mit dabei. Wir werden mit einem großen Büchertisch im Foyer des Stadttheaters an dem Kinderliteraturfest teilnehmen, an dem ihr alle Bücher der Gastautoren und noch so manches mehr finden werdet. Außerdem könnt ihr bei uns kreativ werden und bunte Lesezeichen basteln. Wir freuen uns schon darauf euch alle persönlich zu treffen!
+
+----
+
+Begin-time: 12:30
+
+----
+
+End-time: 18:00
+
+----
+
+End-date: 2018-10-21
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

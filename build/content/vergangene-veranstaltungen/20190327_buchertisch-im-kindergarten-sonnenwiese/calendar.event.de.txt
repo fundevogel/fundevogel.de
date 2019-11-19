@@ -1,0 +1,41 @@
+Title: Büchertisch im Kindergarten Sonnenwiese
+
+----
+
+Date: 2019-03-27
+
+----
+
+Location: Kindergarten Sonnenwiese
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-03-27
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

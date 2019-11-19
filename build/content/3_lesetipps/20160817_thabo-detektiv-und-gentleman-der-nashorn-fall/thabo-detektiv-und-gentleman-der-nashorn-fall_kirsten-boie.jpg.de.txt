@@ -1,0 +1,21 @@
+Titleattribute: "Thabo, Detektiv & Gentleman - Der Nashorn-Fall" von Kirsten Boie
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Thabo, Detektiv & Gentleman - Der Nashorn-Fall" von Kirsten Boie
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

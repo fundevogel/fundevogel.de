@@ -1,0 +1,45 @@
+Title: Büchertisch im Kindergarten St. Michael
+
+----
+
+Location: Kindergarten St. Michael
+
+----
+
+Date: 2017-04-24
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-04-28
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

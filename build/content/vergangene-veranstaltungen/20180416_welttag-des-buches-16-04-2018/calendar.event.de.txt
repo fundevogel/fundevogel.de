@@ -1,0 +1,45 @@
+Title: Welttag des Buches
+
+----
+
+Location: Buchhandlung Fundevogel
+
+----
+
+Date: 2018-04-16
+
+----
+
+Link: 
+
+----
+
+Category: Veranstaltung für angemeldete Schulklassen
+
+----
+
+Text: Rund um den Welttag des Buches am 23. April werden uns in einem Zeitraum von einem Monat wieder zahlreiche Schulklassen in der Buchhandlung besuchen kommen. Gemeinsam mit den Schülern werden wir den Tag des Buches feiern und in die Welt der Bücher eintauchen.
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2018-05-15
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

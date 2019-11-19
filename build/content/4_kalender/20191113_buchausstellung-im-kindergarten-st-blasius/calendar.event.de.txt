@@ -1,0 +1,41 @@
+Title: Buchausstellung im Kindergarten St. Blasius
+
+----
+
+Date: 2019-11-13
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-11-19
+
+----
+
+Show-time: false
+
+----
+
+Multiple-days: true
+
+----
+
+Location: Kindergarten St. Blasius
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung

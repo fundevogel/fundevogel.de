@@ -1,0 +1,49 @@
+Title: Notre service
+
+----
+
+Slug: notre-service
+
+----
+
+Cover:
+
+- unser-service.jpg
+
+----
+
+Text:
+
+## Nous vous accueillons!
+Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez-les, à la recherche d'aventures ou de douceur ... nous ne sommes pas pressés et à vos côtés pour vous aiguiller !
+
+----
+
+Cards:
+
+- 
+  entry: 'Des **conseils compétents** qui respectent vos goûts et vos envies.'
+- 
+  entry: "Diverses **manifestations pour encourager la lecture**, comme nos quizz avec les élèves dans le cadre de la Journée mondiale du livre, ou encore les lectures d'auteurs lors du festival **Lirum Larum Lesefest**. Nous vous invitons également chaque année en automne à notre **soirée littéraire**, où Brezel et mousseux accompagnent chaleureusement la présentation de nos coups de coeur. Pour plus d'informations concernant nos manifestations, consultez notre (link: /kalender/ text: agenda)."
+- 
+  entry: 'Une **commande rapide** de tous les titres disponibles, également au-delà de la littérature jeunesse, directement en magasin ou par téléphone, (email: info@fundevogel.de text: mail) ou en (link: /shop/ text: ligne).'
+- 
+  entry: "Des **stands et expositions** de nos livres dans divers lieux. Nous vous concoctons avec plaisir une **sélection personnelle** sur un thème particulier. Pour cela, merci de bien vouloir nous contacter suffisamment à l'avance afin de convenir d'un rendez-vous."
+- 
+  entry: 'Des **sélections de livres** faites sur mesure. Veuillez-nous (email: info@fundevogel.de text: contacter) si cela vous intéresse.'
+- 
+  entry: "Des **enfants de primaire et de crèche**, qui viennent régulièrement participer à nos manifestations. Afin de pouvoir préparer au mieux votre visite et de répondre à vos attentes, merci d'inscrire votre classe à l'avance."
+- 
+  entry: 'Un petit **coin jeux** et un beau **cheval à bascule**, une **table à langer**, des chaises et un canapé pour lire tranquillement, une **équipe motivée** et bien sûr un tas de **livres de qualité** pour les petits comme pour les grands !'
+
+----
+
+Seotitle: Notre service
+
+----
+
+Seodescription: Prenez votre temps et soyez curieux, ouvrez les livres et feuilletez les, à la recherche d'aventures ou de douceur ... nous ne sommes pressés et à vos côtés pour vous aiguiller!
+
+----
+
+Handle: Service

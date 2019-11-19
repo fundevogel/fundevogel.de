@@ -1,0 +1,103 @@
+title:
+  de: Lesetipp
+  en: Reading tip
+
+num: "{{ page.date.toDate('Ymd') }}"
+
+options: options/article
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+
+      verdict:
+        label:
+          de: Einschätzung
+          en: Verdict
+        type: textarea
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          date: fields/date
+
+      sidebar_files:
+        type: fields
+        fields:
+          conclusion_wanted:
+            extends: fields/toggle
+            label:
+              de: Zusammenfassung?
+              en: Conclusion?
+
+          conclusion:
+            label:
+              de: Zusammenfassung
+              en: Summary
+            type: textarea
+            when:
+              conclusion_wanted: true
+
+  # Reviewed book
+  tab_book:
+    icon: page
+    label:
+      de: Bibliographie
+      en: Bibliography
+
+    columns:
+      - width: 3/4
+        sections:
+          general_fields:
+            type: fields
+            fields:
+              isbn:
+                label: ISBN
+                type: text
+                width: 1/4
+
+              shop:
+                label: Shop (URL)
+                type: url
+                width: 3/4
+
+              load_book:
+                type: janitor
+                label:
+                  de: Buchtitel laden
+                  en: Retrieve data
+                progress: Download ..
+                job: loadBook
+                width: 1/4
+
+              download_cover:
+                type: janitor
+                label:
+                  de: Cover erstellen
+                  en: Download cover
+                progress: Download ..
+                job: downloadCover
+                width: 1/4
+
+              auto_book: fields/groups/book
+
+      - width: 1/4
+        sections:
+          right_fields:
+            type: fields
+            fields:
+              cover:
+                extends: fields/single-cover
+                image:
+                  ratio: 3/4
+
+          right_images: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo

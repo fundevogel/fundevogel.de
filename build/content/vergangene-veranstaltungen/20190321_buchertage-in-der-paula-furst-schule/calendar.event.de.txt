@@ -1,0 +1,45 @@
+Title: Büchertage in der Paula Fürst Schule
+
+----
+
+Location: Paula Fürst Schule
+
+----
+
+Date: 2019-03-21
+
+----
+
+Link: 
+
+----
+
+Category: Schulinterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-03-22
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

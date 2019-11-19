@@ -1,0 +1,45 @@
+Title: Buchausstellung im Kindergarten "concept maternel" in Freiburg St.-Georgen
+
+----
+
+Location: Kindergarten "concept maternel"
+
+----
+
+Date: 2016-12-05
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2016-12-09
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

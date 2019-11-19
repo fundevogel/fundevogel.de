@@ -1,0 +1,17 @@
+Titleattribute: Unsere Empfehlungen im Herbst
+
+----
+
+Edition: Herbst
+
+----
+
+Year: 2016
+
+----
+
+Altattribute: Coverbild unserer Herbstsempfehlungen
+
+----
+
+Template: pdf

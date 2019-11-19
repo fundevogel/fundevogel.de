@@ -1,0 +1,41 @@
+Title: Buchausstellung im Kindergarten Unteribental
+
+----
+
+Date: 2019-11-25
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-11-29
+
+----
+
+Show-time: false
+
+----
+
+Multiple-days: true
+
+----
+
+Location: Kindergarten Unteribental
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung

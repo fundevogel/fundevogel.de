@@ -1,0 +1,21 @@
+Titleattribute: "Johnny und die Pommesbande" von Simone Buchholz
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Johnny und die Pommesbande" von Simone Buchholz
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

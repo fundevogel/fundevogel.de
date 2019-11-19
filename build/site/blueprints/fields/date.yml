@@ -1,0 +1,5 @@
+label:
+  de: Datum
+  en: Date
+type: date
+default: today

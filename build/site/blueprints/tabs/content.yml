@@ -1,0 +1,23 @@
+preset: page
+icon: text
+label:
+  de: Inhalt
+  en: Content
+
+fields:
+  text:
+    label: Text
+    type: textarea
+
+sidebar:
+  sidebar_fields:
+    type: fields
+
+  sidebar_files:
+    headline:
+      de: Dateien
+      en: Files
+    type: files
+    templates:
+      - biblio-list
+      - image

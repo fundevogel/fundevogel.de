@@ -1,0 +1,21 @@
+Titleattribute: Come visit us!
+
+----
+
+Altattribute: City map of Freiburg and exact location of the Fundevogel book store
+
+----
+
+Caption: Come visit us!
+
+----
+
+Template: image
+
+----
+
+Source: 
+
+----
+
+Caption-wanted: true

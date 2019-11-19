@@ -6,27 +6,33 @@
     <?= $page->oeffnungszeiten()->kt() ?>
   </div>
   <div class="one-half lightgallery">
-    <?php snippet('partials/map') ?>
+    <?php snippet('templates/contact.map') ?>
   </div>
 </section>
 <hr>
 <section class="list wrap">
-  <h2><?= l::get('kontakt_ueberschrift-liste') ?></h2>
+  <h2><?= t('kontakt_ueberschrift-liste') ?></h2>
   <div class="one-third">
     <div class="center">
-      <?= $bike->content() ?>
+      <svg role="img" title="Fahrrad" width="80" height="41.5">
+        <use xlink:href="/assets/images/icons.svg#bike"></use>
+      </svg>
     </div>
     <?= $page->bike()->kt() ?>
   </div>
   <div class="one-third">
     <div class="center">
-      <?= $car->content() ?>
+      <svg role="img" title="Auto" width="92.5" height="52.5">
+        <use xlink:href="/assets/images/icons.svg#car"></use>
+      </svg>
     </div>
     <?= $page->auto()->kt() ?>
   </div>
   <div class="one-third">
     <div class="center">
-      <?= $tram->content() ?>
+      <svg role="img" title="Straßenbahn" width="78" height="56">
+        <use xlink:href="/assets/images/icons.svg#tram"></use>
+      </svg>
     </div>
     <?= $page->tram()->kt() ?>
   </div>

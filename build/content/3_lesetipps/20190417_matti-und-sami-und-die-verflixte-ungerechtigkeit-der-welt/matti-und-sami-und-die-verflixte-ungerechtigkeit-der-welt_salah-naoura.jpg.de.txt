@@ -1,0 +1,21 @@
+Titleattribute: "Matti und Sami und die verflixte Ungerechtigkeit der Welt" von Salah Naoura
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Matti und Sami und die verflixte Ungerechtigkeit der Welt" von Salah Naoura
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

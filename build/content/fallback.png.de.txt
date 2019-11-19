@@ -1,0 +1,13 @@
+Titleattribute: Keine Vorschau vorhanden!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Bild mit der Aufschrift "Keine Vorschau vorhanden!"
+
+----
+
+Template: image

@@ -1,0 +1,25 @@
+Titleattribute: "Kannawoniwasein" von Martin Muser
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Kannawoniwasein" von Martin Muser
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Template: image

@@ -2,7 +2,7 @@ Title: Site not found
 
 ----
 
-Text: 
+Text:
 
 Mögliche Gründe dafür sind, dass die Seite ..
 - .. die ausgewählte Sprache nicht versteht
@@ -11,12 +11,8 @@ Mögliche Gründe dafür sind, dass die Seite ..
 
 ----
 
-Seo: 
-
--
-  seo-title: "Error"
-  seo-description: "Das kam so plötzlich, wir wissen auch noch nicht, wohin solch etwas führen kann - wir kümmern uns darum: besuche einige Seiten und komm später wieder!"
+Seotitle: Error
 
 ----
 
-Translations: 1
+Seodescription: Das kam so plötzlich, wir wissen auch noch nicht, wohin solch etwas führen kann - wir kümmern uns darum: besuche einige Seiten und komm später wieder!

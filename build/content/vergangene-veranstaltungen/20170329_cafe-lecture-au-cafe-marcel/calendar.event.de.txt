@@ -1,0 +1,47 @@
+Title: Café-lecture au Café Marcel
+
+----
+
+Date: 2017-03-29
+
+----
+
+Location: Café Marcel (Stadtpark)
+
+----
+
+Category: Lesung
+
+----
+
+Text: 
+
+Es geht weiter mit der zweiten Café-Lesung, diesmal für die Nachmittagspause! Wie bei der ersten Veranstaltung, gelesen wird auf französisch für Kinder von 3 bis 6.
+
+Bitte prüft am Tag der Lesung auf unserer Webseite oder beim (link: http://www.cafemarcel.de/ text: Café Marcel), wo die Lesung stattfindet (bei Regen wird im Fundevogel vorgelesen).
+
+*Eintritt frei, keine Reservierung notwendig.*
+
+----
+
+Begin-time: 15:30
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-03-29
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

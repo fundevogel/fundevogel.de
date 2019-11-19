@@ -1,0 +1,16 @@
+icon: search
+label:
+  de: Metadaten
+  en: Metadata
+
+fields:
+  seoTitle:
+    label: Überschrift
+    type: text
+
+  seoDescription:
+    label: Beschreibung
+    type: textarea
+    size: small
+    buttons: false
+    help: Dieser Text wird in den Ergebnissen von Suchmaschinen ("SERPs") abgebildet und sollte 155 Zeichen nicht überschreiten.

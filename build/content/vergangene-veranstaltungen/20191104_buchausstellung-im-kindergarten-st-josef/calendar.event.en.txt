@@ -1,0 +1,41 @@
+Title: Buchausstellung im Kindergarten St. Josef
+
+----
+
+Date: 2019-11-04
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-11-08
+
+----
+
+Show-time: false
+
+----
+
+Multiple-days: true
+
+----
+
+Location: Kindergarten St. Josef in den Westarkaden
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung

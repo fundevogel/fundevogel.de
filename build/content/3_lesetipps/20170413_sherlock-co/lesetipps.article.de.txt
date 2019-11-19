@@ -1,0 +1,83 @@
+Title: Sherlock & Co
+
+----
+
+Text: Zuerst bekommst du die unterschiedlichsten Personen der aufregenden Geschichte vorgestellt. Mit von der Partie sind Sherlock, seine Freunde Watson und Martha sowie Schulhund „Baskerville“, der beste Hundedetektiv aller Zeiten. In der Baker-Street-Schule entwickeln nicht nur die Schüler, sondern auch die Lehrer tolle Ideen: Es steht ein Museumsbesuch an, der auf dem Schulblog für alle mitzulesen ist. Dabei geschieht etwas Unerwartetes: Der wertvolle Alpinstein, ein Diamant, wird am helllichten Tag gestohlen. Jetzt bekommen die Schüler um den Sherlock eine ganz besondere Aufgabe, den Museumsdieb ausfindig zu machen. Und los geht’s für die Freund auf Spurensuche ...
+
+----
+
+Verdict: Ein spannender Comic-Krimi aus der Schule!
+
+----
+
+Date: 2017-04-13
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 978-3-505-13973-4
+
+----
+
+Shop: http://shop.fundevogel.de/product/4099276460853500893/Buecher_Kinder--und-Jugend/Sam-Hearn/Die-Schule-der-Detektive---Sherlock--Co-jagen-den-Museumsraeuber
+
+----
+
+Autor: Sam Hearn
+
+----
+
+Participants: Übersetzung: Leena Flegler
+
+----
+
+Titel: Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber
+
+----
+
+Untertitel: 
+
+----
+
+Verlag: Egmont SchneiderBuch
+
+----
+
+Alter: ab 9 Jahren
+
+----
+
+Preis: 10,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendliteratur
+
+----
+
+Tags: Detektiv
+
+----
+
+Cover:
+
+- sherlock-co_sam-hearn.jpg
+
+----
+
+Seotitle: 18
+
+----
+
+Seodescription: 19

@@ -1,0 +1,48 @@
+Title: Lecture en français - Lesung auf französisch
+
+----
+
+Date: 2019-03-27
+
+----
+
+Location: Buchhandlung Fundevogel
+
+----
+
+Category: Lesung
+
+----
+
+Text: 
+
+De conte en conte ... Promenons-nous dans les rues !
+Début du parcours : 15h à la librairie
+Fin : vers 17h au Café Marcel
+Contenu : lecture, histoire filmée et goûter !
+Pour enfants de 4 à 6 ans
+Entrée libre - Sur inscription : 0761/25218 ou info@fundevogel.de
+
+----
+
+Begin-time: 15:00
+
+----
+
+End-time: 17:00
+
+----
+
+End-date: 2019-03-27
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

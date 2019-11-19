@@ -1,0 +1,45 @@
+Title: Buchausstellung in der Kita St. Michael
+
+----
+
+Location: Kita St. Michael
+
+----
+
+Date: 2018-04-16
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2018-04-20
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

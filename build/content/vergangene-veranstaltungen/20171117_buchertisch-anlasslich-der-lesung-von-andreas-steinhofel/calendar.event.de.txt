@@ -1,0 +1,45 @@
+Title: Büchertisch anlässlich der Lesung von Andreas Steinhöfel
+
+----
+
+Date: 2017-11-17
+
+----
+
+Location: Literaturhaus Freiburg
+
+----
+
+Category: Lesung
+
+----
+
+Text: 
+
+Mit seinem neuen Rico-Oskar-Buch ist Andreas Steinhöfel zu Gast im Literaturhaus. Er wird aus "Rico, Oskar und das Vomhimmelhoch" vorlesen, ein Buch, das Ende September erscheint.
+
+*Anmeldung bitte beim Literaturbüro Freiburg!*
+
+----
+
+Begin-time: 17:00
+
+----
+
+End-time: 18:30
+
+----
+
+End-date: 2017-11-17
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

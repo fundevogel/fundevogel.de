@@ -1,0 +1,21 @@
+Titleattribute: Hier findet ihr uns!
+
+----
+
+Source: 
+
+----
+
+Altattribute: Stadtkarte von Freiburg und Weg zum Fundevogel
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Hier findet ihr uns!
+
+----
+
+Template: image

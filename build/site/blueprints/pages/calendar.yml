@@ -1,0 +1,57 @@
+title:
+  de: Kalender
+  en: Calendar
+
+options: options/default
+
+tabs:
+  tab_events:
+    extends: tabs/articles
+
+    columns:
+      left:
+        sections:
+          drafts:
+            create: calendar.event
+            template: calendar.event
+
+      right:
+        sections:
+          unlisted:
+            template: calendar.event
+
+      full:
+        sections:
+          listed:
+            template: calendar.event
+            image:
+              ratio: 1/1
+
+  tab_content:
+    extends: tabs/default
+
+    columns:
+      column_main:
+        sections:
+          main_fields:
+            type: fields
+            fields:
+              text:
+                label: Text
+                type: textarea
+
+      column_sidebar:
+        sections:
+          sidebar_fields:
+            type: fields
+            fields:
+              limit_perpage: fields/groups/limit-perpage
+
+              cover:
+                extends: fields/single-cover
+                image:
+                  ratio: 2/1
+          sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo

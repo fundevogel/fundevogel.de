@@ -2,10 +2,10 @@ Title: Datenschutz
 
 ----
 
-Text:
+Text: 
 
 ## Hinweise zur Datenverarbeitung
-Wir, die Buchhandlung Fundevogel, Marienstr. 13 in 79098 Freiburg im Breisgau, nehmen den Schutz Ihrer persönlichen Daten ernst und halten uns an die Regeln der Datenschutzgesetze. Beim Aufrufen unserer Webseite https://fundevogel.de werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
+Wir, die Buchhandlung Fundevogel, Marienstr. 13 in 79098 Freiburg im Breisgau, nehmen den Schutz Ihrer persönlichen Daten ernst und halten uns an die Regeln der Datenschutzgesetze. Beim Aufrufen unserer Webseite werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
 - IP-Adresse des anfragenden Rechners,
 - Datum und Uhrzeit des Zugriffs,
@@ -13,6 +13,7 @@ Wir, die Buchhandlung Fundevogel, Marienstr. 13 in 79098 Freiburg im Breisgau, n
 - Website, von der aus der Zugriff erfolgt (Referrer-URL),
 - verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers.
 
+---
 
 Die genannten Daten werden durch uns zu folgenden
 Zwecken verarbeitet:
@@ -22,6 +23,7 @@ Zwecken verarbeitet:
 - Auswertung der Systemsicherheit und -stabilität sowie
 - zu weiteren administrativen Zwecken.
 
+---
 
 Die persönlichen Daten, die auf diesen Seiten erfragt werden, umfassen den Namen, Angaben zum Kontakt sowie Informationen zur Rechnungsstellung und Abwicklung Ihrer Bestellung. Wir speichern und nutzen Ihre persönlichen Daten nur, soweit dies zur Vertragsabwicklung, Leistungserbringung und Abrechnung erforderlich ist. Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Unser berechtigtes Interesse folgt aus oben aufgelisteten Zwecken zur Datenerhebung. In keinem Fall verwenden wir die erhobenen Daten zu dem Zweck, Rückschlüsse auf Ihre Person zu ziehen.
 
@@ -86,7 +88,15 @@ Quelle: DAV-Muster Datenschutzerklärung
 
 ----
 
-Seo:
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seo: 
 
 -
   seo-title: "Datenschutz"

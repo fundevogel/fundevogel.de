@@ -1,0 +1,21 @@
+Titleattribute: "Ein Sommer in Sommerby" von Kirsten Boie
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Ein Sommer in Sommerby" von Kirsten Boie
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

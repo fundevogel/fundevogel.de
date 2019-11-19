@@ -1,0 +1,45 @@
+Title: HerbstLESE
+
+----
+
+Date: 2017-11-18
+
+----
+
+Location: Buchhandlung Fundevogel
+
+----
+
+Category: Präsentation und Vorstellung ausgewählter Neuerscheinungen
+
+----
+
+Text: 
+
+Dieser Abend besitzt im Fundevogel bereits Tradition! Aus der Vielzahl der Neuheiten haben wir für Sie eine Auswahl von empfehlenswerten Titeln getroffen, die wir Ihnen in einer gemütlichen Atmosphäre persönlich vorstellen. Sie sind herzlich eingeladen!
+
+*Der Eintritt ist frei. Wir bitten um Anmeldung!*
+
+----
+
+Begin-time: 19:00
+
+----
+
+End-time: 22:00
+
+----
+
+End-date: 2017-11-18
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

@@ -1,0 +1,41 @@
+Title: Büchertisch anlässlich der Lesung von Andreas Venzke
+
+----
+
+Date: 2017-10-17
+
+----
+
+Location: Schwarzwald-Stadion. Schwarzwaldstraße 193, 79117 Freiburg
+
+----
+
+Category: Lesung
+
+----
+
+Text: Büchertisch bei der Veranstaltung mit dem Füchsleclub des SC-Freiburg: »CARLOS KANN DOCH TORE SCHIESSEN«, Lesung mit Andreas Venzke.
+
+----
+
+Begin-time: 11:30
+
+----
+
+End-time: 12:30
+
+----
+
+End-date: 2017-10-17
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

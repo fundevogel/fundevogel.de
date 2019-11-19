@@ -1,0 +1,45 @@
+Title: Buchausstellung in der Kindertagesstätte Immergrün
+
+----
+
+Location: Kindertagesstätte Immergrün
+
+----
+
+Date: 2017-11-17
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-11-19
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

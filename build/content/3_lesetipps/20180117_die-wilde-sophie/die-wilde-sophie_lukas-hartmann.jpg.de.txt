@@ -1,0 +1,21 @@
+Titleattribute: "Die wilde Sophie" von Lukas Hartmann
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die wilde Sophie" von Lukas Hartmann
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Mein Freund Otto, das wilde Leben und ich" von Silke Lambeck
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Mein Freund Otto, das wilde Leben und ich" von Silke Lambeck
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Woodwalkers - Tag der Rache" von Katja Brandis
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Woodwalkers - Tag der Rache" von Katja Brandis
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

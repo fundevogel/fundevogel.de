@@ -1,0 +1,41 @@
+Title: Buchausstellung im Kinderhaus Bernhard von Baden
+
+----
+
+Date: 2019-11-25
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-11-29
+
+----
+
+Show-time: false
+
+----
+
+Multiple-days: true
+
+----
+
+Location: Kinderhaus Bernhard von Baden
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung

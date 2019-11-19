@@ -1,0 +1,45 @@
+Title: Buchausstellung im Waldkindergarten Buchenbach
+
+----
+
+Location: Waldkindergarten Buchenbach
+
+----
+
+Date: 2017-10-23
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-10-27
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

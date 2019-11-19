@@ -1,0 +1,46 @@
+Title: HerbstLESE
+
+----
+
+Date: 2019-11-09
+
+----
+
+Text:
+
+Alljährlich im Herbst ist es wieder so weit: Wir gehen gemeinsam mit euch auf Buchfühlung. Dieser Abend ist ganz den Neuerscheinungen des Bücherherbstes aus dem Bereich der Kinder- und Jugendliteratur gewidmet. Die Mitarbeiterinnen und Mitarbeiter des Fundevogels haben für euch aus der Flut der Neuerscheinungen eine Auswahl von empfehlenswerten Titeln getroffen. In gemütlicher Atmosphäre bei Sekt und Selters, Wein, Saft und Brezeln werden wir euch diese Bücher persönlich vorstellen und euch so einen individuell geprägten Überblick über die Neuheiten des Herbstes 2019 geben. *Lasst euch von uns in die Welt der Bücher entführen.*
+
+Alle sind herzlich eingeladen. Der Eintritt ist frei.
+Um Anmeldung wird gebeten.
+
+----
+
+Begin-time: 19:00
+
+----
+
+End-time: 21:00
+
+----
+
+End-date: 
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false
+
+----
+
+Location: 
+
+----
+
+Link: 
+
+----
+
+Category: Präsentation und Vorstellung ausgewählter Neuerscheinungen

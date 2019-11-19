@@ -1,0 +1,54 @@
+Title: Lesetipps
+
+----
+
+Text:
+
+## Unsere Empfehlungen
+Hier teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben. Im Archiv findet Ihr noch mehr Lieblingsbücher.
+
+Außerdem sammeln wir jedes Jahr im Herbst und Frühling eine Auswahl der Neuerscheinungen in einer Empfehlungsliste. Die aktuelle Liste bekommt Ihr als PDF durch nebenstehenden Link oder regelmäßig per Mail, wenn Ihr Euch in unseren Verteiler eintragen lasst.
+
+----
+
+Pdf-spring:
+
+- 2019-fruehjahr-buchempfehlungen.pdf
+
+----
+
+Pdf-autumn:
+
+- 2019-herbst-buchempfehlungen.pdf
+
+----
+
+Perpage-wanted: true
+
+----
+
+Perpage: 5
+
+----
+
+Seotitle: Lesetipps
+
+----
+
+Seodescription: Mit unseren aktuellen Empfehlungen teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben!
+
+----
+
+Fallback: - fallback.png
+
+----
+
+Handle: Lesetipps
+
+----
+
+Image-spring: lesetipps-fruehjahr.jpg
+
+----
+
+Image-autumn: lesetipps-herbst.jpg

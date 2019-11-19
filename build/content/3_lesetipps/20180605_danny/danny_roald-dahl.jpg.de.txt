@@ -1,0 +1,21 @@
+Titleattribute: "Danny oder Die Fasanenjagd" von Roald Dahl
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Danny oder Die Fasanenjagd" von Roald Dahl
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

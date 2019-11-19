@@ -1,0 +1,76 @@
+type: group
+fields:
+  line:
+    type: line
+    
+  autor:
+    label:
+      de: AutorIn
+      en: Author
+    type: text
+    width: 1/2
+
+  participants:
+    label:
+      de: Mitwirkende
+      en: Participants
+    type: text
+    width: 1/2
+
+  titel:
+    label:
+      de: Titel
+      en: Title
+    type: text
+    width: 1/2
+
+  untertitel:
+    label:
+      de: Untertitel
+      en: Subtitle
+    type: text
+    width: 1/2
+
+  verlag:
+    label:
+      de: Name des Verlags
+      en: Publishing company
+    type: text
+    width: 1/4
+
+  alter:
+    label:
+      de: Altersempfehlung
+      en: Age rating
+    type: text
+    width: 1/4
+
+  preis:
+    label:
+      de: Preis (ohne Euro / €)
+      en: Price (w/o Euro / €)
+    type: text
+    width: 1/4
+
+  binding:
+    label:
+      de: Einband
+      en: Binding
+    type: text
+    width: 1/4
+
+  categories:
+    label:
+      de: Kategorie(n)
+      en: Categories
+    type: tags
+    options: query
+    query: page.siblings.pluck("categories", ",", true)
+
+  tags:
+    label:
+      de: Schlagworte
+      en: Tags
+    type: tags
+    options: query
+    query: page.siblings.pluck("tags", ",", true)

@@ -1,0 +1,17 @@
+Titleattribute: Unsere Empfehlungen im Frühjahr
+
+----
+
+Edition: Frühjahr
+
+----
+
+Year: 2019
+
+----
+
+Altattribute: Coverbild unserer Frühjahrsempfehlungen
+
+----
+
+Template: pdf

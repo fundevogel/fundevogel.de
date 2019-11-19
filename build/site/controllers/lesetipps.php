@@ -1,17 +1,37 @@
 <?php
 
-return function($site, $pages, $page) {
+return function ($kirby, $page) {
+    $perPage   = $page->perpage()->int();
+    $lesetipps = $page->children()
+                      ->listed()
+                      ->flip()
+                      ->paginate(($perPage >= 1) ? $perPage : 5);
+    $pagination = $lesetipps->pagination();
 
-  $perpage   = $page->perpage()->int();
-  $lesetipps = $page->children()
-                    ->visible()
-                    ->flip()
-                    ->paginate(($perpage >= 1)? $perpage : 5);
-  $pagination = $lesetipps->pagination();
+    // $lang = $kirby->language()->code();
 
-  return compact(
-    'perpage',
-    'lesetipps',
-    'pagination'
-  );
+    // $archive = [
+    //     'de' => 'Archiv',
+    //     'en' => 'archive',
+    //     'fr' => 'télécharger'
+    // ];
+
+    // $text = str::replace(
+    //     $page->text()->kt(),
+    //     $archive[$lang],
+    //     '<a class="modal-toggle" data-toggle="archive" href="#">' . $archive[$lang] . '</a>'
+    // );
+
+    $fields = [
+        $page->content('de')->pdf_spring(),
+        $page->content('de')->pdf_autumn(),
+    ];
+
+    return compact(
+        // 'text',
+        'fields',
+        'perPage',
+        'lesetipps',
+        'pagination'
+    );
 };

@@ -1,0 +1,37 @@
+icon: document
+label:
+  de: Beiträge
+  en: Posts
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/articles
+        headline:
+          de: Entwürfe
+          en: Drafts
+        status: draft
+        layout: list
+
+  right:
+    width: 1/2
+    sections:
+      unlisted:
+        extends: sections/articles
+        headline:
+          de: Überarbeitung
+          en: In review
+        status: unlisted
+        layout: list
+
+  full:
+    width: 1/1
+    sections:
+      listed:
+        extends: sections/articles
+        headline:
+          de: Öffentlich
+          en: Published
+        status: listed

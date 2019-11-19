@@ -1,0 +1,44 @@
+Title: Büchertisch im Museum für Neue Kunst
+
+----
+
+Date: 2019-02-23
+
+----
+
+Location: Museum für Neue Kunst - direkt gegenüber vom Fundevogel
+
+----
+
+Category: Büchertisch
+
+----
+
+Text: 
+
+Große und kleine Lese-Fans aufgepasst! Am Samstag, 23. Februar, findet ab 15 Uhr im Museum für Neue Kunst ein Lesenachmittag mit Texten von Petra Gack statt. Alle Bücherwürmer dürfen sich auf die "Geschichte vom Gespenst Dibbeldabbel" freuen. Der Familiennachmittag wird von Mike Schweitzer am Saxofon und der Bassklarinette musikalisch begleitet. Wir vom Fundevogel sind mit einem Büchertisch rund um das Thema "Geister- und Gespenstergeschichten" mit dabei.
+Die Teilnahme an der Lesung kostet den regulären Museums-Eintritt.
+
+----
+
+Begin-time: 15:00
+
+----
+
+End-time: 16:00
+
+----
+
+End-date: 2019-02-23
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

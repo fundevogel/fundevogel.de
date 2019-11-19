@@ -1,0 +1,41 @@
+Title: Buchausstellung in der Kita Vauban
+
+----
+
+Date: 2019-11-18
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-11-22
+
+----
+
+Show-time: false
+
+----
+
+Multiple-days: true
+
+----
+
+Location: Kindertagesstätte Vauban
+
+----
+
+Link: 
+
+----
+
+Category: 
