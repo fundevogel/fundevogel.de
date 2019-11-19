@@ -1,0 +1,41 @@
+Title: Fête du livre / Bücherfest in der deutsch-französischen Grundschule
+
+----
+
+Date: 2017-11-25
+
+----
+
+Location: Deutsch-Französische Grundschule, Belchenstraße 2, 79115 Freiburg
+
+----
+
+Category: Büchertisch
+
+----
+
+Text: Anlässlich des deutsch-französischen Bücherfests präsentieren wir Ihnen eine Auswahl an französischen und bilingualen Bücher. Venez nombreux !
+
+----
+
+Begin-time: 12:00
+
+----
+
+End-time: 16:30
+
+----
+
+End-date: 2017-11-25
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

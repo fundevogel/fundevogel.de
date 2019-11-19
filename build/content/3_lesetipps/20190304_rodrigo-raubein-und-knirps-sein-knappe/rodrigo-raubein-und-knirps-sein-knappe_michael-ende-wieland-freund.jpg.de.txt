@@ -1,0 +1,21 @@
+Titleattribute: "Rodrigo Raubein und Knirps, sein Knappe" von Michael Ende; Wieland Freund
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Rodrigo Raubein und Knirps, sein Knappe" von Michael Ende; Wieland Freund
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,11 +1,20 @@
 <?php
 
-/*
- * Production settings
- */
+##
+# PRODUCTION SETTINGS
+##
 
-c::set('debug', false);
-c::set('thumbs.driver', 'gd');
-c::set('plugin.html.minifier.active', true);
-c::set('plugin.kirby-sri', true);
-c::set('cache', true);
+return [
+    // Deactivates debug mode
+    'debug' => false,
+
+    // Activates Caching
+    'cache' => [
+        'pages' => [
+            'active' => true,
+            // 'ignore' => function ($page) {
+            //     return $page->title()->value() !== 'Do not cache me';
+            // }
+        ]
+    ],
+];

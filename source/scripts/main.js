@@ -7,7 +7,7 @@ import Astro from 'Astro';
 import macy from 'macy';
 import Layzr from 'layzr.js';
 import InfiniteScroll from 'infinite-scroll';
-import { tns } from 'tiny-slider/src/tiny-slider.module';
+import {tns} from 'tiny-slider/src/tiny-slider.module';
 import 'lightgallery.js';
 
 
@@ -25,8 +25,8 @@ function featureDetection() {
 
 const lazyload = Layzr({
   normal: 'data-layzr',
-  threshold: 25
-})
+  threshold: 25,
+});
 
 function lightgalleryJS() {
   const galleries = document.getElementsByClassName('lightgallery');
@@ -35,7 +35,7 @@ function lightgalleryJS() {
       speed: 1000,
       hideBarsDelay: 5000,
       download: false,
-      counter: false
+      counter: false,
     });
   }
 }
@@ -63,20 +63,20 @@ Turbolinks.start();
 document.addEventListener('turbolinks:load', function() {
   featureDetection();
   astroJS();
-  lightgalleryJS();
   lazyload
     .update()
     .check()
     .handlers(true);
+  lightgalleryJS();
 
-  if (document.body.classList.contains('home')) {
+  if (document.body.classList.contains('news')) {
     const infScroll = new InfiniteScroll('.list', {
       path: '.load-more-target',
       append: '.post',
       history: false,
-      button: '.load-more',
-      scrollThreshold: false,
-      hideNav: '.load-more-target'
+      // button: '.load-more',
+      scrollThreshold: 100,
+      hideNav: '.load-more-target',
     });
 
     infScroll.on('append', function() {
@@ -88,7 +88,7 @@ document.addEventListener('turbolinks:load', function() {
       container: '.gallery',
       mode: 'gallery',
       speed: 1000,
-      lazyload: true,
+      // lazyload: true,
       autoplay: true,
       autoplayTimeout: 4000,
       autoplayHoverPause: true,
@@ -99,4 +99,4 @@ document.addEventListener('turbolinks:load', function() {
   } else if (document.body.classList.contains('unser-service') || document.body.classList.contains('unser-netzwerk')) {
     macyJS();
   }
-})
+});

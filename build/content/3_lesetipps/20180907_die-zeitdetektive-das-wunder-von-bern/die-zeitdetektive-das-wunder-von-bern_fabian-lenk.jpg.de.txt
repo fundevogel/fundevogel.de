@@ -1,0 +1,21 @@
+Titleattribute: "Die Zeitdetektive - Das Wunder von Bern" von Fabian Lenk
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Zeitdetektive - Das Wunder von Bern" von Fabian Lenk
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

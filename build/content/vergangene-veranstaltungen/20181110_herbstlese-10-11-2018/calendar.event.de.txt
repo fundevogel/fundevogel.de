@@ -1,0 +1,46 @@
+Title: HerbstLESE
+
+----
+
+Date: 2018-11-10
+
+----
+
+Location: Buchhandlung Fundevogel
+
+----
+
+Category: Präsentation und Vorstellung ausgewählter Neuerscheinungen
+
+----
+
+Text: 
+
+Dieser Abend besitzt im Fundevogel bereits Tradition und ist ganz den Neuerscheinungen des Bücherherbstes aus dem Bereich der Kinder- und Jugendliteratur gewidmet.
+Aus der Vielzahl der Neuheiten haben die Mitarbeiterinnen und Mitarbeiter des Fundevogels für Sie eine Auswahl von empfehlenswerten Titeln getroffen, die sie Ihnen in gemütlicher Atmosphäre bei Sekt und Selters, Wein, Saft und Brezeln persönlich vorstellen. Auf diese Weise möchte Ihnen unser Team einen individuell geprägten Überblick über die Neuheiten des Herbstes 2018 geben. Lassen Sie sich von uns in die Welt der Bücher entführen.
+Sie sind herzlich eingeladen. Der Eintritt ist frei.
+Um Anmeldung wird gebeten.
+
+----
+
+Begin-time: 19:00
+
+----
+
+End-time: 21:00
+
+----
+
+End-date: 2018-11-10
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

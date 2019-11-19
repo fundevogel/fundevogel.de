@@ -1,0 +1,21 @@
+Titleattribute: Lieber Barfuss als ohne Buch!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Zwei Stühle im Fundevogel vor großen Bücherregalen, die zum Verweilen einladen
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Lieber Barfuss als ohne Buch.
+
+----
+
+Template: image

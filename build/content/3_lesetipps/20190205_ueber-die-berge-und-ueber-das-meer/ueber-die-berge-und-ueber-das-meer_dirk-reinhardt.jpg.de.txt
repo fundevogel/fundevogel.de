@@ -1,0 +1,21 @@
+Titleattribute: "Über die Berge und über das Meer" von Dirk Reinhardt
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Über die Berge und über das Meer" von Dirk Reinhardt
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Timeless - Retter der verlorenen Zeit" von Armand Baltazar
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Timeless - Retter der verlorenen Zeit" von Armand Baltazar
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

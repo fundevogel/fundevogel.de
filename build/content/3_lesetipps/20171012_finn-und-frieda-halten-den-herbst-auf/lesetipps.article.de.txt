@@ -1,0 +1,89 @@
+Title: Finn und Frieda halten den Herbst auf
+
+----
+
+Text:
+
+Finn und Frieda lieben den Sommer, denn ein sonniger, heißer Tag mit Eis und Abenteuern im Garten folgt auf den nächsten.
+Doch eines Morgens wachen sie auf, und draußen ist es kalt und regnerisch. Die Blätter an den Bäumen haben sich bunt gefärbt, die Pflaumen sind fast reif und ein Drachen steigt am Horizont auf.
+Der Herbst ist da!
+Da beschließen die beiden, den Herbst einfach aufzuhalten.
+
+----
+
+Verdict: Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
+
+----
+
+Date: 2017-10-12
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 9783-8642-9395-5
+
+----
+
+Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf/63715/4099276460822233275/3000000198028/-3/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Autor: Martin Klein; Kerstin Meyer
+
+----
+
+Participants: 
+
+----
+
+Titel: Finn und Frieda halten den Herbst auf
+
+----
+
+Untertitel: Lesestufe B
+
+----
+
+Verlag: Tulipan
+
+----
+
+Alter: ab 7 Jahren
+
+----
+
+Preis: 8,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendlit.
+
+----
+
+Tags: Erstlesebuch, Herbst
+
+----
+
+Cover:
+
+- >
+  finn-und-frieda-halten-den-herbst-auf_martin-klein-kerstin-meyer.jpg
+
+----
+
+Seotitle: 18
+
+----
+
+Seodescription: 19

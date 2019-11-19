@@ -1,0 +1,68 @@
+title:
+  de: Lesetipps
+  en: Recommendations
+
+options: options/default
+
+tabs:
+  # Lesetipps
+  tab_articles:
+    extends: tabs/articles
+
+    columns:
+      left:
+        sections:
+          drafts:
+            template: lesetipps.article
+
+      right:
+        sections:
+          unlisted:
+            template: lesetipps.article
+
+      full:
+        sections:
+          listed:
+            template: lesetipps.article
+            text: "{{ page.autor }}: {{ page.titel }}"
+            info: "{{ page.date.toDate('d.m.Y') }}"
+
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+
+      create_metadata:
+        type: janitor
+        label:
+          de: Infos generieren
+          en: Generate metadata
+        progress: Durchsuchen ..
+        job: createMetadata
+
+      pdf_spring:
+        extends: fields/single-pdf
+        label:
+          de: Frühjahrsausgabe
+          en: Spring edition
+        width: 1/2
+
+      pdf_autumn:
+        extends: fields/single-pdf
+        label:
+          de: Herbstausgabe
+          en: Autumn edition
+        width: 1/2
+
+    sidebar:
+      sidebar_fields:
+        fields:
+          limit_perpage: fields/groups/limit-perpage
+
+      sidebar_files: sections/documents
+
+  # Metadata
+  tab_seo: tabs/seo

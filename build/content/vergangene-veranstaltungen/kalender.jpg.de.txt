@@ -1,0 +1,21 @@
+Titleattribute: Wir freuen uns auf Ihren Besuch!
+
+----
+
+Source: 
+
+----
+
+Altattribute: Schild mit Logo an der Außenwand des Fundevogels
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Im Fundevogel war viel los - kommen Sie wieder vorbei!
+
+----
+
+Template: image

@@ -1,0 +1,84 @@
+Title: Ich mag ... schaukeln, malen, Fußball, Krach
+
+----
+
+Text: Constanze von Kitzing hat wunderbare Illustrationen geschaffen, die erkennen lassen, was die einzelnen Kinder auf den Pappseiten dieses kleinen Buches besonders gerne mögen. Die Bilder regen die Vorstellungskraft an und laden zum Mitraten ein. Jedes Umblättern wird zum Überraschungsmoment. Große Baustellen und dicke Kletterbäume, bunte Fundstücke und leckere Spaghetti … und was magst du?
+
+----
+
+Verdict: Ich mag ... das Buch!
+
+----
+
+Date: 2016-07-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion:
+
+----
+
+Isbn: 978-3-551-17061-3
+
+----
+
+Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach/63715/4099276460822233275/4099276460851007401/-3/4099276460822241241/%204099276460822241224/%204099276460822241224
+
+----
+
+Autor: Constanze von Kitzing
+
+----
+
+Participants:
+
+----
+
+Titel: Ich mag ... schaukeln, malen, Fußball, Krach
+
+----
+
+Untertitel:
+
+----
+
+Verlag: Carlsen
+
+----
+
+Alter: ab 3 Jahren
+
+----
+
+Preis: 12,99
+
+----
+
+Binding: Pappband
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Tags: Papp-Bilderbuch, Selbstbewusstsein, Toleranz
+
+----
+
+Cover:
+
+- >
+  ich-mag-schaukeln-malen-fussball-krach_constanze-von-kitzing.jpg
+
+----
+
+Seotitle:
+
+----
+
+Seodescription:

@@ -1,31 +1,45 @@
-yarn.lock
-node_modules
-build/assets/*
-!build/assets/panel.css
-!build/assets/font-loading.js
+# System files
+# ------------
 
+Icon
+.DS_Store
+
+# Development
+# -----
+
+/node_modules
+/build/vendor
 
 # Temporary files
 # ---------------
 
-build/thumbs/*
-!build/thumbs/index.html
+/build/composer.lock
+/yarn.lock
 
-build/site/cache/*
-!build/site/cache/index.html
+/build/public/media
+/build/public/assets
+/build/public/favicons
+/source/images/favicons
+/build/site/logs
+/build/site/snippets/generated
 
+# Plugins
+# ---------------
+/build/site/plugins/*
+!/build/site/plugins/fv-*
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
-# Kirby accounts
+# Accounts + Cache + Sessions
 # ---------------
+/build/storage
 
-build/site/accounts/*
-!build/site/accounts/index.html
+# Login credentials
+# ---------------
+/build/site/config/*.json
 
 # License
 # ---------------
-
-build/site/config/license.php
+/build/site/config/.license

@@ -1,0 +1,21 @@
+Titleattribute: "Artus" von Ilka Sokolowski
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Artus" von Ilka Sokolowski
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

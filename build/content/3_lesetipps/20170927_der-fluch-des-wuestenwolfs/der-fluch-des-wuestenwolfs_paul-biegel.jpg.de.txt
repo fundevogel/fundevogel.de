@@ -1,0 +1,21 @@
+Titleattribute: "Der Fluch des Wüstenwolfs" von Paul Biegel
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Der Fluch des Wüstenwolfs" von Paul Biegel
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

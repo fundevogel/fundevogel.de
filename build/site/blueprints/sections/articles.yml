@@ -1,0 +1,11 @@
+headline:
+  de: Beiträge
+  en: Posts
+type: pages
+sortBy: date desc
+info: "{{ page.date.toDate('d.m.Y') }}"
+image:
+  ratio: 2/3
+  cover: true
+layout: cards
+size: tiny

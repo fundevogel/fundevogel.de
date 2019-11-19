@@ -1,0 +1,21 @@
+Titleattribute: "Esperanza" von Jakob Wegelius
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Esperanza" von Jakob Wegelius
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

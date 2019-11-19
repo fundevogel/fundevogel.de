@@ -1,0 +1,45 @@
+Title: Adventsausstellung in der Oberlin Grundschule
+
+----
+
+Location: Oberlin Schule in Freiburg
+
+----
+
+Date: 2017-12-01
+
+----
+
+Link: 
+
+----
+
+Category: Schulinterne Veranstaltung
+
+----
+
+Text: Zum Adventscafé präsentiert der Fundevogel einen bunten Strauß von Büchern.
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-12-02
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

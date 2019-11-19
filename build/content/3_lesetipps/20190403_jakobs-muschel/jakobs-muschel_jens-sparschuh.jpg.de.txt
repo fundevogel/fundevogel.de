@@ -1,0 +1,21 @@
+Titleattribute: "Jakobs Muschel" von Jens Sparschuh
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Jakobs Muschel" von Jens Sparschuh
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

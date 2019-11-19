@@ -1,0 +1,45 @@
+Title: Büchertisch in der Grundschule Hugstetten
+
+----
+
+Location: Grundschule Hugstetten
+
+----
+
+Date: 2019-04-02
+
+----
+
+Link: 
+
+----
+
+Category: Schulinterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2019-04-06
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

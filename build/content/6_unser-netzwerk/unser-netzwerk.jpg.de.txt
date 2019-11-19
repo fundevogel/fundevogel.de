@@ -1,0 +1,21 @@
+Titleattribute: 
+
+----
+
+Altattribute: Sechs bunte Spielfiguren stehen auf dem Buch Ronja Räubertochter
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen
+
+----
+
+Source: 
+
+----
+
+Template: image

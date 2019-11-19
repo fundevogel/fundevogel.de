@@ -1,0 +1,45 @@
+Title: Buchausstellung im Kindergarten Westarkaden
+
+----
+
+Location: Kindergarten Westarkaden
+
+----
+
+Date: 2017-11-20
+
+----
+
+Link: 
+
+----
+
+Category: Kindergarteninterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-11-23
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

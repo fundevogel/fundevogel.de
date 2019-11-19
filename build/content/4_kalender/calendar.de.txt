@@ -1,0 +1,68 @@
+Title: Kalender
+
+----
+
+Text:
+
+## Wir freuen uns auf Sie
+Hier findet ihr alle Informationen zu den aktuellen Veranstaltungen des Fundevogels.
+
+Wenn ihr sehen wollt, was wir in der Vergangenheit so auf die Beine gestellt haben, dann schaut doch mal vorbei in unserem (link: /vergangene-veranstaltungen text: Archiv).
+
+----
+
+Perpage-wanted: true
+
+----
+
+Perpage: 10
+
+----
+
+Cover:
+
+- kalender.jpg
+
+----
+
+Seotitle: Unser Veranstaltungskalender
+
+----
+
+Seodescription: Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!
+
+----
+
+Date: 2017-02-10
+
+----
+
+Webcal-text: Abonnieren Sie unsere Veranstaltungen!
+
+----
+
+Timezone: Europe/Berlin
+
+----
+
+Subtitle: Alle Veranstaltungen im Überblick
+
+----
+
+Handle: Kalender
+
+----
+
+Button: Vergangene Veranstaltungen
+
+----
+
+Seo:
+
+-
+  seo-title: "Veranstaltungskalender"
+  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"
+
+----
+
+Translations: 1

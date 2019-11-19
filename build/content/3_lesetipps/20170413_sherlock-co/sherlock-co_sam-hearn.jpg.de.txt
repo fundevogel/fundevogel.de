@@ -1,0 +1,21 @@
+Titleattribute: "Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber" von Sam Hearn
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber" von Sam Hearn
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

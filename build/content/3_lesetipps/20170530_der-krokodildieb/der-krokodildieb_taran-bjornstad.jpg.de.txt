@@ -1,0 +1,21 @@
+Titleattribute: "Der Krokodildieb" von Taran Bjørnstad
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Der Krokodildieb" von Taran Bjørnstad
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

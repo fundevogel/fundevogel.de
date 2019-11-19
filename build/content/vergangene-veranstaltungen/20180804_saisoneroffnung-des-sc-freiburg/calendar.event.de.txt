@@ -1,0 +1,45 @@
+Title: Saisoneröffnung des SC Freiburg
+
+----
+
+Date: 2018-08-04
+
+----
+
+Location: Schwarzwald-Stadion
+
+----
+
+Category: Feier / Fest
+
+----
+
+Text: 
+
+Am Samstag, den 04. August 2018 findet zum Start der Fußballsaison 2018/2019 im Schwarzwaldstadion ein großes Fest statt. Die Saisoneröffnung des SC Freiburg wird mit einem bunten Rahmenprogramm von 11:00 bis 16:00 Uhr gefeiert. Als Partner des Füchsleclubs ist der Fundevogel im Stadion mit einer Bücher- und Leseecke rund um den Fußball und anderen Themen dabei. Um 16:00 Uhr ist dann Anpfiff des Spiels der beiden Traditionsmannschaften des SC Freiburg und des FC Bayern München.
+
+Wir freuen uns schon jetzt auf ein schönes Stadionfest und ein spannendes Jubiläumsspiel!
+
+----
+
+Begin-time: 11:00
+
+----
+
+End-time: 16:00
+
+----
+
+End-date: 2018-08-04
+
+----
+
+Draft: 1
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

@@ -1,0 +1,41 @@
+Title: Ulrich Hub im Fundevogel
+
+----
+
+Location: Buchhandlung Fundevogel
+
+----
+
+Date: 2019-10-12
+
+----
+
+Link: 
+
+----
+
+Category: Lirum Larum Lesefest
+
+----
+
+Text: Im Rahmen des Lirum Larum Lesefestes werden wir dieses Jahr den den Schriftsteller **Ulrich Hub** bei uns begrüßen dürfen. Nähere Informationen zu der Veranstaltung folgen in Kürze an dieser Stelle.
+
+----
+
+Begin-time: 15:00
+
+----
+
+End-time: 16:30
+
+----
+
+End-date: 
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

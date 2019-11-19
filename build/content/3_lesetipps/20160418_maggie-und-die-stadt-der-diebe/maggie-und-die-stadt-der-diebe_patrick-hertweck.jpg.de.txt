@@ -1,0 +1,21 @@
+Titleattribute: "Maggie und die Stadt der Diebe" von Patrick Hertweck
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Maggie und die Stadt der Diebe" von Patrick Hertweck
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

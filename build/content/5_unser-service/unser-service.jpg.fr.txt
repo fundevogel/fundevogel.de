@@ -1,0 +1,21 @@
+Titleattribute: 
+
+----
+
+Source: 
+
+----
+
+Altattribute: Zitat von Tschingis Aitmatow an unserer Tür
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Franchis cette porte et entre dans le monde des livres!
+
+----
+
+Template: image

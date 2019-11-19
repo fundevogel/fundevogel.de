@@ -2,10 +2,10 @@
 
 <header class="wrap">
   <div class="one-half--wide">
-    <?= $page->fundevogel()->kt() ?>
+    <?= $page->text()->kt() ?>
   </div>
   <div class="one-half--wide teaser">
-    <?php snippet('cover/gallery') ?>
+    <?php snippet('templates/fundevogel/lightgallery') ?>
   </div>
 </header>
 <hr>

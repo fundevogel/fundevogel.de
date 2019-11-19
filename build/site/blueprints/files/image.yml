@@ -1,0 +1,48 @@
+title:
+  de: Bild
+  en: Image
+extends: tabs/default
+
+accept: image/jpeg, image/png
+
+columns:
+  column_main:
+    sections:
+      section_fields:
+        type: fields
+        fields:
+          titleAttribute:
+            extends: fields/files/title
+            width: 2/3
+
+          source:
+            label:
+              de: Quelle
+              en: Source
+            type: select
+            options:
+              - Deutsche Nationalbibliothek
+              - Koch, Neff & Volckmar GmbH
+              - Eigenmaterial
+            icon: quote
+            width: 1/3
+
+          altAttribute:
+            extends: fields/files/alt
+
+          caption_wanted:
+            extends: fields/toggle
+            label:
+              de: Bildunterschrift?
+              en: Caption?
+            width: 1/3
+
+          caption:
+            extends: fields/files/caption
+            width: 2/3
+            when:
+              caption_wanted: true
+
+  column_sidebar:
+    sections:
+      info: sections/info-ux

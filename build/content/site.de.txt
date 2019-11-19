@@ -7,3 +7,9 @@ Mail: info@fundevogel.de
 ----
 
 Shop: http://shop.fundevogel.de
+
+----
+
+Fallback: 
+
+- fallback.png

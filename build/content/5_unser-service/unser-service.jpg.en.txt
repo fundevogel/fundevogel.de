@@ -1,0 +1,9 @@
+Template: image
+
+----
+
+Caption: Enter the world of books!
+
+----
+
+AltAttribute: Quote from Chinghiz Aitmatov at our front door

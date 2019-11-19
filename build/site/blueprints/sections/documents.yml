@@ -1,0 +1,9 @@
+headline:
+  de: Dokumente
+  en: Documents
+type: files
+sortBy: year desc edition desc
+text: "{{ file.edition }} ({{ file.year }})"
+template: pdf
+create: pdf
+info: "{{ file.niceSize }}"

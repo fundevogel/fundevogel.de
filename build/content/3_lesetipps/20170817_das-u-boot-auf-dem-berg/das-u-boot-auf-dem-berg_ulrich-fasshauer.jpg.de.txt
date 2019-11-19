@@ -1,0 +1,25 @@
+Titleattribute: "Das U-Boot auf dem Berg" von Ulrich Fasshauer
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Das U-Boot auf dem Berg" von Ulrich Fasshauer
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Template: image

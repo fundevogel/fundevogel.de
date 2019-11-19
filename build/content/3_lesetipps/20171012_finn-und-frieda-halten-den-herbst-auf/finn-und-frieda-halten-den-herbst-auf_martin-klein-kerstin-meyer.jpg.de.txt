@@ -1,0 +1,21 @@
+Titleattribute: "Finn und Frieda halten den Herbst auf" von Martin Klein; Kerstin Meyer
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Finn und Frieda halten den Herbst auf" von Martin Klein; Kerstin Meyer
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

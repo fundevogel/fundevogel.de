@@ -1,0 +1,21 @@
+Titleattribute: "Edison" von Torben Kuhlmann
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Edison" von Torben Kuhlmann
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

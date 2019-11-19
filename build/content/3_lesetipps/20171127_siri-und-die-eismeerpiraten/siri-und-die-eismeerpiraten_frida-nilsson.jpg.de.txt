@@ -1,0 +1,25 @@
+Titleattribute: "Siri und die Eismeerpiraten" von Frida Nilsson
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Siri und die Eismeerpiraten" von Frida Nilsson
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Template: image

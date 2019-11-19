@@ -1,0 +1,21 @@
+Titleattribute: "Kleeblattsommer" von Christian Wiik Gjerde
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Kleeblattsommer" von Christian Wiik Gjerde
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

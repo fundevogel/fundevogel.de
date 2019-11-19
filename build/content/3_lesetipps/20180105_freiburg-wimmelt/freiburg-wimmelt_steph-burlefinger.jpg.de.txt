@@ -1,0 +1,21 @@
+Titleattribute: "Freiburg wimmelt" von Steph Burlefinger
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Freiburg wimmelt" von Steph Burlefinger
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

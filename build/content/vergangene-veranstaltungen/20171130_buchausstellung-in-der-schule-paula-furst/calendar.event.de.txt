@@ -1,0 +1,45 @@
+Title: Buchausstellung in der Schule Paula Fürst
+
+----
+
+Location: Schule Paula Fürst
+
+----
+
+Date: 2017-11-30
+
+----
+
+Link: 
+
+----
+
+Category: Schulinterne Veranstaltung
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 2017-12-01
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: true
+
+----
+
+Draft: 1

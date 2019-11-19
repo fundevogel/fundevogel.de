@@ -1,0 +1,21 @@
+Titleattribute: 
+
+----
+
+Source: 
+
+----
+
+Altattribute: Zitat von Tschingis Aitmatow an unserer Tür
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Durch diese Tür gelangst du bei uns in die Welt der Bücher
+
+----
+
+Template: image

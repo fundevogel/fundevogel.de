@@ -1,0 +1,54 @@
+title:
+  de: Startseite
+  en: Home
+
+options: options/default
+
+tabs:
+  tab_articles:
+    extends: tabs/articles
+
+    columns:
+      left:
+        sections:
+          drafts:
+            template: news.article
+
+      right:
+        sections:
+          unlisted:
+            template: news.article
+
+      full:
+        sections:
+          listed:
+            template: news.article
+            image:
+              ratio: 1/1
+
+  tab_content:
+    extends: tabs/default
+
+    columns:
+      column_main:
+        sections:
+          main_fields:
+            type: fields
+            fields:
+              text:
+                label: Text
+                type: textarea
+
+      column_sidebar:
+        sections:
+          sidebar_fields:
+            type: fields
+            fields:
+              limit_perpage: fields/groups/limit-perpage
+
+              cover:
+                extends: fields/single-cover
+                disabled: true
+
+  # Metadata
+  tab_seo: tabs/seo

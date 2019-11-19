@@ -1,0 +1,25 @@
+Title: Animations passées
+
+----
+
+Text:
+
+----
+
+Subtitle: Alle vergangenen Veranstaltungen im Überblick
+
+----
+
+Button: Kommende Veranstaltungen
+
+----
+
+Translations: 1
+
+----
+
+Seo:
+
+----
+
+slug: animations-passees

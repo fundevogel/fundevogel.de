@@ -1,0 +1,21 @@
+Titleattribute: "Dunkles Gold" von Mirjam Pressler
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Dunkles Gold" von Mirjam Pressler
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

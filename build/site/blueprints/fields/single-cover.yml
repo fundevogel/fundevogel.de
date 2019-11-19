@@ -1,0 +1,9 @@
+label: Cover
+type: files
+query: page.images
+layout: cards
+multiple: false
+image:
+  ratio: 2/1
+  cover: true
+info: "{{ file.dimensions }} ({{ file.niceSize }})"

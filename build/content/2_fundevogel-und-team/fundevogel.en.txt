@@ -1,0 +1,57 @@
+Title: Fundevogel & Team
+
+----
+
+Text:
+
+## Fundevogel,
+... is the title of a fairytale of the Brothers Grimm. It is about two children who grow up together and who swear eternal fidelity to each other.
+
+> Then Lina said to Fundevogel, "If thou wilt never leave me, I too will never leave thee." Fundevogel said, "Neither now, nor ever will I leave thee.
+
+And such loyalty we wish not only among our team but also among our neighbors, friends and visitors.
+
+----
+
+About-us:
+
+### About Us
+We are a varied team consisting of booksellers, pedagogues and freelancers. At the beginning, in the middle of the eighties, there was a group of young people with great ideas and the love for books. Especially motivated by the work of Michael Ende, they wanted to take the world of children's and juvenile literature seriously and open up a little universe on the threshold of the Freiburger Old Town through a special store. Still remained has the store, the love and the idea: One, who stayed and others who came and come and with whose ideas the Fundevogel is able to grow new wings. As different as we are we do not always meet at the same point but hand in hand we form a circle in which we feel safe and sound -  an hopefully you will too!
+
+----
+
+Left:
+
+### Rather bare-foot than bare-book
+Children, too, notice whether they hold a book in their hand that touches and appeals to them. And even adults let themselves getting fascinated and taken away by children’s and juvenile literature. For many years we have experienced it now in our book store and therefore we don't want to make a difference between young and old alike.
+
+----
+
+Right:
+
+### Books open worlds
+That's what we are convinced of. We also believe that everyone seeks a different world in different ways. For this reason it is important to us to give the most possible individual consultation. In doing so firstly, we try to read most of what we recommend to you and secondly we would like to respect the reading preference of each and every person in our consultation.
+
+----
+
+Handle: Fundevogel
+
+----
+
+Caption: Come have a look!
+
+----
+
+Seo:
+
+-
+  seo-title: "Fundevogel & Team"
+  seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
+
+----
+
+Translations: 1
+
+----
+
+slug: fundevogel-and-team

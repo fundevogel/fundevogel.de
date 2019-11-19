@@ -1,0 +1,48 @@
+Title: Vergangene Veranstaltungen
+
+----
+
+Text:
+
+## Wir haben uns gefreut!
+Hier findet ihr alle Informationen zu den vergangenen Veranstaltungen des Fundevogels.
+
+Wenn ihr sehen wollt, welche aktuellen Veranstaltungen wir auf die Beine stellen, dann schaut doch mal vorbei in unserem (link: kalender text: Kalender).
+
+----
+
+Perpage-wanted: true
+
+----
+
+Perpage: 10
+
+----
+
+Cover:
+
+- kalender.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Subtitle: Alle vergangenen Veranstaltungen im Überblick
+
+----
+
+Button: Kommende Veranstaltungen
+
+----
+
+Translations: 1
+
+----
+
+Seo: 

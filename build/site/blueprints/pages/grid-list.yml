@@ -1,0 +1,36 @@
+title:
+  de: Standard (mit Liste)
+  en: Grid list
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+        text:
+          label: Text
+          type: textarea
+
+        cards:
+          label:
+            de: Einträge
+            en: Entries
+          type: structure
+          fields:
+            entry:
+              label: Text
+              type: textarea
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+  # Metadata
+  tab_seo: tabs/seo

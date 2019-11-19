@@ -2,12 +2,12 @@ Title: Impressum
 
 ----
 
-Left: 
+Left:
 
 Kinder- und Jugendbuchhandlung
 Marienstr. 13
 79098 Freiburg i. Br.
-
+<a href="https://www.freepik.com/free-photos-vectors/car">Car vector created by 3ab2ou - www.freepik.com</a>https://www.freepik.com/3ab2ou
 Telefon: 0761 / 25218
 Telefax: 0761 / 30041
 E-Mail: info@fundevogel.de
@@ -19,7 +19,7 @@ Alle Bilder unserer "Lesetipps" stammen, soweit nicht anders angegeben, aus dem 
 
 ----
 
-Right: 
+Right:
 
 Inhaber: Claus-Peter Jepsen
 Bankverbindung:
@@ -34,11 +34,11 @@ Handelsregisternummer: Nicht benötigt
 Umsatzsteuer-ID: DE 142035994
 Steuernummer: 06112/49132 - Finanzamt Freiburg-Stadt
 
-Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers popup: yes).
+Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers target: blank).
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Impressum"

@@ -1,0 +1,33 @@
+title:
+  de: Neues aus dem FV
+  en: News room
+
+num: '{{ page.date.toDate("Ymd") }}'
+
+options: options/article
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      subtitle_wanted:
+        extends: fields/toggle
+        label:
+          de: Mit Unterittel?
+          en: Include subtitle?
+        width: 1/3
+
+      subtitle:
+        label:
+          de: Untertitel
+          en: Subtitle
+        type: text
+        width: 2/3
+        when:
+          subtitle_wanted: true
+
+    sidebar:
+      sidebar_fields:
+        fields:
+          date: fields/date
