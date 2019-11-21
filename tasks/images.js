@@ -15,7 +15,6 @@ const
   newer = require('gulp-newer'),
   rename = require('gulp-rename'),
   svg = require('gulp-svgstore')
-  // svgmin = require('gulp-svgmin')
 ;
 
 
@@ -48,8 +47,7 @@ function combineIcons() {
 
   return src(iconsSource)
     .pipe(newer(conf.dist.icons))
-    // TODO: Minifying currently destroys `en` flag icon ..
-    // .pipe(svgmin(conf.icons.minify))
+    .pipe(imagemin(conf.images.minify))
     .pipe(svg({inlineSvg: conf.icons.inline})) // See https://github.com/w0rm/gulp-svgstore#options
     .pipe(rename(conf.icons.output))
     .pipe(dest(conf.dist.icons));
