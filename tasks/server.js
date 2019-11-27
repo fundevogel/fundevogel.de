@@ -5,11 +5,11 @@ Development / Deployment
 */
 
 const
-  {parallel} = require('gulp'),
-  conf = require('../config'),
+    {parallel} = require('gulp'),
+    conf = require('../config'),
 
-  browserSync = require('browser-sync').init,
-  php = require('gulp-connect-php')
+    browserSync = require('browser-sync').init,
+    php = require('gulp-connect-php')
 ;
 
 
@@ -18,7 +18,7 @@ const
  */
 
 function connect() {
-  php.server(conf.server.connect);
+    php.server(conf.server.connect);
 }
 
 
@@ -27,7 +27,7 @@ function connect() {
  */
 
 function livereload() {
-  browserSync.init(conf.browsersync);
+    browserSync.init(conf.browsersync);
 }
 
 
@@ -36,10 +36,10 @@ function livereload() {
  */
 
 if (conf.server.enable) {
-  exports.server = parallel(
-    connect,
-    livereload
-  );
+    exports.server = parallel(
+        connect,
+        livereload
+    );
 } else {
-  exports.server = livereload;
+    exports.server = livereload;
 }

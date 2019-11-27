@@ -5,16 +5,16 @@ Assets - Scripts
 */
 
 const
-  {src, dest, series, lastRun} = require('gulp'),
-  conf = require('../config'),
+    {src, dest, series, lastRun} = require('gulp'),
+    conf = require('../config'),
 
-  babel = require('gulp-babel'),
-  browserSync = require('browser-sync').init,
-  eslint = require('gulp-eslint'),
-  named = require('vinyl-named'),
-  rename = require('gulp-rename'),
-  uglify = require('gulp-uglify'),
-  webpack = require('webpack-stream')
+    babel = require('gulp-babel'),
+    browserSync = require('browser-sync').init,
+    eslint = require('gulp-eslint'),
+    named = require('vinyl-named'),
+    rename = require('gulp-rename'),
+    uglify = require('gulp-uglify'),
+    webpack = require('webpack-stream')
 ;
 
 
@@ -23,13 +23,13 @@ const
  */
 
 function lintScripts() {
-  const lintSource = [
-    conf.src.scripts + '/**/*.js',
-  ];
+    const lintSource = [
+        conf.src.scripts + '/**/*.js',
+    ];
 
-  return src(lintSource, {since: lastRun(lintScripts)})
-    .pipe(eslint(conf.scripts.linting))
-    .pipe(eslint.format());
+    return src(lintSource, {since: lastRun(lintScripts)})
+        .pipe(eslint(conf.scripts.linting))
+        .pipe(eslint.format());
 }
 
 
@@ -38,17 +38,17 @@ function lintScripts() {
  */
 
 function makeScripts() {
-  const scriptsSource = [
-    conf.src.scripts + '/' + conf.scripts.input,
-  ];
+    const scriptsSource = [
+        conf.src.scripts + '/' + conf.scripts.input,
+    ];
 
-  return src(scriptsSource, {sourcemaps: conf.sourcemaps.enable})
-    .pipe(named())
-    .pipe(webpack(conf.scripts.webpack))
-    .pipe(babel(conf.scripts.babel))
-    .pipe(dest(conf.dist.scripts, {sourcemaps: conf.sourcemaps.path}))
-    .pipe(browserSync.stream())
-  ;
+    return src(scriptsSource, {sourcemaps: conf.sourcemaps.enable})
+        .pipe(named())
+        .pipe(webpack(conf.scripts.webpack))
+        .pipe(babel(conf.scripts.babel))
+        .pipe(dest(conf.dist.scripts, {sourcemaps: conf.sourcemaps.path}))
+        .pipe(browserSync.stream())
+    ;
 }
 
 
@@ -57,15 +57,15 @@ function makeScripts() {
  */
 
 function minifyScripts() {
-  const minifySource = [
-    conf.dist.scripts + '/**/*.js',
-  ];
+    const minifySource = [
+        conf.dist.scripts + '/**/*.js',
+    ];
 
-  return src(minifySource, {sourcemaps: conf.sourcemaps.enable})
-    .pipe(uglify())
-    .pipe(rename({suffix: '.min'}))
-    .pipe(dest(conf.dist.scripts, {sourcemaps: conf.sourcemaps.path}))
-  ;
+    return src(minifySource, {sourcemaps: conf.sourcemaps.enable})
+        .pipe(uglify())
+        .pipe(rename({suffix: '.min'}))
+        .pipe(dest(conf.dist.scripts, {sourcemaps: conf.sourcemaps.path}))
+    ;
 }
 
 
@@ -74,7 +74,7 @@ function minifyScripts() {
  */
 
 if (process.env.NODE_ENV === 'production') {
-  exports.scripts = series(makeScripts, minifyScripts);
+    exports.scripts = series(makeScripts, minifyScripts);
 } else {
-  exports.scripts = series(lintScripts, makeScripts);
+    exports.scripts = series(lintScripts, makeScripts);
 }

@@ -81,7 +81,7 @@
       "sourceType": "module"
     },
     "rules": {
-      "indent": ["error", 2],
+      "indent": ["error", 4],
       "max-len": ["warn", {"ignoreComments": true}],
       "require-jsdoc": ["off"],
       "one-var": ["off"]

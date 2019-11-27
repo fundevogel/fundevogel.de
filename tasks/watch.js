@@ -5,15 +5,15 @@ Monitoring
 */
 
 const
-  {watch, parallel} = require('gulp'),
-  conf = require('../config'),
+    {watch, parallel} = require('gulp'),
+    conf = require('../config'),
 
-  {styles} = require('./styles.js'),
-  {scripts} = require('./scripts.js'),
-  {images} = require('./images.js'),
-  {fonts} = require('./fonts.js'),
+    {styles} = require('./styles.js'),
+    {scripts} = require('./scripts.js'),
+    {images} = require('./images.js'),
+    {fonts} = require('./fonts.js'),
 
-  browserSync = require('browser-sync').init
+    browserSync = require('browser-sync').init
 ;
 
 
@@ -22,8 +22,8 @@ const
  */
 
 function reload(done) {
-  browserSync.reload();
-  done();
+    browserSync.reload();
+    done();
 }
 
 
@@ -32,23 +32,23 @@ function reload(done) {
  */
 
 function watchStyles() {
-  watch(conf.src.styles + '/**/*.scss', styles);
+    watch(conf.src.styles + '/**/*.scss', styles);
 }
 
 function watchScripts() {
-  watch(conf.src.scripts + '/**/*.js', scripts);
+    watch(conf.src.scripts + '/**/*.js', scripts);
 }
 
 function watchImages() {
-  watch(conf.src.images + '/**/*', images);
+    watch(conf.src.images + '/**/*', images);
 }
 
 function watchFonts() {
-  watch(conf.src.fonts + '/**/*', fonts);
+    watch(conf.src.fonts + '/**/*', fonts);
 }
 
 function watchCode() {
-  watch(conf.watch.code, reload);
+    watch(conf.watch.code, reload);
 }
 
 
@@ -57,9 +57,9 @@ function watchCode() {
  */
 
 exports.watch = parallel(
-  watchStyles,
-  watchScripts,
-  watchImages,
-  watchFonts,
-  watchCode
+    watchStyles,
+    watchScripts,
+    watchImages,
+    watchFonts,
+    watchCode
 );
