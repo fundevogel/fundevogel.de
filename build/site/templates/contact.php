@@ -5,7 +5,7 @@
     <?= $page->kontaktinfos()->kt() ?>
     <?= $page->oeffnungszeiten()->kt() ?>
   </div>
-  <div class="one-half lightgallery">
+  <div class="one-half">
     <?php snippet('templates/contact.map') ?>
   </div>
 </section>
