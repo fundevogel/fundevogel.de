@@ -33,7 +33,7 @@ services:
       - 80:80
     volumes:
       - sock:/sock
-      - ./build/public:/app/public
+      - ./build/public:/app/public:ro
     depends_on:
       - php
     networks:
@@ -46,4 +46,3 @@ volumes:
 networks:
   php-net:
     driver: bridge
-
