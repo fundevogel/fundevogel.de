@@ -1,0 +1,18 @@
+/*
+ * Importing SASS 'base' partials
+ */
+
+@import
+  'partials/globals',
+  'partials/fonts',
+  'partials/grid',
+  'partials/typography',
+  'partials/colors',
+  'partials/buttons',
+  'partials/animations',
+  // 'partials/forms',
+  'partials/lists',
+  'partials/media',
+  // 'partials/tables',
+  'partials/visibility'
+;

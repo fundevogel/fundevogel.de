@@ -1,0 +1,15 @@
+@import '../../../../node_modules/tiny-slider/src/tiny-slider';
+
+.fig--slider {
+  display: none;
+
+  .js & {
+    display: inline-block;
+    max-width: 460px;
+    width: 100%;
+  }
+
+  figcaption {
+    cursor: pointer;
+  }
+}

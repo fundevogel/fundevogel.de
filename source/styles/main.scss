@@ -1,39 +1,12 @@
 /*
- * Importing all Sass partials
+ * Importing global SASS partials
  */
 
 @import
-  'vendor/bourbon/bourbon',
-  'vendor/susy/susy',
-  'utility/helpers',
-  'utility/susy-map',
-  'utility/variables',
-  'base/globals',
-  'base/fonts',
-  'base/grid',
-  'base/typography',
-  'base/colors',
-  'base/buttons',
-  'base/animations',
-  // 'base/forms',
-  'base/lists',
-  'base/media',
-  // 'base/tables',
-  'base/visibility',
-  'layout/header',
-  'layout/content',
-  'layout/navigation',
-  'layout/footer',
-  'modules/spread-out',
-  'modules/cards',
-  'modules/figures',
-  'modules/post-nav',
-  'pages/news',
-  'pages/lesetipps',
-  'pages/calendar',
-  'pages/network',
-  'pages/contact',
-  'pages/other',
-  'vendor/tiny-slider',
-  'vendor/lightgallery'
+  'utility/utility',
+  'base/base',
+  'layout/layout',
+  'components/components',
+  'templates/templates',
+  'vendor/vendor'
 ;
