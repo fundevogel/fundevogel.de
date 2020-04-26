@@ -1,3 +1,5 @@
+$_footer-nav-delimiter-margin: 0.5rem;
+
 .site-footer {
   flex: none;
   font-size: 1rem;
@@ -13,13 +15,51 @@
     width: 100%;
     z-index: z(surface);
   }
-}
 
-.footer-nav {
-  user-select: none;
+  .link-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 
-  li + li {
-    cursor: default;
-    margin-left: -10px;
+    @include min-width(medium) {
+      flex-direction: row;
+    }
+
+    .nav-links,
+    .external-links {
+      margin-top: 1rem;
+    }
+  }
+
+  .nav-links {
+    &_delimiter {
+      cursor: default;
+      margin-left: $_footer-nav-delimiter-margin;
+      margin-right: $_footer-nav-delimiter-margin;
+    }
+  }
+
+  .external-links {
+    > a {
+      margin-left: 1rem;
+    }
+
+    svg {
+      margin-top: -4px;
+    }
+
+    span {
+      margin-left: 0.5rem;
+    }
+  }
+
+  .link {
+    font-size: 1rem;
+    user-select: none;
+  }
+
+  .inlined {
+    align-items: center;
+    display: flex;
   }
 }

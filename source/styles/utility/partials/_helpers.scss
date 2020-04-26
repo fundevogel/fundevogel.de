@@ -1,8 +1,8 @@
 @mixin clearfix {
   &::before,
   &::after {
-    display: table;
     content: ' ';
+    display: table;
   }
 
   &::after {
@@ -21,8 +21,8 @@
   }
 
   @else {
-    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
-      + "Please make sure it is defined in `$breakpoints` map.";
+    @warn 'Unfortunately, no value could be retrieved from `#{$breakpoint}`. '
+      + 'Please make sure it is defined in `$breakpoints` map.';
   }
 }
 
@@ -36,8 +36,8 @@
   }
 
   @else {
-    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
-      + "Please make sure it is defined in `$breakpoints` map.";
+    @warn 'Unfortunately, no value could be retrieved from `#{$breakpoint}`. '
+      + 'Please make sure it is defined in `$breakpoints` map.';
   }
 }
 
@@ -51,8 +51,8 @@
   }
 
   @else {
-    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
-      + "Please make sure it is defined in `$breakpoints` map.";
+    @warn 'Unfortunately, no value could be retrieved from `#{$breakpoint}`. '
+      + 'Please make sure it is defined in `$breakpoints` map.';
   }
 }
 
@@ -62,6 +62,39 @@
     @return map-get($z-layers, $key);
   }
 
-  @warn "Unknown `#{$key}` in $z-layers.";
+  @warn 'Unknown `#{$key}` in $z-layers.';
   @return null;
+}
+
+
+@function svg-url($svg) {
+  //  Chunk up string in order to avoid "stack level too deep" error
+  $encoded: '';
+  $slice: 2000;
+  $index: 0;
+  $loops: ceil(str-length($svg)/$slice);
+  @for $i from 1 through $loops {
+    $chunk: str-slice($svg, $index, $index + $slice - 1);
+
+    // Encode (may need a few extra replacements)
+    $chunk: str-replace($chunk, '"', '\'');
+    $chunk: str-replace($chunk, '<', '%3C');
+    $chunk: str-replace($chunk, '>', '%3E');
+    $chunk: str-replace($chunk, '&', '%26');
+    $chunk: str-replace($chunk, '#', '%23');
+    $encoded: #{$encoded}#{$chunk};
+    $index: $index + $slice;
+  }
+  @return url('data:image/svg+xml;charset=utf8,#{$encoded}');
+}
+
+//  Helper function to replace characters in a string
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace +
+      str-replace(str-slice($string, $index +
+      str-length($search)), $search, $replace);
+  }
+  @return $string;
 }

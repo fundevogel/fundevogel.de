@@ -10,3 +10,13 @@
     max-width: 960px;
   }
 }
+
+.flex-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+
+  @include min-width(large) {
+    max-width: 960px;
+  }
+}
