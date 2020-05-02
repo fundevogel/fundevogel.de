@@ -1,0 +1,91 @@
+.nav-toggle::before {
+  content: '';
+  font-size: 18px;
+  font-weight: var(--heading-font-weight);
+  position: absolute;
+  right: -110px;
+  top: 14px;
+}
+
+@screen 600 {
+  .nav-toggle::before {
+    content: 'MENÜ ÖFFNEN';
+  }
+}
+
+.nav-toggle span,
+.nav-toggle span::after,
+.nav-toggle span::before {
+  background: #fff;
+  border-radius: 1px solid theme('colors.gray.light');
+  content: '';
+  height: 4px;
+  position: absolute;
+  right: 0;
+  transition: 0.3s;
+  width: 25px;
+}
+
+
+
+.nav-toggle span::before {
+  top: -8px;
+}
+
+.nav-toggle span::after {
+  backface-visibility: hidden;
+  top: 8px;
+  transform-style: preserve-3d;
+}
+
+.nav-toggle span {
+  left: 50%;
+  margin-left: -11px;
+  text-indent: -9999px;
+}
+
+
+@screen lg {
+  .nav-toggle {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+
+.nav-toggle.is-active span {
+  background: 0 0;
+}
+
+.nav-toggle.is-active span::after,
+.nav-toggle.is-active span::before {
+  background: #fff;
+  width: 28px;
+}
+
+.nav-toggle.is-active span::before {
+  right: -6px;
+  top: -9px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+
+.nav-toggle.is-active span::after {
+  right: -6px;
+  top: 9px;
+  transform: rotate(-45deg);
+  transform-origin: 0 100%;
+}
+
+.nav-toggle.is-active::before {
+  display: none;
+}
+
+.nav-toggle {
+  border-radius: 1px solid theme('colors.gray.light');
+  padding: 22px var(--nav-toggle-padding) 26px;
+  position: relative;
+  transition: transform var(--base-duration);
+  visibility: visible;
+  z-index: 50;
+}

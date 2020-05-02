@@ -1,0 +1,39 @@
+.show-600-up,
+.show-medium-up,
+.show-large-up {
+  display: none;
+}
+
+@screen 600 {
+  .show-600-up {
+    display: inline;
+  }
+}
+
+@screen md {
+  .show-medium-up {
+    display: inline;
+  }
+}
+
+@screen lg {
+  .show-large-up {
+    display: inline;
+  }
+}
+
+@screen xsmax {
+  .hide-on-small {
+    display: none;
+  }
+}
+
+/*
+  .screen-reader-text {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0px, 0px, 0px, 0px);
+  }
+*/

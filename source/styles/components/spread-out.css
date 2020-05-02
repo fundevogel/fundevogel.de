@@ -1,0 +1,17 @@
+.spread-out span::after {
+  @apply block;
+  @apply w-0;
+  @apply h-px;
+  @apply mt-px mx-auto mb-0;
+  @apply bg-white;
+  @apply opacity-0;
+
+  content: '';
+  transition: theme('transitionDuration.250') theme('transitionTimingFunction.in-out');
+}
+
+.spread-out a:hover span::after,
+.spread-out .is-active span::after {
+  @apply w-full;
+  @apply opacity-100;
+}

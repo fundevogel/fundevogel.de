@@ -1,0 +1,28 @@
+/* img {
+  border-radius: 1px solid theme('colors.gray.light');
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure {
+  border-radius: 1px solid theme('colors.gray.light');
+  box-shadow: var(--base-box-shadow);
+  display: inline-block;
+  margin-bottom: 1em;
+}
+
+figure a {
+  display: table;
+}
+
+figcaption {
+  border-radius: 0 0 1px solid theme('colors.gray.light') 1px solid theme('colors.gray.light');
+  cursor: default;
+  padding: 0.5rem 0.125rem;
+  text-align: center;
+}
+
+a figcaption {
+  cursor: pointer;
+} */

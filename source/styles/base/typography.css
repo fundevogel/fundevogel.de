@@ -1,0 +1,98 @@
+html {
+  font-family: sans-serif;
+  font-size: 18px;
+
+  @screen md {
+    font-size: 20px;
+  }
+
+  @screen lg {
+    font-size: 22px;
+  }
+}
+
+body {
+  background: theme('colors.yellow.light');
+  color: theme('colors.black');
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  font-weight: var(--base-font-weight);
+  line-height: var(--base-line-height);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: theme('colors.red');
+  font-family: var(--heading-font-family);
+  font-variant: small-caps;
+  font-weight: var(--heading-font-weight);
+  line-height: var(--heading-line-height);
+  margin: 0 0 var(--small-spacing) / 3;
+}
+
+h1 {
+  color: theme('colors.black');
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+p + hr {
+  margin-top: 1.5rem;
+}
+
+strong,
+b {
+  font-weight: 500;
+}
+
+a {
+  color: theme('colors.red');
+  text-decoration: none;
+  transition: color var(--base-duration) var(--base-timing);
+}
+
+a:active,
+a:focus,
+a:hover {
+  color: shade(theme('colors.red'), 20%);
+}
+
+blockquote {
+  border-left: 0.25em solid theme('colors.red');
+  display: inline-block;
+  margin-bottom: 1em;
+  padding-left: 1em;
+}
+
+blockquote h2 + h2 {
+  margin-top: var(--small-spacing);
+}
+
+blockquote p {
+  margin: 0;
+}
+
+cite {
+  color: theme('colors.black');
+  display: block;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+cite::before {
+  content: '\2014 \0020';
+}
+
+time {
+  font-size: 0.8rem;
+  font-weight: 500;
+}

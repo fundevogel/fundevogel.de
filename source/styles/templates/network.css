@@ -1,0 +1,20 @@
+.motto {
+  color: theme('colors.red');
+  font-variant: small-caps;
+  font-weight: 700;
+
+  &.large-down {
+    margin: 0 auto;
+    max-width: 600px;
+
+    @screen lg {
+      display: none;
+    }
+  }
+}
+
+.motto + figure {
+  @screen lgmax {
+    margin-top: 2 * var(--base-spacing);
+  }
+}

@@ -1,0 +1,36 @@
+.macy {
+  margin-top: -10px;
+}
+
+.card {
+  &--outer {
+    padding: 10px;
+  }
+
+  &--inner {
+    background: theme('colors.orange.light');
+    border-bottom: 3px solid theme('colors.orange.dark');
+    border-radius: 1px solid theme('colors.gray.light');
+    padding: 0.8em;
+  }
+
+  h4 {
+    color: theme('colors.orange.medium');
+    font-weight: 700;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: theme('colors.orange.medium');
+    font-weight: 500;
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: theme('colors.orange.dark');
+    }
+  }
+}

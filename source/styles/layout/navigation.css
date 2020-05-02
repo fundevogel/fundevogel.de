@@ -1,0 +1,69 @@
+.header-nav {
+  box-shadow: var(--header-nav-box-shadow);
+  position: fixed;
+  top: 0;
+  transition: box-shadow var(--base-duration);
+  width: 100%;
+  /* z-index: z(space); */
+}
+
+@screen lgmax {
+  .nav-menu {
+    display: none;
+  }
+
+  .nav-menu.is-active {
+    background: theme('colors.red');
+    display: block;
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    padding-top: 60px;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    @apply z-40;
+  }
+
+  .nav-menu li {
+    display: block;
+    margin: 0;
+  }
+
+  .nav-menu a {
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding: 10px 0;
+    transition: background-color var(--base-duration);
+    width: 100%;
+  }
+
+  .nav-menu .is-active,
+  .nav-menu a:hover,
+  .nav-menu a:focus,
+  .nav-menu a:active {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: theme('colors.red');
+    text-shadow: none;
+  }
+
+  .nav-menu .is-active span::after {
+    display: none;
+  }
+}
+
+@screen 600 {
+  .nav-menu.is-active a {
+    font-size: 1.8rem;
+  }
+}
+
+@screen lg {
+  .nav-menu.is-active {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    padding: 11px 0 9px;
+  }
+}

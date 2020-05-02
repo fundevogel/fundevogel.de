@@ -11,10 +11,14 @@ const
     browserSync = require('browser-sync').init,
     gulpif = require('gulp-if'),
     minify = require('gulp-clean-css'),
-    prefix = require('gulp-autoprefixer'),
+    postcss = require('gulp-postcss'),
+    precss = require('precss'),
+    prefix = require('autoprefixer'),
+    // purgecss = require('@fullhuman/postcss-purgecss'),
     rename = require('gulp-rename'),
-    sass = require('gulp-sass'),
-    stylelint = require('gulp-stylelint')
+    stylelint = require('gulp-stylelint'),
+    // sass = require('gulp-sass'),
+    tailwind = require('tailwindcss')
 ;
 
 
@@ -42,12 +46,24 @@ function lintStyles() {
 
 function makeStyles() {
     const stylesSource = [
-        conf.src.styles + '/**/*.scss',
+        conf.src.styles + '/*.css',
+    ];
+
+    const plugins = [
+        precss(),
+        tailwind(conf.src.styles + '/tailwind.config.js'),
+        prefix(conf.styles.prefix),
+        // purgecss({
+        //     content: [
+        //         './**/*.html',
+        //     ],
+        //     // Include any special characters you're using in this regular expression
+        //     defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
+        // }),
     ];
 
     return src(stylesSource, {sourcemaps: conf.sourcemaps.enable})
-        .pipe(sass(conf.styles.sass).on('error', sass.logError))
-        .pipe(prefix(conf.styles.prefix))
+        .pipe(postcss(plugins))
         .pipe(dest(conf.dist.styles, {sourcemaps: conf.sourcemaps.path}))
         .pipe(browserSync.stream())
     ;
@@ -76,7 +92,8 @@ function minifyStyles() {
  */
 
 if (process.env.NODE_ENV === 'production') {
-    exports.styles = series(makeStyles, minifyStyles);
+    // exports.styles = series(makeStyles, minifyStyles);
+    exports.styles = makeStyles;
 } else {
     exports.styles = series(lintStyles, makeStyles);
 }

@@ -1,0 +1,10 @@
+.sketch {
+  @apply font-cursive;
+  @apply font-bold;
+
+  font-variant: small-caps;
+}
+
+.transition-all {
+  transition: all 350ms ease-in-out;
+}

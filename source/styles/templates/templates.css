@@ -1,0 +1,9 @@
+/*
+ * Importing SASS 'templates' partials
+ */
+
+@import 'news';
+@import 'lesetipps';
+@import 'calendar';
+@import 'network';
+@import 'contact';
