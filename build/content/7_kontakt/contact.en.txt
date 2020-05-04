@@ -24,7 +24,7 @@ Subtitle: So erreicht ihr uns
 
 Kontaktinfos:
 
-### Contact details
+## Contact details
 Marienstr. 13 - 79098 Freiburg
 Phone: 0761/25218 - Fax: 0761/30041
 Mail: info@fundevogel.de
@@ -33,7 +33,7 @@ Mail: info@fundevogel.de
 
 Oeffnungszeiten:
 
-### Opening hours
+## Opening hours
 Monday to friday: 9am - 6.30pm
 Saturday: 9am - 4pm
 
