@@ -2,11 +2,11 @@ Title: Widerruf
 
 ----
 
-Text: 
+Text:
 
 ## Widerrufsbelehrung
 bei der Bestellung von gedruckten Büchern und anderen körperlichen Waren:
-Verbrauchern steht ein gesetzliches Widerrufsrecht zu. Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (§ 13 BGB).
+Verbrauchern steht ein gesetzliches Widerrufsrecht zu. Verbraucher ist gemäß (link: https://dejure.org/gesetze/BGB/13.html text: § 13 BGB target: blank) jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.
 
 ---
 
@@ -27,15 +27,15 @@ Hier finden Sie (file: widerrufsformular.odt text: unser Widerrufsformular).
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Widerruf"
