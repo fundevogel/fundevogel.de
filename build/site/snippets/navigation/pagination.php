@@ -1,20 +1,26 @@
-<nav class="wrap post-nav sketch">
-  <?php if ($pagination->hasPrevPage()) : ?>
-  <a class="btn left bg--primary" href="<?= $pagination->prevPageURL() ?>" rel="prev" title="<?= t('lesetipps_neuere-lesetipps--title') ?>">
-    <?= $site->useSVG(t('lesetipps_neuere-lesetipps'), 'arrow-left', 37, 32) ?>
-    <span class="btn--text show-600-up"><?= t('lesetipps_neuere-lesetipps') ?></span>
-  </a>
-  <?php else : ?>
-  <span class="btn left bg--primary is-disabled"></span>
-  <?php
-    endif;
-    if ($pagination->hasNextPage()) :
-  ?>
-  <a class="btn right bg--primary" href="<?= $pagination->nextPageURL() ?>" rel="next" title="<?= t('lesetipps_aeltere-lesetipps--title') ?>">
-    <span class="btn--text show-600-up"><?= t('lesetipps_aeltere-lesetipps') ?></span>
-    <?= $site->useSVG(t('lesetipps_aeltere-lesetipps'), 'arrow-right', 40.5, 32) ?>
-  </a>
-  <?php else : ?>
-  <span class="btn right bg--primary is-disabled"></span>
-  <?php endif ?>
-</nav>
+<?php if ($pagination->pages() > 1) : ?>
+<div class="container">
+    <nav class="w-full mb-12 flex justify-between sketch text-5xl select-none">
+        <?php if ($pagination->hasPrevPage()) : ?>
+        <a class="h-20 flex-1 flex justify-center items-center bg-red-light rounded-l-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->firstPageURL() ?>">
+            <?= $site->useSVG(t('lesetipps_neuere-lesetipps'), 'w-auto h-10 fill-current', 'arrow-left') ?>
+        </a>
+        <?php endif ?>
+        <?php foreach ($pagination->range(5) as $r): ?>
+            <?php if ($pagination->page() === $r) : ?>
+            <span class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-medium text-white cursor-not-allowed<?= $pagination->isFirstPage() ? ' rounded-l-lg' : '' ?><?= $pagination->isLastPage() ? ' rounded-r-lg' : '' ?>" aria-current="page">
+                <?= $r ?>
+            </span>
+            <?php else : ?>
+            <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->pageURL($r) ?>">
+                <?= $r ?>
+            </a>
+            <?php endif ?>
+        </a>
+        <?php endforeach ?>
+        <?php if ($pagination->hasNextPage()) : ?>
+        <a class="h-20 flex-1 flex justify-center items-center bg-red-light rounded-r-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->lastPageURL() ?>"><?= $site->useSVG(t('lesetipps_aeltere-lesetipps'), 'w-auto h-10 fill-current', 'arrow-right') ?></a>
+        <?php endif ?>
+    </nav>
+</div>
+<?php endif ?>
