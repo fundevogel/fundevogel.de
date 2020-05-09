@@ -22,7 +22,7 @@ module.exports = {
 
         gray: {
           dark: '#888',
-          light: '#ddd',
+          light: '#ccc',
         },
 
         red: {
@@ -117,7 +117,11 @@ module.exports = {
       },
       container: {
         center: true,
-        padding: '32px', // 2rem
+        padding: {
+          default: '2rem',
+          lg: '4rem',
+          xl: '10rem',
+        },
       },
       cursor: {
         auto: 'auto',
@@ -545,7 +549,7 @@ module.exports = {
       alignSelf: ['responsive'],
       appearance: ['responsive'],
       backgroundAttachment: ['responsive'],
-      backgroundColor: ['responsive', 'hover', 'focus'],
+      backgroundColor: ['responsive', 'hover', 'focus', 'group-hover'],
       backgroundPosition: ['responsive'],
       backgroundRepeat: ['responsive'],
       backgroundSize: ['responsive'],
@@ -625,7 +629,7 @@ module.exports = {
       transformOrigin: ['responsive'],
       scale: ['responsive', 'hover', 'focus'],
       rotate: ['responsive', 'hover', 'focus'],
-      translate: ['responsive', 'hover', 'focus'],
+      translate: ['responsive', 'hover', 'focus', 'group-hover'],
       skew: ['responsive', 'hover', 'focus'],
       transitionProperty: ['responsive'],
       transitionTimingFunction: ['responsive'],

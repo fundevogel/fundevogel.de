@@ -1,139 +1,26 @@
-:root {
-  --base-font-family: Dosis, sans-serif;
-  --heading-font-family: var(--base-font-family);
-  --base-spacing: var(--base-line-height) * 1em;
-  --small-spacing: var(--base-spacing) / 2;
-  --base-font-size: 1em;
-  --base-line-height: 1.5;
-  --heading-line-height: 1;
-  --base-font-weight: 300;
-  --heading-font-weight: 700;
-  --base-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  --hover-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-
-  --inline-list-margin: 16px;
-
-  --nav-toggle-padding: 32px;
-  --lang-nav-right: 25px var(--inline-list-margin);
-
-}
-
+/* Base */
 @tailwind base;
-@import 'base/base';
 
-p {
-  @apply mt-0 mx-0 mb-4;
-
-  a {
-    @apply text-red-medium no-underline;
-
-    transition: color theme('transitionDuration.250') theme('transitionTimingFunction.in');
-  }
-
-  a:active,
-  a:focus,
-  a:hover {
-    @apply text-red-medium;
-  }
-}
-
-article {
-  h1, h2, h3, h4, h5, h6 {
-    @apply mb-2;
-    @apply font-bold;
-    @apply text-red-medium;
-    @apply leading-none;
-
-    font-variant: small-caps;
-  }
-
-  h2 {
-    @apply text-4xl;
-  }
-
-  h3, h4 {
-    @apply text-xl;
-  }
-
-  blockquote {
-    @apply my-6;
-    @apply pl-4;
-    @apply border-l-4;
-    @apply border-red-medium;
-
-    p {
-      @apply italic;
-    }
-  }
-
-  cite {
-    @apply block;
-    @apply font-medium;
-    @apply text-xs;
-    @apply text-gray-dark;
-  }
-
-  cite::before {
-    content: '\2014 \0020';
-  }
-
-  time {
-    @apply text-xs;
-    @apply font-medium;
-  }
-}
-
-hr {
-  @apply max-w-lg;
-  @apply h-6;
-  @apply my-16 mx-auto;
-  @apply font-light;
-  @apply text-sm;
-  @apply text-red-medium;
-  @apply text-center;
-  @apply border-0;
-}
-
-hr::before {
-  @apply bg-current;
-  @apply block;
-  @apply relative;
-
-  content: '';
-  height: 3px;
-  top: calc(50% + 1px);
-}
-
-hr::after {
-  @apply bg-yellow-light;
-  @apply relative;
-
-  content: '× × ×';
-  padding: 0 0.5rem;
-  top: -7px;
-}
+@import 'base/fonts';
+@import 'base/typography';
+@import 'base/colors';
+@import 'base/animations';
 
 
-
-
-
-
-
+/* Components */
 @tailwind components;
-@import 'components/components';
-@import 'layout/layout';
-@import 'templates/templates';
 
-.lesetipp-plus {
-  left: -1.25rem;
-  top: -1.25rem;
-}
+@import 'components/cards';
+@import 'components/nav-toggle';
+@import 'components/spread-out';
+@import 'components/zigzag';
 
+
+/* Utilities */
 @tailwind utilities;
+
 @import 'utilities/utilities';
 
-.font-small-caps {
-  font-variant: small-caps;
-}
 
+/* Vendor */
 @import 'vendor/vendor';

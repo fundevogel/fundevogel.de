@@ -1,3 +1,7 @@
+.font-small-caps {
+  font-variant: small-caps;
+}
+
 .sketch {
   @apply font-cursive;
   @apply font-bold;
@@ -6,5 +10,9 @@
 }
 
 .transition-all {
-  transition: all 350ms ease-in-out;
+  transition: all 200ms ease-in-out;
+}
+
+.no-js .nojs-hidden {
+  display: none;
 }
