@@ -65,8 +65,14 @@ return [
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Alle Veranstaltungen im Überblick', // zwischenueberschrift (t)
         'kalender_keine-veranstaltungen' => 'Aktuell liegen keine Veranstaltungen vor.',
-        'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen im Überblick',  // zwischenueberschrift (t)
+        'kalender_geschlossene-veranstaltungen' => 'Geschlossene Veranstaltungen',
+        'kalender_heute' => 'Heute',
+        'kalender_diese-woche' => 'Diese Woche',
+        'kalender_diesen-monat' => 'Diesen Monat',
+        'kalender_in-der-ferne' => 'In der Ferne',
+        'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen',  // zwischenueberschrift (t)
 
+        'kalender_fixpunkte' => 'Jährliche Höhepunkte',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Termin im Überblick',

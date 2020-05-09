@@ -11,7 +11,7 @@ Text:
 ## We had a great time!
 Here you will find all information about the past events of the Fundevogel.
 
-If you want to see what we're currently up to, you can also find the upcoming events (link: /vergangene-veranstaltungen text: here).
+If you want to see what we're currently up to, you can also find the upcoming events (link: kalender text: here).
 
 ----
 
@@ -29,11 +29,11 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 
@@ -49,4 +49,4 @@ Translations: 1
 
 ----
 
-Seo: 
+Seo:

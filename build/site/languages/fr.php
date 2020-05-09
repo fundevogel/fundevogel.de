@@ -59,6 +59,13 @@ return [
         'kalender_ueberschrift-liste' => 'Voici toutes nos venir animations', // zwischenueberschrift (t)
         'kalender_keine-veranstaltungen' => '',
         'vergangene-veranstaltungen_ueberschrift-liste' => 'Voici toutes nos passées animations',  // zwischenueberschrift (t)
+        'kalender_heute' => 'Heute',
+        'kalender_diese-woche' => 'Diese Woche',
+        'kalender_diesen-monat' => 'Diesen Monat',
+        'kalender_in-der-ferne' => 'In der Ferne',
+        'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen',  // zwischenueberschrift (t)
+
+        'kalender_fixpunkte' => 'Jährliche Höhepunkte',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'En bref',
@@ -73,7 +80,7 @@ return [
         'kalender_vergangene-veranstaltungen' => 'Animations passées', // button am seitenende (t)
         'kalender_vergangene-veranstaltungen--title' => 'Animations passées, c\'est par là', // (m)
         'kalender_kommende-veranstaltungen' => 'Animations à venir', // button am seitenende (t)
-        'kalender_kommende-veranstaltungen--title' => 'Animations à venir, par ici', // (m)
+        'kalender_kommende-veranstaltungen--title' => 'Animations à venir', // (m)
 
 
         // V. SERVICE + RESEAU + CONTACT (t)

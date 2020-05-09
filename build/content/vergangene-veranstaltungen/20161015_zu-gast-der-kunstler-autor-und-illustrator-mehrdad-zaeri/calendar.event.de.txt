@@ -14,7 +14,7 @@ Category: Autorengespräch
 
 ----
 
-Text: 
+Text:
 
 **Prinzessin Sharifa und der mutige Walter** und **Ein großer Freund**: Diese beiden Bücher wird uns Mehrdad Zaeri an diesem Nachmittag mit in den FUNDEVOGEL bringen.
 
@@ -30,7 +30,7 @@ Begin-time: 15:00
 
 ----
 
-End-time: 
+End-time:
 
 ----
 

@@ -58,7 +58,14 @@ return [
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Overview of upcoming events', // zwischenueberschrift (t)
         'kalender_keine-veranstaltungen' => 'There are no upcoming events right now.',
-        'vergangene-veranstaltungen_ueberschrift-liste' => 'Overview of past events',  // zwischenueberschrift (t)
+        'kalender_geschlossene-veranstaltungen' => 'Closed events',
+        'kalender_heute' => 'Today',
+        'kalender_diese-woche' => 'This week',
+        'kalender_diesen-monat' => 'This month',
+        'kalender_in-der-ferne' => 'In the future',
+        'vergangene-veranstaltungen_ueberschrift-liste' => 'All past events',  // zwischenueberschrift (t)
+
+        'kalender_fixpunkte' => 'Annual highlights',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Overview',
