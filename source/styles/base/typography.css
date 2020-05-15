@@ -21,7 +21,7 @@ p, h2, h3 {
 a {
   @apply no-underline;
 
-  transition: color theme('transitionDuration.250') theme('transitionTimingFunction.in');
+  transition: all theme('transitionDuration.250') theme('transitionTimingFunction.in');
 }
 
 article {
