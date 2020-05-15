@@ -7,18 +7,18 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
-            <figure class="">
-                <div class="gallery">
+            <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
+                <div class="js-lightbox js-slider">
                     <?php foreach ($page->images() as $image) : ?>
                         <?php
                             $thumb = $image->thumb('fundevogel.slides');
                         ?>
-                        <a href="<?= $image->url() ?>"<?php e(@$lightgallery, ' data-lightgallery') ?>>
-                            <img src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                        <a href="<?= $image->url() ?>" data-caption="<?= $page->caption()->html() ?>">
+                            <img class="group-hover:opacity-75 rounded-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
                         </a>
                     <?php endforeach ?>
                 </div>
-                <figcaption class="sketch bg-red-medium">
+                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all">
                     <?= $page->caption()->html() ?>
                 </figcaption>
             </figure>
@@ -29,7 +29,7 @@
     <section class="container">
         <?= $page->about_us()->kt() ?>
     </section>
-    <hr>
+    <hr class="max-w-sm">
     <section class="container">
         <div class="flex flex-col md:flex-row">
             <div class="mb-6 md:mb-0 flex-1">
