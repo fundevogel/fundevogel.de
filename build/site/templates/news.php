@@ -9,8 +9,8 @@
         ?>
         <div class="text-center">
             <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
-                <img class="group-hover:opacity-75 rounded-t-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $hero->titleAttribute() ?>" alt="<?= $hero->altAttribute() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
-                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl absolute w-full sketch bg-red-medium transition-all"><?= $hero->caption()->html() ?></figcaption>
+                <img class="group-hover:opacity-75 rounded-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $hero->titleAttribute() ?>" alt="<?= $hero->altAttribute() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $hero->caption()->html() ?></figcaption>
             </figure>
         </div>
         <?php endif ?>
@@ -19,11 +19,8 @@
     <section class="js-list">
         <h2 class="mb-12 text-center"><?= t('home_ueberschrift-liste') ?></h2>
         <?php foreach($news as $article) : ?>
-            <?php
-                $images = $article->images();
-            ?>
             <article class="js-article animation-fade-in">
-                <div class="<?php e(count($images) < 3, 'container') ?>">
+                <div class="<?php e(count($images = $article->images()) < 3, 'container') ?>">
                     <div class="flex flex-col <?php e(count($images) < 3, 'lg:flex-row ') ?> justify-center">
                         <?php if ($images) : ?>
                         <?php if (count($images) > 2) : ?>
@@ -33,17 +30,18 @@
                         <div class="container xl:px-0">
                         <?php endif ?>
 
-                        <div class="<?php e(count($images) < 3, 'lg:mt-10 mb-8 lg:mb-0 ') ?>flex-none text-center lightgallery">
+                        <div class="js-lightbox <?php e(count($images) < 3, 'lg:mt-10 mb-8 lg:mb-0 ') ?>flex-none text-center">
                             <?php foreach ($images as $image) : ?>
                             <?php
                                 $id = $article->uid();
                                 if ($image) :
-                                $croppedImage = $image->thumb('news.article.full');
+                                $full = $image->thumb('news.article.full');
                                 $thumb = $image->thumb('news.article.image');
+                                $blurry = $image->thumb('news.article.image.placeholder');
                             ?>
-                            <figure class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block<?php e(count($images) < 3, ' lg:ml-12') ?><?php e(count($images) === 2, ' last:ml-6') ?> rounded-lg" data-lightgallery data-src="<?= $croppedImage->url() ?>" data-sub-html="<?= $image->caption()->html() ?>">
-                                <img class="w-32 h-32 lg:w-48 lg:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg" data-layzr="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
-                            </figure>
+                            <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block<?php e(count($images) < 3, ' lg:ml-12') ?><?php e(count($images) === 2, ' last:ml-6') ?> rounded-lg select-none" href="<?= $full->url() ?>" data-caption="<?= $image->caption()->html() ?>">
+                                <img src="<?= $blurry->url() ?>" class="w-32 h-32 lg:w-48 lg:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg" data-layzr="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                            </a>
                             <?php endif ?>
                             <?php endforeach ?>
                         </div>
@@ -60,8 +58,8 @@
                             <div class="<?php e(count($images) > 2, 'container') ?>">
                                 <time datetime="<?= $article->date()->toDate('Y-m-d') ?>">
                                     <?= $article->date()->toDate('d.m.Y') ?>
+                                    <?php e($article->subtitle()->isNotEmpty(), '&mdash; ' . $article->subtitle()->html()) ?>
                                 </time>
-                                <?php e($article->subtitle()->isNotEmpty(), '<span class="subtitle">&mdash; ' . $article->subtitle()->html() . '</span>') ?>
                                 <h3><?= $article->title()->html() ?></h3>
                                 <?= $article->text()->kirbytext() ?>
                             </div>
