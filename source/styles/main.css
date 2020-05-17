@@ -22,4 +22,6 @@
 
 
 /* Vendor */
-@import 'vendor/vendor';
+@import 'vendor/baguetteBox';
+@import 'vendor/tiny-slider';
+@import 'vendor/tippy';
