@@ -1,5 +1,8 @@
 @import '../../../node_modules/tippy.js/dist/svg-arrow.css';
 
+
+/* DEFAULTS */
+
 [data-tippy-root] {
   max-width: calc(100vw - 10px);
 }
@@ -8,8 +11,12 @@
   @apply opacity-0;
 }
 
-.tippy-box[data-theme='fundevogel'] {
-  @apply bg-orange-medium;
+.tippy-content {
+  @apply relative;
+  @apply z-10;
+}
+
+.tippy-box[data-theme~='fundevogel'] {
   @apply text-white;
   @apply text-xs;
   @apply rounded;
@@ -22,12 +29,28 @@
   transition-property: transform, visibility, opacity;
 }
 
-.tippy-box[data-theme='fundevogel'] > .tippy-svg-arrow {
-  @apply text-orange-medium;
+.tippy-box[data-theme~='fundevogel'] > .tippy-svg-arrow {
   @apply fill-current;
 }
 
-.tippy-content {
-  @apply relative;
-  @apply z-10;
+
+/* ORANGE */
+
+.tippy-box[data-theme~='orange'] {
+  @apply bg-orange-medium;
+}
+
+.tippy-box[data-theme~='orange'] > .tippy-svg-arrow {
+  @apply text-orange-medium;
+}
+
+
+/* RED */
+
+.tippy-box[data-theme~='red'] {
+  @apply bg-red-medium;
+}
+
+.tippy-box[data-theme~='red'] > .tippy-svg-arrow {
+  @apply text-red-medium;
 }
