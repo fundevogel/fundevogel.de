@@ -2,19 +2,32 @@ module.exports = {
     prefix: '',
     important: false,
     separator: ':',
+    purge: {
+      content: [
+        'source/scripts/**/*.js',
+        'build/site/snippets/**/*.php',
+        'build/site/templates/**/*.php',
+      ],
+      options: {
+        whitelist: [
+          // Colors used for SVG separator
+          'text-orange-light',
+          'text-yellow-dark',
+          // Colors used for SVG separator
+          '-mt-px',
+          '-mb-px',
+        ],
+      }
+    },
     theme: {
       screens: {
         xs: '480',
-        xsmax: {'max': '480px'},
-        '600': '600px',
         sm: '640px',
         md: '768px',
         lg: '1024px',
-        lgmax: {'max': '1024px'},
         xl: '1280px',
       },
       colors: {
-        transparent: 'transparent',
         current: 'currentColor',
 
         black: '#333',

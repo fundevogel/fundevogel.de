@@ -14,10 +14,8 @@ const
     postcss = require('gulp-postcss'),
     precss = require('precss'),
     prefix = require('autoprefixer'),
-    // purgecss = require('@fullhuman/postcss-purgecss'),
     rename = require('gulp-rename'),
     stylelint = require('gulp-stylelint'),
-    // sass = require('gulp-sass'),
     tailwind = require('tailwindcss')
 ;
 
@@ -53,13 +51,6 @@ function makeStyles() {
         precss(),
         tailwind(conf.src.styles + '/tailwind.config.js'),
         prefix(conf.styles.prefix),
-        // purgecss({
-        //     content: [
-        //         './**/*.html',
-        //     ],
-        //     // Include any special characters you're using in this regular expression
-        //     defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
-        // }),
     ];
 
     return src(stylesSource, {sourcemaps: conf.sourcemaps.enable})
@@ -92,8 +83,7 @@ function minifyStyles() {
  */
 
 if (process.env.NODE_ENV === 'production') {
-    // exports.styles = series(makeStyles, minifyStyles);
-    exports.styles = makeStyles;
+    exports.styles = series(makeStyles, minifyStyles);
 } else {
     exports.styles = series(lintStyles, makeStyles);
 }
