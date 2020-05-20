@@ -10,7 +10,14 @@
             <div class="pt-6 lg:pt-12 flex-none text-center">
                 <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
                     <a href="<?= $image->url() ?>" data-caption="<?= $image->caption()->html() ?>">
-                        <img class="group-hover:opacity-75 rounded-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                        <img
+                            class="group-hover:opacity-75 rounded-lg transition-all"
+                            src="<?= $thumb->url() ?>"
+                            title="<?= $image->caption()->html() ?>"
+                            alt="<?= $image->alt()->html() ?>"
+                            width="<?= $thumb->width() ?>"
+                            height="<?= $thumb->height() ?>"
+                        >
                         <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $image->caption()->html() ?></figcaption>
                     </a>
                 </figure>

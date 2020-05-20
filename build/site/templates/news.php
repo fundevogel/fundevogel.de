@@ -9,7 +9,14 @@
         ?>
         <div class="text-center">
             <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
-                <img class="group-hover:opacity-75 rounded-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $hero->titleAttribute() ?>" alt="<?= $hero->altAttribute() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                <img
+                    class="group-hover:opacity-75 rounded-lg transition-all"
+                    src="<?= $thumb->url() ?>"
+                    title="<?= $hero->titleAttribute() ?>"
+                    alt="<?= $hero->altAttribute() ?>"
+                    width="<?= $thumb->width() ?>"
+                    height="<?= $thumb->height() ?>"
+                >
                 <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $hero->caption()->html() ?></figcaption>
             </figure>
         </div>
@@ -40,7 +47,15 @@
                                 $blurry = $image->thumb('news.article.image.placeholder');
                             ?>
                             <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block<?php e(count($images) < 3, ' lg:ml-12') ?><?php e(count($images) === 2, ' last:ml-6') ?> rounded-lg select-none" href="<?= $full->url() ?>" data-caption="<?= $image->caption()->html() ?>">
-                                <img src="<?= $blurry->url() ?>" class="w-32 h-32 lg:w-48 lg:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg" data-layzr="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                                <img
+                                    src="<?= $blurry->url() ?>"
+                                    class="w-32 h-32 lg:w-48 lg:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg"
+                                    data-layzr="<?= $thumb->url() ?>"
+                                    title="<?= $image->caption()->html() ?>"
+                                    alt="<?= $image->alt()->html() ?>"
+                                    width="<?= $thumb->width() ?>"
+                                    height="<?= $thumb->height() ?>"
+                                >
                             </a>
                             <?php endif ?>
                             <?php endforeach ?>

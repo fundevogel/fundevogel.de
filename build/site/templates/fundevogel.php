@@ -14,7 +14,14 @@
                             $thumb = $image->thumb('fundevogel.slides');
                         ?>
                         <a href="<?= $image->url() ?>" data-caption="<?= $page->caption()->html() ?>">
-                            <img class="group-hover:opacity-75 rounded-lg transition-all" src="<?= $thumb->url() ?>" title="<?= $image->caption()->html() ?>" alt="<?= $image->alt()->html() ?>" width="<?= $thumb->width() ?>" height="<?= $thumb->height() ?>">
+                            <img
+                            class="group-hover:opacity-75 rounded-lg transition-all"
+                            src="<?= $thumb->url() ?>"
+                            title="<?= $image->caption()->html() ?>"
+                            alt="<?= $image->alt()->html() ?>"
+                            width="<?= $thumb->width() ?>"
+                            height="<?= $thumb->height() ?>"
+                        >
                         </a>
                     <?php endforeach ?>
                 </div>

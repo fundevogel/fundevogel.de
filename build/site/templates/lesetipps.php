@@ -27,7 +27,14 @@
                 ?>
                 <figure class="inline-block lg:first:ml-12 last:ml-12 shadow-cover rounded-lg">
                     <a class="" href="<?= $file->url() ?>" target="_blank">
-                        <img class="rounded-t-lg" src="<?= $image->url() ?>" title="<?= $file->titleAttribute() ?>" alt="<?= $file->altAttribute() ?>" width="<?= $image->width() ?>" height="<?= $image->height() ?>">
+                        <img
+                            class="rounded-t-lg"
+                            src="<?= $image->url() ?>"
+                            title="<?= $file->titleAttribute() ?>"
+                            alt="<?= $file->altAttribute() ?>"
+                            width="<?= $image->width() ?>"
+                            height="<?= $image->height() ?>"
+                        >
                         <figcaption class="py-1 text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= $file->edition() ?></figcaption>
                     </a>
                 </figure>
