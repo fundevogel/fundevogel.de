@@ -32,7 +32,8 @@ function reload(done) {
  */
 
 function watchStyles() {
-    watch(conf.src.styles + '/**/*.scss', styles);
+    watch(conf.src.styles + '/**/*.css', styles);
+    watch(conf.src.styles + 'tailwind.config.js', styles);
 }
 
 function watchScripts() {

@@ -39,12 +39,11 @@ return [
         'lesetipps_weiterlesen' => 'Read more', // link zum lesetipp (t)
         'lesetipps_weiterlesen--title' => 'Get to know this reading tip', // link zum lesetipp (t)
 
-        // 1. Shop-Hinweis (t)
-        'lesetipp_hinweis-shop--1-5' => 'If you liked our review and consider reading',
-        'lesetipp_hinweis-shop--2-5' => 'these books,',
-        'lesetipp_hinweis-shop--3-5' => 'this book,',
-        'lesetipp_hinweis-shop--4-5' => 'then stop by our bookstore some time or just order it',
-        'lesetipp_hinweis-shop--5-5' => 'online',
+        // 1. Detailansicht (t)
+        'AutorIn' => 'Author',
+        'IllustratorIn' => 'Illustrator',
+        'Verlag' => 'Pulisher',
+        'Zum Shop' => 'Buy it',
 
         // 2. Buttons
         'lesetipps_neuere-lesetipps' => 'Newer tips', // button am seitenende (t)
@@ -58,7 +57,14 @@ return [
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Overview of upcoming events', // zwischenueberschrift (t)
         'kalender_keine-veranstaltungen' => 'There are no upcoming events right now.',
-        'vergangene-veranstaltungen_ueberschrift-liste' => 'Overview of past events',  // zwischenueberschrift (t)
+        'kalender_geschlossene-veranstaltungen' => 'Closed events',
+        'kalender_heute' => 'Today',
+        'kalender_diese-woche' => 'This week',
+        'kalender_diesen-monat' => 'This month',
+        'kalender_in-der-ferne' => 'In the future',
+        'vergangene-veranstaltungen_ueberschrift-liste' => 'All past events',  // zwischenueberschrift (t)
+
+        'kalender_fixpunkte' => 'Annual highlights',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Overview',

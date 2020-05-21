@@ -46,12 +46,11 @@ return [
         'lesetipps_weiterlesen' => 'Weiterlesen', // link zum lesetipp (t)
         'lesetipps_weiterlesen--title' => 'Erfahren Sie mehr zu diesem Lesetipp', // link zum lesetipp (t)
 
-        // 1. Shop-Hinweis (t)
-        'lesetipp_hinweis-shop--1-5' => 'Wenn Ihr Lust bekommen habt,',
-        'lesetipp_hinweis-shop--2-5' => 'diese Bücher',
-        'lesetipp_hinweis-shop--3-5' => 'dieses Buch',
-        'lesetipp_hinweis-shop--4-5' => 'zu lesen, dann kommt vorbei oder bestellt in unserem',
-        'lesetipp_hinweis-shop--5-5' => 'Online-Shop',
+        // 1. Detailansicht (t)
+        'AutorIn' => 'AutorIn',
+        'IllustratorIn' => 'IllustratorIn',
+        'Verlag' => 'Verlag',
+        'Zum Shop' => 'Zum Shop',
 
         // 2. Buttons
         'lesetipps_neuere-lesetipps' => 'Neuere Lesetipps', // button am seitenende (t)
@@ -65,8 +64,14 @@ return [
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Alle Veranstaltungen im Überblick', // zwischenueberschrift (t)
         'kalender_keine-veranstaltungen' => 'Aktuell liegen keine Veranstaltungen vor.',
-        'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen im Überblick',  // zwischenueberschrift (t)
+        'kalender_geschlossene-veranstaltungen' => 'Geschlossene Veranstaltungen',
+        'kalender_heute' => 'Heute',
+        'kalender_diese-woche' => 'Diese Woche',
+        'kalender_diesen-monat' => 'Diesen Monat',
+        'kalender_in-der-ferne' => 'In der Ferne',
+        'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen',  // zwischenueberschrift (t)
 
+        'kalender_fixpunkte' => 'Jährliche Höhepunkte',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Termin im Überblick',

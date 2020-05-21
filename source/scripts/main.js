@@ -1,102 +1,205 @@
+/* eslint-disable max-len */
+
 /*
- * Importing functions ..
+ * IMPORTS
  */
 
-import Turbolinks from 'turbolinks';
-import Astro from 'Astro';
-import macy from 'macy';
-import Layzr from 'layzr.js';
+import barba from '@barba/core';
 import InfiniteScroll from 'infinite-scroll';
+import Layzr from 'layzr.js';
+import macy from 'macy';
+import svg4everybody from 'svg4everybody';
+import tippy, {roundArrow} from 'tippy.js';
 import {tns} from 'tiny-slider/src/tiny-slider.module';
-import 'lightgallery.js';
+
+import featureDetection from './modules/jsDetect';
+import toggleMenu from './modules/toggleMenu';
+import baguetteBox from './vendor/baguetteBox.js';
 
 
 /*
- * .. and executing them
+ * App Class
  */
+class App {
+    static start() {
+        return new App();
+    }
 
-function featureDetection() {
-  let className = '';
-  let html = '';
-  html = document.documentElement;
-  className = html.className.replace('no-js', 'js');
-  html.className = className;
+    constructor() {
+        Promise
+            .all([
+                App.domReady(),
+            ])
+            .then(this.init.bind(this));
+    }
+
+    static domReady() {
+        return new Promise((resolve) => {
+            document.addEventListener('DOMContentLoaded', resolve);
+        });
+    }
+
+    static showPage() {
+        document.body.classList.add('app:is-ready');
+        console.info('🚀 App:ready');
+    }
+
+    init() {
+        console.info('🚀 App:init');
+
+        featureDetection();
+
+        // eslint-disable-next-line new-cap
+        const lazyLoading = Layzr({
+            normal: 'data-layzr',
+            threshold: 250,
+        });
+
+        lazyLoading
+            .update()
+            .check()
+            .handlers(true);
+
+        const baguetteBoxSelector = '.js-lightbox';
+        const baguetteBoxOptions = {
+            animation: 'fadeIn',
+            overlayBackgroundColor: 'rgba(255,249,196,1)',
+        };
+
+        function reloadBaguettebox() {
+            baguetteBox.destroy();
+            baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
+        }
+
+        // Avoid 'blank page' on JS error
+        try {
+            barba.hooks.before(() => {
+                barba.wrapper.classList.add('app:is-animating');
+            });
+            // barba.hooks.beforeLeave(() => {
+            // });
+            // barba.hooks.leave(() => {
+            // });
+            // barba.hooks.afterLeave(() => {
+            // });
+            barba.hooks.beforeEnter((data) => {
+                svg4everybody({
+                    polyfill: true,
+                });
+
+                tippy(data.next.container.querySelectorAll('.js-tippy'), {
+                    theme: 'fundevogel orange',
+                    duration: [350, 150],
+                    offset: [0, 20],
+                    arrow: roundArrow,
+                    plugins: [],
+                    content(reference) {
+                        const title = reference.getAttribute('title');
+                        reference.removeAttribute('title');
+                        return title;
+                    },
+                });
+
+                lazyLoading
+                    .update()
+                    .check();
+
+                baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
+
+                const toggle = data.next.container.querySelector('.js-toggle');
+
+                toggle.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    toggleMenu();
+                }, false);
+
+                if (data.next.namespace === 'grid-list' || data.next.namespace === 'calendar') {
+                    macy({
+                        container: data.next.container.querySelector('#macy'),
+                        trueOrder: false,
+                        columns: 3,
+                        margin: 16,
+                        breakAt: {
+                            767: 1,
+                            1279: 2,
+                        },
+                    });
+                }
+            });
+            barba.hooks.enter((data) => {
+                window.scrollTo(0, 0);
+
+                const toggle = data.current.container.querySelector('.js-toggle');
+                const isOpen = toggle.classList.contains('is-active');
+
+                if (isOpen) {
+                    toggleMenu();
+                }
+            });
+            // barba.hooks.afterEnter(() => {
+            // });
+            barba.hooks.after(() => {
+                barba.wrapper.classList.remove('app:is-animating');
+            });
+
+            barba.init({
+                debug: true,
+                views: [
+                    {
+                        namespace: 'news',
+                        beforeEnter(data) {
+                            const infiniteScroll = new InfiniteScroll(data.next.container.querySelector('.js-list'), {
+                                hideNav: '.js-hide',
+                                button: '.js-more',
+                                path: '.js-target',
+                                append: '.js-article',
+                                scrollThreshold: 750,
+                                history: false,
+                            });
+
+                            infiniteScroll.on('append', () => {
+                                lazyLoading.update();
+                                reloadBaguettebox();
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                    {
+                        namespace: 'fundevogel',
+                        beforeEnter(data) {
+                            tns({
+                                container: data.next.container.querySelector('.js-slider'),
+                                mode: 'gallery',
+                                speed: 1000,
+                                // lazyload: true,
+                                autoplay: true,
+                                autoplayTimeout: 3500,
+                                autoplayHoverPause: true,
+                                autoplayButtonOutput: false,
+                                nav: false,
+                                controls: false,
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                ],
+            });
+        } catch (err) {
+            console.error(err);
+        }
+
+        App.showPage();
+    }
 }
 
-const lazyload = Layzr({
-  normal: 'data-layzr',
-  threshold: 25,
-});
-
-function lightgalleryJS() {
-  const galleries = document.getElementsByClassName('lightgallery');
-  for (let i = 0; i < galleries.length; i++) {
-    lightGallery(galleries[i], {
-      speed: 1000,
-      hideBarsDelay: 5000,
-      download: false,
-      counter: false,
-    });
-  }
-}
-
-function astroJS() {
-  Astro.init({
-    toggleActiveClass: 'is-active',
-    navActiveClass: 'is-active',
-  });
-}
-
-function macyJS() {
-  macy({
-    container: '#macy',
-    trueOrder: false,
-    columns: 2,
-    breakAt: {
-      768: 1,
-    },
-  });
-}
-
-Turbolinks.start();
-
-document.addEventListener('turbolinks:load', function() {
-  featureDetection();
-  astroJS();
-  lazyload
-    .update()
-    .check()
-    .handlers(true);
-  lightgalleryJS();
-
-  if (document.body.classList.contains('news')) {
-    const infScroll = new InfiniteScroll('.list', {
-      path: '.load-more-target',
-      append: '.post',
-      history: false,
-      // button: '.load-more',
-      scrollThreshold: 100,
-      hideNav: '.load-more-target',
-    });
-
-    infScroll.on('append', function() {
-      lazyload.update().check();
-      lightgalleryJS();
-    });
-  } else if (document.body.classList.contains('fundevogel-und-team')) {
-    const slider = tns({
-      container: '.gallery',
-      mode: 'gallery',
-      speed: 1000,
-      // lazyload: true,
-      autoplay: true,
-      autoplayTimeout: 4000,
-      autoplayHoverPause: true,
-      autoplayButtonOutput: false,
-      nav: false,
-      controls: false,
-    });
-  } else if (document.body.classList.contains('unser-service') || document.body.classList.contains('unser-netzwerk')) {
-    macyJS();
-  }
-});
+App.start();

@@ -1,0 +1,22 @@
+.font-small-caps {
+  font-variant: small-caps;
+}
+
+.text-shadow {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.sketch {
+  @apply font-cursive;
+  @apply font-bold;
+
+  font-variant: small-caps;
+}
+
+.transition-all {
+  transition: all 200ms ease-in-out;
+}
+
+.no-js .nojs-hidden {
+  @apply hidden;
+}

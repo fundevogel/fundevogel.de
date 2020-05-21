@@ -1,0 +1,128 @@
+p {
+  @apply mt-0 mx-0 mb-4;
+
+  a {
+    @apply font-normal;
+  }
+}
+
+p, h2, h3 {
+  a {
+    @apply text-red-medium;
+  }
+
+  a:active,
+  a:focus,
+  a:hover {
+    @apply text-red-dark;
+  }
+}
+
+a {
+  @apply no-underline;
+
+  transition: all theme('transitionDuration.250') theme('transitionTimingFunction.in');
+}
+
+article {
+  h1, h2, h3, h4, h5, h6 {
+    @apply mb-2;
+    @apply font-bold;
+    @apply text-red-medium;
+    @apply leading-none;
+
+    font-variant: small-caps;
+  }
+
+  h2 {
+    @apply text-4xl;
+  }
+
+  h3, h4 {
+    @apply text-xl;
+  }
+
+  ul li {
+    @apply pl-4;
+    @apply relative;
+  }
+
+  ul li::before {
+    @apply absolute;
+    @apply left-0;
+    @apply font-bold;
+    @apply text-red-medium;
+
+    content: '×';
+    top: -1px;
+  }
+
+  blockquote {
+    @apply my-6;
+    @apply pl-4;
+    @apply border-l-4;
+    @apply border-red-medium;
+
+    p {
+      @apply italic;
+    }
+  }
+
+  cite {
+    @apply block;
+    @apply font-medium;
+    @apply text-xs;
+    @apply text-gray-dark;
+  }
+
+  cite::before {
+    content: '\2014 \0020';
+  }
+
+  time {
+    @apply text-xs;
+    @apply font-medium;
+  }
+}
+
+hr {
+  @apply max-w-xs;
+  @apply h-6;
+  @apply my-16 mx-auto;
+  @apply font-light;
+  @apply text-sm;
+  @apply text-red-medium;
+  @apply text-center;
+  @apply border-0;
+}
+
+@screen sm {
+  hr {
+    @apply max-w-md;
+  }
+}
+
+@screen md {
+  hr {
+    @apply max-w-lg;
+  }
+}
+
+hr::before {
+  @apply bg-current;
+  @apply block;
+  @apply relative;
+
+  content: '';
+  height: 3px;
+  top: calc(50% + 1px);
+}
+
+hr::after {
+  @apply bg-yellow-light;
+  @apply relative;
+
+  content: '× × ×';
+  padding: 0 0.5rem;
+  top: -7px;
+}

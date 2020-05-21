@@ -16,7 +16,7 @@ Tram: Oder Ihr fahrt mit der Straßenbahn. Die nächstgelegenen Haltestellen sin
 
 Kontaktinfos:
 
-### Kontaktinfos
+## Kontaktinfos
 Marienstr. 13 - 79098 Freiburg
 Tel.: 0761/25218 - Fax: 0761/30041
 info@fundevogel.de
@@ -25,7 +25,7 @@ info@fundevogel.de
 
 Oeffnungszeiten:
 
-###Öffnungszeiten
+## Öffnungszeiten
 Montag bis Freitag: 9:30 Uhr - 18:30 Uhr
 Samstag: 9:30 - 16:30 Uhr
 

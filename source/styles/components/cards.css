@@ -1,0 +1,38 @@
+.card {
+  @apply bg-orange-light;
+  @apply rounded-lg;
+  @apply border-b-2;
+  @apply border-orange-dark;
+  @apply p-4;
+}
+
+.card h3,
+.card h4,
+.card h5,
+.card h6 {
+  @apply text-orange-medium;
+  @apply font-bold;
+}
+
+.card p {
+  margin: 0;
+}
+
+.card a {
+  @apply text-orange-medium;
+  @apply font-medium;
+}
+
+.card a:active,
+.card a:focus,
+.card a:hover {
+  @apply text-orange-dark;
+}
+
+.card li {
+  @apply pl-6;
+}
+
+.card li::before {
+  @apply text-orange-medium;
+}

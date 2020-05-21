@@ -6,15 +6,15 @@ Date: 2019-11-18
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Begin-time:
 
 ----
 
-End-time: 
+End-time:
 
 ----
 
@@ -34,8 +34,8 @@ Location: Kindertagesstätte Vauban
 
 ----
 
-Link: 
+Link:
 
 ----
 
-Category: 
+Category: Kindergarteninterne Veranstaltung

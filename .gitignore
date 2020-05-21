@@ -14,8 +14,8 @@ Icon
 # Temporary files
 # ---------------
 
+yarn.lock
 /build/composer.lock
-/yarn.lock
 
 /build/public/media
 /build/public/assets

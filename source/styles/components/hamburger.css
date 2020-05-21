@@ -1,0 +1,63 @@
+.js-toggle::before {
+  @apply absolute;
+
+  content: attr(data-menu);
+  font-variant: small-caps;
+  left: 0;
+  padding-left: 4rem;
+  top: 0.5rem;
+}
+
+.js-toggle span::before {
+  top: -8px;
+}
+
+.js-toggle span::after {
+  backface-visibility: hidden;
+  top: 8px;
+  transform-style: preserve-3d;
+}
+
+.js-toggle span,
+.js-toggle span::after,
+.js-toggle span::before {
+  @apply bg-white;
+  @apply absolute;
+  @apply rounded-lg;
+  @apply right-0;
+
+  content: '';
+  height: 4px;
+  transition: 0.3s;
+  width: 25px;
+}
+
+
+/* ACTIVE */
+.js-toggle.is-active::before {
+  display: none;
+}
+
+.js-toggle.is-active span {
+  background: 0 0;
+}
+
+.js-toggle.is-active span::after,
+.js-toggle.is-active span::before {
+  background: #fff;
+  width: 28px;
+}
+
+.js-toggle.is-active span::before {
+  right: -6px;
+  top: -9px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+
+.js-toggle.is-active span::after {
+  right: -6px;
+  top: 9px;
+  transform: rotate(-45deg);
+  transform-origin: 0 100%;
+}
