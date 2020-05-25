@@ -75,10 +75,6 @@ article {
     @apply text-gray-dark;
   }
 
-  cite::before {
-    content: '\2014 \0020';
-  }
-
   time {
     @apply text-xs;
     @apply font-medium;
