@@ -1,3 +1,8 @@
+::selection {
+  @apply bg-orange-medium;
+  @apply text-white;
+}
+
 p {
   @apply mt-0 mx-0 mb-4;
 
@@ -25,7 +30,7 @@ a {
 }
 
 article {
-  h1, h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6 {
     @apply mb-2;
     @apply font-bold;
     @apply text-red-medium;
