@@ -1,1 +1,9 @@
 @import '../../../node_modules/tiny-slider/dist/tiny-slider.css';
+
+.bg-red-light.tns-nav-active {
+  @apply bg-red-medium;
+}
+
+.bg-orange-medium.tns-nav-active {
+  @apply bg-orange-dark;
+}

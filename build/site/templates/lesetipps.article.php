@@ -6,52 +6,89 @@
         <h2><?= $page->title()->html() ?></h2>
         <?= $page->text()->kt() ?>
     </header>
-    <aside class="my-20 overflow-hidden">
+    <aside class="wave">
         <?= $site->useSeparator('orange-light', 'top') ?>
-        <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
-            <div class="container xl:px-0">
-                <div class="flex flex-col md:flex-row">
+        <div class="pt-12 pb-8 bg-orange-light">
+            <div class="container lg:px-8 xl:px-12">
+                <div class="flex flex-col lg:flex-row">
                     <div class="flex-none flex justify-center">
-                        <div class="flex items-center mb-6">
-                            <img
-                                class="rounded-lg shadow-cover"
-                                src="<?= $blurry->url() ?>"
-                                data-layzr="<?= $cover->url() ?>"
-                                title="<?= $titleAttribute ?>"
-                                alt="<?= $altAttribute ?>"
-                                width="<?= $cover->width() ?>"
-                                height="<?= $cover->height() ?>"
-                            >
+                        <div class="flex items-center mb-6 lg:mb-0">
+                            <div class="group relative">
+                                <span class="lesetipp-plus absolute z-30" style="left: -1.25rem; top: -1.25rem">
+                                    <?= $site->useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
+                                </span>
+                                <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium cursor-context-menu transition-all z-25 spread-out">
+                                    <div class="pt-16 px-4">
+                                        <div class="lesetipp-overlay-section">
+                                        <div class="mb-1 flex items-center">
+                                            <?= $site->useSVG('Kategorien', 'lesetipp-overlay-icon', 'folder') ?>
+                                            <h4 class="lesetipp-overlay-title">Einteilung:</h4>
+                                        </div>
+                                            <div class="lesetipp-overlay-body">
+                                                <?php foreach ($categories as $category): ?>
+                                                <a href="<?= url('lesetipps', ['params' => ['kategorie' => rawurlencode($category)]]) ?>">
+                                                    <span><?= $category ?></span>
+                                                </a>
+                                                <?php e(A::last($categories) === $category, '', ',&nbsp;') ?>
+                                                <?php endforeach ?>
+                                            </div>
+                                        </div>
+                                        <div class="lesetipp-overlay-section">
+                                            <div class="mb-1 flex items-center">
+                                                <?= $site->useSVG('Themen', 'lesetipp-overlay-icon', 'tag') ?>
+                                                <h4 class="lesetipp-overlay-title">Themen:</h4>
+                                            </div>
+                                            <div class="lesetipp-overlay-body">
+                                                <?php foreach ($tags as $tag) : ?>
+                                                    <a class="inline" href="<?= url('lesetipps', ['params' => ['thema' => rawurlencode($tag)]]) ?>">
+                                                        <span><?= $tag ?></span>
+                                                    </a>
+                                                    <?php e(A::last($tags) === $tag, '', ',&nbsp;') ?>
+                                                <?php endforeach ?>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <img
+                                    class="rounded-lg shadow-cover"
+                                    src="<?= $blurry->url() ?>"
+                                    data-layzr="<?= $cover->url() ?>"
+                                    title="<?= $titleAttribute ?>"
+                                    alt="<?= $altAttribute ?>"
+                                    width="<?= $cover->width() ?>"
+                                    height="<?= $cover->height() ?>"
+                                >
+                            </div>
                         </div>
                     </div>
-                    <div class="flex-1 md:ml-10">
+                    <div class="flex-1 md:ml-16">
                         <div class="lg:text-lg">
                             <?= $page->verdict()->kt() ?>
                         </div>
                         <div class="flex flex-col my-8 text-sm">
-                            <div class="flex md:flex-col lg:flex-row">
+                            <div class="flex flex-col sm:flex-row">
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('AutorIn'), 'js-tippy w-10 h-10 p-2 text-white fill-current bg-orange-medium rounded-full', 'author') ?>
+                                    <?= $site->useSVG(t('AutorIn'), 'js-tippy lesetipp-icon', 'bulb') ?>
                                     <span class="ml-4">
                                         <?= $page->autor()->html() ?>
                                     </span>
                                 </div>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('IllustratorIn'), 'js-tippy w-10 h-10 p-2 text-white fill-current bg-orange-medium rounded-full', 'illustrator') ?>
+                                    <?= $site->useSVG(t('IllustratorIn'), 'js-tippy lesetipp-icon', 'palette') ?>
                                     <span class="ml-4">
                                         <?= $page->participants()->html() ?>
                                     </span>
                                 </div>
                             </div>
-                            <div class="flex md:flex-col lg:flex-row">
+                            <div class="flex flex-col sm:flex-row">
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('Verlag'), 'js-tippy w-10 h-10 p-2 text-white fill-current bg-orange-medium rounded-full', 'publisher') ?>
+                                    <?= $site->useSVG(t('Verlag'), 'js-tippy lesetipp-icon', 'truck', 'data-tippy-placement="bottom"') ?>
                                     <span class="ml-4">
                                         <?= $page->verlag()->html() ?>
                                     </span>
                                 </div>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG('ISBN', 'js-tippy w-10 h-10 p-2 text-white fill-current bg-orange-medium rounded-full') ?>
+                                    <?= $site->useSVG('ISBN', 'js-tippy lesetipp-icon', 'book-open', 'data-tippy-placement="bottom"') ?>
                                     <span class="ml-4">
                                         <?= $page->isbn()->html() ?>
                                     </span>

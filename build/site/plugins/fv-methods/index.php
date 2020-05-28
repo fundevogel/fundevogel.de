@@ -34,13 +34,13 @@ Kirby::plugin('fundevogel/methods', [
         },
     ],
     'siteMethods' => [
-        'useSVG' => function ($title, $classes = '', $file = '') {
+        'useSVG' => function ($title, $classes = '', $file = '', $customAttribute = '') {
             if ($file === '') {
                 $file = str_replace('-', '', $title);
                 $file = strtolower($file);
             }
 
-            return '<svg class="' . $classes . '" title="' . $title . '" role="img"><use xlink:href="/assets/images/icons.svg#' . $file . '"></use></svg>';
+            return '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute) . '><use xlink:href="/assets/images/icons.svg#' . $file . '"></use></svg>';
         },
         'useSeparator' => function($color = 'orange-light', $position = 'top') {
             $margin = Str::contains($position, 'top') === true ? '-mb-px' : '-mt-px';

@@ -1,0 +1,40 @@
+.lesetipp-icon {
+  @apply w-10 h-10;
+  @apply p-2;
+  @apply text-white;
+  @apply fill-current;
+  @apply bg-orange-medium;
+  @apply rounded-full;
+}
+
+.lesetipp-overlay-section {
+  @apply mb-6;
+  @apply flex;
+  @apply flex-col;
+  @apply text-white;
+  @apply text-sm;
+}
+
+.lesetipp-overlay-hgroup {
+  @apply mb-1;
+  @apply flex;
+  @apply items-center;
+}
+
+.lesetipp-overlay-icon {
+  @apply w-8 h-8;
+  @apply mr-2;
+  @apply text-white;
+  @apply fill-current;
+}
+
+.lesetipp-overlay-title {
+  @apply text-lg;
+  @apply text-white;
+  @apply mb-0;
+}
+
+.lesetipp-overlay-body {
+  @apply flex;
+  @apply flex-wrap;
+}

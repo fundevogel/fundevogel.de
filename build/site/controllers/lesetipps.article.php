@@ -12,12 +12,17 @@ return function ($site, $page) {
     $period = array_pop($age_list);
     $age = implode(' ', $age_list);
 
+    $categories = $page->categories()->split();
+    $tags = $page->tags()->split();
+
     return compact(
         'titleAttribute',
         'altAttribute',
         'cover',
         'blurry',
         'period',
-        'age'
+        'age',
+        'categories',
+        'tags',
     );
 };

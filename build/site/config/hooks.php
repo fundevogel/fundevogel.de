@@ -14,7 +14,7 @@ return [
 
             if (!f::exists($outputFile) || (f::modified($outputFile) < $file->modified())) {
                 $im = new Imagick();
-                $im->setResolution(150, 150);
+                $im->setResolution(200, 200);
                 $im->readImage($inputFile . '[0]');
                 // $im->setImageBackgroundColor('white');
                 $im->setImageAlphaChannel(imagick::ALPHACHANNEL_REMOVE);
