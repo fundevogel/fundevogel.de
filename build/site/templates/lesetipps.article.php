@@ -51,8 +51,7 @@
                                 </div>
                                 <img
                                     class="rounded-lg shadow-cover"
-                                    src="<?= $blurry->url() ?>"
-                                    data-layzr="<?= $cover->url() ?>"
+                                    src="<?= $cover->url() ?>"
                                     title="<?= $titleAttribute ?>"
                                     alt="<?= $altAttribute ?>"
                                     width="<?= $cover->width() ?>"
