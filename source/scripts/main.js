@@ -216,6 +216,41 @@ class App {
                         // afterLeave() {
                         // },
                     },
+                    {
+                        namespace: 'calendar.single',
+                        beforeEnter(data) {
+                            tns({
+                                container: data.next.container.querySelector('.js-slider'),
+                                items: 2,
+                                slideBy: 1,
+                                speed: 2500,
+                                edgePadding: 40,
+                                center: true,
+                                // lazyload: true,
+                                autoplay: true,
+                                autoplayTimeout: 5000,
+                                autoplayHoverPause: true,
+                                autoplayButtonOutput: false,
+                                nav: false,
+                                controls: false,
+                                responsive: {
+                                    1024: {
+                                        items: 3,
+                                        slideBy: 2,
+                                    },
+                                },
+                                onInit: function() {
+                                    reloadBaguettebox();
+                                },
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
                 ],
             });
         } catch (err) {

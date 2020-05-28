@@ -1,9 +1,15 @@
 .card {
-  @apply bg-orange-light;
-  @apply rounded-lg;
-  @apply border-b-2;
-  @apply border-orange-dark;
   @apply p-4;
+  @apply bg-orange-light;
+  @apply border-b-2;
+  @apply border-orange-medium;
+  @apply rounded-lg;
+}
+
+.card.is-dashed {
+  @apply px-8 py-6;
+  @apply border-4;
+  @apply border-dashed;
 }
 
 .card h3,
@@ -11,7 +17,6 @@
 .card h5,
 .card h6 {
   @apply text-orange-medium;
-  @apply font-bold;
 }
 
 .card p {
@@ -20,7 +25,7 @@
 
 .card a {
   @apply text-orange-medium;
-  @apply font-medium;
+  @apply font-normal;
 }
 
 .card a:active,
