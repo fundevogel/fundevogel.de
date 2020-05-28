@@ -193,6 +193,29 @@ class App {
                         // afterLeave() {
                         // },
                     },
+                    {
+                        namespace: 'assortment.single',
+                        beforeEnter(data) {
+                            tns({
+                                container: data.next.container.querySelector('.js-slider'),
+                                speed: 1500,
+                                // lazyload: true,
+                                autoplay: true,
+                                autoplayTimeout: 5000,
+                                autoplayHoverPause: true,
+                                autoplayButtonOutput: false,
+                                nav: true,
+                                navContainer: data.next.container.querySelector('.js-controls'),
+                                controls: false,
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
                 ],
             });
         } catch (err) {
