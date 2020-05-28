@@ -93,6 +93,7 @@ class App {
                     offset: [0, 20],
                     arrow: roundArrow,
                     plugins: [],
+                    // Use `title` attribute as content
                     content(reference) {
                         const title = reference.getAttribute('title');
                         reference.removeAttribute('title');
@@ -170,7 +171,7 @@ class App {
                         // },
                     },
                     {
-                        namespace: 'fundevogel',
+                        namespace: 'about',
                         beforeEnter(data) {
                             tns({
                                 container: data.next.container.querySelector('.js-slider'),
