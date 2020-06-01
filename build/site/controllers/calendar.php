@@ -30,9 +30,12 @@ return function ($site, $pages, $page) {
         return t('kalender_in-der-ferne');
     });
 
+    $annualEvents = $page->children()->filterBy('intendedTemplate', 'calendar.single');
+
     return compact(
         'openEvents',
         'closedEvents',
+        'annualEvents',
         'image',
         'thumb',
         'subtitle',

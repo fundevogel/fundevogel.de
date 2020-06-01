@@ -10,11 +10,11 @@
             <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
                 <div class="js-lightbox js-slider">
                     <?php foreach ($page->images() as $image) : ?>
-                        <?php
-                            $thumb = $image->thumb('fundevogel.slides');
-                        ?>
-                        <a href="<?= $image->url() ?>" data-caption="<?= $page->caption()->html() ?>">
-                            <img
+                    <?php
+                        $thumb = $image->thumb('about.slides');
+                    ?>
+                    <a href="<?= $image->url() ?>" data-caption="<?= $page->caption()->html() ?>">
+                        <img
                             class="group-hover:opacity-75 rounded-lg transition-all"
                             src="<?= $thumb->url() ?>"
                             title="<?= $image->caption()->html() ?>"
@@ -22,7 +22,7 @@
                             width="<?= $thumb->width() ?>"
                             height="<?= $thumb->height() ?>"
                         >
-                        </a>
+                    </a>
                     <?php endforeach ?>
                 </div>
                 <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all">

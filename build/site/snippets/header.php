@@ -27,13 +27,20 @@
                         </button>
                         <nav class="spread-out hidden lg:flex">
                             <?php foreach($pages->listed() as $item) : ?>
-                                <a class="text-sm text-white px-2 outline-none<?php e($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('startseite'), $item->title()->html()) ?>">
-                                <?php
-                                    $id = 'nav-' . $item->id();
-                                    $translation = t($id);
-                                ?>
-                                <span><?= $translation ?></span>
-                                </a>
+                                <div class="px-2 relative">
+                                    <a class="text-sm text-white outline-none<?php e($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('startseite'), $item->title()->html()) ?>">
+                                    <?php
+                                        $id = 'nav-' . $item->id();
+                                        $translation = t($id);
+                                    ?>
+                                    <span><?= $translation ?></span>
+                                    <?php if ($item->id() === 'unser-sortiment') : ?>
+                                    <i class="absolute leading-none py-1 px-2 text-sm text-white not-italic font-small-caps bg-orange-medium rounded-lg z-25 select-none" style="bottom: -1.5rem;right: -0.5rem;">
+                                        <?= t('nav-neu') ?>
+                                    </i>
+                                    <?php endif ?>
+                                    </a>
+                                </div>
                             <?php endforeach ?>
                             <a class="text-sm text-white px-2 outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="Shop" target="_blank">
                                 <span>Shop</span>

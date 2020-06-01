@@ -6,14 +6,6 @@
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
                 <?= $page->text()->kt() ?>
-                <div class="mb-4">
-                    <a href="<?= url('lesetipps/kategorien') ?>" class="block font-bold font-small-caps text-lg text-orange-medium hover:text-orange-dark outline-none">
-                        → Alle Kategorien
-                    </a>
-                    <a href="<?= url('lesetipps/themen') ?>" class="block font-bold font-small-caps text-lg text-orange-medium hover:text-orange-dark outline-none">
-                        → Alle Themen
-                    </a>
-                </div>
             </div>
             <div class="mt-6 lg:mt-12 flex-none text-center">
                 <?php
@@ -81,8 +73,12 @@
                 <a class="mb-6 md:mb-0" href="<?= $lesetipp->url() ?>">
                     <img
                         class="rounded-lg shadow-cover"
+                        <?php if ($count === 1) : ?>
+                        src="<?= $cover->url() ?>"
+                        <?php else : ?>
                         src="<?= $blurry->url() ?>"
                         data-layzr="<?= $cover->url() ?>"
+                        <?php endif ?>
                         title="<?= $titleAttribute ?>"
                         alt="<?= $altAttribute ?>"
                         width="<?= $cover->width() ?>"

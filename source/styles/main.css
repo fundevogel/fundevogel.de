@@ -11,7 +11,9 @@
 
 @import 'components/cards';
 @import 'components/hamburger';
+@import 'components/lesetipp';
 @import 'components/spread-out';
+@import 'components/wave';
 @import 'components/zigzag';
 
 

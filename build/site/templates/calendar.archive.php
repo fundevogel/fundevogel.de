@@ -4,7 +4,7 @@
     <header class="container">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
-                <?= $page->text()->kirbytext() ?>
+                <?= $page->text()->kt() ?>
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
                 <?php snippet('cover') ?>

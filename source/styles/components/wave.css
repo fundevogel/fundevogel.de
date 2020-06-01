@@ -1,0 +1,24 @@
+.wave {
+  @apply my-20;
+  @apply overflow-hidden;
+}
+
+.wave .inner {
+  @apply py-12;
+  @apply bg-orange-light;
+}
+
+.wave-icon {
+  @apply inline-block;
+  @apply mb-4;
+  @apply w-12 h-12;
+  @apply fill-current;
+  @apply text-orange-medium;
+}
+
+.wave-title {
+  @apply mb-16;
+  @apply text-5xl;
+  @apply text-center;
+  @apply text-orange-medium;
+}

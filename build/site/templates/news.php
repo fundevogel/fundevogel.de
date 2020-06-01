@@ -31,10 +31,10 @@
                     <div class="flex flex-col <?php e(count($images) < 3, 'lg:flex-row ') ?> justify-center">
                         <?php if ($images) : ?>
                         <?php if (count($images) > 2) : ?>
-                        <aside class="mt-12 overflow-hidden">
+                        <aside class="wave mt-12 mb-0">
                         <?= $site->useSeparator('orange-light', 'top') ?>
-                        <div class="py-12 bg-orange-light">
-                        <div class="container xl:px-0">
+                        <div class="inner">
+                        <div class="container">
                         <?php endif ?>
 
                         <div class="js-lightbox <?php e(count($images) < 3, 'lg:mt-10 mb-8 lg:mb-0 ') ?>flex-none text-center">
@@ -76,7 +76,7 @@
                                     <?php e($article->subtitle()->isNotEmpty(), '&mdash; ' . $article->subtitle()->html()) ?>
                                 </time>
                                 <h3><?= $article->title()->html() ?></h3>
-                                <?= $article->text()->kirbytext() ?>
+                                <?= $article->text()->kt() ?>
                             </div>
                         </div>
                     </div>

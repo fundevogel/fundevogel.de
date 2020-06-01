@@ -13,7 +13,7 @@
                         <div class="text-sm md:flex justify-between spread-out">
                             <div class="flex flex-col md:flex-row mb-4">
                                 <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="mailto:<?= $site->mail()->html() ?>" title="<?= t('footer_email') ?>">
-                                    <?= $site->useSVG('E-Mail', 'w-6 h-6 fill-current') ?>
+                                    <?= $site->useSVG('E-Mail', 'w-6 h-6 fill-current', 'envelope') ?>
                                     <span class="px-2">Kontakt per Mail</span>
                                 </a>
                                 <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="https://github.com/Fundevogel" title="Fundevogel & Open Source">

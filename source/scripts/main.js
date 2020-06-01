@@ -93,6 +93,7 @@ class App {
                     offset: [0, 20],
                     arrow: roundArrow,
                     plugins: [],
+                    // Use `title` attribute as content
                     content(reference) {
                         const title = reference.getAttribute('title');
                         reference.removeAttribute('title');
@@ -170,7 +171,7 @@ class App {
                         // },
                     },
                     {
-                        namespace: 'fundevogel',
+                        namespace: 'about',
                         beforeEnter(data) {
                             tns({
                                 container: data.next.container.querySelector('.js-slider'),
@@ -183,6 +184,64 @@ class App {
                                 autoplayButtonOutput: false,
                                 nav: false,
                                 controls: false,
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                    {
+                        namespace: 'assortment.single',
+                        beforeEnter(data) {
+                            tns({
+                                container: data.next.container.querySelector('.js-slider'),
+                                speed: 1500,
+                                // lazyload: true,
+                                autoplay: true,
+                                autoplayTimeout: 5000,
+                                autoplayHoverPause: true,
+                                autoplayButtonOutput: false,
+                                nav: true,
+                                navContainer: data.next.container.querySelector('.js-controls'),
+                                controls: false,
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                    {
+                        namespace: 'calendar.single',
+                        beforeEnter(data) {
+                            tns({
+                                container: data.next.container.querySelector('.js-slider'),
+                                items: 2,
+                                slideBy: 1,
+                                speed: 2500,
+                                edgePadding: 40,
+                                center: true,
+                                // lazyload: true,
+                                autoplay: true,
+                                autoplayTimeout: 5000,
+                                autoplayHoverPause: true,
+                                autoplayButtonOutput: false,
+                                nav: false,
+                                controls: false,
+                                responsive: {
+                                    1024: {
+                                        items: 3,
+                                        slideBy: 2,
+                                    },
+                                },
+                                onInit: function() {
+                                    reloadBaguettebox();
+                                },
                             });
                         },
                         // afterEnter() {

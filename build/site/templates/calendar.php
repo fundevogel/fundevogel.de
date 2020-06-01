@@ -4,7 +4,7 @@
     <header class="container">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
-                <?= $page->text()->kirbytext() ?>
+                <?= $page->text()->kt() ?>
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
                 <?php snippet('cover') ?>
@@ -40,49 +40,34 @@
         <p class="italic text-center"><?= t('kalender_keine-veranstaltungen') ?></p>
         <?php endif ?>
     </section>
-    <aside class="my-20 overflow-hidden">
+    <aside class="wave">
         <?= $site->useSeparator('orange-light', 'top-reversed') ?>
-        <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
-            <div class="container xl:px-0">
+        <div class="pt-12 pb-6 lg:pb-4 bg-orange-light">
+            <div class="container lg:px-8 xl:px-12">
                 <div class="text-center">
-                    <?= $site->useSVG(t('kalender_fixpunkte'), 'inline-block mb-4 w-12 h-12 fill-current text-orange-medium', 'calendar') ?>
+                    <?= $site->useSVG(t('kalender_fixpunkte'), 'wave-icon', 'calendar-filled') ?>
                 </div>
-                <h2 class="mb-12 text-5xl text-center text-orange-medium"><?= t('kalender_fixpunkte') ?></h2>
+                <h2 class="wave-title"><?= t('kalender_fixpunkte') ?></h2>
                 <div class="flex flex-col lg:flex-row">
-                    <div class="lg:w-1/3 lg:mr-12 mb-6">
-                        <h3 class="text-orange-medium">HerbstLESE</h3>
-                        <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Veniam quidem quia minima dolore soluta deserunt mollitia,
-                            nam nemo asperiores assumenda, sapiente sint libero,
-                            expedita amet nulla.
-                        </p>
+                    <?php
+                        $count = 1;
+                        foreach ($annualEvents as $annualEvent) :
+                    ?>
+                    <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
+                        <h3 class="text-orange-medium"><?= $annualEvent->title()->html() ?></h3>
+                        <?= $annualEvent->short()->kt() ?>
+                        <?= $annualEvent->moreLink('font-bold font-small-caps text-sm text-orange-medium hover:text-orange-dark outline-none') ?>
                     </div>
-                    <div class="lg:w-1/3 lg:mr-12 mb-6">
-                        <h3 class="text-orange-medium">Welttag des Buches</h3>
-                        <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Veniam quidem quia minima dolore soluta deserunt mollitia,
-                            nam nemo asperiores assumenda, sapiente sint libero,
-                            expedita amet nulla.
-                        </p>
-                    </div>
-                    <div class="lg:w-1/3 lg:mr-12 mb-6">
-                        <h3 class="text-orange-medium">Lirum Larum Lesefest</h3>
-                        <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Veniam quidem quia minima dolore soluta deserunt mollitia,
-                            nam nemo asperiores assumenda, sapiente sint libero,
-                            expedita amet nulla.
-                        </p>
-                    </div>
+                    <?php
+                        $count++;
+                        endforeach
+                    ?>
                 </div>
             </div>
         </div>
         <?= $site->useSeparator('orange-light', 'bottom') ?>
     </aside>
     <?php if ($closedEvents) : ?>
-    <hr>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('kalender_geschlossene-veranstaltungen') ?></h2>
         <div id="macy">

@@ -24,14 +24,14 @@
             </div>
         </div>
     </header>
-    <aside class="my-20 overflow-hidden">
+    <aside class="wave">
         <?= $site->useSeparator('orange-light', 'top-reversed') ?>
         <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
             <div class="container xl:px-0">
                 <div class="text-center">
-                    <?= $site->useSVG(t('kontakt_ueberschrift-liste'), 'inline-block mb-4 w-12 h-12 fill-current text-orange-medium', 'map') ?>
+                    <?= $site->useSVG(t('kontakt_ueberschrift-liste'), 'wave-icon', 'map') ?>
                 </div>
-                <h2 class="mb-12 text-5xl text-center text-orange-medium"><?= t('kontakt_ueberschrift-liste') ?></h2>
+                <h2 class="wave-title"><?= t('kontakt_ueberschrift-liste') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <div class="lg:w-2/5 lg:mr-12 mb-6">
                         <div class="mb-2 flex flex-col items-center">
