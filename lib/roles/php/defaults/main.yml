@@ -1,0 +1,18 @@
+---
+# Currently recommended PHP version
+# See https://getkirby.com/docs/guide/quickstart#requirements
+php_version: 7.3
+
+php_packages:
+  # Kirby requirements (see above)
+  - php{{ php_version }}-curl
+  - php{{ php_version }}-mbstring
+  - php{{ php_version }}-gd
+
+  # Plugin requirements (custom)
+  - php{{ php_version }}-dom
+  - php{{ php_version }}-soap
+  - php-imagick
+
+# See https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds
+composer_process_timeout: 600

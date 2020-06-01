@@ -1,0 +1,33 @@
+server {
+    listen {{ host_port }} default_server ssl;
+    listen [::]:{{ host_port }} default_server ssl ipv6only=on;
+
+    # Server settings
+    server_name {{ host_ip }};
+    root {{ kirby_root }};
+
+    ssl_certificate /etc/ssl/certs/ssl.crt;
+    ssl_certificate_key /etc/ssl/private/ssl.key;
+
+    error_log /var/log/nginx/kirby_error.log;
+    access_log /var/log/nginx/kirby_access.log;
+
+    # Client settings
+    charset utf-8;
+    sendfile off;
+    client_max_body_size 100m;
+
+    # Enable URL rewriting
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Enable PHP's FastCGI Process Manager (PHP-FPM)
+    location ~ \.php$ {
+        try_files $uri = 404;
+        fastcgi_pass unix:/var/run/php7-kirby.sock;
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+}

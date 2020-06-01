@@ -1,0 +1,10 @@
+---
+install_packages:
+  - curl
+  - git
+  - npm
+  - unzip
+  - zip
+
+remove_packages:
+  - apache2

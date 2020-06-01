@@ -1,0 +1,23 @@
+---
+- hosts: all
+  become: true
+  vars_files:
+    - config/vars.yml
+  pre_tasks:
+    - name: Update APT cache
+      apt:
+        update_cache: yes
+        cache_valid_time: 3600
+  roles:
+    - base
+    - nginx
+    - php
+    - kirby
+
+  # TODO: Check performance
+  # post_tasks:
+  #   - name:  Update APT packages
+  #     apt:
+  #       pkg: '*'
+  #       state: latest
+  #       autoremove: yes

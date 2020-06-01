@@ -8,6 +8,7 @@ Icon
 # -----
 
 .ideas
+.vagrant
 /node_modules
 /build/vendor
 
