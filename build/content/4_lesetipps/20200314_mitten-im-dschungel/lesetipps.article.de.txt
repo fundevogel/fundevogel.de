@@ -1,0 +1,116 @@
+Title: Mitten im Dschungel
+
+----
+
+Text: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich gestellt: Der Junge Fred aus London, das Mädchen Lila und ihr kleiner Bruder Max aus Brasilien und das englische Mädchen Con. Für die vier Kinder beginnt ein Kampf ums Überleben. Ihr Plan ist es, den nächstgelegenen Ort zu erreichen, um dort Hilfe zu erhalten. Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut und ein Feuer entzündet; Lila kennt sich gut in der heimischen Tier- und Pflanzenwelt aus. Doch wird es ihnen gelingen, im Dschungel zu überleben und aus dem Urwald herauszufinden?
+
+----
+
+Verdict: 
+
+----
+
+Date: 2020-03-14
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 978-3-551-55480-2
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/product/3000001059911/Buecher_Abenteuer/Katherine-Rundell/Mitten-im-Dschungel
+
+----
+
+Autor: Katherine Rundell
+
+----
+
+Participants: Übersetzung: Henning Ahrens
+
+----
+
+Titel: Mitten im Dschungel
+
+----
+
+Untertitel: 
+
+----
+
+Verlag: Carlsen
+
+----
+
+Alter: ab 11 Jahren
+
+----
+
+Preis: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
+
+----
+
+Tags: Abenteuer, Amazonas, Flugzeugabsturz / Absturz (Flugzeug), Freundschaft, Regenwald / Dschungel
+
+----
+
+Cover:
+
+- >
+  mitten-im-dschungel_katherine-rundell.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Tab1: 
+
+----
+
+Tab2: 
+
+----
+
+Angaben:
+
+- 
+  titel: Mitten im Dschungel
+  isbn: 978-3-551-55480-2
+  verdict: 'Mitten im Dschungel“ ist eine wunderbare, packende Abenteuer- und Freundschaftsgeschichte inmitten der faszinierenden Natur des brasilianischen Urwaldes der britischen Autorin Katherine Rundell.'
+  autor: Katherine Rundell
+  verlag: Carlsen
+  cover: ""
+  preis: 15,00
+  alter: ab 10 Jahren
+  shop: >
+    https://fundevogel.buchkatalog.de/product/3000001059911/Buecher_Abenteuer/Katherine-Rundell/Mitten-im-Dschungel
+
+----
+
+Tab3: 
+
+----
+
+Seo: 

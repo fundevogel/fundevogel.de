@@ -1,0 +1,21 @@
+Titleattribute: Wir freuen uns auf Ihren Besuch!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Kinder sitzen in der Buchhandlung Fundevogel und lesen Bücher
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Jetzt wird's eng: über 500 Kinder in einem Monat!
+
+----
+
+Template: image

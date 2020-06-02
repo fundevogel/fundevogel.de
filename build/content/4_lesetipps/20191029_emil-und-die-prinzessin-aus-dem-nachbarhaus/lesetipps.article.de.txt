@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Marianne Kaurin
 
 ----
 
-Participants: Übersetzung: Meike. Illustration Blatzheim: Anke Kuhl
+Participants: Anke Kuhl
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Emil und die Prinzessin aus dem Nachbarhaus
 
 ----
 
-Untertitel: 
+Untertitel: Übersetzung: Meike Blatzheim
 
 ----
 

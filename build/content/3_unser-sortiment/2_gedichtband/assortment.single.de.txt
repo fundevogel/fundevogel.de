@@ -1,0 +1,11 @@
+Title: Gedichtband
+----
+Text:
+## Poesie berührt die Seele
+Auch im Bereich der Kinderlyrik haben wir neben so wunderbare Klassikern wie … auch einige herausragende Neuerscheinungen
+----
+Cover: gedichtband.jpg
+----
+Seotitle: Gedichte
+----
+Seodescription: Wir lieben Gedichte!

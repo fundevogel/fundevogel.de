@@ -1,0 +1,11 @@
+Title: Sachbuch
+----
+Text:
+## Wissen macht Spaß
+Wir bieten euch eine große Vielfalt ausgewählter Sachbücher zu vielen spannenden Themen quer durch alle Altersgruppen an.
+----
+Cover: sachbuch.jpg
+----
+Seotitle: Sachbücher
+----
+Seodescription: Wir lieben Sachbücher!

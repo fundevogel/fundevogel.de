@@ -1,0 +1,21 @@
+Titleattribute: "Nemi und der Hehmann" von Wieland Freund
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Nemi und der Hehmann" von Wieland Freund
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

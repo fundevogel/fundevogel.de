@@ -1,0 +1,40 @@
+Title: Welttag des Buches
+----
+Text:
+## Das Fest der Bücher
+Jedes Jahr am 23. April feiern wir den "Welttag des Buches", um Kindern die Freude am Lesen zu vermitteln und ihnen das Buch näher zu bringen.
+
+Rund um den Welttag des Buches besuchen uns in einem Zeitraum von einem Monat zahlreiche Schulklassen in der Buchhandlung. Gemeinsam mit den SchülerInnen feiern wir den Tag des Buches und tauchen gemeinemsam ein in die Welt der Bücher.
+----
+Cover: welttag-des-buches.jpg
+----
+Details:
+## Aus der Region in die Welt
+Inspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St. Georg Rosen und Bücher zu verschenken, erklärte 1995 die (short: UNESCO desc: engl. 'United Nations Educational, Scientific and Cultural Organization') den 23. April zum "Welttag des Buches" - dem weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren.
+
+Über diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von (link: https://klexikon.zum.de/wiki/William_Shakespeare text: William Shakespeare target: blank) und (link: https://klexikon.zum.de/wiki/Miguel_de_Cervantes text: Miguel de Cervantes target: blank).
+----
+Infolinks:
+-
+  title: Offizielle Seite
+  text: >
+    Auf der (link: https://welttag-des-buches.de text: offiziellen Seite) des Welttags gibt es jede Menge zu entdecken.
+-
+  title: Stadt Freiburg
+  text: >
+    Veranstaltungen in Freiburg und Umgebung auf den Seiten der (link: https://www.freiburg.de/pb/,Lde/594205.html text: Stadt Freiburg).
+-
+  title: Stiftung Lesen
+  text: >
+    Außerdem gibt es noch die (link: https://stiftunglesen.de/aktionen/welttagdesbuches text: Stiftung Lesen) - nicht vergessen!
+----
+Short:
+Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren am 23. April zahlreiche Schulklassen in der Buchhandlung, um in den mit Rosen geschmückten Regalen zu stöbern und spielerisch mit uns die Welt der Bücher zu feiern.
+----
+Left:
+### Ablauf
+Mit viel Freude nehmen die SchülerInnen alljährlich an unserem Bücherquiz teil und stöbern begeistert durch die mit Rosen geschmückten Bücherregale. Am Ende des ihres Besuchs kann jedes Kind sein Buch zum Welttag in Empfang nehmen.
+----
+Right:
+### Anmeldung
+Wir im Fundevogel feiern diesen besonderen Tag gleich mit einer ganzen Reihe von Veranstaltungen: Incidunt minima velit quo, iste quod quam eum, ipsam cupiditate magnam nobis, quibusdam eveniet odit iusto in blanditiis maiores illo porro molestias.

@@ -1,0 +1,19 @@
+Title: HerbstLESE
+----
+Text:
+Welch ein schöner Abend war das wieder im Fundevogel! Erneut waren viele Bücherfans gekommen um sich an unserer traditionellen HerbstLese vom Team des Fundevogels eine ganz persönliche Auswahl der schönsten Neuererscheinungen aus dem Herbst vorstellen zu lassen. In wunderbar familiärer Atmosphäre sind wir gemeinsam auf Buchfühlung gegangen.
+Unter dem Motto: Hurra, wir leben noch! widmeten wir uns in unserem Rahmenprogramm den großen und kleinen Herausforderungen des Lebens - dem alljährlichen Wahnsinn des Weihnachtstrubels, der Nachricht von der Insolvenz des Großhändlers KNV, die die Buchhandelsbranche in diesem Jahr aufrüttelte und, nicht zuletzt, der großen gesellschaftlichen Herausforderung des Klimawandels.
+Ein besonderes Highlight war der Auftritt der drei jugendlichen Klimaaktivistinnen, die uns Einblicke gaben in das vielseitige Engagement der Jugendlichen für die Bekämpfung des Klimawandels. Mit einem selbstverfassten Text über die Zerstörung unseres Planeten, regten sie uns zum Nachdenken an.
+
+Wir haben uns sehr über die vielen positiven Rückmeldungen gefreut und diesen wunderbaren Abend mit euch wieder sehr genossen! Wir freuen uns schon auf die Herbstlese im nächsten Jahr und darauf euch alle schon bald wieder im Fundevogel zu sehen!
+
+Traditionell laden wir im Herbst zu unserer "HerbstLESE" in die Buchhandlung ein. Dieser Abend ist für uns immer ein besonderes Ereignis. Denn an diesem Abend fühlt es sich an wie ein Wiedersehen mit alten Freunden, wenn wir in gemütlicher Atmosphäre Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vorstellen.
+Am Ende eines schönen Abends bleibt ein Gefühl: Bücher verbinden!
+
+Welch ein schöner Abend war das gestern im Fundevogel! Viele Lesebegeisterte waren gekommen um sich vom Team des Fundevogels eine ganz persönliche Auswahl der schönsten Neuererscheinungen aus dem Herbst vorstellen zu lassen. In lockerer und wunderbar familiärer Atmosphäre durften wir nach Herzenslust von unseren diesjährigen Lieblingsbüchern schwärmen.
+Wir haben uns sehr über die vielen begeisterten Rückmeldungen unserer Besucher gefreut und diesen wunderbaren Abend mit euch sehr genossen! Wir freuen uns schon auf die Herbstlese im nächsten Jahr und darauf euch alle schon bald wieder im Fundevogel zu sehen!
+----
+Short:
+Dieser Abend im Herbst hat Traiditon und ist für uns immer ein besonderes Ereignis: In gemütlicher Atmosphäre stellen wir Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vor.
+----
+cover: herbstlese.jpg

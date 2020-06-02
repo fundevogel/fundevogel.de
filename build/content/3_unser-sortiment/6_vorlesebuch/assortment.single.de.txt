@@ -1,0 +1,11 @@
+Title: Vorlesebuch
+----
+Text:
+## Gemeinsam eintauchen
+Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen!
+----
+Cover: vorlesebuch.jpg
+----
+Seotitle: Vorlesebücher
+----
+Seodescription: Wir lieben Vorlesebücher!

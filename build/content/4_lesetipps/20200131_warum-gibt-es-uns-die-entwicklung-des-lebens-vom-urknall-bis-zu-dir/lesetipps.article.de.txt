@@ -1,0 +1,120 @@
+Title: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
+
+----
+
+Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? Zwischen diesen beiden Fragen werden grundlegende, durchaus schwierige naturwissenschaftliche Zusammenhänge kinderleicht erklärt: von chemischen Prozessen über die Relativitätstheorie bis hin zu Fragen der Zukunftsforschung. Und das nicht nur mit wissenschaftlicher Genauigkeit, sondern immer auch mit einem Augenzwinkern und anschaulichen Beispielen aus dem Alltag. Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende  farbige Bebilderung, die dies herausragende Sachbuch abrundet.
+
+----
+
+Verdict: 
+
+----
+
+Date: 2020-01-31
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 978-3-407-75468-4
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/product/3000002025954/Buecher_Sachbuecher/Johan-Olsen/Warum-gibt-es-uns
+
+----
+
+Autor: Johan Olsen
+
+----
+
+Participants: Illustration: Lara Paulussen
+
+----
+
+Titel: Warum gibt es uns?
+
+----
+
+Untertitel: Die Entwicklung des Lebens vom Urknall bis zu dir
+
+----
+
+Verlag: Beltz
+
+----
+
+Alter: ab 8 Jahren
+
+----
+
+Preis: 16,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kindersachbuch/Jugendsachbuch
+
+----
+
+Tags: Naturwissenschaft
+
+----
+
+Cover:
+
+- >
+  warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir_johan-olsen.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Tab1: 
+
+----
+
+Tab2: 
+
+----
+
+Angaben:
+
+- 
+  titel: >
+    Warum gibt es uns? Die Entwicklung des
+    Lebens vom Urknall bis zu dir.
+  isbn: 978-3-407-75468-4
+  verdict: >
+    Ein grandioses Sachbuch für Neugierige
+    und Fragenforscher fast jeden Alters.
+  autor: Johan Olsen
+  verlag: Beltz Verlag
+  cover: 7736062800001z.jpg
+  preis: 16,95
+  alter: ab 9 Jahren
+  shop: >
+    https://fundevogel.buchkatalog.de/product/3000002025954/Buecher_Sachbuecher/Johan-Olsen/Warum-gibt-es-uns
+
+----
+
+Tab3: 
+
+----
+
+Seo: 

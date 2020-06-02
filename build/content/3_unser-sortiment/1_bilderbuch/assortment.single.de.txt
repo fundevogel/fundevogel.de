@@ -1,0 +1,50 @@
+Title: Bilderbuch
+----
+Text:
+## Bilderwelten zum Anfassen
+Für die Allerkleinsten haben wir viele Stoff- und Pappbilderbücher, auch solche mit Fühl- und Klappelementen zum Ertasten und Entdecken, sowie erste kurze Geschichten mit vielen bunten Bildern, welche die Phantasie beflügeln.
+
+Auch für Kindergartenkinder haben wir eine große Auswahl der allerschönsten Bilderbücher: So zauberhaft illustrierte Geschichten wie die vom „schlafenden Tiger“ von Pamela Zagarenski und Mary Logue oder auch die wunderbaren Wimmelbücher von Rotraut Susanne Berner, die auch ohne Buchstaben die tollsten Geschichten erzählen können.
+----
+Cover: bilderbuch.jpg
+----
+Details:
+## Vorsicht, Bücherdschungel!
+Lasst euch in wunderbare Bilderbuchwelten entführen: Kommt mit auf eine Reise zwischen die Buchdeckel unserer liebsten Geschichten, deren farbenprächtige Bilder und freundliche Bewohner zum Staunen und Verweilen einladen: hier findet ihr eine (wechselnde) Zusammenstellung unserer Favoriten.
+----
+Examples:
+-
+  title: Willkommen in Wimmlingen!
+  cover: sommer-wimmelbuch.jpg
+  author: Rotraut Susanne Berner
+  text: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+  isSeries: 1
+-
+  title: Die drei Räuber
+  cover: die-drei-raeuber_tomi-ungerer.jpg
+  author: Tomi Ungerer
+  text: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+  isSeries: 0
+-
+  title: Bauer Beck fährt weg
+  cover: bauer-beck-faehrt-weg.jpg
+  author: Christian Tielmann / Daniel Napp
+  text: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+  isSeries: 0
+-
+  title: Pippilothek?
+  cover: pippilothek.jpg
+  author: Lorenz Pauli / Kathrin Schärer
+  text: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+  isSeries: 0
+----
+Middle:
+## Lorem Heading
+Lorem ipsum dolor sit amet consectetur adipisicing elit. At non necessitatibus quaerat hic repellat reiciendis, rem distinctio eius dolore laboriosam! Fugiat quidem eum sit cum hic labore quaerat reprehenderit at.
+----
+Last:
+## Heading Lorem
+Lorem ipsum dolor sit amet consectetur adipisicing elit. At non necessitatibus quaerat hic repellat reiciendis, rem distinctio eius dolore laboriosam! Fugiat quidem eum sit cum hic labore quaerat reprehenderit at.
+Seotitle: Bilderbücher
+----
+Seodescription: Wir lieben Bilderbücher!

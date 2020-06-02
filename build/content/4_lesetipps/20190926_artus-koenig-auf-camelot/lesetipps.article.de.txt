@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Ilka Sokolowski
 
 ----
 
-Participants: Illustration: Helmut Dohle
+Participants: Helmut Dohle
 
 ----
 

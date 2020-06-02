@@ -4,7 +4,7 @@ Title: Impressum
 
 Left:
 
-Kinder- und Jugendbuchhandlung
+**Kinder- und Jugendbuchhandlung**
 Marienstr. 13
 79098 Freiburg i. Br.
 
@@ -12,19 +12,12 @@ Telefon: 0761 / 25218
 Telefax: 0761 / 30041
 E-Mail: info@fundevogel.de
 
-Haftungshinweis:
-Für Formen und Inhalte externer Links übernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber dafür verantwortlich sind.
-
-Alle Bilder unserer "Lesetipps" stammen, soweit nicht anders angegeben, aus dem (link: https://portal.dnb.de text: Katalog) der (link: https://www.dnb.de text: Deutschen Nationaliliothek).
-
-----
-
-Right:
-
 Inhaber: Claus-Peter Jepsen
-Bankverbindung:
+
+**Bankverbindung:**
 Volksbank Freiburg: BLZ 680 900 00
 Kontonummer: 7240708
+
 Für Zahlungen aus dem Ausland:
 IBAN DE 266 809 0000000 7240708
 Volksbank Freiburg
@@ -34,7 +27,17 @@ Handelsregisternummer: Nicht benötigt
 Umsatzsteuer-ID: DE 142035994
 Steuernummer: 06112/49132 - Finanzamt Freiburg-Stadt
 
-Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers target: blank).
+----
+
+Right:
+
+**Haftungshinweis:**
+Für Formen und Inhalte externer Links übernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber dafür verantwortlich sind.
+
+**Über diese Webseite:**
+- Die Bilder unserer "Lesetipps" stammen, soweit nicht anders angegeben, aus dem (link: https://portal.dnb.de text: Katalog) der (link: https://www.dnb.de text: Deutschen Nationaliliothek).
+- Als (short: Icons desc: Symbolbilder) verwenden wir die beiden exzellenten & frei verfügbaren Sets (link: https://feathericons.com text: Feather Icons) sowie (link: https://akveo.github.io/eva-icons text: Eva Icons).
+- Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers target: blank).
 
 ----
 

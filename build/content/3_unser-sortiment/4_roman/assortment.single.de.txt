@@ -1,0 +1,11 @@
+Title: Roman
+----
+Text:
+## Geschichten für das ganze Leben
+Erstleser finden in unseren Regalen so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten „Kommissar Gordon“ sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und schönen Illustrationen.
+----
+Cover: roman.jpg
+----
+Seotitle: Romane & Erzählungen
+----
+Seodescription: Wir lieben Romane!

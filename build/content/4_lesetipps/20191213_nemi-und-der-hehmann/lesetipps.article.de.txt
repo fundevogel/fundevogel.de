@@ -1,0 +1,119 @@
+Title: Nemi und der Hehmann
+
+----
+
+Text: Eines Tages, als Nemi auf den Bus zur Schule wartet, schallt es plötzlich laut: „Heh, heeeeh“ aus dem Wald heraus und neugierig geworden, macht sich Nemi natürlich sofort auf die Suche nach den Rufen. Tief im Wald angelangt, entdeckt sie schließlich ein wundersames, kleines Männchen mit einem Hut, geformt wie ein Pilz. Doch Nemi mag kaum ihren Augen trauen, denn es sieht überhaupt nicht aus wie ein Mensch. Der Hehmann, wie Nemi ihn nennt, hat ein Gesicht aus verwittertem Holz, einen rauschenden Blätterbart und seine Kleidung besteht aus Rinde, die voller Efeu und Ranken ist. Der Hehmann ist ganz verwundert, dass Nemi ihn überhaupt gehört hat, denn niemand sonst hört ihn über den Lärm der Autos und Flugzeuge. Auch sonst scheinen alle vergessen zu haben, dass es den Wald und die Natur noch gibt. Und je weniger die Menschen sich erinnern, umso schlechter geht es der Natur und dem Hehmann, denn er ist das Gedächtnis und das Wissen des Waldes. So traurig und verzagt ist er, dass Nemi beschließt, ihm zu helfen, sein Gedächtnis zu bewahren. So fängt sie an Tiere und Pflanzen zu zeichnen und die Naturwörter und Lieder des Waldes zu sammeln.
+
+----
+
+Verdict: Eine berührende Geschichte, die von den zauberhaften Illustrationen von Hannah Jung lebt und uns die Kostbarkeit und Vielfältigkeit der Natur bewusst macht.
+
+----
+
+Date: 2019-12-13
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 978-3-407-75459-2
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002025367/63715/10002/-3/Buecher_Kinder--und-Jugend/Wieland-Freund/Nemi-und-der-Hehmann
+
+----
+
+Autor: Wieland Freund
+
+----
+
+Participants: Illustration: Hanna Jung
+
+----
+
+Titel: Nemi und der Hehmann
+
+----
+
+Untertitel: Roman
+
+----
+
+Verlag: Beltz
+
+----
+
+Alter: ab 8 Jahren
+
+----
+
+Preis: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendliteratur
+
+----
+
+Tags: Natur
+
+----
+
+Cover:
+
+- nemi-und-der-hehmann_wieland-freund.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Tab1: 
+
+----
+
+Tab2: 
+
+----
+
+Angaben:
+
+- 
+  titel: Nemi und der Hehmann
+  isbn: 978-3-407-75459-2
+  verdict: >
+    Eine berührende Geschichte, die von den
+    zauberhaften Illustrationen von Hannah
+    Jung lebt und uns die Kostbarkeit und
+    Vielfältigkeit der Natur bewusst macht.
+  autor: Wieland Freund
+  verlag: Beltz
+  cover: nemi.jpg
+  preis: 14,95
+  alter: ab 8 Jahren
+  shop: >
+    https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002025367/63715/10002/-3/Buecher_Kinder--und-Jugend/Wieland-Freund/Nemi-und-der-Hehmann/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Tab3: 
+
+----
+
+Seo: 

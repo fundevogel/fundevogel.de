@@ -1,0 +1,123 @@
+Title: Der Katze ist es ganz egal
+
+----
+
+Text: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf die Spur gekommen: sie ist eigentlich gar kein Bub, sondern ein Mädchen. Aber Mama, Papa, Oma und Opa wollen das noch nicht so recht begreifen und stellen sich quer. Dabei könnten sie sich doch einfach mal ein Beispiel an der Katze nehmen, der ist das schließlich alles egal. Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die Stella, sie viel besser verstehen und ihr mit Rat und Tat zur Seite stehen. Denn für die drei Freunde ist es wichtig, ganz Wien zu zeigen, was für ein tolles Mädchen die Jennifer ist. Doof nur, dass Jennifer immer noch die Klamotten vom Leo hat, aber das ist kein Problem für die vier. Schnurstracks wird die Schule geschwänzt und los geht die abenteuerliche Suche in den Straßen Wiens nach schönen Kleidern, Frisuren, Schuhen und vor allem nach Jennifers Ich. Und als Jennifer nach der Schule nicht nach Hause kommt, machen sich auch Mama, Papa, Oma und Opa auf die Suche denn eines ist klar: ob Jennifer oder Leo, Sorgen machen sie sich auf alle Fälle.
+
+----
+
+Verdict: 
+
+----
+
+Date: 2020-04-07
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Conclusion: 
+
+----
+
+Isbn: 978-3-95470-231-2
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002483930/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Orghandl/Der-Katze-ist-es-ganz-egal
+
+----
+
+Autor: Franz Orghandl
+
+----
+
+Participants: Illustration: Theresa Strozyk
+
+----
+
+Titel: Der Katze ist es ganz egal
+
+----
+
+Untertitel: 
+
+----
+
+Verlag: Klett Kinderbuch Verlag
+
+----
+
+Alter: ab 9 Jahren
+
+----
+
+Preis: 13,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendliteratur, Kinderliteratur/Jugendliteratur
+
+----
+
+Tags: Freundschaft, Transgender
+
+----
+
+Cover:
+
+- >
+  der-katze-ist-es-ganz-egal_franz-orghandl.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Tab1: 
+
+----
+
+Tab2: 
+
+----
+
+Angaben:
+
+- 
+  titel: Der Katze ist es ganz egal
+  isbn: 978-3-95470-231-2
+  verdict: >
+    Eine herrlich chaotische Geschichte
+    über ein mutiges Kind, dass zu sich
+    selbst findet und alle mitreißt.
+    Begleitet von Theresa Strozyks witzigen
+    Illustrationen und als kleiner Zusatz,
+    für alle die den Wiener Dialekt nicht
+    kennen, kleine Übersetzungen am Rande.
+  autor: Franz Orghandl
+  verlag: Klett Kinderbuch Verlag
+  cover: 8049142100001z.jpg
+  preis: "13.00"
+  alter: ab 9 Jahren
+  shop: >
+    https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002483930/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Orghandl/Der-Katze-ist-es-ganz-egal/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Tab3: 
+
+----
+
+Seo: 

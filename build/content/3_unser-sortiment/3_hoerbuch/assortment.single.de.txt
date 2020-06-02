@@ -1,0 +1,11 @@
+Title: Hörbuch
+----
+Text:
+## Was auf die Ohren
+Für alle, die Hörbücher lieben und sich gerne auch vorlesen lassen, gibt es bei uns auch eine große Auswahl an Hörbüchern und Hörspielen für jedes Alter und für jede Vorliebe!
+----
+Cover: hoerbuch.jpg
+----
+Seotitle: Hörbücher
+----
+Seodescription: Wir lieben Hörbücher!
