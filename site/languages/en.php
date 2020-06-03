@@ -14,12 +14,14 @@ return [
         'nav-menue' => 'Menu',
         'nav-news' => 'Welcome!',
         'nav-fundevogel-und-team' => 'Fundevogel',
+        'nav-unser-sortiment' => 'Assortment',
         'nav-lesetipps' => 'Reading tips',
         'nav-kalender' => 'Calendar',
         'nav-unser-service' => 'Service',
         'nav-unser-netzwerk' => 'Network',
         'nav-kontakt' => 'Contact',
         'nav-shop' => 'Shop',
+        'nav-neu' => 'new',
 
         // 2. Sprach-Links (m)
         'i18-link--en-zu-de' => 'View current page in german', // en-beschreibung für de-link
@@ -53,6 +55,12 @@ return [
         'lesetipp_naechster-lesetipp' => 'Next tip', // button am seitenende (t)
         'lesetipp_letzter-lesetipp' => 'Previous tip', // button am seitenende (t)
 
+        'kategorien_ueberschrift-liste' => 'All Categories',
+        'categories_classics' => 'Timeless Classics',
+        'best-examples' => 'Selection of our Favorites',
+        'great-exponents' => 'Great Exponents',
+        'Serie' => 'Series',
+
 
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Overview of upcoming events', // zwischenueberschrift (t)
@@ -65,6 +73,8 @@ return [
         'vergangene-veranstaltungen_ueberschrift-liste' => 'All past events',  // zwischenueberschrift (t)
 
         'kalender_fixpunkte' => 'Annual highlights',
+        'nuetzliche-infos' => 'Useful resources',
+        'Eindrücke' => 'Impressions',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Overview',
@@ -93,12 +103,12 @@ return [
         'footer_telefon' => 'Tel', // abkuerzung telefon (t)
         'footer_telefax' => 'Fax', // abkuerzung telefax (t)
         'footer_impressum' => 'Imprint', // (t)
-        'footer_impressum--title' => 'Our Imprint', // (m)
-        'footer_agb' => 'Terms & conditions', // (t)
-        'footer_agb--title' => 'Our terms and conditions', // (m)
+        'footer_impressum--title' => 'Imprint & Legal Information', // (m)
+        'footer_agb' => 'Terms & Conditions', // (t)
+        'footer_agb--title' => 'Our Terms & Conditions', // (m)
         'footer_widerruf' => 'Disclaimer', // (t)
         'footer_widerruf--title' => 'Our Disclaimer', // (m)
         'footer_datenschutz' => 'Privacy', // (t)
-        'footer_datenschutz--title' => 'Our data privacy guidelines', // (m)
+        'footer_datenschutz--title' => 'Our Data Privacy Guidelines', // (m)
     ],
 ];

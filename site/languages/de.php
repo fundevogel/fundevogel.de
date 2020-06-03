@@ -15,12 +15,14 @@ return [
         'nav-menue' => 'Menü',
         'nav-news' => 'Willkommen!',
         'nav-fundevogel-und-team' => 'Fundevogel',
+        'nav-unser-sortiment' => 'Sortiment',
         'nav-lesetipps' => 'Lesetipps',
         'nav-kalender' => 'Kalender',
         'nav-unser-service' => 'Service',
         'nav-unser-netzwerk' => 'Netzwerk',
         'nav-kontakt' => 'Kontakt',
         'nav-shop' => 'Shop',
+        'nav-neu' => 'neu',
 
         // 2. Sprach-Links (m)
         'i18-link--de-zu-fr' => 'Dise Seite auf Französisch anzeigen', // de-beschreibung für fr-link
@@ -60,6 +62,11 @@ return [
         'lesetipp_naechster-lesetipp' => 'Nächster Lesetipp', // button am seitenende (t)
         'lesetipp_letzter-lesetipp' => 'Letzter Lesetipp', // button am seitenende (t)
 
+        'kategorien_ueberschrift-liste' => 'Alle Kategorien im Überblick',
+        'categories_classics' => 'Zeitlose Klassiker',
+        'best-examples' => 'Auswahl unserer Lieblinge',
+        'great-exponents' => 'Bekannte Vertreter',
+        'Serie' => 'Serie',
 
         // IV. KALENDER + VERGANGENE VERANSTALTUNGEN
         'kalender_ueberschrift-liste' => 'Alle Veranstaltungen im Überblick', // zwischenueberschrift (t)
@@ -72,6 +79,8 @@ return [
         'vergangene-veranstaltungen_ueberschrift-liste' => 'Alle vergangenen Veranstaltungen',  // zwischenueberschrift (t)
 
         'kalender_fixpunkte' => 'Jährliche Höhepunkte',
+        'nuetzliche-infos' => 'Nützliche Infos',
+        'Eindrücke' => 'Eindrücke',
 
         // 2. Termin im Überblick (t)
         'kalender_termin-ueberschrift' => 'Termin im Überblick',
@@ -102,7 +111,7 @@ return [
         'footer_impressum' => 'Impressum', // (t)
         'footer_impressum--title' => 'Unser Impressum', // (m)
         'footer_agb' => 'AGB', // (t)
-        'footer_agb--title' => 'Unsere Allgemeinen Geschäftsbedingungen (AGB)', // (m)
+        'footer_agb--title' => 'Unsere Allgemeinen Geschäftsbedingungen', // (m)
         'footer_widerruf' => 'Widerruf', // (t)
         'footer_widerruf--title' => 'Unsere Widerrufsbelehrung', // (m)
         'footer_datenschutz' => 'Datenschutz', // (t)

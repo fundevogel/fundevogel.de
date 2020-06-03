@@ -20,7 +20,7 @@ Vagrant.configure(2) do |config|
         cpus: 1,
         memory: 512,
         ansible: '2.9.0',
-        playbook: 'lib/playbook.yml',
+        playbook: 'lib/ansible/playbook.yml',
     }
 
     # Basic VM settings

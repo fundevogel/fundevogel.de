@@ -14,12 +14,14 @@ return [
         'nav-menue' => '?',
         'nav-news' => 'Actualité',
         'nav-fundevogel-und-team' => 'Présentation',
+        'nav-unser-sortiment' => 'Assortiment',
         'nav-lesetipps' => 'Coin des livres',
         'nav-kalender' => 'Agenda',
         'nav-unser-service' => 'Service',
         'nav-unser-netzwerk' => 'Réseau',
         'nav-kontakt' => 'Contact',
         'nav-shop' => 'Boutique',
+        'nav-neu' => 'nouveau',
 
         // 2. Sprach-Links (m)
         'i18-link--fr-zu-de' => 'Afficher cette page en français', // fr-beschreibung für de-link
@@ -53,6 +55,11 @@ return [
         'lesetipps_aeltere-lesetipps--title' => 'Nos conseils de lecture plus anciens', // (m)
         'lesetipp_naechster-lesetipp' => 'Livre suivant', // button am seitenende (t)
         'lesetipp_letzter-lesetipp' => 'Livre précédent', // button am seitenende (t)
+
+        'kategorien_ueberschrift-liste' => 'All categories',
+        'categories_classics' => 'Timeless classics',
+        'best-examples' => 'Eine Auswahl unserer Lieblinge',
+        'great-exponents' => 'Bekannte Vertreter',
 
 
         // IV. Agenda + animations passées

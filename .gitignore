@@ -1,34 +1,28 @@
-# System files
-# ------------
-
-Icon
-.DS_Store
-
 # Development
 # -----
 
-.ideas
-.vagrant
+/.ideas
+/.vagrant
 /node_modules
-/build/vendor
+/vendor
 
 # Temporary files
 # ---------------
 
-yarn.lock
-/build/composer.lock
+/yarn.lock
+/composer.lock
 
-/build/public/media
-/build/public/assets
-/build/public/favicons
+/public/media
+/public/assets
+/public/favicons
+/site/logs
+/site/snippets/generated
 /source/images/favicons
-/build/site/logs
-/build/site/snippets/generated
 
 # Plugins
 # ---------------
-/build/site/plugins/*
-!/build/site/plugins/fv-*
+/site/plugins/*
+!/site/plugins/fv-*
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
@@ -36,12 +30,12 @@ yarn.lock
 
 # Accounts + Cache + Sessions
 # ---------------
-/build/storage
+/storage
 
 # Login credentials
 # ---------------
-/build/site/config/*.json
+/site/config/*.json
 
 # License
 # ---------------
-/build/site/config/.license
+/site/config/.license
