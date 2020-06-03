@@ -1,0 +1,21 @@
+Titleattribute: Verborgene Leseschätze
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Viele Bücher, vor allem aus der Reihe "Thabo", liegen auf einem Tisch
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Behaltet den Überblick im Dschungel der Neuerscheinungen!
+
+----
+
+Template: image
