@@ -15,14 +15,6 @@ Vous trouverez également ci-joint les sélections que nous faisons deux fois da
 
 ----
 
-Pdf-spring: 
-
-----
-
-Pdf-autumn: 
-
-----
-
 Perpage-wanted: true
 
 ----
@@ -55,15 +47,15 @@ Image-autumn: lesetipps-herbst.jpg
 
 ----
 
-About-us: 
+About-us:
 
 ----
 
-Left: 
+Left:
 
 ----
 
-Right: 
+Right:
 
 ----
 

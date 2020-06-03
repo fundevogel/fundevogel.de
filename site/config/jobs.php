@@ -111,15 +111,16 @@ return [
             $fileName = basename($file);
 
             preg_match('/[0-9]{4}/', $fileName, $year);
-            $season = str::contains($fileName, 'fruehjahr') ? 'Frühjahr' : 'Herbst';
+            $season = Str::contains($fileName, 'fruehjahr') ? 'Frühjahr' : 'Herbst';
 
             $file->update([
                 'titleAttribute' => 'Unsere Empfehlungen im ' . $season,
                 'edition' => $season,
                 'year' => $year[0],
-                'altAttribute' => 'Coverbild unserer ' . $season . 'sempfehlungen',
+                'altAttribute' => 'Coverbild unserer Empfehlungen im ' . $season,
                 'template' => 'pdf',
-            ]);
+                'coverImage' => $fileName . '.jpg',
+            ], 'de');
         }
 
         return [

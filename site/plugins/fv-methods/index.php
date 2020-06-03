@@ -16,25 +16,26 @@ Kirby::plugin('fundevogel/methods', [
         ]
     ],
     'fileMethods' => [
-        'getCover' => function () {
-            $seasons = [
-                'Frühjahr' => 'fruehjahr',
-                'Herbst' => 'herbst',
-            ];
+        'getCover' => function ($classes = '') {
+            // Try using real cover, otherwise use global fallback image
+            // (1) Real cover image
+            $fileCover = $this->coverImage()->toFile();
+            // (2) Fallback cover image
+            $fallback = site()->fallback()->toFile();
+            $cover = $fileCover !== null
+                ? $fileCover
+                : $fallback
+            ;
 
-            $lesetipps = page('lesetipps');
-            $season = $seasons[$this->edition()->toString()];
-            $cover = $lesetipps->image(basename($this->root()) . '.jpg');
+            $image = $cover->thumb('lesetipps.pdf');
 
-            // Fallback cover image
-            $image = $lesetipps->image($season . '.jpg');
-
-            if ($cover !== null) {
-                // Real cover image
-                $image = $cover->thumb('lesetipps.pdf');
-            }
-
-            return $image;
+            return Html::img($image->url(), [
+                'class' => $classes,
+                'title' => $this->titleAttribute(),
+                'alt' => $this->altAttribute(),
+                'width' => $image->width(),
+                'height' => $image->height(),
+            ]);
         }
     ],
     'pageMethods' => [

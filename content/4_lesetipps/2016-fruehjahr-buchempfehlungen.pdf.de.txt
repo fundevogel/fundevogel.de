@@ -6,11 +6,18 @@ Edition: Frühjahr
 
 ----
 
+Coverimage:
+
+- >
+  lesetipps/2016-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
 Year: 2016
 
 ----
 
-Altattribute: Coverbild unserer Frühjahrsempfehlungen
+Altattribute: Coverbild unserer Empfehlungen im Frühjahr
 
 ----
 

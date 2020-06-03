@@ -6,11 +6,18 @@ Edition: Herbst
 
 ----
 
+Coverimage:
+
+- >
+  lesetipps/2016-herbst-buchempfehlungen.pdf.jpg
+
+----
+
 Year: 2016
 
 ----
 
-Altattribute: Coverbild unserer Herbstsempfehlungen
+Altattribute: Coverbild unserer Empfehlungen im Herbst
 
 ----
 

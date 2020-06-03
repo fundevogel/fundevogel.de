@@ -1,33 +1,37 @@
 <?php
 
-return function ($kirby, $page) {
-    $perPage   = $page->perpage()->int();
+return function ($page) {
+    // Defining PDF editions
+    $files = $page->files()
+                  ->flip()
+                  ->filterBy('extension', 'pdf')
+                  ->group(function($file) {
+        if (Str::contains($file->filename(), 'herbst')) {
+            return 'autumn';
+        }
+
+        return 'spring';
+    });
+
+    $editions = [
+        $files->spring()->first(),
+        $files->autumn()->first(),
+    ];
+
+    // Defining recommendations
     $lesetipps = $page->children()
                       ->listed()
                       ->flip();
 
-    if ($tag = param('kategorie')) {
-        $perPage = 2;
-        $lesetipps = $lesetipps->filterBy('categories', rawurldecode($tag), ',');
-    }
-
-    if ($tag = param('thema')) {
-        $perPage = 2;
-        $lesetipps = $lesetipps->filterBy('tags', rawurldecode($tag), ',');
-    }
-
+    // Applying pagination
+    $perPage   = $page->perpage()->int();
     $lesetipps = $lesetipps->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $lesetipps->pagination();
 
-    $fields = [
-        $page->content('de')->pdf_spring(),
-        $page->content('de')->pdf_autumn(),
-    ];
-
     return compact(
-        'fields',
+        'editions',
         'perPage',
         'lesetipps',
-        'pagination'
+        'pagination',
     );
 };

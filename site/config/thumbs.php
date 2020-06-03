@@ -19,7 +19,7 @@ return [
         'news.article.image.placeholder' => ['width' => 224, 'crop' => true, 'blur' => true],
         'about.slides' => ['width' => 460, 'height' => 400, 'crop' => true],
         'lesetipps.article.cover' => ['width' => 300],
-        'lesetipps.pdf' => ['width' => 180],
+        'lesetipps.pdf' => ['width' => 200, 'quality' => 100],
         'contact.map' => ['width' => 460],
     ],
 ];

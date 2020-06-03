@@ -7,3 +7,4 @@ text: "{{ file.edition }} ({{ file.year }})"
 template: pdf
 create: pdf
 info: "{{ file.niceSize }}"
+image: file.coverImage.toFile()

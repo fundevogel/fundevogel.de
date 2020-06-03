@@ -38,4 +38,13 @@ columns:
 
   column_sidebar:
     sections:
+      section_cover:
+        type: fields
+        fields:
+          coverImage:
+            extends: fields/single-cover
+            query: file.parent.images
+            image:
+              ratio: 2/3
+
       info: sections/info-ux

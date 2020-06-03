@@ -8,26 +8,11 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mt-6 lg:mt-12 flex-none text-center">
-                <?php
-                    foreach ($fields as $field) :
-                ?>
-                <?php
-                    $file = $field->toFile();
-                    if ($file === null) continue;
-
-                    $image = $file->getCover();
-                ?>
-                <figure class="inline-block lg:first:ml-12 last:ml-12 shadow-cover rounded-lg">
-                    <a class="" href="<?= $file->url() ?>" target="_blank">
-                        <img
-                            class="rounded-t-lg"
-                            src="<?= $image->url() ?>"
-                            title="<?= $file->titleAttribute() ?>"
-                            alt="<?= $file->altAttribute() ?>"
-                            width="<?= $image->width() ?>"
-                            height="<?= $image->height() ?>"
-                        >
-                        <figcaption class="py-1 text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= $file->edition() ?></figcaption>
+                <?php foreach ($editions as $edition) : ?>
+                <figure class="w-40 sm:w-auto inline-block lg:first:ml-12 last:ml-12 shadow-cover rounded-lg">
+                    <a class="" href="<?= $edition->url() ?>" target="_blank">
+                        <?= $edition->getCover('rounded-t-lg') ?>
+                        <figcaption class="py-1 text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= $edition->edition() ?></figcaption>
                     </a>
                 </figure>
                 <?php endforeach ?>
@@ -61,7 +46,7 @@
             foreach ($lesetipps as $lesetipp) :
         ?>
         <?php
-            $image = $lesetipp->cover()->isNotEmpty() ? $lesetipp->cover()->toFile() : site()->fallback()->toFile();
+            $image = $lesetipp->cover()->isNotEmpty() ? $lesetipp->cover()->toFile() : $site->fallback()->toFile();
             $titleAttribute = $image->titleAttribute()->html();
             $altAttribute = $image->altAttribute()->html();
 

@@ -1,6 +1,6 @@
 title:
   de: Lesetipps
-  en: Recommendations
+  en: Reading tips
 
 options: options/default
 
@@ -42,20 +42,6 @@ tabs:
           en: Generate metadata
         progress: Durchsuchen ..
         job: createMetadata
-
-      pdf_spring:
-        extends: fields/single-pdf
-        label:
-          de: Frühjahrsausgabe
-          en: Spring edition
-        width: 1/2
-
-      pdf_autumn:
-        extends: fields/single-pdf
-        label:
-          de: Herbstausgabe
-          en: Autumn edition
-        width: 1/2
 
     sidebar:
       sidebar_fields:
