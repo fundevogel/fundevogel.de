@@ -11,7 +11,7 @@
                 <?php
                     foreach ($fields as $field) :
                 ?>
-                <?
+                <?php
                     $file = $field->toFile();
                     if ($file === null) continue;
 
