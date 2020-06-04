@@ -11,31 +11,11 @@ Text:
 ## We look forward to seeing you
 Here you will find all information about the current events of the Fundevogel.
 
-If you want to see what we have done in the past, you can also find the past events (link: vergangene-veranstaltungen text: here).
-
-----
-
-Webcal-text: Abonnieren Sie unsere Veranstaltungen!
-
-----
-
-Timezone: Europe/Berlin
-
-----
-
-Subtitle: Alle Veranstaltungen im Überblick
+If you want to see what we have done in the past, you can also find the past events (link: kalender/vergangene-veranstaltungen text: here).
 
 ----
 
 Perpage: 10
-
-----
-
-Handle: Calendar
-
-----
-
-Button: Vergangene Veranstaltungen
 
 ----
 
@@ -44,10 +24,6 @@ Seo:
 -
   seo-title: "Veranstaltungskalender"
   seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"
-
-----
-
-Translations: 1
 
 ----
 

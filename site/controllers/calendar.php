@@ -4,9 +4,9 @@ return function ($site, $pages, $page) {
     $image = $page->cover()->toFile();
     $thumb = $image->resize(460);
 
-    $subtitle = t('kalender_ueberschrift-liste');
-
-    $events = $page->children()->listed();
+    $events = $page->children()
+                   ->listed()
+                   ->filterBy('intendedTemplate', 'calendar.event');
 
     $closedEvents = $events->filter(function ($event) {
         $closed = [
@@ -38,7 +38,6 @@ return function ($site, $pages, $page) {
         'annualEvents',
         'image',
         'thumb',
-        'subtitle',
         'events',
     );
 };

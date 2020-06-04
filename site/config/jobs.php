@@ -139,7 +139,7 @@ return [
         });
 
         foreach ($oldEvents as $child) {
-            Dir::move($child->root(), page('vergangene-veranstaltungen')->root() . '/' . $child->dirname());
+            Dir::move($child->root(), page('kalender/vergangene-veranstaltungen')->root() . '/' . $child->dirname());
         }
 
         return [

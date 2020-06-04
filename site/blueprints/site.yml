@@ -35,9 +35,10 @@ tabs:
           events:
             extends: sections/articles
             headline: Veranstaltungen
-            parent: site.find("kalender")
+            parent: site.find('kalender')
             create: calendar.event
             layout: list
+            subpages: false
             limit: 8
 
           sort_out:

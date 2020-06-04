@@ -13,7 +13,7 @@
     </header>
     <hr>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= $subtitle ?></h2>
+        <h2 class="mb-12 text-center"><?= t('kalender_ueberschrift-liste') ?></h2>
         <?php if ($openEvents->isNotEmpty()) : ?>
         <?php foreach($openEvents as $timeRange => $events) : ?>
         <h2 class="mb-8 text-center"><?= $timeRange ?></h2>
