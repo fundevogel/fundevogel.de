@@ -2,7 +2,7 @@
 
 <article class="mb-16">
     <header class="container">
-        <div class="flex flex-col md:flex-row">
+        <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
                 <?= $page->text()->kt() ?>
             </div>

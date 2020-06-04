@@ -25,15 +25,15 @@
                                 <a class="js-tippy outline-none" href="<?= url('unsere-agb') ?>" title="<?= t('footer_agb--title') ?>">
                                     <span><?= t('footer_agb') ?></span>
                                 </a>
-                                <span class="mx-2">|</span>
+                                <span class="mx-2 select-none">|</span>
                                 <a class="js-tippy outline-none" href="<?= url('widerruf') ?>" title="<?= t('footer_widerruf--title') ?>">
                                     <span><?= t('footer_widerruf') ?></span>
                                 </a>
-                                <span class="mx-2">|</span>
+                                <span class="mx-2 select-none">|</span>
                                 <a class="js-tippy outline-none" href="<?= url('datenschutz') ?>" title="<?= t('footer_datenschutz--title') ?>">
                                     <span><?= t('footer_datenschutz') ?></span>
                                 </a>
-                                <span class="mx-2">|</span>
+                                <span class="mx-2 select-none">|</span>
                                 <a class="js-tippy outline-none" href="<?= url('impressum') ?>" title="<?= t('footer_impressum--title') ?>">
                                     <span><?= t('footer_impressum') ?></span>
                                 </a>
