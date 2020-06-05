@@ -6,12 +6,6 @@
   @apply rounded-lg;
 }
 
-.card.is-dashed {
-  @apply px-8 py-6;
-  @apply border-4;
-  @apply border-dashed;
-}
-
 .card h3,
 .card h4,
 .card h5,
@@ -34,10 +28,22 @@
   @apply text-orange-dark;
 }
 
-.card li {
-  @apply pl-6;
-}
-
 .card li::before {
   @apply text-orange-medium;
+}
+
+/* dashed card */
+
+.card.is-dashed {
+  @apply px-8 py-6;
+  @apply border-4;
+  @apply border-dashed;
+}
+
+.card.is-dashed h3,
+.card.is-dashed h4,
+.card.is-dashed h5,
+.card.is-dashed h6 {
+  @apply mb-4;
+  @apply underline;
 }

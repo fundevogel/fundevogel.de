@@ -56,12 +56,8 @@
     </section>
     <section class="container">
         <div class="mt-12 card is-dashed">
-        <h3 class="mb-6 underline"><?= t('nuetzliche-infos') ?></h3>
-        <ul class="leading-relaxed">
-            <?php foreach ($infoLinks as $infoLink) : ?>
-            <li><?= $infoLink->text()->kt() ?></li>
-            <?php endforeach ?>
-        </ul>
+            <h3 class="mb-4 underline"><?= t('nuetzliche-infos') ?></h3>
+            <?= $page->info()->kt() ?>
         </div>
     </section>
 

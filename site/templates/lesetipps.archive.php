@@ -13,7 +13,7 @@
     </header>
     <hr>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= t('Alle Empfehlungslisten') ?>:</h2>
+        <h2 class="mb-12 text-center"><?= t('Alle Empfehlungslisten') ?></h2>
         <div class="flex flex-wrap">
             <?php foreach ($editions as $edition) : ?>
             <div class="w-1/2 sm:w-1/3 lg:w-1/4 mb-6 md:mb-10 text-center">

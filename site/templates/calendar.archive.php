@@ -19,7 +19,7 @@
                 <h3 class="mb-4 text-center"><?= $year ?></h2>
                 <ul class="flex flex-col items-center">
                     <?php foreach($events as $event) : ?>
-                    <li class="mb-2">
+                    <li>
                         <?= $event->title() ?>
                         <time class="text-orange-medium" datetime="<?= $event->date()->toDate('Y-m-d') ?>"><?= $event->date()->toDate('d.m.Y') ?></time>
                     </li>

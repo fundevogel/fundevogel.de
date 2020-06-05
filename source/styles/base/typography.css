@@ -48,7 +48,7 @@ article {
   }
 
   ul li {
-    @apply pl-4;
+    @apply pl-6;
     @apply relative;
   }
 

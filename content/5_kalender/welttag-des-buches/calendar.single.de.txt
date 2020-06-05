@@ -14,19 +14,10 @@ Inspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St
 
 Über diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von (link: https://klexikon.zum.de/wiki/William_Shakespeare text: William Shakespeare target: blank) und (link: https://klexikon.zum.de/wiki/Miguel_de_Cervantes text: Miguel de Cervantes target: blank).
 ----
-Infolinks:
--
-  title: Offizielle Seite
-  text: >
-    Auf der (link: https://welttag-des-buches.de text: offiziellen Seite) des Welttags gibt es jede Menge zu entdecken.
--
-  title: Stadt Freiburg
-  text: >
-    Veranstaltungen in Freiburg und Umgebung auf den Seiten der (link: https://www.freiburg.de/pb/,Lde/594205.html text: Stadt Freiburg).
--
-  title: Stiftung Lesen
-  text: >
-    Außerdem gibt es noch die (link: https://stiftunglesen.de/aktionen/welttagdesbuches text: Stiftung Lesen) - nicht vergessen!
+Info:
+- Auf der (link: https://welttag-des-buches.de text: offiziellen Seite) des Welttags gibt es jede Menge zu entdecken.
+- Veranstaltungen in Freiburg und Umgebung auf den Seiten der (link: https://www.freiburg.de/pb/,Lde/594205.html text: Stadt Freiburg).
+- Außerdem gibt es noch die (link: https://stiftunglesen.de/aktionen/welttagdesbuches text: Stiftung Lesen) - nicht vergessen!
 ----
 Short:
 Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren am 23. April zahlreiche Schulklassen in der Buchhandlung, um in den mit Rosen geschmückten Regalen zu stöbern und spielerisch mit uns die Welt der Bücher zu feiern.
