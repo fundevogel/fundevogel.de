@@ -6,14 +6,14 @@
             <?= $site->useSVG(t('lesetipps_neuere-lesetipps'), 'w-auto h-10 fill-current', 'arrow-left') ?>
         </a>
         <?php endif ?>
-        <?php foreach ($pagination->range(5) as $r): ?>
-            <?php if ($pagination->page() === $r) : ?>
-            <span class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-medium text-white text-shadow cursor-not-allowed<?= $pagination->isFirstPage() ? ' rounded-l-lg' : '' ?><?= $pagination->isLastPage() ? ' rounded-r-lg' : '' ?>" aria-current="page">
-                <?= $r ?>
+        <?php foreach ($pagination->range(5) as $number): ?>
+            <?php if ($pagination->page() === $number) : ?>
+            <span class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-medium text-white text-shadow cursor-default<?= $pagination->isFirstPage() ? ' rounded-l-lg' : '' ?><?= $pagination->isLastPage() ? ' rounded-r-lg' : '' ?>" aria-current="page">
+                <?= $number ?>
             </span>
             <?php else : ?>
-            <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light hover:bg-red-medium text-white text-shadow transition-all outline-none" href="<?= $pagination->pageURL($r) ?>">
-                <?= $r ?>
+            <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light hover:bg-red-medium text-white text-shadow transition-all outline-none" href="<?= $pagination->pageURL($number) ?>">
+                <?= $number ?>
             </a>
             <?php endif ?>
         </a>
