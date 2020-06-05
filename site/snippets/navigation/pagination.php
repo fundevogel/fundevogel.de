@@ -8,11 +8,11 @@
         <?php endif ?>
         <?php foreach ($pagination->range(5) as $r): ?>
             <?php if ($pagination->page() === $r) : ?>
-            <span class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-medium text-white cursor-not-allowed<?= $pagination->isFirstPage() ? ' rounded-l-lg' : '' ?><?= $pagination->isLastPage() ? ' rounded-r-lg' : '' ?>" aria-current="page">
+            <span class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-medium text-white text-shadow cursor-not-allowed<?= $pagination->isFirstPage() ? ' rounded-l-lg' : '' ?><?= $pagination->isLastPage() ? ' rounded-r-lg' : '' ?>" aria-current="page">
                 <?= $r ?>
             </span>
             <?php else : ?>
-            <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->pageURL($r) ?>">
+            <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light hover:bg-red-medium text-white text-shadow transition-all outline-none" href="<?= $pagination->pageURL($r) ?>">
                 <?= $r ?>
             </a>
             <?php endif ?>

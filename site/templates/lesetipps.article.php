@@ -17,7 +17,7 @@
                                 <span class="lesetipp-plus absolute z-30" style="left: -1.25rem; top: -1.25rem">
                                     <?= $site->useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                                 </span>
-                                <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium cursor-context-menu transition-all z-25 spread-out">
+                                <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all z-25 spread-out">
                                     <div class="pt-16 px-4">
                                         <div class="lesetipp-overlay-section">
                                         <div class="mb-1 flex items-center">
@@ -110,7 +110,7 @@
                                 </div>
                             </div>
                             <div class="flex-none">
-                                <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white bg-red-light hover:bg-red-medium transition-all" href="<?php e($page->shop()->isNotEmpty(), $page->shop(), $site->shop()) ?>" target="_blank">
+                                <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?php e($page->shop()->isNotEmpty(), $page->shop(), $site->shop()) ?>" target="_blank">
                                     <span class="sketch text-xl sm:text-3xl select-none"><?= t('Zum Shop') ?> !</span>
                                 </a>
                             </div>
