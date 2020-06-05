@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <article class="mb-16">
-    <?php if ($pagination->page() == 1) : ?>
+    <?php if ($pagination->page() === 1) : ?>
     <header class="container">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
@@ -32,51 +32,7 @@
         <?php else : ?>
         <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
         <?php endif ?>
-        <?php
-            $count = 1;
-            foreach ($lesetipps as $lesetipp) :
-        ?>
-        <?php
-            $image = $lesetipp->cover()->isNotEmpty() ? $lesetipp->cover()->toFile() : $site->fallback()->toFile();
-            $titleAttribute = $image->titleAttribute()->html();
-            $altAttribute = $image->altAttribute()->html();
-
-            $cover = $image->thumb('lesetipps.article.cover');
-            $blurry = $image->thumb('lesetipps.article.cover.placeholder');
-        ?>
-        <article class="flex flex-col md:flex-row">
-            <div class="flex-none flex justify-center">
-                <a class="mb-6 md:mb-0" href="<?= $lesetipp->url() ?>">
-                    <img
-                        class="rounded-lg shadow-cover"
-                        <?php if ($count === 1) : ?>
-                        src="<?= $cover->url() ?>"
-                        <?php else : ?>
-                        src="<?= $blurry->url() ?>"
-                        data-layzr="<?= $cover->url() ?>"
-                        <?php endif ?>
-                        title="<?= $titleAttribute ?>"
-                        alt="<?= $altAttribute ?>"
-                        width="<?= $cover->width() ?>"
-                        height="<?= $cover->height() ?>"
-                    >
-                </a>
-            </div>
-            <div class="flex-1 md:ml-10">
-                <time datetime="<?= $lesetipp->date()->toDate('Y-m-d') ?>"><?= $lesetipp->date()->toDate('d.m.Y') ?></time>
-                <h3><a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
-                <p class="lg:text-lg">
-                    <?= $lesetipp->text()->excerpt(300) ?><br>
-                    <?= $lesetipp->moreLink('font-bold font-small-caps text-sm outline-none') ?>
-                </p>
-            </div>
-        </article>
-        <?php
-            e($count < $perPage && $count != $lesetipps->count(), '<hr class="max-w-sm">');
-            $count++;
-
-            endforeach;
-        ?>
+        <?php snippet('lesetipps/articles', ['lesetipps' => $lesetipps]) ?>
     </section>
 </article>
 

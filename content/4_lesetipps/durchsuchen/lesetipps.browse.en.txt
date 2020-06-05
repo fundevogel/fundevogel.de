@@ -1,0 +1,17 @@
+Title: Bücher-Suche
+----
+Text:
+## Bücher-Suche
+Die Suche
+----
+Perpage-wanted: true
+----
+Perpage: 5
+----
+Slug: browse
+----
+Seo:
+-
+  seo-title: "Suche"
+  seo-description: "Durchsucht unsere Lesetipps nach Belieben - hier wird jeder fündig!"
+----

@@ -1,0 +1,21 @@
+Titleattribute: Wer sucht, der findet!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Ein mit Kisten vollgestellter Raum, eine Hand taucht hinter einer Kiste auf und winkt
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Wir laden alle zum Stöbern ein - ob digital oder im Laden!
+
+----
+
+Template: image
