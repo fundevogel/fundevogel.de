@@ -27,7 +27,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -35,7 +35,7 @@ Isbn: 978-3-86256-098-1
 
 ----
 
-Shop: 
+Shop:
 
 ----
 
@@ -75,7 +75,7 @@ Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
 
 ----
 
-Tags: Klima / Klimatologie, Umweltschutz
+Topics: Klima / Klimatologie, Umweltschutz
 
 ----
 
@@ -85,25 +85,25 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 
-Tab1: 
+Tab1:
 
 ----
 
-Tab2: 
+Tab2:
 
 ----
 
 Angaben:
 
-- 
+-
   titel: Klimahelden
   isbn: 978-3-86256-098-1
   verdict: |
@@ -120,8 +120,8 @@ Angaben:
 
 ----
 
-Tab3: 
+Tab3:
 
 ----
 
-Seo: 
+Seo:

@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: 101 Dinge, die du tun musst, bevor du erwachsen bist
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -62,11 +62,11 @@ Binding: kartoniert
 
 ----
 
-Categories: 
+Categories:
 
 ----
 
-Tags: Kinderbeschäftigung
+Topics: Kinderbeschäftigung
 
 ----
 

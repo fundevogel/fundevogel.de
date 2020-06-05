@@ -23,7 +23,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -39,7 +39,7 @@ Autor: Martin Klein; Kerstin Meyer
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -71,7 +71,7 @@ Categories: Kinder-/Jugendlit.
 
 ----
 
-Tags: Erstlesebuch, Herbst
+Topics: Erstlesebuch, Herbst
 
 ----
 

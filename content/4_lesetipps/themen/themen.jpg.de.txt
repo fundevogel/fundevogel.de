@@ -1,0 +1,21 @@
+Titleattribute: Wir stellen passende Bücher zu wechselnden Themen zusammen
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Viele Bücher auf einem Tisch, im Hintergrund mit Büchern gefüllte Regale
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Passende Bücher zu wechselnden Themen
+
+----
+
+Template: image

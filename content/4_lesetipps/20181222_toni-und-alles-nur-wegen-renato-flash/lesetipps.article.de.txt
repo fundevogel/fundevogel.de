@@ -6,7 +6,7 @@ Text: Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballs
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Philip Waechter
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Comics
 
 ----
 
-Tags: Fußball
+Topics: Fußball
 
 ----
 

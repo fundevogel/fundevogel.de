@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Sabine Ludwig
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Ein Haufen Ärger
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -58,15 +58,15 @@ Preis: 7,95
 
 ----
 
-Binding: 
+Binding:
 
 ----
 
-Categories: 
+Categories:
 
 ----
 
-Tags: 
+Topics:
 
 ----
 

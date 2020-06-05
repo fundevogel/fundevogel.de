@@ -23,6 +23,21 @@ return function ($page) {
                       ->listed()
                       ->flip();
 
+    // Check parameters
+    $parameter = false;
+
+    if ($category = param('Kategorie')) {
+        // Listing by category
+        $perPage = 2;
+        $lesetipps = $lesetipps->filterBy('categories', rawurldecode($category), ',');
+        $parameter = 'Kategorie';
+    } elseif ($topic = param('Thema')) {
+        // Listing by tag
+        $perPage = 2;
+        $lesetipps = $lesetipps->filterBy('topics', rawurldecode($topic), ',');
+        $parameter = 'Thema';
+    }
+
     // Applying pagination
     $perPage   = $page->perpage()->int();
     $lesetipps = $lesetipps->paginate(($perPage >= 1) ? $perPage : 5);
@@ -33,5 +48,6 @@ return function ($page) {
         'perPage',
         'lesetipps',
         'pagination',
+        'parameter',
     );
 };

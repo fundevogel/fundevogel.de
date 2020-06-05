@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Der Krokodildieb
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendlit., Kinder-/Jugendliteratur
 
 ----
 
-Tags: Krokodil, Mobbing, Mut, Schule
+Topics: Krokodil, Mobbing, Mut, Schule
 
 ----
 

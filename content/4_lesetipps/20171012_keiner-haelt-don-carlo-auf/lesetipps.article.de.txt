@@ -21,7 +21,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -45,7 +45,7 @@ Titel: Keiner hält Don Carlo auf
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -69,7 +69,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Italien
+Topics: Italien
 
 ----
 

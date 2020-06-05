@@ -26,7 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Autor: Mirjam Pressler
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -50,7 +50,7 @@ Titel: Dunkles Gold
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -74,7 +74,7 @@ Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
 
 ----
 
-Tags: Juden, Geschichte, Mittelalter
+Topics: Juden, Geschichte, Mittelalter
 
 ----
 

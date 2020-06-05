@@ -22,24 +22,15 @@
     <hr>
     <?php endif ?>
     <section class="container">
-        <?php if (param('thema')) : ?>
-            <h2 class="mb-12 flex items-center">
-                <span class="mr-10 font-bold font-small-caps">Lesetipps zum Thema:</span>
-                <a class="group py-1 px-2 inline-flex items-center text-white bg-red-light hover:bg-red-medium rounded-lg outline-none transition-all" href="<?= page('lesetipps/themen')->url() ?>">
-                    <?= $site->useSVG('Close', 'w-8 h-8 p-1 stroke-current bg-red-medium group-hover:bg-red-dark rounded-lg transition-all', 'x') ?>
-                    <span class="-mt-px mr-2 ml-4 sketch font-small-caps text-6xl text-white"><?= rawurldecode(param('thema')) ?></span>
-                </a>
-            </h2>
-        <?php elseif (param('kategorie')) : ?>
-            <h2 class="mb-12 flex items-center">
-                <span class="mr-10 font-bold font-small-caps">Lesetipps der Kategorie:</span>
-                <a class="group py-1 px-2 inline-flex items-center text-white bg-red-light hover:bg-red-medium rounded-lg outline-none transition-all" href="<?= page('lesetipps/themen')->url() ?>">
-                    <?= $site->useSVG('Close', 'w-8 h-8 p-1 stroke-current bg-red-medium group-hover:bg-red-dark rounded-lg transition-all', 'x') ?>
-                    <span class="-mt-px mr-2 ml-4 sketch font-small-caps text-6xl text-white"><?= rawurldecode(param('kategorie')) ?></span>
-                </a>
-            </h2>
+        <?php if (param($parameter)) : ?>
+        <h2 class="mb-12 flex items-center">
+            <span class="mr-10 font-bold font-small-caps"><?= t('Alle Lesetipps:' . $parameter) ?>:</span>
+            <a class="py-2 px-4 sketch text-6xl text-white hover:text-white bg-red-light hover:bg-red-medium hover:line-through rounded-lg outline-none" href="<?= $page->url() ?>">
+                <?= rawurldecode(param($parameter)) ?>
+            </a>
+        </h2>
         <?php else : ?>
-        <h2 class="mb-12 text-center"><?= t('lesetipps_ueberschrift-liste') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
         <?php endif ?>
         <?php
             $count = 1;

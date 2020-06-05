@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Martin Muser
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
 
 ----
 
-Tags: Abenteuer, Detektiv, Freundschaft, Reise
+Topics: Abenteuer, Detektiv, Freundschaft, Reise
 
 ----
 

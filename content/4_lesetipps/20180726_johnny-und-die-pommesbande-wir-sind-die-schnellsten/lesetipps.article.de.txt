@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Abenteuer, Krimis/Thriller
+Topics: Abenteuer, Krimis/Thriller
 
 ----
 

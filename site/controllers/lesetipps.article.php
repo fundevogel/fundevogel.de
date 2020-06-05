@@ -11,7 +11,7 @@ return function ($site, $page) {
     $age = implode(' ', $age_list);
 
     $categories = $page->categories()->split();
-    $tags = $page->tags()->split();
+    $topics = $page->topics()->split();
 
     return compact(
         'titleAttribute',
@@ -20,6 +20,6 @@ return function ($site, $page) {
         'period',
         'age',
         'categories',
-        'tags',
+        'topics',
     );
 };

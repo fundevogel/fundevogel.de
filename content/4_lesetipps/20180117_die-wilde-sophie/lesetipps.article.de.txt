@@ -22,7 +22,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -46,7 +46,7 @@ Titel: Die wilde Sophie
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -70,7 +70,7 @@ Categories: Kinder-/Jugendliteratur, Kinderliteratur/Jugendliteratur
 
 ----
 
-Tags: Abenteuer, Gefahr, Schloss
+Topics: Abenteuer, Gefahr, Schloss
 
 ----
 

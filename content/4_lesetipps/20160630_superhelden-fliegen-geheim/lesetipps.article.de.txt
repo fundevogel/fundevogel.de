@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Alice Pantermüller
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Superhelden fliegen geheim
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Abenteuer, Fantasy
+Topics: Abenteuer, Fantasy
 
 ----
 

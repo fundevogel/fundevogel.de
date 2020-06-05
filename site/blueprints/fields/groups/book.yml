@@ -2,7 +2,7 @@ type: group
 fields:
   line:
     type: line
-    
+
   autor:
     label:
       de: AutorIn
@@ -67,10 +67,10 @@ fields:
     options: query
     query: page.siblings.pluck("categories", ",", true)
 
-  tags:
+  topics:
     label:
-      de: Schlagworte
-      en: Tags
+      de: Themen
+      en: Topics
     type: tags
     options: query
-    query: page.siblings.pluck("tags", ",", true)
+    query: page.siblings.pluck("topics", ",", true)

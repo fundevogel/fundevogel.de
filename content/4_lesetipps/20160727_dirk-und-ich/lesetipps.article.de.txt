@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Dirk und ich, Jubiläumsausgabe
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -62,11 +62,11 @@ Binding: gebunden
 
 ----
 
-Categories: 
+Categories:
 
 ----
 
-Tags: 
+Topics:
 
 ----
 

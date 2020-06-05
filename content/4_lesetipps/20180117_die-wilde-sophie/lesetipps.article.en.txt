@@ -70,7 +70,7 @@ Categories: Kinder-/Jugendliteratur, Kinderliteratur/Jugendliteratur
 
 ----
 
-Tags: Abenteuer, Gefahr, Schloss
+Topics: Abenteuer, Gefahr, Schloss
 
 ----
 

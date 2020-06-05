@@ -6,7 +6,7 @@ Text: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kl
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Mitten im Dschungel
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
 
 ----
 
-Tags: Abenteuer, Amazonas, Flugzeugabsturz / Absturz (Flugzeug), Freundschaft, Regenwald / Dschungel
+Topics: Abenteuer, Amazonas, Flugzeugabsturz / Absturz (Flugzeug), Freundschaft, Regenwald / Dschungel
 
 ----
 
@@ -77,25 +77,25 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 
-Tab1: 
+Tab1:
 
 ----
 
-Tab2: 
+Tab2:
 
 ----
 
 Angaben:
 
-- 
+-
   titel: Mitten im Dschungel
   isbn: 978-3-551-55480-2
   verdict: 'Mitten im Dschungel“ ist eine wunderbare, packende Abenteuer- und Freundschaftsgeschichte inmitten der faszinierenden Natur des brasilianischen Urwaldes der britischen Autorin Katherine Rundell.'
@@ -109,8 +109,8 @@ Angaben:
 
 ----
 
-Tab3: 
+Tab3:
 
 ----
 
-Seo: 
+Seo:

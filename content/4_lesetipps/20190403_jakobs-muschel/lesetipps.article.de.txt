@@ -24,7 +24,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -48,7 +48,7 @@ Titel: Jakobs Muschel
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -72,7 +72,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Außenseiter, Freundschaft, Junge
+Topics: Außenseiter, Freundschaft, Junge
 
 ----
 

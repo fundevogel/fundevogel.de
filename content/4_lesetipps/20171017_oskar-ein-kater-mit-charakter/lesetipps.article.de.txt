@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Oskar - Ein Kater mit Charakter
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Katzen
+Topics: Katzen
 
 ----
 

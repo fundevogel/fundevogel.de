@@ -1,22 +1,22 @@
-Title: Timeless – Retter der verlorenen Zeit  
+Title: Timeless – Retter der verlorenen Zeit
 
 ----
 
 Text:
 
-»Die zwei wichtigsten Tage in deinem Leben sind der, an dem du geboren wirst, und der, an dem du erkennst, warum.«  
+»Die zwei wichtigsten Tage in deinem Leben sind der, an dem du geboren wirst, und der, an dem du erkennst, warum.«
 
 Diego Ribera lebt in einer neuen Welt: Noch vor seiner Geburt gab es eine Zeitkollision, die alles verändert hat! JETZT LEBEN DIE MENSCHEN UND WESEN AUS ALLEN ZEITALTERN DER GESCHICHTSSCHREIBUNG GLEICHZEITIG. Zuerst hatten sie Angst voreinander, weil sie sich fremd waren, und bekämpften sich deshalb gegenseitig lange Jahre in den Chronos-Kriegen. Dann erkannten sie, dass sie nur als Gemeinschaft in dieser neuen Welt überleben könnten und schlossen Frieden. Aber es gibt immer noch einige, die mehr Macht an sich reißen möchten, die die Zeit zurückdrehen möchten, und sie schüren Hass und Angst in der Gesellschaft.
 
-Heute wird Diego 13 Jahre alt und erfährt von einer einzigartigen Gabe, die sein Vater Santiago ihm vererbt hat. Santiago hat sich seit jeher für den Frieden eingesetzt und wichtige Technologien für »eine bessere neue Welt« entwickelt: Elektrizität und Wartungsroboter – und die von Diego so begehrten Hoverboards. Sie sehen ein bisschen aus wie Skateboards, aber du kannst mit ihnen fliegen! Jetzt muss Diego plötzlich ein Superheld sein und hat auch schon keine Zeit mehr zu verlieren, denn sein Vater Santiago wird entführt, um als Geisel für die Interessen des Aeternums eingesetzt zu werden!  
+Heute wird Diego 13 Jahre alt und erfährt von einer einzigartigen Gabe, die sein Vater Santiago ihm vererbt hat. Santiago hat sich seit jeher für den Frieden eingesetzt und wichtige Technologien für »eine bessere neue Welt« entwickelt: Elektrizität und Wartungsroboter – und die von Diego so begehrten Hoverboards. Sie sehen ein bisschen aus wie Skateboards, aber du kannst mit ihnen fliegen! Jetzt muss Diego plötzlich ein Superheld sein und hat auch schon keine Zeit mehr zu verlieren, denn sein Vater Santiago wird entführt, um als Geisel für die Interessen des Aeternums eingesetzt zu werden!
 
-Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …  
+Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
 
 ----
 
 Verdict:
 
-Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …  
+Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
 Spannung und Action
 
 ----
@@ -29,7 +29,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -53,7 +53,7 @@ Titel: Timeless - Retter der verlorenen Zeit
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -77,7 +77,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Fantasy
+Topics: Fantasy
 
 ----
 

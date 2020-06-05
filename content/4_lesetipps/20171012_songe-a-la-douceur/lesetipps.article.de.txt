@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -26,7 +26,7 @@ Isbn: 978-2-84-865908-4
 
 ----
 
-Shop: 
+Shop:
 
 ----
 
@@ -34,7 +34,7 @@ Autor: Clémentine Beauvais
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Songe à la douceur
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -62,11 +62,11 @@ Binding: kartoniert
 
 ----
 
-Categories: 
+Categories:
 
 ----
 
-Tags: 
+Topics:
 
 ----
 

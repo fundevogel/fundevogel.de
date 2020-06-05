@@ -6,7 +6,7 @@ Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor die
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kindersachbuch/Jugendsachbuch
 
 ----
 
-Tags: Naturwissenschaft
+Topics: Naturwissenschaft
 
 ----
 
@@ -77,25 +77,25 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 
-Tab1: 
+Tab1:
 
 ----
 
-Tab2: 
+Tab2:
 
 ----
 
 Angaben:
 
-- 
+-
   titel: >
     Warum gibt es uns? Die Entwicklung des
     Lebens vom Urknall bis zu dir.
@@ -113,8 +113,8 @@ Angaben:
 
 ----
 
-Tab3: 
+Tab3:
 
 ----
 
-Seo: 
+Seo:

@@ -10,7 +10,7 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -38,7 +38,7 @@ Autor: Eymard Toledo
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -70,7 +70,7 @@ Categories: Bilderbuch
 
 ----
 
-Tags: Brasilien, Globalisierung
+Topics: Brasilien, Globalisierung
 
 ----
 

@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -42,7 +42,7 @@ Titel: Salon Salami. Einer ist immer besonders
 
 ----
 
-Untertitel: 
+Untertitel:
 
 ----
 
@@ -66,7 +66,7 @@ Categories: Kinder-/Jugendliteratur
 
 ----
 
-Tags: Abenteuer, Deutsch-französischer Jugendliteraturpreis
+Topics: Abenteuer, Deutsch-französischer Jugendliteraturpreis
 
 ----
 

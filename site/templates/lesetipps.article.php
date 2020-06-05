@@ -26,7 +26,7 @@
                                         </div>
                                             <div class="lesetipp-overlay-body">
                                                 <?php foreach ($categories as $category): ?>
-                                                <a href="<?= url('lesetipps', ['params' => ['kategorie' => rawurlencode($category)]]) ?>">
+                                                <a href="<?= url('lesetipps', ['params' => ['Kategorie' => rawurlencode($category)]]) ?>">
                                                     <span><?= $category ?></span>
                                                 </a>
                                                 <?php e(A::last($categories) === $category, '', ',&nbsp;') ?>
@@ -39,11 +39,11 @@
                                                 <h4 class="lesetipp-overlay-title">Themen:</h4>
                                             </div>
                                             <div class="lesetipp-overlay-body">
-                                                <?php foreach ($tags as $tag) : ?>
-                                                    <a class="inline" href="<?= url('lesetipps', ['params' => ['thema' => rawurlencode($tag)]]) ?>">
-                                                        <span><?= $tag ?></span>
+                                                <?php foreach ($topics as $topic) : ?>
+                                                    <a class="inline" href="<?= url('lesetipps', ['params' => ['Thema' => rawurlencode($topic)]]) ?>">
+                                                        <span><?= $topic ?></span>
                                                     </a>
-                                                    <?php e(A::last($tags) === $tag, '', ',&nbsp;') ?>
+                                                    <?php e(A::last($topics) === $topic, '', ',&nbsp;') ?>
                                                 <?php endforeach ?>
                                             </div>
                                         </div>
@@ -111,7 +111,7 @@
                             </div>
                             <div class="flex-none">
                                 <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white bg-red-light hover:bg-red-medium transition-all" href="<?php e($page->shop()->isNotEmpty(), $page->shop(), $site->shop()) ?>" target="_blank">
-                                    <span class="sketch text-xl sm:text-3xl"><?= t('Zum Shop') ?> !</span>
+                                    <span class="sketch text-xl sm:text-3xl select-none"><?= t('Zum Shop') ?> !</span>
                                 </a>
                             </div>
                         </div>

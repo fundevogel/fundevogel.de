@@ -40,7 +40,7 @@ return [
             'alter' => $data['Altersempfehlung'],
             'preis' => $data['Preis'],
             'categories' => $data['Kategorien'],
-            'tags' => $data['Schlagworte'],
+            'topics' => $data['Schlagworte'],
             'binding' => $data['Einband'],
         ];
 
