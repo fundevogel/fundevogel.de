@@ -73,10 +73,8 @@
                     </div>
                 </div>
                 <?php
-                    endif
-                ?>
-                <?php
-                    endforeach
+                    endif;
+                    endforeach;
                 ?>
             </div>
             <div class="js-controls mb-px flex justify-center">
@@ -99,9 +97,11 @@
     <section class="container">
         <?= $page->last()->kt() ?>
     </section>
-
+    <hr class="max-w-sm">
+    <section class="container xl:px-8">
+        <h2 class="mb-12 text-center"><?= t('Unser Sortiment im Überblick') ?></h2>
+        <?php snippet('assortment/navigation') ?>
+    </section>
 </article>
-
-<?php snippet('assortment/single-prevnext') ?>
 
 <?php snippet('footer') ?>
