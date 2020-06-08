@@ -45,9 +45,9 @@
         <div class="pt-12 pb-6 lg:pb-4 bg-orange-light">
             <div class="container lg:px-8 xl:px-12">
                 <div class="text-center">
-                    <?= $site->useSVG(t('kalender_fixpunkte'), 'wave-icon', 'calendar-filled') ?>
+                    <?= $site->useSVG(t('Jährliche Höhepunkte'), 'wave-icon', 'calendar-filled') ?>
                 </div>
-                <h2 class="wave-title"><?= t('kalender_fixpunkte') ?></h2>
+                <h2 class="wave-title"><?= t('Jährliche Höhepunkte') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <?php
                         $count = 1;
@@ -67,7 +67,7 @@
         </div>
         <?= $site->useSeparator('orange-light', 'bottom') ?>
     </aside>
-    <?php if ($closedEvents) : ?>
+    <?php if ($closedEvents->isNotEmpty()) : ?>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('kalender_geschlossene-veranstaltungen') ?></h2>
         <div id="macy">
