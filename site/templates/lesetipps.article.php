@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<article class="">
+<article class="mb-16">
     <header class="container">
         <time datetime="<?= $page->date()->toDate('Y-m-d') ?>"><?= $page->date()->toDate('d.m.Y') ?></time>
         <h2><?= $page->title()->html() ?></h2>
@@ -18,7 +18,7 @@
                                     <?= $site->useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                                 </span>
                                 <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all z-25 spread-out">
-                                    <div class="pt-16 px-4">
+                                    <div class="pt-8 px-4">
                                         <div class="lesetipp-overlay-section">
                                         <div class="mb-1 flex items-center">
                                             <?= $site->useSVG('Kategorien', 'lesetipp-overlay-icon', 'folder') ?>
