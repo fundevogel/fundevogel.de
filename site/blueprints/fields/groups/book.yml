@@ -10,6 +10,20 @@ fields:
     type: text
     width: 1/2
 
+  illustrator:
+    label:
+      de: IllustratorIn
+      en: Illustrator
+    type: text
+    width: 1/2
+
+  translator:
+    label:
+      de: ÜbersetzerIn
+      en: Translator
+    type: text
+    width: 1/2
+
   participants:
     label:
       de: Mitwirkende

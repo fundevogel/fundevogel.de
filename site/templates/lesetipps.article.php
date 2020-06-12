@@ -72,12 +72,28 @@
                                         <?= $page->autor()->html() ?>
                                     </span>
                                 </div>
+                                <?php if ($page->illustrator()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
                                     <?= $site->useSVG(t('IllustratorIn'), 'js-tippy lesetipp-icon', 'palette') ?>
+                                    <span class="ml-4">
+                                        <?= $page->illustrator()->html() ?>
+                                    </span>
+                                </div>
+                                <?php elseif ($page->translator()->isNotEmpty()) : ?>
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= $site->useSVG(t('ÜbersetzerIn'), 'js-tippy lesetipp-icon', 'globe') ?>
+                                    <span class="ml-4">
+                                        <?= $page->translator()->html() ?>
+                                    </span>
+                                </div>
+                                <?php elseif ($page->participants()->isNotEmpty()) : ?>
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= $site->useSVG(t('Mitwirkende'), 'js-tippy lesetipp-icon', 'heart') ?>
                                     <span class="ml-4">
                                         <?= $page->participants()->html() ?>
                                     </span>
                                 </div>
+                                <?php endif ?>
                             </div>
                             <div class="flex flex-col sm:flex-row">
                                 <div class="mb-4 flex-1 flex items-center">
