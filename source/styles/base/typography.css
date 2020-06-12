@@ -47,21 +47,6 @@ article {
     @apply text-xl;
   }
 
-  ul li {
-    @apply pl-6;
-    @apply relative;
-  }
-
-  ul li::before {
-    @apply absolute;
-    @apply left-0;
-    @apply font-bold;
-    @apply text-red-medium;
-
-    content: '×';
-    top: -1px;
-  }
-
   blockquote {
     @apply my-6;
     @apply pl-4;

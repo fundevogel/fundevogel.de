@@ -1,0 +1,14 @@
+.list li {
+  @apply pl-6;
+  @apply relative;
+}
+
+.list li::before {
+  @apply absolute;
+  @apply left-0;
+  @apply font-bold;
+  @apply text-red-medium;
+
+  content: '×';
+  top: -1px;
+}
