@@ -1,0 +1,34 @@
+/* class applies to select element itself, not a wrapper element */
+.form-select {
+  @apply m-0;
+  @apply py-2 px-4;
+  @apply w-1/3;
+  @apply max-w-full;
+  @apply inline-block;
+  @apply font-normal text-orange-dark text-opacity-50;
+  @apply bg-orange-light;
+  @apply border-4 border-dashed border-orange-medium;
+  @apply rounded-lg;
+  @apply appearance-none outline-none;
+}
+
+.form-select:focus,
+.form-select:active {
+  @apply outline-none;
+}
+
+.form-select::-ms-expand {
+  @apply hidden;
+}
+
+.form-select:hover {
+  @apply border-orange-dark;
+}
+
+.form-select:focus {
+  @apply outline-none;
+  @apply border-orange-dark;
+
+  box-shadow: 0 1px 0 1px rgba(252, 169, 77, 1);
+  box-shadow: 0 0 0 3px -moz-mac-focusring;
+}

@@ -1,0 +1,214 @@
+/* @import '../../../node_modules/dropkickjs/dist/dropkick.css'; */
+
+
+.dk-select,
+.dk-select-multi {
+  @apply py-2 px-4;
+  @apply w-full;
+  @apply max-w-full;
+  @apply inline-block;
+  @apply font-normal text-orange-medium text-opacity-100;
+  @apply bg-orange-light;
+  @apply border-4 border-dashed border-orange-medium;
+  @apply rounded-lg;
+  @apply appearance-none outline-none;
+
+  @apply cursor-pointer;
+  @apply relative;
+}
+
+.dk-selected {
+  @apply w-full;
+  @apply bg-orange-light;
+  @apply truncate;
+}
+
+/* .dk-selected-disabled {
+  @apply text-gray-dark;
+} */
+
+.dk-select .dk-select-options {
+  @apply hidden;
+  @apply absolute;
+
+  left: -3.8px;
+  right: -3.8px;
+}
+
+.dk-select-open-up .dk-select-options {
+  /* border-radius: 0.4em 0.4em 0 0; */
+  @apply -mb-1;
+  @apply border-b-0;
+  @apply rounded-t-lg;
+
+  bottom: 100%;
+}
+
+.dk-select-open-down .dk-select-options {
+  /* border-radius: 0 0 0.4em 0.4em; */
+  @apply -mt-1;
+  @apply border-t-0;
+  @apply rounded-b-lg;
+
+  top: 100%;
+}
+
+/* .dk-select-multi .dk-select-options {
+  max-height: 12rem;
+} */
+
+.dk-select-options {
+  @apply bg-orange-light;
+  @apply border-4 border-dashed border-orange-medium;
+  @apply m-0;
+  @apply overflow-x-hidden;
+  @apply overflow-y-auto;
+  @apply z-50;
+  @apply w-auto;
+
+  max-height: 24rem;
+}
+
+.dk-option-selected {
+  @apply bg-orange-medium;
+  @apply text-white;
+}
+
+.dk-select-options-highlight .dk-option-selected {
+  @apply bg-transparent;
+  color: inherit;
+}
+
+.dk-option {
+  @apply py-2 px-4;
+}
+
+.dk-select-options .dk-option-highlight {
+  @apply bg-orange-medium;
+  @apply text-white;
+}
+
+/* .dk-select-options .dk-option-disabled {
+  @apply bg-transparent;
+  @apply text-gray-dark;
+} */
+
+.dk-select-options .dk-option-hidden {
+  @apply hidden;
+}
+
+/* .dk-optgroup {
+  border: solid #ccc;
+  border-width: 1px 0;
+  margin-top: 0.25em;
+  padding: 0.25em 0;
+}
+
+.dk-optgroup + .dk-option {
+  margin-top: 0.25em; }
+
+.dk-optgroup + .dk-optgroup {
+  border-top-width: 0;
+  margin-top: 0; }
+
+.dk-optgroup:nth-child(2) {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0; }
+
+.dk-optgroup:last-child {
+  border-bottom-width: 0;
+  margin-bottom: 0;
+  padding-bottom: 0; }
+
+.dk-optgroup-disabled {
+  color: #bbb;
+  cursor: not-allowed;
+  opacity: 0.6; }
+
+.dk-optgroup-label {
+  font-weight: bold;
+  padding: 0 0.5em 0.25em;
+  width: 100%; }
+
+.dk-optgroup-options {
+  list-style: none;
+  padding-left: 0; }
+
+.dk-optgroup-options li {
+  padding-left: 1.2em; } */
+
+.dk-select-open-up .dk-selected {
+  @apply border-orange-medium;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.dk-select-open-down .dk-selected {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  @apply border-orange-medium;
+}
+
+.dk-select-open-up .dk-selected::before,
+.dk-select-open-down .dk-selected::before {
+  border-bottom-color: theme('colors', 'orange-medium');
+  border-width: 0 0.25em 0.25em;
+}
+
+.dk-select-open-up .dk-selected::after,
+.dk-select-open-down .dk-selected::after {
+  border-left-color: theme('colors', 'orange-medium');
+}
+
+.dk-select-open-up .dk-select-options,
+.dk-select-open-down .dk-select-options,
+.dk-select-multi:focus .dk-select-options {
+  @apply border-orange-medium;
+  display: block;
+}
+
+.dk-select-multi:hover,
+.dk-select-multi:focus {
+  outline: none;
+}
+
+.dk-selected:hover,
+.dk-selected:focus {
+  @apply border-orange-medium;
+  outline: none; }
+
+.dk-selected:hover::before,
+.dk-selected:focus::before {
+  border-top-color: theme('colors', 'orange-medium');
+}
+
+.dk-selected:hover::after,
+.dk-selected:focus::after {
+  border-left-color: theme('colors', 'orange-medium');
+}
+
+.dk-select-disabled {
+  color: #bbb;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.dk-select-disabled .dk-selected:hover,
+.dk-select-disabled .dk-selected:focus {
+  border-color: inherit;
+}
+
+.dk-select-disabled .dk-selected:hover::before,
+.dk-select-disabled .dk-selected:focus::before {
+  border-top-color: inherit;
+}
+
+.dk-select-disabled .dk-selected:hover::after,
+.dk-select-disabled .dk-selected:focus::after {
+  border-left-color: inherit;
+}
+
+select[data-dkcacheid] {
+  @apply hidden;
+}

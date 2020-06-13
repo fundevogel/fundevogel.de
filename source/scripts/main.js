@@ -14,8 +14,10 @@ import {tns} from 'tiny-slider/src/tiny-slider.module';
 
 import featureDetection from './modules/jsDetect';
 import toggleMenu from './modules/toggleMenu';
-import baguetteBox from './vendor/baguetteBox.js';
+import forEach from './modules/foreach';
+import baguetteBox from '../../../baguetteBox.js/src/baguetteBox';
 
+import Dropkick from 'dropkickjs';
 
 /*
  * App Class
@@ -62,6 +64,7 @@ class App {
 
         const baguetteBoxSelector = '.js-lightbox';
         const baguetteBoxOptions = {
+            theme: 'fundevogel',
             animation: 'fadeIn',
             overlayBackgroundColor: 'rgba(255,249,196,1)',
         };
@@ -207,6 +210,27 @@ class App {
                                 nav: true,
                                 navContainer: data.next.container.querySelector('.js-controls'),
                                 controls: false,
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                    {
+                        namespace: 'lesetipps.browse',
+                        beforeEnter(data) {
+                            // NodeList:
+                            forEach(data.next.container.querySelectorAll('.js-select'), function(value, index) {
+                                value.onchange = function() {
+                                    // if (this.selectedIndex !== 0) {
+                                    window.location.href = this.value;
+                                    // }
+                                };
+
+                                new Dropkick(value);
                             });
                         },
                         // afterEnter() {
