@@ -13,7 +13,12 @@
   "bugs": {
     "url": "https://github.com/two-brain/fundevogel.de/issues"
   },
-  "keywords": ["gulp", "kirby", "cms", "starterkit"],
+  "keywords": [
+    "gulp",
+    "kirby",
+    "cms",
+    "starterkit"
+  ],
   "scripts": {
     "start": "gulp",
     "build": "NODE_ENV=production gulp build",
@@ -29,6 +34,7 @@
     "@barba/core": "2.9.7",
     "animejs": "3.2.0",
     "baguettebox.js": "1.11.1",
+    "dropkickjs": "^2.2.4",
     "infinite-scroll": "3.0.6",
     "layzr.js": "2.2.2",
     "macy": "2.5.1",
@@ -93,11 +99,25 @@
       "sourceType": "module"
     },
     "rules": {
-      "at-rule-no-unknown": ["off"],
-      "indent": ["error", 4],
-      "max-len": ["warn", {"ignoreComments": true}],
-      "one-var": ["off"],
-      "require-jsdoc": ["off"]
+      "at-rule-no-unknown": [
+        "off"
+      ],
+      "indent": [
+        "error",
+        4
+      ],
+      "max-len": [
+        "warn",
+        {
+          "ignoreComments": true
+        }
+      ],
+      "one-var": [
+        "off"
+      ],
+      "require-jsdoc": [
+        "off"
+      ]
     }
   },
   "browserslist": [

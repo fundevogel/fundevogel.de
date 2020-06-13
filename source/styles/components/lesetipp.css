@@ -8,7 +8,7 @@
 }
 
 .lesetipp-overlay-section {
-  @apply mb-6;
+  @apply mb-4;
   @apply flex;
   @apply flex-col;
   @apply text-white;
