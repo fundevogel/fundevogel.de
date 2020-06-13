@@ -19,4 +19,4 @@
         <span class="h-20 flex-1 rounded-r-lg bg-red-light opacity-75 cursor-not-allowed"></span>
         <?php endif ?>
     </nav>
-  </div>
+</div>

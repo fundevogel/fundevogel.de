@@ -25,7 +25,7 @@
                 $topic = $countedTopic[0];
                 $quantity = $countedTopic[1];
             ?>
-            <a class="js-tippy mx-2 inline border-b-2 border-transparent hover:border-orange-medium border-dashed" href="<?= url('lesetipps', ['params' => ['Thema' => rawurlencode($topic)]]) ?>" title="<?= tp('Buch/Bücher', [ 'count' => $quantity ]) ?>" data-tippy-theme="fundevogel orange">
+            <a class="js-tippy mx-2 inline border-b-2 border-transparent hover:border-orange-medium border-dashed" href="<?= url('lesetipps', ['params' => ['Thema' => rawurlencode($topic)]]) ?>" title="<?= tp('Buch/Bücher', ['count' => $quantity ]) ?>" data-tippy-theme="fundevogel orange">
                 <?= html($topic) ?>
             </a>
             <?php endforeach ?>
