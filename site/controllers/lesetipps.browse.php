@@ -74,10 +74,18 @@ return function ($page) {
 
     sort($topics);
 
+    $publishers = page('lesetipps')
+        ->children()
+        ->listed()
+        ->pluck('publisher', null, true);
+
+    natcasesort($publishers);
+
     $fields = [
         'Kategorie' => $categories,
         'Thema' => $topics,
         'Lesealter' => $ages,
+        'Verlag' => $publishers,
     ];
 
     // Applying pagination

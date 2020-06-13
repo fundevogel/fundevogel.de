@@ -18,7 +18,7 @@
     <?php if ($total > 0) : ?>
     <hr>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= tp('Deine Suche ergab XY Ergebnisse', ['count' => $total]) ?></h2>
+        <h2 class="mb-12 text-center"><?= tp('Deine Suche ergab XY Treffer', ['count' => $total]) ?></h2>
         <?php snippet('lesetipps/articles', ['lesetipps' => $results]) ?>
     </section>
     <?php endif ?>
