@@ -110,8 +110,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="flex md:flex-col lg:flex-row justify-between items-center">
-                            <div class="flex md:mb-8 lg:mb-0">
+                        <div class="flex justify-between items-center">
+                            <div class="flex">
                                 <div class="mr-6 sm:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $age ?></span>
                                     <span class="block text-sm sm:text-lg"><?= $period ?></span>
