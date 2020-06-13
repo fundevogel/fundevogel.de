@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/4099276460851356366/Buecher_Abenteuer/Ki
 
 ----
 
-Autor: Kirsten Boie
+Author: Kirsten Boie
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Thabo, Detektiv & Gentleman - Der Nashorn-Fall
+Book_title: Thabo, Detektiv & Gentleman - Der Nashorn-Fall
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Oetinger
+Publisher: Oetinger
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 13,00
+Price: 13,00
 
 ----
 

@@ -29,16 +29,14 @@ return [
 
         $data = $object->processData($dataRaw);
 
-        $fileName = $page->slug() . '_' . str::slug($data['AutorIn']);
-
         $dataArray = [
-            'autor' => $data['AutorIn'],
-            'titel' => $data['Titel'],
-            'untertitel' => $data['Untertitel'],
+            'book_title' => $data['Titel'],
+            'book_subtitle' => $data['Untertitel'],
+            'author' => $data['AutorIn'],
             'participants' => $data['Mitwirkende'],
-            'verlag' => $data['Verlag'],
-            'alter' => $data['Altersempfehlung'],
-            'preis' => $data['Preis'],
+            'publisher' => $data['Verlag'],
+            'age' => $data['Altersempfehlung'],
+            'price' => $data['Preis'],
             'categories' => $data['Kategorien'],
             'topics' => $data['Schlagworte'],
             'binding' => $data['Einband'],
@@ -51,24 +49,24 @@ return [
                 continue;
             }
 
-            $updateArray = a::update($updateArray, [
+            $updateArray = A::update($updateArray, [
                 $key => $value
             ]);
         }
 
-        $page->update($updateArray);
+        $page->update($updateArray, 'de');
 
         return [
             'status' => 200,
-            'label' => 'Update erfolgreich!',
-            'reload' => true,
+            'label' => $data,
+            // 'reload' => true,
         ];
     },
     'downloadCover' => function ($page) {
         $isbn = $page->isbn()->value();
         $object = pcbis();
         $imagePath = kirby()->root('content') . '/' . $page->diruri();
-        $fileName = $page->slug() . '_' . str::slug($page->autor());
+        $fileName = $page->slug() . '_' . Str::slug($page->author());
 
         if (!file_exists($imagePath . '/' . $fileName . '.jpg')) {
             // API call
@@ -83,14 +81,14 @@ return [
 
         try {
             $page->image($fileName . '.jpg')->update([
-                'titleAttribute' => '"' . $page->titel() . '" von ' . $page->autor(),
+                'titleAttribute' => '"' . $page->book_title() . '" von ' . $page->author(),
                 'source' => 'Deutsche Nationalbibliothek',
-                'altAttribute' => 'Cover des Buches "' . $page->titel() . '" von ' . $page->autor(),
+                'altAttribute' => 'Cover des Buches "' . $page->book_title() . '" von ' . $page->author(),
                 'template' => 'image',
             ]);
             $page->update([
                 'cover' => $fileName . '.jpg',
-            ]);
+            ], 'de');
         } catch (Exception $e) {
             return [
                 'status' => 404,

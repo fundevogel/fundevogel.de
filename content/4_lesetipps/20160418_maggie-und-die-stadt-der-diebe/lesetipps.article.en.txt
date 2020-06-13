@@ -36,7 +36,7 @@ Shop: http://shop.fundevogel.de/product/4099276460848873278/Buecher_Kinder--und-
 
 ----
 
-Autor: Patrick Hertweck
+Author: Patrick Hertweck
 
 ----
 
@@ -44,23 +44,23 @@ Participants: Mitarbeit: Maximilian Meinzold
 
 ----
 
-Titel: Maggie und die Stadt der Diebe
+Book_title: Maggie und die Stadt der Diebe
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Thienemann Verlag
+Publisher: Thienemann Verlag
 
 ----
 
-Alter: ab 11 Jahren
+Age: ab 11 Jahren
 
 ----
 
-Preis: 14,99
+Price: 14,99
 
 ----
 

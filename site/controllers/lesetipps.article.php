@@ -9,7 +9,7 @@ return function ($site, $page) {
         : $image->thumb('lesetipps.article.cover-square')
     ;
 
-    $age_list = explode(' ', $page->alter());
+    $age_list = explode(' ', $page->age());
     $period = array_pop($age_list);
     $age = implode(' ', $age_list);
 

@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Salah Naoura
+Book-title: Matti und Sami und die verflixte Ungerechtigkeit der Welt
 
 ----
 
-Participants: Zeichnungen: Barbara Jung
+Book-subtitle: 
 
 ----
 
-Titel: Matti und Sami und die verflixte Ungerechtigkeit der Welt
+Author: Salah Naoura
 
 ----
 
-Untertitel:
+Illustrator: Barbara Jung
 
 ----
 
-Verlag: Beltz
+Translator: 
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 12,95
+Publisher: Beltz
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 12,95
 
 ----
 
@@ -62,7 +70,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinderliteratur/Jugendliteratur, Kinder-/Jugendliteratur
+Categories: Roman
 
 ----
 

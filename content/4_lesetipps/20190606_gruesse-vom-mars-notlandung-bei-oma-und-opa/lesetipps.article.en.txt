@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Thomas Möller; Sebastian Grusnick
+Author: Thomas Möller; Sebastian Grusnick
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Teresa Holtmann
 
 ----
 
-Titel: Grüße vom Mars
+Book_title: Grüße vom Mars
 
 ----
 
-Untertitel: Notlandung bei Oma und Opa
+Book_subtitle: Notlandung bei Oma und Opa
 
 ----
 
-Verlag: Dressler Verlag GmbH
+Publisher: Dressler Verlag GmbH
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 13,00
+Price: 13,00
 
 ----
 

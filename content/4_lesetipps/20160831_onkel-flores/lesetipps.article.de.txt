@@ -10,7 +10,7 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -30,35 +30,43 @@ Isbn: 978-3-905804-72-0
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores/63715/4099276460822233275/4099276460851008340/-3/4099276460822241241/%204099276460822241224/%204099276460822241224
+Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/4099276460851008340/63715/10002/-3/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores
 
 ----
 
-Autor: Eymard Toledo
+Book-title: Onkel Flores
 
 ----
 
-Participants:
+Book-subtitle: Eine ziemlich wahre Geschichte aus Brasilien
 
 ----
 
-Titel: Onkel Flores
+Author: Eymard Toledo
 
 ----
 
-Untertitel: Eine ziemlich wahre Geschichte aus Brasilien
+Illustrator: 
 
 ----
 
-Verlag: Baobab Books
+Translator: 
 
 ----
 
-Alter: ab 5 Jahren
+Participants: 
 
 ----
 
-Preis: 17,90
+Publisher: Baobab Books
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 17,90
 
 ----
 

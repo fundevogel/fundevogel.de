@@ -38,7 +38,7 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Mirjam Pressler
+Author: Mirjam Pressler
 
 ----
 
@@ -46,23 +46,23 @@ Participants:
 
 ----
 
-Titel: Dunkles Gold
+Book_title: Dunkles Gold
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Beltz
+Publisher: Beltz
 
 ----
 
-Alter: ab 14 Jahren
+Age: ab 14 Jahren
 
 ----
 
-Preis: 17,95
+Price: 17,95
 
 ----
 

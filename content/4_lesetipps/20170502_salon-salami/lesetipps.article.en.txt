@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Benjamin Tienti
+Author: Benjamin Tienti
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Barbara Jung
 
 ----
 
-Titel: Salon Salami. Einer ist immer besonders
+Book_title: Salon Salami. Einer ist immer besonders
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Dressler Verlag GmbH
+Publisher: Dressler Verlag GmbH
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 12,99
+Price: 12,99
 
 ----
 

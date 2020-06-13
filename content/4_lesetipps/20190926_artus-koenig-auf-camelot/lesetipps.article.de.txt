@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/Product/3000001646940/63715/10002/-3/Bue
 
 ----
 
-Autor: Ilka Sokolowski
+Book-title: Artus
 
 ----
 
-Participants: Helmut Dohle
+Book-subtitle: König auf Camelot
 
 ----
 
-Titel: Artus
+Author: Ilka Sokolowski
 
 ----
 
-Untertitel: König auf Camelot
+Illustrator: Helmut Dohle
 
 ----
 
-Verlag: Gerstenberg Verlag
+Translator: 
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 16,95
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 16,95
 
 ----
 

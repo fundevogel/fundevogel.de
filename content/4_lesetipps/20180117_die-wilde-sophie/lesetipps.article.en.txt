@@ -34,7 +34,7 @@ Shop: http://shop.fundevogel.de/product/3000000223333/Buecher_Abenteuer/Lukas-Ha
 
 ----
 
-Autor: Lukas Hartmann
+Author: Lukas Hartmann
 
 ----
 
@@ -42,23 +42,23 @@ Participants: Illustration: Susann Opel-Götz
 
 ----
 
-Titel: Die wilde Sophie
+Book_title: Die wilde Sophie
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Diogenes
+Publisher: Diogenes
 
 ----
 
-Alter: ab 9 Jahren
+Age: ab 9 Jahren
 
 ----
 
-Preis: 16,00
+Price: 16,00
 
 ----
 

@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/3000000459044/Hardcover-Softcover-Karte_
 
 ----
 
-Autor: Boris Pfeiffer
+Author: Boris Pfeiffer
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Jan Saße
 
 ----
 
-Titel: Die drei ??? Kids - Bundesliga-Alarm
+Book_title: Die drei ??? Kids - Bundesliga-Alarm
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Kosmos (Franckh-Kosmos)
+Publisher: Kosmos (Franckh-Kosmos)
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 9,99
+Price: 9,99
 
 ----
 

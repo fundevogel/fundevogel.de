@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Laura Dower
+Author: Laura Dower
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Cordula Borawski
 
 ----
 
-Titel: 101 Dinge, die du tun musst, bevor du erwachsen bist
+Book_title: 101 Dinge, die du tun musst, bevor du erwachsen bist
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Fischer Meyers
+Publisher: Fischer Meyers
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 9,99
+Price: 9,99
 
 ----
 

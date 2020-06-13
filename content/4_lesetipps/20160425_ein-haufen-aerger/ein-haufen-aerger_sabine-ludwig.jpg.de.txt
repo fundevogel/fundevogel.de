@@ -1,4 +1,4 @@
-Titleattribute: "Ein Haufen Ärger" von Geschrieben von Sabine Ludwig
+Titleattribute: "Ein Haufen Ärger" von Sabine Ludwig
 
 ----
 
@@ -6,7 +6,7 @@ Source: Deutsche Nationalbibliothek
 
 ----
 
-Altattribute: Cover des Buches "Ein Haufen Ärger" von Geschrieben von Sabine Ludwig
+Altattribute: Cover des Buches "Ein Haufen Ärger" von Sabine Ludwig
 
 ----
 

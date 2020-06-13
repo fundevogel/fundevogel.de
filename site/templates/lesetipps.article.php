@@ -69,7 +69,7 @@
                                 <div class="mb-4 flex-1 flex items-center">
                                     <?= $site->useSVG(t('AutorIn'), 'js-tippy lesetipp-icon', 'bulb') ?>
                                     <span class="ml-4">
-                                        <?= $page->autor()->html() ?>
+                                        <?= $page->author()->html() ?>
                                     </span>
                                 </div>
                                 <?php if ($page->illustrator()->isNotEmpty()) : ?>
@@ -99,7 +99,7 @@
                                 <div class="mb-4 flex-1 flex items-center">
                                     <?= $site->useSVG(t('Verlag'), 'js-tippy lesetipp-icon', 'truck', 'data-tippy-placement="bottom"') ?>
                                     <span class="ml-4">
-                                        <?= $page->verlag()->html() ?>
+                                        <?= $page->publisher()->html() ?>
                                     </span>
                                 </div>
                                 <div class="mb-4 flex-1 flex items-center">
@@ -121,7 +121,7 @@
                                     <span class="block text-sm sm:text-lg">Seiten</span>
                                 </div>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
-                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->preis()->html() ?> €</span>
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->price()->html() ?> €</span>
                                     <span class="block text-sm sm:text-lg">Ladenpreis</span>
                                 </div>
                             </div>

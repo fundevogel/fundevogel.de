@@ -35,7 +35,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Martin Klein; Kerstin Meyer
+Author: Martin Klein; Kerstin Meyer
 
 ----
 
@@ -43,23 +43,23 @@ Participants:
 
 ----
 
-Titel: Finn und Frieda halten den Herbst auf
+Book_title: Finn und Frieda halten den Herbst auf
 
 ----
 
-Untertitel: Lesestufe B
+Book_subtitle: Lesestufe B
 
 ----
 
-Verlag: Tulipan
+Publisher: Tulipan
 
 ----
 
-Alter: ab 7 Jahren
+Age: ab 7 Jahren
 
 ----
 
-Preis: 8,95
+Price: 8,95
 
 ----
 

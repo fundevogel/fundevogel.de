@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet//Product/Buech
 
 ----
 
-Autor: Philip Waechter
+Author: Philip Waechter
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Toni
+Book_title: Toni
 
 ----
 
-Untertitel: Und alles nur wegen Renato Flash
+Book_subtitle: Und alles nur wegen Renato Flash
 
 ----
 
-Verlag: Beltz
+Publisher: Beltz
 
 ----
 
-Alter: ab 6 Jahren
+Age: ab 6 Jahren
 
 ----
 
-Preis: 14,95
+Price: 14,95
 
 ----
 

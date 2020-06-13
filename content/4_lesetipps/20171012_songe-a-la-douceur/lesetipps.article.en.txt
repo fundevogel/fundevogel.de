@@ -30,7 +30,7 @@ Shop:
 
 ----
 
-Autor: Clémentine Beauvais
+Author: Clémentine Beauvais
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Songe à la douceur
+Book_title: Songe à la douceur
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Editions Sarbacane
+Publisher: Editions Sarbacane
 
 ----
 
-Alter: à partir de 13 ans
+Age: à partir de 13 ans
 
 ----
 
-Preis: 22,80
+Price: 22,80
 
 ----
 

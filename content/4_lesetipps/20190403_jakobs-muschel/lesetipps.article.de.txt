@@ -24,7 +24,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -36,31 +36,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Jens Sparschuh
+Book-title: Jakobs Muschel
 
 ----
 
-Participants: Illustration: Julia Dürr
+Book-subtitle: 
 
 ----
 
-Titel: Jakobs Muschel
+Author: Jens Sparschuh
 
 ----
 
-Untertitel:
+Illustrator: Julia Dürr
 
 ----
 
-Verlag: Gerstenberg Verlag
+Translator: 
 
 ----
 
-Alter: ab 7 Jahren
+Participants: 
 
 ----
 
-Preis: 13,95
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 13,95
 
 ----
 

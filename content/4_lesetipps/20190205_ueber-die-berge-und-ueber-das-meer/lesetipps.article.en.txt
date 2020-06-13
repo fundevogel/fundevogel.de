@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Dirk-
 
 ----
 
-Autor: Dirk Reinhardt
+Author: Dirk Reinhardt
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Über die Berge und über das Meer
+Book_title: Über die Berge und über das Meer
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Gerstenberg Verlag
+Publisher: Gerstenberg Verlag
 
 ----
 
-Alter: ab 12 Jahren
+Age: ab 12 Jahren
 
 ----
 
-Preis: 14,95
+Price: 14,95
 
 ----
 

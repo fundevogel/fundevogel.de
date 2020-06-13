@@ -24,7 +24,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -36,31 +36,39 @@ Shop: http://shop.fundevogel.de/Product/Buecher_Abenteuer/Fabian-Lenk/Die-Zeitde
 
 ----
 
-Autor: Fabian Lenk
+Book-title: Die Zeitdetektive - Das Wunder von Bern
 
 ----
 
-Participants: Illustration: Almud Kunert
+Book-subtitle: Ein Krimi zur Fußballweltmeisterschaft 1954
 
 ----
 
-Titel: Die Zeitdetektive - Das Wunder von Bern
+Author: Fabian Lenk
 
 ----
 
-Untertitel: Ein Krimi zur Fußballweltmeisterschaft 1954
+Illustrator: Almud Kunert
 
 ----
 
-Verlag: Ravensburger Buchverlag
+Translator: 
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 8,99
+Publisher: Ravensburger Buchverlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 8,99
 
 ----
 

@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/4099276460845218677/Buecher_Abenteuer/Ut
 
 ----
 
-Autor: Ute Krause
+Author: Ute Krause
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Die Muskeltiere, Einer für alle - alle für einen
+Book_title: Die Muskeltiere, Einer für alle - alle für einen
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: cbj
+Publisher: cbj
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 15,00
+Price: 15,00
 
 ----
 

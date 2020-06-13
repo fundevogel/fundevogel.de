@@ -34,7 +34,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilde
 
 ----
 
-Autor: Eymard Toledo
+Author: Eymard Toledo
 
 ----
 
@@ -42,23 +42,23 @@ Participants:
 
 ----
 
-Titel: Onkel Flores
+Book_title: Onkel Flores
 
 ----
 
-Untertitel: Eine ziemlich wahre Geschichte aus Brasilien
+Book_subtitle: Eine ziemlich wahre Geschichte aus Brasilien
 
 ----
 
-Verlag: Baobab Books
+Publisher: Baobab Books
 
 ----
 
-Alter: ab 5 Jahren
+Age: ab 5 Jahren
 
 ----
 
-Preis: 17,90
+Price: 17,90
 
 ----
 

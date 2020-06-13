@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilde
 
 ----
 
-Autor: Steph Burlefinger
+Book-title: Freiburg wimmelt
 
 ----
 
-Participants:
+Book-subtitle: 
 
 ----
 
-Titel: Freiburg wimmelt
+Author: Steph Burlefinger
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: Silberburg-Verlag
+Translator: 
 
 ----
 
-Alter: ab 3 Jahren
+Participants: 
 
 ----
 
-Preis: 14,90
+Publisher: Silberburg-Verlag
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 14,90
 
 ----
 

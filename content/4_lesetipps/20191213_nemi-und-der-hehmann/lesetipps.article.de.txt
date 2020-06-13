@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Wieland Freund
+Book-title: Nemi und der Hehmann
 
 ----
 
-Participants: Illustration: Hanna Jung
+Book-subtitle: 
 
 ----
 
-Titel: Nemi und der Hehmann
+Author: Wieland Freund
 
 ----
 
-Untertitel: Roman
+Illustrator: Hanna Jung
 
 ----
 
-Verlag: Beltz
+Translator: 
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 14,95
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 14,95
 
 ----
 
@@ -62,7 +70,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Roman
 
 ----
 
@@ -76,19 +84,19 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Tab1:
+Tab1: 
 
 ----
 
-Tab2:
+Tab2: 
 
 ----
 
@@ -112,8 +120,8 @@ Angaben:
 
 ----
 
-Tab3:
+Tab3: 
 
 ----
 
-Seo:
+Seo: 

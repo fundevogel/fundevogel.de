@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Christian Wiik Gjerde
+Author: Christian Wiik Gjerde
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Maike. Illustration Dörries: Anke Kuhl
 
 ----
 
-Titel: Kleeblattsommer
+Book_title: Kleeblattsommer
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Gerstenberg Verlag
+Publisher: Gerstenberg Verlag
 
 ----
 
-Alter: ab 9 Jahren
+Age: ab 9 Jahren
 
 ----
 
-Preis: 14,95
+Price: 14,95
 
 ----
 

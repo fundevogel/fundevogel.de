@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/1602295/Buecher_Kinder--und-Jugend/Sabin
 
 ----
 
-Autor: Sabine Ludwig
+Author: Sabine Ludwig
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Ein Haufen Ärger
+Book_title: Ein Haufen Ärger
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Fischer Schatzinsel Verlag
+Publisher: Fischer Schatzinsel Verlag
 
 ----
 
-Alter: ab 11 Jahren
+Age: ab 11 Jahren
 
 ----
 
-Preis: 7,95
+Price: 7,95
 
 ----
 

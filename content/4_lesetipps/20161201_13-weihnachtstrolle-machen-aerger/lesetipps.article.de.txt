@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/4099276460851940704/Buecher_Kinder--und-
 
 ----
 
-Autor: Sabine Städing
+Book-title: 13 Weihnachtstrolle machen Ärger
 
 ----
 
-Participants: Illustration: Barbara Scholz
+Book-subtitle: 
 
 ----
 
-Titel: 13 Weihnachtstrolle machen Ärger
+Author: Sabine Städing
 
 ----
 
-Untertitel:
+Illustrator: Barbara Scholz
 
 ----
 
-Verlag: Boje Verlag
+Translator: 
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 13,00
+Publisher: Boje Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 13,00
 
 ----
 
@@ -62,11 +70,11 @@ Binding: gebunden
 
 ----
 
-Categories:
+Categories: 
 
 ----
 
-Topics:
+Topics: 
 
 ----
 

@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/3000000206926/Buecher_Kinder--und-Jugend
 
 ----
 
-Autor: Hildegard Müller
+Author: Hildegard Müller
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Hildegard Müller
 
 ----
 
-Titel: Oskar - Ein Kater mit Charakter
+Book_title: Oskar - Ein Kater mit Charakter
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: DTV
+Publisher: DTV
 
 ----
 
-Alter: ab 6 Jahren
+Age: ab 6 Jahren
 
 ----
 
-Preis: 12,95
+Price: 12,95
 
 ----
 

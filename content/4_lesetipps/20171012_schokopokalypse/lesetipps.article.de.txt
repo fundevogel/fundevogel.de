@@ -24,7 +24,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -36,31 +36,39 @@ Shop: http://shop.fundevogel.de/product/3000000180516/Buecher_Kinder--und-Jugend
 
 ----
 
-Autor: Chris Callaghan
+Book-title: Schokopokalypse
 
 ----
 
-Participants: Übersetzung: Britt Somann-Jung
+Book-subtitle: 
 
 ----
 
-Titel: Schokopokalypse
+Author: Chris Callaghan
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: Carlsen
+Translator: Britt Somann-Jung
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 12,99
+Publisher: Carlsen
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 12,99
 
 ----
 

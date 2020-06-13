@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Abent
 
 ----
 
-Autor: Simone Buchholz
+Author: Simone Buchholz
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Horst Klein
 
 ----
 
-Titel: Johnny und die Pommesbande
+Book_title: Johnny und die Pommesbande
 
 ----
 
-Untertitel: Wir sind die Schnellsten!
+Book_subtitle: Wir sind die Schnellsten!
 
 ----
 
-Verlag: Dressler Verlag GmbH
+Publisher: Dressler Verlag GmbH
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 12,00
+Price: 12,00
 
 ----
 

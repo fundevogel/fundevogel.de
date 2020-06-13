@@ -26,7 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -38,31 +38,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Monica Hesse
+Book-title: Das Mädchen im blauen Mantel
 
 ----
 
-Participants: Übersetzung: Cornelia Stoll
+Book-subtitle: 
 
 ----
 
-Titel: Das Mädchen im blauen Mantel
+Author: Monica Hesse
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: cbj
+Translator: Cornelia Stoll
 
 ----
 
-Alter: ab 12 Jahren
+Participants: 
 
 ----
 
-Preis: 16,00
+Publisher: cbj
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 16,00
 
 ----
 

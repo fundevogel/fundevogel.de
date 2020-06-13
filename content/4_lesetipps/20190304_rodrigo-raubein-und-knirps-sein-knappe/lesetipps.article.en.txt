@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/product/3000001482806/Buecher_Kinder--un
 
 ----
 
-Autor: Michael Ende; Wieland Freund
+Author: Michael Ende; Wieland Freund
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Regina Kehn
 
 ----
 
-Titel: Rodrigo Raubein und Knirps, sein Knappe
+Book_title: Rodrigo Raubein und Knirps, sein Knappe
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Thienemann Verlag
+Publisher: Thienemann Verlag
 
 ----
 
-Alter: ab 6 Jahren
+Age: ab 6 Jahren
 
 ----
 
-Preis: 17,00
+Price: 17,00
 
 ----
 

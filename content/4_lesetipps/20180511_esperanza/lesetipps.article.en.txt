@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/3000000127166/Buecher_Kinder--und-Jugend
 
 ----
 
-Autor: Jakob Wegelius
+Author: Jakob Wegelius
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Gabriele Haefs
 
 ----
 
-Titel: Esperanza
+Book_title: Esperanza
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Gerstenberg Verlag
+Publisher: Gerstenberg Verlag
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 12,95
+Price: 12,95
 
 ----
 

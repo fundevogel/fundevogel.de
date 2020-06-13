@@ -33,7 +33,7 @@ Shop: https://fundevogel.buchkatalog.de/product/3000001431761/Buecher_Fantasy/Ka
 
 ----
 
-Autor: Katja Brandis
+Author: Katja Brandis
 
 ----
 
@@ -41,23 +41,23 @@ Participants: Illustration: Claudia Carls
 
 ----
 
-Titel: Woodwalkers - Tag der Rache
+Book_title: Woodwalkers - Tag der Rache
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Arena
+Publisher: Arena
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 14,00
+Price: 14,00
 
 ----
 

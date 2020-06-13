@@ -11,8 +11,17 @@ return function ($page) {
 
     // List search results
     if ($query = get('q')) {
+        $fields = [
+            'title', 'text',
+            'verdict', 'conclusion',
+            'book_title', 'book_subtitle',
+            'author', 'illustrator',
+            'translator', 'participants',
+            'publisher', 'isbn',
+            'categories', 'topics',
+        ];
         $results = $lesetipps->flip()
-                             ->search($query, 'title|text|verdict|conclusion|categories|topics|isbn|autor|participants|verlag');
+                             ->search($query, implode('|', $fields));
     }
 
     // When applied, filter search results
@@ -22,9 +31,9 @@ return function ($page) {
         }
 
         $parameters = [
-            'Thema' => 'topics',
             'Kategorie' => 'categories',
-            'Lesealter' => 'alter',
+            'Thema' => 'topics',
+            'Lesealter' => 'age',
         ];
 
         foreach ($parameters as $parameter => $field) {
@@ -34,25 +43,14 @@ return function ($page) {
         }
     }
 
-    // All categories
-    $allCategories = page('unser-sortiment')->children()
-                                            ->listed()
-                                            ->filterBy('intendedTemplate', 'assortment.single')
-                                            ->pluck('title', null, true);
-
     // All ages
     $allAges = page('lesetipps')->children()
                                 ->listed()
                                 ->filterBy('intendedTemplate', 'lesetipps.article')
-                                ->pluck('alter', null, true);
+                                ->pluck('age', null, true);
 
-    $categories = [];
+    // Flattening array
     $ages = [];
-
-    // Flattening arrays
-    foreach ($allCategories as $category) {
-        $categories[] = $category->value();
-    }
 
     foreach ($allAges as $age) {
         $ages[] = $age->value();
@@ -61,6 +59,13 @@ return function ($page) {
     // Sorting ages in order to make sure
     // mid-text ages are taken into consideration
     natsort($ages);
+
+    $categories = page('lesetipps')
+        ->children()
+        ->listed()
+        ->pluck('categories', ',', true);
+
+    sort($categories);
 
     $topics = page('lesetipps')
         ->children()
@@ -71,8 +76,8 @@ return function ($page) {
 
     $fields = [
         'Kategorie' => $categories,
-        'Lesealter' => $ages,
         'Thema' => $topics,
+        'Lesealter' => $ages,
     ];
 
     // Applying pagination

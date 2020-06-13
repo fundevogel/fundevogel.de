@@ -6,7 +6,7 @@ Text: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kl
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/product/3000001059911/Buecher_Abenteuer/
 
 ----
 
-Autor: Katherine Rundell
+Book-title: Mitten im Dschungel
 
 ----
 
-Participants: Übersetzung: Henning Ahrens
+Book-subtitle: 
 
 ----
 
-Titel: Mitten im Dschungel
+Author: Katherine Rundell
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: Carlsen
+Translator: Henning Ahrens
 
 ----
 
-Alter: ab 11 Jahren
+Participants: 
 
 ----
 
-Preis: 15,00
+Publisher: Carlsen
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Price: 15,00
 
 ----
 
@@ -77,19 +85,19 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Tab1:
+Tab1: 
 
 ----
 
-Tab2:
+Tab2: 
 
 ----
 
@@ -109,8 +117,8 @@ Angaben:
 
 ----
 
-Tab3:
+Tab3: 
 
 ----
 
-Seo:
+Seo: 

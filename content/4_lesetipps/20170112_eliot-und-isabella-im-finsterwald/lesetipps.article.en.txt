@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/4099276460851907197/Buecher_Kinder--und-
 
 ----
 
-Autor: Ingo Siegner
+Author: Ingo Siegner
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Eliot und Isabella im Finsterwald
+Book_title: Eliot und Isabella im Finsterwald
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Beltz
+Publisher: Beltz
 
 ----
 
-Alter: ab 6 Jahren
+Age: ab 6 Jahren
 
 ----
 
-Preis: 12,95
+Price: 12,95
 
 ----
 

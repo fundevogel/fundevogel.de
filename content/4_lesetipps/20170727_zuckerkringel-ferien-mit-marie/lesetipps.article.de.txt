@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Beate Dölling; Didier Laget
+Book-title: Zuckerkringel-Ferien mit Marie
 
 ----
 
-Participants: Illustration: Joëlle Tourlonias
+Book-subtitle: 
 
 ----
 
-Titel: Zuckerkringel-Ferien mit Marie
+Author: Beate Dölling & Didier Laget
 
 ----
 
-Untertitel:
+Illustrator: Joëlle Tourlonias
 
 ----
 
-Verlag: DTV
+Translator: 
 
 ----
 
-Alter: ab 7 Jahren
+Participants: 
 
 ----
 
-Preis: 10,95
+Publisher: DTV
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 10,95
 
 ----
 

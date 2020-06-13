@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Abent
 
 ----
 
-Autor: Kirsten Boie
+Author: Kirsten Boie
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Verena Körting
 
 ----
 
-Titel: Ein Sommer in Sommerby
+Book_title: Ein Sommer in Sommerby
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Oetinger
+Publisher: Oetinger
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 14,00
+Price: 14,00
 
 ----
 

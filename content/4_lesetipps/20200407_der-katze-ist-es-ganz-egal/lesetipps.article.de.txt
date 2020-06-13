@@ -6,7 +6,7 @@ Text: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So mö
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Franz Orghandl
+Book-title: Der Katze ist es ganz egal
 
 ----
 
-Participants: Illustration: Theresa Strozyk
+Book-subtitle: 
 
 ----
 
-Titel: Der Katze ist es ganz egal
+Author: Franz Orghandl
 
 ----
 
-Untertitel:
+Illustrator: Theresa Strozyk
 
 ----
 
-Verlag: Klett Kinderbuch Verlag
+Translator: 
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 13,00
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 13,00
 
 ----
 
@@ -77,19 +85,19 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Tab1:
+Tab1: 
 
 ----
 
-Tab2:
+Tab2: 
 
 ----
 
@@ -116,8 +124,8 @@ Angaben:
 
 ----
 
-Tab3:
+Tab3: 
 
 ----
 
-Seo:
+Seo: 

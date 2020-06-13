@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Abenteuer/Martin-Muser/K
 
 ----
 
-Autor: Martin Muser
+Author: Martin Muser
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Kannawoniwasein!
+Book_title: Kannawoniwasein!
 
 ----
 
-Untertitel: Manchmal muss man einfach verduften
+Book_subtitle: Manchmal muss man einfach verduften
 
 ----
 
-Verlag: Carlsen
+Publisher: Carlsen
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 12,00
+Price: 12,00
 
 ----
 

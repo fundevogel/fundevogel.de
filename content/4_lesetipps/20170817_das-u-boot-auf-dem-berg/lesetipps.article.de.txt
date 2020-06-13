@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/4099276460853507847/Buecher_Kinder--und-
 
 ----
 
-Autor: Ulrich Fasshauer
+Book-title: Das U-Boot auf dem Berg
 
 ----
 
-Participants: Illustration: Regina Kehn
+Book-subtitle: 
 
 ----
 
-Titel: Das U-Boot auf dem Berg
+Author: Ulrich Fasshauer
 
 ----
 
-Untertitel:
+Illustrator: Regina Kehn
 
 ----
 
-Verlag: Tulipan
+Translator: 
 
 ----
 
-Alter: ab 10 Jahren
+Participants: 
 
 ----
 
-Preis: 13,00
+Publisher: Tulipan
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 13,00
 
 ----
 

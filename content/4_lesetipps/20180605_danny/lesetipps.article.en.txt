@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/414874/Buecher_Kinder--und-Jugend/Roald-
 
 ----
 
-Autor: Roald Dahl
+Author: Roald Dahl
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Sybil Gräfin. Illustration Schönfeldt: Quentin Bla
 
 ----
 
-Titel: Danny oder Die Fasanenjagd
+Book_title: Danny oder Die Fasanenjagd
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Rowohlt TB.
+Publisher: Rowohlt TB.
 
 ----
 
-Alter: ab 11 Jahren
+Age: ab 11 Jahren
 
 ----
 
-Preis: 8,99
+Price: 8,99
 
 ----
 

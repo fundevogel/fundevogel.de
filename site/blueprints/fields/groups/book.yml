@@ -3,7 +3,21 @@ fields:
   line:
     type: line
 
-  autor:
+  book_title:
+    label:
+      de: Titel
+      en: Title
+    type: text
+    width: 1/2
+
+  book_subtitle:
+    label:
+      de: Untertitel
+      en: Subtitle
+    type: text
+    width: 1/2
+
+  author:
     label:
       de: AutorIn
       en: Author
@@ -31,35 +45,21 @@ fields:
     type: text
     width: 1/2
 
-  titel:
-    label:
-      de: Titel
-      en: Title
-    type: text
-    width: 1/2
-
-  untertitel:
-    label:
-      de: Untertitel
-      en: Subtitle
-    type: text
-    width: 1/2
-
-  verlag:
+  publisher:
     label:
       de: Name des Verlags
       en: Publishing company
     type: text
     width: 1/4
 
-  alter:
+  age:
     label:
       de: Altersempfehlung
       en: Age rating
     type: text
     width: 1/4
 
-  preis:
+  price:
     label:
       de: Preis (ohne Euro / €)
       en: Price (w/o Euro / €)

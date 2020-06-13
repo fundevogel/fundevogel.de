@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/4099276460841295620/Buecher_Fantasy/Alic
 
 ----
 
-Autor: Alice Pantermüller
+Book-title: Superhelden fliegen geheim
 
 ----
 
-Participants:
+Book-subtitle: 
 
 ----
 
-Titel: Superhelden fliegen geheim
+Author: Alice Pantermüller
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: Arena
+Translator: 
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 9,99
+Publisher: Arena
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 9,99
 
 ----
 

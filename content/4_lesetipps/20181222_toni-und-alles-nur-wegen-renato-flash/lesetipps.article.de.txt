@@ -6,7 +6,7 @@ Text: Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballs
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet//Product/Buech
 
 ----
 
-Autor: Philip Waechter
+Book-title: Toni
 
 ----
 
-Participants:
+Book-subtitle: Und alles nur wegen Renato Flash
 
 ----
 
-Titel: Toni
+Author: Philip Waechter
 
 ----
 
-Untertitel: Und alles nur wegen Renato Flash
+Illustrator: 
 
 ----
 
-Verlag: Beltz
+Translator: 
 
 ----
 
-Alter: ab 6 Jahren
+Participants: 
 
 ----
 
-Preis: 14,95
+Publisher: Beltz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,95
 
 ----
 

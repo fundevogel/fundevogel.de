@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/3000000614598/Buecher_Kinder--und-Jugend
 
 ----
 
-Autor: Oliver Scherz
+Book-title: Ein Freund wie kein anderer
 
 ----
 
-Participants: Illustration: Barbara Scholz
+Book-subtitle: 
 
 ----
 
-Titel: Ein Freund wie kein anderer
+Author: Oliver Scherz
 
 ----
 
-Untertitel:
+Illustrator: Barbara Scholz
 
 ----
 
-Verlag: Thienemann Verlag
+Translator: 
 
 ----
 
-Alter: ab 6 Jahren
+Participants: 
 
 ----
 
-Preis: 14,00
+Publisher: Thienemann Verlag
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,00
 
 ----
 

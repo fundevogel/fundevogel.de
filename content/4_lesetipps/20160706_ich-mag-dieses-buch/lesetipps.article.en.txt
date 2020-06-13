@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilde
 
 ----
 
-Autor: Constanze von Kitzing
+Author: Constanze von Kitzing
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Ich mag ... schaukeln, malen, Fußball, Krach
+Book_title: Ich mag ... schaukeln, malen, Fußball, Krach
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Carlsen
+Publisher: Carlsen
 
 ----
 
-Alter: ab 3 Jahren
+Age: ab 3 Jahren
 
 ----
 
-Preis: 12,99
+Price: 12,99
 
 ----
 

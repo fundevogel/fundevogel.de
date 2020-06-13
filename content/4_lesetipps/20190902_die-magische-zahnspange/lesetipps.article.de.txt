@@ -26,7 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -38,31 +38,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/300000
 
 ----
 
-Autor: Lukas Hartmann
+Book-title: Die magische Zahnspange
 
 ----
 
-Participants: Illustration: Julia Dürr
+Book-subtitle: 
 
 ----
 
-Titel: Die magische Zahnspange
+Author: Lukas Hartmann
 
 ----
 
-Untertitel:
+Illustrator: Julia Dürr
 
 ----
 
-Verlag: Diogenes
+Translator: 
 
 ----
 
-Alter: ab 10 Jahren
+Participants: 
 
 ----
 
-Preis: 16,00
+Publisher: Diogenes
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 16,00
 
 ----
 

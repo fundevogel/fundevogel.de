@@ -33,7 +33,7 @@ Shop: http://shop.fundevogel.de/product/4099276460848873279/Buecher_Kinder--und-
 
 ----
 
-Autor: Oliver Scherz
+Author: Oliver Scherz
 
 ----
 
@@ -41,23 +41,23 @@ Participants: Illustration: Peter Schössow
 
 ----
 
-Titel: Keiner hält Don Carlo auf
+Book_title: Keiner hält Don Carlo auf
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Thienemann Verlag
+Publisher: Thienemann Verlag
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 9,99
+Price: 9,99
 
 ----
 

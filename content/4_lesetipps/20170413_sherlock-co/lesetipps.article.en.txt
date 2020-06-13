@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/product/4099276460853500893/Buecher_Kinder--und-
 
 ----
 
-Autor: Sam Hearn
+Author: Sam Hearn
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Leena Flegler
 
 ----
 
-Titel: Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber
+Book_title: Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Egmont SchneiderBuch
+Publisher: Egmont SchneiderBuch
 
 ----
 
-Alter: ab 9 Jahren
+Age: ab 9 Jahren
 
 ----
 
-Preis: 10,00
+Price: 10,00
 
 ----
 

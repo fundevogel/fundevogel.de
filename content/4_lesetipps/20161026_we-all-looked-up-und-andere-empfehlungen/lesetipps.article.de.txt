@@ -36,31 +36,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/409927
 
 ----
 
-Autor: Tommy Wallach
+Book-title: We All Looked Up
 
 ----
 
-Participants: Aus dem Englischen von Henriette Zeltner
+Book-subtitle: 
 
 ----
 
-Titel: We All Looked Up
+Author: Tommy Wallach
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: cbt
+Translator: Henriette Zeltner
 
 ----
 
-Alter: ab 12 Jahren
+Participants: 
 
 ----
 
-Preis: 12,99
+Publisher: cbt
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 12,99
 
 ----
 

@@ -24,7 +24,7 @@ tabs:
         sections:
           listed:
             template: lesetipps.article
-            text: "{{ page.autor }}: {{ page.titel }}"
+            text: "{{ page.author }}: {{ page.book_title }}"
             info: "{{ page.date.toDate('d.m.Y') }}"
 
   tab_content:

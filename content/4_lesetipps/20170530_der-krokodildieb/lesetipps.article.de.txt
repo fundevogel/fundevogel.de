@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/4099276460851006974/Buecher_Kinder--und-
 
 ----
 
-Autor: Taran Bjørnstad
+Book-title: Der Krokodildieb
 
 ----
 
-Participants: Übersetzt aus dem Norwegischen von Maike Dörries. Mit Illustrationen von Christoffer Grav
+Book-subtitle: 
 
 ----
 
-Titel: Der Krokodildieb
+Author: Taran Bjørnstad
 
 ----
 
-Untertitel:
+Illustrator: Christoffer Grav
 
 ----
 
-Verlag: Beltz
+Translator: Maike Dörries
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 12,95
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,95
 
 ----
 

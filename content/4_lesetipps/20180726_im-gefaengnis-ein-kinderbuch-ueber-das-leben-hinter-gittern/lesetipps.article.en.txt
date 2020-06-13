@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Thomas Engelhardt
+Author: Thomas Engelhardt
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Illustration: Susann Hesselbarth
 
 ----
 
-Titel: Im Gefängnis
+Book_title: Im Gefängnis
 
 ----
 
-Untertitel: Ein Kinderbuch über das Leben hinter Gittern
+Book_subtitle: Ein Kinderbuch über das Leben hinter Gittern
 
 ----
 
-Verlag: Klett Kinderbuch Verlag
+Publisher: Klett Kinderbuch Verlag
 
 ----
 
-Alter: ab 8 Jahren
+Age: ab 8 Jahren
 
 ----
 
-Preis: 14,00
+Price: 14,00
 
 ----
 

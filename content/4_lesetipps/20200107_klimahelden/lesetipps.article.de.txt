@@ -27,7 +27,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -35,35 +35,43 @@ Isbn: 978-3-86256-098-1
 
 ----
 
-Shop:
+Shop: http://shop.fundevogel.de/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
 
 ----
 
-Autor: Hanna Schott
+Book-title: Klimahelden
 
 ----
 
-Participants: Illustration: Volker Konrad
+Book-subtitle: Von Goldsammlerinnen und Meeresputzern
 
 ----
 
-Titel: Klimahelden
+Author: Hanna Schott
 
 ----
 
-Untertitel: Von Goldsammlerinnen und Meeresputzern
+Illustrator: Volker Konrad
 
 ----
 
-Verlag: Neufeld Verlag
+Translator: 
 
 ----
 
-Alter: ab 9 Jahren
+Participants: 
 
 ----
 
-Preis: 12,90
+Publisher: Neufeld Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 12,90
 
 ----
 
@@ -85,19 +93,19 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Tab1:
+Tab1: 
 
 ----
 
-Tab2:
+Tab2: 
 
 ----
 
@@ -120,8 +128,8 @@ Angaben:
 
 ----
 
-Tab3:
+Tab3: 
 
 ----
 
-Seo:
+Seo: 

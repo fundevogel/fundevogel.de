@@ -30,7 +30,7 @@ Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Torbe
 
 ----
 
-Autor: Torben Kuhlmann
+Author: Torben Kuhlmann
 
 ----
 
@@ -38,23 +38,23 @@ Participants:
 
 ----
 
-Titel: Edison
+Book_title: Edison
 
 ----
 
-Untertitel: Das Rätsel des verschollenen Mauseschatzes
+Book_subtitle: Das Rätsel des verschollenen Mauseschatzes
 
 ----
 
-Verlag: NordSüd Verlag
+Publisher: NordSüd Verlag
 
 ----
 
-Alter: ab 5 Jahren
+Age: ab 5 Jahren
 
 ----
 
-Preis: 22,00
+Price: 22,00
 
 ----
 

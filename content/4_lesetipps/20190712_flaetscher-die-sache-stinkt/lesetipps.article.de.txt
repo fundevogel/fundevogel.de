@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: https://fundevogel.buchkatalog.de/product/4099276460851913174/Buecher_Kind
 
 ----
 
-Autor: Antje Szillat
+Book-title: Flätscher - Die Sache stinkt!
 
 ----
 
-Participants: Illustration: Jan Birck
+Book-subtitle: 
 
 ----
 
-Titel: Flätscher - Die Sache stinkt!
+Author: Antje Szillat
 
 ----
 
-Untertitel:
+Illustrator: Jan Birck
 
 ----
 
-Verlag: DTV
+Translator: 
 
 ----
 
-Alter: ab 7 Jahren
+Participants: 
 
 ----
 
-Preis: 10,95
+Publisher: DTV
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 10,95
 
 ----
 

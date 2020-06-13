@@ -30,7 +30,7 @@ Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinde
 
 ----
 
-Autor: Paul Biegel
+Author: Paul Biegel
 
 ----
 
@@ -38,23 +38,23 @@ Participants: Übersetzung: Eva Schweikart; Illustration: Carl Hollander
 
 ----
 
-Titel: Der Fluch des Wüstenwolfs
+Book_title: Der Fluch des Wüstenwolfs
 
 ----
 
-Untertitel:
+Book_subtitle:
 
 ----
 
-Verlag: Urachhaus
+Publisher: Urachhaus
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 17,00
+Price: 17,00
 
 ----
 

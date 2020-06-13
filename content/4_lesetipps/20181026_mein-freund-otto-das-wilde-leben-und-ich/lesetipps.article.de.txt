@@ -26,7 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -38,31 +38,39 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet//Product/Buech
 
 ----
 
-Autor: Silke Lambeck
+Book-title: Mein Freund Otto, das wilde Leben und ich
 
 ----
 
-Participants: Illustration: Barbara Jung
+Book-subtitle: 
 
 ----
 
-Titel: Mein Freund Otto, das wilde Leben und ich
+Author: Silke Lambeck
 
 ----
 
-Untertitel:
+Illustrator: Barbara Jung
 
 ----
 
-Verlag: Gerstenberg Verlag
+Translator: 
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 12,95
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,95
 
 ----
 

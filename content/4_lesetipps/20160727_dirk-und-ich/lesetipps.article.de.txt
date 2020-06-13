@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,31 +30,39 @@ Shop: http://shop.fundevogel.de/product/4099276460851006128/Buecher_Kinder--und-
 
 ----
 
-Autor: Andreas Steinhöfel
+Book-title: Dirk und ich
 
 ----
 
-Participants: Illustration: Peter Schössow
+Book-subtitle: 
 
 ----
 
-Titel: Dirk und ich, Jubiläumsausgabe
+Author: Andreas Steinhöfel
 
 ----
 
-Untertitel:
+Illustrator: Peter Schössow
 
 ----
 
-Verlag: Carlsen
+Translator: 
 
 ----
 
-Alter: ab 8 Jahren
+Participants: 
 
 ----
 
-Preis: 12,99
+Publisher: Carlsen
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,99
 
 ----
 
@@ -62,11 +70,11 @@ Binding: gebunden
 
 ----
 
-Categories:
+Categories: 
 
 ----
 
-Topics:
+Topics: 
 
 ----
 

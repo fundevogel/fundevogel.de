@@ -33,7 +33,7 @@ Shop: http://shop.fundevogel.de/product/3000000125904/Buecher_Kinder--und-Jugend
 
 ----
 
-Autor: Frida Nilsson
+Author: Frida Nilsson
 
 ----
 
@@ -41,23 +41,23 @@ Participants: Übersetzung: Friederike. Illustration Buchinger: Torben Kuhlmann
 
 ----
 
-Titel: Siri und die Eismeerpiraten
+Book_title: Siri und die Eismeerpiraten
 
 ----
 
-Untertitel: Ausgezeichnet mit dem Leipziger Lesekompass 2018
+Book_subtitle: Ausgezeichnet mit dem Leipziger Lesekompass 2018
 
 ----
 
-Verlag: Gerstenberg Verlag
+Publisher: Gerstenberg Verlag
 
 ----
 
-Alter: ab 10 Jahren
+Age: ab 10 Jahren
 
 ----
 
-Preis: 14,95
+Price: 14,95
 
 ----
 

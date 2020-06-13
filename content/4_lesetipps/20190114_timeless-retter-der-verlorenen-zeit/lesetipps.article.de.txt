@@ -29,7 +29,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -41,31 +41,39 @@ Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Arman
 
 ----
 
-Autor: Armand Baltazar
+Book-title: Timeless - Retter der verlorenen Zeit
 
 ----
 
-Participants: Übersetzung: Tanja Ohlsen
+Book-subtitle: 
 
 ----
 
-Titel: Timeless - Retter der verlorenen Zeit
+Author: Armand Baltazar
 
 ----
 
-Untertitel:
+Illustrator: 
 
 ----
 
-Verlag: cbj
+Translator: Tanja Ohlsen
 
 ----
 
-Alter: ab 12 Jahren
+Participants: 
 
 ----
 
-Preis: 19,99
+Publisher: cbj
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 19,99
 
 ----
 
