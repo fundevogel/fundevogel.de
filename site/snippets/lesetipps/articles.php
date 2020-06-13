@@ -7,8 +7,15 @@
     $titleAttribute = $image->titleAttribute()->html();
     $altAttribute = $image->altAttribute()->html();
 
-    $cover = $image->thumb('lesetipps.article.cover');
-    $blurry = $image->thumb('lesetipps.article.cover.placeholder');
+    $cover = $image->orientation() === 'portrait'
+        ? $image->thumb('lesetipps.article.cover-normal')
+        : $image->thumb('lesetipps.article.cover-square')
+    ;
+
+    $blurry = $image->orientation() === 'portrait'
+        ? $image->thumb('lesetipps.article.cover.placeholder-normal')
+        : $image->thumb('lesetipps.article.cover.placeholder-square')
+    ;
 ?>
 <article class="flex flex-col md:flex-row">
     <div class="flex-none flex justify-center">

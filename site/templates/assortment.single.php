@@ -25,13 +25,11 @@
             <div class="js-slider mb-10">
                 <?php
                     foreach ($examples as $example) :
-                ?>
-                <?php
                     if ($image = $example->cover()->toFile()) :
                     $titleAttribute = $image->titleAttribute()->html();
                     $altAttribute = $image->altAttribute()->html();
 
-                    $cover = $image->thumb('lesetipps.article.cover');
+                    $cover = $image->thumb('lesetipps.article.cover-normal');
                     // $blurry = $image->thumb('lesetipps.category.cover.placeholder');
                 ?>
                 <div class="">
