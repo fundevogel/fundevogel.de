@@ -2,10 +2,12 @@
 
 return function ($page) {
     $images = $page->images();
-    $infoLinks = $page->infolinks()->toStructure();
+
+    $siblings = $page->siblings(false)
+                     ->filterBy('intendedTemplate', 'calendar.single');
 
     return compact(
         'images',
-        'infoLinks',
+        'siblings',
     );
 };

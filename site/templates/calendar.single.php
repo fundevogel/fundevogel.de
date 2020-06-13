@@ -63,4 +63,6 @@
 
 </article>
 
+<?php snippet('calendar/single.prevnext') ?>
+
 <?php snippet('footer') ?>

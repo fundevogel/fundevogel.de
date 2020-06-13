@@ -25,3 +25,5 @@ Short:
 Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktober für mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen Aktionen - ein Fest, das ganz und gar der Leidenschaft des Lesens gewidmet ist, und viele spannende Stunden in der Welt der Bücher für groß und klein bereithält.
 ----
 Cover: lirum-larum-lesefest.jpg
+----
+Handle: Lirum Larum

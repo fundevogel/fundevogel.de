@@ -16,4 +16,6 @@ Wir haben uns sehr über die vielen begeisterten Rückmeldungen unserer Besucher
 Short:
 Dieser Abend im Herbst hat Traiditon und ist für uns immer ein besonderes Ereignis: In gemütlicher Atmosphäre stellen wir Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vor.
 ----
-cover: herbstlese.jpg
+Cover: herbstlese.jpg
+----
+Handle: HerbstLESE
