@@ -42,7 +42,7 @@ Author: Hildegard Müller
 
 ----
 
-Illustrator: Hildegard Müller
+Illustrator: 
 
 ----
 
@@ -51,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 80
 
 ----
 

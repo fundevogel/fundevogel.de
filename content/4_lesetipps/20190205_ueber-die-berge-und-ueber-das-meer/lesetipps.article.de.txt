@@ -34,7 +34,7 @@ Book-title: Über die Berge und über das Meer
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Roman
 
 ----
 
@@ -51,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 272
 
 ----
 

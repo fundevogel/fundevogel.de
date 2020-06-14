@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,19 +30,31 @@ Shop: http://shop.fundevogel.de/product/1602295/Buecher_Kinder--und-Jugend/Sabin
 
 ----
 
+Book-title: Ein Haufen Ärger
+
+----
+
+Book-subtitle: 
+
+----
+
 Author: Sabine Ludwig
 
 ----
 
-Participants:
+Illustrator: 
 
 ----
 
-Book_title: Ein Haufen Ärger
+Translator: 
 
 ----
 
-Book_subtitle:
+Participants: 
+
+----
+
+Page-count: 92
 
 ----
 
@@ -58,15 +70,15 @@ Price: 7,95
 
 ----
 
-Binding:
+Binding: 
 
 ----
 
-Categories:
+Categories: 
 
 ----
 
-Topics:
+Topics: 
 
 ----
 

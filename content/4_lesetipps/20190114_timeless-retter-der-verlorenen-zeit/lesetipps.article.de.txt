@@ -37,7 +37,7 @@ Isbn: 978-3-570-17447-0
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit/63715/10002/3000000186312/-3/4099276460822241510/%204099276460822241500/%204099276460822241500
+Shop: http://shop.fundevogel.de/Product/3000000186312/63715/10002/-3/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit
 
 ----
 
@@ -62,6 +62,10 @@ Translator: Tanja Ohlsen
 ----
 
 Participants: 
+
+----
+
+Page-count: 624
 
 ----
 

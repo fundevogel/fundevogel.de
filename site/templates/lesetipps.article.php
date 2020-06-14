@@ -113,16 +113,16 @@
                         <div class="flex justify-between items-center">
                             <div class="flex">
                                 <div class="mr-6 sm:mr-8 text-center leading-tight">
-                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $age ?></span>
-                                    <span class="block text-sm sm:text-lg"><?= $period ?></span>
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= html($age) ?></span>
+                                    <span class="block text-sm sm:text-lg"><?= t($period) ?></span>
                                 </div>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
-                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold">83</span>
-                                    <span class="block text-sm sm:text-lg">Seiten</span>
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->page_count()->htm() ?></span>
+                                    <span class="block text-sm sm:text-lg"><?= t('Seiten') ?></span>
                                 </div>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->price()->html() ?> €</span>
-                                    <span class="block text-sm sm:text-lg">Ladenpreis</span>
+                                    <span class="block text-sm sm:text-lg"><?= t('Ladenpreis') ?></span>
                                 </div>
                             </div>
                             <div class="flex-none">

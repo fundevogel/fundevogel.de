@@ -42,7 +42,7 @@ Book-title: Dunkles Gold
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Roman
 
 ----
 
@@ -59,6 +59,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 336
 
 ----
 

@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -26,7 +26,15 @@ Isbn: 978-3-551-17061-3
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach/63715/4099276460822233275/4099276460851007401/-3/4099276460822241241/%204099276460822241224/%204099276460822241224
+Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/4099276460851007401/63715/10002/-3/Buecher_Kinder--und-Jugend/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach
+
+----
+
+Book-title: Ich mag ... schaukeln, malen, Fußball, Krach
+
+----
+
+Book-subtitle: 
 
 ----
 
@@ -34,15 +42,19 @@ Author: Constanze von Kitzing
 
 ----
 
-Participants:
+Illustrator: 
 
 ----
 
-Book_title: Ich mag ... schaukeln, malen, Fußball, Krach
+Translator: 
 
 ----
 
-Book_subtitle:
+Participants: 
+
+----
+
+Page-count: 98
 
 ----
 

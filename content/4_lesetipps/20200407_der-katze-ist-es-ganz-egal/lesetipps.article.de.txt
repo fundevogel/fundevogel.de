@@ -38,6 +38,10 @@ Book-subtitle:
 
 ----
 
+Page-count: 104
+
+----
+
 Author: Franz Orghandl
 
 ----

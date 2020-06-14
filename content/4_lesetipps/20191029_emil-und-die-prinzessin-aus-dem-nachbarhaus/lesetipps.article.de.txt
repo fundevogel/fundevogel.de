@@ -54,6 +54,10 @@ Participants:
 
 ----
 
+Page-count: 128
+
+----
+
 Publisher: Magellan
 
 ----

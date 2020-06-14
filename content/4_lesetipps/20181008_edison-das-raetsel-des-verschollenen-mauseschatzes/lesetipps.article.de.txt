@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -30,19 +30,31 @@ Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Torbe
 
 ----
 
+Book-title: Edison
+
+----
+
+Book-subtitle: Das Rätsel des verschollenen Mauseschatzes
+
+----
+
 Author: Torben Kuhlmann
 
 ----
 
-Participants:
+Illustrator: 
 
 ----
 
-Book_title: Edison
+Translator: 
 
 ----
 
-Book_subtitle: Das Rätsel des verschollenen Mauseschatzes
+Participants: 
+
+----
+
+Page-count: 112
 
 ----
 

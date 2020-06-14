@@ -38,6 +38,10 @@ Book-subtitle:
 
 ----
 
+Page-count: 288
+
+----
+
 Author: Onjali Q. Raúf
 
 ----
@@ -50,7 +54,7 @@ Translator: Katharina Naumann
 
 ----
 
-Participants: Übersetzung: Katharina. Illustration Naumann: Pippa Curnick
+Participants: 
 
 ----
 

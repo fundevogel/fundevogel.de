@@ -34,7 +34,7 @@ Book-title: Der Krokodildieb
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Roman mit Bildern. Nominiert für den Deutschen Jugendliteraturpreis 2017, Kategorie Kinderbuch
 
 ----
 
@@ -51,6 +51,10 @@ Translator: Maike Dörries
 ----
 
 Participants: 
+
+----
+
+Page-count: 122
 
 ----
 

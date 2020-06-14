@@ -34,7 +34,7 @@ Book-title: Matti und Sami und die verflixte Ungerechtigkeit der Welt
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Roman für Kinder
 
 ----
 
@@ -51,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 150
 
 ----
 

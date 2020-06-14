@@ -38,6 +38,10 @@ Book-subtitle:
 
 ----
 
+Page-count: 304
+
+----
+
 Author: Katherine Rundell
 
 ----

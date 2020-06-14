@@ -34,7 +34,7 @@ Book-title: Dirk und ich
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Erstmals in Farbe!!! Plus zwei neue Geschichten!!!
 
 ----
 
@@ -51,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 192
 
 ----
 

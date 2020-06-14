@@ -58,6 +58,10 @@ Participants:
 
 ----
 
+Page-count: 256
+
+----
+
 Publisher: Diogenes
 
 ----

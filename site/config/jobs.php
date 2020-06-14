@@ -36,10 +36,11 @@ return [
             'participants' => $data['Mitwirkende'],
             'publisher' => $data['Verlag'],
             'age' => $data['Altersempfehlung'],
+            'page_count' => $data['Seitenzahl'],
             'price' => $data['Preis'],
+            'binding' => $data['Einband'],
             'categories' => $data['Kategorien'],
             'topics' => $data['Schlagworte'],
-            'binding' => $data['Einband'],
         ];
 
         $updateArray = [];
@@ -47,6 +48,14 @@ return [
         foreach ($dataArray as $key => $value) {
             if ($page->$key()->isNotEmpty()) {
                 continue;
+            }
+
+            // If two out of three fields are filled, and one of them is `author`,
+            // don't fill `participants` again, as we did it before already
+            if ($key === 'participants') {
+                if (($page->author()->isNotEmpty() && $page->illustrator()->isNotEmpty()) || ($page->author()->isNotEmpty() && $page->translator()->isNotEmpty())) {
+                    continue;
+                }
             }
 
             $updateArray = A::update($updateArray, [
@@ -58,8 +67,8 @@ return [
 
         return [
             'status' => 200,
-            'label' => $data,
-            // 'reload' => true,
+            'label' => 'Update erfolgreich!',
+            'reload' => true,
         ];
     },
     'downloadCover' => function ($page) {

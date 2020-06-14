@@ -38,6 +38,10 @@ Book-subtitle: Die Entwicklung des Lebens vom Urknall bis zu dir
 
 ----
 
+Page-count: 138
+
+----
+
 Author: Johan Olsen
 
 ----

@@ -31,7 +31,7 @@ Isbn: 9783-8642-9395-5
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf/63715/4099276460822233275/3000000198028/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/3000000198028/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf
 
 ----
 
@@ -56,6 +56,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 48
 
 ----
 

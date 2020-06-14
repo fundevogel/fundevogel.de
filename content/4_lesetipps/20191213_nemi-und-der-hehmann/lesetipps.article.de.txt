@@ -34,7 +34,7 @@ Book-title: Nemi und der Hehmann
 
 ----
 
-Book-subtitle: 
+Book-subtitle: Roman
 
 ----
 
@@ -51,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 152
 
 ----
 
