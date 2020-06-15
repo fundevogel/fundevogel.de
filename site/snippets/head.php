@@ -7,14 +7,13 @@
   <?= $page->metaTags() ?>
 
   <!-- CSS -->
-  <style><?= (new Asset('assets/styles/main.css'))->read() ?></style>
+  <?php $css = option('debug') === true ? 'main.css' : 'main.min.css'; var_dump($css) ?>
+  <style><?= (new Asset('assets/styles/' . $css))->read() ?></style>
+  <noscript><?= css('assets/styles/' . $css) ?></noscript>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="<?= url('favicon.ico') ?>">
   <?php snippet('generated/favicons') ?>
-
-  <!-- Fallback CSS -->
-  <noscript><?= css('assets/styles/main.css') ?></noscript>
 
   <!-- Font loading -->
   <script integrity="sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw="><?= (new Asset('assets/font-loading.js'))->read() ?></script>
@@ -22,5 +21,7 @@
   <!-- dev only -->
   <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap" rel="stylesheet">
 
-  <?= js('assets/scripts/main.js', ['defer' => true]) ?>
+  <!-- JS -->
+  <?php $js = option('debug') ? 'main.js' : 'main.min.js'; ?>
+  <?= js('assets/scripts/' . $js, ['defer' => true]) ?>
 </head>

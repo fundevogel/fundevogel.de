@@ -3,7 +3,12 @@
 return function ($page) {
     $perPage = $page->perpage()->int();
 
-    $newsTotal = $page->children()->listed()->flip();
+    $newsTotal = $page
+        ->children()
+        ->listed()
+        ->filterBy('intendedTemplate', 'news.article')
+        ->flip();
+
     $newsPerPage = $newsTotal->paginate(($perPage >= 1) ? $perPage : 5);
 
     $nothingLeft = Html::tag('h3', t('home_mehr-anzeigen--ende'), ['class' => 'text-center']);

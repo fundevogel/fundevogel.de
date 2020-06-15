@@ -1,0 +1,25 @@
+Tab1: 
+
+----
+
+Title: Inventur im Fundevogel am 7. Januar
+
+----
+
+Date: 2020-01-03
+
+----
+
+Subtitle: Am 7. Januar bleibt die Buchhandlung geschlossen
+
+----
+
+Text: Einmal im Jahr heißt es im Fundevogel: Bücher sortieren, Postkarten zählen, Großreinemachen - die Inventur steht an! Zu diesem Anlass bleibt unsere Buchhandlung am** Dienstag, dem 7.1.2020 geschlossen**. Die Buchbestellung über unsere Website steht Euch aber natürlich auch an diesem Tag zur Verfügung. Ab Mittwoch, dem 8.1.2020 könnt ihr wieder wie gewohnt von 9:30 Uhr bis 18:30 Uhr durch unsere frisch sortierten Regale stöbern.
+
+----
+
+Tab2: 
+
+----
+
+Seo: 
