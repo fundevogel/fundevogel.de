@@ -20,6 +20,8 @@ return [
         'about.slides' => ['width' => 460, 'height' => 400, 'crop' => true],
         'lesetipps.article.cover-normal' => ['width' => 300],
         'lesetipps.article.cover-square' => ['width' => 300, 'height' => 300, 'crop' => true],
+        'lesetipps.category.navigation' => ['width' => 416, 'height' => 312, 'crop' => true,],
+        'lesetipps.category.navigation.placeholder' => ['width' => 416, 'height' => 312, 'crop' => true, 'blur' => true],
         'lesetipps.pdf' => ['width' => 200, 'quality' => 100],
         'contact.map' => ['width' => 460],
     ],

@@ -5,8 +5,8 @@
         $titleAttribute = $image->titleAttribute()->html();
         $altAttribute = $image->altAttribute()->html();
 
-        $cover = $image->thumb('lesetipps.category.cover');
-        $blurry = $image->thumb('lesetipps.category.cover.placeholder');
+        $cover = $image->thumb('lesetipps.category.navigation');
+        $blurry = $image->thumb('lesetipps.category.navigation.placeholder');
     ?>
     <div class="w-1/2 xl:w-1/3 flex justify-center text-shadow leading-none">
         <figure class="group mx-2 md:mx-4 mb-4 md:mb-8 lg:mb-12 inline-block relative<?php e($category->isOpen(), ' cursor-default') ?>"<?php e($category->isOpen(), ' title="' . t('Du bist hier') . '"') ?>">
