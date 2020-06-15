@@ -24,11 +24,8 @@
                     if ($isPaginated = param('page')) {
                         unset($params['page']);
                     }
-
-                    var_dump(rawurldecode(param($field)));
-                    var_dump($item);
                 ?>
-                    <option value="<?= url(Url::current(), ['params' => $params]) ?>"<?php e(rawurldecode(param($field)) === $item, ' selected') ?>><?= $item ?></option>
+                <option value="<?= url(Url::current(), ['params' => $params]) ?>"<?php e(rawurldecode(param($field)) === $item, ' selected') ?>><?= $item ?></option>
                 <?php endforeach ?>
             </select>
         </div>

@@ -1,10 +1,11 @@
 <?php
 
 return function ($page) {
-    // Defining default recommendations
-    $lesetipps = $page->siblings()
-                      ->listed()
-                      ->filterBy('intendedTemplate', 'lesetipps.article');
+    // Defining default reading tips
+    $lesetipps = $page
+        ->siblings()
+        ->listed()
+        ->filterBy('intendedTemplate', 'lesetipps.article');
 
     // Empty collection
     $results = new Collection();
@@ -20,8 +21,8 @@ return function ($page) {
             'publisher', 'isbn',
             'categories', 'topics',
         ];
-        $results = $lesetipps->flip()
-                             ->search($query, implode('|', $fields));
+
+        $results = $lesetipps->flip()->search($query, implode('|', $fields));
     }
 
     // When applied, filter search results
@@ -34,6 +35,7 @@ return function ($page) {
             'Kategorie' => 'categories',
             'Thema' => 'topics',
             'Lesealter' => 'age',
+            'Verlag' => 'publisher',
         ];
 
         foreach ($parameters as $parameter => $field) {
@@ -43,42 +45,17 @@ return function ($page) {
         }
     }
 
-    // All ages
-    $allAges = page('lesetipps')->children()
-                                ->listed()
-                                ->filterBy('intendedTemplate', 'lesetipps.article')
-                                ->pluck('age', null, true);
-
-    // Flattening array
-    $ages = [];
-
-    foreach ($allAges as $age) {
-        $ages[] = $age->value();
-    }
-
-    // Sorting ages in order to make sure
-    // mid-text ages are taken into consideration
-    natsort($ages);
-
-    $categories = page('lesetipps')
-        ->children()
-        ->listed()
-        ->pluck('categories', ',', true);
-
+    // Collect filter attributes across all reading tips
+    $categories = $lesetipps->pluck('categories', ',', true);
     sort($categories);
 
-    $topics = page('lesetipps')
-        ->children()
-        ->listed()
-        ->pluck('topics', ',', true);
-
+    $topics = $lesetipps->pluck('topics', ',', true);
     sort($topics);
 
-    $publishers = page('lesetipps')
-        ->children()
-        ->listed()
-        ->pluck('publisher', null, true);
+    $ages = $lesetipps->pluck('age', ',', true);
+    natsort($ages);
 
+    $publishers = $lesetipps->pluck('publisher', ',', true);
     natcasesort($publishers);
 
     $fields = [
