@@ -41,9 +41,11 @@
                                 </a>
                             </div>
                         <?php endforeach ?>
-                        <a class="text-sm text-white px-2 outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="Shop" target="_blank">
-                            <span>Shop</span>
-                        </a>
+                        <div class="px-2 relative">
+                            <a class="text-sm text-white outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="Shop" target="_blank">
+                                <span>Shop</span>
+                            </a>
+                        </div>
                     </nav>
                     <nav class="mr-4 flex spread-out z-50">
                         <?php foreach($kirby->languages() as $language) : ?>
