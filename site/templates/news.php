@@ -69,7 +69,7 @@
                         <?php endif ?>
                         <?php endif ?>
 
-                        <div class="flex-initial <?php e(count($images) < 3, 'lg:') ?>order-first flex justify-center">
+                        <div class="flex-initial <?php e(count($images) < 3, 'lg:order-first ', 'order-first ') ?>flex justify-center">
                             <div class="<?php e(count($images) > 2, 'container') ?>">
                                 <time datetime="<?= $article->date()->toDate('Y-m-d') ?>">
                                     <?= $article->date()->toDate('d.m.Y') ?>
