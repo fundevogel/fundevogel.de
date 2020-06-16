@@ -5,8 +5,8 @@ module.exports = {
     purge: {
       content: [
         'source/scripts/**/*.js',
-        'build/site/snippets/**/*.php',
-        'build/site/templates/**/*.php',
+        'site/snippets/**/*.php',
+        'site/templates/**/*.php',
       ],
       options: {
         whitelist: [
