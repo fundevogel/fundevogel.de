@@ -4,7 +4,7 @@ use PHPCBIS\PHPCBIS;
 
 function pcbis()
 {
-    // Initializing PHPCBIS object
+    # Initializing PHPCBIS object
     $login = file_get_contents(kirby()->root('config') . '/knv.json');
     $login = json_decode($login, true);
     return new PHPCBIS($login);
@@ -12,14 +12,14 @@ function pcbis()
 
 return [
     'loadBook' => function ($page) {
-        // API call
+        # API call
         $isbn = $page->isbn()->value();
         $object = pcbis();
         $object->setCachePath(kirby()->root('cache') . '/books');
 
         $dataRaw = $object->loadBook($isbn);
 
-        // If API call was unsuccessful ..
+        # If API call was unsuccessful ..
         if ($dataRaw == false) {
             return [
                 'status' => 404,
@@ -50,8 +50,8 @@ return [
                 continue;
             }
 
-            // If two out of three fields are filled, and one of them is `author`,
-            // don't fill `participants` again, as we did it before already
+            # If two out of three fields are filled, and one of them is `author`,
+            # don't fill `participants` again, as we did it before already
             if ($key === 'participants') {
                 if (($page->author()->isNotEmpty() && $page->illustrator()->isNotEmpty()) || ($page->author()->isNotEmpty() && $page->translator()->isNotEmpty())) {
                     continue;
@@ -78,7 +78,7 @@ return [
         $fileName = $page->slug() . '_' . Str::slug($page->author());
 
         if (!file_exists($imagePath . '/' . $fileName . '.jpg')) {
-            // API call
+            # API call
             $object->setImagePath($imagePath);
             $object->downloadCover($isbn, $fileName, true);
 

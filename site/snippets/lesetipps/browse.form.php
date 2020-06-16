@@ -13,11 +13,6 @@
                 <option value="<?= $resetURL ?>"><?= t(implode(' ', [$field, 'auswählen'])) ?></option>
                 <?php
                     foreach ($array as $item) :
-
-                    if (A::isAssociative($array) === true) {
-                        $item = $item->value();
-                    }
-
                     $params = A::update(params(), [$field => rawurlencode($item)]);
 
                     // Reset page count when changing category

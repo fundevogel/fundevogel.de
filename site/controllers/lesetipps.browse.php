@@ -58,6 +58,7 @@ return function ($page) {
     $publishers = $lesetipps->pluck('publisher', ',', true);
     natcasesort($publishers);
 
+    // Order will be used in frontend
     $fields = [
         'Kategorie' => $categories,
         'Thema' => $topics,
@@ -67,9 +68,11 @@ return function ($page) {
 
     // Applying pagination
     $perPage = $page->perpage()->int();
-    $total = $results->count();
     $results = $results->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $results->pagination();
+
+    // Counting results
+    $total = $results->count();
 
     return compact(
         'query',
