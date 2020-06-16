@@ -8,26 +8,40 @@ return [
     ##
     # INCLUDES
     ##
+    'hooks' => require 'hooks.php',
+    'routes' => require 'routes.php',
     'thumbs' => require_once 'thumbs.php',
-    'routes' => require_once 'routes.php',
-    'hooks' => require_once 'hooks.php',
     'bnomei.janitor.jobs' => require_once 'jobs.php',
+
 
     ##
     # KIRBY OPTIONS
     ##
-    'languages' => true,
-    'sitemap.ignore' => ['error'],
-    // 'date.handler'  => 'strftime',
+
+    # Set alternative `home` identifier
     'home' => 'news',
+
+    # Enable languages (currently supported are DE, EN & FR)
+    'languages' => true,
+
+    # Sitemap settings
+    'sitemap.ignore' => ['error'],
+
+    # Custom panel settings
     'panel' => [
         'css' => 'panel.css',
     ],
 
+    # Typography settings
+    # See https://getkirby.com/docs/reference/system/options/smartypants
+    'smartypants' => true,
+
+
     ##
     # PLUGIN OPTIONS
     ##
-    // Adding hash to {css,js} files for cache busting via https://github.com/bnomei/kirby3-fingerprint
+
+    # Adding hash to {css,js} files for cache busting via https://github.com/bnomei/kirby3-fingerprint
     'bnomei.fingerprint.hash' => function ($file) {
         $url = null;
         $fileroot = is_a($file, 'Kirby\Cms\File') || is_a($file, 'Kirby\Cms\FileVersion')
@@ -56,9 +70,9 @@ return [
         return \url($url);
     },
 
-    // Customizing MetaTags
+    # Customizing MetaTags
     'pedroborges.meta-tags.default' => function ($page, $site) {
-        // General
+        # General
         $seoTitle = $page->isHomePage()
             ? $site->title()
             : $page->seoTitle();
@@ -76,10 +90,10 @@ return [
             ],
             'link' => [
                 'canonical' => $page->url(),
-                // 'icon' => [
-                //     ['href' => url('assets/images/icons/favicon-62.png'), 'sizes' => '62x62', 'type' =>'image/png'],
-                //     ['href' => url('assets/images/icons/favicon-192.png'), 'sizes' => '192x192', 'type' =>'image/png']
-                // ],
+                # 'icon' => [
+                #     ['href' => url('assets/images/icons/favicon-62.png'), 'sizes' => '62x62', 'type' =>'image/png'],
+                #     ['href' => url('assets/images/icons/favicon-192.png'), 'sizes' => '192x192', 'type' =>'image/png']
+                # ],
                 'alternate' => function ($page) {
                     $locales = [];
 
@@ -105,7 +119,7 @@ return [
             ],
             'twitter' => [
                 'card' => 'summary',
-                // 'site' => $site->twitter(),
+                # 'site' => $site->twitter(),
                 'title' => $seoTitle->isNotEmpty()
                     ? $seoTitle
                     : $page->title(),
@@ -133,7 +147,7 @@ return [
                         'url' => $site->url(),
                         "contactPoint" => [
                             '@type' => 'ContactPoint',
-                            // 'telephone' => $site->phoneNumber()->value(),
+                            # 'telephone' => $site->phoneNumber()->value(),
                             'contactType' => 'customer service'
                         ]
                     ]
