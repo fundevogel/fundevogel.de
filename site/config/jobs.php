@@ -63,7 +63,7 @@ return [
             ]);
         }
 
-        $page->update($updateArray, 'de');
+        $page->update($updateArray);
 
         return [
             'status' => 200,
@@ -95,9 +95,10 @@ return [
                 'altAttribute' => 'Cover des Buches "' . $page->book_title() . '" von ' . $page->author(),
                 'template' => 'image',
             ]);
+
             $page->update([
                 'cover' => $fileName . '.jpg',
-            ], 'de');
+            ]);
         } catch (Exception $e) {
             return [
                 'status' => 404,
@@ -115,6 +116,32 @@ return [
         $files = $page->documents();
 
         foreach ($files as $file) {
+            if ($file->template() != 'pdf') continue;
+
+            # Generate thumbnail image for PDF
+            $extension = 'jpg';
+            $inputFile = $file->root();
+            $outputFile = $file->root() . '.' . $extension;
+            $fileName = basename($outputFile);
+
+            if (!F::exists($outputFile) || (F::modified($outputFile) < $file->modified())) {
+                $im = new Imagick();
+                $im->setResolution(200, 200);
+                $im->readImage($inputFile . '[0]');
+                // $im->setImageBackgroundColor('white');
+                $im->setImageAlphaChannel(imagick::ALPHACHANNEL_REMOVE);
+                $im->setImageFormat($extension);
+                $im->setImageCompression(Imagick::COMPRESSION_JPEG);
+                $im->writeImage($outputFile);
+                $im->clear();
+
+                new File([
+                    'filename' => $fileName,
+                    'parent'   => $file->parent(),
+                ]);
+            }
+
+            # Generate metadata for PDF & edition
             $fileName = basename($file);
 
             preg_match('/[0-9]{4}/', $fileName, $year);
@@ -127,7 +154,7 @@ return [
                 'altAttribute' => 'Coverbild unserer Empfehlungen im ' . $season,
                 'template' => 'pdf',
                 'coverImage' => $fileName . '.jpg',
-            ], 'de');
+            ]);
         }
 
         return [

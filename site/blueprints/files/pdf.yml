@@ -11,9 +11,9 @@ columns:
       section_fields:
         type: fields
         fields:
-          titleAttribute:
-            extends: fields/files/title
-            width: 1/2
+          titleAttribute: fields/files/title
+
+          altAttribute: fields/files/alt
 
           edition:
             label:
@@ -24,17 +24,16 @@ columns:
             options:
               - Frühjahr
               - Herbst
-            width: 1/4
+            width: 1/2
 
           year:
             label:
               de: Jahr
               en: Year
             type: number
-            width: 1/4
+            width: 1/2
 
-          altAttribute:
-            extends: fields/files/alt
+      info: sections/info-ux
 
   column_sidebar:
     sections:
@@ -46,5 +45,3 @@ columns:
             query: file.parent.images
             image:
               ratio: 2/3
-
-      info: sections/info-ux
