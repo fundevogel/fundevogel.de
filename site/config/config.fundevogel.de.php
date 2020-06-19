@@ -5,16 +5,17 @@
 ##
 
 return [
-    // Deactivates debug mode
+    # Deactivate debug mode
     'debug' => false,
 
-    // Activates Caching
+    # Activate Caching
     'cache' => [
         'pages' => [
             'active' => true,
-            // 'ignore' => function ($page) {
-            //     return $page->title()->value() !== 'Do not cache me';
-            // }
+            'ignore' => function ($page) {
+                # .. except for our form
+                return $page->intendedTemplate() !== 'geno.poll';
+            }
         ]
     ],
 ];

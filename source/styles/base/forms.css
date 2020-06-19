@@ -23,6 +23,7 @@
 
 .form-select:hover {
   @apply border-orange-dark;
+  @apply cursor-pointer;
 }
 
 .form-select:focus {
@@ -31,4 +32,40 @@
 
   box-shadow: 0 1px 0 1px rgba(252, 169, 77, 1);
   box-shadow: 0 0 0 3px -moz-mac-focusring;
+}
+
+/* Kirby Uniform plugin */
+.uniform__potty {
+  position: absolute;
+  left: -9999px;
+}
+
+label {
+  @apply block;
+  @apply mb-4;
+}
+
+.form-input {
+  @apply w-full;
+  @apply h-16;
+  @apply px-4;
+  @apply pr-2;
+  @apply font-normal;
+  @apply text-orange-medium;
+  @apply bg-orange-light;
+  @apply border-4 border-dashed border-orange-medium;
+  @apply rounded-lg;
+  @apply leading-relaxed ;
+  @apply appearance-none outline-none;
+}
+
+.form-input:focus,
+.form-input:active {
+  @apply outline-none;
+  @apply border-orange-dark;
+}
+
+.form-select.error,
+.form-input.error {
+  @apply border-red-medium;
 }
