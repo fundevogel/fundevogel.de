@@ -7,13 +7,13 @@
   <?= $page->metaTags() ?>
 
   <!-- CSS -->
-  <?php $css = option('debug') === true ? 'main.css' : 'main.min.css'; var_dump($css) ?>
+  <?php $css = option('debug') === true ? 'main.css' : 'main.min.css'; ?>
   <style><?= (new Asset('assets/styles/' . $css))->read() ?></style>
   <noscript><?= css('assets/styles/' . $css) ?></noscript>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="<?= url('favicon.ico') ?>">
-  <?php snippet('generated/favicons') ?>
+  <?php snippet('favicons') ?>
 
   <!-- Font loading -->
   <script integrity="sha256-sv4jGGVCDUykONZVQdABKFT3hKgodDeF9539pQiKBKw="><?= (new Asset('assets/font-loading.js'))->read() ?></script>

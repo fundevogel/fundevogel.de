@@ -16,8 +16,6 @@
 /public/assets
 /public/favicons
 /site/logs
-/site/snippets/generated
-/source/images/favicons
 
 # Plugins
 # ---------------
