@@ -12,6 +12,7 @@ php_packages:
   # Plugin requirements (custom)
   - php{{ php_version }}-dom
   - php{{ php_version }}-soap
+  - imagemagick
   - php-imagick
 
 # See https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds
