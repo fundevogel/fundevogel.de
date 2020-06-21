@@ -25,7 +25,7 @@
 </article>
 
 <?php if ($total > 0) : ?>
-<?php snippet('navigation/pagination') ?>
+<?php snippet('lesetipps/pagination') ?>
 <?php endif ?>
 
 <?php snippet('footer') ?>

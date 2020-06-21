@@ -144,6 +144,6 @@
     <?php endif ?>
 </article>
 
-<?php snippet('navigation/prevnext') ?>
+<?php snippet('lesetipps/prevnext') ?>
 
 <?php snippet('footer') ?>

@@ -42,6 +42,6 @@
     </section>
 </article>
 
-<?php snippet('navigation/pagination') ?>
+<?php snippet('lesetipps/pagination') ?>
 
 <?php snippet('footer') ?>
