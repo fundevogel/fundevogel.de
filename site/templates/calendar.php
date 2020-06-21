@@ -41,11 +41,11 @@
         <?php endif ?>
     </section>
     <aside class="wave">
-        <?= $site->useSeparator('orange-light', 'top-reversed') ?>
+        <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="pt-12 pb-6 lg:pb-4 bg-orange-light">
             <div class="container lg:px-8 xl:px-12">
                 <div class="text-center">
-                    <?= $site->useSVG(t('Jährliche Höhepunkte'), 'wave-icon', 'calendar-filled') ?>
+                    <?= useSVG(t('Jährliche Höhepunkte'), 'wave-icon', 'calendar-filled') ?>
                 </div>
                 <h2 class="wave-title"><?= t('Jährliche Höhepunkte') ?></h2>
                 <div class="flex flex-col lg:flex-row">
@@ -65,7 +65,7 @@
                 </div>
             </div>
         </div>
-        <?= $site->useSeparator('orange-light', 'bottom') ?>
+        <?= useSeparator('orange-light', 'bottom') ?>
     </aside>
     <?php if ($closedEvents->isNotEmpty()) : ?>
     <section class="container">

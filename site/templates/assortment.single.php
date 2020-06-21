@@ -16,10 +16,10 @@
         <?= $page->details()->kt() ?>
     </section>
     <aside class="wave">
-        <?= $site->useSeparator('orange-light', 'top-reversed') ?>
+        <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
             <div class="text-center">
-                <?= $site->useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
+                <?= useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
             </div>
             <h2 class="wave-title"><?= t('Auswahl unserer Lieblinge') ?></h2>
             <div class="js-slider mb-10">
@@ -62,7 +62,7 @@
                                 <blockquote class="m-0 p-0 border-0 border-orange-medium">
                                     <?= $example->text()->kt() ?>
                                     <cite>
-                                        <?= $site->useSVG(t('quote'), 'inline w-6 h-6 -mt-1 mr-1 text-orange-medium fill-current', 'message-filled') ?>
+                                        <?= useSVG(t('quote'), 'inline w-6 h-6 -mt-1 mr-1 text-orange-medium fill-current', 'message-filled') ?>
                                         <span class="text-sm text-orange-medium not-italic font-normal">Martin Folkers</span>
                                     </cite>
                                 </blockquote>
@@ -90,7 +90,7 @@
                 ?>
             </div>
         </div>
-        <?= $site->useSeparator('orange-light', 'bottom-reversed') ?>
+        <?= useSeparator('orange-light', 'bottom-reversed') ?>
     </aside>
     <section class="container">
         <?= $page->last()->kt() ?>

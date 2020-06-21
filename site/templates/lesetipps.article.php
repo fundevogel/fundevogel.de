@@ -7,7 +7,7 @@
         <?= $page->text()->kt() ?>
     </header>
     <aside class="wave">
-        <?= $site->useSeparator('orange-light', 'top') ?>
+        <?= useSeparator('orange-light', 'top') ?>
         <div class="pt-12 pb-8 bg-orange-light">
             <div class="container lg:px-8 xl:px-12">
                 <div class="flex flex-col lg:flex-row">
@@ -15,13 +15,13 @@
                         <div class="flex items-center mb-6 lg:mb-0">
                             <div class="group relative">
                                 <span class="lesetipp-plus absolute z-30" style="left: -1.25rem; top: -1.25rem">
-                                    <?= $site->useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
+                                    <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                                 </span>
                                 <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all z-25 spread-out">
                                     <div class="pt-8 px-4">
                                         <div class="lesetipp-overlay-section">
                                         <div class="mb-1 flex items-center">
-                                            <?= $site->useSVG('Kategorien', 'lesetipp-overlay-icon', 'folder') ?>
+                                            <?= useSVG('Kategorien', 'lesetipp-overlay-icon', 'folder') ?>
                                             <h4 class="lesetipp-overlay-title">Einteilung:</h4>
                                         </div>
                                             <div class="lesetipp-overlay-body">
@@ -35,7 +35,7 @@
                                         </div>
                                         <div class="lesetipp-overlay-section">
                                             <div class="mb-1 flex items-center">
-                                                <?= $site->useSVG('Themen', 'lesetipp-overlay-icon', 'tag') ?>
+                                                <?= useSVG('Themen', 'lesetipp-overlay-icon', 'tag') ?>
                                                 <h4 class="lesetipp-overlay-title">Themen:</h4>
                                             </div>
                                             <div class="lesetipp-overlay-body">
@@ -67,28 +67,28 @@
                         <div class="flex flex-col my-8 text-sm">
                             <div class="flex flex-col sm:flex-row">
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('AutorIn'), 'js-tippy lesetipp-icon', 'bulb') ?>
+                                    <?= useSVG(t('AutorIn'), 'js-tippy lesetipp-icon', 'bulb') ?>
                                     <span class="ml-4">
                                         <?= $page->author()->html() ?>
                                     </span>
                                 </div>
                                 <?php if ($page->illustrator()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('IllustratorIn'), 'js-tippy lesetipp-icon', 'palette') ?>
+                                    <?= useSVG(t('IllustratorIn'), 'js-tippy lesetipp-icon', 'palette') ?>
                                     <span class="ml-4">
                                         <?= $page->illustrator()->html() ?>
                                     </span>
                                 </div>
                                 <?php elseif ($page->translator()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('ÜbersetzerIn'), 'js-tippy lesetipp-icon', 'globe') ?>
+                                    <?= useSVG(t('ÜbersetzerIn'), 'js-tippy lesetipp-icon', 'globe') ?>
                                     <span class="ml-4">
                                         <?= $page->translator()->html() ?>
                                     </span>
                                 </div>
                                 <?php elseif ($page->participants()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('Mitwirkende'), 'js-tippy lesetipp-icon', 'heart') ?>
+                                    <?= useSVG(t('Mitwirkende'), 'js-tippy lesetipp-icon', 'heart') ?>
                                     <span class="ml-4">
                                         <?= $page->participants()->html() ?>
                                     </span>
@@ -97,13 +97,13 @@
                             </div>
                             <div class="flex flex-col sm:flex-row">
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG(t('Verlag'), 'js-tippy lesetipp-icon', 'truck', 'data-tippy-placement="bottom"') ?>
+                                    <?= useSVG(t('Verlag'), 'js-tippy lesetipp-icon', 'truck', 'data-tippy-placement="bottom"') ?>
                                     <span class="ml-4">
                                         <?= $page->publisher()->html() ?>
                                     </span>
                                 </div>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= $site->useSVG('ISBN', 'js-tippy lesetipp-icon', 'book-open', 'data-tippy-placement="bottom"') ?>
+                                    <?= useSVG('ISBN', 'js-tippy lesetipp-icon', 'book-open', 'data-tippy-placement="bottom"') ?>
                                     <span class="ml-4">
                                         <?= $page->isbn()->html() ?>
                                     </span>
@@ -135,7 +135,7 @@
                 </div>
             </div>
         </div>
-        <?= $site->useSeparator('orange-light', 'bottom') ?>
+        <?= useSeparator('orange-light', 'bottom') ?>
     </aside>
     <?php if ($page->conclusion()->isNotEmpty()) : ?>
     <section class="container">

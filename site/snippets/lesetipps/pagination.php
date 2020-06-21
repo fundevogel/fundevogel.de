@@ -3,7 +3,7 @@
     <nav class="w-full mb-12 flex justify-between sketch text-5xl select-none">
         <?php if ($pagination->hasPrevPage()) : ?>
         <a class="h-20 flex-1 flex justify-center items-center bg-red-light rounded-l-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->firstPageURL() ?>" title="<?= t('Neuere Lesetipps') ?>">
-            <?= $site->useSVG(t('Neuere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-left') ?>
+            <?= useSVG(t('Neuere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-left') ?>
         </a>
         <?php endif ?>
         <?php foreach ($pagination->range(5) as $number): ?>
@@ -20,7 +20,7 @@
         <?php endforeach ?>
         <?php if ($pagination->hasNextPage()) : ?>
         <a class="h-20 flex-1 flex justify-center items-center bg-red-light rounded-r-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->lastPageURL() ?>" title="<?= t('Ältere Lesetipps') ?>">
-            <?= $site->useSVG(t('Ältere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-right') ?>
+            <?= useSVG(t('Ältere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-right') ?>
         </a>
         <?php endif ?>
     </nav>

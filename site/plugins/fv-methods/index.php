@@ -1,6 +1,6 @@
 <?php
 
-function getLangVars($language = 'de')
+function getLangVars ($language = 'de')
 {
     $translations = Yaml::decode(F::read(
         kirby()->root('languages') . '/vars/' . $language . '.yml')
@@ -9,6 +9,21 @@ function getLangVars($language = 'de')
     return $translations;
 }
 
+function useSVG ($title, $classes = '', $file = '', $customAttribute = '')
+{
+    if ($file === '') {
+        $file = str_replace('-', '', $title);
+        $file = strtolower($file);
+    }
+
+    return '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute) . '><use xlink:href="/assets/images/icons.svg#' . $file . '"></use></svg>';
+}
+
+function useSeparator ($color = 'orange-light', $position = 'top') {
+    $margin = Str::contains($position, 'top') === true ? '-mb-px' : '-mt-px';
+
+    return '<div class="w-full"><svg class="w-full h-auto ' . $margin . ' fill-current text-' . $color .'" role="img"><use xlink:href="/assets/images/icons.svg#' . $position . '"></use></svg></div>';
+}
 
 Kirby::plugin('fundevogel/methods', [
     'tags' => [
@@ -58,19 +73,4 @@ Kirby::plugin('fundevogel/methods', [
             return $link;
         },
     ],
-    'siteMethods' => [
-        'useSVG' => function ($title, $classes = '', $file = '', $customAttribute = '') {
-            if ($file === '') {
-                $file = str_replace('-', '', $title);
-                $file = strtolower($file);
-            }
-
-            return '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute) . '><use xlink:href="/assets/images/icons.svg#' . $file . '"></use></svg>';
-        },
-        'useSeparator' => function($color = 'orange-light', $position = 'top') {
-            $margin = Str::contains($position, 'top') === true ? '-mb-px' : '-mt-px';
-
-            return '<div class="w-full"><svg class="w-full h-auto ' . $margin . ' fill-current text-' . $color .'" role="img"><use xlink:href="/assets/images/icons.svg#' . $position . '"></use></svg></div>';
-        }
-    ]
 ]);

@@ -32,7 +32,7 @@
                         <?php if ($images) : ?>
                         <?php if (count($images) > 2) : ?>
                         <aside class="wave mt-12 mb-0">
-                        <?= $site->useSeparator('orange-light', 'top') ?>
+                        <?= useSeparator('orange-light', 'top') ?>
                         <div class="inner">
                         <div class="container">
                         <?php endif ?>
@@ -64,7 +64,7 @@
                         <?php if (count($images) > 2) : ?>
                         </div>
                         </div>
-                        <?= $site->useSeparator('orange-light', 'bottom') ?>
+                        <?= useSeparator('orange-light', 'bottom') ?>
                         </aside>
                         <?php endif ?>
                         <?php endif ?>
@@ -92,7 +92,7 @@
         <nav class="js-hide mb-12 flex sketch text-5xl select-none">
             <?php if ($pagination->hasPrevPage()) : ?>
             <a class="h-20 flex-1 flex justify-around items-center text-white rounded-l-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->prevPageURL() ?>" rel="prev" title="<?= t('Früheres--title') ?>">
-                <?= $site->useSVG(t('Früheres'), 'w-auto h-10 fill-current', 'arrow-left') ?>
+                <?= useSVG(t('Früheres'), 'w-auto h-10 fill-current', 'arrow-left') ?>
                 <span class="hidden md:inline"><?= t('Früheres') ?></span>
             </a>
             <?php else : ?>
@@ -103,7 +103,7 @@
             ?>
             <a class="js-target h-20 flex-1 flex justify-around items-center text-white rounded-r-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->nextPageURL() ?>" rel="next" title="<?= t('Älteres--title') ?>">
                 <span class="hidden md:inline"><?= t('Älteres') ?></span>
-                <?= $site->useSVG(t('Älteres'), 'w-auto h-10 fill-current', 'arrow-right') ?>
+                <?= useSVG(t('Älteres'), 'w-auto h-10 fill-current', 'arrow-right') ?>
             </a>
             <?php else : ?>
             <span class="h-20 flex-1 rounded-r-lg bg-red-light opacity-75 cursor-not-allowed"></span>

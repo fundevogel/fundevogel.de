@@ -16,10 +16,10 @@
         <?= $page->details()->kt() ?>
     </section>
     <aside class="wave">
-        <?= $site->useSeparator('orange-light', 'top-reversed') ?>
+        <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
             <div class="text-center">
-                <?= $site->useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
+                <?= useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
             </div>
             <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
             <div class="js-slider mb-10 flex items-center">
@@ -42,7 +42,7 @@
                 <?php endforeach ?>
             </div>
         </div>
-        <?= $site->useSeparator('orange-light', 'bottom-reversed') ?>
+        <?= useSeparator('orange-light', 'bottom-reversed') ?>
     </aside>
     <section class="container">
         <div class="flex flex-col md:flex-row">

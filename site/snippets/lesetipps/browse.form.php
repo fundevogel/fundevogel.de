@@ -38,7 +38,7 @@
                     placeholder="<?= t('Alle Lesetipps durchsuchen') ?> ..."
                 >
                 <button class="mx-2 outline-none focus:outline-none active:outline-none" type="submit" value="Search">
-                    <?= $site->useSVG('Suche', 'w-8 h-8 text-orange-medium fill-current', 'search') ?>
+                    <?= useSVG('Suche', 'w-8 h-8 text-orange-medium fill-current', 'search') ?>
                 </button>
             </form>
         </div>

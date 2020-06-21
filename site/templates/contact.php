@@ -25,17 +25,17 @@
         </div>
     </header>
     <aside class="wave">
-        <?= $site->useSeparator('orange-light', 'top-reversed') ?>
+        <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
             <div class="container xl:px-0">
                 <div class="text-center">
-                    <?= $site->useSVG(t('kontakt_ueberschrift-liste'), 'wave-icon', 'map') ?>
+                    <?= useSVG(t('kontakt_ueberschrift-liste'), 'wave-icon', 'map') ?>
                 </div>
                 <h2 class="wave-title"><?= t('kontakt_ueberschrift-liste') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <div class="lg:w-2/5 lg:mr-12 mb-6">
                         <div class="mb-2 flex flex-col items-center">
-                            <!-- <?= $site->useSVG('Fahrrad', 'w-16 h-16', 'bike') ?> -->
+                            <!-- <?= useSVG('Fahrrad', 'w-16 h-16', 'bike') ?> -->
                             <h3 class="my-3 text-orange-medium">Mit dem Fahrrad</h3>
                         </div>
                         <?= $page->bike()->kt() ?>
@@ -43,14 +43,14 @@
                     <div class="flex-1 flex flex-col">
                         <div class="mb-4">
                             <div class="mb-2 flex flex-col items-center">
-                                <!-- <?= $site->useSVG('Auto', 'w-16 h-16', 'car') ?> -->
+                                <!-- <?= useSVG('Auto', 'w-16 h-16', 'car') ?> -->
                                 <h3 class="my-3 text-orange-medium">Über den Asphalt</h3>
                             </div>
                             <?= $page->auto()->kt() ?>
                         </div>
                         <div class="mb-6">
                             <div class="mb-2 flex flex-col items-center">
-                                <!-- <?= $site->useSVG('Bahn', 'w-16 h-16', 'tram') ?> -->
+                                <!-- <?= useSVG('Bahn', 'w-16 h-16', 'tram') ?> -->
                                 <h3 class="my-3 text-orange-medium">Auf der Schiene</h3>
                             </div>
                             <?= $page->tram()->kt() ?>
@@ -59,7 +59,7 @@
                 </div>
             </div>
         </div>
-        <?= $site->useSeparator('orange-light', 'bottom-reversed') ?>
+        <?= useSeparator('orange-light', 'bottom-reversed') ?>
     </aside>
 </article>
 
