@@ -35,7 +35,7 @@
     </section>
     <section class="container">
         <div class="mt-12 card is-dashed">
-            <h3 class="mb-6 underline"><?= t('nuetzliche-infos') ?></h3>
+            <h3 class="mb-6 underline"><?= t('Nützliche Infos') ?></h3>
             <?= $page->details()->kt() ?>
         </div>
     </section>

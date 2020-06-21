@@ -10,46 +10,36 @@
                     <div class="js-overlay flex flex-col justify-center fixed inset-0 bg-red-medium z-50" style="transform: translateY(-100%)">
                         <nav class="mt-12 sm:mt-16 flex flex-col items-center font-normal text-lg sm:text-2xl text-center">
                             <?php foreach($pages->listed() as $item) : ?>
-                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white', ' text-white hover:text-red-medium hover:bg-white') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('startseite'), $item->title()->html()) ?>" style="opacity: 0; text-shadow:none">
-                                <?php
-                                    $id = 'nav-' . $item->id();
-                                    $translation = t($id);
-                                ?>
-                                <?= $translation ?>
+                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white', ' text-white hover:text-red-medium hover:bg-white') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>" style="opacity: 0; text-shadow:none">
+                                    <span><?= t('Menü-' . $item->id()) ?></span>
                                 </a>
                             <?php endforeach ?>
-                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="Shop" target="_blank" style="opacity: 0; text-shadow:none">Shop</a>
+                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" style="opacity: 0; text-shadow:none">Shop</a>
                         </nav>
                     </div>
-                    <button class="js-toggle py-6 pl-4 pr-8 text-white lg:hidden relative z-50" type="button" data-menu="<?= t('nav-menue') ?>">
+                    <button class="js-toggle py-6 pl-4 pr-8 text-white lg:hidden relative z-50" type="button" data-menu="<?= t('Menü') ?>">
                         <span></span>
                     </button>
                     <nav class="spread-out hidden lg:flex">
                         <?php foreach($pages->listed() as $item) : ?>
                             <div class="px-2 relative">
-                                <a class="text-sm text-white outline-none<?php e($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('startseite'), $item->title()->html()) ?>">
-                                <?php
-                                    $id = 'nav-' . $item->id();
-                                    $translation = t($id);
-                                ?>
-                                <span><?= $translation ?></span>
-                                <?php if ($item->id() === 'unser-sortiment') : ?>
-                                <i class="absolute leading-none py-1 px-2 text-sm text-white not-italic font-small-caps bg-orange-medium rounded-lg z-25 select-none" style="bottom: -1.5rem;right: -0.5rem;">
-                                    <?= t('nav-neu') ?>
-                                </i>
-                                <?php endif ?>
+                                <a class="js-tippy text-sm text-white outline-none<?php e($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>">
+                                    <span><?= t('Menü-' . $item->id()) ?></span>
                                 </a>
                             </div>
                         <?php endforeach ?>
                         <div class="px-2 relative">
-                            <a class="text-sm text-white outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="Shop" target="_blank">
+                            <a class="js-tippy text-sm text-white outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank">
                                 <span>Shop</span>
                             </a>
                         </div>
                     </nav>
                     <nav class="mr-4 flex spread-out z-50">
-                        <?php foreach($kirby->languages() as $language) : ?>
-                        <a class="js-tippy flex items-center last:ml-2 px-2 text-sm text-white outline-none <?= $language->code() ?><?php e($kirby->language() == $language, ' hidden is-active') ?>" href="<?= $page->url($language->code()) ?>" title="<?php $lang_string = 'i18-link--' . $kirby->language() . '-zu-' . $language->code(); echo t($lang_string) ?>">
+                        <?php
+                            foreach($kirby->languages() as $language) :
+                            $langTitle = implode(' ', [Str::upper($kirby->language()), 'nach', Str::upper($language->code())]);
+                        ?>
+                        <a class="js-tippy flex items-center last:ml-2 px-2 text-sm text-white outline-none <?= $language->code() ?><?php e($kirby->language() == $language, ' hidden is-active') ?>" href="<?= $page->url($language->code()) ?>" title="<?= t($langTitle) ?>">
                             <?= $site->useSVG($language->name(), 'w-6 h-6 rounded-full', $language->code()) ?>
                             <span class="ml-2 hidden sm:inline">
                                 <?= $language->name() ?>
@@ -83,7 +73,7 @@
                                     ?>
                                 </h1>
                                 <?php if ($page->isHomePage()) : ?>
-                                <h3 class="text-black text-2xl sm:text-4xl sketch"><?= t('home_untertitel') ?></h3>
+                                <h3 class="text-black text-2xl sm:text-4xl sketch"><?= t('Kinder- und Jugendbuchhandlung') ?></h3>
                                 <?php endif ?>
                             </div>
                         </div>

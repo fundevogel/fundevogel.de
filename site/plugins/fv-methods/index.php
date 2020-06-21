@@ -1,5 +1,15 @@
 <?php
 
+function getLangVars($language = 'de')
+{
+    $translations = Yaml::decode(F::read(
+        kirby()->root('languages') . '/vars/' . $language . '.yml')
+    );
+
+    return $translations;
+}
+
+
 Kirby::plugin('fundevogel/methods', [
     'tags' => [
         'short' => [
@@ -40,7 +50,7 @@ Kirby::plugin('fundevogel/methods', [
     ],
     'pageMethods' => [
         'moreLink' => function($class = '') {
-            $link = Html::tag('a', '→ ' . t('lesetipps_weiterlesen'), [
+            $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
                 'href' => $this->url(),
                 'class' => $class,
             ]);

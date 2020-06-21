@@ -25,7 +25,7 @@
     </header>
     <hr>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= t($identifier . '_ueberschrift-liste') ?></h2>
+        <h2 class="mb-12 text-center"><?= t(Str::ucfirst($identifier) . '-Überschrift') ?></h2>
         <div id="macy">
             <?php foreach($cards as $card) : ?>
             <article class="card">

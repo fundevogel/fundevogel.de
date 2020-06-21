@@ -13,7 +13,7 @@
     </header>
     <hr>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= t('kalender_ueberschrift-liste') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Alle Veranstaltungen im Überblick') ?></h2>
         <?php if ($openEvents->isNotEmpty()) : ?>
         <?php foreach($openEvents as $timeRange => $events) : ?>
         <h2 class="mb-8 text-center"><?= $timeRange ?></h2>
@@ -26,7 +26,7 @@
                 </div>
                 <aside class="lg:ml-10 pt-4 lg:pt-10 lg:max-w-sm">
                     <div class="card">
-                        <h4><?= t('kalender_termin-ueberschrift') ?></h4>
+                        <h4><?= t('Termin im Überblick') ?></h4>
                         <?php snippet('calendar/quick-view', compact('event')) ?>
                     </div>
                 </aside>
@@ -37,7 +37,7 @@
         <?php e($events !== $groups->last(), '<hr class="max-w-sm">') ?>
         <?php endforeach ?>
         <?php else : ?>
-        <p class="italic text-center"><?= t('kalender_keine-veranstaltungen') ?></p>
+        <p class="italic text-center"><?= t('Keine Veranstaltungen') ?></p>
         <?php endif ?>
     </section>
     <aside class="wave">
@@ -69,7 +69,7 @@
     </aside>
     <?php if ($closedEvents->isNotEmpty()) : ?>
     <section class="container">
-        <h2 class="mb-12 text-center"><?= t('kalender_geschlossene-veranstaltungen') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Geschlossene Veranstaltungen') ?></h2>
         <div id="macy">
             <?php foreach ($closedEvents as $event) : ?>
             <div class="card">

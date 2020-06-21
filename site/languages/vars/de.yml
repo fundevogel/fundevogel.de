@@ -1,0 +1,128 @@
+# Nav menu: entries
+Menü: Menü
+Menü-news: Willkommen!
+Menü-fundevogel-und-team: Fundevogel
+Menü-unser-sortiment: Sortiment
+Menü-lesetipps: Lesetipps
+Menü-kalender: Kalender
+Menü-unser-service: Service
+Menü-unser-netzwerk: Netzwerk
+Menü-kontakt: Kontakt
+
+# Nav menu: title attributes
+Menü-Startseite: Startseite
+Menü-shop: Unser Onlineshop
+
+
+# Language menu
+DE nach EN: Dise Seite auf Französisch anzeigen
+DE nach FR: Diese Seite auf Englisch anzeigen
+
+
+# News: headings
+Kinder- und Jugendbuchhandlung: Kinder- und Jugendbuchhandlung
+Neues aus dem Fundevogel: Neues aus dem Fundevogel
+
+# News: list
+Frühere Neuigkeiten: Frühere Neuigkeiten
+Frühere Neuigkeiten anzeigen: Frühere Neuigkeiten anzeigen
+Früheres: Früheres
+Älteres: Älteres
+Mehr haben wir nicht!: Mehr haben wir nicht!
+
+
+# Lesetipps: headings
+Alle Lesetipps: Alle Lesetipps im Überblick
+Alle Lesetipps:Kategorie: Alle Lesetipps zur Kategorie
+Alle Lesetipps:Thema: Alle Lesetipps zum Thema
+Alle Empfehlungslisten: Alle Empfehlungslisten
+Zeitlose Klassiker: Zeitlose Klassiker
+Auswahl unserer Lieblinge: Auswahl unserer Lieblinge
+Bekannte Vertreter: Bekannte Vertreter
+Alle Lesetipps durchsuchen: Alle Lesetipps durchsuchen
+Deine Suche ergab XY Treffer:
+  one: Deine Suche ergab einen Treffer!
+  other: Deine Suche ergab {{ count }} Treffer!
+
+# Lesetipps: details
+AutorIn: AutorIn
+IllustratorIn: IllustratorIn
+ÜbersetzerIn: ÜbersetzerIn
+Mitwirkende: Mitwirkende
+Monaten: Monaten
+Jahren: Jahren
+Verlag: Verlag
+Seiten: Seiten
+Ladenpreis: Ladenpreis
+Zum Shop: Zum Shop
+
+# Lesetipps: buttons
+Du bist hier: Du bist hier
+Neuere Lesetipps: Neuere Lesetipps
+Ältere Lesetipps: Ältere Lesetipps
+Mehr Lesetipps!: Mehr Lesetipps!
+Nächster Lesetipp: Nächster Lesetipp
+Letzter Lesetipp: Letzter Lesetipp
+Hier geht es nicht weiter!: Hier geht es nicht weiter!
+
+# Lesetipps: filter settings
+Kategorie auswählen: Kategorie auswählen
+Lesealter auswählen: Lesealter auswählen
+Thema auswählen: Thema auswählen
+Verlag auswählen: Verlag auswählen
+Zurücksetzen: Zurücksetzen
+Alles zurücksetzen: Alles zurücksetzen
+
+# Lesetipps: misc
+Weiterlesen: Weiterlesen
+Serie: Serie
+wie: wie
+Buch/Bücher:
+  one: '{{ count }} Buch'
+  other: '{{ count }} Bücher'
+
+
+# Calendar: headings
+Alle Veranstaltungen im Überblick: Alle Veranstaltungen im Überblick
+Heute: Heute
+Diese Woche: Diese Woche
+Diesen Monat: Diesen Monat
+In der Ferne: In der Ferne
+Jährliche Höhepunkte: Jährliche Höhepunkte
+Geschlossene Veranstaltungen: Geschlossene Veranstaltungen
+Alle vergangenen Veranstaltungen: Alle vergangenen Veranstaltungen
+Eindrücke: Eindrücke
+Nützliche Infos: Nützliche Infos
+
+# Calendar: details
+Termin im Überblick: Termin im Überblick
+Was: Was
+Wann: Wann
+Zeit: Zeit
+Uhr: Uhr
+Ort: Ort
+Ende: Ende
+
+# Calendar: misc
+Keine Veranstaltungen: Aktuell liegen keine Veranstaltungen vor.
+
+
+# Misc: headings
+Sortiment-Überschrift: Unser Sortiment im Überblick
+Service-Überschrift: Was wir sonst noch haben & können
+Netzwerk-Überschrift: Unsere Kooperationspartner
+Kontakt-Überschrift: So erreicht ihr uns
+
+
+# Footer menu
+Schreiben Sie uns!: Schreiben Sie uns!
+Telefon: Tel
+Fax: Fax
+Impressum: Impressum
+Unser Impressum: Unser Impressum
+AGB: AGB
+Allgemeine Geschäftsbedingungen: Allgemeine Geschäftsbedingungen
+Widerruf: Widerruf
+Unsere Widerrufsbelehrung: Unsere Widerrufsbelehrung
+Datenschutz: Datenschutz
+Unsere Datenschutzrichtlinien: Unsere Datenschutzrichtlinien

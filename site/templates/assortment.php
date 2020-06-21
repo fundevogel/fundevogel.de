@@ -13,7 +13,7 @@
     </header>
     <hr>
     <section class="container xl:px-8">
-        <h2 class="mb-12 text-center"><?= t('Alle Kategorien im Überblick') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
         <?php snippet('assortment/navigation') ?>
     </section>
 </article>

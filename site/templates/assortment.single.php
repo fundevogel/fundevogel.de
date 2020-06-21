@@ -19,9 +19,9 @@
         <?= $site->useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
             <div class="text-center">
-                <?= $site->useSVG(t('best-examples'), 'wave-icon', 'book-closed-filled') ?>
+                <?= $site->useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
             </div>
-            <h2 class="wave-title"><?= t('best-examples') ?></h2>
+            <h2 class="wave-title"><?= t('Auswahl unserer Lieblinge') ?></h2>
             <div class="js-slider mb-10">
                 <?php
                     foreach ($examples as $example) :
@@ -97,7 +97,7 @@
     </section>
     <hr class="max-w-sm">
     <section class="container xl:px-8">
-        <h2 class="mb-12 text-center"><?= t('Unser Sortiment im Überblick') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
         <?php snippet('assortment/navigation') ?>
     </section>
 </article>

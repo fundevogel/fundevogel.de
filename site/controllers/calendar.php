@@ -23,11 +23,11 @@ return function ($site, $pages, $page) {
     $openEvents = $events->without($closedEvents)->group(function($event) {
         $date = $event->date();
 
-        if($date->toDate('Y-m-d') == date('Y-m-d')) return t('kalender_heute');
-        if($date->toDate() < strtotime('+7 day')) return t('kalender_diese-woche');
-        if($date->toDate() < strtotime('+30 day')) return t('kalender_diesen-monat');
+        if($date->toDate('Y-m-d') == date('Y-m-d')) return t('Heute');
+        if($date->toDate() < strtotime('+7 day')) return t('Diese Woche');
+        if($date->toDate() < strtotime('+30 day')) return t('Diesen Monat');
 
-        return t('kalender_in-der-ferne');
+        return t('In der Ferne');
     });
 
     $annualEvents = $page->children()->filterBy('intendedTemplate', 'calendar.single');

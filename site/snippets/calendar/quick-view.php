@@ -9,16 +9,16 @@
         $end = strtotime($event->end_date() . ' ' . $event->end_time());
         $location = $event->location();
 
-        e($category->isNotEmpty(), t('kalender_termin-thema') . ': ' . $category->html() . '<br>');
-        e($start, t('kalender_termin-tage') . ': ' . date('d.m.Y', $start) . '<br>');
+        e($category->isNotEmpty(), t('Was') . ': ' . $category->html() . '<br>');
+        e($start, t('Wann') . ': ' . date('d.m.Y', $start) . '<br>');
 
         if($start_time->isNotEmpty()) {
-            echo t('kalender_termin-zeit') . ': ' . date('H:i', $start);
+            echo t('Zeit') . ': ' . date('H:i', $start);
             e($end_time && date('H:i', $end) !== date('H:i', $start), '- '. date('H:i', $end));
-            echo ' ' . t('kalender_termin-uhr') . '<br>';
+            echo ' ' . t('Uhr') . '<br>';
         }
 
-        e($location->isNotEmpty(), t('kalender_termin-ort') . ': ' . $location->html() . '<br>');
-        e($end_date && date('d.m.Y', $end) !== date('d.m.Y', $start), t('kalender_termin-ende') . ': ' . date('d.m.Y', $end));
+        e($location->isNotEmpty(), t('Ort') . ': ' . $location->html() . '<br>');
+        e($end_date && date('d.m.Y', $end) !== date('d.m.Y', $start), t('Ende') . ': ' . date('d.m.Y', $end));
     ?>
 </p>

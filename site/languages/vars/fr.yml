@@ -1,0 +1,128 @@
+# Nav menu: entries
+Menü: Menu
+Menü-news: Actualité
+Menü-fundevogel-und-team: Présentation
+Menü-unser-sortiment: Assortiment
+Menü-lesetipps: Coin des livres
+Menü-kalender: Agenda
+Menü-unser-service: Service
+Menü-unser-netzwerk: Réseau
+Menü-kontakt: Contact
+
+# Nav menu: title attributes
+Menü-Startseite: Page d\'accueil
+Menü-shop: Boutique
+
+
+# Language menu
+FR nach DE: Afficher cette page en français
+FR nach EN: Afficher cette page en anglais
+
+
+# News: headings
+Kinder- und Jugendbuchhandlung: Librairie jeunesse
+Neues aus dem Fundevogel: L\'actualité du Fundevogel
+
+# News: list
+Frühere Neuigkeiten: Articles précédents
+Frühere Neuigkeiten anzeigen: Afficher les articles précédents
+Früheres:
+Älteres:
+Mehr haben wir nicht!: C´est fini !
+
+
+# Lesetipps: headings
+Alle Lesetipps: Nos conseils de lecture
+Alle Lesetipps:Kategorie:
+Alle Lesetipps:Thema:
+Alle Empfehlungslisten:
+Zeitlose Klassiker:
+Auswahl unserer Lieblinge:
+Bekannte Vertreter:
+Alle Lesetipps durchsuchen:
+Deine Suche ergab XY Treffer:
+  one: '{{ count }}'
+  other: '{{ count }}'
+
+# Lesetipps: details
+AutorIn:
+IllustratorIn:
+ÜbersetzerIn:
+Mitwirkende:
+Monaten:
+Jahren:
+Verlag:
+Seiten:
+Ladenpreis:
+Zum Shop:
+
+# Lesetipps: buttons
+Du bist hier:
+Neuere Lesetipps: Livres suivants
+Ältere Lesetipps: Livres précédents
+Mehr Lesetipps!:
+Nächster Lesetipp: Livre suivant
+Letzter Lesetipp: Livre précédent
+Hier geht es nicht weiter!:
+
+# Lesetipps: filter settings
+Kategorie auswählen:
+Lesealter auswählen:
+Thema auswählen:
+Verlag auswählen:
+Zurücksetzen:
+Alles zurücksetzen:
+
+# Lesetipps: misc
+Weiterlesen: Lire la suite
+Serie:
+wie: comme
+Buch/Bücher:
+  one: '{{ count }} livre'
+  other: '{{ count }} livres'
+
+
+# Calendar: headings
+Alle Veranstaltungen im Überblick: Voici toutes nos venir animations
+Heute:
+Diese Woche:
+Diesen Monat:
+In der Ferne:
+Jährliche Höhepunkte:
+Geschlossene Veranstaltungen:
+Alle vergangenen Veranstaltungen: Voici toutes nos passées animations
+Eindrücke:
+Nützliche Infos:
+
+# Calendar: details
+Termin im Überblick: En bref
+Was: Quoi
+Wann: Quand
+Zeit: À quelle heure
+Uhr:
+Ort: Où
+Ende: Jusqu\'au
+
+# Calendar: misc
+Keine Veranstaltungen: Nix
+
+
+# Misc: headings
+Sortiment-Überschrift:
+Service-Überschrift: Ce que nous vous offrons
+Netzwerk-Überschrift: Nos partenaires
+Kontakt-Überschrift: Comment venir?
+
+
+# Footer menu
+Schreiben Sie uns!: Nous écrire
+Telefon: Tél
+Fax: Fax
+Impressum: Mentions légales
+Unser Impressum: Mentions légales
+AGB: Conditions générales de vente
+Allgemeine Geschäftsbedingungen: Conditions générales de vente
+Widerruf: Désaveu
+Unsere Widerrufsbelehrung: Désaveu
+Datenschutz: Informatique et Liberté
+Unsere Datenschutzrichtlinien: Informatique et Liberté

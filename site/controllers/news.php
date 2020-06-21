@@ -11,7 +11,7 @@ return function ($page) {
 
     $newsPerPage = $newsTotal->paginate(($perPage >= 1) ? $perPage : 5);
 
-    $nothingLeft = Html::tag('h3', t('home_mehr-anzeigen--ende'), ['class' => 'text-center']);
+    $nothingLeft = Html::tag('h3', t('Mehr haben wir nicht!'), ['class' => 'text-center']);
 
     return [
         'news' => $newsPerPage,

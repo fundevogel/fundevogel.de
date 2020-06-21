@@ -24,7 +24,7 @@
     </header>
     <hr>
     <section class="js-list">
-        <h2 class="mb-12 text-center"><?= t('home_ueberschrift-liste') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Neues aus dem Fundevogel') ?></h2>
         <?php foreach($news as $article) : ?>
             <article class="js-article animation-fade-in">
                 <div class="<?php e(count($images = $article->images()) < 3, 'container') ?>">
@@ -91,9 +91,9 @@
     <footer class="container">
         <nav class="js-hide mb-12 flex sketch text-5xl select-none">
             <?php if ($pagination->hasPrevPage()) : ?>
-            <a class="h-20 flex-1 flex justify-around items-center text-white rounded-l-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->prevPageURL() ?>" rel="prev" title="<?= t('home_frueheres--title') ?>">
-                <?= $site->useSVG(t('home_frueheres'), 'w-auto h-10 fill-current', 'arrow-left') ?>
-                <span class="hidden md:inline"><?= t('home_frueheres') ?></span>
+            <a class="h-20 flex-1 flex justify-around items-center text-white rounded-l-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->prevPageURL() ?>" rel="prev" title="<?= t('Früheres--title') ?>">
+                <?= $site->useSVG(t('Früheres'), 'w-auto h-10 fill-current', 'arrow-left') ?>
+                <span class="hidden md:inline"><?= t('Früheres') ?></span>
             </a>
             <?php else : ?>
             <span class="h-20 flex-1 rounded-l-lg bg-red-light opacity-75 cursor-not-allowed"></span>
@@ -101,16 +101,16 @@
                 endif;
                 if ($pagination->hasNextPage()) :
             ?>
-            <a class="js-target h-20 flex-1 flex justify-around items-center text-white rounded-r-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->nextPageURL() ?>" rel="next" title="<?= t('home_aelteres--title') ?>">
-                <span class="hidden md:inline"><?= t('home_aelteres') ?></span>
-                <?= $site->useSVG(t('home_aelteres'), 'w-auto h-10 fill-current', 'arrow-right') ?>
+            <a class="js-target h-20 flex-1 flex justify-around items-center text-white rounded-r-lg bg-red-light hover:bg-red-medium transition-all outline-none" href="<?= $pagination->nextPageURL() ?>" rel="next" title="<?= t('Älteres--title') ?>">
+                <span class="hidden md:inline"><?= t('Älteres') ?></span>
+                <?= $site->useSVG(t('Älteres'), 'w-auto h-10 fill-current', 'arrow-right') ?>
             </a>
             <?php else : ?>
             <span class="h-20 flex-1 rounded-r-lg bg-red-light opacity-75 cursor-not-allowed"></span>
             <?php endif ?>
         </nav>
-        <button class="js-more w-full h-20 flex-1 flex justify-around items-center text-white rounded-lg bg-red-light hover:bg-red-medium transition-all outline-none nojs-hidden" type="button" title="<?= t('home_mehr-anzeigen--title') ?>">
-            <span class="sketch text-5xl select-none"><?= t('home_mehr-anzeigen') ?></span>
+        <button class="js-more w-full h-20 flex-1 flex justify-around items-center text-white rounded-lg bg-red-light hover:bg-red-medium transition-all outline-none nojs-hidden" type="button" title="<?= t('Frühere Neuigkeiten anzeigen') ?>">
+            <span class="sketch text-5xl select-none"><?= t('Frühere Neuigkeiten') ?></span>
         </button>
     </footer>
 </article>

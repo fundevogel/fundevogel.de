@@ -13,7 +13,7 @@
     </header>
     <hr id="aktuelle-veranstaltungen">
     <section class="container">
-        <h2 class="mb-12 text-center"><?= t('vergangene-veranstaltungen_ueberschrift-liste') ?></h2>
+        <h2 class="mb-12 text-center"><?= t('Alle vergangenen Veranstaltungen') ?></h2>
         <?php
             foreach($groupedEvents as $year => $events) : ?>
                 <h3 class="mb-4 text-center"><?= $year ?></h2>

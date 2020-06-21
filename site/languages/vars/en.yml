@@ -1,0 +1,128 @@
+# Nav menu: entries
+Menü: Menu
+Menü-news: Welcome!
+Menü-fundevogel-und-team: Fundevogel
+Menü-unser-sortiment: Assortment
+Menü-lesetipps: Reading tips
+Menü-kalender: Calendar
+Menü-unser-service: Service
+Menü-unser-netzwerk: Network
+Menü-kontakt: Contact
+
+# Nav menu: title attributes
+Menü-Startseite: Home
+Menü-shop: Shop
+
+
+# Language menu
+EN nach DE: View current page in german
+EN nach FR: View current page in french
+
+
+# News: headings
+Kinder- und Jugendbuchhandlung: bookstore for young people
+Neues aus dem Fundevogel: News from Fundevogel
+
+# News: list
+Frühere Neuigkeiten: Previous news
+Frühere Neuigkeiten anzeigen: Show previous news
+Früheres:
+Älteres:
+Mehr haben wir nicht!: Congrats, you reached the end!
+
+
+# Lesetipps: headings
+Alle Lesetipps: All reading tips at a glance
+Alle Lesetipps:Kategorie:
+Alle Lesetipps:Thema:
+Alle Empfehlungslisten:
+Zeitlose Klassiker: Timeless Classics
+Auswahl unserer Lieblinge: Selection of our favorites
+Bekannte Vertreter: Great Exponents
+Alle Lesetipps durchsuchen: Browse all reading tips
+Deine Suche ergab XY Treffer:
+  one: Deine Suche ergab einen Treffer!
+  other: Deine Suche ergab {{ count }} Treffer!
+
+# Lesetipps: details
+AutorIn: Author
+IllustratorIn: Illustrator
+ÜbersetzerIn: Translator
+Mitwirkende: Participants
+Monaten: Months
+Jahren: Years
+Verlag: Publisher
+Seiten: Pages
+Ladenpreis: Retail Price
+Zum Shop: Buy it
+
+# Lesetipps: buttons
+Du bist hier:
+Neuere Lesetipps: Newer reading tips  # button am seitenende (t)
+Ältere Lesetipps: Older reading tips  # button am seitenende (t)
+Mehr Lesetipps!: More reading tips!
+Nächster Lesetipp: Next reading tip  # button am seitenende (t)
+Letzter Lesetipp: Previous reading tip  # button am seitenende (t)
+Hier geht es nicht weiter!: Nothing to see here!
+
+# Lesetipps: filter settings
+Kategorie auswählen: Filter by category
+Lesealter auswählen: Filter by age
+Thema auswählen: Filter by topic
+Verlag auswählen: Filter by publisher
+Zurücksetzen: Reset
+Alles zurücksetzen: Alles zurücksetzen
+
+# Lesetipps: misc
+Weiterlesen: Read more
+Serie: Series
+wie: like
+Buch/Bücher:
+  one: '{{ count }} book'
+  other: '{{ count }} books'
+
+
+# Calendar: headings
+Alle Veranstaltungen im Überblick: Overview of upcoming events
+Heute: Today
+Diese Woche: This week
+Diesen Monat: This month
+In der Ferne: In the future
+Jährliche Höhepunkte: Annual highlights
+Geschlossene Veranstaltungen: Closed events
+Alle vergangenen Veranstaltungen: All past events
+Eindrücke: Impressions
+Nützliche Infos: Useful resources
+
+# Calendar: details
+Termin im Überblick: Overview
+Was: What
+Wann: When
+Zeit: Time
+Uhr: o\clock
+Ort: Location
+Ende: End
+
+# Calendar: misc
+Keine Veranstaltungen: There are no upcoming events right now.
+
+
+# Misc: headings
+Sortiment-Überschrift:
+Service-Überschrift: What we\'re good at
+Netzwerk-Überschrift: Our partners
+Kontakt-Überschrift: Come round and see us!
+
+
+# Footer menu
+Schreiben Sie uns!: Send us an email
+Telefon: Tel
+Fax: Fax
+Impressum: Imprint
+Unser Impressum: Imprint & Legal Information
+AGB: Terms & Conditions
+Allgemeine Geschäftsbedingungen: Our Terms & Conditions
+Widerruf: Disclaimer
+Unsere Widerrufsbelehrung: Our Disclaimer
+Datenschutz: Privacy
+Unsere Datenschutzrichtlinien: Our Data Privacy Guidelines

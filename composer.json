@@ -29,6 +29,7 @@
         "pedroborges/kirby-meta-tags": "^2.0",
         "rasteiner/k3-trevor-view": "^0.1.0",
         "timoetting/kirby-builder": "^2.0",
+        "oblik/kirby-plurals": "^1.0",
         "mzur/kirby-uniform": "^4.0"
     },
     "extra": {

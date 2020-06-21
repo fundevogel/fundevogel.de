@@ -19,7 +19,7 @@
         <?= $site->useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
             <div class="text-center">
-                <?= $site->useSVG(t('best-examples'), 'wave-icon', 'camera-filled') ?>
+                <?= $site->useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
             </div>
             <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
             <div class="js-slider mb-10 flex items-center">
@@ -56,7 +56,7 @@
     </section>
     <section class="container">
         <div class="mt-12 card is-dashed">
-            <h3 class="mb-4 underline"><?= t('nuetzliche-infos') ?></h3>
+            <h3 class="mb-4 underline"><?= t('Nützliche Infos') ?></h3>
             <?= $page->info()->kt() ?>
         </div>
     </section>
