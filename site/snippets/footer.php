@@ -21,15 +21,9 @@
                                 <span class="px-2">GitHub</span>
                             </a>
                         </div>
-<<<<<<< HEAD
-                        <nav class="flex flex-wrap justify-center mb-4" role="navigation">
-                            <a class="js-tippy outline-none" href="<?= url('unsere-agb') ?>" title="<?= t('footer_agb--title') ?>">
-                                <span><?= t('footer_agb') ?></span>
-=======
                         <nav class="flex justify-center mb-4" role="navigation">
                             <a class="js-tippy outline-none" href="<?= url('unsere-agb') ?>" title="<?= t('Allgemeine Geschäftsbedingungen') ?>">
                                 <span><?= t('AGB') ?></span>
->>>>>>> Reworking translations
                             </a>
                             <span class="mx-2 select-none">|</span>
                             <a class="js-tippy outline-none" href="<?= url('widerruf') ?>" title="<?= t('Unsere Widerrufsbelehrung') ?>">
