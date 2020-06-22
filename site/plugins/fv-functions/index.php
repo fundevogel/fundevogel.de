@@ -1,5 +1,16 @@
 <?php
 
+use PHPCBIS\PHPCBIS;
+
+function pcbis()
+{
+    # Initializing PHPCBIS object
+    $login = file_get_contents(kirby()->root('config') . '/knv.json');
+    $login = json_decode($login, true);
+
+    return new PHPCBIS($login);
+}
+
 function getLangVars ($language = 'de')
 {
     $translations = Yaml::decode(F::read(

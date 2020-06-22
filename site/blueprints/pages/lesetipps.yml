@@ -35,14 +35,6 @@ tabs:
         label: Text
         type: textarea
 
-      create_metadata:
-        type: janitor
-        label:
-          de: Infos generieren
-          en: Generate metadata
-        progress: Durchsuchen ..
-        job: createMetadata
-
     sidebar:
       sidebar_fields:
         fields:

@@ -1,15 +1,5 @@
 <?php
 
-use PHPCBIS\PHPCBIS;
-
-function pcbis()
-{
-    # Initializing PHPCBIS object
-    $login = file_get_contents(kirby()->root('config') . '/knv.json');
-    $login = json_decode($login, true);
-    return new PHPCBIS($login);
-}
-
 return [
     'loadBook' => function ($page) {
         # API call
@@ -112,12 +102,10 @@ return [
             'reload' => true,
         ];
     },
-    'createMetadata' => function ($page) {
-        $files = $page->documents();
+    'createMetadata' => function ($page, $data) {
+        $file = $page->file($data);
 
-        foreach ($files as $file) {
-            if ($file->template() != 'pdf') continue;
-
+        if ($file) {
             # Generate thumbnail image for PDF
             $extension = 'jpg';
             $inputFile = $file->root();
@@ -129,7 +117,7 @@ return [
                 $im->setResolution(200, 200);
                 $im->readImage($inputFile . '[0]');
                 // $im->setImageBackgroundColor('white');
-                $im->setImageAlphaChannel(imagick::ALPHACHANNEL_REMOVE);
+                $im->setImageAlphaChannel(Imagick::ALPHACHANNEL_REMOVE);
                 $im->setImageFormat($extension);
                 $im->setImageCompression(Imagick::COMPRESSION_JPEG);
                 $im->writeImage($outputFile);
@@ -158,7 +146,7 @@ return [
         }
 
         return [
-            'status' => 200,
+            'status' => $file ? 200 : 404,
             'label' => 'Erfolgreich!',
             'reload' => true,
         ];

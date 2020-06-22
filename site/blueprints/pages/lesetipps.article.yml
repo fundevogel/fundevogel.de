@@ -60,12 +60,12 @@ tabs:
               isbn:
                 label: ISBN
                 type: text
-                width: 1/4
+                width: 1/3
 
               shop:
                 label: Shop (URL)
                 type: url
-                width: 3/4
+                width: 2/3
 
               load_book:
                 type: janitor
@@ -74,7 +74,7 @@ tabs:
                   en: Retrieve data
                 progress: Download ..
                 job: loadBook
-                width: 1/4
+                width: 1/3
 
               download_cover:
                 type: janitor
@@ -83,7 +83,7 @@ tabs:
                   en: Download cover
                 progress: Download ..
                 job: downloadCover
-                width: 1/4
+                width: 2/3
 
               auto_book: fields/groups/book
 

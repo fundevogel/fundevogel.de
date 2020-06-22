@@ -45,3 +45,11 @@ columns:
             query: file.parent.images
             image:
               ratio: 2/3
+          createMetadata:
+            type: janitor
+            label:
+              de: Daten erzeugen
+              en: Generate data
+            progress: Bitte warten ..
+            job: createMetadata
+            data: "{{ file.filename }}"
