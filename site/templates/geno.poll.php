@@ -19,8 +19,12 @@
     <section class="container">
         <?php if ($form->success()) : ?>
         <h2 class="text-center">Vielen Dank für die Teilnahme!</h2>
+        <div class="mt-12 card is-dashed">
+            <h3 class="mb-4 underline"><?= t('So geht es weiter') ?></h3>
+            <?= $page->whatsnext()->kt() ?>
+        </div>
         <?php else : ?>
-        <h2>Los geht's!</h2>
+        <h2><?= t('Unsere Fragen an Sie') ?></h2>
         <?php snippet('geno/poll') ?>
         <?php endif ?>
     </section>

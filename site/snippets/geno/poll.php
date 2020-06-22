@@ -135,11 +135,5 @@
 
     <?= csrf_field(); ?>
     <?= honeypot_field(); ?>
-    <input class="h-16 px-4 sketch text-xl sm:text-3xl text-white text-shadow bg-red-light hover:bg-red-medium rounded-lg select-none transition-all cursor-pointer" type="submit" value="Submit">
+    <input class="h-16 px-4 sketch text-xl sm:text-3xl text-white text-shadow bg-red-light hover:bg-red-medium rounded-lg select-none transition-all cursor-pointer" type="submit" value="<?= t('Absenden') ?>">
 </form>
-
-<?php if ($form->success()): ?>
-Vielen Dank
-<?php else: ?>
-<?php snippet('uniform/errors', ['form' => $form]); ?>
-<?php endif; ?>

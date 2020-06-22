@@ -12,7 +12,12 @@ Aussicht auf Erfolg wird das genossenschaftliche Projekt FUNDEVOGEL dann haben, 
 ----
 Cover: hannah-busing-at-unsplash.jpg
 ----
+Whatsnext:
+Über den Sommer werten wir unsere Umfrage aus und diskutieren die Ergebnisse. Anschließend entwerfen wir ein Konzept zur Gründung einer Genossenschaft - wenn Sie sich entschieden haben, uns bei dieser Aufgabe zu unterstützen, werden wir zu gegebener Zeit auf Sie zukommen. Bis dahin alles Gute wünscht
+
+<span class="inline-block mt-6 font-normal font-small-caps text-xl text-orange-medium">Ihr Fundevogel-Team</span>
+----
 Seo:
 -
-  seo-title: "Impressum"
-  seo-description: "Kinder- und Jugendbuchhandlung Fundevogel für Freiburg und Umgebung | Marienstraße 13, 79098 Freiburg | Telefon: 0761 / 25218 | E-Mail: info@fundevogel.de"
+  seo-title: "Geno-Umfrage"
+  seo-description: "Ihre Meinung ist uns wichtig - wir haben ein offenes Ohr für Ihr Anliegen!"
