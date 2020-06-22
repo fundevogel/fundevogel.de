@@ -29,30 +29,21 @@
         <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
             <div class="container xl:px-0">
                 <div class="text-center">
-                    <?= useSVG(t('kontakt_ueberschrift-liste'), 'wave-icon', 'map') ?>
+                    <?= useSVG(t('Kontakt-Überschrift'), 'wave-icon', 'map-filled') ?>
                 </div>
-                <h2 class="wave-title"><?= t('kontakt_ueberschrift-liste') ?></h2>
+                <h2 class="wave-title"><?= t('Kontakt-Überschrift') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <div class="lg:w-2/5 lg:mr-12 mb-6">
-                        <div class="mb-2 flex flex-col items-center">
-                            <!-- <?= useSVG('Fahrrad', 'w-16 h-16', 'bike') ?> -->
-                            <h3 class="my-3 text-orange-medium">Mit dem Fahrrad</h3>
-                        </div>
+                        <h3 class="mb-2 text-center text-orange-medium">Mit dem Fahrrad</h3>
                         <?= $page->bike()->kt() ?>
                     </div>
                     <div class="flex-1 flex flex-col">
                         <div class="mb-4">
-                            <div class="mb-2 flex flex-col items-center">
-                                <!-- <?= useSVG('Auto', 'w-16 h-16', 'car') ?> -->
-                                <h3 class="my-3 text-orange-medium">Über den Asphalt</h3>
-                            </div>
+                            <h3 class="mb-2 text-center text-orange-medium">Über den Asphalt</h3>
                             <?= $page->auto()->kt() ?>
                         </div>
                         <div class="mb-6">
-                            <div class="mb-2 flex flex-col items-center">
-                                <!-- <?= useSVG('Bahn', 'w-16 h-16', 'tram') ?> -->
-                                <h3 class="my-3 text-orange-medium">Auf der Schiene</h3>
-                            </div>
+                            <h3 class="mb-2 text-center text-orange-medium">Auf der Schiene</h3>
                             <?= $page->tram()->kt() ?>
                         </div>
                     </div>
