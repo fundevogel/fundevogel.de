@@ -17,13 +17,13 @@ Kirby::plugin('fundevogel/methods', [
     ],
     'fileMethods' => [
         'getCover' => function ($classes = '') {
-            // Try using real cover, otherwise use global fallback image
-            // (1) Real cover image
-            $fileCover = $this->coverImage()->toFile();
+            // Try using default cover, otherwise use global fallback image
+            // (1) Default cover image
+            $default = $this->coverImage()->toFile();
             // (2) Fallback cover image
             $fallback = site()->fallback()->toFile();
-            $cover = $fileCover !== null
-                ? $fileCover
+            $cover = $default !== null
+                ? $default
                 : $fallback
             ;
 

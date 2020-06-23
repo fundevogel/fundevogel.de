@@ -103,18 +103,25 @@ return [
         ];
     },
     'createMetadata' => function ($page, $data) {
-        $file = $page->file($data);
-
-        if ($file) {
-            # Generate thumbnail image for PDF
+        # Check if PDF file exists
+        if ($file = $page->file($data)) {
+            # Build data for PDF
             $extension = 'jpg';
             $inputFile = $file->root();
             $outputFile = $file->root() . '.' . $extension;
-            $fileName = basename($outputFile);
 
+            # (1) Generate metadata
+            $fileName = basename($outputFile);
+            preg_match('/[0-9]{4}/', $fileName, $year);
+            $season = Str::contains($fileName, 'fruehjahr') ? 'Frühjahr' : 'Herbst';
+
+            $cover = $page->images($fileName);
+
+            # (2) Create thumbnail image ..
             if (!F::exists($outputFile) || (F::modified($outputFile) < $file->modified())) {
+                # .. only if it doesn't exist or PDF file changed since its creation
                 $im = new Imagick();
-                $im->setResolution(200, 200);
+                $im->setResolution(300, 300);
                 $im->readImage($inputFile . '[0]');
                 // $im->setImageBackgroundColor('white');
                 $im->setImageAlphaChannel(Imagick::ALPHACHANNEL_REMOVE);
@@ -123,32 +130,34 @@ return [
                 $im->writeImage($outputFile);
                 $im->clear();
 
-                new File([
+                # Update thumbnail image metadata
+                $cover = new File([
+                    'source' => $outputFile,
                     'filename' => $fileName,
-                    'parent'   => $file->parent(),
+                    'parent' => $file->parent(),
                 ]);
             }
 
-            # Generate metadata for PDF & edition
-            $fileName = basename($file);
-
-            preg_match('/[0-9]{4}/', $fileName, $year);
-            $season = Str::contains($fileName, 'fruehjahr') ? 'Frühjahr' : 'Herbst';
+            $cover->update([
+                'template' => 'image',
+                'titleAttribute' => 'Unsere Empfehlungen im ' . $season,
+                'altAttribute' => 'Coverbild unserer Empfehlungen im ' . $season,
+                'source' => 'Eigenmaterial',
+                'caption_wanted' => true,
+                'caption' => $season,
+            ]);
 
             $file->update([
-                'titleAttribute' => 'Unsere Empfehlungen im ' . $season,
+                'coverImage' => $fileName,
                 'edition' => $season,
                 'year' => $year[0],
-                'altAttribute' => 'Coverbild unserer Empfehlungen im ' . $season,
-                'template' => 'pdf',
-                'coverImage' => $fileName . '.jpg',
             ]);
         }
 
         return [
             'status' => $file ? 200 : 404,
-            'label' => 'Erfolgreich!',
-            'reload' => true,
+            'label' => $file ? 'Erfolgreich!' : 'Mistikus totalus!',
+            'reload' => $file ? true : false,
         ];
     },
     'archiveEvents' => function ($page) {

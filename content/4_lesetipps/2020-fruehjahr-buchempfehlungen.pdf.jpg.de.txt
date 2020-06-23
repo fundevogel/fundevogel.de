@@ -1,0 +1,21 @@
+Titleattribute: Unsere Empfehlungen im Frühjahr
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Coverbild unserer Empfehlungen im Frühjahr
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Frühjahr
+
+----
+
+Template: image

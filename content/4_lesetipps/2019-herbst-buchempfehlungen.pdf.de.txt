@@ -1,15 +1,4 @@
-Titleattribute: Unsere Empfehlungen im Herbst
-
-----
-
 Edition: Herbst
-
-----
-
-Coverimage:
-
-- >
-  lesetipps/2019-herbst-buchempfehlungen.pdf.jpg
 
 ----
 
@@ -17,7 +6,10 @@ Year: 2019
 
 ----
 
-Altattribute: Coverbild unserer Empfehlungen im Herbst
+Coverimage:
+
+- >
+  lesetipps/2019-herbst-buchempfehlungen.pdf.jpg
 
 ----
 

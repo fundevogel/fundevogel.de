@@ -1,15 +1,4 @@
-Titleattribute: Unsere Empfehlungen im Frühjahr
-
-----
-
 Edition: Frühjahr
-
-----
-
-Coverimage:
-
-- >
-  lesetipps/2018-fruehjahr-buchempfehlungen.pdf.jpg
 
 ----
 
@@ -17,7 +6,10 @@ Year: 2018
 
 ----
 
-Altattribute: Coverbild unserer Empfehlungen im Frühjahr
+Coverimage:
+
+- >
+  lesetipps/2018-fruehjahr-buchempfehlungen.pdf.jpg
 
 ----
 

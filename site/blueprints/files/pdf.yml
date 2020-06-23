@@ -11,10 +11,6 @@ columns:
       section_fields:
         type: fields
         fields:
-          titleAttribute: fields/files/title
-
-          altAttribute: fields/files/alt
-
           edition:
             label:
               de: Ausgabe

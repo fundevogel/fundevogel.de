@@ -1,0 +1,20 @@
+Template: image
+
+----
+
+Titleattribute: Unsere Empfehlungen im Herbst
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Coverbild unserer Empfehlungen im Herbst
+
+----
+
+Caption-wanted: 1
+
+----
+
+Caption: Herbst
