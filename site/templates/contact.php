@@ -27,7 +27,7 @@
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="pt-12 pb-8 lg:pb-4 bg-orange-light">
-            <div class="container xl:px-0">
+            <div class="container xl:px-8">
                 <div class="text-center">
                     <?= useSVG(t('Kontakt-Überschrift'), 'wave-icon', 'map-filled') ?>
                 </div>
