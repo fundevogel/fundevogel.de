@@ -21,7 +21,7 @@
                                 <span class="px-2">GitHub</span>
                             </a>
                         </div>
-                        <nav class="flex justify-center mb-4" role="navigation">
+                        <nav class="flex flex-wrap justify-center mb-4" role="navigation">
                             <a class="js-tippy outline-none" href="<?= url('unsere-agb') ?>" title="<?= t('footer_agb--title') ?>">
                                 <span><?= t('footer_agb') ?></span>
                             </a>
