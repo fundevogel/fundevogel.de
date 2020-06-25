@@ -15,7 +15,7 @@ server {
     # Client settings
     charset utf-8;
     sendfile off;
-    client_max_body_size 100m;
+    client_max_body_size {{ max_upload }}M;
 
     # Enable URL rewriting
     location / {
