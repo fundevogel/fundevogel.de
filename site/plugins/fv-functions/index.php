@@ -11,6 +11,21 @@ function pcbis()
     return new PHPCBIS($login);
 }
 
+function loadBook (string $isbn): array
+{
+    $object = pcbis();
+    $object->setCachePath(kirby()->root('cache') . '/books');
+
+    $dataRaw = $object->loadBook($isbn);
+
+    # If API call was unsuccessful ..
+    if ($dataRaw == false) {
+        return false;
+    }
+
+    return $object->processData($dataRaw);
+}
+
 function getLangVars ($language = 'de')
 {
     $translations = Yaml::decode(F::read(

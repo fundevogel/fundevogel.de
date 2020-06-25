@@ -47,5 +47,28 @@ Kirby::plugin('fundevogel/methods', [
 
             return $link;
         },
+        'updateBook' => function (array $dataArray) {
+            $updateArray = [];
+
+            foreach ($dataArray as $key => $value) {
+                if ($this->$key()->isNotEmpty()) {
+                    continue;
+                }
+
+                # If two out of three fields are filled, and one of them is `author`,
+                # don't fill `participants` again, as we did it before already
+                if ($key === 'participants') {
+                    if (($this->author()->isNotEmpty() && $this->illustrator()->isNotEmpty()) || ($this->author()->isNotEmpty() && $this->translator()->isNotEmpty())) {
+                        continue;
+                    }
+                }
+
+                $updateArray = A::update($updateArray, [
+                    $key => $value
+                ]);
+            }
+
+            $this->update($updateArray);
+        },
     ],
 ]);

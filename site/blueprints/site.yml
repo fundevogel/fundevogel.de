@@ -60,6 +60,7 @@ tabs:
             create: default
             template:
               - about
+              - assortment
               - grid-list
               - contact
               - default

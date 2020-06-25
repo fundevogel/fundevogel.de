@@ -1,0 +1,114 @@
+title:
+  de: Sortimentskategorie
+  en: Assortment category
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+
+      details:
+        label: Details
+        type: textarea
+
+      favorites:
+        label:
+          de: Unsere Lieblinge
+          en: Our favorites
+        type: structure
+        fields:
+          title:
+            label:
+              de: Überschrift
+              en: Heading
+            type: text
+
+          quote:
+            label: Zitat
+            type: textarea
+
+          person:
+            label: Person
+            type: text
+            width: 2/3
+
+          isSeries:
+            label:
+              de: Serie?
+              en: Series?
+            type: toggle
+            width: 1/3
+            text:
+              -
+                de: Nein
+                en: No
+              -
+                de: Ja
+                en: Yes
+
+          delimiter:
+            label:
+              de: Über das Buch
+              en: About the book
+            type: headline
+            numbered: false
+
+          isbn:
+            label: ISBN
+            type: text
+            width: 1/2
+          book_cover:
+            extends: fields/single-cover
+            layout: list
+            width: 1/2
+
+          book_title:
+            label: Buchtitel
+            type: text
+            width: 1/2
+
+          book_subtitle:
+            label: Untertitel
+            type: text
+            width: 1/2
+
+          text:
+            label: Text
+            type: textarea
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+          createFavorites:
+            type: janitor
+            label:
+              de: Daten erzeugen
+              en: Generate data
+            progress: Bitte warten ..
+            job: createFavorites
+
+      sidebar_files:
+        extends: sections/images
+        # headline:
+        #   de: Unsere Lieblinge
+        #   en: Our favorites
+        # create: assortment.single
+        template:
+        layout: list
+
+
+
+  # Metadata
+  tab_seo: tabs/seo

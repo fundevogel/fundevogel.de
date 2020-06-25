@@ -4,20 +4,7 @@ return [
     'loadBook' => function ($page) {
         # API call
         $isbn = $page->isbn()->value();
-        $object = pcbis();
-        $object->setCachePath(kirby()->root('cache') . '/books');
-
-        $dataRaw = $object->loadBook($isbn);
-
-        # If API call was unsuccessful ..
-        if ($dataRaw == false) {
-            return [
-                'status' => 404,
-                'label' => 'Mistikus totalus!',
-            ];
-        }
-
-        $data = $object->processData($dataRaw);
+        $data = loadBook($isbn);
 
         $dataArray = [
             'book_title' => $data['Titel'],
@@ -33,27 +20,7 @@ return [
             'topics' => $data['Schlagworte'],
         ];
 
-        $updateArray = [];
-
-        foreach ($dataArray as $key => $value) {
-            if ($page->$key()->isNotEmpty()) {
-                continue;
-            }
-
-            # If two out of three fields are filled, and one of them is `author`,
-            # don't fill `participants` again, as we did it before already
-            if ($key === 'participants') {
-                if (($page->author()->isNotEmpty() && $page->illustrator()->isNotEmpty()) || ($page->author()->isNotEmpty() && $page->translator()->isNotEmpty())) {
-                    continue;
-                }
-            }
-
-            $updateArray = A::update($updateArray, [
-                $key => $value
-            ]);
-        }
-
-        $page->update($updateArray);
+        $page->updateBook($dataArray);
 
         return [
             'status' => 200,
@@ -62,19 +29,20 @@ return [
         ];
     },
     'downloadCover' => function ($page) {
-        $isbn = $page->isbn()->value();
-        $object = pcbis();
         $imagePath = kirby()->root('content') . '/' . $page->diruri();
-        $fileName = $page->slug() . '_' . Str::slug($page->author());
+        $fileName = implode('_', [Str::slug($page->book_title()), Str::slug($page->author())]);
 
         if (!file_exists($imagePath . '/' . $fileName . '.jpg')) {
             # API call
+            $object = pcbis();
             $object->setImagePath($imagePath);
-            $object->downloadCover($isbn, $fileName, true);
+            $isbn = $page->isbn()->value();
+            $download = $object->downloadCover($isbn, $fileName, true);
 
             return [
-                'status' => 200,
-                'label' => 'Download erfolgreich!',
+                'status' => $download ? 200 : 404,
+                'label' => $download ? 'Download erfolgreich!' : 'Download fehlgeschlagen',
+                'reload' => $download ? true : false,
             ];
         }
 
@@ -171,6 +139,69 @@ return [
 
         foreach ($oldEvents as $child) {
             Dir::move($child->root(), page('kalender/vergangene-veranstaltungen')->root() . '/' . $child->dirname());
+        }
+
+        return [
+            'status' => 200,
+            'label' => 'Erfolgreich!',
+            'reload' => true,
+        ];
+    },
+    'createFavorites' => function ($page) {
+        $favorites = $page->favorites()->yaml();
+        $object = pcbis();
+        $imagePath = $page->root();
+        $object->setImagePath($imagePath);
+        $object->setCachePath(kirby()->root('cache') . '/books');
+
+        foreach ($favorites as &$favorite) {
+            $isbn = $favorite['isbn'];
+            $data = loadBook($isbn);
+
+            # TODO: Doesn't always work
+            // if ($data === false) continue;
+
+            $fileName = implode('_', [Str::slug($data['Titel']), Str::slug($data['AutorIn'])]);
+            $favorite['book_cover'] = $fileName . '.jpg';
+
+            $dataArray = [
+                'book_title' => 'Titel',
+                'book_subtitle' => 'Untertitel',
+                'text' => 'Inhaltsbeschreibung',
+            ];
+
+            # Only edit these if empty to prevent data loss
+            foreach ($dataArray as $field => $content) {
+                if ($favorite[$field] === '') {
+                    $favorite[$field] = $data[$content];
+                }
+            }
+
+            if (!file_exists(implode('/', [$imagePath, $fileName . '.jpg']))) {
+                $object->downloadCover($isbn, $fileName, true);
+            } else {
+                try {
+                    $page->image($fileName . '.jpg')->update([
+                        'titleAttribute' => '"' . $favorite['book_title'] . '" von ' . $data['AutorIn'],
+                        'source' => 'Deutsche Nationalbibliothek',
+                        'altAttribute' => 'Cover des Buches "' . $favorite['book_title'] . '" von ' . $data['AutorIn'],
+                        'template' => 'image',
+                    ]);
+                } catch (Exception $e) {
+                    // Worth a shot ..
+                }
+            }
+        }
+
+        try {
+            $page->update([
+                'favorites' => yaml::encode($favorites)
+            ]);
+        } catch (Exception $e) {
+            return [
+                'status' => 404,
+                'label' => 'Mistikus totalus!',
+            ];
         }
 
         return [
