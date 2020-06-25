@@ -22,10 +22,24 @@
     name: php{{ php_version }}-fpm
     state: present
 
+- name: Copy PHP settings
+  template:
+    src: php.ini.j2
+    dest: /etc/php/{{ php_version }}/fpm/php.ini
+  notify:
+    - Restart PHP-FPM
+
 - name: Install PHP packages
   apt:
     pkg: '{{ php_packages }}'
     state: present
+
+- name: Copy ImageMagick settings
+  template:
+    src: policy.xml.j2
+    dest: /etc/php/{{ php_version }}/fpm/pool.d/kirby.conf
+  notify:
+    - Restart PHP-FPM
 
 - name: Install composer
   shell: 'curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer'
