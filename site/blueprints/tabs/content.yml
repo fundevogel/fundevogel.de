@@ -19,5 +19,5 @@ sidebar:
       en: Files
     type: files
     templates:
-      - biblio-list
+      - pdf
       - image
