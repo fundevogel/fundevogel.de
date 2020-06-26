@@ -38,10 +38,6 @@ Book-subtitle:
 
 ----
 
-Page-count: 104
-
-----
-
 Author: Franz Orghandl
 
 ----
@@ -55,6 +51,10 @@ Translator:
 ----
 
 Participants: 
+
+----
+
+Page-count: 104
 
 ----
 

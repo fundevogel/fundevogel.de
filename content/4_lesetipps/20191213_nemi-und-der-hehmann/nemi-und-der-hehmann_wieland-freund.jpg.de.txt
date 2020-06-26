@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Nemi und der Hehmann" von Wieland Freund
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

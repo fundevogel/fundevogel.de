@@ -38,10 +38,6 @@ Book-subtitle:
 
 ----
 
-Page-count: 304
-
-----
-
 Author: Katherine Rundell
 
 ----
@@ -55,6 +51,10 @@ Translator: Henning Ahrens
 ----
 
 Participants: 
+
+----
+
+Page-count: 304
 
 ----
 

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Mitten im Dschungel" von Katherine Rundell
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image
