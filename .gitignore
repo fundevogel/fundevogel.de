@@ -22,6 +22,12 @@
 /site/plugins/*
 !/site/plugins/fv-*
 
+# Geno poll
+# ---------------
+/geno-poll/*
+!/geno-poll/main.py
+!/geno-poll/requirements.txt
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
