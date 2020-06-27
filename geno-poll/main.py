@@ -24,10 +24,9 @@ if __name__ == "__main__":
     with open('../site/geno-umfrage.log', 'r') as file:
         raw = file.read()
 
-    # See https://stackoverflow.com/a/17610612
-    # data = '\n'.join([line.rstrip() for line in raw.splitlines() if line.strip()])
-
-    # Set start & end point for each datapoint
+    ## I. CSV REPORT
+    #
+    # Set start & end for each datapoint
     sections = [
         ('Name:', 'Adresse:'),
         ('Adresse:', 'KundeSeit:'),
@@ -50,6 +49,7 @@ if __name__ == "__main__":
 
     data = []
 
+    # Create list of dictionaries holding data
     for content in raw.split('[2020-'):
         node = {}
 
@@ -72,9 +72,8 @@ if __name__ == "__main__":
 
         results.append(item)
 
-    print(len(results))
-
-    dump_csv(results, 'report.csv')
+    # Print CSV file with results
+    dump_csv(results, os.path.join('dist', 'report_ ' + len(results) + '.csv'))
 
 
     ## II. PIE CHARTS
