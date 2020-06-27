@@ -27,11 +27,6 @@ return [
     # Sitemap settings
     'sitemap.ignore' => ['error'],
 
-    # Custom panel settings
-    'panel' => [
-        'css' => 'panel.css',
-    ],
-
     # Typography settings
     # See https://getkirby.com/docs/reference/system/options/smartypants
     'smartypants' => true,
