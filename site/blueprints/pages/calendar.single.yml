@@ -1,0 +1,39 @@
+title:
+  de: Jährliche Höhepunkte
+  en: Annual highlights
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+        text:
+          label: Text
+          type: textarea
+
+        details:
+          label: Details
+          type: textarea
+
+        gallery:
+          label:
+            de: Bildergalerie
+            en: Gallery
+          type: files
+          layout: cards
+          image:
+            ratio: 16/9
+            cover: true
+          info: "{{ file.dimensions }} ({{ file.niceSize }})"
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+  # Metadata
+  tab_seo: tabs/seo

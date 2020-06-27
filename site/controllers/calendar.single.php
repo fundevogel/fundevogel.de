@@ -1,7 +1,7 @@
 <?php
 
 return function ($page) {
-    $images = $page->images();
+    $images = $page->gallery()->toFiles();
 
     $siblings = $page->siblings(false)
                      ->filterBy('intendedTemplate', 'calendar.single');

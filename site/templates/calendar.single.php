@@ -15,6 +15,7 @@
     <section class="container">
         <?= $page->details()->kt() ?>
     </section>
+    <?php if ($page->gallery()->isNotEmpty()) : ?>
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
@@ -44,6 +45,9 @@
         </div>
         <?= useSeparator('orange-light', 'bottom-reversed') ?>
     </aside>
+    <?php else : ?>
+    <hr class="max-w-sm">
+    <?php endif ?>
     <section class="container">
         <div class="flex flex-col md:flex-row">
             <div class="mb-6 md:mb-0 flex-1">
@@ -54,13 +58,14 @@
             </div>
         </div>
     </section>
+    <?php if ($page->info()->isNotEmpty()) : ?>
     <section class="container">
         <div class="mt-12 card is-dashed">
             <h3 class="mb-4 underline"><?= t('Nützliche Infos') ?></h3>
             <?= $page->info()->kt() ?>
         </div>
     </section>
-
+    <?php endif ?>
 </article>
 
 <?php snippet('calendar/single.prevnext') ?>

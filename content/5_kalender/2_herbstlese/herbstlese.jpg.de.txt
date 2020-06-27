@@ -1,0 +1,21 @@
+Titleattribute: Besuchen Sie uns zur traditionellen HerbstLese!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Erleuchteter Eingang zum Fundevogel bei Nacht
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Die HerbstLese hat Tradition - seien Sie dabei!
+
+----
+
+Template: image

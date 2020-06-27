@@ -1,0 +1,76 @@
+Title: HerbstLese
+
+----
+
+Text:
+
+## Ein ganz besonderer Abend
+Traditionell laden wir im Herbst zu unserer "HerbstLese" in die Buchhandlung ein. Dieser Abend ist für uns immer ein besonderes Ereignis. Denn an diesem Abend fühlt es sich an wie ein Wiedersehen mit alten Freunden, wenn wir in gemütlicher Atmosphäre Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vorstellen.
+
+Am Ende eines schönen Abends bleibt ein Gefühl: **Bücher verbinden**!
+
+----
+
+Details:
+
+## Wie muss man sich das vorstellen?
+Ein schönes Beispiel, wie ein solcher Abend ablaufen kann, war die letzte HerbstLese:
+
+Unter dem Motto **Hurra, wir leben noch!** widmeten wir unser Rahmenprogramm den großen und kleinen Herausforderungen des Lebens - dem alljährlichen Wahnsinn des Weihnachtstrubels, der Nachricht von der (link: https://www.stuttgarter-zeitung.de/inhalt.stuttgarter-familienunternehmen-insolvenz-von-knv-schockt-die-buchbranche.138f52a1-b1ac-43d7-9c42-bab4d0aeec29.html text: Insolvenz des Großhändlers KNV target: blank), welche die Buchhandelsbranche 2019 aufrüttelte und, nicht zuletzt, der großen gesellschaftlichen Herausforderung des Klimawandels.
+
+Ein besonderes Highlight war der Auftritt der drei jugendlichen Klimaaktivistinnen, die uns Einblicke gaben in das vielseitige Engagement der Jugendlichen für die Bekämpfung des Klimawandels. Mit einem selbstverfassten Text über die Zerstörung unseres Planeten regten sie uns zum Nachdenken an.
+
+----
+
+Gallery:
+
+- herbstlese-im-fundevogel-05.jpg
+- herbstlese-im-fundevogel-02.jpg
+- herbstlese-im-fundevogel-07.jpg
+- herbstlese-im-fundevogel-03.jpg
+- herbstlese-im-fundevogel-04.jpg
+- herbstlese-im-fundevogel-06.jpg
+- herbstlese-im-fundevogel-01.jpg
+
+----
+
+Cover:
+
+- herbstlese.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Left:
+
+### Nächster Termin
+Aufgrund der besonderen Situation überlegen wir, ob und ggf. wie die Herbstlese dieses Jahr stattfinden kann. Wir werden Sie informieren, sobald es zur diesjährigen Veranstaltung Klarheit gibt.
+
+----
+
+Leftalternativ:
+
+### Nächster Termin
+Wir freuen uns schon darauf, euch alle schon bald wieder im Fundevogel zu sehen! Das **nächste Mal** wollen wir gemeinsam mit allen Literaturbegeisterten **am XY.XY.2020** auf Buchfühlung gehen - natürlich angepasst an die aktuelle Corona-Situation.
+
+----
+
+Right:
+
+### Anmeldung
+Aufgrund der begrenzten Anzahl verfügbarer Plätze bitten wir bei Interesse um vorherige Anmeldung, entweder im Laden oder jederzeit (email: info@fundevogel.de subject: Anmeldung zur HerbstLese 2020 text: per Mail) - wir freuen uns auf euch!
+
+----
+
+Short: Dieser Abend im Herbst hat Traiditon und ist für uns immer ein besonderes Ereignis: In gemütlicher Atmosphäre stellen wir Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vor.
+
+----
+
+Handle: HerbstLese

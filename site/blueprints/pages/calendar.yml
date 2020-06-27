@@ -40,6 +40,15 @@ tabs:
                 label: Text
                 type: textarea
 
+          annual_highlights:
+            extends: sections/articles
+            headline:
+              de: Jährliche Highlights
+              en: Annual highlights
+            template: calendar.single
+            create: false
+            size: small
+
       column_sidebar:
         sections:
           sidebar_fields:
@@ -51,6 +60,7 @@ tabs:
                 extends: fields/single-cover
                 image:
                   ratio: 2/1
+
           sidebar_files: sections/images
 
   # Metadata
