@@ -129,7 +129,7 @@ return [
         ];
     },
     'archiveEvents' => function ($page) {
-        $oldEvents = page('kalender')->children()->listed()->filter(function ($child) {
+        $oldEvents = page('kalender')->children()->listed()->filterBy('intendedTemplate', 'calendar.event')->filter(function ($child) {
             if ($child->multiple_days()->toBool() === true) {
                 return $child->end_date()->toDate() < time();
             }
