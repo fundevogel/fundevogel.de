@@ -73,7 +73,7 @@ if __name__ == "__main__":
         results.append(item)
 
     # Print CSV file with results
-    dump_csv(results, os.path.join('dist', 'report_ ' + len(results) + '.csv'))
+    dump_csv(results, os.path.join('dist', 'report_ ' + str(len(results)) + '.csv'))
 
 
     ## II. PIE CHARTS
