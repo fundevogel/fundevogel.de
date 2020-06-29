@@ -104,7 +104,7 @@
         <?= useSeparator('orange-light', 'bottom-reversed') ?>
     </aside>
     <section class="container">
-        <?= $page->last()->kt() ?>
+        <?= $page->parent()->conclusion()->kt() ?>
     </section>
     <hr class="max-w-sm">
     <section class="container xl:px-8">
