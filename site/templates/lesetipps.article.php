@@ -22,7 +22,7 @@
                                         <div class="lesetipp-overlay-section">
                                         <div class="mb-1 flex items-center">
                                             <?= useSVG('Kategorien', 'lesetipp-overlay-icon', 'folder') ?>
-                                            <h4 class="lesetipp-overlay-title">Einteilung:</h4>
+                                            <h4 class="lesetipp-overlay-title"><?= t('Einteilung') ?>:</h4>
                                         </div>
                                             <div class="lesetipp-overlay-body">
                                                 <?php foreach ($categories as $category): ?>
@@ -36,7 +36,7 @@
                                         <div class="lesetipp-overlay-section">
                                             <div class="mb-1 flex items-center">
                                                 <?= useSVG('Themen', 'lesetipp-overlay-icon', 'tag') ?>
-                                                <h4 class="lesetipp-overlay-title">Themen:</h4>
+                                                <h4 class="lesetipp-overlay-title"><?= t('Themen') ?>:</h4>
                                             </div>
                                             <div class="lesetipp-overlay-body">
                                                 <?php foreach ($topics as $topic) : ?>
@@ -125,11 +125,13 @@
                                     <span class="block text-sm sm:text-lg"><?= t('Ladenpreis') ?></span>
                                 </div>
                             </div>
+                            <?php if ($page->shop()->isNotEmpty()) : ?>
                             <div class="flex-none">
-                                <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?php e($page->shop()->isNotEmpty(), $page->shop(), $site->shop()) ?>" target="_blank">
+                                <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->shop() ?>" target="_blank">
                                     <span class="sketch text-xl sm:text-3xl select-none"><?= t('Zum Shop') ?> !</span>
                                 </a>
                             </div>
+                            <?php endif ?>
                         </div>
                     </div>
                 </div>
@@ -144,6 +146,6 @@
     <?php endif ?>
 </article>
 
-<?php snippet('lesetipps/prevnext') ?>
+<?php if ($page->hasTranslatedSiblings()) snippet('lesetipps/prevnext') ?>#
 
 <?php snippet('footer') ?>

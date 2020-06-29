@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <article class="mb-16">
-    <?php if ($pagination->page() === 1) : ?>
+    <?php if ($pagination->page() === 1 || count($lesetipps) === 0) : ?>
     <header class="container">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
@@ -38,7 +38,11 @@
         <?php else : ?>
         <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
         <?php endif ?>
+        <?php if (count($lesetipps) === 0) : ?>
+        <p class="italic text-center"><?= t('Keine Lesetipps') ?></p>
+        <?php else : ?>
         <?php snippet('lesetipps/articles', ['lesetipps' => $lesetipps]) ?>
+        <?php endif ?>
     </section>
 </article>
 

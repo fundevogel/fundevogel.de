@@ -45,6 +45,8 @@ Deine Suche ergab XY Treffer:
   other: Deine Suche ergab {{ count }} Treffer!
 
 # Lesetipps: details
+Einteilung: Classification
+Themen: Topics
 AutorIn: Author
 IllustratorIn: Illustrator
 ÜbersetzerIn: Translator
@@ -74,6 +76,7 @@ Zurücksetzen: Reset
 Alles zurücksetzen: Alles zurücksetzen
 
 # Lesetipps: misc
+Keine Lesetipps: Currently there are no english reading tips available!
 Weiterlesen: Read more
 Serie: Series
 wie: like

@@ -40,35 +40,36 @@ Kirby::plugin('fundevogel/methods', [
     ],
     'pageMethods' => [
         'isTranslated' => function (string $language): bool {
-            // Nice try!
-            if ($language === kirby()->defaultLanguage()->code()) {
+            // Check if translation file for given language exists
+            return $this->translation($language)->exists();
+        },
+        'hasTranslatedSiblings' => function (): bool {
+            if ($this->hasPrevListed() && $this->prevListed()->isTranslated(kirby()->languageCode())) {
                 return true;
             }
 
-            // Check if translation file for given language exists
-            if (!$this->translation($language)->exists()) {
-                return false;
+            if ($this->hasNextListed() && $this->nextListed()->isTranslated(kirby()->languageCode())) {
+                return true;
             }
 
-            // Check if `text` on current page matches `text` in given language
-            // if ($this->content(kirby()->defaultLanguage()->code())->text() == $this->content($language)->text()) {
-            //     return false;
-            // }
-
-            return true;
+            return false;
         },
-        'hasTranslations' => function () {
-            $count = 0;
+        'prevTranslated' => function () {
+            return $this->prevAll()->listed()->onlyTranslated(kirby()->languageCode())->last();
+        },
+        'nextTranslated' => function () {
+            return $this->nextAll()->listed()->onlyTranslated(kirby()->languageCode())->first();
+        },
+        'hasTranslations' => function (): bool {
+            $languages = kirby()->languages()->not(kirby()->defaultLanguage()->code());
 
-            foreach (kirby()->languages() as $language) {
-                if (!$this->isTranslated($language->code())) {
-                    continue;
+            foreach ($languages as $language) {
+                if ($this->translation($language)->exists()) {
+                    return true;
                 }
-
-                $count++;
             }
 
-            return $count > 1;
+            return false;
         },
         'moreLink' => function($class = '') {
             $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
