@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Book-title: Flätscher - Die Sache stinkt!
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -46,11 +46,11 @@ Illustrator: Jan Birck
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 

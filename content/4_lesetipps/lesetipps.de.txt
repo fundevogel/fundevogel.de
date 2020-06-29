@@ -32,11 +32,3 @@ Fallback: - fallback.png
 ----
 
 Handle: Lesetipps
-
-----
-
-Image-spring: lesetipps-fruehjahr.jpg
-
-----
-
-Image-autumn: lesetipps-herbst.jpg
