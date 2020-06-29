@@ -34,6 +34,7 @@
                             </a>
                         </div>
                     </nav>
+                    <?php if ($page->hasTranslations()) : ?>
                     <nav class="mr-4 flex spread-out z-50">
                         <?php
                             foreach ($kirby->languages() as $language) :
@@ -52,6 +53,7 @@
                             endforeach;
                         ?>
                     </nav>
+                    <?php endif ?>
                 </div>
                 <div class="mt-12 pt-4 bg-yellow-dark">
                     <div class="container">

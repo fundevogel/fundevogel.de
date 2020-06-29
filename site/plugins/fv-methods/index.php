@@ -58,10 +58,9 @@ Kirby::plugin('fundevogel/methods', [
             return true;
         },
         'hasTranslations' => function () {
-            $languages = kirby()->languages()->not(kirby()->defaultLanguage());
             $count = 0;
 
-            foreach ($languages as $language) {
+            foreach (kirby()->languages() as $language) {
                 if (!$this->isTranslated($language->code())) {
                     continue;
                 }
@@ -69,7 +68,7 @@ Kirby::plugin('fundevogel/methods', [
                 $count++;
             }
 
-            return count($languages) === $count;
+            return $count > 1;
         },
         'moreLink' => function($class = '') {
             $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
