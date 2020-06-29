@@ -1,0 +1,21 @@
+Titleattribute: "Immer dieser Michel" von Astrid Lindgren
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Immer dieser Michel" von Astrid Lindgren
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

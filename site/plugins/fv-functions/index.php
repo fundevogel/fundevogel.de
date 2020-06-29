@@ -11,7 +11,7 @@ function pcbis()
     return new PHPCBIS($login);
 }
 
-function loadBook (string $isbn): array
+function loadBook (string $isbn)
 {
     $object = pcbis();
     $object->setCachePath(kirby()->root('cache') . '/books');

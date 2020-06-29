@@ -1,0 +1,21 @@
+Titleattribute: "Das grosse Buch vom kleinen Kapitän" von Paul Biegel
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Das grosse Buch vom kleinen Kapitän" von Paul Biegel
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Das kleine Gespenst" von Otfried Preußler
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Das kleine Gespenst" von Otfried Preußler
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

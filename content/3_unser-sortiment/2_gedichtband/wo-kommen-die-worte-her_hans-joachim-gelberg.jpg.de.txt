@@ -1,0 +1,21 @@
+Titleattribute: "Wo kommen die Worte her" von Hans-Joachim Gelberg
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Wo kommen die Worte her" von Hans-Joachim Gelberg
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

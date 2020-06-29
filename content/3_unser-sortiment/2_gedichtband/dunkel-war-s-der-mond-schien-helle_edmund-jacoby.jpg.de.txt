@@ -1,0 +1,21 @@
+Titleattribute: "Dunkel war's, der Mond schien helle" von Edmund Jacoby
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Dunkel war's, der Mond schien helle" von Edmund Jacoby
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

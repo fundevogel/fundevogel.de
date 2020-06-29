@@ -1,0 +1,21 @@
+Titleattribute: "Ein Riese warf einen Stein" von Josef Guggenmos; Sabine Kranz
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Ein Riese warf einen Stein" von Josef Guggenmos; Sabine Kranz
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

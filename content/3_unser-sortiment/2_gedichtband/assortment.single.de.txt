@@ -1,11 +1,196 @@
 Title: Gedichtband
+
 ----
+
 Text:
+
 ## Poesie berührt die Seele
 Auch im Bereich der Kinderlyrik haben wir neben so wunderbare Klassikern wie … auch einige herausragende Neuerscheinungen
+
 ----
-Cover: gedichtband.jpg
+
+Details: 
+
 ----
+
+Favorites:
+
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-407-75471-4
+  book_cover:
+    - >
+      ein-riese-warf-einen-stein_josef-guggenmos-sabine-kranz.jpg
+  book_title: Ein Riese warf einen Stein
+  book_subtitle: ""
+  author: Josef Guggenmos; Sabine Kranz
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "30"
+  publisher: Beltz
+  age: ab 4 Jahren
+  price: 12,95
+  binding: gebunden
+  text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-446-26055-9
+  book_cover:
+    - >
+      am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo_franz-hohler.jpg
+  book_title: >
+    Am liebsten aß der Hamster Hugo
+    Spaghetti mit Tomatensugo
+  book_subtitle: Tiergedichte
+  author: Franz Hohler
+  illustrator: Kathrin Schärer
+  translator: ""
+  participants: ""
+  page_count: "64"
+  publisher: Hanser
+  age: ab 5 Jahren
+  price: 14,00
+  binding: gebunden
+  text: 'Nach "Es war einmal ein Igel" endlich neue Tiergedichte von Franz Hohler und Kathrin Schärer - zum Lachen, Auswendiglernen und Immer-wieder-Aufsagen'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-8369-4285-0
+  book_cover:
+    - >
+      dunkel-war-s-der-mond-schien-helle_edmund-jacoby.jpg
+  book_title: "Dunkel war's, der Mond schien helle"
+  book_subtitle: Verse, Reime und Gedichte
+  author: Edmund Jacoby
+  illustrator: Rotraut Susanne Berner
+  translator: ""
+  participants: ""
+  page_count: "152"
+  publisher: Gerstenberg Verlag
+  age: ab 4 Jahren
+  price: 24,00
+  binding: Halbleinen
+  text: |
+    Rund 200 Gedichte aus Volks- und Kindermund, von Ringelnatz und Morgenstern, Heinz Erhardt und Robert Gernhardt, Matthias Claudius, Goethe, Christine Nöstlinger u.v.a. fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.
+    Der Bestseller jetzt als limitierte Sonderausgabe zum Jubiläumspreis!
+    - Rund 200 Abzähl- und Schüttelreime, Zungenbrecher, Lügen- und Rätselgedichte, lustige und nachdenkliche Geschichtengedichte
+    - Die vielfach gelobte Textauswahl bietet kleinen und großen Lesern immer wieder neue Entdeckungen
+    - Zum Vorlesen und Selberlesen, zum Lernen, Entdecken, Staunen und Spielen
+    - Ein Gesamtkunstwerk dank der unverwechselbaren Illustrationen von Rotraut Susanne Berner
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-407-79986-9
+  book_cover:
+    - >
+      wo-kommen-die-worte-her_hans-joachim-gelberg.jpg
+  book_title: Wo kommen die Worte her
+  book_subtitle: Neue Gedichte für Kinder und Erwachsene
+  author: Hans-Joachim Gelberg
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "262"
+  publisher: Beltz
+  age: ab 3 Jahren
+  price: 24,95
+  binding: Halbleinen
+  text: 'Hans-Joachim Gelberg, der Lyrik leidenschaftlich verpflichtet, legt seine neue Gedicht-Anthologie vor. Ein fulminantes Werk für Kinder und Erwachsene, das Tür und Tor zu einer Sprachwelt ohnegleichen öffnet.. Sag, wo kommen die Worte her? Diese Frage sandte H.-J. Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.. Ein Buch der seltenen Art, wie wir sie lieben: gut gemacht für Kinder und Erwachsene.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7913-7103-0
+  book_cover:
+    - >
+      mal-deine-wuensche-in-den-himmel_christine-knoedler.jpg
+  book_title: Mal deine Wünsche in den Himmel
+  book_subtitle: Kunst und Gedichte
+  author: Christine Knödler
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "160"
+  publisher: Prestel
+  age: ab 6 Jahren
+  price: 19,99
+  binding: gebunden
+  text: |
+    Lesarten der Kunst und Poesie
+    
+    Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-473-40108-6
+  book_cover:
+    - >
+      warum-ist-rosa-kein-wind_christine-knoedler.jpg
+  book_title: Warum ist Rosa kein Wind?
+  book_subtitle: >
+    Geschichten und Gedichte vom Leben,
+    Lieben und Fliegen
+  author: Christine Knödler
+  illustrator: Stefanie Harjes
+  translator: ""
+  participants: ""
+  page_count: "144"
+  publisher: Ravensburger Verlag
+  age: ab 14 Jahren
+  price: 16,99
+  binding: gebunden
+  text: >
+    Die Gedichte und Prosatexte in dieser
+    Anthologie spiegeln auf poetische Weise,
+    was Mädchen bewegt. Mal berührend, mal
+    beflügelnd, aufwühlend oder tröstlich
+    erzählen sie vom Lieben und vom
+    Loslassen, vom Hoffen und vom Zweifeln,
+    vom sich Verlieren und sich
+    Wiederfinden. Die renommierte
+    Herausgeberin Christine Knödler hat
+    eine ebenso einfühlsame wie schillernde
+    Textauswahl getroffen, die die
+    preisgekrönte Illustratorin Stefanie
+    Harjes in gleichsam poetische,
+    wunderschöne Bilder gebannt hat.
+  delimiter: null
+
+----
+
+Cover:
+
+- gedichtband.jpg
+
+----
+
 Seotitle: Gedichte
+
 ----
+
 Seodescription: Wir lieben Gedichte!

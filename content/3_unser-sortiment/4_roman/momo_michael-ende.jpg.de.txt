@@ -1,0 +1,21 @@
+Titleattribute: "Momo" von Michael Ende
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Momo" von Michael Ende
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,11 +1,211 @@
 Title: Sachbuch
+
 ----
+
 Text:
+
 ## Wissen macht Spaß
 Wir bieten euch eine große Vielfalt ausgewählter Sachbücher zu vielen spannenden Themen quer durch alle Altersgruppen an.
+
 ----
-Cover: sachbuch.jpg
+
+Details: 
+
 ----
+
+Favorites:
+
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-8369-5915-5
+  book_cover:
+    - bienen_piotr-socha.jpg
+  book_title: Bienen
+  book_subtitle: ""
+  author: Piotr Socha
+  illustrator: ""
+  translator: Thomas Weiler
+  participants: 'Wojciech Grajkowski: '
+  page_count: "80"
+  publisher: Gerstenberg Verlag
+  age: ab 5 Jahren
+  price: 24,95
+  binding: gebunden
+  text: >
+    Willkommen im Reich der Bienen! Hier
+    können wir die fleißigen Insekten aus
+    der Nähe betrachten, in einen
+    Bienenstock schauen und alles über das
+    Imkern erfahren. Wer bei Bienen nur an
+    den leckeren Honig denkt, wird staunen!
+    Denn wer hätte gewusst, dass es Bienen
+    schon seit den Dinosauriern gibt? Was es
+    mit dem Bienentanz auf sich hat? Oder
+    warum es ohne die Bienen weniger Äpfel
+    gäbe? Ein wunderbar witziges Buch für
+    große und kleine Bienenfreunde, das mit
+    seinen fröhlich bunten, großformatigen
+    Bildtafeln und vielen erstaunlichen
+    Informationen die Geschichte von Mensch
+    und Honigbiene erzählt. .
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-8369-6029-8
+  book_cover:
+    - >
+      blauwal-seestern-oktopus_virginie-aladjidi.jpg
+  book_title: Blauwal, Seestern, Oktopus
+  book_subtitle: Die Welt der Meere
+  author: Virginie Aladjidi
+  illustrator: Emmanuelle Tchoukriel
+  translator: Cornelia Panzacchi
+  participants: ""
+  page_count: "72"
+  publisher: Gerstenberg Verlag
+  age: ab 5 Jahren
+  price: 15,00
+  binding: gebunden
+  text: 'In diesem detailreich illustrierten Sachbuch nehmen uns Virginie Aladjidi und Emmanuelle Tchoukriel mit auf Entdeckungsreise in die Welt der Ozeane. Uns erwarten die erstaunlichsten Lebewesen über und unter Wasser: Wir lernen den Pottwal, das größte Raubtier der Erde, ebenso kennen wie seine Lieblingsbeute, den Riesenkalmar. Wir erfahren, warum der Einsiedlerkrebs sein Haus wechselt und wieso der Riesenmanta Loopings schwimmt.Die lebendigen, fein gezeichneten Illustrationen mit dem Charme historischer Bildtafeln bilden die ganze Vielfalt von über 100 Tier- und Pflanzenarten der Weltmeere ab - begleitet von prägnanten Texten zu den einzelnen Meeresbewohnern.Ein liebevoll gestaltetes Buch zum Lesen und Entdecken!'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7891-0822-8
+  book_cover:
+    - >
+      hoerst-du-wie-die-baeume-sprechen_peter-wohlleben.jpg
+  book_title: Hörst du, wie die Bäume sprechen?
+  book_subtitle: >
+    Eine kleine Entdeckungsreise durch den
+    Wald
+  author: Peter Wohlleben
+  illustrator: Stefanie Reich; Dagmar Herrmann
+  translator: ""
+  participants: ""
+  page_count: "128"
+  publisher: Oetinger
+  age: ab 6 Jahren
+  price: 18,00
+  binding: gebunden
+  text: >
+    Den Wald erleben, staunen und Spaß
+    haben mit Peter Wohlleben! Haben Bäume
+    eine eigene Sprache? Müssen Baumkinder
+    in die Schule gehen? Warum haben
+    Waldtiere Angst vor Menschen? Peter
+    Wohlleben beantwortet Fragen, die
+    ungewöhnlich, originell und oft sehr
+    lustig sind. Seine leicht
+    verständlichen und fast immer
+    überraschenden Antworten lassen Kinder
+    das Leben im Wald mit ganz anderen Augen
+    sehen. Der begnadete Erzähler schöpft
+    dabei aus seiner jahrzehntelangen
+    Erfahrung als Förster und
+    Naturschützer und stützt sich darüber
+    hinaus auf neueste wissenschaftliche
+    Erkenntnisse.Ein Plädoyer für mehr
+    Achtsamkeit, Naturschutz und
+    Nachhaltigkeit von Bestsellerautor Peter
+    Wohlleben, bekannt aus Funk, TV und
+    Printmedien.www.wohlleben-buecher.deAuch
+    als E-Book erhältlich.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-89565-217-2
+  book_cover:
+    - >
+      treppe-fenster-klo_aleksandra-machowiak-daniel-mizielinski.jpg
+  book_title: Treppe, Fenster, Klo
+  book_subtitle: Die ungewöhnlichsten Häuser der Welt
+  author: Aleksandra Machowiak; Daniel Mizielinski
+  illustrator: ""
+  translator: Dorota Stroinska
+  participants: ""
+  page_count: "155"
+  publisher: Moritz
+  age: ab 7 Jahren
+  price: 19,95
+  binding: gebunden
+  text: "Von Leipzig bis Tokio:35 Beispiele höchst ungewöhnlichen Häuserbauens.Das erste Buch über zeitgenössische Architektur für Kinder. Überall auf der Welt haben Architekten ungewöhnliche Häuser gebaut: Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser ...Dieses Buch stellt 35 von ihnen vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile.Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind. Baumaterialien, Lage und Entstehungsjahr jedes Hauses - die Mehrzahl stammt aus den letzten zehn Jahren - werden beschrieben. So ist ein kurzweiliges Buch gelungen, das Kindern auf spielerisch ungemein anregende Weise Einblicke in die zeitgenössische Architektur gibt."
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-89565-370-4
+  book_cover:
+    - >
+      alle-welt_aleksandra-mizielinska-daniel-mizielinski.jpg
+  book_title: Alle Welt
+  book_subtitle: Das Landkartenbuch
+  author: >
+    Aleksandra Mizielinska; Daniel
+    Mizielinski
+  illustrator: ""
+  translator: Thomas Weiler
+  participants: ""
+  page_count: "152"
+  publisher: Moritz
+  age: ab 6 Jahren
+  price: 34,00
+  binding: gebunden
+  text: 'Nicht nur in den deutschsprachigen Ländern ist Alle Welt. Das Landkartenbuch ein Riesenerfolg. Von Island bis Brasilien, von Estland bis in die USA erschien es in 32 Sprachen - in einer Gesamtauflage von mehr als 3 Millionen Exemplaren. Manche Landkarte wurde darin jedoch vermisst: Den einen fehlte Norwegen, den anderen Portugal, manche suchten die Türkei oder den Iran.Nun haben die beiden polnischen Buchgestalter Aleksandra und Daniel Mizielinscy Abhilfe geschaffen: Aus 42 Ländern wurden 62!So lässt sich nun entdecken, was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Aus über 4.000 Vignetten wurden 6.500! Die Fülle der neuen Informationen ist unermesslich!Das sind die neuen Länder: Argentinien, Äthiopien, Dänemark, Estland, Georgien, Iran, Irland, Kongo, Korea, Kuba, Lettland, Litauen, Norwegen, Portugal, Slowakei, Ukraine, Ungarn, Taiwan, Türkei, Vietnam'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-407-75468-4
+  book_cover:
+    - warum-gibt-es-uns_johan-olsen.jpg
+  book_title: Warum gibt es uns?
+  book_subtitle: >
+    Die Entwicklung des Lebens vom Urknall
+    bis zu dir
+  author: Johan Olsen
+  illustrator: Lara Paulussen
+  translator: ""
+  participants: ""
+  page_count: "138"
+  publisher: Beltz
+  age: ab 8 Jahren
+  price: 16,95
+  binding: gebunden
+  text: 'Die Schwerkraft kann man mit einer Sahnetorte erklären und die Relativitätstheorie mit dem Bauch einer dicken Katze. Klingt irre? Ist es auch! Vor allem, weil es funktioniert. Mit ansteckender Begeisterung führt Johan Olsen vom Urknall über die Entstehung des Lebens bis zum Menschen. Er erklärt Atome, Relativitätstheorie, Moleküle und Proteine - und warum der Mensch vielleicht doch nicht die Krone der Schöpfung ist.Eine vergnügliche Spritztour durch die Naturwissenschaft, modern illustriert.'
+  delimiter: null
+
+----
+
+Cover:
+
+- sachbuch.jpg
+
+----
+
 Seotitle: Sachbücher
+
 ----
+
 Seodescription: Wir lieben Sachbücher!

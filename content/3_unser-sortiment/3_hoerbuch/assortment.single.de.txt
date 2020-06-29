@@ -1,11 +1,200 @@
 Title: Hörbuch
+
 ----
+
 Text:
+
 ## Was auf die Ohren
 Für alle, die Hörbücher lieben und sich gerne auch vorlesen lassen, gibt es bei uns auch eine große Auswahl an Hörbüchern und Hörspielen für jedes Alter und für jede Vorliebe!
+
 ----
-Cover: hoerbuch.jpg
+
+Details: 
+
 ----
+
+Favorites:
+
+- 
+  title: Nehmt euch in Acht ..
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-7456-0164-0
+  book_cover:
+    - >
+      der-raeuber-hotzenplotz_otfried-preussler.jpg
+  book_title: Der Räuber Hotzenplotz
+  book_subtitle: ""
+  author: Otfried Preußler
+  illustrator: ""
+  translator: ""
+  participants: 'Mitarbeit: Frank. Regie Gustavus: Charly Frank. Gesprochen von Hübner Gustavus; Felix von Manteuffel; Tim Kreuer; Julian Greis; Hedi Kriegeskotte; Till Huster'
+  page_count: ""
+  publisher: Silberfisch
+  age: ab 5 Jahren
+  price: 13,00
+  binding: CD
+  text: |
+    Schlipperdibix! Neues Hörspiel mit Charly Hübner, Felix von Manteuffel, Hedi Kriegeskotte u.v.m.. Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel.. "Der Räuber Hotzenplotz": Kasperl und Seppel machen sich auf, den wilden Räuber zu fangen, der Großmutters Kaffeemühle gestohlen hat. Dummerweise landen sie dabei in Hotzenplotz' Falle ...
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7456-0167-1
+  book_cover:
+    - krabat_otfried-preussler.jpg
+  book_title: Krabat
+  book_subtitle: ""
+  author: Otfried Preußler
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Silberfisch
+  age: ab 12 Jahren
+  price: 15,00
+  binding: CD
+  text: 'Otfried Preußlers Meisterwerk - vom Autor selbst gelesen!. Meisterhaft erzählt, unheimlich, spannend, sein bestes Buch: So äußern sich Presse und Publikum über Krabat von Otfried Preußler, der Geschichte vom magisch-düsteren Spiel um die Freiheit des Menschen. Da verwundert es nicht, dass dieses Werk mit vielen bedeutenden Preisen ausgezeichnet wurde und noch heute zu den Büchern gehört, die lange nachklingen, egal wie alt man ist.. Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-86909-108-2
+  book_cover:
+    - >
+      die-kaenguruh-chroniken_marc-uwe-kling.jpg
+  book_title: Die Känguruh-Chroniken
+  book_subtitle: ""
+  author: Marc-Uwe Kling
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Downtown
+  age: ""
+  price: 14,99
+  binding: CD
+  text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Die Känguru-Chroniken berichten von den Abenteuern und Wortgefechten des Duos. Und so bekommen wir endlich Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?. Für Die Känguru-Chroniken erhielt Marc-Uwe Kling den Deutschen Hörbuchpreis 2013.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-89940-559-0
+  book_cover:
+    - >
+      die-abenteuer-des-huckleberry-finn_mark-twain.jpg
+  book_title: Die Abenteuer des Huckleberry Finn
+  book_subtitle: ""
+  author: Mark Twain
+  illustrator: ""
+  translator: Sybil Gräfin Schönfeldt
+  participants: ""
+  page_count: ""
+  publisher: DHV Der HörVerlag
+  age: ab 8 Jahren
+  price: 12,95
+  binding: CD
+  text: |
+    Twain, MarkMark Twain, 1835-1910, arbeitete als Setzerlehrling, Lotse auf dem Mississippi, Goldgräber in Kalifornien und Journalist in San Francisco. Er gehört zu den größten Romanciers der Weltliteratur. Die USA kannte er durch zahlreiche Reisen ebenso gut wie Europa. Sozialkritisches Engagement, gepaart mit der Variationsbreite seines Humors, mal derb-komisch, mal bissig-satirisch, dann wieder ironisch-parodistisch - dies kennzeichnet seinen Stil.. Schönfeldt, Sybil GräfinSybil Gräfin Schönfeldt ist Journalistin und Kolumnistin von Rang. Am bekanntesten sind ihre zahlreichen feuilletonistischen Beiträge in der ZEIT. Auch als Übersetzerin und Autorin preisgekrönter Jugendbücher hat sie sich einen Namen gemacht. Im Mosaik Verlag erschienen ihre Bücher zum Thema Benehmen und Etikette. Sie wurden zu Bestsellern.. Semmelrogge, MartinMartin Semmelrogge, Jahrgang 1955, arbeitete bereits mit 12 Jahren beim Bayerischen Rundfunk als Hörspielsprecher, dem folgten u.a. Filmrollen in "Der Kommissar" und "Die Vorstadtkrokodile". Berühmt wurde er mit seiner Rolle in "Das Boot". In den letzten Jahren war er vor allem als Sonderermittler Jockel Pletsch in der Serie "Die Straßen von Berlin" zu sehen.In Isaak Babels "Die Reiterarmee" ist er in der Rolle des Levka zu hören, außerdem in "Fuckmachine" und "Nicht mit sechzig, Honey", zwei Hörbüchern von Charles Bukowski.. Piper, ThomasTommi Piper wurde als Synchronstimme von 'Alf' berühmt, ist aber unter anderem auch die deutsche Stimme von Nick Nolte und Jeff Bridges. Der ausgebildete Schauspieler trat schon 1952 als so genannter 'Jungschauspieler' beim NWDR-Kinder-Hörfunk vors Mikrofon. Erste Jugend-TV-Rollen und Synchronangebote folgten. Seine Leidenschaft für Ukulele, Banjo und Gesang führten ihn zu Jazz-Formationen. Außerdem spielt das Multitalent in beliebten TV-Serien mit ('Großstadtrevier', 'Tatort', 'Der Kommissar', 'Soko' usw.), steht auf der Bühne und entwickelt eigene Shows, erfindet Buch- und CD-Projekte und hat als Absolvent der Meisterschule für Mode Hamburg auch das Malen für sich entdeckt. Zuletzt sprach er für den Hörverlag "Walk of Fame"(2008) von Ulrich Bassenge. Tommi Piper lebt heute in München.. Habeck, MichaelMichael Habeck hatte nach seiner Ausbildung an der Schauspielschule Ruth von Zerboni in München Engagements an verschiedenen deutschen Bühnen, u. a. an den Münchener Kammerspielen, bei den Ruhrfestspielen Recklinghausen und am Münchner Volkstheater. Dem breiten Publikum bekannt ist er aus zahlreichen TV-Produktionen wie 'Tatort', 'Der Ermittler' und 'Forsthaus Falkenau', aber auch aus internationalen Produktionen wie z. B. 'Der Name der Rose' und 'The Bourne Identity'. Als Synchronsprecher lieh er u. a. Danny De Vito, Oliver Hardy und dem Flintstone Barny Geröllheimer seine Stimme. Er verstarb im Februar 2011.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-8337-1630-0
+  book_cover:
+    - der-kleine-ritter-trenk_kirsten-boie.jpg
+  book_title: Der kleine Ritter Trenk
+  book_subtitle: ""
+  author: Kirsten Boie
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Jumbo Neue Medien
+  age: ab 6 Jahren
+  price: 15,00
+  binding: CD
+  text: >
+    Ich geh in die Stadt!, sagt der kleine
+    Bauernjunge Trenk zu seiner Schwester
+    Mia-Mina und macht sich heimlich mit
+    seinem treuen Ferkelchen auf den Weg.
+    Und weil Trenk so schlau und mutig ist,
+    wird er schon bald zum tapferen
+    Ritterlehrling. Er schließt
+    Freundschaft mit einer lustigen
+    Gauklertruppe und dem kleinen
+    Ritterfräulein Thekla, trifft auf wilde
+    Räuber und gütige Fürsten und macht
+    im düsteren Wald die ungewöhnliche
+    Bekanntschaft mit einem ganz besonderen
+    Drachen. "Der kleine Ritter Trenk" ist
+    eine Geschichte mit vielen historischen
+    Details. Durch die wandlungsfähige
+    Stimme des Schauspielers Karl Menrad
+    werden alle Figuren lebendig. Das
+    gleichnamige Buch ist im Verlag
+    Friedrich Oetinger erschienen.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-86717-351-3
+  book_cover:
+    - >
+      harry-potter-und-der-stein-der-weisen_j-k-rowling.jpg
+  book_title: Harry Potter und der Stein der Weisen
+  book_subtitle: ""
+  author: J. K. Rowling
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: DHV Der HörVerlag
+  age: ab 10 Jahren
+  price: 29,95
+  binding: CD
+  text: >
+    Harry Potter hat sich bisher für einen
+    ganz normalen Jungen gehalten. Er hat
+    sich getäuscht! Er ist ein Hexer, einer
+    in den die Zauberer und Hexen große
+    Hoffnungen setzen. Er muß die Zauberei
+    von der Pike auf lernen, viele Abenteuer
+    bestehen und er gewinnt vor allem gute
+    Freunde. So ganz nebenbei rettet er die
+    Welt der guten Zauberer und Hexen vor
+    dem Untergang, aber das ist fast schon
+    selbstverständlich.
+  delimiter: null
+
+----
+
+Cover:
+
+- hoerbuch.jpg
+
+----
+
 Seotitle: Hörbücher
+
 ----
+
 Seodescription: Wir lieben Hörbücher!

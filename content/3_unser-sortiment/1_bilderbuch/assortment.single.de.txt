@@ -1,18 +1,196 @@
 Title: Bilderbuch
+
 ----
+
 Text:
+
 ## Bilderwelten zum Anfassen
 Für die Allerkleinsten haben wir viele Stoff- und Pappbilderbücher, auch solche mit Fühl- und Klappelementen zum Ertasten und Entdecken, sowie erste kurze Geschichten mit vielen bunten Bildern, welche die Phantasie beflügeln.
 
 Auch für Kindergartenkinder haben wir eine große Auswahl der allerschönsten Bilderbücher: So zauberhaft illustrierte Geschichten wie die vom „schlafenden Tiger“ von Pamela Zagarenski und Mary Logue oder auch die wunderbaren Wimmelbücher von Rotraut Susanne Berner, die auch ohne Buchstaben die tollsten Geschichten erzählen können.
+
 ----
-Cover: bilderbuch.jpg
-----
+
 Details:
+
 ## Vorsicht, Bücherdschungel!
 Lasst euch in wunderbare Bilderbuchwelten entführen: Kommt mit auf eine Reise zwischen die Buchdeckel unserer liebsten Geschichten, deren farbenprächtige Bilder und freundliche Bewohner zum Staunen und Verweilen einladen: hier findet ihr eine (wechselnde) Zusammenstellung unserer Favoriten.
+
 ----
+
+Favorites:
+
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-407-76007-4
+  book_cover:
+    - frederick_leo-lionni.jpg
+  book_title: Frederick
+  book_subtitle: >
+    Auf der Auswahlliste zum Deutschen
+    Jugendliteraturpreis
+  author: Leo Lionni
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "31"
+  publisher: Beltz
+  age: ab 4 Jahren
+  price: 6,50
+  binding: kartoniert
+  text: >
+    "Macht die Augen zu", sagte Frederick
+    und kletterte auf einen großen Stein.
+    "Jetzt schicke ich euch die
+    Sonnenstrahlen. Fühlt ihr schon, wie
+    warm sie sind? Schön warm und golden."
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-7891-6172-8
+  book_cover:
+    - >
+      ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
+  book_title: Ein Feuerwerk für den Fuchs
+  book_subtitle: Aus d. Schwedischen v. Angelika Kutsch
+  author: Sven Nordqvist
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "28"
+  publisher: Oetinger
+  age: ab 4 Jahren
+  price: 14,00
+  binding: gebunden
+  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt: mit einer Hutschachtel voller Feuerwerkskörper, einer Spukseilbahn und einem falschen Huhn, das möglichst echt auszusehen hat. Wenn Henne Henni und ihre Kolleginnen dafür auch ein paar Federn lassen müssen - was macht das schon. Schließlich ist es ja zu ihrem Besten.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-257-00502-8
+  book_cover:
+    - die-drei-raeuber_tomi-ungerer.jpg
+  book_title: Die drei Räuber
+  book_subtitle: ""
+  author: Tomi Ungerer
+  illustrator: ""
+  translator: Tilde Michels
+  participants: ""
+  page_count: "40"
+  publisher: Diogenes
+  age: ab 3 Jahren
+  price: 20,00
+  binding: gebunden
+  text: >
+    Die drei Räuber überfallen Kutschen
+    und berauben die Reisenden. Wirklich
+    sehr bös. Aber als sie eines Tages auf
+    das kleine Waisenmädchen Tiffany
+    treffen, suchen sie gleich nach anderen
+    unglücklichen Kindern, für die sie ein
+    prächtiges Schloss kaufen und
+    schließlich eine ganze Stadt gründen.
+  delimiter: null
+- 
+  title: Willkommen in Wimmlingen!
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-8369-5082-4
+  book_cover:
+    - >
+      sommer-wimmelbuch_rotraut-susanne-berner.jpg
+  book_title: Sommer-Wimmelbuch
+  book_subtitle: ""
+  author: Rotraut Susanne Berner
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "16"
+  publisher: Gerstenberg Verlag
+  age: ab 2 Jahren
+  price: 12,90
+  binding: Pappband
+  text: 'Suchen, entdecken und Geschichten erzählenRotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, nicht nur unter den 2-Jährigen. Der dritte Band ihres Jahresreigens lässt Sommergeschichten entdecken. Die Sonne scheint, vereinzelt sind kleine Wolken am Himmel zu sehen, in der Stadt und drumherum herrscht reges Treiben. Viele Bekannte aus den ersten beiden Wimmelbüchern treffen wir wieder: Der Bauer fährt die Ernte ein, Thomas und Lene haben ihre Wohnung nach brauchbaren Sachen durchstöbert, die sie auf dem Flohmarkt verkaufen wollen, der alte Friedrich nimmt Fahrstunden und verursacht dabei ein ziemliches Durcheinander und Kater Mingus jagt eine kleine Maus bis in den Stadtpark. Aber warum tragen einige der Kinder und Erwachsenen so eigenartige Pakete durch die Gegend? Eins sieht wie eine Kaffeekanne aus, ein anderes wie ein aufblasbares Gummikrokodil und der Mann im grünen Mantel hält doch nicht etwa eine eingepackte Gans unterm Arm? Da bricht plötzlich ein Sommergewitter los ...'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7152-0620-2
+  book_cover:
+    - >
+      pippilothek_lorenz-pauli-kathrin-schaerer.jpg
+  book_title: Pippilothek???
+  book_subtitle: Eine Bibliothek wirkt Wunder
+  author: Lorenz Pauli; Kathrin Schärer
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "32"
+  publisher: Atlantis, Orell Füssli
+  age: ab 5 Jahren
+  price: 14,95
+  binding: gebunden
+  text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern.. "Das ist eine Bibliothek", erklärt die Maus.. "Pippi ... was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Ausgerechnet ein Huhn hilft ihm dabei!. Ob es um Hühnerknochen oder Zaubersprüche geht, in der Bibliothek findet jeder etwas. Und inmitten der Bücher versöhnen sich gar Fuchs und Huhn. Kathrin Schärer nimmt in großartigen Bildern den Witz in Lorenz Paulis Geschichte auf; in der spitzbübischen Maus und in den Begegnungen der drei ungleichen Tiere.. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-89565-235-6
+  book_cover:
+    - pfoten-hoch_catharina-valckx.jpg
+  book_title: Pfoten hoch!
+  book_subtitle: ""
+  author: Catharina Valckx
+  illustrator: ""
+  translator: Julia Süßbrich
+  participants: ""
+  page_count: >
+    7. Aufl. 2020. o. Pag. m. zahlr. bunten
+    Bild. 266 mm
+  publisher: Moritz
+  age: ab 4 Jahren
+  price: 12,95
+  binding: gebunden
+  text: '"Pfoten hoch!" sagt der kleine Billy - und blitzt überall ab. Aber dann kommt der fiese Fuchs .... Billy hat einen berühmten Gangster zum Papa. Der möchte unbedingt, dass auch Billy später mal Gangster wird. Aber Billy ist ihm nicht böse genug. So staffiert er seinen Sohn mit einem (ungeladenen) Revolver aus und schickt ihn in die Welt: "Es kommt darauf an, dass man Angst vor dir bekommt. Üb das erst mal." Voller Bammel macht Billy sich auf den Weg. "Pfoten hoch!", sagt er zum Regenwurm (der keine solchen hat), zur Maus (die ihn nicht ernst nimmt) und zum Hasen (der ihn nicht beachtet). Nur der fiese Fuchs (der den Hasen gejagt hatte) fürchtet sich vor dem Revolver und wird von Billy außer Gefecht gesetzt. Billy ist ein Held! Aber Gangster wird er deswegen noch lange nicht. Was Revolver und Pistolen betrifft, gehen die Wünsche kleiner Jungs und großer Mamas oft auseinander, aber mit dieser Geschichte könnte es gelingen, beide in dieser Frage miteinander zu versöhnen.'
+  delimiter: null
+
+----
+
+Cover:
+
+- bilderbuch.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: Wir lieben Bilderbücher!
+
+----
+
 Examples:
+
 -
   title: Willkommen in Wimmlingen!
   cover: sommer-wimmelbuch.jpg
@@ -37,14 +215,18 @@ Examples:
   author: Lorenz Pauli / Kathrin Schärer
   text: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
   isSeries: 0
+
 ----
+
 Middle:
+
 ## Lorem Heading
 Lorem ipsum dolor sit amet consectetur adipisicing elit. At non necessitatibus quaerat hic repellat reiciendis, rem distinctio eius dolore laboriosam! Fugiat quidem eum sit cum hic labore quaerat reprehenderit at.
+
 ----
+
 Last:
+
 ## Heading Lorem
 Lorem ipsum dolor sit amet consectetur adipisicing elit. At non necessitatibus quaerat hic repellat reiciendis, rem distinctio eius dolore laboriosam! Fugiat quidem eum sit cum hic labore quaerat reprehenderit at.
 Seotitle: Bilderbücher
-----
-Seodescription: Wir lieben Bilderbücher!

@@ -1,0 +1,13 @@
+Titleattribute: "Die Abenteuer des Huckleberry Finn" von Mark Twain
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Abenteuer des Huckleberry Finn" von Mark Twain
+
+----
+
+Template: image

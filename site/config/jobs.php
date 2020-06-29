@@ -147,67 +147,107 @@ return [
             'reload' => true,
         ];
     },
-    'createFavorites' => function ($page) {
+    'assortment.fetchData' => function ($page) {
         $favorites = $page->favorites()->yaml();
         $object = pcbis();
-        $imagePath = $page->root();
-        $object->setImagePath($imagePath);
         $object->setCachePath(kirby()->root('cache') . '/books');
+
+        $count = 0;
 
         foreach ($favorites as &$favorite) {
             $isbn = $favorite['isbn'];
-            $data = loadBook($isbn);
 
-            # TODO: Doesn't always work
-            // if ($data === false) continue;
+            try {
+                $data = loadBook($isbn);
 
-            $fileName = implode('_', [Str::slug($data['Titel']), Str::slug($data['AutorIn'])]);
-            $favorite['book_cover'] = $fileName . '.jpg';
+                $dataArray = [
+                    'book_title' => 'Titel',
+                    'book_subtitle' => 'Untertitel',
+                    'text' => 'Inhaltsbeschreibung',
+                    'author' => 'AutorIn',
+                    'participants' => 'Mitwirkende',
+                    'publisher' => 'Verlag',
+                    'age' => 'Altersempfehlung',
+                    'page_count' => 'Seitenzahl',
+                    'price' => 'Preis',
+                    'binding' => 'Einband',
+                ];
 
-            $dataArray = [
-                'book_title' => 'Titel',
-                'book_subtitle' => 'Untertitel',
-                'text' => 'Inhaltsbeschreibung',
-            ];
+                # Only edit these if empty to prevent data loss
+                foreach ($dataArray as $field => $content) {
+                    # If two out of three fields are filled, and one of them is `author`,
+                    # don't fill `participants` again, as we did it before already
+                    if ($field === 'participants') {
+                        if (($favorite['author'] !== '' && $favorite['illustrator'] !== '') || ($favorite['author'] !== '' && $favorite['translator'] !== '')) {
+                            continue;
+                        }
+                    }
 
-            # Only edit these if empty to prevent data loss
-            foreach ($dataArray as $field => $content) {
-                if ($favorite[$field] === '') {
-                    $favorite[$field] = $data[$content];
+                    if ($favorite[$field] === '') {
+                        $favorite[$field] = $data[$content];
+                    }
                 }
+            } catch (\Exception $e) {
+                continue;
             }
 
-            if (!file_exists(implode('/', [$imagePath, $fileName . '.jpg']))) {
-                $object->downloadCover($isbn, $fileName, true);
-            } else {
-                try {
-                    $page->image($fileName . '.jpg')->update([
-                        'titleAttribute' => '"' . $favorite['book_title'] . '" von ' . $data['AutorIn'],
-                        'source' => 'Deutsche Nationalbibliothek',
-                        'altAttribute' => 'Cover des Buches "' . $favorite['book_title'] . '" von ' . $data['AutorIn'],
-                        'template' => 'image',
-                    ]);
-                } catch (Exception $e) {
-                    // Worth a shot ..
-                }
-            }
+            $count++;
         }
+
+        $success = true;
 
         try {
             $page->update([
                 'favorites' => yaml::encode($favorites)
             ]);
         } catch (Exception $e) {
-            return [
-                'status' => 404,
-                'label' => 'Mistikus totalus!',
-            ];
+            $success = false;
         }
 
         return [
-            'status' => 200,
-            'label' => 'Erfolgreich!',
-            'reload' => true,
+            'status' => $success ? 200 : 404,
+            'label' => $success ? 'Erfolgreich!' : 'Mistikus totalus!',
+            'reload' => $success,
+        ];
+    },
+    'assortment.downloadCover' => function ($page) {
+        $favorites = $page->favorites()->yaml();
+        $object = pcbis();
+        $imagePath = $page->root();
+        $object->setImagePath($imagePath);
+
+        foreach ($favorites as &$favorite) {
+            $isbn = $favorite['isbn'];
+
+            $fileName = implode('_', [Str::slug($favorite['book_title']), Str::slug($favorite['author'])]);
+            $favorite['book_cover'] = $fileName . '.jpg';
+
+            if (!file_exists(implode('/', [$imagePath, $fileName . '.jpg']))) {
+                $object->downloadCover($isbn, $fileName, true);
+            } else {
+                $page->image($fileName . '.jpg')->update([
+                    'titleAttribute' => '"' . $favorite['book_title'] . '" von ' . $favorite['author'],
+                    'source' => 'Deutsche Nationalbibliothek',
+                    'altAttribute' => 'Cover des Buches "' . $favorite['book_title'] . '" von ' . $favorite['author'],
+                    'template' => 'image',
+                ]);
+            }
+        }
+
+        $success = true;
+
+        try {
+            $page->update([
+                'favorites' => yaml::encode($favorites)
+            ]);
+        } catch (Exception $e) {
+            $success = false;
+        }
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label' => $success ? 'Erfolgreich!' : 'Mistikus totalus!',
+            'reload' => $success,
         ];
     }
 ];

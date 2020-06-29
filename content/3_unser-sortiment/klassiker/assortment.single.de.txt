@@ -1,0 +1,27 @@
+Title: Klassiker
+
+----
+
+Text: ## Absolute Klassiker
+
+----
+
+Details: 
+
+----
+
+Favorites: 
+
+----
+
+Cover:
+
+- klassiker.jpg
+
+----
+
+Seotitle: Klassiker
+
+----
+
+Seodescription: Wir lieben Klassiker!

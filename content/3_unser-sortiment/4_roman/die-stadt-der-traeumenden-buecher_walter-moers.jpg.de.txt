@@ -1,0 +1,13 @@
+Titleattribute: "Die Stadt der Träumenden Bücher" von Walter Moers
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Stadt der Träumenden Bücher" von Walter Moers
+
+----
+
+Template: image

@@ -1,11 +1,222 @@
 Title: Roman
+
 ----
+
 Text:
+
 ## Geschichten für das ganze Leben
 Erstleser finden in unseren Regalen so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten „Kommissar Gordon“ sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und schönen Illustrationen.
+
 ----
-Cover: roman.jpg
+
+Details: 
+
 ----
+
+Favorites:
+
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-522-20255-8
+  book_cover:
+    - momo_michael-ende.jpg
+  book_title: Momo
+  book_subtitle: ""
+  author: Michael Ende
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "304"
+  publisher: Thienemann Verlag
+  age: ab 12 Jahren
+  price: 15,00
+  binding: gebunden
+  text: 'Weltbestseller, Klassiker, Kultbuch - für Mädchen und Jungen ab 12 Jahren.. Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann .... Michael Endes Märchen-Roman voller Poesie und Herzenswärme über den Zauber der Zeit.. Weltweiter Bestseller - übersetzt in 46 Sprachen, über 10 Millionen verkaufte Bücher!'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7915-0113-0
+  book_cover:
+    - >
+      die-abenteuer-des-tom-sawyer_mark-twain.jpg
+  book_title: Die Abenteuer des Tom Sawyer
+  book_subtitle: ""
+  author: Mark Twain
+  illustrator: Walter Trier
+  translator: Ulrich Johannsen
+  participants: ""
+  page_count: "304"
+  publisher: Dressler Verlag GmbH
+  age: ab 10 Jahren
+  price: 12,00
+  binding: gebunden
+  text: >
+    Tom Sawyer hat es faustdick hinter den
+    Ohren! Tante Polly hat jedenfalls hat
+    alle Hände voll zu tun, mit ihrem
+    abenteuerlustigen Neffen. Aber man kann
+    schließlich kein Musterschüler sein,
+    wenn man ein gefürchteter Pirat werden
+    will und sich in den Kopf gesetzt hat,
+    einen echten Schatz zu finden. Als Tom
+    und sein bester Freund Huck eines Nacht
+    auf dem Friedhof einen Mord beobachten,
+    geht das Abenteuer am Mississippi erst
+    so richtig los. Können Sie den Mörder
+    entlarven?Einer der Dressler Klassiker
+    aus der Schatzkiste der Kindheit. Zum
+    Sammeln schön.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-328-60123-4
+  book_cover:
+    - >
+      die-stadt-der-traeumenden-buecher_walter-moers.jpg
+  book_title: Die Stadt der Träumenden Bücher
+  book_subtitle: ""
+  author: Walter Moers
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "480"
+  publisher: Penguin Verlag München
+  age: ""
+  price: 28,00
+  binding: gebunden
+  text: >
+    Als der Pate des jungen Dichters
+    Hildegunst von Mythenmetz stirbt,
+    hinterlässt er seinem Schützling nur
+    wenig mehr als ein Manuskript. Dieses
+    aber ist so makellos, dass Mythenmetz
+    sich gezwungen sieht, dem Geheimnis
+    seiner Herkunft nachzugehen. Die Spur
+    führt nach Buchhaim, der Stadt der
+    Träumenden Bücher. Als der Held sie
+    betritt, ist es, als würde er die Tür
+    zu einer gigantischen Buchhandlung
+    aufreißen. Er riecht den Anflug von
+    Säure, der an den Duft von
+    Zitronenbäumen erinnert, das anregende
+    Aroma von altem Leder und das scharfe,
+    intelligente Parfüm von
+    Druckerschwärze. Einmal in den Klauen
+    dieser buchverrückten Stadt, wird
+    Mythenmetz immer tiefer hineingesogen in
+    ihre labyrinthische Welt, in der Lesen
+    noch eine wirkliche Gefahr ist, in der
+    rücksichtslose Bücherjäger nach
+    bibliophilen Schätzen gieren, Buchlinge
+    ihren Schabernack treiben und der
+    mysteriöse Schattenkönig herrscht..
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7915-0457-5
+  book_cover:
+    - herr-der-diebe_cornelia-funke.jpg
+  book_title: Herr der Diebe
+  book_subtitle: ""
+  author: Cornelia Funke
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "391"
+  publisher: Dressler Verlag GmbH
+  age: ab 10 Jahren
+  price: 17,90
+  binding: gebunden
+  text: >
+    Im winterlichen Venedig treibt eine
+    Kinderbande ihr Unwesen. Sie wird von
+    einem maskierten Unbekannten angeführt.
+    Doch keiner kennt seine Herkunft,
+    niemand hat je sein Gesicht gesehen. Er
+    wird von allen nur "Herr der Diebe"
+    genannt. Eines Tages führt ein
+    rätselhafter Auftrag die Kinder auf
+    eine scheinbar unbewohnte Laguneninsel.
+    Welches Geheimnis diese Insel birgt und
+    wer sich hinter der Maske des Anführers
+    versteckt, erfahren Leseratten in dieser
+    abenteuerlichen Geschichte.
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-596-81193-9
+  book_cover:
+    - >
+      die-unglaublichen-abenteuer-des-barnaby-brocket_john-boyne.jpg
+  book_title: >
+    Die unglaublichen Abenteuer des Barnaby
+    Brocket
+  book_subtitle: ""
+  author: John Boyne
+  illustrator: ""
+  translator: Adelheid Zöfel
+  participants: ""
+  page_count: "288"
+  publisher: 'FISCHER Kinder- und Jugendtaschenbuch'
+  age: ab 10 Jahren
+  price: 8,99
+  binding: kartoniert
+  text: "Vom Mut, anders zu sein. Eine wunderbar phantasievolle Parabel von John Boyne, dem Autor von 'Der Junge im gestreiften Pyjama' - nicht nur für Kinder. Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.. + Nominiert für die CILIP Carnegie Medal 2013 (Longlist)+ Nominiert für den Deutschen Jugendliteraturpreis 2014 (Jugendjury)"
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-8369-5676-5
+  book_cover:
+    - >
+      ueber-die-berge-und-ueber-das-meer_dirk-reinhardt.jpg
+  book_title: Über die Berge und über das Meer
+  book_subtitle: ""
+  author: Dirk Reinhardt
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: "272"
+  publisher: Gerstenberg Verlag
+  age: ab 12 Jahren
+  price: 14,95
+  binding: gebunden
+  text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde. In den Bergen treffen sie unverho aufeinander.Ein atmosphärischer Roman von Abschied und Aufbruch, poetisch und packend zugleich.'
+  delimiter: null
+
+----
+
+Cover:
+
+- roman.jpg
+
+----
+
 Seotitle: Romane & Erzählungen
+
 ----
+
 Seodescription: Wir lieben Romane!

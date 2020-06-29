@@ -1,0 +1,13 @@
+Titleattribute: "Die drei Räuber" von Tomi Ungerer
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die drei Räuber" von Tomi Ungerer
+
+----
+
+Template: image

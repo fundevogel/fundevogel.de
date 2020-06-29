@@ -1,9 +1,9 @@
 <?php
 
 return function ($page) {
-    $examples = $page->examples()->toStructure();
+    $favorites = $page->favorites()->toStructure();
 
     return compact(
-        'examples',
+        'favorites',
     );
 };

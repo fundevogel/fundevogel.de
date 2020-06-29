@@ -1,0 +1,21 @@
+Titleattribute: "Herr der Diebe" von Cornelia Funke
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Herr der Diebe" von Cornelia Funke
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
