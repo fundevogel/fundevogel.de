@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Die Vielfalt der Kinder- und Jugendliteratur
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Geht auf Entdeckungsreise in die Welt der Bücher!
 
 ----
 

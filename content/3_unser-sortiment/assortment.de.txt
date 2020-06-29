@@ -1,17 +1,37 @@
 Title: Unser Sortiment
+
 ----
+
 Text:
+
 ## Die Welt der Bücher
 Vom großformatigen Urknall-Sachbuch über spannende Abenteuerromane bis zum wundervoll illustrierten Bilderbuch über die Freundschaft eines alten Mannes und seiner quirligen Katze - bei uns findet ihr die ganze Vielfalt der Kinder- und Jugendliteratur.
 
 Unser Anliegen ist es, für jeden von euch das passende Buch zu finden - ob Staunen, Wissen, auf die Reise gehen, hier seid ihr genau richtig!
-----
-Cover: unser-sortiment.jpg
-----
-Details:
-## Lorem heading
-Die Auswahl ist groß und reicht weit über die Einteilung "Bilderbuch", "Kinderbuch" und "Jugendbuch" hinaus.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit maxime praesentium deleniti, eligendi maiores iusto perspiciatis illo quia corporis similique ratione? Pariatur animi velit nam autem eum? Saepe, esse molestias.
 ----
+
+Details:
+
+## Kommt mit auf Entdeckungsreise!
+Auf den nachfolgenden Seiten informieren wir über Besonderheiten einzelner Buchsorten und stellen unser Sortiment vor: ob Neuerscheinung oder Klassiker, unser handverlesenes Angebot lädt zum Verweilen ein - kommt vorbei und überzeugt euch selbst!
+
+Außerdem haben wir für euch in jeder Kategorie eine Auswahl unserer Lieblinge vorbereitet - treue Begleiter, die uns immer wieder zum Träumen, Lachen und Nachdenken anregen.
+
+----
+
+Cover:
+
+- unser-sortiment.jpg
+
+----
+
+Seotitle: Unser Sortiment
+
+----
+
+Seodescription: Wir bieten ein breites Sortiment aus dem Bereich der Kinder- und Jugendliteratur, mit (Hör)Büchern zum Lachen und Staunen, Träumen und Nachdenken.
+
+----
+
 Handle: Sortiment

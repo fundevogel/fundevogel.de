@@ -12,6 +12,10 @@
         </div>
     </header>
     <hr>
+    <section class="container">
+        <?= $page->details()->kt() ?>
+    </section>
+    <hr class="max-w-sm">
     <section class="container xl:px-8">
         <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
         <?php snippet('assortment/navigation') ?>
