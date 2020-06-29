@@ -34,19 +34,26 @@
                             </a>
                         </div>
                     </nav>
+                    <?php if ($page->hasTranslations()) : ?>
                     <nav class="mr-4 flex spread-out z-50">
                         <?php
-                            foreach($kirby->languages() as $language) :
+                            foreach ($kirby->languages() as $language) :
+
+                            if ($page->isTranslated($language->code())) :
                             $langTitle = implode(' ', [Str::upper($kirby->language()), 'nach', Str::upper($language->code())]);
                         ?>
-                        <a class="js-tippy flex items-center last:ml-2 px-2 text-sm text-white outline-none <?= $language->code() ?><?php e($kirby->language() == $language, ' hidden is-active') ?>" href="<?= $page->url($language->code()) ?>" title="<?= t($langTitle) ?>">
+                        <a class="js-tippy <?php e($kirby->language() == $language, ' hidden is-active ', 'flex items-center ') ?>last:ml-2 px-2 text-sm text-white outline-none <?= $language->code() ?>" href="<?= $page->url($language->code()) ?>" title="<?= t($langTitle) ?>">
                             <?= useSVG($language->name(), 'w-6 h-6 rounded-full', $language->code()) ?>
                             <span class="ml-2 hidden sm:inline">
                                 <?= $language->name() ?>
                             </span>
                         </a>
-                        <?php endforeach ?>
+                        <?php
+                            endif;
+                            endforeach;
+                        ?>
                     </nav>
+                    <?php endif ?>
                 </div>
                 <div class="mt-12 pt-4 bg-yellow-dark">
                     <div class="container">

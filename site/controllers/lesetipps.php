@@ -1,6 +1,6 @@
 <?php
 
-return function ($page) {
+return function ($kirby, $page) {
     // Defining PDF editions
     $files = $page->files()
                   ->flip()
@@ -21,6 +21,7 @@ return function ($page) {
     // Defining recommendations
     $lesetipps = $page->children()
                       ->listed()
+                      ->onlyTranslated($kirby->language()->code())
                       ->flip();
 
     // Check parameters

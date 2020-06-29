@@ -39,6 +39,38 @@ Kirby::plugin('fundevogel/methods', [
         }
     ],
     'pageMethods' => [
+        'isTranslated' => function (string $language): bool {
+            // Check if translation file for given language exists
+            return $this->translation($language)->exists();
+        },
+        'hasTranslatedSiblings' => function (): bool {
+            if ($this->hasPrevListed() && $this->prevListed()->isTranslated(kirby()->languageCode())) {
+                return true;
+            }
+
+            if ($this->hasNextListed() && $this->nextListed()->isTranslated(kirby()->languageCode())) {
+                return true;
+            }
+
+            return false;
+        },
+        'prevTranslated' => function () {
+            return $this->prevAll()->listed()->onlyTranslated(kirby()->languageCode())->last();
+        },
+        'nextTranslated' => function () {
+            return $this->nextAll()->listed()->onlyTranslated(kirby()->languageCode())->first();
+        },
+        'hasTranslations' => function (): bool {
+            $languages = kirby()->languages()->not(kirby()->defaultLanguage()->code());
+
+            foreach ($languages as $language) {
+                if ($this->translation($language)->exists()) {
+                    return true;
+                }
+            }
+
+            return false;
+        },
         'moreLink' => function($class = '') {
             $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
                 'href' => $this->url(),
@@ -71,4 +103,13 @@ Kirby::plugin('fundevogel/methods', [
             $this->update($updateArray);
         },
     ],
+    'pagesMethods' => [
+        'onlyTranslated' => function (string $language) {
+            return $this->filter(function ($page) use ($language) {
+                if ($page->isTranslated($language)) {
+                    return $page;
+                }
+            });
+        }
+    ]
 ]);

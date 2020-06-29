@@ -17,6 +17,12 @@ tabs:
           label: Details
           type: textarea
 
+        conclusion:
+          label:
+            de: Schluss
+            en: Conclusion
+          type: textarea
+
     sidebar:
       sidebar_fields:
         type: fields

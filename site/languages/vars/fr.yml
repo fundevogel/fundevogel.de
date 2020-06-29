@@ -45,16 +45,18 @@ Deine Suche ergab XY Treffer:
   other: '{{ count }}'
 
 # Lesetipps: details
-AutorIn:
-IllustratorIn:
-ÜbersetzerIn:
-Mitwirkende:
-Monaten:
-Jahren:
-Verlag:
-Seiten:
-Ladenpreis:
-Zum Shop:
+Einteilung: Division
+Themen: Sujets
+AutorIn: Auteur
+IllustratorIn: Illustrateur
+ÜbersetzerIn: Traducteur
+Mitwirkende: Assistant
+Monaten: Mois
+Jahren: Années
+Verlag: Maison d'édition
+Seiten: Pages
+Ladenpreis: Prix de vente
+Zum Shop: Acquérir
 
 # Lesetipps: buttons
 Du bist hier:
@@ -74,6 +76,7 @@ Zurücksetzen:
 Alles zurücksetzen:
 
 # Lesetipps: misc
+Keine Lesetipps:
 Weiterlesen: Lire la suite
 Serie:
 wie: comme
