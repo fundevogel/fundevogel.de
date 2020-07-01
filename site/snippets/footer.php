@@ -14,7 +14,7 @@
                         <div class="flex flex-col md:flex-row mb-4">
                             <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="mailto:<?= $site->mail()->html() ?>" title="<?= t('Schreiben Sie uns!') ?>">
                                 <?= useSVG('E-Mail', 'w-6 h-6 fill-current', 'envelope') ?>
-                                <span class="px-2">Kontakt per Mail</span>
+                                <span class="px-2"><?= t('Kontakt per Mail') ?></span>
                             </a>
                             <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="https://github.com/Fundevogel" title="Fundevogel & Open Source">
                                 <?= useSVG('GitHub', 'w-6 h-6 fill-current') ?>

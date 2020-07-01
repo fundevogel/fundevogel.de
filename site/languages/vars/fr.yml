@@ -10,18 +10,18 @@ Menü-unser-netzwerk: Réseau
 Menü-kontakt: Contact
 
 # Nav menu: title attributes
-Menü-Startseite: Page d\'accueil
+Menü-Startseite: Page d'accueil
 Menü-shop: Boutique
 
 
 # Language menu
-FR nach DE: Afficher cette page en français
+FR nach DE: Afficher cette page en allemand
 FR nach EN: Afficher cette page en anglais
 
 
 # News: headings
 Kinder- und Jugendbuchhandlung: Librairie jeunesse
-Neues aus dem Fundevogel: L\'actualité du Fundevogel
+Neues aus dem Fundevogel: L'actualité du Fundevogel
 
 # News: list
 Frühere Neuigkeiten: Articles précédents
@@ -104,7 +104,7 @@ Wann: Quand
 Zeit: À quelle heure
 Uhr:
 Ort: Où
-Ende: Jusqu\'au
+Ende: Jusqu'au
 
 # Calendar: misc
 Keine Veranstaltungen: Nix
@@ -118,6 +118,7 @@ Kontakt-Überschrift: Comment venir?
 
 
 # Footer menu
+Kontakt per Mail: Écrire un mail
 Schreiben Sie uns!: Nous écrire
 Telefon: Tél
 Fax: Fax
