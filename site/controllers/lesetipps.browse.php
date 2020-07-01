@@ -12,17 +12,7 @@ return function ($page) {
 
     // List search results
     if ($query = get('q')) {
-        $fields = [
-            'title', 'text',
-            'verdict', 'conclusion',
-            'book_title', 'book_subtitle',
-            'author', 'illustrator',
-            'translator', 'participants',
-            'publisher', 'isbn',
-            'categories', 'topics',
-        ];
-
-        $results = $lesetipps->flip()->search($query, implode('|', $fields));
+        $results = $lesetipps->flip()->search($query, ['words' => true]);
     }
 
     // When applied, filter search results
