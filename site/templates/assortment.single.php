@@ -11,10 +11,12 @@
             </div>
         </div>
     </header>
+    <?php if ($page->details()->isNotEmpty()) : ?>
     <hr>
     <section class="container">
         <?= $page->details()->kt() ?>
     </section>
+    <?php endif ?>
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
@@ -40,11 +42,11 @@
                 <div class="">
                     <div class="container">
                         <div class="flex flex-col lg:flex-row">
-                            <div class="flex-none pt-6 flex justify-center">
+                            <div class="flex-none flex justify-center">
                                 <div class="flex items-center mb-10 lg:mb-0">
                                     <div class="relative">
                                         <?php if ($favorite->isSeries()->bool()) : ?>
-                                        <span class="absolute px-3 py-1 font-bold font-small-caps text-sm text-white text-shadow tracking-wide bg-orange-medium rounded-lg select-none" style="left: -1.5rem; top: -1.25rem">
+                                        <span class="absolute px-3 py-1 font-bold font-small-caps text-sm text-white text-shadow tracking-wide bg-orange-medium rounded-lg select-none" style="left: -1.5rem; top: 1rem">
                                             <?= t('Serie') ?>
                                         </span>
                                         <?php endif ?>
@@ -89,10 +91,14 @@
             <div class="js-controls mb-px flex justify-center">
                 <?php
                     foreach ($favorites as $favorite) :
+                    $favoriteTitle = $favorite->title()->isNotEmpty()
+                        ? $favorite->title()->html()
+                        : $favorite->book_title()->html()
+                    ;
                 ?>
                 <span
                     class="js-tippy mx-1 inline-block w-4 h-4 bg-red-light hover:bg-red-medium rounded-full cursor-pointer transition-all"
-                    title="<?= $favorite->book_title()->html() ?>"
+                    title="<?= $favoriteTitle ?>"
                     data-tippy-placement="bottom"
                     data-tippy-theme="fundevogel red"
                 ></span>
@@ -106,7 +112,7 @@
     <section class="container">
         <?= $page->parent()->conclusion()->kt() ?>
     </section>
-    <hr class="max-w-sm">
+    <hr>
     <section class="container xl:px-8">
         <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
         <?php snippet('assortment/navigation') ?>

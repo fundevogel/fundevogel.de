@@ -36,6 +36,9 @@ tabs:
               de: Überschrift
               en: Heading
             type: text
+            help:
+              de: Bleibt dieses Feld frei, wird der Buchtitel als Überschrift verwendet.
+              en: If this field remains free, the book title will be used as heading.
 
           quote:
             label: Zitat
@@ -205,11 +208,6 @@ tabs:
 
       sidebar_files:
         extends: sections/images
-        # headline:
-        #   de: Unsere Lieblinge
-        #   en: Our favorites
-        # create: assortment.single
-        template:
         layout: list
 
 
