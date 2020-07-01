@@ -4,8 +4,10 @@ Title: Roman
 
 Text:
 
-## Geschichten für das ganze Leben
-Erstleser finden in unseren Regalen so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten „Kommissar Gordon“ sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und schönen Illustrationen.
+## Geschichten über das Leben
+Erstleser finden in unseren Regalen so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten "Kommissar Gordon" sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustrationen machen sie Lust auf Lesen.
+
+Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen aller Genres: ob Krimi, Abenteuer, Fantasy und vieles mehr.
 
 ----
 
@@ -35,7 +37,7 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: gebunden
-  text: 'Weltbestseller, Klassiker, Kultbuch - für Mädchen und Jungen ab 12 Jahren.. Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann .... Michael Endes Märchen-Roman voller Poesie und Herzenswärme über den Zauber der Zeit.. Weltweiter Bestseller - übersetzt in 46 Sprachen, über 10 Millionen verkaufte Bücher!'
+  text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
   delimiter: null
 - 
   title: ""
@@ -70,10 +72,7 @@ Favorites:
     und sein bester Freund Huck eines Nacht
     auf dem Friedhof einen Mord beobachten,
     geht das Abenteuer am Mississippi erst
-    so richtig los. Können Sie den Mörder
-    entlarven?Einer der Dressler Klassiker
-    aus der Schatzkiste der Kindheit. Zum
-    Sammeln schön.
+    so richtig los ..
   delimiter: null
 - 
   title: ""
@@ -105,23 +104,16 @@ Favorites:
     sich gezwungen sieht, dem Geheimnis
     seiner Herkunft nachzugehen. Die Spur
     führt nach Buchhaim, der Stadt der
-    Träumenden Bücher. Als der Held sie
-    betritt, ist es, als würde er die Tür
-    zu einer gigantischen Buchhandlung
-    aufreißen. Er riecht den Anflug von
-    Säure, der an den Duft von
-    Zitronenbäumen erinnert, das anregende
-    Aroma von altem Leder und das scharfe,
-    intelligente Parfüm von
-    Druckerschwärze. Einmal in den Klauen
-    dieser buchverrückten Stadt, wird
-    Mythenmetz immer tiefer hineingesogen in
-    ihre labyrinthische Welt, in der Lesen
-    noch eine wirkliche Gefahr ist, in der
-    rücksichtslose Bücherjäger nach
-    bibliophilen Schätzen gieren, Buchlinge
-    ihren Schabernack treiben und der
-    mysteriöse Schattenkönig herrscht..
+    Träumenden Bücher. Einmal in den
+    Klauen dieser buchverrückten Stadt,
+    wird Mythenmetz immer tiefer
+    hineingesogen in ihre labyrinthische
+    Welt, in der Lesen noch eine wirkliche
+    Gefahr ist, in der rücksichtslose
+    Bücherjäger nach bibliophilen
+    Schätzen gieren, Buchlinge ihren
+    Schabernack treiben und der mysteriöse
+    Schattenkönig herrscht ..
   delimiter: null
 - 
   title: ""
@@ -153,10 +145,9 @@ Favorites:
     genannt. Eines Tages führt ein
     rätselhafter Auftrag die Kinder auf
     eine scheinbar unbewohnte Laguneninsel.
-    Welches Geheimnis diese Insel birgt und
-    wer sich hinter der Maske des Anführers
-    versteckt, erfahren Leseratten in dieser
-    abenteuerlichen Geschichte.
+    Welches Geheimnis birgt diese Insel? Und
+    wer versteckt sich hinter der Maske des
+    Anführers?
   delimiter: null
 - 
   title: ""
@@ -181,7 +172,7 @@ Favorites:
   age: ab 10 Jahren
   price: 8,99
   binding: kartoniert
-  text: "Vom Mut, anders zu sein. Eine wunderbar phantasievolle Parabel von John Boyne, dem Autor von 'Der Junge im gestreiften Pyjama' - nicht nur für Kinder. Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.. + Nominiert für die CILIP Carnegie Medal 2013 (Longlist)+ Nominiert für den Deutschen Jugendliteraturpreis 2014 (Jugendjury)"
+  text: 'Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.'
   delimiter: null
 - 
   title: ""
@@ -204,7 +195,7 @@ Favorites:
   age: ab 12 Jahren
   price: 14,95
   binding: gebunden
-  text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde. In den Bergen treffen sie unverho aufeinander.Ein atmosphärischer Roman von Abschied und Aufbruch, poetisch und packend zugleich.'
+  text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde ..'
   delimiter: null
 
 ----

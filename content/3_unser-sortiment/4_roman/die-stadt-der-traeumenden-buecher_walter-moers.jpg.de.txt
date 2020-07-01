@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Stadt der Träumenden Bücher" von Walter Mo
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

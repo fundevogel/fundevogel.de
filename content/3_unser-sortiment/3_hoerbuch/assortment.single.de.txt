@@ -4,19 +4,25 @@ Title: Hörbuch
 
 Text:
 
-## Was auf die Ohren
-Für alle, die Hörbücher lieben und sich gerne auch vorlesen lassen, gibt es bei uns auch eine große Auswahl an Hörbüchern und Hörspielen für jedes Alter und für jede Vorliebe!
+## Ein Hauch von Zauber
+> Es gab nur noch Mos Stimme und die Bilder, die sich aus den Buchstaben formten wie ein Teppich auf dem Webstuhl [...] Was hätte er ihr alles ins Zimmer zaubern können mit seiner Stimme, die jedem Wort einen anderen Geschmack gab und jedem Satz eine Melodie! [...]
+>
+> Alle schwiegen. Kein Laut war zu hören außer Mos Stimme, die Buchstaben und Wörter zum Leben erweckte.
+> <cite>— "Tintenherz" von Cornelia Funke</cite>
 
 ----
 
-Details: 
+Details:
+
+## Eine Reise für die Sinne
+So wie Mo, auch "Zauberzunge" genannt, in dem phantastischen Roman "Tintenherz" mit seiner Stimme die Geschichten zum Leben erweckt, so vermögen auch Hörbücher durch betontes Lesen einer oder mehrerer Vorleser und durch die Untermalung mit Musik und Geräuschen ihre Zuhörer auf eine spannende, akkustische Reise in die Geschichte mitzunehmen. Von Alltagsgeschichten, Krimis, Märchen und Fantasyromanen bis hin zu Bilderbuchadaptionen und vertonten Sachbüchern gibt es Hörbücher für jedes Alter und für jede Vorliebe. Darunter finden sich so großartige Hörbuchproduktionen wie "Kommissar Gordon – Der erste Fall" des *headroom Hörbuchverlags* und "Drachenreiter – Die Feder eines Greifs" des *Atmende Bücher Hörbuchverlags*, die wir wärmstens empfehlen können.
 
 ----
 
 Favorites:
 
 - 
-  title: Nehmt euch in Acht ..
+  title: ""
   quote: ""
   person: ""
   isseries: 'true'
@@ -36,8 +42,7 @@ Favorites:
   age: ab 5 Jahren
   price: 13,00
   binding: CD
-  text: |
-    Schlipperdibix! Neues Hörspiel mit Charly Hübner, Felix von Manteuffel, Hedi Kriegeskotte u.v.m.. Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel.. "Der Räuber Hotzenplotz": Kasperl und Seppel machen sich auf, den wilden Räuber zu fangen, der Großmutters Kaffeemühle gestohlen hat. Dummerweise landen sie dabei in Hotzenplotz' Falle ...
+  text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
   delimiter: null
 - 
   title: ""
@@ -59,7 +64,10 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: CD
-  text: 'Otfried Preußlers Meisterwerk - vom Autor selbst gelesen!. Meisterhaft erzählt, unheimlich, spannend, sein bestes Buch: So äußern sich Presse und Publikum über Krabat von Otfried Preußler, der Geschichte vom magisch-düsteren Spiel um die Freiheit des Menschen. Da verwundert es nicht, dass dieses Werk mit vielen bedeutenden Preisen ausgezeichnet wurde und noch heute zu den Büchern gehört, die lange nachklingen, egal wie alt man ist.. Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten.'
+  text: |
+    Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
+    
+    Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   delimiter: null
 - 
   title: ""
@@ -82,7 +90,7 @@ Favorites:
   age: ""
   price: 14,99
   binding: CD
-  text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Die Känguru-Chroniken berichten von den Abenteuern und Wortgefechten des Duos. Und so bekommen wir endlich Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?. Für Die Känguru-Chroniken erhielt Marc-Uwe Kling den Deutschen Hörbuchpreis 2013.'
+  text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?'
   delimiter: null
 - 
   title: ""
@@ -105,8 +113,16 @@ Favorites:
   age: ab 8 Jahren
   price: 12,95
   binding: CD
-  text: |
-    Twain, MarkMark Twain, 1835-1910, arbeitete als Setzerlehrling, Lotse auf dem Mississippi, Goldgräber in Kalifornien und Journalist in San Francisco. Er gehört zu den größten Romanciers der Weltliteratur. Die USA kannte er durch zahlreiche Reisen ebenso gut wie Europa. Sozialkritisches Engagement, gepaart mit der Variationsbreite seines Humors, mal derb-komisch, mal bissig-satirisch, dann wieder ironisch-parodistisch - dies kennzeichnet seinen Stil.. Schönfeldt, Sybil GräfinSybil Gräfin Schönfeldt ist Journalistin und Kolumnistin von Rang. Am bekanntesten sind ihre zahlreichen feuilletonistischen Beiträge in der ZEIT. Auch als Übersetzerin und Autorin preisgekrönter Jugendbücher hat sie sich einen Namen gemacht. Im Mosaik Verlag erschienen ihre Bücher zum Thema Benehmen und Etikette. Sie wurden zu Bestsellern.. Semmelrogge, MartinMartin Semmelrogge, Jahrgang 1955, arbeitete bereits mit 12 Jahren beim Bayerischen Rundfunk als Hörspielsprecher, dem folgten u.a. Filmrollen in "Der Kommissar" und "Die Vorstadtkrokodile". Berühmt wurde er mit seiner Rolle in "Das Boot". In den letzten Jahren war er vor allem als Sonderermittler Jockel Pletsch in der Serie "Die Straßen von Berlin" zu sehen.In Isaak Babels "Die Reiterarmee" ist er in der Rolle des Levka zu hören, außerdem in "Fuckmachine" und "Nicht mit sechzig, Honey", zwei Hörbüchern von Charles Bukowski.. Piper, ThomasTommi Piper wurde als Synchronstimme von 'Alf' berühmt, ist aber unter anderem auch die deutsche Stimme von Nick Nolte und Jeff Bridges. Der ausgebildete Schauspieler trat schon 1952 als so genannter 'Jungschauspieler' beim NWDR-Kinder-Hörfunk vors Mikrofon. Erste Jugend-TV-Rollen und Synchronangebote folgten. Seine Leidenschaft für Ukulele, Banjo und Gesang führten ihn zu Jazz-Formationen. Außerdem spielt das Multitalent in beliebten TV-Serien mit ('Großstadtrevier', 'Tatort', 'Der Kommissar', 'Soko' usw.), steht auf der Bühne und entwickelt eigene Shows, erfindet Buch- und CD-Projekte und hat als Absolvent der Meisterschule für Mode Hamburg auch das Malen für sich entdeckt. Zuletzt sprach er für den Hörverlag "Walk of Fame"(2008) von Ulrich Bassenge. Tommi Piper lebt heute in München.. Habeck, MichaelMichael Habeck hatte nach seiner Ausbildung an der Schauspielschule Ruth von Zerboni in München Engagements an verschiedenen deutschen Bühnen, u. a. an den Münchener Kammerspielen, bei den Ruhrfestspielen Recklinghausen und am Münchner Volkstheater. Dem breiten Publikum bekannt ist er aus zahlreichen TV-Produktionen wie 'Tatort', 'Der Ermittler' und 'Forsthaus Falkenau', aber auch aus internationalen Produktionen wie z. B. 'Der Name der Rose' und 'The Bourne Identity'. Als Synchronsprecher lieh er u. a. Danny De Vito, Oliver Hardy und dem Flintstone Barny Geröllheimer seine Stimme. Er verstarb im Februar 2011.
+  text: >
+    Das Leben ist leicht, solange man auf
+    einer Flussinsel liegt, Fische grillt,
+    Pfeife raucht und sich Geschichten
+    erzählt. Aber das angenehme Leben von
+    Huckleberry Finn und dem geflohenen
+    Sklaven Jim hat ein Ende, als sie zwei
+    Hochstaplern begegnen. Können sie dem
+    "Herzog" und dem "König" das
+    betrügerische Handwerk legen?
   delimiter: null
 - 
   title: ""
@@ -129,7 +145,7 @@ Favorites:
   price: 15,00
   binding: CD
   text: >
-    Ich geh in die Stadt!, sagt der kleine
+    "Ich geh in die Stadt!", sagt der kleine
     Bauernjunge Trenk zu seiner Schwester
     Mia-Mina und macht sich heimlich mit
     seinem treuen Ferkelchen auf den Weg.
@@ -142,18 +158,12 @@ Favorites:
     Räuber und gütige Fürsten und macht
     im düsteren Wald die ungewöhnliche
     Bekanntschaft mit einem ganz besonderen
-    Drachen. "Der kleine Ritter Trenk" ist
-    eine Geschichte mit vielen historischen
-    Details. Durch die wandlungsfähige
-    Stimme des Schauspielers Karl Menrad
-    werden alle Figuren lebendig. Das
-    gleichnamige Buch ist im Verlag
-    Friedrich Oetinger erschienen.
+    Drachen.
   delimiter: null
 - 
-  title: ""
-  quote: ""
-  person: ""
+  title: Harry Potter
+  quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben und dabei nah am Text - besser als die Kinofilme!'
+  person: Martin F.
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-86717-351-3
@@ -174,14 +184,14 @@ Favorites:
   text: >
     Harry Potter hat sich bisher für einen
     ganz normalen Jungen gehalten. Er hat
-    sich getäuscht! Er ist ein Hexer, einer
-    in den die Zauberer und Hexen große
-    Hoffnungen setzen. Er muß die Zauberei
-    von der Pike auf lernen, viele Abenteuer
-    bestehen und er gewinnt vor allem gute
-    Freunde. So ganz nebenbei rettet er die
-    Welt der guten Zauberer und Hexen vor
-    dem Untergang, aber das ist fast schon
+    sich getäuscht! Er ist ein Zauberer, in
+    den die magische Welt große Hoffnungen
+    setzt. Er muss die Zauberei von der Pike
+    auf lernen, viele Abenteuer bestehen und
+    er gewinnt vor allem gute Freunde. So
+    ganz nebenbei rettet er die Welt der
+    guten Zauberer und Hexen vor dem
+    Untergang, aber das ist fast schon
     selbstverständlich.
   delimiter: null
 

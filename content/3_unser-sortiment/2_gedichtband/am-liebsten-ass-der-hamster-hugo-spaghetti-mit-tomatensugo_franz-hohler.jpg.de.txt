@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Am liebsten aß der Hamster Hugo Spaghetti mit T
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

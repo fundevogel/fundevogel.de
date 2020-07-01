@@ -4,12 +4,24 @@ Title: Gedichtband
 
 Text:
 
-## Poesie berührt die Seele
-Auch im Bereich der Kinderlyrik haben wir neben so wunderbare Klassikern wie … auch einige herausragende Neuerscheinungen
+## Poesie für die Seele
+> Hänsel und Knödel,
+> die gingen in den Wald.
+> Nach längerem Getrödel
+> rief Hänsel plötzlich: „Halt!“-
+>
+> Ihr alle kennt die Fabel,
+> des Schicksals dunklen Lauf:
+> Der Hänsel nahm die Gabel
+> und aß den Knödel auf.
+> <cite>— Michael Ende</cite>
 
 ----
 
-Details: 
+Details:
+
+## Sprache wachsen sehen
+Kinder lieben Wiederholungen und Reime und haben viel Spaß dabei, selbst mit der Sprache zu spielen: Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und Wortneuschöpfungen zu kreieren. Gute Kindergedichte, die Sprache zum Klingen bringen, die Freude an Lyrik wecken und die Phantasie beflügeln finden sich etwa in dem wundervollen Gedichtbänden "Ich liebe dich wie Apfelmus" von Amelie Fried und Sybille Hein.
 
 ----
 
@@ -27,8 +39,8 @@ Favorites:
       ein-riese-warf-einen-stein_josef-guggenmos-sabine-kranz.jpg
   book_title: Ein Riese warf einen Stein
   book_subtitle: ""
-  author: Josef Guggenmos; Sabine Kranz
-  illustrator: ""
+  author: Josef Guggenmos
+  illustrator: Sabine Kranz
   translator: ""
   participants: ""
   page_count: "30"
@@ -37,6 +49,31 @@ Favorites:
   price: 12,95
   binding: gebunden
   text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
+  delimiter: null
+- 
+  title: ""
+  quote: ""
+  person: ""
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-570-15974-3
+  book_cover:
+    - >
+      ich-liebe-dich-wie-apfelmus_amelie-fried.jpg
+  book_title: Ich liebe dich wie Apfelmus
+  book_subtitle: >
+    Die schönsten Gedichte für Kleine und
+    Große
+  author: Amelie Fried
+  illustrator: Sybille Hein
+  translator: ""
+  participants: ""
+  page_count: "144"
+  publisher: cbj
+  age: ab 6 Jahren
+  price: 19,99
+  binding: Halbleinen
+  text: 'Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - in dieser (short: Auswahl desc: Über 120 Gedichte & Texte!) lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.'
   delimiter: null
 - 
   title: ""
@@ -61,7 +98,7 @@ Favorites:
   age: ab 5 Jahren
   price: 14,00
   binding: gebunden
-  text: 'Nach "Es war einmal ein Igel" endlich neue Tiergedichte von Franz Hohler und Kathrin Schärer - zum Lachen, Auswendiglernen und Immer-wieder-Aufsagen'
+  text: 'Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..'
   delimiter: null
 - 
   title: ""
@@ -84,13 +121,7 @@ Favorites:
   age: ab 4 Jahren
   price: 24,00
   binding: Halbleinen
-  text: |
-    Rund 200 Gedichte aus Volks- und Kindermund, von Ringelnatz und Morgenstern, Heinz Erhardt und Robert Gernhardt, Matthias Claudius, Goethe, Christine Nöstlinger u.v.a. fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.
-    Der Bestseller jetzt als limitierte Sonderausgabe zum Jubiläumspreis!
-    - Rund 200 Abzähl- und Schüttelreime, Zungenbrecher, Lügen- und Rätselgedichte, lustige und nachdenkliche Geschichtengedichte
-    - Die vielfach gelobte Textauswahl bietet kleinen und großen Lesern immer wieder neue Entdeckungen
-    - Zum Vorlesen und Selberlesen, zum Lernen, Entdecken, Staunen und Spielen
-    - Ein Gesamtkunstwerk dank der unverwechselbaren Illustrationen von Rotraut Susanne Berner
+  text: 'Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.'
   delimiter: null
 - 
   title: ""
@@ -113,7 +144,7 @@ Favorites:
   age: ab 3 Jahren
   price: 24,95
   binding: Halbleinen
-  text: 'Hans-Joachim Gelberg, der Lyrik leidenschaftlich verpflichtet, legt seine neue Gedicht-Anthologie vor. Ein fulminantes Werk für Kinder und Erwachsene, das Tür und Tor zu einer Sprachwelt ohnegleichen öffnet.. Sag, wo kommen die Worte her? Diese Frage sandte H.-J. Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.. Ein Buch der seltenen Art, wie wir sie lieben: gut gemacht für Kinder und Erwachsene.'
+  text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
   delimiter: null
 - 
   title: ""
@@ -136,49 +167,7 @@ Favorites:
   age: ab 6 Jahren
   price: 19,99
   binding: gebunden
-  text: |
-    Lesarten der Kunst und Poesie
-    
-    Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.
-  delimiter: null
-- 
-  title: ""
-  quote: ""
-  person: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-473-40108-6
-  book_cover:
-    - >
-      warum-ist-rosa-kein-wind_christine-knoedler.jpg
-  book_title: Warum ist Rosa kein Wind?
-  book_subtitle: >
-    Geschichten und Gedichte vom Leben,
-    Lieben und Fliegen
-  author: Christine Knödler
-  illustrator: Stefanie Harjes
-  translator: ""
-  participants: ""
-  page_count: "144"
-  publisher: Ravensburger Verlag
-  age: ab 14 Jahren
-  price: 16,99
-  binding: gebunden
-  text: >
-    Die Gedichte und Prosatexte in dieser
-    Anthologie spiegeln auf poetische Weise,
-    was Mädchen bewegt. Mal berührend, mal
-    beflügelnd, aufwühlend oder tröstlich
-    erzählen sie vom Lieben und vom
-    Loslassen, vom Hoffen und vom Zweifeln,
-    vom sich Verlieren und sich
-    Wiederfinden. Die renommierte
-    Herausgeberin Christine Knödler hat
-    eine ebenso einfühlsame wie schillernde
-    Textauswahl getroffen, die die
-    preisgekrönte Illustratorin Stefanie
-    Harjes in gleichsam poetische,
-    wunderschöne Bilder gebannt hat.
+  text: 'Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.'
   delimiter: null
 
 ----

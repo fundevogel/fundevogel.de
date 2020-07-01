@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die unglaublichen Abenteuer des Barnaby Brocket"
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

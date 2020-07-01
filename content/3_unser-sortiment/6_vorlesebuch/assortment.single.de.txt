@@ -4,8 +4,10 @@ Title: Vorlesebuch
 
 Text:
 
-## Gemeinsam eintauchen
-Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen!
+## Gemeinsam Bücher erleben
+In gemütlicher Atmosphäre und fernab des oft so trubeligen Alltags kann das Vorlesen für Kinder und Eltern ein wunderbarer Moment der Nähe, Geborgenheit und Erholung sein.
+
+Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.
 
 ----
 
@@ -39,9 +41,7 @@ Favorites:
   price: 12,00
   binding: gebunden
   text: >
-    Der Kinderbuch Klassiker von Otfried
-    Preußler, für Kinder ab 6 Jahren. Jede
-    Nacht pünktlich zur Geisterstunde
+    Jede Nacht pünktlich zur Geisterstunde
     erwacht das kleine Gespenst. Vergnügt
     geistert es durch Burg Eulenstein und
     besucht seinen Freund, den Uhu Schuhu.
@@ -55,7 +55,8 @@ Favorites:
     getroffen wird aus dem weißen
     Nachtgepenst ein schwarzes
     Tagesgespenst, das in der Stadt für
-    jede Menge Unheil und Verwirrung sorgt.
+    jede Menge Unheil und Verwirrung sorgt
+    ..
   delimiter: null
 - 
   title: ""
@@ -78,7 +79,22 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
-  text: "Der kleine Kapitän und seine Freunde Martinka, Tonne undHeini Hasenfuß segeln über die Weltmeere, trotzen den größtenGefahren und bestehen die kühnsten Abenteuer. Dabei begegnensie einer mysteriösen Stadt auf Pfählen, statten den Töchternvon König Blaukrabbe auf dem Meeresboden einen Besuch aboder kapern ein Geisterschiff, das sieben Schatzkisten an Bord hat.Nebenbei retten sie sechs Schiffbrüchige und eine Truppe dressierterZirkustiere, verkuppeln einen König und bestehen viele Mutproben.Paul Biegel, der 'niederländische Michael Ende', spinnt in der Traditionvon Swift und Münchhausen in diesem weltberühmten Kinderbuchsein Seemannsgarn so meisterhaft, dass man einfach mitfiebern muss."
+  text: >
+    Der kleine Kapitän und seine Freunde
+    Martinka, Tonne und Heini Hasenfuß
+    segeln über die Weltmeere, trotzen den
+    größten Gefahren und bestehen die
+    kühnsten Abenteuer. Dabei begegnen sie
+    einer mysteriösen Stadt auf Pfählen,
+    statten den Töchtern von König
+    Blaukrabbe auf dem Meeresboden einen
+    Besuch ab oder kapern ein Geisterschiff,
+    das sieben Schatzkisten an Bord hat.
+    Nebenbei retten sie sechs
+    Schiffbrüchige und eine Truppe
+    dressierter Zirkustiere, verkuppeln
+    einen König und bestehen viele
+    Mutproben.
   delimiter: null
 - 
   title: ""
@@ -100,7 +116,7 @@ Favorites:
   age: ab 3 Jahren
   price: 9,95
   binding: gebunden
-  text: 'Manuel und Didi sind die allerbesten Freunde der Welt: fantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende! 12 Mäusegeschichten mit farbigen Illustrationen von Erwin Moser. Zum Vorlesen und Selberlesen für die ganze Familie.'
+  text: 'Manuel und Didi sind die allerbesten Freunde der Welt: phantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende!'
   delimiter: null
 - 
   title: ""
@@ -124,20 +140,17 @@ Favorites:
   price: 14,00
   binding: gebunden
   text: >
-    Außergewöhnliche
-    Freundschaftsgeschichte zwischen einem
-    Erdhörnchen und einem Wolf. Für Jungen
-    und Mädchen ab 6.. Erdhörnchen Habbi
-    ist mit einem Wolf zusammengeprallt, dem
-    größten Feind der Erdhörnchen! Doch
-    statt sich auf ihn zu stürzen, blinzelt
-    der Wolf ihn nur kraftlos an. Er scheint
-    schwer verletzt zu sein. Wie könnte
-    Habbi ihn da einfach allein lassen?
-    Täglich versorgt er ihn mit Futter und
-    nach und nach freunden die beiden sich
-    an. Bis ihre Freundschaft auf eine harte
-    Probe gestellt wird ...
+    Erdhörnchen Habbi ist mit einem Wolf
+    zusammengeprallt, dem größten Feind
+    der Erdhörnchen! Doch statt sich auf
+    ihn zu stürzen, blinzelt der Wolf ihn
+    nur kraftlos an. Er scheint schwer
+    verletzt zu sein. Wie könnte Habbi ihn
+    da einfach allein lassen? Täglich
+    versorgt er ihn mit Futter und nach und
+    nach freunden die beiden sich an. Bis
+    ihre Freundschaft auf eine harte Probe
+    gestellt wird ..
   delimiter: null
 - 
   title: ""
@@ -159,7 +172,7 @@ Favorites:
   age: ab 8 Jahren
   price: 17,00
   binding: gebunden
-  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Sm land in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Sm land oder ganz Schweden oder vielleicht sogar auf der ganzen Welt! Die Gesamtausgabe enthält die Einzelbände "Michel in der Suppenschüssel", "Michel muss mehr Männchen machen" und "Michel bringt die Welt in Ordnung".'
+  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
   delimiter: null
 - 
   title: ""
@@ -183,25 +196,21 @@ Favorites:
   price: 14,99
   binding: gebunden
   text: >
-    Wie alles begann ... Das erste
-    Kokosnuss-Abenteuer. Kokosnuss ist ein
-    mutiger und vor allem neugieriger
-    kleiner Feuerdrache, der mit seinen
-    Eltern auf einer bisher unentdeckten
-    Insel lebt. Wie alle Kinder müssen auch
-    kleine Drachen in die Schule gehen, wo
-    sie das Fliegen lernen. Können sie dann
-    fliegen, verbringen sie den Winter auf
-    der Sommerinsel in der südlichen
-    Südsee. Doch das mit dem Fliegen ist
-    gar nicht so einfach ... Wie Kokosnuss
-    auch ohne abgeschlossene Flugausbildung
-    zu einem Winterurlaub auf der
-    Sommerinsel kommt, ist nur eines der
+    Kokosnuss ist ein mutiger und vor allem
+    neugieriger kleiner Feuerdrache, der mit
+    seinen Eltern auf einer bisher
+    unentdeckten Insel lebt. Wie alle Kinder
+    müssen auch kleine Drachen in die
+    Schule gehen, wo sie das Fliegen lernen.
+    Können sie dann fliegen, verbringen sie
+    den Winter auf der Sommerinsel in der
+    südlichen Südsee. Doch das mit dem
+    Fliegen ist gar nicht so einfach! Wie
+    Kokosnuss auch ohne abgeschlossene
+    Flugausbildung zu einem Winterurlaub auf
+    der Sommerinsel kommt, ist nur eines der
     aufregenden Abenteuer, die er und seine
-    Freunde erleben.. Dieser Titel erschien
-    früher unter dem Titel "Der kleine
-    Drache Kokosnuss und seine Abenteuer"..
+    Freunde erleben ..
   delimiter: null
 
 ----

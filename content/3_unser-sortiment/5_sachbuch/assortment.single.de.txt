@@ -5,7 +5,9 @@ Title: Sachbuch
 Text:
 
 ## Wissen macht Spaß
-Wir bieten euch eine große Vielfalt ausgewählter Sachbücher zu vielen spannenden Themen quer durch alle Altersgruppen an.
+Kommt mit auf eine faszinierende Entdeckungsreise und erkundet mit der großen Vielfalt an Sachbüchern atemberaubende Tier- und Pflanzenwelten, geheimnisvolle Dschungel und Meere oder erfahrt mehr über die genialsten Erfindungen aller Zeiten!
+
+Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen quer durch alle Altersgruppen an, darunter "Total verrückte Wörter" von Nicola Edwards oder "A wie Antarktis" von David Böhm.
 
 ----
 
@@ -27,9 +29,9 @@ Favorites:
   book_title: Bienen
   book_subtitle: ""
   author: Piotr Socha
-  illustrator: ""
+  illustrator: Wojciech Grajkowski
   translator: Thomas Weiler
-  participants: 'Wojciech Grajkowski: '
+  participants: ""
   page_count: "80"
   publisher: Gerstenberg Verlag
   age: ab 5 Jahren
@@ -51,7 +53,7 @@ Favorites:
     seinen fröhlich bunten, großformatigen
     Bildtafeln und vielen erstaunlichen
     Informationen die Geschichte von Mensch
-    und Honigbiene erzählt. .
+    und Honigbiene erzählt.
   delimiter: null
 - 
   title: ""
@@ -74,12 +76,12 @@ Favorites:
   age: ab 5 Jahren
   price: 15,00
   binding: gebunden
-  text: 'In diesem detailreich illustrierten Sachbuch nehmen uns Virginie Aladjidi und Emmanuelle Tchoukriel mit auf Entdeckungsreise in die Welt der Ozeane. Uns erwarten die erstaunlichsten Lebewesen über und unter Wasser: Wir lernen den Pottwal, das größte Raubtier der Erde, ebenso kennen wie seine Lieblingsbeute, den Riesenkalmar. Wir erfahren, warum der Einsiedlerkrebs sein Haus wechselt und wieso der Riesenmanta Loopings schwimmt.Die lebendigen, fein gezeichneten Illustrationen mit dem Charme historischer Bildtafeln bilden die ganze Vielfalt von über 100 Tier- und Pflanzenarten der Weltmeere ab - begleitet von prägnanten Texten zu den einzelnen Meeresbewohnern.Ein liebevoll gestaltetes Buch zum Lesen und Entdecken!'
+  text: 'Die lebendigen, fein gezeichneten Illustrationen der Sachbuchreihe von Virginie Aladjidi und Emmanuelle Tchoukriel, mit dem Charme historischer Bildtafeln, bilden die ganze Vielfalt unserer Tier- und Pflanzenarten ab - von der Tiefe der Weltmeere bis zu den höchsten Bergen, immer begleitet von prägnanten Texten entstehen so Bücher zum Lesen und Entdecken!'
   delimiter: null
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: 'Aktuell wie nie: Nachhaltigkeit und Umweltschutz, kindgerecht erläutert von einem, der sich auskennt.'
+  person: Martin F.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7891-0822-8
@@ -100,28 +102,20 @@ Favorites:
   price: 18,00
   binding: gebunden
   text: >
-    Den Wald erleben, staunen und Spaß
-    haben mit Peter Wohlleben! Haben Bäume
-    eine eigene Sprache? Müssen Baumkinder
-    in die Schule gehen? Warum haben
-    Waldtiere Angst vor Menschen? Peter
-    Wohlleben beantwortet Fragen, die
-    ungewöhnlich, originell und oft sehr
-    lustig sind. Seine leicht
+    Haben Bäume eine eigene Sprache?
+    Müssen Baumkinder in die Schule gehen?
+    Warum haben Waldtiere Angst vor
+    Menschen? Peter Wohlleben beantwortet
+    Fragen, die ungewöhnlich, originell und
+    oft sehr lustig sind. Seine leicht
     verständlichen und fast immer
     überraschenden Antworten lassen Kinder
     das Leben im Wald mit ganz anderen Augen
     sehen. Der begnadete Erzähler schöpft
-    dabei aus seiner jahrzehntelangen
-    Erfahrung als Förster und
-    Naturschützer und stützt sich darüber
-    hinaus auf neueste wissenschaftliche
-    Erkenntnisse.Ein Plädoyer für mehr
-    Achtsamkeit, Naturschutz und
-    Nachhaltigkeit von Bestsellerautor Peter
-    Wohlleben, bekannt aus Funk, TV und
-    Printmedien.www.wohlleben-buecher.deAuch
-    als E-Book erhältlich.
+    aus seiner jahrzehntelangen Erfahrung
+    als Förster und Naturschützer und
+    stützt sich dabei auf neueste
+    wissenschaftliche Erkenntnisse.
   delimiter: null
 - 
   title: ""
@@ -144,7 +138,7 @@ Favorites:
   age: ab 7 Jahren
   price: 19,95
   binding: gebunden
-  text: "Von Leipzig bis Tokio:35 Beispiele höchst ungewöhnlichen Häuserbauens.Das erste Buch über zeitgenössische Architektur für Kinder. Überall auf der Welt haben Architekten ungewöhnliche Häuser gebaut: Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser ...Dieses Buch stellt 35 von ihnen vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile.Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind. Baumaterialien, Lage und Entstehungsjahr jedes Hauses - die Mehrzahl stammt aus den letzten zehn Jahren - werden beschrieben. So ist ein kurzweiliges Buch gelungen, das Kindern auf spielerisch ungemein anregende Weise Einblicke in die zeitgenössische Architektur gibt."
+  text: "Dieses Buch stellt 35 Beispiele höchst ungewöhnlichen Häuserbauens vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile. Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind - Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser .."
   delimiter: null
 - 
   title: ""
@@ -169,12 +163,16 @@ Favorites:
   age: ab 6 Jahren
   price: 34,00
   binding: gebunden
-  text: 'Nicht nur in den deutschsprachigen Ländern ist Alle Welt. Das Landkartenbuch ein Riesenerfolg. Von Island bis Brasilien, von Estland bis in die USA erschien es in 32 Sprachen - in einer Gesamtauflage von mehr als 3 Millionen Exemplaren. Manche Landkarte wurde darin jedoch vermisst: Den einen fehlte Norwegen, den anderen Portugal, manche suchten die Türkei oder den Iran.Nun haben die beiden polnischen Buchgestalter Aleksandra und Daniel Mizielinscy Abhilfe geschaffen: Aus 42 Ländern wurden 62!So lässt sich nun entdecken, was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Aus über 4.000 Vignetten wurden 6.500! Die Fülle der neuen Informationen ist unermesslich!Das sind die neuen Länder: Argentinien, Äthiopien, Dänemark, Estland, Georgien, Iran, Irland, Kongo, Korea, Kuba, Lettland, Litauen, Norwegen, Portugal, Slowakei, Ukraine, Ungarn, Taiwan, Türkei, Vietnam'
+  text: 'Es gibt viel zu entdecken: was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Was ist das Nationalgericht von Chile? Welche Pflanzen wachsen in Marokko? Was sind die Sehenswürdigkeiten von Finnland? Welchen Sport treiben Japaner? Welcher Tanz stammt aus Österreich, welches Produkt aus der Schweiz?'
   delimiter: null
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Spannend und anschaulich präsentiertes
+    naturwissenschaftliches Fachwissen vom
+    Urknall über die Entstehung des Lebens
+    mit schönen Illustrationen!
+  person: Sandra H.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-75468-4
@@ -193,7 +191,7 @@ Favorites:
   age: ab 8 Jahren
   price: 16,95
   binding: gebunden
-  text: 'Die Schwerkraft kann man mit einer Sahnetorte erklären und die Relativitätstheorie mit dem Bauch einer dicken Katze. Klingt irre? Ist es auch! Vor allem, weil es funktioniert. Mit ansteckender Begeisterung führt Johan Olsen vom Urknall über die Entstehung des Lebens bis zum Menschen. Er erklärt Atome, Relativitätstheorie, Moleküle und Proteine - und warum der Mensch vielleicht doch nicht die Krone der Schöpfung ist.Eine vergnügliche Spritztour durch die Naturwissenschaft, modern illustriert.'
+  text: 'Die Schwerkraft kann man mit einer Sahnetorte erklären und die Relativitätstheorie mit dem Bauch einer dicken Katze. Klingt irre? Ist es auch! Vor allem, weil es funktioniert. Mit ansteckender Begeisterung führt Johan Olsen vom Urknall über die Entstehung des Lebens bis zum Menschen. Er erklärt Atome, Relativitätstheorie, Moleküle und Proteine - und warum der Mensch vielleicht doch nicht die Krone der Schöpfung ist.'
   delimiter: null
 
 ----

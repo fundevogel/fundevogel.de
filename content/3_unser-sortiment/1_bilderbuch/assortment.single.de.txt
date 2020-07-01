@@ -4,17 +4,26 @@ Title: Bilderbuch
 
 Text:
 
-## Bilderwelten zum Anfassen
-Für die Allerkleinsten haben wir viele Stoff- und Pappbilderbücher, auch solche mit Fühl- und Klappelementen zum Ertasten und Entdecken, sowie erste kurze Geschichten mit vielen bunten Bildern, welche die Phantasie beflügeln.
+## Bunte Bilderwunderwelt
+Kommt mit auf eine phantastische Reise zwischen die Buchdeckel unserer liebsten Bilderbuchgeschichten, deren farbenprächtigen Bilder und freundlichen Bewohner zum Staunen, Entdecken, Phantasieren, Erzählen und Verweilen einladen:
 
-Auch für Kindergartenkinder haben wir eine große Auswahl der allerschönsten Bilderbücher: So zauberhaft illustrierte Geschichten wie die vom „schlafenden Tiger“ von Pamela Zagarenski und Mary Logue oder auch die wunderbaren Wimmelbücher von Rotraut Susanne Berner, die auch ohne Buchstaben die tollsten Geschichten erzählen können.
+Im Mittelpunkt der ersten Lesejahre steht das Bilderbuch - denn "lesen" braucht keine Buchstaben! Staunend betrachten Kinder die Welt und erkunden sie voller Freude mit all ihren Sinnen. Für die Allerkleinsten haben wir daher viele anregende Stoff- und Pappbilderbücher, die sie mit viel Vergnügen fühlen, klappen, drehen und erforschen können.
 
 ----
 
 Details:
 
-## Vorsicht, Bücherdschungel!
-Lasst euch in wunderbare Bilderbuchwelten entführen: Kommt mit auf eine Reise zwischen die Buchdeckel unserer liebsten Geschichten, deren farbenprächtige Bilder und freundliche Bewohner zum Staunen und Verweilen einladen: hier findet ihr eine (wechselnde) Zusammenstellung unserer Favoriten.
+## Bilderwelten zum Anfassen
+Auch gibt es bei uns eine tolle Auswahl an kurzen Bilderbuchgeschichten, bei denen schon die Kleinsten viel Spaß haben, beim gemeinsamen Betrachten und Lesen mitzumachen. Hier können sie zum Beispiel viele Tiere und Dinge aus ihrem Alltag (wieder)entdecken und kennenlernen, Tierstimmen und Geräusche nachahmen, den leicht verständlichen Reimen lauschen und vielleicht auch schon mitsprechen und sich in die schönen und bunten Bildwelten hineinträumen. 
+
+Für Kindergartenkinder haben wir eine große Auswahl der allerschönsten Bilderbücher: So zauberhaft illustrierte Geschichten wie die vom "schlafenden Tiger" von Pamela Zagarenski und Mary Logue, spannende Wimmelbücher wie die von Rotraut Susanne Berner, die zum Entdecken und gemeinsamen Erzählen einladen, poetische Bilderbücher wie "Leben" von Cynthia Rylan und Brendan Wenzel, die zum gemeinsamen Träumen und Philosophieren anregen und jede Menge lustiger Geschichten wie "Ein Wolf im Nachthemd" von Mario Ramos oder "Superman im Supermarkt" von Arne Rautenberg und Eva Muggenthaler.
+
+<hr class="max-w-sm">
+
+## Textlose Bilderbücher
+Besonders Bilderbücher ohne Text eignen sich für Kinder aller Altersstufen, um in die atemberaubenden, detailreichen und künstlerisch anspruchsvollen Bildwelten einzutauchen und sich vielseitig – erzählend, phantasierend, schreibend, gestaltend – mit ihnen auseinanderzusetzen.
+
+Zu unseren Lieblingen gehören unter anderem die witzig turbulenten Bilderbücher "Die Torte ist weg!" von Thé Tjong-Khing und "Der Hühnerdieb" von Béatrice Rodriguez, genauso wie die fantastische Bilderbuch-Trilogie "Die Reise", "Die Suche" und "Die Rückkehr" von Aaron Becker und das liebevolle Einschlafbuch "Gute Nacht, Gorilla" von Peggy Rathman.
 
 ----
 
@@ -50,7 +59,7 @@ Favorites:
     warm sie sind? Schön warm und golden."
   delimiter: null
 - 
-  title: ""
+  title: 'Petterson & Findus'
   quote: ""
   person: ""
   isseries: 'true'
@@ -60,7 +69,7 @@ Favorites:
     - >
       ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
   book_title: Ein Feuerwerk für den Fuchs
-  book_subtitle: Aus d. Schwedischen v. Angelika Kutsch
+  book_subtitle: ""
   author: Sven Nordqvist
   illustrator: ""
   translator: ""
@@ -70,7 +79,7 @@ Favorites:
   age: ab 4 Jahren
   price: 14,00
   binding: gebunden
-  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt: mit einer Hutschachtel voller Feuerwerkskörper, einer Spukseilbahn und einem falschen Huhn, das möglichst echt auszusehen hat. Wenn Henne Henni und ihre Kolleginnen dafür auch ein paar Federn lassen müssen - was macht das schon. Schließlich ist es ja zu ihrem Besten.'
+  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
   delimiter: null
 - 
   title: ""
@@ -123,7 +132,7 @@ Favorites:
   age: ab 2 Jahren
   price: 12,90
   binding: Pappband
-  text: 'Suchen, entdecken und Geschichten erzählenRotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, nicht nur unter den 2-Jährigen. Der dritte Band ihres Jahresreigens lässt Sommergeschichten entdecken. Die Sonne scheint, vereinzelt sind kleine Wolken am Himmel zu sehen, in der Stadt und drumherum herrscht reges Treiben. Viele Bekannte aus den ersten beiden Wimmelbüchern treffen wir wieder: Der Bauer fährt die Ernte ein, Thomas und Lene haben ihre Wohnung nach brauchbaren Sachen durchstöbert, die sie auf dem Flohmarkt verkaufen wollen, der alte Friedrich nimmt Fahrstunden und verursacht dabei ein ziemliches Durcheinander und Kater Mingus jagt eine kleine Maus bis in den Stadtpark. Aber warum tragen einige der Kinder und Erwachsenen so eigenartige Pakete durch die Gegend? Eins sieht wie eine Kaffeekanne aus, ein anderes wie ein aufblasbares Gummikrokodil und der Mann im grünen Mantel hält doch nicht etwa eine eingepackte Gans unterm Arm? Da bricht plötzlich ein Sommergewitter los ...'
+  text: 'Rotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, und das nicht nur unter den Kleinen! Ohne Worte erählt sie vom Leben in Wimmlingen, dessen Bewohner den BetrachterInnen schon nach kurzer Zeit vertraut sind - und die man nicht mehr missen möchte.'
   delimiter: null
 - 
   title: ""
@@ -137,8 +146,8 @@ Favorites:
       pippilothek_lorenz-pauli-kathrin-schaerer.jpg
   book_title: Pippilothek???
   book_subtitle: Eine Bibliothek wirkt Wunder
-  author: Lorenz Pauli; Kathrin Schärer
-  illustrator: ""
+  author: Lorenz Pauli
+  illustrator: Kathrin Schärer
   translator: ""
   participants: ""
   page_count: "32"
@@ -146,10 +155,10 @@ Favorites:
   age: ab 5 Jahren
   price: 14,95
   binding: gebunden
-  text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern.. "Das ist eine Bibliothek", erklärt die Maus.. "Pippi ... was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Ausgerechnet ein Huhn hilft ihm dabei!. Ob es um Hühnerknochen oder Zaubersprüche geht, in der Bibliothek findet jeder etwas. Und inmitten der Bücher versöhnen sich gar Fuchs und Huhn. Kathrin Schärer nimmt in großartigen Bildern den Witz in Lorenz Paulis Geschichte auf; in der spitzbübischen Maus und in den Begegnungen der drei ungleichen Tiere.. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
+  text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern. "Das ist eine Bibliothek", erklärt die Maus. "Pippi .. was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
   delimiter: null
 - 
-  title: ""
+  title: Billy, der Hamster
   quote: ""
   person: ""
   isseries: 'true'
@@ -163,14 +172,12 @@ Favorites:
   illustrator: ""
   translator: Julia Süßbrich
   participants: ""
-  page_count: >
-    7. Aufl. 2020. o. Pag. m. zahlr. bunten
-    Bild. 266 mm
+  page_count: "36"
   publisher: Moritz
   age: ab 4 Jahren
   price: 12,95
   binding: gebunden
-  text: '"Pfoten hoch!" sagt der kleine Billy - und blitzt überall ab. Aber dann kommt der fiese Fuchs .... Billy hat einen berühmten Gangster zum Papa. Der möchte unbedingt, dass auch Billy später mal Gangster wird. Aber Billy ist ihm nicht böse genug. So staffiert er seinen Sohn mit einem (ungeladenen) Revolver aus und schickt ihn in die Welt: "Es kommt darauf an, dass man Angst vor dir bekommt. Üb das erst mal." Voller Bammel macht Billy sich auf den Weg. "Pfoten hoch!", sagt er zum Regenwurm (der keine solchen hat), zur Maus (die ihn nicht ernst nimmt) und zum Hasen (der ihn nicht beachtet). Nur der fiese Fuchs (der den Hasen gejagt hatte) fürchtet sich vor dem Revolver und wird von Billy außer Gefecht gesetzt. Billy ist ein Held! Aber Gangster wird er deswegen noch lange nicht. Was Revolver und Pistolen betrifft, gehen die Wünsche kleiner Jungs und großer Mamas oft auseinander, aber mit dieser Geschichte könnte es gelingen, beide in dieser Frage miteinander zu versöhnen.'
+  text: 'Billy hat einen berühmten Gangster zum Papa. Der möchte unbedingt, dass auch Billy später mal Gangster wird. Aber Billy ist ihm nicht böse genug. So staffiert er seinen Sohn mit einem (ungeladenen) Revolver aus und schickt ihn in die Welt: "Es kommt darauf an, dass man Angst vor dir bekommt. Üb das erst mal." Voller Bammel macht Billy sich auf den Weg. "Pfoten hoch!", sagt er zum Regenwurm (der keine solchen hat), zur Maus (die ihn nicht ernst nimmt) und zum Hasen (der ihn nicht beachtet). Nur der fiese Fuchs (der den Hasen gejagt hatte) fürchtet sich vor dem Revolver und wird von Billy außer Gefecht gesetzt. Billy ist ein Held! Aber Gangster wird er deswegen noch lange nicht ..'
   delimiter: null
 
 ----
