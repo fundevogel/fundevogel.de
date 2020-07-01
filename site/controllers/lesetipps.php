@@ -6,12 +6,12 @@ return function ($kirby, $page) {
                   ->flip()
                   ->filterBy('extension', 'pdf')
                   ->group(function($file) {
-        if (Str::contains($file->filename(), 'herbst')) {
-            return 'autumn';
-        }
+                      if (Str::contains($file->filename(), 'herbst')) {
+                          return 'autumn';
+                      }
 
-        return 'spring';
-    });
+                      return 'spring';
+                  });
 
     $editions = [
         $files->spring()->first(),
