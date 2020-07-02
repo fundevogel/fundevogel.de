@@ -1,10 +1,13 @@
 <section class="container">
     <?= $page->details()->kt() ?>
 
-    <div class="flex justify-around -ml-3 -mr-3">
-        <?php foreach ($fields as $field => $array) : ?>
-        <div class="flex-1 mx-3">
-            <select class="js-select">
+    <div class="flex flex-col sm:flex-row">
+        <?php
+            $count = 0;
+            foreach ($fields as $field => $array) :
+        ?>
+        <?php e($count === 0 || $count === 2, '<div class="sm:w-1/2 sm:first:mr-2 sm:last:ml-2 flex flex-col lg:flex-row">') ?>
+            <select class="js-select mt-4 sm:first:mr-4 sm:last:ml-4">
                 <?php
                     $reset = params();
                     unset($reset[$field]);
@@ -23,11 +26,14 @@
                 <option value="<?= url(Url::current(), ['params' => $params]) ?>"<?php e(rawurldecode(param($field)) === $item, ' selected') ?>><?= $item ?></option>
                 <?php endforeach ?>
             </select>
-        </div>
-        <?php endforeach ?>
+        <?php e($count === 1 || $count === 3, '</div>') ?>
+        <?php
+            $count++;
+            endforeach;
+        ?>
     </div>
 
-    <div class="mt-6 flex">
+    <div class="mt-4 flex flex-col md:flex-row">
         <div class="flex-1">
             <form class="w-full pl-4 pr-2 py-2 bg-orange-light border-4 border-dashed border-orange-medium rounded-lg flex justify-between items-center relative">
                 <input
@@ -42,9 +48,9 @@
                 </button>
             </form>
         </div>
-        <div class="ml-6 block flex-none text-right">
-            <a class="inline-block h-full flex items-center px-4 rounded-lg text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->url() ?>" title="<?= t('Alles zurücksetzen') ?>">
-                <span class="sketch text-xl sm:text-3xl select-none"><?= t('Zurücksetzen') ?></span>
+        <div class="mt-4 md:mt-0 md:ml-4 h-16 md:h-auto flex-none">
+            <a class="h-full flex justify-center items-center px-4 rounded-lg text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->url() ?>" title="<?= t('Alles zurücksetzen') ?>">
+                <span class="sketch text-2xl select-none"><?= t('Zurücksetzen') ?></span>
             </a>
         </div>
     </div>
