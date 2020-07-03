@@ -114,7 +114,7 @@
                             <div class="flex">
                                 <div class="mr-6 sm:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= html($age) ?></span>
-                                    <span class="block text-sm sm:text-lg"><?= t($period) ?></span>
+                                    <span class="block text-sm sm:text-lg"><?= $period ?></span>
                                 </div>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->page_count()->htm() ?></span>

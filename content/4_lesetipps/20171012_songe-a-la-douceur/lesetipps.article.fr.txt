@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -26,7 +26,7 @@ Isbn: 978-2-84-865908-4
 
 ----
 
-Shop: 
+Shop:
 
 ----
 
@@ -34,7 +34,7 @@ Book-title: Songe à la douceur
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -42,15 +42,15 @@ Author: Clémentine Beauvais
 
 ----
 
-Illustrator: 
+Illustrator:
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -62,7 +62,7 @@ Publisher: Editions Sarbacane
 
 ----
 
-Age: ab 13 Jahren
+Age: de 13 Années
 
 ----
 
@@ -74,11 +74,11 @@ Binding: kartoniert
 
 ----
 
-Categories: 
+Categories:
 
 ----
 
-Topics: 
+Topics:
 
 ----
 

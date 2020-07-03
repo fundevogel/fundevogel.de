@@ -51,8 +51,6 @@ AutorIn: AutorIn
 IllustratorIn: IllustratorIn
 ÜbersetzerIn: ÜbersetzerIn
 Mitwirkende: Mitwirkende
-Monaten: Monaten
-Jahren: Jahren
 Verlag: Verlag
 Seiten: Seiten
 Ladenpreis: Ladenpreis
@@ -76,6 +74,8 @@ Zurücksetzen: Zurücksetzen
 Alles zurücksetzen: Alles zurücksetzen
 
 # Lesetipps: misc
+Frühjahr: Frühjahr
+Herbst: Herbst
 Keine Lesetipps: Aktuell sind keine Lesetipps verfügbar!
 Weiterlesen: Weiterlesen
 Serie: Serie

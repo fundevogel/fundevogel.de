@@ -51,8 +51,6 @@ AutorIn: Author
 IllustratorIn: Illustrator
 ÜbersetzerIn: Translator
 Mitwirkende: Participants
-Monaten: Months
-Jahren: Years
 Verlag: Publisher
 Seiten: Pages
 Ladenpreis: Retail Price
@@ -76,6 +74,8 @@ Zurücksetzen: Reset
 Alles zurücksetzen: Alles zurücksetzen
 
 # Lesetipps: misc
+Frühjahr: Spring
+Herbst: Autumn
 Keine Lesetipps: Currently there are no english reading tips available!
 Weiterlesen: Read more
 Serie: Series
