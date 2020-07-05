@@ -20,8 +20,8 @@
                 <ul class="flex flex-col items-center">
                     <?php foreach($events as $event) : ?>
                     <li>
+                        <time class="text-red-medium mr-2" datetime="<?= $event->date()->toDate('Y-m-d') ?>"><?= $event->date()->toDate('d.m.Y') ?></time>
                         <?= $event->title() ?>
-                        <time class="text-orange-medium" datetime="<?= $event->date()->toDate('Y-m-d') ?>"><?= $event->date()->toDate('d.m.Y') ?></time>
                     </li>
                     <?php endforeach ?>
                 </ul>
