@@ -2,6 +2,16 @@ Title: Our Service
 
 ----
 
+Slug: our-service
+
+----
+
+Cover:
+
+- unser-service.jpg
+
+----
+
 Text:
 
 ## Come on in!
@@ -24,11 +34,7 @@ Cards:
 -
   entry: '**School classes** as well as **kindergartners** often come to visit Fundevogel. If you are interested or planning such a trip yourself, please talk to us early on.'
 -
-  entry: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
-
-----
-
-Handle: Service
+  entry: "The bookstore includes a **kid's corner** as well as a **changing table**, various seating accommodations (even a sofa) to simply relax or bury oneself in a book; our **motivated team**, always at your fingertips - and last but not least **lots of select books** for just about everyone!"
 
 ----
 
@@ -40,4 +46,4 @@ Seodescription: Have a look around: Before you lies a world full of adventure an
 
 ----
 
-slug: our-service
+Handle: Service
