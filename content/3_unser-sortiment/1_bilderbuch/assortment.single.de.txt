@@ -113,8 +113,10 @@ Favorites:
   delimiter: null
 - 
   title: Willkommen in Wimmlingen!
-  quote: ""
-  person: ""
+  quote: >
+    Eintauchen in Bilder, die Geschichten
+    erzählen. Es gibt so viel zu entdecken!
+  person: Helena K.
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-8369-5082-4

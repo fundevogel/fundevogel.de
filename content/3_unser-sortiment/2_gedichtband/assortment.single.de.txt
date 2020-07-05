@@ -125,8 +125,15 @@ Favorites:
   delimiter: null
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: |
+    Die Wörter! Die Wörter, wo kommen die Wörter denn her?
+    Aus dem Wörtersee, aus dem Wörtermeer.
+    Wirf deine Netze aus.
+    Fang dir die Wörter raus!
+    Nimm sie zu dir nach Haus!
+    Und was machen die Wörter dann bei mir?
+    Die Wörter, sie spielen, sie spielen mit dir!
+  person: Gedicht von Hugo Ramnek
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-79986-9

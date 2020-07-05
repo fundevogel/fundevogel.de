@@ -19,8 +19,11 @@ Favorites:
 
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Zeitlos gut! Ein Buch, das voller
+    Weisheit steckt und Klein und Groß zum
+    Nachdenken bringt.
+  person: Helena K.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-522-20255-8
@@ -76,8 +79,11 @@ Favorites:
   delimiter: null
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Intelligentere Phantasieliteratur gibt
+    es nicht. Ein Muss für alle
+    Bücherfans!
+  person: Helena K.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-328-60123-4
