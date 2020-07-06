@@ -89,8 +89,8 @@ Cover:
 
 ----
 
-Seotitle: 18
+Seotitle: Das U-Boot auf dem Berg
 
 ----
 
-Seodescription: 19
+Seodescription: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.

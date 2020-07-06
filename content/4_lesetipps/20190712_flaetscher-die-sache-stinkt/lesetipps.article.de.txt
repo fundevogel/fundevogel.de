@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -34,7 +34,7 @@ Book-title: Flätscher - Die Sache stinkt!
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -46,11 +46,11 @@ Illustrator: Jan Birck
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -89,8 +89,8 @@ Cover:
 
 ----
 
-Seotitle: 18
+Seotitle: Flätscher - die Sache stinkt!
 
 ----
 
-Seodescription: 19
+Seodescription: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.

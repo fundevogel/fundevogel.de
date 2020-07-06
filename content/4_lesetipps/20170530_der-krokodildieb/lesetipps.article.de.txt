@@ -88,8 +88,8 @@ Cover:
 
 ----
 
-Seotitle: 18
+Seotitle: Der Krokodildieb
 
 ----
 
-Seodescription: 19
+Seodescription: Empfehlenswert!

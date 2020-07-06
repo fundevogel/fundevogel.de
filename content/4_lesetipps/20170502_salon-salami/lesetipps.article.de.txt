@@ -88,8 +88,8 @@ Cover:
 
 ----
 
-Seotitle: 18
+Seotitle: Salon Salami
 
 ----
 
-Seodescription: 19
+Seodescription: Eine spannende, lustige und doch sehr kluge Geschichte.

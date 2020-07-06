@@ -97,11 +97,16 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle: Klimahelden
 
 ----
 
-Seodescription: 
+Seodescription:
+
+Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen.
+
+Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen.
+Lasst uns damit gemeinsam anfangen!
 
 ----
 
