@@ -18,16 +18,25 @@ Text:
 
 ----
 
-Details:
+Builder:
 
-## Sprache wachsen sehen
-Kinder lieben Wiederholungen und Reime und haben viel Spaß dabei, selbst mit der Sprache zu spielen: Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und Wortneuschöpfungen zu kreieren. Gute Kindergedichte, die Sprache zum Klingen bringen, die Freude an Lyrik wecken und die Phantasie beflügeln finden sich etwa in dem wundervollen Gedichtbänden "Ich liebe dich wie Apfelmus" von Amelie Fried und Sybille Hein.
+-
+  heading: Sprache wachsen sehen
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ## Sprache wachsen sehen
+    Kinder lieben Wiederholungen und Reime und haben viel Spaß dabei, selbst mit der Sprache zu spielen: Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und Wortneuschöpfungen zu kreieren. Gute Kindergedichte, die Sprache zum Klingen bringen, die Freude an Lyrik wecken und die Phantasie beflügeln finden sich etwa in dem wundervollen Gedichtbänden "Ich liebe dich wie Apfelmus" von Amelie Fried und Sybille Hein.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1593964620699_386
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -50,7 +59,7 @@ Favorites:
   binding: gebunden
   text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -75,7 +84,7 @@ Favorites:
   binding: Halbleinen
   text: 'Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - in dieser (short: Auswahl desc: Über 120 Gedichte & Texte!) lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -100,7 +109,7 @@ Favorites:
   binding: gebunden
   text: 'Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -123,7 +132,7 @@ Favorites:
   binding: Halbleinen
   text: 'Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.'
   delimiter: null
-- 
+-
   title: ""
   quote: |
     Die Wörter! Die Wörter, wo kommen die Wörter denn her?
@@ -153,7 +162,7 @@ Favorites:
   binding: Halbleinen
   text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""

@@ -11,13 +11,9 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
-Details: 
-
-----
-
 Favorites:
 
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -55,7 +51,7 @@ Favorites:
     Informationen die Geschichte von Mensch
     und Honigbiene erzählt.
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -78,7 +74,7 @@ Favorites:
   binding: gebunden
   text: 'Die lebendigen, fein gezeichneten Illustrationen der Sachbuchreihe von Virginie Aladjidi und Emmanuelle Tchoukriel, mit dem Charme historischer Bildtafeln, bilden die ganze Vielfalt unserer Tier- und Pflanzenarten ab - von der Tiefe der Weltmeere bis zu den höchsten Bergen, immer begleitet von prägnanten Texten entstehen so Bücher zum Lesen und Entdecken!'
   delimiter: null
-- 
+-
   title: ""
   quote: 'Aktuell wie nie: Nachhaltigkeit und Umweltschutz, kindgerecht erläutert von einem, der sich auskennt.'
   person: Martin F.
@@ -117,7 +113,7 @@ Favorites:
     stützt sich dabei auf neueste
     wissenschaftliche Erkenntnisse.
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -140,7 +136,7 @@ Favorites:
   binding: gebunden
   text: "Dieses Buch stellt 35 Beispiele höchst ungewöhnlichen Häuserbauens vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile. Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind - Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser .."
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -165,7 +161,7 @@ Favorites:
   binding: gebunden
   text: 'Es gibt viel zu entdecken: was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Was ist das Nationalgericht von Chile? Welche Pflanzen wachsen in Marokko? Was sind die Sehenswürdigkeiten von Finnland? Welchen Sport treiben Japaner? Welcher Tanz stammt aus Österreich, welches Produkt aus der Schweiz?'
   delimiter: null
-- 
+-
   title: ""
   quote: >
     Spannend und anschaulich präsentiertes

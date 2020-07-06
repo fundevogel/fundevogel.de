@@ -1,0 +1,100 @@
+label:
+  de: Offener Bereich
+  en: Open area
+type: builder
+fieldsets:
+  info:
+    name: Info-Box
+    # preview:
+    #   snippet: blocks/infos
+    #   css: /site/snippets/blocks/infos/styles.css
+    fields:
+      info:
+        label:
+          de: Nützliche Informationen
+          en: Useful information
+        type: textarea
+
+  gallery:
+    name: Bildergalerie
+    label: "{{heading}} (Bildergalerie)"
+    # preview:
+    #   snippet: blocks/gallery
+    #   css: /site/snippets/blocks/gallery/styles.css
+    fields:
+      heading:
+        label:
+          de: Überschrift
+          en: Heading
+        type: text
+        width: 3/4
+
+      horizontal_line:
+        extends: fields/toggle
+        label:
+          de: Mit Trennlinie?
+          en: Horizontal line?
+        width: 1/4
+
+      gallery:
+        label:
+          de: Bildergalerie
+          en: Gallery
+        type: files
+        layout: cards
+        image:
+          ratio: 16/9
+          cover: true
+        info: "{{ file.dimensions }} ({{ file.niceSize }})"
+
+  text:
+    name: Textfeld
+    label: "{{heading}} (Textfeld)"
+    # preview:
+    #   snippet: blocks/text
+    #   css: /site/snippets/blocks/text/styles.css
+    fields:
+      heading:
+        label:
+          de: Überschrift
+          en: Heading
+        type: text
+        width: 1/2
+
+      show_columns:
+        extends: fields/toggle
+        label:
+          de: Zweispaltiges Layout?
+          en: Two-column layout?
+        width: 1/4
+
+      horizontal_line:
+        extends: fields/toggle
+        label:
+          de: Mit Trennlinie?
+          en: Horizontal line?
+        width: 1/4
+
+      text_full:
+        label: Text
+        type: textarea
+        when:
+          show_columns: false
+
+      text_left:
+        label:
+          de: Linker Text
+          en: Left text
+        type: textarea
+        width: 1/2
+        when:
+          show_columns: true
+
+      text_right:
+        label:
+          de: Rechter Text
+          en: Right text
+        type: textarea
+        width: 1/2
+        when:
+          show_columns: true

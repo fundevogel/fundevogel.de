@@ -12,16 +12,25 @@ Text:
 
 ----
 
-Details:
+Builder:
 
-## Eine Reise für die Sinne
-So wie Mo, auch "Zauberzunge" genannt, in dem phantastischen Roman "Tintenherz" mit seiner Stimme die Geschichten zum Leben erweckt, so vermögen auch Hörbücher durch betontes Lesen einer oder mehrerer Vorleser und durch die Untermalung mit Musik und Geräuschen ihre Zuhörer auf eine spannende, akkustische Reise in die Geschichte mitzunehmen. Von Alltagsgeschichten, Krimis, Märchen und Fantasyromanen bis hin zu Bilderbuchadaptionen und vertonten Sachbüchern gibt es Hörbücher für jedes Alter und für jede Vorliebe. Darunter finden sich so großartige Hörbuchproduktionen wie "Kommissar Gordon – Der erste Fall" des *headroom Hörbuchverlags* und "Drachenreiter – Die Feder eines Greifs" des *Atmende Bücher Hörbuchverlags*, die wir wärmstens empfehlen können.
+-
+  heading: Eine Reise für die Sinne
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ## Eine Reise für die Sinne
+    So wie Mo, auch "Zauberzunge" genannt, in dem phantastischen Roman "Tintenherz" mit seiner Stimme die Geschichten zum Leben erweckt, so vermögen auch Hörbücher durch betontes Lesen einer oder mehrerer Vorleser und durch die Untermalung mit Musik und Geräuschen ihre Zuhörer auf eine spannende, akkustische Reise in die Geschichte mitzunehmen. Von Alltagsgeschichten, Krimis, Märchen und Fantasyromanen bis hin zu Bilderbuchadaptionen und vertonten Sachbüchern gibt es Hörbücher für jedes Alter und für jede Vorliebe. Darunter finden sich so großartige Hörbuchproduktionen wie "Kommissar Gordon – Der erste Fall" des *headroom Hörbuchverlags* und "Drachenreiter – Die Feder eines Greifs" des *Atmende Bücher Hörbuchverlags*, die wir wärmstens empfehlen können.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1593964667916_948
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -44,7 +53,7 @@ Favorites:
   binding: CD
   text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -66,10 +75,10 @@ Favorites:
   binding: CD
   text: |
     Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-    
+
     Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -92,7 +101,7 @@ Favorites:
   binding: CD
   text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?'
   delimiter: null
-- 
+-
   title: ""
   quote: >
     Eine solch authentische Vertonung eines
@@ -131,7 +140,7 @@ Favorites:
     "Herzog" und dem "König" das
     betrügerische Handwerk legen?
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -167,7 +176,7 @@ Favorites:
     Bekanntschaft mit einem ganz besonderen
     Drachen.
   delimiter: null
-- 
+-
   title: Harry Potter
   quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben und dabei nah am Text - besser als die Kinofilme!'
   person: Martin F.

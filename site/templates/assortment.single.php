@@ -11,12 +11,8 @@
             </div>
         </div>
     </header>
-    <?php if ($page->details()->isNotEmpty()) : ?>
     <hr>
-    <section class="container">
-        <?= $page->details()->kt() ?>
-    </section>
-    <?php endif ?>
+    <?php snippet('blocks') ?>
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">

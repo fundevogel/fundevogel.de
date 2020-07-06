@@ -11,13 +11,9 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 ----
 
-Details: 
-
-----
-
 Favorites:
 
-- 
+-
   title: ""
   quote: >
     Zeitlos gut! Ein Buch, das voller
@@ -42,7 +38,7 @@ Favorites:
   binding: gebunden
   text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -77,7 +73,7 @@ Favorites:
     geht das Abenteuer am Mississippi erst
     so richtig los ..
   delimiter: null
-- 
+-
   title: ""
   quote: >
     Intelligentere Phantasieliteratur gibt
@@ -121,7 +117,7 @@ Favorites:
     Schabernack treiben und der mysteriöse
     Schattenkönig herrscht ..
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -155,7 +151,7 @@ Favorites:
     wer versteckt sich hinter der Maske des
     Anführers?
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -180,7 +176,7 @@ Favorites:
   binding: kartoniert
   text: 'Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""

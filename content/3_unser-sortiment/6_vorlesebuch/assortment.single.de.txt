@@ -11,13 +11,9 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
-Details: 
-
-----
-
 Favorites:
 
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -58,7 +54,7 @@ Favorites:
     jede Menge Unheil und Verwirrung sorgt
     ..
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -96,7 +92,7 @@ Favorites:
     einen König und bestehen viele
     Mutproben.
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -118,7 +114,7 @@ Favorites:
   binding: gebunden
   text: 'Manuel und Didi sind die allerbesten Freunde der Welt: phantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende!'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -152,7 +148,7 @@ Favorites:
     ihre Freundschaft auf eine harte Probe
     gestellt wird ..
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -174,7 +170,7 @@ Favorites:
   binding: gebunden
   text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
   delimiter: null
-- 
+-
   title: ""
   quote: ""
   person: ""

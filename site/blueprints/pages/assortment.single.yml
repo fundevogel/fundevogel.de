@@ -13,9 +13,7 @@ tabs:
         label: Text
         type: textarea
 
-      details:
-        label: Details
-        type: textarea
+      builder: fields/builder
 
       favorites:
         label:

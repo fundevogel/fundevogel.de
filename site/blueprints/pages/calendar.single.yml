@@ -11,20 +11,16 @@ tabs:
           label: Text
           type: textarea
 
-        details:
-          label: Details
-          type: textarea
-
-        gallery:
+        short:
           label:
-            de: Bildergalerie
-            en: Gallery
-          type: files
-          layout: cards
-          image:
-            ratio: 16/9
-            cover: true
-          info: "{{ file.dimensions }} ({{ file.niceSize }})"
+            de: Kurzbeschreibung
+            en: Short description
+          type: textarea
+          help:
+            de: Erscheint auf der 'Kalender'-Seite.
+            en: Displayed on 'calendar' page.
+
+        builder: fields/builder
 
     sidebar:
       sidebar_fields:
