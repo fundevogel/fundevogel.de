@@ -1,0 +1,24 @@
+title:
+  de: Bücher-Suche
+  en: Book search
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      details:
+        label: Details
+        type: textarea
+
+    sidebar:
+      sidebar_fields:
+        fields:
+          limit_perpage: fields/groups/limit-perpage
+
+      sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo
