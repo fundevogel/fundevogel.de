@@ -3,7 +3,22 @@ title: Standard
 options: options/default
 
 tabs:
-  tab_content: tabs/content
+  tab_content:
+    extends: tabs/content
+    fields:
+      text: false
+
+      builder: fields/builder
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          date:
+            extends: fields/date
+            label:
+              de: Zuletzt aktualisiert
+              en: Last updated
 
   # Metadata
   tab_seo: tabs/seo

@@ -2,45 +2,46 @@ Title: Widerruf
 
 ----
 
-Text:
-
-## Widerrufsbelehrung
-bei der Bestellung von gedruckten Büchern und anderen körperlichen Waren:
-Verbrauchern steht ein gesetzliches Widerrufsrecht zu. Verbraucher ist gemäß (link: https://dejure.org/gesetze/BGB/13.html text: § 13 BGB target: blank) jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.
-
----
-
-### Widerrufsrecht
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.Um Ihr Widerrufsrecht auszuüben, müssen Sie der Buchhandlung Fundevogel, Herrn Claus-Peter Jepsen, Marienstr. 13, in 79098 Freiburg i. Brsg., Tel.: 0761 25218, Fax:0761 30041, Email: info@fundevogel.de mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
-
----
-
-### Folgen des Widerrufs
-Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist. Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an uns zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden. Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.
-
----
-
-### Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts
-Ein Widerrufsrecht besteht nicht bei Lieferungen von Ton- oder Videoaufnahmen (z.B. CD, Musik- oder Videokassetten) oder von Computersoftware in einer versiegelten Verpackung, wenn die Versiegelung nach der Lieferung entfernt wurde. Ein Widerrufsrecht besteht ferner nicht bei Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind. Ein Widerrufsrecht besteht außerdem nicht bei Verträgen zur Lieferung von Zeitungen, Zeitschriften oder Illustrierten mit Ausnahme von Abonnement-Verträgen.
-
-Hier finden Sie (file: widerrufsformular.odt text: unser Widerrufsformular).
-
-----
-
-Seotitle:
-
-----
-
-Seodescription:
-
-----
-
-Seo:
+Builder:
 
 -
-  seo-title: "Widerruf"
-  seo-description: "Alles zum Thema Widerruf: Widerrufsbelehrung, Widerrufsrecht, Folgen des Widerrufs sowie Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts."
+  heading: Widerruf
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ## Widerrufsbelehrung
+    bei der Bestellung von gedruckten Büchern und anderen körperlichen Waren:
+    Verbrauchern steht ein gesetzliches Widerrufsrecht zu. Verbraucher ist gemäß (link: https://dejure.org/gesetze/BGB/13.html text: § 13 BGB target: blank) jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.
+
+    ---
+
+    ### Widerrufsrecht
+    Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.Um Ihr Widerrufsrecht auszuüben, müssen Sie der Buchhandlung Fundevogel, Herrn Claus-Peter Jepsen, Marienstr. 13, in 79098 Freiburg i. Brsg., Tel.: 0761 25218, Fax:0761 30041, Email: info@fundevogel.de mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+
+    ---
+
+    ### Folgen des Widerrufs
+    Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist. Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an uns zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden. Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.
+
+    ---
+
+    ### Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts
+    Ein Widerrufsrecht besteht nicht bei Lieferungen von Ton- oder Videoaufnahmen (z.B. CD, Musik- oder Videokassetten) oder von Computersoftware in einer versiegelten Verpackung, wenn die Versiegelung nach der Lieferung entfernt wurde. Ein Widerrufsrecht besteht ferner nicht bei Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind. Ein Widerrufsrecht besteht außerdem nicht bei Verträgen zur Lieferung von Zeitungen, Zeitschriften oder Illustrierten mit Ausnahme von Abonnement-Verträgen.
+
+    Hier finden Sie (file: widerrufsformular.odt text: unser Widerrufsformular).
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1594105688642_1891
 
 ----
 
-Translations: 1
+Date: 2020-07-07
+
+----
+
+Seotitle: Widerruf
+
+----
+
+Seodescription: Alles zum Thema Widerruf: Widerrufsbelehrung, Widerrufsrecht, Folgen des Widerrufs sowie Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts.
