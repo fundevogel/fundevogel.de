@@ -34,16 +34,16 @@
                 <h2 class="wave-title"><?= t('Kontakt-Überschrift') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <div class="lg:w-2/5 lg:mr-12 mb-6">
-                        <h3 class="mb-2 text-center text-orange-medium">Mit dem Fahrrad</h3>
+                        <h3 class="mb-2 text-center text-orange-medium"><?= t('Mit dem Fahrrad') ?></h3>
                         <?= $page->bike()->kt() ?>
                     </div>
                     <div class="flex-1 flex flex-col">
                         <div class="mb-4">
-                            <h3 class="mb-2 text-center text-orange-medium">Über den Asphalt</h3>
-                            <?= $page->auto()->kt() ?>
+                            <h3 class="mb-2 text-center text-orange-medium"><?= t('Über den Asphalt') ?></h3>
+                            <?= $page->car()->kt() ?>
                         </div>
                         <div class="mb-6">
-                            <h3 class="mb-2 text-center text-orange-medium">Auf der Schiene</h3>
+                            <h3 class="mb-2 text-center text-orange-medium"><?= t('Auf der Schiene') ?></h3>
                             <?= $page->tram()->kt() ?>
                         </div>
                     </div>

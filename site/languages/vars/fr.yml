@@ -11,7 +11,7 @@ Menü-kontakt: Contact
 
 # Nav menu: title attributes
 Menü-Startseite: Page d'accueil
-Menü-shop: Boutique
+Menü-shop: Notre boutique en ligne
 
 
 # Language menu
@@ -26,23 +26,23 @@ Neues aus dem Fundevogel: L'actualité du Fundevogel
 # News: list
 Frühere Neuigkeiten: Articles précédents
 Frühere Neuigkeiten anzeigen: Afficher les articles précédents
-Früheres:
-Älteres:
+Früheres: Plus tôt
+Älteres: Plus âgée
 Mehr haben wir nicht!: C´est fini !
 
 
 # Lesetipps: headings
 Alle Lesetipps: Nos conseils de lecture
-Alle Lesetipps:Kategorie:
-Alle Lesetipps:Thema:
-Alle Empfehlungslisten:
-Zeitlose Klassiker:
-Auswahl unserer Lieblinge:
-Bekannte Vertreter:
-Alle Lesetipps durchsuchen:
+Alle Lesetipps:Kategorie: Tous les conseils de lecture pour la catégorie
+Alle Lesetipps:Thema: Tous les conseils de lecture sur le sujet
+Alle Empfehlungslisten: Toutes les listes de recommandations
+Zeitlose Klassiker: Des classiques intemporels
+Auswahl unserer Lieblinge: Sélection de nos favoris
+Bekannte Vertreter: Représentants connus
+Alle Lesetipps durchsuchen: Rechercher tous les conseils de lecture
 Deine Suche ergab XY Treffer:
-  one: '{{ count }}'
-  other: '{{ count }}'
+  one: Votre recherche a abouti à un hit!
+  other: Votre recherche a abouti à {{ count }} résultats!
 
 # Lesetipps: details
 Einteilung: Division
@@ -57,28 +57,28 @@ Ladenpreis: Prix de vente
 Zum Shop: Acquérir
 
 # Lesetipps: buttons
-Du bist hier:
+Du bist hier: Tu es là
 Neuere Lesetipps: Livres suivants
 Ältere Lesetipps: Livres précédents
-Mehr Lesetipps!:
+Mehr Lesetipps!: Plus de conseils de lecture!
 Nächster Lesetipp: Livre suivant
 Letzter Lesetipp: Livre précédent
-Hier geht es nicht weiter!:
+Hier geht es nicht weiter!: Ça ne continue pas ici!
 
 # Lesetipps: filter settings
-Kategorie auswählen:
-Lesealter auswählen:
-Thema auswählen:
-Verlag auswählen:
-Zurücksetzen:
-Alles zurücksetzen:
+Kategorie auswählen: Choisissez la catégorie
+Lesealter auswählen: Sélectionnez l'âge de lecture
+Thema auswählen: Choisissez un sujet
+Verlag auswählen: Sélectionnez l'éditeur
+Zurücksetzen: Réinitialiser
+Alles zurücksetzen: Réinitialiser par défaut
 
 # Lesetipps: misc
 Frühjahr: Printemps
 Herbst: Automne
-Keine Lesetipps:
+Keine Lesetipps: Aucun conseil de lecture n'est actuellement disponible!
 Weiterlesen: Lire la suite
-Serie:
+Serie: Séries
 wie: comme
 Buch/Bücher:
   one: '{{ count }} livre'
@@ -87,15 +87,15 @@ Buch/Bücher:
 
 # Calendar: headings
 Alle Veranstaltungen im Überblick: Voici toutes nos venir animations
-Heute:
-Diese Woche:
-Diesen Monat:
-In der Ferne:
-Jährliche Höhepunkte:
-Geschlossene Veranstaltungen:
+Heute: Aujourd'hui
+Diese Woche: Cette semaine
+Diesen Monat: Ce mois-ci
+In der Ferne: Dans un avenir lointain
+Jährliche Höhepunkte: Faits saillants annuels
+Geschlossene Veranstaltungen: Événements fermés
 Alle vergangenen Veranstaltungen: Voici toutes nos passées animations
-Eindrücke:
-Nützliche Infos:
+Eindrücke: Impressions
+Nützliche Infos: Informations utiles
 
 # Calendar: details
 Termin im Überblick: En bref
@@ -107,14 +107,20 @@ Ort: Où
 Ende: Jusqu'au
 
 # Calendar: misc
-Keine Veranstaltungen: Nix
+Keine Veranstaltungen: Il n'y a aucun événement à venir pour le moment.
+
+
+# Contact: headings
+Kontakt-Überschrift: Contact et directions
+Mit dem Fahrrad: En vélo
+Über den Asphalt: En voiture
+Auf der Schiene: Par le tram
 
 
 # Misc: headings
-Sortiment-Überschrift:
+Sortiment-Überschrift: Un aperçu de notre gamme
 Service-Überschrift: Ce que nous vous offrons
 Netzwerk-Überschrift: Nos partenaires
-Kontakt-Überschrift: Comment venir?
 
 
 # Footer menu
