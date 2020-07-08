@@ -55,10 +55,10 @@ Kirby::plugin('fundevogel/methods', [
             return false;
         },
         'prevTranslated' => function () {
-            return $this->prevAll()->listed()->onlyTranslated(kirby()->languageCode())->last();
+            return $this->prevAll()->listed()->onlyTranslated()->last();
         },
         'nextTranslated' => function () {
-            return $this->nextAll()->listed()->onlyTranslated(kirby()->languageCode())->first();
+            return $this->nextAll()->listed()->onlyTranslated()->first();
         },
         'hasTranslations' => function (): bool {
             $languages = kirby()->languages()->not(kirby()->defaultLanguage()->code());
@@ -104,7 +104,11 @@ Kirby::plugin('fundevogel/methods', [
         },
     ],
     'pagesMethods' => [
-        'onlyTranslated' => function (string $language) {
+        'onlyTranslated' => function (string $language = null) {
+            if ($language === null) {
+                $language = kirby()->language()->code();
+            }
+
             return $this->filter(function ($page) use ($language) {
                 if ($page->isTranslated($language)) {
                     return $page;
