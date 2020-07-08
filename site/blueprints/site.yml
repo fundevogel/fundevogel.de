@@ -18,8 +18,9 @@ tabs:
               de: Lesetipps
               en: Recommendations
             parent: site.find("lesetipps")
+            template: lesetipps.article
             create: lesetipps.article
-            limit: 12
+            limit: 8
 
       right:
         width: 1/3
@@ -30,16 +31,18 @@ tabs:
             parent: site.find("news")
             create: news.article
             layout: list
-            limit: 8
+            limit: 4
 
           events:
             extends: sections/articles
             headline: Veranstaltungen
             parent: site.find('kalender')
+            template: calendar.event
             create: calendar.event
             layout: list
             subpages: false
-            limit: 8
+            limit: 4
+            empty: Keine Veranstaltungen!
 
           sort_out:
             type: fields

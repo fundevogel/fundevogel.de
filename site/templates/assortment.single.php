@@ -13,6 +13,7 @@
     </header>
     <hr>
     <?php snippet('blocks') ?>
+    <?php if ($favorites->isNotEmpty()) : ?>
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
@@ -108,6 +109,7 @@
     <section class="container">
         <?= $page->parent()->conclusion()->kt() ?>
     </section>
+    <?php endif ?>
     <hr>
     <section class="container xl:px-8">
         <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
