@@ -33,12 +33,7 @@
             <?php endforeach ?>
         </div>
     </section>
-    <section class="container">
-        <div class="mt-12 card is-dashed">
-            <h3 class="mb-6 underline"><?= t('Nützliche Infos') ?></h3>
-            <?= $page->details()->kt() ?>
-        </div>
-    </section>
+    <?php snippet('blocks/info', ['data' => $page]) ?>
 </article>
 
 <?php snippet('footer') ?>

@@ -1,3 +1,16 @@
+.list {
+  a {
+    @apply font-normal;
+    @apply text-red-medium;
+  }
+
+  a:active,
+  a:focus,
+  a:hover {
+    @apply text-red-dark;
+  }
+}
+
 .list li {
   @apply pl-6;
   @apply relative;
