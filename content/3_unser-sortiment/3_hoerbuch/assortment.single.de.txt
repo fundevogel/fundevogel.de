@@ -178,7 +178,7 @@ Favorites:
   delimiter: null
 -
   title: Harry Potter
-  quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben und dabei nah am Text - besser als die Kinofilme!'
+  quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben - besser als die Kinofilme!'
   person: Martin F.
   isseries: 'true'
   more_options: 'true'
