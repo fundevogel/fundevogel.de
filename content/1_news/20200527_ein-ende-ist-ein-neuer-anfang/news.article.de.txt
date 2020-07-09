@@ -1,4 +1,4 @@
-Tab1: 
+Tab1:
 
 ----
 
@@ -15,11 +15,3 @@ Subtitle: Schön gefeiert!
 ----
 
 Text: Nach über 4 Jahren beschreitet unsere Kollegin Chloé neue Wege, die sie aus dem Fundevogel führen. Der Abschied darf gefeiert werden: ein idyllischer Ort, offenes Feuer und französische Köstlichkeiten! Wir freuen uns auf die Zukunft, auch wenn der Weggang schwer fällt. Die Kollegin geht, unsere Freundschaft bleibt!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

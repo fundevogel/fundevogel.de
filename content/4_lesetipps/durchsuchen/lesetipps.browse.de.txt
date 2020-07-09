@@ -16,8 +16,6 @@ Perpage-wanted: true
 ----
 Perpage: 5
 ----
-Seo:
--
-  seo-title: "Suche"
-  seo-description: "Durchsucht unsere Lesetipps nach Belieben - hier wird jeder fündig!"
+Seotitle: Lesetipps durchsuchen
 ----
+Seodescription: Durchsucht unsere Lesetipps nach Belieben - hier wird jeder fündig!

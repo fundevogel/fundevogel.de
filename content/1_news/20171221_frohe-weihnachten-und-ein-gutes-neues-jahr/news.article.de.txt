@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Frohe Weihnachten und ein gutes Neues Jahr!
 
 ----
@@ -15,11 +11,3 @@ Subtitle: Joyeux Noël, merry christmas!
 ----
 
 Text: Das ganze Team vom Fundevogel bedankt sich für das Jahr 2017 mit Ihnen, Ihre Treue und die gegenseitige Verbundenheit. Wir wünschen Ihnen und Euch allen erholsame und schöne Weihnachtstage und einen guten Jahreswechsel. Wir freuen uns auf ein gemeinsames 2018 und neue literarische Entdeckungen!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

@@ -1,0 +1,21 @@
+Titleattribute: Storybooks bring families together, simply having a good time
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Wooden shelves with many storybooks
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Explore our storybooks!
+
+----
+
+Template: image

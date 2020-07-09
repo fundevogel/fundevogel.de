@@ -6,7 +6,7 @@ Bike: Der Fundevogel liegt zentral in der idyllischen Altstadt Freiburgs, nur zw
 
 ----
 
-Auto: Wer den Fundevogel mit dem Auto besuchen möchte, gelangt am einfachsten über die Wallstraße in die Marienstraße. Hier ist allerdings nur kurzes Halten zum Be- und Entladen direkt vor der Buchhandlung möglich. Parkmöglichkeiten bieten die umliegenden Parkhäuser, zum Beispiel die Schlossberggarage oder die Schwabentorgarage (jeweils fünf Gehminuten von uns).
+Car: Wer den Fundevogel mit dem Auto besuchen möchte, gelangt am einfachsten über die Wallstraße in die Marienstraße. Hier ist allerdings nur kurzes Halten zum Be- und Entladen direkt vor der Buchhandlung möglich. Parkmöglichkeiten bieten die umliegenden Parkhäuser, zum Beispiel die Schlossberggarage oder die Schwabentorgarage (jeweils fünf Gehminuten von uns).
 
 ----
 
@@ -31,32 +31,8 @@ Samstag: 9:30 - 16:30 Uhr
 
 ----
 
-Seotitle: Euer Weg zu uns
+Seotitle: Kontakt - Euer Weg zu uns
 
 ----
 
 Seodescription: Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218.
-
-----
-
-Text: r
-
-----
-
-Handle: Kontakt
-
-----
-
-Subtitle: So erreicht ihr uns
-
-----
-
-Seo:
-
--
-  seo-title: "Kontakt"
-  seo-description: "Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218."
-
-----
-
-Translations: 1

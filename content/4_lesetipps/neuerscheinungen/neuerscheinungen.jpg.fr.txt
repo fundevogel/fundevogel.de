@@ -1,0 +1,21 @@
+Titleattribute: Trésors de lecture cachés
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: De nombreux livres, en particulier de la série "Thabo" de Kirsten Boie, reposent sur une table
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Restez au top des choses dans la jungle des nouveaux livres!
+
+----
+
+Template: image

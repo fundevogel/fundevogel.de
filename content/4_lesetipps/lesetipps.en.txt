@@ -11,7 +11,7 @@ Text:
 ## Our recommendations
 We just love reading new and exciting books, but we don't stop there - whenever we discover something truly inspiring and fascinating, we want to share it with you. Check out the reviews and read about some of our favorite books.
 
-Aside from that, every year we put together two lists of selected novelties, forming our spring and autumn recommendation editions. Be sure to download the latest issues from the links to the right or  subscribe to our (email: info@fundevogel.de text: mailing list). For earlier editions, have a look at the archive.
+Aside from that, every year we put together two lists of selected novelties, forming our spring and autumn recommendation editions. Be sure to download the latest issues from the links to the right or  subscribe to our (email: info@fundevogel.de text: mailing list). For earlier editions, have a look at the (link: lesetipps/neuerscheinungen text: archive).
 
 ----
 
@@ -23,52 +23,8 @@ Perpage: 5
 
 ----
 
-Fallback: - fallback.png
-
-----
-
-Seotitle: Reading tips
+Seotitle: Reading Tips
 
 ----
 
 Seodescription: We just love reading new and exciting books - and whenever we discover something truly inspiring and fascinating, we want to share it with you.
-
-----
-
-Handle: Recommendations
-
-----
-
-Image-spring: lesetipps-fruehjahr.jpg
-
-----
-
-Image-autumn: lesetipps-herbst.jpg
-
-----
-
-About-us:
-
-----
-
-Left:
-
-----
-
-Right:
-
-----
-
-Subtitle: Alle Lesetipps im Überblick
-
-----
-
-Seo:
-
--
-  seo-title: "Reading tips"
-  seo-description: "We just love reading new and exciting books - and whenever we discover something truly inspiring and fascinating, we want to share it with you."
-
-----
-
-Translations: 1

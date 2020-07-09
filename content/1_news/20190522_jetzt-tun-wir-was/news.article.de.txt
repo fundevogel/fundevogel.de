@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Jetzt tun wir was!
 
 ----
@@ -14,23 +10,15 @@ Subtitle: Was tust du gegen den Klimawandel?
 
 ----
 
-Text: 
+Text:
 
-Es ist nie zu spät, aber kurz davor. 
-Und es betrifft jeden von uns. 
+Es ist nie zu spät, aber kurz davor.
+Und es betrifft jeden von uns.
 Aber jeder kann auch etwas tun! Was tust Du?
 Wir haben einen Baum gepflanzt, dessen Blätter auf Deine Ideen warten.
-Der eine isst nur Eier von glücklichen Hühnern. Die andere lässt das Auto so oft wie möglich stehen und steigt lieber auf´s Rad. 
+Der eine isst nur Eier von glücklichen Hühnern. Die andere lässt das Auto so oft wie möglich stehen und steigt lieber auf´s Rad.
 Wir laden Euch herzlich ein,  den Baum mit Euren eigenen Ideen weiter wachsen zu lassen.
 
-Außerdem haben wir rund um das Thema Klimawandel und Naturschutz viele Bücher für Euch auf Lager, die informieren, nachdenklich stimmen und Lust machen selbst aktiv zu werden. 
+Außerdem haben wir rund um das Thema Klimawandel und Naturschutz viele Bücher für Euch auf Lager, die informieren, nachdenklich stimmen und Lust machen selbst aktiv zu werden.
 
 Kommt vorbei! Wir freuen uns auf Eure Ideen!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

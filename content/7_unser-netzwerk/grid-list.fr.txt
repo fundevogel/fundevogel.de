@@ -15,6 +15,7 @@ Text:
 > <cite>— Johann Wolfgang von Goethe</cite>
 
 Nous cherchons à coopérer avec tous les lieux qui mettent en contact les enfants et adolescents avec les livres.
+
 Nous cherchons des partenaires qui partagent notre mission :
 
 ----
@@ -62,7 +63,7 @@ Seotitle: Notre Réseau
 
 ----
 
-Seodescription: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden.
+Seodescription: Nous recherchons une coopération et des partenariats pour susciter l'intérêt pour les livres et la littérature dans le but de s'amuser et de profiter de la lecture.
 
 ----
 

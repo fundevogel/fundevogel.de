@@ -207,8 +207,8 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: Bilderbücher
 
 ----
 
-Seodescription: Wir lieben Bilderbücher!
+Seodescription: Kommt mit auf eine phantastische Reise zwischen die Buchdeckel wunderbarer Bilderbuchgeschichten, zu farbenprächtigen Bildern und freundlichen Bewohnern.

@@ -6,7 +6,7 @@ Text: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So mö
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -34,7 +34,7 @@ Book-title: Der Katze ist es ganz egal
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -46,11 +46,11 @@ Illustrator: Theresa Strozyk
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -94,42 +94,3 @@ Seotitle: Der Katze ist es ganz egal
 ----
 
 Seodescription: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf …
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Angaben:
-
--
-  titel: Der Katze ist es ganz egal
-  isbn: 978-3-95470-231-2
-  verdict: >
-    Eine herrlich chaotische Geschichte
-    über ein mutiges Kind, dass zu sich
-    selbst findet und alle mitreißt.
-    Begleitet von Theresa Strozyks witzigen
-    Illustrationen und als kleiner Zusatz,
-    für alle die den Wiener Dialekt nicht
-    kennen, kleine Übersetzungen am Rande.
-  autor: Franz Orghandl
-  verlag: Klett Kinderbuch Verlag
-  cover: 8049142100001z.jpg
-  preis: "13.00"
-  alter: ab 9 Jahren
-  shop: >
-    https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002483930/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Orghandl/Der-Katze-ist-es-ganz-egal/4099276460822241237/4099276460822241224/4099276460822241224
-
-----
-
-Tab3: 
-
-----
-
-Seo: 

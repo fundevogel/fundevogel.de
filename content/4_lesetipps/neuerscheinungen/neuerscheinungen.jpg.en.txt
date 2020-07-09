@@ -1,0 +1,21 @@
+Titleattribute: Hidden reading treasures
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Many books, especially from the "Thabo" series by Kirsten Boie, lie on a table
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Stay on top of things in the jungle of new books!
+
+----
+
+Template: image

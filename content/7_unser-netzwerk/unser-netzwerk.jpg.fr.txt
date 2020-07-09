@@ -1,0 +1,21 @@
+Titleattribute: Nous recherchons la coopération et les partenariats pour susciter l'intérêt pour les livres et la littérature.
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Six personnages hauts en couleur figurent dans le livre "Ronya, fille de brigand" de Michael Ende
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Nous aimons travailler avec des gens qui partagent notre idée.
+
+----
+
+Template: image

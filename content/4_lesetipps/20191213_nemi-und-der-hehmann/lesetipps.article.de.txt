@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -46,11 +46,11 @@ Illustrator: Hanna Jung
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -93,39 +93,3 @@ Seotitle: Nemi und der Hehmann
 ----
 
 Seodescription: Eine berührende Geschichte, die von den zauberhaften Illustrationen von Hannah Jung lebt und uns die Kostbarkeit und Vielfältigkeit der Natur bewusst macht.
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Angaben:
-
--
-  titel: Nemi und der Hehmann
-  isbn: 978-3-407-75459-2
-  verdict: >
-    Eine berührende Geschichte, die von den
-    zauberhaften Illustrationen von Hannah
-    Jung lebt und uns die Kostbarkeit und
-    Vielfältigkeit der Natur bewusst macht.
-  autor: Wieland Freund
-  verlag: Beltz
-  cover: nemi.jpg
-  preis: 14,95
-  alter: ab 8 Jahren
-  shop: >
-    https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002025367/63715/10002/-3/Buecher_Kinder--und-Jugend/Wieland-Freund/Nemi-und-der-Hehmann/4099276460822241237/4099276460822241224/4099276460822241224
-
-----
-
-Tab3: 
-
-----
-
-Seo: 

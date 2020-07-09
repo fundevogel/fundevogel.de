@@ -24,11 +24,3 @@ Seotitle: Lesetipps
 ----
 
 Seodescription: Mit unseren aktuellen Empfehlungen teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben!
-
-----
-
-Fallback: - fallback.png
-
-----
-
-Handle: Lesetipps

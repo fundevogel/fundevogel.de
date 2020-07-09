@@ -6,32 +6,8 @@ Text: Das schöne Wetter der letzten Tage hat uns im Fundevogel in Frühlingssti
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Wir lassen die Blumen erblühen!
 
 ----
 
 Date: 2019-02-21
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

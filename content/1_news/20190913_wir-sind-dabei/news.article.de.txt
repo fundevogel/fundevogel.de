@@ -1,7 +1,3 @@
-Tab1:
-
-----
-
 Title: Wir sind dabei!
 
 ----
@@ -19,11 +15,3 @@ Text:
 Am Freitag, dem 20. September streiken Menschen weltweit für das Klima. Auch in Freiburg ist eine große Demonstration geplant. Rund um den Streiktag startet Fridays for Future eine Aktionswoche für das Klima. Weitere Informationen zur Demo und den Aktionen findet ihr (link: https://www.klimaaktionsbuendnis-freiburg.de/#details text: hier target: blank).
 Als Kinder- und Jugendbuchhandlung, wie auch aus persönlicher Überzeugung fühlen wir uns den Forderungen von Fridays for Future verbunden. Deshalb unterstützen wir ganz bewusst die Aktionen der jungen Menschen und stehen voll hinter ihnen. Für den 20. September ist es allen MitarbeiterInnen des Fundevogels freigestellt an der Demonstration teilzunehmen. Wir  sind froh diese wertvolle Aktion auch persönlich unterstützen zu können und freuen uns darauf, das ein oder andere Gesicht dort zu sehen.
 **Wir sind dabei! Ihr auch?**
-
-----
-
-Tab2:
-
-----
-
-Seo:

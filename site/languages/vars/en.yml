@@ -3,7 +3,7 @@ Menü: Menu
 Menü-news: Welcome!
 Menü-fundevogel-und-team: Fundevogel
 Menü-unser-sortiment: Assortment
-Menü-lesetipps: Reading tips
+Menü-lesetipps: Reading Tips
 Menü-kalender: Calendar
 Menü-unser-service: Service
 Menü-unser-netzwerk: Network
@@ -26,23 +26,23 @@ Neues aus dem Fundevogel: News from Fundevogel
 # News: list
 Frühere Neuigkeiten: Previous news
 Frühere Neuigkeiten anzeigen: Show previous news
-Früheres:
-Älteres:
+Früheres: Earlier
+Älteres: Older
 Mehr haben wir nicht!: Congrats, you reached the end!
 
 
 # Lesetipps: headings
 Alle Lesetipps: All reading tips at a glance
-Alle Lesetipps:Kategorie:
-Alle Lesetipps:Thema:
-Alle Empfehlungslisten:
+Alle Lesetipps:Kategorie: All reading tips for the category
+Alle Lesetipps:Thema: All reading tips on the topic
+Alle Empfehlungslisten: All recommendation lists
 Zeitlose Klassiker: Timeless Classics
 Auswahl unserer Lieblinge: Selection of our favorites
 Bekannte Vertreter: Great Exponents
 Alle Lesetipps durchsuchen: Browse all reading tips
 Deine Suche ergab XY Treffer:
-  one: Deine Suche ergab einen Treffer!
-  other: Deine Suche ergab {{ count }} Treffer!
+  one: We found one match for your search!
+  other: We found {{ count }} matches for your search!
 
 # Lesetipps: details
 Einteilung: Classification
@@ -71,7 +71,7 @@ Lesealter auswählen: Filter by age
 Thema auswählen: Filter by topic
 Verlag auswählen: Filter by publisher
 Zurücksetzen: Reset
-Alles zurücksetzen: Alles zurücksetzen
+Alles zurücksetzen: Reset everything
 
 # Lesetipps: misc
 Frühjahr: Spring
@@ -111,14 +111,14 @@ Keine Veranstaltungen: There are no upcoming events right now.
 
 
 # Contact: headings
-Kontakt-Überschrift: So erreicht ihr uns
+Kontakt-Überschrift: How you can reach us
 Mit dem Fahrrad: By bicycle
 Über den Asphalt: By car
 Auf der Schiene: By tram
 
 
 # Misc: headings
-Sortiment-Überschrift:
+Sortiment-Überschrift: An overview of our assortment
 Service-Überschrift: What we're good at
 Netzwerk-Überschrift: Our partners
 

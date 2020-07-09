@@ -6,32 +6,8 @@ Text: Das Jahr neigt sich dem Ende entgegen und das Weihnachtsfest steht vor der
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Weihnachtsgrüße aus dem Fundevogel
 
 ----
 
 Date: 2018-12-22
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

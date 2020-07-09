@@ -1,8 +1,20 @@
-Caption: Be sure to stop by and browse our collection!
+Titleattribute: We are looking forward to your visit!
 
 ----
 
-AltAttribute: Sign with Fundevogel logo on the outside of our book store
+Source: Eigenmaterial
+
+----
+
+Altattribute: Sign with Fundevogel logo on the outside of our book store
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: There is a lot going on in the Fundevogel - come along!
 
 ----
 

@@ -6,32 +6,8 @@ Text: Einmal im Jahr wächst uns das Papier über den Kopf. Nämlich dann, wenn 
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Papierstau im Fundevogel
 
 ----
 
 Date: 2018-11-02
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

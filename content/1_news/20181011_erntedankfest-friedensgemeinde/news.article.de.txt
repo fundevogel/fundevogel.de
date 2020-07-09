@@ -6,32 +6,8 @@ Text: Ein Fest mit Spiel und Spaß für Groß und Klein rund um die Friedenskirc
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Gemeindefest in der Friedensgemeinde
 
 ----
 
 Date: 2018-10-11
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

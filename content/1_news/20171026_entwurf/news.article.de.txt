@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Wir sind nachcher wieder da...
 
 ----
@@ -15,11 +11,3 @@ Subtitle: wir müssen kurz nach Afrika!
 ----
 
 Text: Nach der Lesung seines beliebten Kinderbuches "Wir sind nachher wieder da, wir müssen kurz nach Afrika" hat Oliver Scherz im Fundevogel vor unserem selbst gebastelten Elefant signiert und sich mit den Kindern rege ausgetauscht.
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

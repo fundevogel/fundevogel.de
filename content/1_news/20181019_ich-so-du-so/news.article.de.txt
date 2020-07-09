@@ -6,32 +6,8 @@ Text: Die Künstlerinnen Anke Kuhl und Natascha Vlahovic von der Ateliergemeinsc
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Auftakt zum 25. Lirum Larum Lesefest im Literaturhaus
 
 ----
 
 Date: 2018-10-19
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

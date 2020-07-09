@@ -6,7 +6,7 @@ Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor die
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -46,11 +46,11 @@ Illustrator: Lara Paulussen
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -94,39 +94,3 @@ Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
 ----
 
 Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Angaben:
-
--
-  titel: >
-    Warum gibt es uns? Die Entwicklung des
-    Lebens vom Urknall bis zu dir.
-  isbn: 978-3-407-75468-4
-  verdict: >
-    Ein grandioses Sachbuch für Neugierige
-    und Fragenforscher fast jeden Alters.
-  autor: Johan Olsen
-  verlag: Beltz Verlag
-  cover: 7736062800001z.jpg
-  preis: 16,95
-  alter: ab 9 Jahren
-  shop: >
-    https://fundevogel.buchkatalog.de/product/3000002025954/Buecher_Sachbuecher/Johan-Olsen/Warum-gibt-es-uns
-
-----
-
-Tab3: 
-
-----
-
-Seo: 

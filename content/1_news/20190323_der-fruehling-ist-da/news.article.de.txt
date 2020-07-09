@@ -6,32 +6,8 @@ Text: Wie jedes Jahr blüht unsere Magnolie pünktlich zum Frühlingsanfang. Wun
 
 ----
 
-Subtitle-wanted: false
-
-----
-
-Subtitle: 
+Subtitle:
 
 ----
 
 Date: 2019-03-23
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

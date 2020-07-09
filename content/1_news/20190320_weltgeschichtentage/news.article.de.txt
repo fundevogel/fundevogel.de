@@ -6,20 +6,8 @@ Text: Während der Weltgeschichtentage war **Raul Paramo **bei uns zu Gast. Er e
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Festival der Erzählkunst
 
 ----
 
 Date: 2019-03-20
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

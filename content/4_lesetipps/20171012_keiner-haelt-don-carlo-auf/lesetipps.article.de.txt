@@ -96,7 +96,4 @@ Seotitle: Keiner hält Don Carlo auf
 
 ----
 
-Seodescription:
-
-Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
-Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern.
+Seodescription: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8. Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern!

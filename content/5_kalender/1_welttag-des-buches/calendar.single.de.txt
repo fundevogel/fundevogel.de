@@ -68,11 +68,11 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: Welttag des Buches
 
 ----
 
-Seodescription:
+Seodescription: Rund um den "Welttag des Buches" besuchen uns viele Schulklassen, stöbern in mit Rosen geschmückten Regalen und feiern mit uns die Welt der Bücher.
 
 ----
 

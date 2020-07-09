@@ -10,11 +10,11 @@ Subtitle: Eine der vier schönsten Jahreszeiten!
 
 ----
 
-Text: 
+Text:
 
-Unsere Kollegin hat eine wundervolle Herbstdeko in den Fundevogel gezaubert! Die Farben treffen die Schönheit und Atmosphäre der goldenen Herbsttage genau. Und wenn es draußen mal grau und verregnet ist, hilft ein Blick auf auf die bunte Deko und der graue Himmel ist vergessen. 
+Unsere Kollegin hat eine wundervolle Herbstdeko in den Fundevogel gezaubert! Die Farben treffen die Schönheit und Atmosphäre der goldenen Herbsttage genau. Und wenn es draußen mal grau und verregnet ist, hilft ein Blick auf auf die bunte Deko und der graue Himmel ist vergessen.
 
-Wir hoffen, ihr genießt den Herbst mit seinem Feuerwerk der Farben genau so wie wir. Lasst uns die letzten warmen Tage genießen und Sonne für den bevorstehenden Winter tanken. 
+Wir hoffen, ihr genießt den Herbst mit seinem Feuerwerk der Farben genau so wie wir. Lasst uns die letzten warmen Tage genießen und Sonne für den bevorstehenden Winter tanken.
 
 ***Septembermorgen**
 Im Nebel ruhet noch die Welt,
@@ -24,7 +24,3 @@ Den blauen Himmel unverstellt,
 Herbstkräftig die gedämpfte Welt
 In warmem Golde fließen.
 Eduard Mörike*
-
-----
-
-Seo: 

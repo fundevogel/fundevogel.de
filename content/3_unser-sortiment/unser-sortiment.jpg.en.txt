@@ -1,0 +1,21 @@
+Titleattribute: The diversity of children's and youth literature
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Wooden shelves with children's books
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Come visit the world of childrens' and youth literature!
+
+----
+
+Template: image

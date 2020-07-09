@@ -11,6 +11,10 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
+Builder:
+
+----
+
 Favorites:
 
 -
@@ -202,4 +206,4 @@ Seotitle: Sachbücher
 
 ----
 
-Seodescription: Wir lieben Sachbücher!
+Seodescription: Erkundet atemberaubende Tier- und Pflanzenwelten, macht Bekanntschaft mit Kunst und Kultur oder erfahrt mehr über die genialsten Erfindungen aller Zeiten!
