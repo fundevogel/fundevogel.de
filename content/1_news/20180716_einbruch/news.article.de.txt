@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Einbruch
 
 ----
@@ -15,11 +11,3 @@ Subtitle: in der Nacht
 ----
 
 Text: Enttäuschend und bitter: Leider gibt es nicht immer gute Nachrichten. In der Nacht vom 11. auf den 12. Juli wurde bei uns eingebrochen und sämtliche Barbestände u. a. aus der Kasse und unserer Kaffeekasse entwendet. Unsere klare Haltung dazu: Geklaut wird nicht. BASTA!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

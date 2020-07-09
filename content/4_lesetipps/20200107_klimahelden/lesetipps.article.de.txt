@@ -27,7 +27,7 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -55,11 +55,11 @@ Illustrator: Volker Konrad
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -101,44 +101,4 @@ Seotitle: Klimahelden
 
 ----
 
-Seodescription:
-
-Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen.
-
-Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen.
-Lasst uns damit gemeinsam anfangen!
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Angaben:
-
--
-  titel: Klimahelden
-  isbn: 978-3-86256-098-1
-  verdict: |
-    Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen.
-    Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen.
-    Lasst uns damit gemeinsam anfangen!
-  autor: Hanna Schott
-  verlag: Neufeld Verlag
-  cover: 7521556700001z.jpg
-  preis: "12.90"
-  alter: ab 9 Jahren
-  shop: >
-    https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden/4099276460822241237/4099276460822241224/4099276460822241224
-
-----
-
-Tab3: 
-
-----
-
-Seo: 
+Seodescription: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!

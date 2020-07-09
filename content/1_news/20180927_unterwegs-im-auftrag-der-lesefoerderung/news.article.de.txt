@@ -6,32 +6,8 @@ Text: Gemeinsam mit unserem Kooperationspartner dem Füchsleclub des SC-Freiburg
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Fussball und Lesen
 
 ----
 
 Date: 2018-09-27
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

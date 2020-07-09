@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Auto: You can also reach our book store by car via Wallstraße, turning into Marienstraße, although you are only allowed to halt for quick loading and unloading. For parking, check out the parking garages Schlossberg and Schwabentor (within five minutes walking distance).
+Car: You can also reach our book store by car via Wallstraße, turning into Marienstraße, although you are only allowed to halt for quick loading and unloading. For parking, check out the parking garages Schlossberg and Schwabentor (within five minutes walking distance).
 
 ----
 
@@ -11,14 +11,6 @@ Bike: The Fundevogel book store is centrally located in Freiburg's picturesque O
 ----
 
 Tram: Or you just take the tram - the nearest tram stops are „Bertoldsbrunnen“, „Holzmarkt“ (multiple tramlines) and „Oberlinden“(tramline 1).
-
-----
-
-Handle: Contact
-
-----
-
-Subtitle: So erreicht ihr uns
 
 ----
 
@@ -39,15 +31,11 @@ Saturday: 9am - 4pm
 
 ----
 
-Seo:
-
--
-  seo-title: "Kontakt"
-  seo-description: "Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218."
+Seotitle: Contact
 
 ----
 
-Translations: 1
+Seodescription: Get in touch, call us, send an email or visit our lovely bookstore, where the latest and greatest children's books are waiting for you.
 
 ----
 

@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Und wieder erwacht das Leben!
 
 ----
@@ -14,18 +10,10 @@ Subtitle: Die ersten Frühlingsboten wurden gesichtet!
 
 ----
 
-Text: 
+Text:
 
 **Knospen ...
 Knospen?
 Knospen!**
 
 von Hans-Peter Kraus
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

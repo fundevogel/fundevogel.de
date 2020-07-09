@@ -1,0 +1,21 @@
+Titleattribute: We would be happy to advise you on novels for children and young adults.
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Wooden shelf with dozens of novels and short stories
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: We have a wide selection of different novels and short stories.
+
+----
+
+Template: image

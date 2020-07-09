@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Zu Gast im Fundevogel
 
 ----
@@ -15,11 +11,3 @@ Subtitle: Lirum Larum Lesespaß
 ----
 
 Text: Lange auf unserer Gästewunschliste standen diese Namen: Finn-Ole Heinrich und Ulrich Hub. Dieses Jahr war es endlich soweit! Der erste entführte uns zum Mittelpunkt des dunklen Waldes und ließ eine erschröckliche Räubergestalt erwachen. Der zweite gewährte uns Einblick in die Weihnachtsgeschichte einmal ganz anders: aus der Perspektive einer äußerst witzigen und vielgestaltigen Schafherde, so intensiv, dass wir uns fast inmitten des Geschehens wiederfanden.
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: "Wenn es mir schlecht geht, gehe ich nicht in die Apotheke, sondern zu meinem Buchhändler."
 
 ----
@@ -14,18 +10,10 @@ Subtitle: Lesestoff in Zeiten von Corona
 
 ----
 
-Text: 
+Text:
 
-In Zeiten abgesagter Veranstaltungen und Hamsterkäufen machen die Auswirkungen des Corona-Virus auch vor uns nicht halt. Auch bei uns werden reihenweise die bereits gebuchten Ausstellungen in Kindergärten und Schulen abgesagt. Wir bleiben gelassen. 
+In Zeiten abgesagter Veranstaltungen und Hamsterkäufen machen die Auswirkungen des Corona-Virus auch vor uns nicht halt. Auch bei uns werden reihenweise die bereits gebuchten Ausstellungen in Kindergärten und Schulen abgesagt. Wir bleiben gelassen.
 Und solltet ihr Lese-Tipps für in Zeiten der Quarantäne brauchen. Wir sind für Euch da.
 Wir lassen Euch nicht im Stich!
 
 Bleibt gesund und gebt der Panik keine Chance!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

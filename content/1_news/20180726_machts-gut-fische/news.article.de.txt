@@ -6,32 +6,8 @@ Text: Wo sie herkamen, wissen wir nicht. Auch nicht, wer sie uns geschenkt hat o
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Ein Abschied
 
 ----
 
 Date: 2018-07-26
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

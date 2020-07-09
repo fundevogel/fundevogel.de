@@ -6,32 +6,8 @@ Text: Mit einer Lesung aus „Edison“ ging ein lang gehegter Wunsch in Erfüll
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Lesung mit Torben Kuhlmann
 
 ----
 
 Date: 2018-10-26
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

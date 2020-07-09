@@ -1,7 +1,3 @@
-Tab1:
-
-----
-
 Title: Wir haben wieder für Euch geöffnet!
 
 ----
@@ -10,7 +6,7 @@ Date: 2020-04-23
 
 ----
 
-Subtitle: Ab Montag, dem 20. April sind wir wieder zu unseren regulären Öffnungszeiten für Euch da.
+Subtitle: Reguläre Öffnungszeiten
 
 ----
 
@@ -29,11 +25,3 @@ Wir nehmen all eure Bestellungen entgegen und liefern ab sofort versandkostenfre
 **Übrigens: Bei uns könnt Ihr alle lieferbaren Titel bestellen, auch außerhalb des Kinder- und Jugendbuchsortiments.**
 
 Spannende Bücher jetzt bequem bestellen per (link: https://fundevogel.de/kontakt text: Telefon target: blank), (link: https://fundevogel.de/kontakt text: Mail  target: blank) oder im (link: https://fundevogel.buchkatalog.de/ text: Onlineshop target: blank).
-
-----
-
-Tab2:
-
-----
-
-Seo:

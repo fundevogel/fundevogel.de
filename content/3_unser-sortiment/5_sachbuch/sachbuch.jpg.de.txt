@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Die Welt ist vielschichtig und Sachbücher helfen dabei, sie zu kennen und lieben zu lernen.
 
 ----
 
@@ -6,7 +6,7 @@ Source: Eigenmaterial
 
 ----
 
-Altattribute: Holzregale mit Kinderbüchern
+Altattribute: Holzregal mit dutzenden Sachbüchern
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Bei uns gibt es Sachbücher zu jedem Thema.
 
 ----
 

@@ -29,20 +29,12 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: Notre Calendrier des Événements
 
 ----
 
-Seodescription:
+Seodescription: Nous organisons toutes sortes d'événements liés au livre, des lectures et des tables de lecture pour les classes scolaires au festival de lecture Lirum-Larum.
 
 ----
 
 Date: 2017-02-10
-
-----
-
-Seo:
-
--
-  seo-title: "Veranstaltungskalender"
-  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"

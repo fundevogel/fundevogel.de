@@ -24,32 +24,8 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle: Fundevogel, bookstore for children and adolescents in Freiburg
 
 ----
 
-Seodescription: 
-
-----
-
-Handle: Welcome!
-
-----
-
-Subtitle: News from Fundevogel
-
-----
-
-Button: Load more news
-
-----
-
-Seo:
-
--
-  seo-title: "Kinder- und Jugendbuchhandlung Fundevogel in Freiburg"
-  seo-description: "Herzlich Willkommen im Fundevogel! Hier findet Ihr erlesene Schätze der Kinder- und Jugendliteratur, kompetente Beratung und Raum für gemütliches Stöbern."
-
-----
-
-Translations: 1
+Seodescription: Welcome to Fundevogel! Here you will find exquisite treasures of children's and youth literature, competent advice and space for comfortable browsing.

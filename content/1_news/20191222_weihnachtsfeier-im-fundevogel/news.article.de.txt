@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Weihnachtsfeier im Fundevogel
 
 ----
@@ -14,15 +10,7 @@ Subtitle: Unser Team in Weihnachtsstimmung
 
 ----
 
-Text: 
+Text:
 
-Bei Sekt und feinen Speisen feiert das Team vom Fundevogel ein erfolgreiches Weihnachtsgeschäft und ein spannendes Jahr 2019. 
+Bei Sekt und feinen Speisen feiert das Team vom Fundevogel ein erfolgreiches Weihnachtsgeschäft und ein spannendes Jahr 2019.
 Wir heben das Glas auf Euch alle und wünschen Euch ein frohes Fest!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

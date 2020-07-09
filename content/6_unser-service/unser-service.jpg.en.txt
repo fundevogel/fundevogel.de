@@ -1,4 +1,16 @@
-Template: image
+Titleattribute: Books open worlds!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Quote from Chinghiz Aitmatov at our front door
+
+----
+
+Caption-wanted: true
 
 ----
 
@@ -6,4 +18,4 @@ Caption: Enter the world of books!
 
 ----
 
-AltAttribute: Quote from Chinghiz Aitmatov at our front door
+Template: image

@@ -1,0 +1,36 @@
+Title: Novel
+
+----
+
+Slug: novels-and-stories
+
+----
+
+Text:
+
+## Stories about life
+First-time readers will find wonderful books on our shelves, such as the exciting stories about the lovable "Detective Gordon" and the school friend stories about Dunne by Rose Lagercrantz: with large letters, simple, clear texts and imaginative illustrations, they just make you want to start reading right away!
+
+For older children and adolescents, we have a wide range of novels of all genres: crime, adventure, fantasy and much more.
+
+----
+
+Builder:
+
+----
+
+Favorites:
+
+----
+
+Cover:
+
+- roman.jpg
+
+----
+
+Seotitle: Novels & Stories
+
+----
+
+Seodescription: We've got wonderful first-time reading books that just make you want to read, as well as many novels of all genres for older children and adolescents.

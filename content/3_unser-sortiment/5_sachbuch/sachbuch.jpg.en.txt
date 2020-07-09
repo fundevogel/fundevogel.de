@@ -1,0 +1,21 @@
+Titleattribute: The world is complex and non-fiction books help to get to know and learn to love it.
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Wooden shelf with dozens of non-fiction books
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: We have non-fiction books on every topic - ask us!
+
+----
+
+Template: image

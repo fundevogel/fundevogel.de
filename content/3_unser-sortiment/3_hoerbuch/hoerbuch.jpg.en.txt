@@ -1,0 +1,21 @@
+Titleattribute: Bilderbücher halten fit!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Shelf displaying various audiobooks
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Bilderbücher machen Spaß
+
+----
+
+Template: image

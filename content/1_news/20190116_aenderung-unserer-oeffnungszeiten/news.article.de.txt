@@ -2,7 +2,7 @@ Title: Neue Öffnungszeiten ab dem 28. Januar 2019
 
 ----
 
-Text: 
+Text:
 
 **Unsere Öffnungszeiten ab dem 28. Januar 2019
 Montag bis Freitag: 9:30 Uhr - 18:30 Uhr
@@ -11,32 +11,8 @@ Warum ändern wir unsere Öffnungszeiten? Das ist so: Unser Großhandelspartner 
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Änderung unserer Öffnungszeiten
 
 ----
 
 Date: 2019-01-16
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

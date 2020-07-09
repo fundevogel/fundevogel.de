@@ -1,0 +1,34 @@
+Title: Poetry
+
+----
+
+Slug: poetry
+
+----
+
+Text:
+
+## Poems for your soul
+Children love repetitions and rhymes and have a lot of fun playing with the language themselves: twisting letters and words, forming (nonsensical) rhymes and creating new words. We feature a fine selection on children's poems that bring language to life, arouse the joy of poetry and inspire imagination.
+
+----
+
+Builder:
+
+----
+
+Favorites:
+
+----
+
+Cover:
+
+- gedichtband.jpg
+
+----
+
+Seotitle: Poetry
+
+----
+
+Seodescription: Children love repetitions and rhymes and have a lot of fun twisting letters and words, forming (nonsensical) rhymes and creating new words.

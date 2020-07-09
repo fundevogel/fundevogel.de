@@ -6,32 +6,8 @@ Text: Das 25. LirumLarumLesefest ging am Sonntag - gebührend dem Anlass glamour
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Das große Finale des LirumLarumLesefestes im Stadtheater
 
 ----
 
 Date: 2018-10-26
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

@@ -38,32 +38,12 @@ Caption: C'est chez nous!
 
 ----
 
-Seotitle:
+Seotitle: À propos de nous
 
 ----
 
-Seodescription:
+Seodescription: Nous sommes une équipe colorée de libraires, d'éducateurs et de free-lances avec notre propre petit univers de littérature pour enfants et adolescents.
 
 ----
 
-Image:
-
-----
-
-Handle: Fundevogel
-
-----
-
-Seo:
-
--
-  seo-title: "Fundevogel & Team"
-  seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
-
-----
-
-Translations: 1
-
-----
-
-slug: fundevogel-et-team
+Slug: fundevogel-et-team

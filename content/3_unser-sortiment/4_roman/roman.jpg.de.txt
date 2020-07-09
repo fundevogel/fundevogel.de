@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Wir beraten euch gern zu Romanen für Kinder und junge Erwachsene.
 
 ----
 
@@ -6,7 +6,7 @@ Source: Eigenmaterial
 
 ----
 
-Altattribute: Holzregale mit Kinderbüchern
+Altattribute: Holzregal mit dutzenden Romanen und Erzählungen
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Bei uns gibt es eine breite Auswahl verschiedener Romane und Erzählungen.
 
 ----
 

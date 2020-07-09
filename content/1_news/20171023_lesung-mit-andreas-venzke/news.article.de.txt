@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Lesung mit Andreas Venzke
 
 ----
@@ -15,11 +11,3 @@ Subtitle: Mit dem Füchsleclub des SC Freiburg
 ----
 
 Text: Nach einer Führung durch das Schwarzwald-Stadion durften über hundert Kinder die Geschichte von Carlos hören: Andreas Venzke, der in Freiburg lebende Schriftsteller, hat aus einem seiner Kinderbücher gelesen: "Carlos kann doch Tore schießen".  Wie schnell die Zeit verging! Und hier der (link: https://www.scfreiburg.com/news/lirumlarumlesefest-beim-sc-freiburg text: Link target: blank) zu einem Artikel.
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

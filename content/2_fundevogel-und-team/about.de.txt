@@ -15,7 +15,7 @@ Einen solchen Zusammenhalt wünschen wir uns auch – sowohl untereinander im Te
 
 About-us:
 
-### Über uns
+## Über uns
 Wir sind ein bunt gemischtes Team aus Buchhändlerinnen, Pädagogen und Freischaffenden. Am Anfang, Mitte der 80er Jahre, stand eine Gruppe junger Leute mit großen Ideen und der Liebe zu Büchern. Nicht unwesentlich motiviert durch das Werk von Michael Ende, wollten sie die Welt der Kinder- und Jugendliteratur ernst nehmen und ihr mit einem besonderen Laden an der Schwelle zur Freiburger Innenstadtflut ein eigenes kleines Universum eröffnen. Noch heute da sind der Laden, die Liebe und die Idee – Einer, der blieb, und Andere, die kamen und kommen, um mit ihren Ideen dem Fundevogel immer neue Flügel wachsen zu lassen. So unterschiedlich, wie wir sind, treffen wir uns nicht immer im selben Punkt … doch Hand in Hand wird ein Kreis daraus, in dem wir uns sehr wohl fühlen – und Ihr hoffentlich ebenso!
 
 ----
@@ -38,24 +38,8 @@ Caption: So sieht's bei uns aus!
 
 ----
 
-Seotitle:
+Seotitle: Fundevogel & Team
 
 ----
 
-Seodescription:
-
-----
-
-Image:
-
-----
-
-Seo:
-
--
-  seo-title: "Fundevogel & Team"
-  seo-description: "Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur."
-
-----
-
-Translations: 1
+Seodescription: Wir sind ein bunt gemischtes Team aus BuchhändlerInnen, Pädagogen und Freischaffenden mit einem eigenen kleinen Universum der Kinder- und Jugendliteratur.

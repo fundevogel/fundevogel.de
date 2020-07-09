@@ -6,32 +6,8 @@ Text: Einmal im Jahr heißt es im Fundevogel: Bücher sortieren, Postkarten zäh
 
 ----
 
-Subtitle-wanted: true
-
-----
-
-Subtitle: 
+Subtitle:
 
 ----
 
 Date: 2018-12-31
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

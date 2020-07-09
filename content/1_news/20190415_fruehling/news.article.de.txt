@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Frühling
 
 ----
@@ -14,7 +10,7 @@ Subtitle: Ein Frühlingsgedicht
 
 ----
 
-Text: 
+Text:
 
 Die Amsel singt
 und dein Gummiball springt.
@@ -26,16 +22,8 @@ eine schnurgerade Bahn.
 Und ein alter Mann
 spazierengeht...
 Und dein Kreisel dreht sich rundherum.
-Und du weißt nicht, warum 
+Und du weißt nicht, warum
 du so fröhlich bist?
 Weil Frühling ist!
 
 *Ilse Kleberger*
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

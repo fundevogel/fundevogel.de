@@ -1,0 +1,21 @@
+Titleattribute: Helping children express feelings
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Wooden shelf, showing volumes of poetry
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Enter poetry!
+
+----
+
+Template: image

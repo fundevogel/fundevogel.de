@@ -1,9 +1,21 @@
+Titleattribute: We are looking for cooperation and partnerships to spark interest in books and literature.
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Six colourful meeple standing on the book "Ronia, the Robber's Daughter" by Michael Ende
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: We love working together with people who share our idea.
+
+----
+
 Template: image
-
-----
-
-Caption: We love working together with people who share our idea
-
-----
-
-AltAttribute: Six colourful meeples standing on the book Ronia, the Robber's Daughter

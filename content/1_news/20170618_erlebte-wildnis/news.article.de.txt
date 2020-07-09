@@ -10,11 +10,7 @@ Subtitle: Ein Sonntagsausflug
 
 ----
 
-Text: 
+Text:
 
-Ein gemeinsamer Ausflug führte uns, ehemalige und aktive Fundevögel, in eines der letzten Paradiese hier am Oberrhein. Auf einer Bootsfahrt erkundeten wir das Naturschutzgebiet Taubergießen mit seiner ursprünglichen Artenvielfalt und naturbelassenen Landschaft. 
+Ein gemeinsamer Ausflug führte uns, ehemalige und aktive Fundevögel, in eines der letzten Paradiese hier am Oberrhein. Auf einer Bootsfahrt erkundeten wir das Naturschutzgebiet Taubergießen mit seiner ursprünglichen Artenvielfalt und naturbelassenen Landschaft.
 Danach gab es ein kühlendes Bad und ein zünftiges Picknick.
-
-----
-
-Seo: 

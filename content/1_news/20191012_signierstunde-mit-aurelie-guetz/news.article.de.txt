@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Signierstunde mit Aurélie Guetz
 
 ----
@@ -14,15 +10,7 @@ Subtitle: Im Stadttheater
 
 ----
 
-Text: 
+Text:
 
-Liebe Kazhen-Freunde, 
+Liebe Kazhen-Freunde,
 am Sonntag um 14 Uhr freuen wir uns sehr Euch bei unserem Stand zur Signierstunde mit Aurélie Guetz begrüßen zu dürfen!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

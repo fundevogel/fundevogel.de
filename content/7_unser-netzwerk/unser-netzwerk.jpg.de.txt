@@ -1,8 +1,11 @@
-Titleattribute: 
+Titleattribute: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken.
+----
+
+Source: Eigenmaterial
 
 ----
 
-Altattribute: Sechs bunte Spielfiguren stehen auf dem Buch Ronja Räubertochter
+Altattribute: Sechs bunte Spielfiguren stehen auf dem Buch "Ronja Räubertochter" von Michael Ende
 
 ----
 
@@ -10,11 +13,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen
-
-----
-
-Source: 
+Caption: Wir arbeiten mit Partnern zusammen, die unsere Ideen teilen.
 
 ----
 

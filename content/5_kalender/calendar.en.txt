@@ -19,12 +19,12 @@ Perpage: 10
 
 ----
 
-Seo:
-
--
-  seo-title: "Veranstaltungskalender"
-  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"
+Slug: calendar
 
 ----
 
-slug: calendar
+Seotitle: Our Event Calendar
+
+----
+
+Seodescription: We organize all kinds of book-related events from readings and book tables for school classes to the Lirum-Larum reading festival - Be sure to stop by!

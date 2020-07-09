@@ -25,24 +25,8 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle: Veranstaltungsarchiv
 
 ----
 
-Seodescription: 
-
-----
-
-Subtitle: Alle vergangenen Veranstaltungen im Überblick
-
-----
-
-Button: Kommende Veranstaltungen
-
-----
-
-Translations: 1
-
-----
-
-Seo: 
+Seodescription: Hier findet ihr alle Informationen zu den vergangenen Veranstaltungen des Fundevogels.

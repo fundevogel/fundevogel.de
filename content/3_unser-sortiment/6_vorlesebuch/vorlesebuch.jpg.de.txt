@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Vorlesen schafft Nähe, Vertrauen und macht einfach Spaß!
 
 ----
 
@@ -6,7 +6,7 @@ Source: Eigenmaterial
 
 ----
 
-Altattribute: Holzregale mit Kinderbüchern
+Altattribute: Holzregal mit vielen Büchern.
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Gemeinsam Bücher lesen - eine schöne Erfahrung.
 
 ----
 

@@ -1,0 +1,50 @@
+Title: Picture book
+
+----
+
+Slug: picture-books
+
+----
+
+Text:
+
+## Enter the colorful world of picture books
+Come on a fantastic journey between the covers of our favorite picture books, whose colorful pictures and friendly residents invite you to marvel, discover, fantasize and linger:
+
+The picture book is the focus of the first years of reading - because "reading" does not need letters! Children look at the world in astonishment and explore it with joy with all their senses. For the little ones, we therefore have a lot of stimulating cloth and cardboard picture books that they can feel, fold, twist and explore with great pleasure.
+
+----
+
+Builder:
+
+-
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ## Imagery at your fingertips
+    We also have a great selection of entertaining picture books, in which even toddlers have a lot of fun participating in viewing and reading. Here you can, for example, rediscover and get to know a lot of animals and things from your everyday life, imitate animal sounds and noises, listen to the easily understandable rhymes and maybe even have a say and dream yourself into the beautiful and colorful worlds of images.
+
+    For kindergarten children we have a large selection of the most beautiful picture books: magically illustrated stories such as those of "Sleeping Tiger" by Pamela Zagarenski and Mary Logue, exciting "Hidden Object Books" like the ones from the series "All Around Bustletown" by Rotraut Susanne Berner, which invite you to discover and share stories, poetic picture books such as "Life" by Cynthia Rylan and Brendan Wenzel, which inspire dreaming and philosophizing and lots of funny stories like "I Am So Clever" by Mario Ramos.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1594218646752_320
+
+----
+
+Favorites:
+
+----
+
+Cover:
+
+- bilderbuch.jpg
+
+----
+
+Seotitle: Picture books
+
+----
+
+Seodescription: Come along on a fantastic journey between the covers of wonderful picture books, to their colorful scenery and friendly residents.

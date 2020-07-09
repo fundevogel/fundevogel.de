@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: MuseumsgARTen
 
 ----
@@ -14,15 +10,7 @@ Subtitle: Gemeinsames Gärtnern rund um das Museum
 
 ----
 
-Text: 
+Text:
 
-Am vergangenen Samstag wurde wieder gegärtnert! 
+Am vergangenen Samstag wurde wieder gegärtnert!
 Rund um das Museum für Neue Kunst und von diesem organisiert, sammelten sich die Nachbarn des Museums um gemeinsam Unkraut zu jäten, zu pflanzen und neue Hochbeete anzulegen. Auch unsere Kollegin aus dem Fundevogel stürzte sich in das Projekt und genoss einige Stunden Gartenarbeit mit den netten Menschen aus unserer Nachbarschaft. Nun dürfen wir bei jedem Blick aus unserer Buchhandlung die MuseumsgARTenkunst genießen und uns jeden Tag an der grünen Pracht rund um das Museum erfreuen.
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

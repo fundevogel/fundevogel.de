@@ -15,20 +15,20 @@ Short: Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktob
 
 Builder:
 
-- 
+-
   heading: 'Beispiel: Letztes Jahr'
   show_columns: 'false'
   horizontal_line: 'true'
   text_full: |
     ## Ein Blick zurück
     Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erzähltheater brachte die Künstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und große Zuhörer. Das Buch erzählt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem Übermut und Freude Farbe und Schwung in das Leben der ängstlichen Dame bringt.
-    
+
     Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.
   text_left: ""
   text_right: ""
   _key: text
   _uid: text_1593976797701_2760
-- 
+-
   heading: Eindrücke
   horizontal_line: 'false'
   gallery:
@@ -53,7 +53,7 @@ Builder:
     - wp_20171017_12_04_26_pro.jpg
   _key: gallery
   _uid: gallery_1593979450547_755
-- 
+-
   heading: Informationen
   show_columns: 'true'
   horizontal_line: 'false'
@@ -66,7 +66,7 @@ Builder:
     Überall in der Stadt finden Veranstaltungen statt, auch bei uns! Wir informieren euch rechtzeitig über unsere Webseite oder auf Wunsch auch (email: info@fundevogel.de text: per Mail).
   _key: text
   _uid: text_1593976833940_5166
-- 
+-
   info: |
     - Auf der (link: https://www.freiburg.de/pb/,Lde/230520.html text: offiziellen Seite target: blank) des Freiburger Lesefests findet ihr aktuelle Informationen.
     - Wenn es dann soweit ist, findet ihr tolle Veranstaltungstipps auch über das (link: https://theater.freiburg.de/de_DE/suche?q=lirum+larum text: Theater Freiburg target: blank) sowie das (link: https://literaturhaus-freiburg.de/?s=lirum+larum text: Literaturhaus target: blank) - und natürlich bei uns!
@@ -82,47 +82,12 @@ Cover:
 
 ----
 
-Seotitle: 
+Seotitle: Freiburger Kinderliteraturfest "Lirum Larum Lesefest"
 
 ----
 
-Seodescription: 
+Seodescription: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktober mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen tollen Mitmachaktionen.
 
 ----
 
-Handle: Lesefest
-
-----
-
-Details:
-
-## Ein Blick zurück
-Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erzähltheater brachte die Künstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und große Zuhörer. Das Buch erzählt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem Übermut und Freude Farbe und Schwung in das Leben der ängstlichen Dame bringt.
-
-Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.
-
-----
-
-Gallery: 
-
-----
-
-Left:
-
-### Aktuelle Situation
-Wir hoffen zwar, dass auch das 27. Lirum Larum Lesefest vom 3.-11. Oktober 2020 stattfindet, aufgrund der aktuellen Lage kann man aber nicht sicher sein.
-
-----
-
-Right:
-
-### Informationen
-Überall in der Stadt finden Veranstaltungen statt, auch bei uns! Wir informieren euch rechtzeitig über unsere Webseite oder auf Wunsch auch (email: info@fundevogel.de text: per Mail).
-
-----
-
-Info:
-
-- Auf der (link: https://www.freiburg.de/pb/,Lde/230520.html text: offiziellen Seite target: blank) des Freiburger Lesefests findet ihr aktuelle Informationen.
-- Wenn es dann soweit ist, findet ihr tolle Veranstaltungstipps auch über das (link: https://theater.freiburg.de/de_DE/suche?q=lirum+larum text: Theater Freiburg target: blank) sowie das (link: https://literaturhaus-freiburg.de/?s=lirum+larum text: Literaturhaus target: blank) - und natürlich bei uns!
-- Eine kurze Zusammenfassung zur Geschichte des Kinderliteraturfestivals gibt's (link: https://www.chilli-freiburg.de/findefuchs/25-jahre-und-kein-bisschen-erwachsen-lirum-larum-lesefest-feiert-jubilaeum text: hier target: blank).
+Handle: Lirum Larum

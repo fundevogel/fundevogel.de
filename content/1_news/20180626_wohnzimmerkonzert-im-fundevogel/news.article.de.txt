@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: "Wohnzimmerkonzert" im Fundevogel
 
 ----
@@ -14,16 +10,8 @@ Subtitle: Ein unvergesslicher Abend!
 
 ----
 
-Text: 
+Text:
 
-Einen wirklich unvergesslichen Abend durfte das Team vom Fundevogel am vergangenen Mittwoch erleben. Aus Anlass des Geburtstags unserer Kollegin Aida hatten wir den in Freiburg lebenden argentinischen Liedermacher Pablo Pérez, auch bekannt als Pablo Peña, zu Gast. Nachdem unsere Kollegin uns begeistert von dem Musiker vorgeschwärmt hatte, setzten wir alles in Bewegung, um ihn als Geburtstags-Überraschungsgast in den Fundevogel einzuladen. Und schon während des ersten Liedes konnten wir die Begeisterung unserer Kollegin verstehen. Pablo verzauberte uns alle mit wunderschönen Gitarrenklängen, seiner vollen Stimme und der guten Stimmung, die er mit seinem Gesang verbreitete. Ganz besonders gerührt war natürlich das Geburtstagskind. Diese Überraschung ist gelungen. 
+Einen wirklich unvergesslichen Abend durfte das Team vom Fundevogel am vergangenen Mittwoch erleben. Aus Anlass des Geburtstags unserer Kollegin Aida hatten wir den in Freiburg lebenden argentinischen Liedermacher Pablo Pérez, auch bekannt als Pablo Peña, zu Gast. Nachdem unsere Kollegin uns begeistert von dem Musiker vorgeschwärmt hatte, setzten wir alles in Bewegung, um ihn als Geburtstags-Überraschungsgast in den Fundevogel einzuladen. Und schon während des ersten Liedes konnten wir die Begeisterung unserer Kollegin verstehen. Pablo verzauberte uns alle mit wunderschönen Gitarrenklängen, seiner vollen Stimme und der guten Stimmung, die er mit seinem Gesang verbreitete. Ganz besonders gerührt war natürlich das Geburtstagskind. Diese Überraschung ist gelungen.
 Wir bedanken uns von ganzem Herzen bei Pablo für seinen spontanen Auftritt und seine herrliche Musik.
 Wenn ihr Pablo Perez selbst erleben und auf eure Feier einladen wollt, dann setzt euch mit ihm in Verbindung unter 0152-31050119 oder gauchopenia19@gmail.de.
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

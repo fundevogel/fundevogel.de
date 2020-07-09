@@ -11,7 +11,3 @@ Subtitle: ...
 ----
 
 Text: Der Buchhändler, der hinter den Kisten verschwand und in Schulbüchern versank
-
-----
-
-Seo: 

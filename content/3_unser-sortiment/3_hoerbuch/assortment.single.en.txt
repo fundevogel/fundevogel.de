@@ -1,0 +1,34 @@
+Title: Audiobook
+
+----
+
+Slug: audiobooks
+
+----
+
+Text:
+
+## A touch of magic
+Audiobooks are able to take their listeners on an exciting, acoustic journey into their stories through the emphatic reading of one or more readers, ambient background music and sounds. From everyday stories, thrillers, fairy tales and fantasy novels to picture book adaptations and non-fiction books, there are audiobooks for all ages and preferences.
+
+----
+
+Builder:
+
+----
+
+Favorites:
+
+----
+
+Cover:
+
+- hoerbuch.jpg
+
+----
+
+Seotitle: Audiobooks
+
+----
+
+Seodescription: Audiobooks may take us on an acoustic journey into their stories through the emphatic reading of one or more readers, ambient background music and sounds.

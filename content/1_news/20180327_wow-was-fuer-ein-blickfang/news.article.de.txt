@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Wow!! Was für ein Blickfang!
 
 ----
@@ -15,11 +11,3 @@ Subtitle: So etwas kriegt man nicht alle Tage geschenkt
 ----
 
 Text: Seit heute ziert unerwartet ein neues Regal unsere Wand: eine Wandbehang gepatcht mit Buchrücken aus schier unzähligen Stoffen und Textiletiketten. Das reinste Kunstwerk geschaffen von der Quilt- und Patchworkkünstlerin Karen Reich. Im Namen aller Fundevögel: Danke für dieses einzigartige Geschenk, als sei es von Feenhand gewirkt!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

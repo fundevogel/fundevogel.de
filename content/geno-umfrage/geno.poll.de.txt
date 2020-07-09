@@ -17,7 +17,9 @@ Whatsnext:
 
 <span class="inline-block mt-6 font-normal font-small-caps text-xl text-orange-medium">Ihr Fundevogel-Team</span>
 ----
-Seo:
--
-  seo-title: "Geno-Umfrage"
-  seo-description: "Ihre Meinung ist uns wichtig - wir haben ein offenes Ohr für Ihr Anliegen!"
+
+Seotitle: Geno-Umfrage
+
+----
+
+Seodescription: "Ihre Meinung ist uns wichtig - wir haben ein offenes Ohr für Ihr Anliegen!"

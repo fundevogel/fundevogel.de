@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: Ende einer Dienstfahrt
 
 ----
@@ -15,11 +11,3 @@ Subtitle: Leere Mehrwegkisten
 ----
 
 Text: So langsam geht auch das Schulbuchgeschäft zu Ende und unsere Transportboxen können nach unzähligen CO2-freien Lieferungen zurück ins Depot. Keine Atempause, das weihnachtliche Ladengeschäft ruft!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

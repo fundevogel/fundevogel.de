@@ -1,7 +1,3 @@
-Tab1: 
-
-----
-
 Title: An einem Frühlingssonntag ...
 
 ----
@@ -15,11 +11,3 @@ Subtitle: Teamausflug nach Straßburg!
 ----
 
 Text: Gemeinsam sind wir den Sonnenscheinen gefolgt und in der schönen, zum faulenzen einladenden Eslässischen Stadt Straßburg gelandet. Der Frühling kann beginnen!
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

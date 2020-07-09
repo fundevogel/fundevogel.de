@@ -34,11 +34,3 @@ Seodescription: Wir veranstalten von Lesungen und Büchertischen für Schulklass
 ----
 
 Date: 2017-02-10
-
-----
-
-Seo:
-
--
-  seo-title: "Veranstaltungskalender"
-  seo-description: "Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!"

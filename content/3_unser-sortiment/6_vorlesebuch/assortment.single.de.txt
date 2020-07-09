@@ -11,6 +11,10 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
+Builder:
+
+----
+
 Favorites:
 
 -
@@ -221,4 +225,4 @@ Seotitle: Vorlesebücher
 
 ----
 
-Seodescription: Wir lieben Vorlesebücher!
+Seodescription: Wir haben für euch viele tolle Vorlesebücher ausgesucht, mit denen Kinder und Eltern gemeinsam neue Welten entdecken und erleben können.

@@ -1,7 +1,3 @@
-Tab1:
-
-----
-
 Title: Bestellung im Onlineshop
 
 ----
@@ -32,11 +28,3 @@ Deshalb möchten wir Ihnen den zweiten Lieferweg nahelegen, die Bestellung der B
 Wir hoffen, mit diesen Informationen zum Verständnis der aktuellen Situation beitragen zu können. Auch möchten wir uns bei Allen bedanken, die uns in diesen Zeiten mit einer Bestellung unterstützen.
 
 Bleiben Sie gesund, und  -  auf ein baldiges Wiedersehen im Fundevogel!
-
-----
-
-Tab2:
-
-----
-
-Seo:

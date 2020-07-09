@@ -6,32 +6,8 @@ Text: "Und du? Wo liest du gerne?" - Diese Frage konntet ihr in den letzten Woch
 
 ----
 
-Subtitle-wanted: true
-
-----
-
 Subtitle: Wo lesen am meisten Spaß macht
 
 ----
 
 Date: 2018-09-07
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Tab1: 
-
-----
-
-Tab2: 
-
-----
-
-Seo: 

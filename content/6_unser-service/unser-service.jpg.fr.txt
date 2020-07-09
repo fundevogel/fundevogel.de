@@ -1,12 +1,12 @@
-Titleattribute: 
+Titleattribute: Livres des mondes ouverts!
 
 ----
 
-Source: 
+Source: Eigenmaterial
 
 ----
 
-Altattribute: Zitat von Tschingis Aitmatow an unserer Tür
+Altattribute: La citation de Chingis Aitmatov à notre porte
 
 ----
 

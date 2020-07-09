@@ -23,7 +23,7 @@ Bike: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribo
 
 ----
 
-Auto: Si venez en voiture, le plus simple est d'emprunter la Wallstraße, jusqu'à notre rue, la Marienstraße.  Vous pouvez stationner juste devant la librairie pour charger ou décharger des livres, si besoin. Pour vous garer, il y a plusieurs parkings aux alentours : le Schlossberggarage ou le Schwabentorgarage (tous deux à 5 minutes à pieds).
+Car: Si venez en voiture, le plus simple est d'emprunter la Wallstraße, jusqu'à notre rue, la Marienstraße.  Vous pouvez stationner juste devant la librairie pour charger ou décharger des livres, si besoin. Pour vous garer, il y a plusieurs parkings aux alentours : le Schlossberggarage ou le Schwabentorgarage (tous deux à 5 minutes à pieds).
 
 ----
 
@@ -35,7 +35,7 @@ Seotitle: Contact
 
 ----
 
-Seodescription: Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218.
+Seodescription: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribourg.
 
 ----
 

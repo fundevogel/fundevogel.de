@@ -38,12 +38,8 @@ Cards:
 
 ----
 
-Seotitle: Our service
+Seotitle: Our Service
 
 ----
 
 Seodescription: Have a look around: Before you lies a world full of adventure and mystery - and we are there to guide you through the mist of written wonder!
-
-----
-
-Handle: Service
