@@ -23,7 +23,7 @@
                     width="<?= $cover->width() ?>"
                     height="<?= $cover->height() ?>"
                 >
-                <figcaption class="py-2 left-0 right-0 sketch text-2xl md:text-5xl text-white text-center<?php e($category->isOpen(), ' bg-orange-medium ',  ' bg-red-light group-hover:bg-red-medium ') ?>absolute select-none transition-all" style="bottom: 0.75rem"><?= $category->title()->html() ?></figcaption>
+                <figcaption class="py-1 xs:py-2 left-0 right-0 sketch text-lg xs:text-2xl md:text-5xl text-white text-center<?php e($category->isOpen(), ' bg-orange-medium ',  ' bg-red-light group-hover:bg-red-medium ') ?>absolute select-none transition-all" style="bottom: 0.75rem"><?= $category->title()->html() ?></figcaption>
             <?php e(!$category->isOpen(), '</a>') ?>
         </figure>
     </div>
