@@ -1,5 +1,5 @@
 <div class="flex flex-wrap">
-    <?php foreach (page('unser-sortiment')->children()->listed()->onlyTranslated() as $category) : ?>
+    <?php foreach (page('unser-sortiment')->children()->listed()->sortBy('title', 'asc')->onlyTranslated() as $category) : ?>
     <?php
         if ($image = $category->cover()->toFile()) :
         $titleAttribute = $image->titleAttribute()->html();

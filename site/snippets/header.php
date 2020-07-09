@@ -58,25 +58,26 @@
                 <div class="mt-12 pt-4 bg-yellow-dark">
                     <div class="container">
                         <div class="flex items-end justify-center sm:justify-start">
+                            <?php $image = new Asset('assets/images/logo.png'); ?>
                             <img
                                 class="w-24 md:w-32 lg:w-auto -mb-4 md:-mb-8 mr-4 hidden sm:inline z-30"
-                                src="<?= (new Asset('assets/images/logo.png'))->url() ?>"
+                                src="<?= $image->url() ?>"
                                 title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo"
-                                width="175"
-                                height="135"
+                                width="<?= $image->width() ?>"
+                                height="<?= $image->height() ?>"
                             >
                             <div class="flex flex-col items-center md:items-start leading-none">
                                 <h1 class="sketch tracking-wide <?php e($page->isHomePage(), ' text-7xl sm:text-site-heading', ' text-6xl sm:text-7xl lg:text-page-heading') ?>">
                                     <?php
-                                    if ($page->isChildOf('lesetipps')) {
-                                        echo page('lesetipps')->title()->html();
-                                    } elseif ($page->slug() == 'vergangene-veranstaltungen') {
-                                        echo 'Kalenderarchiv';
-                                    } elseif ($page->isHomePage()) {
-                                        echo 'Fundevogel';
-                                    } else {
-                                        echo $page->title()->html();
-                                    }
+                                        if ($page->intendedTemplate() == 'lesetipps.article') {
+                                            echo page('lesetipps')->title()->html();
+                                        } elseif ($page->slug() == 'vergangene-veranstaltungen') {
+                                            echo 'Kalenderarchiv';
+                                        } elseif ($page->isHomePage()) {
+                                            echo 'Fundevogel';
+                                        } else {
+                                            echo $page->title()->html();
+                                        }
                                     ?>
                                 </h1>
                                 <?php if ($page->isHomePage()) : ?>

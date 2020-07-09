@@ -146,6 +146,6 @@
     <?php endif ?>
 </article>
 
-<?php if ($page->hasTranslatedSiblings()) snippet('lesetipps/prevnext') ?>#
+<?php if ($page->hasTranslatedSiblings()) snippet('lesetipps/prevnext') ?>
 
 <?php snippet('footer') ?>

@@ -11,8 +11,10 @@
             </div>
         </div>
     </header>
+    <?php if ($page->builder()->isNotEmpty()) : ?>
     <hr>
     <?php snippet('blocks') ?>
+    <?php endif ?>
     <?php if ($favorites->isNotEmpty()) : ?>
     <aside class="wave">
         <?= useSeparator('orange-light', 'top-reversed') ?>
