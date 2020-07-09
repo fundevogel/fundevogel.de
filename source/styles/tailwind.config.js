@@ -13,7 +13,7 @@ module.exports = {
           // Colors used for SVG separator
           'text-orange-light',
           'text-yellow-dark',
-          // Colors used for SVG separator
+          // Margins used for SVG separator
           '-mt-px',
           '-mb-px',
         ],
@@ -21,7 +21,7 @@ module.exports = {
     },
     theme: {
       screens: {
-        xs: '480',
+        xs: '480px',
         sm: '640px',
         md: '768px',
         lg: '1024px',
