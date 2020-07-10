@@ -90,6 +90,11 @@ tabs:
           de: URL der Shopseite
           en: Shop URL
         type: url
+        width: 2/3
+
+      lesepeter:
+        label: LesePeter
+        type: textarea
 
       doctor:
         type: doctor

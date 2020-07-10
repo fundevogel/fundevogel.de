@@ -4,6 +4,7 @@
     <header class="container">
         <time datetime="<?= $page->date()->toDate('Y-m-d') ?>"><?= $page->date()->toDate('d.m.Y') ?></time>
         <h2><?= $page->title()->html() ?></h2>
+        <?php if ($page->isLesepeter()->bool()) snippet('lesepeter/intro') ?>
         <?= $page->text()->kt() ?>
     </header>
     <aside class="wave">
@@ -144,6 +145,7 @@
         <?= $page->conclusion()->kt() ?>
     </section>
     <?php endif ?>
+    <?php if ($page->isLesepeter()->bool()) snippet('lesepeter/about') ?>
 </article>
 
 <?php if ($page->hasTranslatedSiblings()) snippet('lesetipps/prevnext') ?>

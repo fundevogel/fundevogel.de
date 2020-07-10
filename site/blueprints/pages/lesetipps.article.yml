@@ -21,6 +21,14 @@ tabs:
           en: Verdict
         type: textarea
 
+      conclusion:
+        label:
+          de: Zusammenfassung
+          en: Summary
+        type: textarea
+        when:
+          conclusion_wanted: true
+
     sidebar:
       sidebar_fields:
         type: fields
@@ -36,13 +44,23 @@ tabs:
               de: Zusammenfassung?
               en: Conclusion?
 
-          conclusion:
+          isLesepeter:
+            extends: fields/toggle
+            label: LesePeter?
+
+          lesepeter:
             label:
-              de: Zusammenfassung
-              en: Summary
-            type: textarea
+              de: LesePeter-Ausgabe
+              en: LesePeter-Edition
+            type: text
             when:
-              conclusion_wanted: true
+              isLesepeter: true
+
+          leselink:
+            label: LesePeter-Link
+            type: url
+            when:
+              isLesepeter: true
 
   # Reviewed book
   tab_book:
