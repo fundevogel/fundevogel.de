@@ -1,12 +1,20 @@
-Title: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
+Title: Warum gibt es uns?
 
 ----
 
-Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? Zwischen diesen beiden Fragen werden grundlegende, durchaus schwierige naturwissenschaftliche Zusammenhänge kinderleicht erklärt: von chemischen Prozessen über die Relativitätstheorie bis hin zu Fragen der Zukunftsforschung. Und das nicht nur mit wissenschaftlicher Genauigkeit, sondern immer auch mit einem Augenzwinkern und anschaulichen Beispielen aus dem Alltag. Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende  farbige Bebilderung, die dies herausragende Sachbuch abrundet.
+Text:
+
+Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? Zwischen diesen beiden Fragen werden grundlegende, durchaus schwierige naturwissenschaftliche Zusammenhänge kinderleicht erklärt: von chemischen Prozessen über die Relativitätstheorie bis hin zu Fragen der Zukunftsforschung. Und das nicht nur mit wissenschaftlicher Genauigkeit, sondern immer auch mit einem Augenzwinkern und anschaulichen Beispielen aus dem Alltag.
+
+Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
 
 ----
 
-Verdict:
+Verdict: 
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: true
+
+----
+
+Lesepeter: März 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/johan-olsens-sachbuch-warum-gibt-es-uns-ausgezeichnet
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -46,11 +66,11 @@ Illustrator: Lara Paulussen
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -74,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kindersachbuch/Jugendsachbuch
+Categories: Sachbuch
 
 ----
 
-Topics: Naturwissenschaft
+Topics: Naturwissenschaft, Weltall, Urknall, Evolution, Quantenmechanik
 
 ----
 

@@ -35,18 +35,18 @@ tabs:
         fields:
           date: fields/date
 
-      sidebar_files:
-        type: fields
-        fields:
           conclusion_wanted:
             extends: fields/toggle
             label:
               de: Zusammenfassung?
               en: Conclusion?
+            width: 1/4
 
-          isLesepeter:
+          hasLesepeter:
             extends: fields/toggle
-            label: LesePeter?
+            label:
+              de: LesePeter erhalten?
+              en: LesePeter received?
 
           lesepeter:
             label:
@@ -54,13 +54,26 @@ tabs:
               en: LesePeter-Edition
             type: text
             when:
-              isLesepeter: true
+              hasLesepeter: true
 
           leselink:
             label: LesePeter-Link
             type: url
             when:
-              isLesepeter: true
+              hasLesepeter: true
+
+          isLesepeter:
+            extends: fields/toggle
+            label:
+              de: Rezension
+              en: Review
+            text:
+              - Füchsle
+              - LesePeter
+            when:
+              hasLesepeter: true
+
+      sidebar_files: false
 
   # Reviewed book
   tab_book:

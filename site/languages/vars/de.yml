@@ -83,7 +83,8 @@ wie: wie
 Buch/Bücher:
   one: '{{ count }} Buch'
   other: '{{ count }} Bücher'
-Einleitung Lesepeter: 'Die Veröffentlichung dieses Lesetipps erfolgt mit freundlicher Genehmigung der Arbeitsgemeinschaft Jugendliteratur und Medien, die Erstveröffentlichung findet ihr <a href="{link}" target="_blank">hier</a>.'
+Einleitung LesePeter (Rezension): 'Die Veröffentlichung dieses Lesetipps erfolgt mit freundlicher Genehmigung der Arbeitsgemeinschaft Jugendliteratur und Medien, die Erstveröffentlichung findet ihr <a href="{link}" target="_blank">hier</a>.'
+Einleitung LesePeter (Füchsle): 'Dieser Lesetipp erhielt die Auszeichnung "LesePeter" der Arbeitsgemeinschaft Jugendliteratur und Medien, mit der herausragende Bücher gewürdigt werden, die Begründung der Jury gibt es <a href="{link}" target="_blank">hier</a>.'
 Was ist der "LesePeter": Was ist der "LesePeter"?
 
 # Calendar: headings

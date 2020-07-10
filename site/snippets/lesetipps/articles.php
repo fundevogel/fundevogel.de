@@ -36,7 +36,7 @@
         </a>
     </div>
     <div class="flex-1 md:ml-10 relative">
-        <?php if ($lesetipp->isLesepeter()->bool()) : ?>
+        <?php if ($lesetipp->hasLesepeter()->bool()) : ?>
         <?= useSVG('LesePeter ' . $lesetipp->lesepeter()->html(), 'js-tippy w-16 h-16 absolute right-0', 'lesepeter', 'style="top: -1rem"') ?>
         <?php endif ?>
         <time datetime="<?= $lesetipp->date()->toDate('Y-m-d') ?>"><?= $lesetipp->date()->toDate('d.m.Y') ?></time>

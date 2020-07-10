@@ -1,0 +1,13 @@
+Titleattribute: "Hallo, Herr Eisbär!" von Maria Farrer
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Hallo, Herr Eisbär!" von Maria Farrer
+
+----
+
+Template: image

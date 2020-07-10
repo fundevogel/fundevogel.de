@@ -4,7 +4,7 @@
     <header class="container">
         <time datetime="<?= $page->date()->toDate('Y-m-d') ?>"><?= $page->date()->toDate('d.m.Y') ?></time>
         <h2><?= $page->title()->html() ?></h2>
-        <?php if ($page->isLesepeter()->bool()) snippet('lesetipps/lesepeter/intro') ?>
+        <?php if ($page->hasLesepeter()->bool()) snippet('lesetipps/lesepeter/intro') ?>
         <?= $page->text()->kt() ?>
     </header>
     <aside class="wave">

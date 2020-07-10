@@ -1,0 +1,115 @@
+Title: Hallo, Herr Eisbär!
+
+----
+
+Text:
+
+Es gibt einen Fachbegriff für sie, die Geschwister von besonderen Kindern: Schattenkinder. Aufgrund der speziellen Bedürfnisse und Herausforderungen, die Kinder mit Auffälligkeiten mit sich bringen, kann es allzu schnell passieren, dass ihre Geschwister sich zurücknehmen, ihre Anliegen selten zum Ausdruck bringen und damit leiser sind, als es eigentlich gut für sie wäre. So ein Kind ist Arthur, der sich in seiner Familie oft einsam, unverstanden und ungerecht behandelt fühlt. Sein Bruder Liam reagiert auf äußere Reize wie Geräusche sehr empfindlich und bereits kleine Veränderungen lösen bei ihm heftige Reaktionen aus. Das erfordert ein hohes Maß an Rücksichtnahme, zu der Arthur nach einer Schlüsselsituation nicht mehr bereit ist. Er will nur noch eines: So schnell wie möglich raus aus dieser Familie, weg von seinem schrecklichen Bruder!
+
+Ganz unerwartet steht in diesem Moment ein Eisbär in der Haustür und wirbelt die festgefahrenen Familienstrukturen ordentlich durcheinander. Bei den Kindern und Erwachsenen in Arthurs Umfeld löst das Tier die unterschiedlichsten Reaktionen aus. Während Herr Eisbär für die einen ganz selbstverständlich dazugehört, reagieren andere verunsichert oder abwehrend. So zeigen sich Parallelen zwischen dem riesigen, bedrohlichen Eisbären und Liam. Beide fallen mit ihrer Einzigartigkeit auf und erfahren dabei nicht immer einen toleranten Umgang seitens ihrer Umwelt. Am Schluss des Buches sind die Rahmenbedingungen ganz ähnlich wie zuvor, doch etwas ganz Entscheidendes hat sich verändert. Arthur hat mithilfe des Eisbären gelernt, seinen Bruder mit dessen Besonderheiten anzunehmen und wertzuschätzen. Sowohl in Arthurs Fußballverein als auch in der Familie ist der Zusammenhalt spürbar besser. Und Herr Eisbär macht sich auf den Weg zur nächsten Familie, die ihn braucht.
+
+----
+
+Verdict: Liam ist ein besonderes Kind. Schon mit kleinen Veränderungen der täglichen Routine kommt er nur schlecht zurecht und die ganze Familie muss Rücksicht auf ihn nehmen. Darunter leidet vor allem sein Bruder Arthur, der quasi in letzter Sekunde Hilfe von einem Eisbären erhält. Ein ebenso ernsthaftes wie humorvolles Kinderbuch, in dem die Empfindungen des Geschwisterkindes von einem Autisten feinfühlig zum Ausdruck kommen.
+
+----
+
+Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingeflochten sind, und der Entwicklung des Protagonisten überzeugt das Layout des Kinderbuches. Sätze schwingen sich um das Bild oder steigen treppenförmig bergab, während starken Emotionen, wie Wut, an entscheidender Stelle mit großen Buchstaben Ausdruck verliehen wird. Text und Schwarzweißillustrationen bilden eine gelungene Einheit. Ganz im Sinne von Inklusion und damit im Einklang mit dem Buchinhalt ermöglicht die große Schrift und verhältnismäßig einfache Sprache vielen Kindern, auch Leseanfängerinnen und Leseanfängern, einen Zugang zum Buch. Die Erzählung ist unter gleichlautendem Titel bei *Hörcompany* als Hörbuch erschienen.
+
+----
+
+Date: 2020-05-04
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: Mai 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-herr-eisbaer-ausgezeichnet
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-407-81232-2
+
+----
+
+Shop:
+
+----
+
+Book-title: Hallo, Herr Eisbär!
+
+----
+
+Book-subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
+
+----
+
+Author: Maria Farrer
+
+----
+
+Illustrator: Daniel Rieley
+
+----
+
+Translator:
+
+----
+
+Participants:
+
+----
+
+Page-count: 220
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendliteratur
+
+----
+
+Topics: Geschwister / Geschwisterbeziehung
+
+----
+
+Cover:
+
+- hallo-herr-eisbaer_maria-farrer.jpg
+
+----
+
+Seotitle: Hallo, Herr Eisbär!
+
+----
+
+Seodescription:
