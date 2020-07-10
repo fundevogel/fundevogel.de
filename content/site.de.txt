@@ -10,6 +10,14 @@ Shop: http://shop.fundevogel.de
 
 ----
 
-Fallback: 
+Lesepeter:
+
+Die Auszeichnung "LesePeter" wird monatlich von der (link: https://www.ajum.de text: Arbeitsgemeinschaft Jugendliteratur und Medien target: blank) (AJuM) vergeben und würdigt herausragende Bücher. Die Vergabe erfolgt abwechselnd in den Sparten *Kinderbuch*, *Jugendbuch*, *Sachbuch* und *Bilderbuch* - alle Preisträger findet ihr (link: https://www.ajum.de/html/Lesepeter/chronos.htm text: hier target: blank).
+
+Die AJuM engagiert sich bundesweit für Leseförderung und Medienbildung in Kindergarten, Schule, Bibliothek, Hort, Hochschule und anderen Einrichtungen und ist Teil der (short: GEW desc: Gewerkschaft Erziehung und Wissenschaft color: orange).
+
+----
+
+Fallback:
 
 - fallback.png
