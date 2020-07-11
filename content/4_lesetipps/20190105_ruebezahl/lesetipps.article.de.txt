@@ -1,0 +1,124 @@
+Title: Rübezahl
+
+----
+
+Text:
+
+Rübezahl ist eine sagenumwobene Gestalt aus dem Riesengebirge, deren Ursprünge bis ins 15. Jahrhundert zurückgehen. Rübezahl ist ein Berggeist, ein Zauberer, der im vorliegenden Buch sehr vielseitig, beinahe widersprüchlich dargestellt wird. Er ist der Herr des Riesengebirges und weit darüber hinaus bekannt. Der Magister Johannes Pretorias (1630-1680) sammelte die Sagen rings um die literarische Figur und schrieb sie nieder. Möglicherweise veränderte er sie dabei oder erfand selbst einige davon. Im Jahr 1920 erschienen diese im Insel-Verlag in einer Reprint-Ausgabe, welche die Grundlage für das Buch "Rübezahl - Ein Geist? Ein Gott? Ein Eulenspiegel" (Lychatz Verlag) bildet. Darin sind jeweils auf der linken Buchseite die Originaltexte aus dem Insel-Verlag abgedruckt und auf der rechten Seite deren Übertragung in eine (geringfügig) modernere Sprache. Von diesen Texten wurde ungefähr ein Drittel ausgewählt und in der Fassung für Kinder und Jugendliche mit dem Titel "Rübezahl, neu erzählt" (Lychatz Verlag) abermals sprachlich angepasst und ausgebaut. Lediglich die Geschichte über die Herkunft von Rübezahls Namen lässt sich auf August Museum zurückführen.
+
+Als Rahmenhandlung treffen wir auf einen Geschichtenerzähler, der "vor langer, langer Zeit" als Wanderer bei einer jungen Witwe und deren Kindern Grete und Friedrich um Unterkunft und Essen bittet. Freundlich nehmen sie den Unbekannten auf und verlangen als Bezahlung eine Geschichte, worauf die erste Erzählung mit Rübezahl folgt, der die Familie begeistert lauscht. Drei Tage und Nächte bleibt der Gast im Haus und jeden Morgen und Abend erzählt er weitere Episoden. Diese sind teilweise mit konkreten Jahreszahlen zeitgeschichtlich eingeordnet und von 1620 bis 1662 während und nach dem 30-jährigen Krieg (1618-1648) angesiedelt. So sind einige Verhaltensweisen und Taten Rübezahls nur im Kontext seiner Zeit verständlich, was über die Gespräche zwischen dem Erzähler und der Familie gekonnt vermittelt wird. In den Episoden erscheint uns Rübezahl als ausgesprochen wandlungsfähiges Wesen, das verschiedene Gestalten, selbst die lebloser Dinge, annehmen kann.
+
+----
+
+Verdict: Rübezahl ist eine Sagengestalt aus dem Riesengebirge, die immer mehr in Vergessenheit gerät, sofern es nicht Kinderbücher wie dieses gibt. Als Grundlage dienten die Rübezahl-Sagen von Johannes Praetorius, publiziert im Jahr 1920, von denen etwa ein Drittel ausgewählt und mit großer Sorgfalt in eine modernere Sprache übertragen wurde.
+
+----
+
+Conclusion:
+
+Ebenso wechselhaft wie sein Äußeres ist Rübezahls Wesen. Mal freundlich und einfühlsam zeigt er sich schon im nächsten Moment als herablassendes und herrisches Wesen, das in seiner Langeweile mit den Menschen spielt, die zufällig in seinem Gebirge sind. Wenn er ihnen Streiche spielt, erinnert er an Till Eulenspiegel, als er aus Holz Gold werden lässt, an Rumpelstilzchen. Wiederholt finden sich Bezüge zu anderen literarischen Werken, was den Reiz des Kinderbuches für Erwachsene erhöht.
+
+Rübezahls grobe und brutale Seite bleibt nicht unkommentiert, meist sind es die beiden Kinder oder deren Mutter, die moralisch eingreifen und wieder zurechtrücken. Selbst kurze philosophische Gespräche flackern zwischen ihnen auf und durch die zusätzlichen Erklärungen sowohl innerhalb der Episoden als auch durch die Gespräche wird ein Glossar für altmodische und weniger bekannte Begriffe wie "Junker" oder "Timpfe" überflüssig.
+
+Während die zeitliche und räumliche Verortung der Sagen zumindest annähernd bekannt ist, finden sich keine näheren Angaben darüber, wann und wo der Erzähler auf die Familie trifft. Ihr Haus steht in einem kleinen Dorf am Rande von Bergen und eine der Episoden liegt nach Aussage des Geschichtenerzählers 212 Jahren zurück. Außerdem ist der Mann und Vater drei Jahre zuvor in einem Krieg ums Leben gekommen.
+
+"Rübezahl, neu erzählt" bietet sich für den Literaturunterricht in der Schule im Bereich Sagen an, da die alten Texte mit großer Sorgfalt überzeugend übertragen wurden und so der ursprüngliche Geist, wie ihn Johannes Praetorius hinterließ, erhalten bleibt.
+"Aber ob es Geister wirklich gibt oder ob sie nur in unseren Köpfen herumgeistern, das weiß niemand so genau." (S. 82)
+
+----
+
+Date: 2019-01-05
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: Januar 2019
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201901.html
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-942929-67-7
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001486061/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Bachmann/Ruebezahl
+
+----
+
+Book-title: Rübezahl
+
+----
+
+Book-subtitle: für die Jugend neu erzählt
+
+----
+
+Author: Thomas Bachmann
+
+----
+
+Illustrator: Hetty Krist
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 110
+
+----
+
+Publisher: Lychatz Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Kinder-/Jugendlit.
+
+----
+
+Topics: Rübezahl, Riesen
+
+----
+
+Cover:
+
+- ruebezahl_thomas-bachmann.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

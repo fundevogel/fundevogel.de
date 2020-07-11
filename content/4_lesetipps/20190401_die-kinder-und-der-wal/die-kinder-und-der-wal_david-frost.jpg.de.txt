@@ -1,0 +1,21 @@
+Titleattribute: "Die Kinder und der Wal" von David Frost
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Kinder und der Wal" von David Frost
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

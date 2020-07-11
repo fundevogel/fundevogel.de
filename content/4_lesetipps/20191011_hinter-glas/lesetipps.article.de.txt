@@ -1,0 +1,121 @@
+Title: Hinter Glas
+
+----
+
+Text:
+
+Das Leben von Alice ist aus den Fugen geraten und liegt buchstäblich wie ein zerbrochener Spiegel in tausend Scherben vor ihr. In 24 Spiegelscherben-Kapiteln - gerahmt von einem richtungsweisenden Prolog sowie einem resümierenden Epilog - schildert die junge Ich-Erzählerin die Emanzipation aus ihrem von Gewalt geprägten Elternhaus. Reflektiert und schamlos beschreibt sie, wie sich der Blick auf die Welt im Laufe ihres individuellen Reifeprozesses verändert. Durch diesen Entwicklungsprozess und der positiven Wendung kann der Roman eindeutig als Coming-of-Age-Erzählung typisiert werden.
+
+Der Titel "Hinter Glas" ist programmatisch. Alice sitzt in einem goldenen Käfig: Ihre Eltern sind wohlhabende Menschen und bieten ihrer Tochter ein luxuriöses Leben in einer schönen Villa mit viel Reichtum. Doch der hübsche Schein trügt, denn in Wirklichkeit herrschen hinter der Fassade brutale Umgangsweisen. Der tyrannische Großvater unterdrückt die gesamte Familie und so sitzen sowohl Alice als auch ihre Eltern in einem Glashaus, das jederzeit zerstört werden kann. Allein die Tochter schafft es, zunächst durch die Beziehung zu dem neuen Schulkameraden Niko, aus dem ritualisierten Teufelskreis auszubrechen und überzeugt schlussendlich sogar ihre Eltern davon mitzugehen. Aus eigener Kraft hätten sie diesen Schritt nicht geschafft.
+
+Das Band zwischen Alice und Nico wirkt zunächst katalysierend: Sie werden ein Paar, fühlen sich durch die neue Vertrautheit gestärkt und reißen von zu Hause aus. Bei einem Freund von Nico geraten sie ungeplant in ein völlig neues Milieu, schwänzen die Schule und genießen die gewonnene Freiheit. Doch während Nico sich dem Partyleben hingibt, wird es Alice schnell langweilig. Dadurch geraten beide in eine Abwärtsspirale. Nico wird immer häufiger aufbrausend, unberechenbar und schließlich sogar handgreiflich; Alice hingegen merkt, wie sehr ihr ihre Familie fehlt.
+
+----
+
+Verdict: Der Coming-of-Age-Roman "Hinter Glas" erzählt mithilfe psychogrammatischer Elemente sowie einer nebulösen Fantasyebene von dem beeindruckenden Emanzipationsprozess einer jungen Frau.
+
+----
+
+Conclusion:
+
+Die beeindruckende Emanzipationsgeschichte der Protagonistin überrascht besonders durch die außergewöhnliche Erzählsituation. In die 24 retrospektiv erzählten Spiegelscherben-Kapitel mischt sich unregelmäßig eine weitere Erzählerstimme ein, die sich typografisch durch eine andere Schriftart absetzt und in direkter Weise zu der Ich-Erzählerin spricht, um ihr gewissermaßen Mut zu machen. Da die diese Figur aber bis zum Schluss eine nebulöse Erscheinung bleibt, spielt die Autorin damit eine fantastische Ebene ein. Dea, so wie Alice dieses Wesen nennt, tritt erst im letzten Drittel des Buches aktiv in Erscheinung. Es kann als Personifizierung des Urvertrauens in der Figur eines imaginären Freundes gedeutet werden. Zu diesem Zeitpunkt zweifelt Alice bereits an ihrem eigenen Lebensweg, weil sowohl die durch die Familie vorgegebene Linie als auch ihr selbst bestimmter Weg mit dem verwahrlosten Niko keine wirklichen Optionen anbieten. Physisch erscheint Dea als sphinxähnlicher Hund. Erst mit diesem Begleiter an ihrer Seite schafft Alice es endlich, dass sich ihre Eltern überzeugen lassen, mit ihr zusammen ein neues Leben außerhalb des Einflussbereichs des Großvaters zu beginnen.
+
+Die intertextuellen Bezüge zu Lewis Carrolls "Alice im Wunderland" sind nicht nur durch die Namensgleichheit gegeben, sondern werden regelmäßig explizit gemacht, z.B. indem Alice ihre Mutter als Herzdame bezeichnet. Durch die damit verbundenen fantastischen Nuancen erhält die Erzählung eine zusätzliche semantische Ebene und die Deutungsmöglichkeiten vervielfältigen sich. Das bietet viel Diskussionsanlass und Möglichkeiten für philosophische Anschlusskommunikation.
+
+----
+
+Date: 2019-10-11
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: Oktober 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/julya-rabinowich-fuer-jugendbuch-hinter-glas-geehrt
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-446-26218-8
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001490490/63715/10002/-3/Buecher_Kinder--und-Jugend/Julya-Rabinowich/Hinter-Glas
+
+----
+
+Book-title: Hinter Glas
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Julya Rabinowich
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 208
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Roman
+
+----
+
+Topics: Gewalt an Frauen, Coming of Age / Erwachsenwerden
+
+----
+
+Cover:
+
+- hinter-glas_julya-rabinowich.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

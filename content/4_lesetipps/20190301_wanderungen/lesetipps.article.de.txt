@@ -1,0 +1,123 @@
+Title: Wanderungen
+
+----
+
+Text:
+
+Das Buch berichtet von den Wanderungen von insgesamt 20 verschiedenen Tierarten, darunter Buckelwale, Monarchfalter, Libellen, Pinguine und Krabben. Es ist wirklich bemerkenswert, dass so viele Tierarten jedes Jahr mühsame und gefährliche Reisen auf sich nehmen, um Nahrung zu finden oder sich fortzupflanzen. Dabei überqueren einige Meere und sogar Kontinente. Bei den Monarchfaltern beispielsweise bedarf es dafür Generationen, weil ein Vertreter der Art nie selbst die gesamte Strecke zurücklegen kann. Das gibt Forschern Rätsel auf, denn es ist bis heute ungeklärt, woher diese Tiere dennoch wissen, wo sie hinfliegen müssen.
+
+Der kurze Einleitungstext spricht den Leser mit einem vertraulichen "du" an und erklärt, warum und wie Tiere wandern. Tierwanderungen in unseren Gefilden sind durch die Zugvögel bekannt, von denen einige im Herbst in ihr Winterquartier nach Afrika ziehen. Auch andere Tiere wandern zu neuen Plätzen, wo sie Nahrung finden und ihren Nachwuchs sicher zur Welt bringen können. Den Auftakt im Buch macht die Wanderung der Buckelwale. Während des Winters halten sie sich im warmen Pazifischen Ozean auf, doch dann ziehen sie nach Süden, in die Antarktis, wo sie genügend Nahrung finden. Die Kaiserpinguine unternehmen einen beschwerlichen Marsch über Schnee und Eis, um ihre Brutgebiete zu erreichen.
+
+Die längste Reise allerdings unternimmt die Küstenseeschwalbe, sie fliegt von Pol zu Pol. Im Sommer geht die Sonne in der Arktis fast nie unter, somit bleibt viel Zeit zum Fischen und um die Jungen zu versorgen. Wenn sich dann der Winter nähert, macht sie sich auf den Weg zum anderen Pol, um dort die gleichen Lichtverhältnisse zu nutzen. Aber auch kleine Tiere, wie Insekten, begeben sich mitunter auf lange Wanderungen. Die Wanderlibelle trägt ihren Namen zu Recht, denn sie pendelt immer wieder von Indien nach Ostafrika. Nicht zuletzt verweist der Autor Mike Unwin an geeigneten Stellen auch auf die Gefahren, die den Tieren durch die Vernichtung ihrer Lebensräume droht. Vor allem der Mensch stellt eine große Gefahr dar, denn er erschafft Grenzen, z.B. durch Zäune oder Netze, die diese Tiere auf ihrer Wanderung nicht überwinden können.
+
+----
+
+Verdict: Jedes Jahr unternehmen Tiere Wanderungen und legen dabei Tausende von Kilometern zurück. Gründe dafür sind die Suche nach Nahrung oder sichere Fortpflanzungsplätze. Insgesamt haben 20 interessante und durch den Autor Mike Unwin sehr gut recherchierte Tierwanderungen den Platz ins Buch gefunden. Diese werden durch beeindruckende großflächig gezeichnete Naturbilder von Jenni Desmond würdigend ergänzt.
+
+----
+
+Conclusion:
+
+Jeder Tierart ist eine Doppelseite gewidmet, wobei der gut recherchierte und interessant erzählte Sachtext ca. ein Viertel der Seite einnimmt. Er ist gut verständlich und enthält zahlreiche spannende Informationen. Dazu gibt es noch einen kleinen Steckbrief zur Tierart. Ergänzt und zum Leben erweckt, wird der Text durch bemerkenswerte Tierillustrationen, die entweder ein einzelnes Tier oder gleich ganze Schwärme bzw. Herden davon abbilden. Der Illustratorin Jenni Desmond ist es gelungen, einige Naturschauspiele, insbesondere die Wanderung der Monarchfalter, so gut einzufangen, dass man von der detailreichen Darstellung wirklich beeindruckt ist. Ob tosende Wellen, weite Steppen, Wälder, Eis und Schnee, jedes Tier wird lebensnah in seine entsprechende Umgebung eingefügt. Die pastellfarbenen Aquarelle dominieren die Seiten und mit dünnen Strichen werden Einzelheiten sichtbar gemacht und Akzente gesetzt.
+
+Abgerundet wird das ganze durch eine Weltkarte, die die Routen der einzelnen Tiere genau veranschaulicht und somit das Ausmaß der zurückgelegten Wege nachvollziehbar ist und den Leser einmal mehr in Erstaunen versetzt.
+
+"Wanderungen" ist ein interessantes, faszinierendes und lehrreiches Sachbilderbuch, das interessantes Wissen vermittelt und dank der gelungenen Illustrationen zugleich ein visuelles Erlebnis darstellt.
+
+----
+
+Date: 2019-03-01
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: März 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-maerz-fuer-sachbuch-wanderungen/
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-7373-5599-5
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001045086/63715/10002/-3/Buecher_Sachbuecher/Mike-Unwin/Wanderungen
+
+----
+
+Book-title: Wanderungen
+
+----
+
+Book-subtitle: Die unglaublichen Reisen der Tiere
+
+----
+
+Author: Mike Unwin
+
+----
+
+Illustrator: Jenni Desmond
+
+----
+
+Translator: Stephanie Menge
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 16,99
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Sachbuch
+
+----
+
+Topics: Tierwanderungen
+
+----
+
+Cover:
+
+- wanderungen_mike-unwin.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -1,0 +1,13 @@
+Titleattribute: "Das Lied vom Ende" von Christoph Jehlicka
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Das Lied vom Ende" von Christoph Jehlicka
+
+----
+
+Template: image
