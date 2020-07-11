@@ -5,6 +5,7 @@ module.exports = {
     purge: {
       content: [
         'source/scripts/**/*.js',
+        'site/plugins/fv-*/*.php',
         'site/snippets/**/*.php',
         'site/templates/**/*.php',
       ],
