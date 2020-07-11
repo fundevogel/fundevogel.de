@@ -66,12 +66,6 @@ tabs:
               - assortment
               - grid-list
               - contact
-              - default
-              - imprint
-              # - error
-              # - news
-              # - lesetipps
-              # - calendar
             sortable: false
 
   settings:
@@ -101,7 +95,17 @@ tabs:
         label: Perform checks
 
     sidebar:
-      sidebar_files:
+      sidebar_files: false
+      sidebar_pages:
+        headline:
+          de: Sonstige Seiten
+          en: Other pages
+        type: pages
+        create: default
+        template: default
+        sortable: false
+
+      sidebar_fields:
         type: fields
         fields:
           fallback:
@@ -111,4 +115,4 @@ tabs:
               en: Fallback image
             query: site.images
             image:
-              ratio: 2/3
+              ratio: 3/4
