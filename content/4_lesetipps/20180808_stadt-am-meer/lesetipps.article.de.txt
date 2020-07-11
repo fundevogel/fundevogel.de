@@ -1,0 +1,124 @@
+Title: Stadt am Meer
+
+----
+
+Text:
+
+Eine sehr beeindruckende Geschichte in sieben Teilen. Ein Junge berichtet von seinem unaufgeregten Tagesablauf, der so ist wie er gestern war und der morgen ziemlich sicher wieder so sein wird. Wir sind in einer kleinen Bergarbeiter-Stadt auf der Insel Cape Breton im Osten Kanadas gegen Ende des 19. Jahrhunderts. Wenn der Junge aufwacht, sind die ersten Geräusche so wie gestern, der Blick durch das Fenster auf das Meer vertraut und doch immer neu. Auf ein doppelseitiges Bild mit der Ferne und Weite und dem hohen Horizont folgt immer die Schwärze und Enge des Kohleabbaus unter dem Meer.
+
+### Weite, Übersicht, Enge
+Mit kraftvollem Pinselstrich zeichnet Sydney Smith den Kohleflöz, der fast das gesamte Bild beherrscht. Der tiefe Gang, in dem sich zwei Bergmänner gebückt vorarbeiten, zeigt die bedrohliche Situation, der sich die Männer aussetzen, aussetzen müssen, wollen. Denn so war es immer schon. Der Großvater fuhr ein, der Vater fährt ein, der Sohn wird es auch machen. Bald. Und wir verstehen, warum die schwere Arbeit in der Schwärze „unter Tage“ heißt. »Und tief drunten unter dem Meer gräbt mein Vater nach Kohle.« Da ist es dunkel und schwarz.
+
+----
+
+Verdict: Das Leben ist vorgezeichnet für die Menschen in der Bergmannsstadt: oben das Meer, tief unten der Kohleabbau, an Land die graue Stadt der Arbeiterfamilien. So war das schon immer, so wird das immer bleiben. Ein Junge erzählt lakonisch von seinem immer gleichen Tagesablauf. Ein ganz herausragendes Buch!
+
+----
+
+Conclusion:
+
+Der Text ist knapp und eher lakonisch. Der immer ähnlichen Formulierung »Bei uns ist das nämlich so - ...« folgt der Tag des Jungen, der offensichtlich (noch) nicht zur Schule geht. Der letzte Satz auf dem Nachtbild mit dem schwarzen Ufer und den kaum erkennbaren hellen Lichterklecksen der Häusern darin, beschließt die Formulierung: »So ist das bei uns.« Damit sind seine Mutter, die junge Schwester und sein Vater gemeint, aber auch alle anderen in der Stadt, die Stadt selbst. Sie ist klein und übersichtlich, da kann ein Vorschulkind allein den Einkauf besorgen oder zum Grab seines Großvaters direkt am Ufer gehen.
+
+Wie der Text, so die Bilder. Sie wirken wie gekritzelt. Schwarze Umrahmungen von Flächen, schiefe Häuser, Linien, die durch Gegenstände weiterlaufen, Überland-Stromleitungen. Die Männer tragen auf dem Weg zur Grube karierte Hemden und einfache Kopfbedeckungen. In der Hand halten sie in einem Henkelmann ihr Essen für die 10 bis 12 Stunden langen Schichten. Dann fahren sie gemeinsam mit der Lorenbahn hinab in die Tiefe der Erde, über sich die schwarze Erdschicht, ganz unten auf der Seite der Gang, den sie selbst gruben. Ganz oben das Meer, aber das sieht man nicht.
+
+Einmal fügt Sydney Smith auf einer Doppelseite 4 Bilder ein, die den Tag anhand der wandernden Schatten auf dem Fußboden zeigen. Hier wird Spannung erzeugt, denn kurz zuvor haben wir gesehen, dass ein Stollen einbrach und wir nicht wissen, ob der Vater heil herausgekommen ist.
+
+Die Geschichte wie die Bilder sind für Kinder ab 4 Jahren verständlich und nachvollziehbar und geben auf unterschiedlichen Ebenen Anlass zum Sprechen, sei es die Darstellung des eigenen Lebens (So ist das heute bei uns.) oder die Dramaturgie zwischen „oben und unten“, zwischen klarer und salziger Luft im Wind über dem Wasser und der bedrückenden Enge mit dem Kohlestaub unter Tage.
+
+----
+
+Date: 2018-08-08
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: August 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/stadt-am-meer-bekommt-lesepeter-august
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-8489-0144-9
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000673990/63715/10002/-3/Buecher_Bilderbuecher/Joanne-Schwartz/Stadt-am-Meer
+
+----
+
+Book-title: Stadt am Meer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Joanne Schwartz
+
+----
+
+Illustrator: Sydney Smith
+
+----
+
+Translator: Bernadette Ott
+
+----
+
+Participants: 
+
+----
+
+Page-count: 52
+
+----
+
+Publisher: Aladin
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Topics: Leben, Meer
+
+----
+
+Cover:
+
+- stadt-am-meer_joanne-schwartz.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

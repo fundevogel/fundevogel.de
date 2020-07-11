@@ -1,0 +1,122 @@
+Title: Unter meinen Füßen
+
+----
+
+Text:
+
+"Unter meinen Füßen" ist ein Buch, das spannende Unterhaltung mit Wissensvermittlung verbindet. Die Autorin hat die Form eines Leporellos gewählt, das schrittweise aufgeklappt wird. Dabei dringt man von der Erdoberfläche bis zum Erdmittelpunkt vor.
+
+Bereits das Cover macht durch seine attraktive Gestaltung mit den funkelnden erhaben gedruckten Mineralien auf den Inhalt neugierig. Gleich zu Beginn wird der junge Leser durch direkte Ansprache und Fragestellung aufgefordert, selbst forschend tätig zu sein und zu schauen, was denn unter seinen Füßen so los ist. Der Weg nach unten beginnt innerhalb einer Stadt, wo es Wasserleitungen, Kabel und Rohre, aber auch kleine Lebewesen gibt. Auch menschliche Hinterlassenschaften wie Münzen, Tongefäße und Skelette sind zu finden. Noch weiter unten bekommt man einen Einblick in U-Bahn Systeme, unterirdische Flüsse, Tropfsteinhöhlen und verschiedene Gesteinsschichten.
+
+Dann verlässt der Forscher die verhältnismäßig dünne Erdkruste und dringt weiter ins Erdinnere vor, wo er zunächst zum mittelfesten Erdmantel kommt und es nun immer heißer wird, wie auch an den gelb orangefarbenen Zeichnungen deutlich wird. Schließlich geht die Reise weiter durch den flüssigen äußeren Erdkern, bis man endlich zum festen inneren Erdkern, dem Mittelpunkt der Erde vordringt. Hier wird der Leser aufgefordert, das Buch zu drehen und auf der anderen Seite wieder nach oben zu reisen.
+
+----
+
+Verdict: Eine Reise zum Mittelpunkt der Erde und wieder zurück? Mit dem Leporello "Unter meinen Füßen" von Charlotte Guillain und Yuval Zommer ist dies möglich. Diese einzigartige Darstellungsform ist für dieses Experiment, das spannende Unterhaltung mit Wissensvermittlung verbindet, besonders gut geeignet. Bei dieser Reise durch die Erdschichten gibt es jede Menge Spannendes und Überraschendes bereits für Kinder ab 5 Jahren zu entdecken. "Unter meinen Füßen" ist in Aufmachung sowie in Text- und Bildgestaltung ein kleines Kunstwerk.
+
+----
+
+Conclusion:
+
+Beim Verlassen des Erdmantels gelangt der Leser von farbenfrohen Mineralien und Fossilien zu Baumwurzeln und unterirdischen Behausungen von Waldtieren bis er schließlich auf einer Wiese vor einem Maulwurfshügel steht, dessen Gang er eben noch bewundern konnte. Auf den einzelnen Leporello Seiten gibt es jede Menge zu entdecken. Die, in die wunderbaren zum Teil collagenartigen Bilder eingefügten kurzen Texte stehen im unmittelbaren Bezug zum Gezeigten. Erdschichten und Gesteine werden benannt und durch Großbuchstaben hervorgehoben. Die Farben sind entsprechend der Erdschichten gedämpft gewählt, deshalb dominieren Brauntöne. Jede Seite ist einem Schwerpunkt gewidmet, was es auch möglich macht, das Leporello als Buch zu nutzen.
+
+Der Autorin Charlotte Guillain und dem Illustrator Yuval Zommer ist mit dem Leporello ein faszinierendes und zugleich lehrreiches Buch entstanden, das den Leser nicht nur in Verborgenes eindringen, sondern auch in der Zeit zurückreisen lässt. Das Buch gibt Einblicke in eine Welt, die für uns so nicht erreichbar ist und visualisiert diese auf äußerst anschauliche Weise. Die innovative Idee ist originell und gerade für diese Reise zum Mittelpunkt der Erde wie geschaffen.
+
+----
+
+Date: 2018-11-01
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: November 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-november-fuer-unter-meinen-fuessen
+
+----
+
+Islesepeter: false
+
+----
+
+Isbn: 978-3-7913-7340-9
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000661351/63715/10002/-3/Buecher_Sachbuecher/Charlotte-Guillain/Unter-meinen-Fuessen
+
+----
+
+Book-title: Unter meinen Füßen
+
+----
+
+Book-subtitle: Die Reise zum Mittelpunkt der Erde
+
+----
+
+Author: Charlotte Guillain
+
+----
+
+Illustrator: Yuval Zommer
+
+----
+
+Translator: Ute Löwenberg
+
+----
+
+Participants: 
+
+----
+
+Page-count: 22
+
+----
+
+Publisher: Prestel
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Sachbuch
+
+----
+
+Topics: Erde, Geologie
+
+----
+
+Cover:
+
+- >
+  unter-meinen-fuessen_charlotte-guillain.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
