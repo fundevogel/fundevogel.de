@@ -17,6 +17,7 @@ fields:
       en: Retrieve data
     progress: Download ..
     job: loadBook
+    data : '{{ page.id }}'
     width: 1/3
 
   download_cover:

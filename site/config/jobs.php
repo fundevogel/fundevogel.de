@@ -1,7 +1,11 @@
 <?php
 
 return [
-    'loadBook' => function ($page) {
+    'loadBook' => function ($page, $data) {
+        if ($page === null) {
+            $page = site()->index(true)->findByID($data);
+        }
+
         # API call
         $isbn = $page->isbn()->value();
         $data = loadBook($isbn);
