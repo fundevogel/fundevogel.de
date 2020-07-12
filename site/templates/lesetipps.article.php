@@ -113,26 +113,37 @@
                         </div>
                         <div class="flex flex-col xs:flex-row justify-between items-center">
                             <div class="flex">
+                                <?php if ($age && $period) : ?>
                                 <div class="mr-6 sm:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= html($age) ?></span>
                                     <span class="block text-sm sm:text-lg"><?= $period ?></span>
                                 </div>
+                                <?php endif ?>
+                                <?php if ($page->page_count()->isNotEmpty()) : ?>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->page_count()->htm() ?></span>
                                     <span class="block text-sm sm:text-lg"><?= t('Seiten') ?></span>
                                 </div>
+                                <?php endif ?>
+                                <?php if ($page->price()->isNotEmpty()) : ?>
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->price()->html() ?> €</span>
                                     <span class="block text-sm sm:text-lg"><?= t('Ladenpreis') ?></span>
                                 </div>
+                                <?php endif ?>
                             </div>
-                            <?php if ($page->shop()->isNotEmpty()) : ?>
                             <div class="mt-12 xs:mt-0 flex-none">
+                                <?php if ($page->shop()->isNotEmpty()) : ?>
                                 <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->shop() ?>" target="_blank">
                                     <span class="sketch text-2xl select-none"><?= t('Zum Shop') ?> !</span>
                                 </a>
+                                <?php else : ?>
+                                <a class="js-tippy py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="mailto:<?= $site->mail() ?>" title="<?= t('Bitte besorgen') ?>" target="_blank" data-tippy-theme="fundevogel red">
+                                    <span class="sketch text-2xl select-none"><?= t('Vergriffen') ?> !</span>
+                                </a>
+                                <?php endif ?>
                             </div>
-                            <?php endif ?>
+
                         </div>
                     </div>
                 </div>
