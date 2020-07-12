@@ -1,0 +1,13 @@
+Titleattribute: "Der Marienkäfer" von Bernadette Gervais
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Der Marienkäfer" von Bernadette Gervais
+
+----
+
+Template: image

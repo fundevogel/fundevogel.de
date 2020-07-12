@@ -1,0 +1,119 @@
+Title: Polar
+
+----
+
+Text:
+
+Das Buch fällt sofort durch seine attraktive Covergestaltung und das handliche quadratische Format ins Auge. Es ist wie ein Fotoalbum hergerichtet, denn in den Buchdeckel eingearbeitet findet sich bereits das erste Foto: Drei Pinguine, die sich über ein Meer aus Eis bewegen. Der 3D-Effekt erinnert sofort an Hologramme und die Wackelbilder, die man von Postkarten kennt. Umso bemerkenswerter ist, dass man hier die Tiere tatsächlich in Bewegung sehen kann. Möglich macht das eine besondere Technik, die man den Photicular-Effekt nennt und deren Erfinder der Autor Dan Keinen selbst ist. Es werden Folien in die Buchseiten integriert, die auf der Basis von originalen Vierfarbfilmen hergestellt wurden. So hat man den Eindruck, die Tiere in ihrer Bewegung beobachten zu können. Einzelne Videoaufnahmen werden in dünn aufeinanderfolgende Streifen aufgeteilt, und darüber wird eine Folie mit Linsen gelegt. Durch den Einsatz von Prismen aus Kunststoff wird beim Betrachter ein dreidimensionales bewegtes Bild erzeugt. So erwachen die Tiere zum Leben.
+
+Das Buch beginnt mit einer Einleitung von Carol Kaufmann, in der allgemeine Informationen über die Pole dargestellt sind. Dabei wird auf die Unterschiedlichkeit von Nordpol, die Arktis und Südpol, die Antarktis eingegangen. Auch der Klimawandel und die Auswirkungen auf die Pole sind der Autorin wichtig. Eine Einleitung enthält viele Informationen über das Leben der Tiere in den Polargebieten. In den Text eingebunden sind einige sehr aufwändig angelegte Federzeichnungen der Tiere.
+
+----
+
+Verdict: "Polar" ist ein atemberaubendes Buch mit bewegten Bildern in einer neuen Technik, die sich der Photicular-Effekt nennt. Dazu gibt es jede Menge Sachinformation über die beiden Pole und den dort lebenden Tieren.
+
+----
+
+Conclusion:
+
+Im Anschluss werden die sieben Tiere vorgestellt, die die kältesten Bereiche unserer Erde bevölkern. Die ausgewählten Tiere Pinguin, Eisbär, Schneeeule, Walross, Schlittenhunde, Weißwal, Rentier repräsentieren die Tierwelt auf kältesten Regionen unserer Erde, den Nord- und Südpol. Für jedes Tier ist eine Doppelseite vorgesehen. Auf der einen Seite werden wichtige Sachinformationen zum Verhalten und Familienleben bzw. Merkmale des Tieres erläutert. Auf einer weiteren ist ein kleiner Steckbrief abgedruckt, der Informationen zu Größe, Lebensraum, Verbreitung, Ernährung, Lebenserwartung, Gefährdung und Bestand zum Inhalt hat. Darunter ist das Tier selbst abgebildet. Auf dem achten Bild flimmert dann schließlich noch das beeindruckende Polarlicht. Die Bewegungssequenz wird durch das Umblättern der Buchseite nach oben erzeugt. Die Bewegungsabläufe sind fantastisch und beeindrucken, natürlich stehen die Bilder im Mittelpunkt. Aber auch die Informationen sind kurzweilig und informativ.
+
+Während schon kleine Kinder Freude an diesen tollen Bildern haben werden, dürfte neben dem Bewegungseffekt der Inhalt auch ältere Kinder erreichen. Durch die atemberaubende Technik von Dan Kainen und die Sachinformationen von Carol Kaufmann ist ein äußerst hochwertiges, informatives und ansprechendes Buch entstanden.
+
+----
+
+Date: 2017-03-01
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: März 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201703.html
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-7373-5433-2
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851966301/63715/10002/-3/Buecher_Sachbuecher/Dan-Kainen/Polar
+
+----
+
+Book-title: Polar
+
+----
+
+Book-subtitle: Ein Photicular Buch
+
+----
+
+Author: Dan Kainen; Carol Kaufmann
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Cornelia Panzacchi
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 24,99
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Sachbuch
+
+----
+
+Topics: Arktis / Nordpol
+
+----
+
+Cover:
+
+- polar_dan-kainen-carol-kaufmann.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -1,0 +1,121 @@
+Title: Der Marienkäfer
+
+----
+
+Text:
+
+Der Marienkäfer gilt als einer der beliebtesten einheimischen Käfer. Kein Wunder, denn durch seine runde Form, seine rote Farbe und die schwarzen Punkte ist er ein kleines Wunderwerk der Natur. Über den Marienkäfer weiß man meistens nur, dass er ein nützlicher Begleiter im Garten ist, denn er vertilgt Blattläuse. Wie die Autorin Bernadette Gervais weiß, können das sogar bis zu 50 Stück pro Tag sein. Aber in ihrem Buch "Der Marienkäfer" lernen wir noch eine ganze Menge mehr.
+
+So erfährt der Leser, dass die Beine des Marienkäfers kleine Krallen haben, was ihm ermöglicht, verkehrt herum zu laufen, oder dass er sich zur Verteidigung tot stellt, indem er seine Beine einzieht oder eine übel riechende Flüssigkeit über die Beine absondert. Auch zum Körperbau, der Ernährung und Fortpflanzung wird Wissenswertes übermittelt.
+
+----
+
+Verdict: Der Marienkäfer - ein kleines Insekt, das durch großformatige intensive Bilder und einprägsame Informationen in diesem Buch genauer unter die Lupe genommen wird.
+
+----
+
+Conclusion:
+
+Die Fülle von Arten sind in wunderschönen Abbildungen im hinteren Bereich aufgereiht. Das Buch enthält wesentliche und gut recherchierte Informationen. Klare, realistische und detailgetreue Zeichnungen im Großformat mit vielen Klappen zum Entdecken sowie ein Fehlersuchbild am Ende runden das Ganze ab.
+
+Die Bilder sind übersichtlich angeordnet und übermitteln notwendige sachliche Informationen zum Tier. Kräftige Farben sind dabei dominierend. Die Zeichnungen orientieren sich am Wesentlichen, dadurch sind die Buchseiten klar strukturiert und keinesfalls überladen. Das quadratische Format des Buches ist zur Darstellung der sachlichen bildlichen Inhalte hervorragend geeignet.
+
+Für Kinder ab dem Kindergartenalter ist es ein lehrreiches Buch mit vielen Informationen über dieses beliebte Insekt. Durch die einfache, große Schrift und kurze prägnante Sätze ist dieses Buch auch für Leseanfänger geeignet.
+
+----
+
+Date: 2017-07-01
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: Juli 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201707.html
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-407-82156-0
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853480035/63715/10002/-3/Buecher_Bilderbuecher/Bernadette-Gervais/Der-Marienkaefer
+
+----
+
+Book-title: Der Marienkäfer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Bernadette Gervais
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Tobias Scheffel
+
+----
+
+Participants: 
+
+----
+
+Page-count: 24
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Sachbuch
+
+----
+
+Topics: Ausklapp-Bilderbuch/Bewegungsbilderbuch, Marienkäfer
+
+----
+
+Cover:
+
+- der-marienkaefer_bernadette-gervais.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
