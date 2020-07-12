@@ -32,7 +32,11 @@ return [
             'reload' => true,
         ];
     },
-    'downloadCover' => function ($page) {
+    'downloadCover' => function ($page, $data) {
+        if ($page === null) {
+            $page = site()->index(true)->findByID($data);
+        }
+
         $imagePath = kirby()->root('content') . '/' . $page->diruri();
         $fileName = implode('_', [Str::slug($page->book_title()), Str::slug($page->author())]);
 

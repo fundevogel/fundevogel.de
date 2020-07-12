@@ -27,6 +27,7 @@ fields:
       en: Download cover
     progress: Download ..
     job: downloadCover
+    data : '{{ page.id }}'
     width: 2/3
 
   group_line:
