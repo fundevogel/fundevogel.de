@@ -2,11 +2,19 @@ Title: Über die Berge und über das Meer
 
 ----
 
-Text: *Komm, sprich zu mir vom Frühling*, bittet Soraya den afghanischen Hirtenjungen Tarek. Er erzählt die besten Geschichten! Und er ist ihr noch das Ende einer Geschichte über den mythischen Zaubervogel Simurgh schuldig. Tarek kennt die Legenden des Simurgh vom Hirtenfeuer. Damals lebte er noch als wandernder Kuchi mit seiner Familie, seinem Hütehund Dschamal und ihrer Schafherde in den Bergen Afghanistans. Damals hieß Soraya noch Samir und lebte mit ihrer Familie in einem Bergdorf am Fuße von Tareks Bergen. Sie hatte vom Mullah, dem religiösen Oberhaupt, die Privilegien eines Jungen erhalten und durfte sich frei bewegen, obwohl sie ein Mädchen ist. Jedoch, als die Taliban das erfuhren, musste Soraya fliehen. Afghanistan – das ist eines der gefährlichsten Länder der Welt: Seit dem 11. September 2001 stellt der Westen hier ein ganzes Volk unter den Generalverdacht des Terrorismus, während es in Wahrheit nur eine radikalisierte islamistische Minderheit ist – nämlich die Taliban – die den Großteil der Bevölkerung massiv bedroht. Auch Tarek muss vor den Taliban fliehen. Jeder ist auf sich allein gestellt, aber immer kreist der Simurgh über den beiden und bewirkt, dass sich ihre Wege treffen.
+Text:
+
+"Komm, sprich zu mir vom Frühling", bittet Soraya den afghanischen Hirtenjungen Tarek. Er erzählt die besten Geschichten! Und er ist ihr noch das Ende einer Geschichte über den mythischen Zaubervogel Simurgh schuldig. Tarek kennt die Legenden des Simurgh vom Hirtenfeuer. Damals lebte er noch als wandernder Kuchi mit seiner Familie, seinem Hütehund Dschamal und ihrer Schafherde in den Bergen Afghanistans. Damals hieß Soraya noch Samir und lebte mit ihrer Familie in einem Bergdorf am Fuße von Tareks Bergen. Sie hatte vom Mullah, dem religiösen Oberhaupt, die Privilegien eines Jungen erhalten und durfte sich frei bewegen, obwohl sie ein Mädchen ist.
+
+Jedoch, als die Taliban das erfuhren, musste Soraya fliehen. Afghanistan – das ist eines der gefährlichsten Länder der Welt: Seit dem 11. September 2001 stellt der Westen hier ein ganzes Volk unter den Generalverdacht des Terrorismus, während es in Wahrheit nur eine radikalisierte islamistische Minderheit ist – nämlich die Taliban – die den Großteil der Bevölkerung massiv bedroht. Auch Tarek muss vor den Taliban fliehen. Jeder ist auf sich allein gestellt, aber immer kreist der Simurgh über den beiden und bewirkt, dass sich ihre Wege treffen.
 
 ----
 
 Verdict: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung und Freiheitskampf, von Angst und Mut und Liebe. Und es ist eine Heldengeschichte. Wie viele gute Heldengeschichten ist sie ein bisschen erfunden und ein bisschen wahr. Tarek und Soraya erleben auf ihrer Flucht so viel, wie andere in ihrem ganzen Leben nicht ­- und sie schaffen mehr, als sie sich jemals vorstellen konnten.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -34,7 +54,7 @@ Book-title: Über die Berge und über das Meer
 
 ----
 
-Book-subtitle: Roman
+Book-subtitle: 
 
 ----
 
@@ -78,7 +98,7 @@ Categories: Roman
 
 ----
 
-Topics: Afghanistan, Flucht / Flüchtling, Taliban
+Topics: Afghanistan, Taliban, Flucht
 
 ----
 

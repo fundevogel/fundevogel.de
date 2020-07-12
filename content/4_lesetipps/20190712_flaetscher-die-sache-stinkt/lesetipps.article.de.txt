@@ -2,11 +2,19 @@ Title: Flätscher - die Sache stinkt!
 
 ----
 
-Text: Flätscher und Theo sind ein Superteam. Und das kam so: Flätscher ist das coolste und cleverste Stinktier der Stadt. Nein, kein Marder, sondern ein richtiges Stinktier eben. Und Flätscher liebt Semmelknödel. Bei einem seiner Raubzüge wird er erwischt und kann sich gerade noch ins Hosenbein von Theo, dem Sohn des Kochs, retten. Dass Flätscher so ganz nebenbei die Menschensprache spricht, verwundert bereits auf Seite 19 keinen Leser mehr. Und das ist nicht nur der Anfang einer großen Freundschaft, sondern es ist auch der Beginn einer ziemlich schrägen und höchst amüsanten Krimiserie, die Fall für Fall von Flätscher persönlich erzählt wird.
+Text:
+
+Flätscher und Theo sind ein Superteam. Und das kam so: Flätscher ist das coolste und cleverste Stinktier der Stadt. Nein, kein Marder, sondern ein richtiges Stinktier eben. Und Flätscher liebt Semmelknödel. Bei einem seiner Raubzüge wird er erwischt und kann sich gerade noch ins Hosenbein von Theo, dem Sohn des Kochs, retten.
+
+Dass Flätscher so ganz nebenbei die Menschensprache spricht, verwundert bereits auf Seite 19 keinen Leser mehr. Und das ist nicht nur der Anfang einer großen Freundschaft, sondern es ist auch der Beginn einer ziemlich schrägen und höchst amüsanten Krimiserie, die Fall für Fall von Flätscher persönlich erzählt wird.
 
 ----
 
-Verdict: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.
+Verdict: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8 Jahren, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,7 +94,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 

@@ -2,11 +2,19 @@ Title: Artus - König auf Camelot
 
 ----
 
-Text: Die wohl berühmteste Legende um das heutige Großbritannien beginnt mit einem Stein, in dem ein Schwert steckt, das nur der zukünftige und wahre König Britanniens herausziehen kann. Viele große Ritter und Edelmänner versuchen nun ihr Glück, aber niemandem gelingt es außer dem fünfzehnjährigen Artus. Denn was bisher niemand, nicht einmal Artus selbst, wusste, ist, dass Artus der Sohn des großen verstorbenen Königs Uther Pendragon ist und dazu bestimmt wurde das zerstrittene Britannien zu einen und zu Frieden und Glück zu führen. Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excalibur und zusammen mit den berühmten und edlen Rittern seiner Tafelrunde führt er so manch siegreiche Schlachten an und in Britannien kehrt bald wieder der Frieden ein. Doch als Merlin eines Tages spurlos verschwindet und Artus nicht mehr beraten kann, nimmt das Unheil seinen Lauf. Denn Artus‘ böse Schwester, Morgaine La Fay, erhebt sich, um ihrem Bruder den Thron zu entreißen und auch unter den Rittern der Tafelrunde bricht Streit aus, als deutlich wird, dass die Königin Guinevre und Artus bester Freund und Ritter Lancelot sich lieben.
+Text:
+
+Die wohl berühmteste Legende um das heutige Großbritannien beginnt mit einem Stein, in dem ein Schwert steckt, das nur der zukünftige und wahre König Britanniens herausziehen kann. Viele große Ritter und Edelmänner versuchen nun ihr Glück, aber niemandem gelingt es außer dem fünfzehnjährigen Artus. Denn was bisher niemand, nicht einmal Artus selbst, wusste, ist, dass Artus der Sohn des großen verstorbenen Königs Uther Pendragon ist und dazu bestimmt wurde das zerstrittene Britannien zu einen und zu Frieden und Glück zu führen.
+
+Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excalibur und zusammen mit den berühmten und edlen Rittern seiner Tafelrunde führt er so manch siegreiche Schlachten an und in Britannien kehrt bald wieder der Frieden ein. Doch als Merlin eines Tages spurlos verschwindet und Artus nicht mehr beraten kann, nimmt das Unheil seinen Lauf. Denn Artus' böse Schwester, Morgaine La Fay, erhebt sich, um ihrem Bruder den Thron zu entreißen und auch unter den Rittern der Tafelrunde bricht Streit aus, als deutlich wird, dass die Königin Guinevre und Artus bester Freund und Ritter Lancelot sich lieben.
 
 ----
 
 Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 
-Topics: Artus / Arthur (Tafelrunde)
+Topics: Artussage
 
 ----
 

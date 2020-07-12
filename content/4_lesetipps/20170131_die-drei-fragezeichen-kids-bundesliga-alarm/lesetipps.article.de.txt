@@ -10,6 +10,10 @@ Verdict: So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-01-31
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-440-15037-5
 
 ----
 
-Shop: http://shop.fundevogel.de/product/3000000459044/Hardcover-Softcover-Karte_Kinder--und-Jugendbuecher_Kinder--und-Jugendromane-u--erzaehlungen//Die-drei--Kids-Bundesliga-Alarm
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851060360/63715/10002/-3/Buecher_Krimi/Boris-Pfeiffer/Die-drei--Kids---Bundesliga-Alarm
 
 ----
 
@@ -58,7 +74,7 @@ Page-count: 216
 
 ----
 
-Publisher: Kosmos (Franckh-Kosmos)
+Publisher: Kosmos
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Abenteuer, Krimis/Thriller
+Topics: Abenteuer, Krimis/Thriller, Fußball, Detektiv
 
 ----
 

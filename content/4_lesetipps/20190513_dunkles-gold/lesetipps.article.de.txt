@@ -4,13 +4,11 @@ Title: Dunkles Gold
 
 Text:
 
-»Die Geschichte wird so lange zwischen uns stehen, solange wir nicht gelernt haben, statt ›die Deutschen‹ und ›die Juden‹ ›ich‹ und ›du‹ zu sagen.«
+> Die Geschichte wird so lange zwischen uns stehen, solange wir nicht gelernt haben, statt "die Deutschen" und "die Juden" "ich" und "du" zu sagen.
 
 Laura ist ungefähr 17 Jahre alt, zeichnet leidenschaftlich gerne, ist verliebt in den geheimnisvollen und schönen Alexej und lebt zusammen mit ihrer Mutter und ihrem Hund in Erfurt. In Erfurt ist ein wertvoller, mittelalterlicher Schatz aufgetaucht … Das ist heute, jetzt, 2019.
 
-Es gibt auch ein anderes Erfurt. »1349 – in Erfurt war es dunkel – nicht nur bei Nacht«: Die Jüdin Rachel zählt 15 Lenze und vergräbt gerade mit ihrem Vater den gesamten Familienschatz. Warum? Sie müssen schnell fliehen aus Erfurt, denn ›die große Pestilenz‹ kommt unerbittlich näher. – Und als wäre diese hochansteckende Infektionskrankheit nicht schon bedrohlich genug, wird irrsinniger Weise allen Juden vorgeworfen, die Krankheitswelle ausgelöst zu haben. Sie werden verfolgt.
-
-Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich ihre kleinen Lebenswelten sind, so verbindet sie beide doch die größere Geschichte Deutschlands. Rachel erlebt eines der frühesten Judenpogrome in Deutschland und Laura erlebt hautnah, wie sich die alten Vorurteile hartnäckig bis heute gehalten haben und sogar ihr eigenes Leben ganz unmittelbar betreffen.
+Es gibt auch ein anderes Erfurt. "1349 – in Erfurt war es dunkel – nicht nur bei Nacht": Die Jüdin Rachel zählt 15 Lenze und vergräbt gerade mit ihrem Vater den gesamten Familienschatz. Warum? Sie müssen schnell fliehen aus Erfurt, denn ›die große Pestilenz‹ kommt unerbittlich näher. – Und als wäre diese hochansteckende Infektionskrankheit nicht schon bedrohlich genug, wird irrsinniger Weise allen Juden vorgeworfen, die Krankheitswelle ausgelöst zu haben. Sie werden verfolgt.
 
 ----
 
@@ -18,15 +16,31 @@ Verdict: Das Buch ist spannend geschrieben, du erfährst viel über das jüdisch
 
 ----
 
+Conclusion: Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich ihre kleinen Lebenswelten sind, so verbindet sie beide doch die größere Geschichte Deutschlands. Rachel erlebt eines der frühesten Judenpogrome in Deutschland und Laura erlebt hautnah, wie sich die alten Vorurteile hartnäckig bis heute gehalten haben und sogar ihr eigenes Leben ganz unmittelbar betreffen.
+
+----
+
 Date: 2019-05-13
 
 ----
 
-Conclusion-wanted: false
+Conclusion-wanted: true
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -82,7 +96,7 @@ Binding: gebunden
 
 ----
 
-Categories: Roman
+Categories: Roman, Jugendbuch
 
 ----
 

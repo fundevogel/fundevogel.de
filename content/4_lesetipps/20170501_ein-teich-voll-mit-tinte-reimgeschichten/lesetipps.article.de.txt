@@ -63,7 +63,7 @@ Book-subtitle: Reimgeschichten
 
 ----
 
-Author: Annie M. G. Schmidt; Sieb Posthuma
+Author: Annie M. G. Schmidt & Sieb Posthuma
 
 ----
 
@@ -75,7 +75,7 @@ Translator: Christian Golusda
 
 ----
 
-Participants: Übersetzung:
+Participants: 
 
 ----
 
@@ -99,11 +99,11 @@ Binding: gebunden
 
 ----
 
-Categories: Gedichtband, Kinderbuch
+Categories: Gedichtband
 
 ----
 
-Topics: Kinderreime / Kinderverse / Abzählreime
+Topics: Kunst, Lyrik, Reime
 
 ----
 

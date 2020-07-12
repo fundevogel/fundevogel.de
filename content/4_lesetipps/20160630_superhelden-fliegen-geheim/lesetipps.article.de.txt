@@ -10,6 +10,10 @@ Verdict: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, 
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2016-06-30
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-401-06825-1
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460841295620/Buecher_Fantasy/Alice-Pantermueller/Superhelden-fliegen-geheim
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460841295620/63715/10002/-3/Buecher_Fantasy/Alice-Pantermueller/Superhelden-fliegen-geheim
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

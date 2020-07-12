@@ -10,6 +10,10 @@ Verdict: Diese turbulente Katzengeschichte (in der übrigens auch Hunde vorkomme
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-10-17
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-423-64031-2
 
 ----
 
-Shop: http://shop.fundevogel.de/product/3000000206926/Buecher_Kinder--und-Jugend/Hildegard-Mueller/Oskar---Ein-Kater-mit-Charakter
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000206926/63715/10002/-3/Buecher_Kinder--und-Jugend/Hildegard-Mueller/Oskar---Ein-Kater-mit-Charakter
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 

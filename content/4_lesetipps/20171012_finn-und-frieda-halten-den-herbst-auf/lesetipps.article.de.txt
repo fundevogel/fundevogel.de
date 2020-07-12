@@ -15,6 +15,10 @@ Verdict: Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -23,7 +27,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -31,7 +47,7 @@ Isbn: 9783-8642-9395-5
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/3000000198028/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000198028/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf
 
 ----
 
@@ -79,7 +95,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendlit.
+Categories: Kinderbuch
 
 ----
 

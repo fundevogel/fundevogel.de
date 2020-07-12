@@ -6,7 +6,11 @@ Text: Johnny wohnt mit seinem Opa, einem alten Seebären mit vielen Abenteuern i
 
 ----
 
-Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren
+Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-7915-0026-3
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Abenteuer/Simone-Buchholz/Johnny-und-die-Pommesbande/63715/10002/3000000556985/-3/4099276460822241243/%204099276460822241224/%204099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000556985/63715/10002/-3/Buecher_Abenteuer/Simone-Buchholz/Johnny-und-die-Pommesbande
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 

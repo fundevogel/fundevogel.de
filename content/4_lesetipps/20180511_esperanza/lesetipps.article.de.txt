@@ -10,6 +10,10 @@ Verdict: Eine warmherzige Geschichte über eine besondere Freundschaft – poeti
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-05-11
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-8369-5990-2
 
 ----
 
-Shop: http://shop.fundevogel.de/product/3000000127166/Buecher_Kinder--und-Jugend/Jakob-Wegelius/Esperanza
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000127166/63715/10002/-3/Buecher_Kinder--und-Jugend/Jakob-Wegelius/Esperanza
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

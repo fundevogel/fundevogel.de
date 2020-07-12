@@ -10,6 +10,10 @@ Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die g
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-02-22
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

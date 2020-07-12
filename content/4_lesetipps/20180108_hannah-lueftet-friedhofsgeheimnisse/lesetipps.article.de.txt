@@ -86,7 +86,7 @@ Publisher: Kösel
 
 ----
 
-Age: ab 10 Jahren
+Age: ab 8 Jahren
 
 ----
 
@@ -102,7 +102,7 @@ Categories: Kinderbuch
 
 ----
 
-Topics: Bestattung / Begräbnis / Beerdigung, Friedhof / Kirchhof, Tod
+Topics: Tod, Beerdigung, Friedhof
 
 ----
 

@@ -10,6 +10,10 @@ Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalte
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-03-24
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-7373-7170-4
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Laura-Dower/101-Dinge-die-du-tun-musst-bevor-du-erwachsen-bist/63715/4099276460822233275/4099276460848897290/-3/4099276460822241240/%204099276460822241224/%204099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848897290/63715/10002/-3/Buecher_Sachbuecher/Laura-Dower/101-Dinge-die-du-tun-musst-bevor-du-erwachsen-bist
 
 ----
 
@@ -74,11 +90,11 @@ Binding: kartoniert
 
 ----
 
-Categories: 
+Categories: Kinderbuch
 
 ----
 
-Topics: Kinderbeschäftigung
+Topics: Rezepte, Experimente, Basteln
 
 ----
 

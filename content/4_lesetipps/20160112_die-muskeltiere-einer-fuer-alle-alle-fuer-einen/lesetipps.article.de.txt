@@ -10,6 +10,10 @@ Verdict: Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Sch
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2016-01-12
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-570-15903-3
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460845218677/Buecher_Abenteuer/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845218677/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Abenteuer, Musketier
+Topics: Abenteuer, Musketiere, Mäuse
 
 ----
 

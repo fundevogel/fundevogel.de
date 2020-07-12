@@ -2,11 +2,19 @@ Title: Toni - und alles nur wegen Renato Flash
 
 ----
 
-Text: Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballschuhen ‚Renato Flash‘ erfährt, ist sofort klar: Diese Schuhe muss er haben. Sie blinken bei jeder Ballberührung und werden sein Spiel unwiderstehlich machen. Leider haben weder seine Mutter noch sein Opa dafür Verständnis. Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber kümmern muss. Seine ‚Renato Flash‘ wird er sich selber kaufen und spätestens Weihnachten wird er das Geld zusammen haben. Er versucht sich als Austräger für Werbezettel, als Straßenmusiker, führt Hunde aus, macht einen Flohmarkt. Aber was er auch anpackt, alles will nicht so recht gelingen. Das mit dem Geld verdienen hatte er sich doch etwas einfacher vorgestellt. Aber dann kommt Weihnachten und wie Toni doch noch zu seinen begehrten Kickstiefeln kommt, das erzählt diese vergnügliche Geschichte im Comicstil.
+Text:
+
+Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballschuhen "Renato Flash" erfährt, ist sofort klar: Diese Schuhe muss er haben. Sie blinken bei jeder Ballberührung und werden sein Spiel unwiderstehlich machen. Leider haben weder seine Mutter noch sein Opa dafür Verständnis.
+
+Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber kümmern muss. Seine "Renato Flash" wird er sich selber kaufen und spätestens Weihnachten wird er das Geld zusammen haben. Er versucht sich als Austräger für Werbezettel, als Straßenmusiker, führt Hunde aus, macht einen Flohmarkt. Aber was er auch anpackt, alles will nicht so recht gelingen. Das mit dem Geld verdienen hatte er sich doch etwas einfacher vorgestellt. Aber dann kommt Weihnachten und wie Toni doch noch zu seinen begehrten Kickstiefeln kommt, das erzählt diese vergnügliche Geschichte im Comicstil.
 
 ----
 
 Verdict: 
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +46,7 @@ Isbn: 978-3-407-75425-7
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Philip-Waechter/Toni/63715/10002/3000001023395/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001023395/63715/10002/-3/Buecher_Kinder--und-Jugend/Philip-Waechter/Toni
 
 ----
 
@@ -74,7 +94,7 @@ Binding: Pappband
 
 ----
 
-Categories: Comics
+Categories: Graphic Novel
 
 ----
 

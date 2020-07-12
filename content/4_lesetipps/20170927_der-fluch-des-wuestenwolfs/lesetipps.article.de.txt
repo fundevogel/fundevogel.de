@@ -10,6 +10,10 @@ Verdict: Ein bis zum Ende atemberaubend spannendes Buch!
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-09-27
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-8251-7965-6
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Paul-Biegel/Der-Fluch-des-Wuestenwolfs/63715/4099276460822233275/4099276460851044509/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851044509/63715/10002/-3/Buecher_Fantasy/Paul-Biegel/Der-Fluch-des-Wuestenwolfs
 
 ----
 
@@ -74,7 +90,7 @@ Binding: Halbleinen
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

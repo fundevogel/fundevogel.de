@@ -10,6 +10,10 @@ Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache K
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-01-12
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-407-82161-4
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460851907197/Buecher_Kinder--und-Jugend/Ingo-Siegner/Eliot-und-Isabella-im-Finsterwald
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851907197/63715/10002/-3/Buecher_Abenteuer/Ingo-Siegner/Eliot-und-Isabella-im-Finsterwald
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 
-Topics: Abenteuer, Freundschaft
+Topics: Abenteuer, Freundschaft, Erstlesebuch
 
 ----
 

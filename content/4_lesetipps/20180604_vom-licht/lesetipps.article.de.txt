@@ -91,7 +91,7 @@ Publisher: Satyr Verlag
 
 ----
 
-Age: 
+Age: ab 12 Jahren
 
 ----
 
@@ -103,11 +103,11 @@ Binding: gebunden
 
 ----
 
-Categories: Roman
+Categories: Roman, Jugendbuch
 
 ----
 
-Topics: Christentum, Familiensaga / Generationenroman
+Topics: Christentum, Emanzipation, Familie
 
 ----
 

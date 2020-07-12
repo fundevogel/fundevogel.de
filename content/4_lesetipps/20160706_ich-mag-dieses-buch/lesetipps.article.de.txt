@@ -10,6 +10,10 @@ Verdict: Ich mag ... das Buch!
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2016-07-06
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-551-17061-3
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/4099276460851007401/63715/10002/-3/Buecher_Kinder--und-Jugend/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851007401/63715/10002/-3/Buecher_Kinder--und-Jugend/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach
 
 ----
 
@@ -78,7 +94,7 @@ Categories: Bilderbuch
 
 ----
 
-Topics: Papp-Bilderbuch, Selbstbewusstsein, Toleranz
+Topics: Selbstbewusstsein, Toleranz
 
 ----
 

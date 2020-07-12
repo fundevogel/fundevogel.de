@@ -10,6 +10,10 @@ Verdict: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorur
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-03-26
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-522-18457-1
 
 ----
 
-Shop: http://shop.fundevogel.de/product/3000000614598/Buecher_Kinder--und-Jugend/Oliver-Scherz/Ein-Freund-wie-kein-anderer
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000614598/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Ein-Freund-wie-kein-anderer
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 

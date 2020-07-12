@@ -2,11 +2,19 @@ Title: Der Katze ist es ganz egal
 
 ----
 
-Text: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf die Spur gekommen: sie ist eigentlich gar kein Bub, sondern ein Mädchen. Aber Mama, Papa, Oma und Opa wollen das noch nicht so recht begreifen und stellen sich quer. Dabei könnten sie sich doch einfach mal ein Beispiel an der Katze nehmen, der ist das schließlich alles egal. Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die Stella, sie viel besser verstehen und ihr mit Rat und Tat zur Seite stehen. Denn für die drei Freunde ist es wichtig, ganz Wien zu zeigen, was für ein tolles Mädchen die Jennifer ist. Doof nur, dass Jennifer immer noch die Klamotten vom Leo hat, aber das ist kein Problem für die vier. Schnurstracks wird die Schule geschwänzt und los geht die abenteuerliche Suche in den Straßen Wiens nach schönen Kleidern, Frisuren, Schuhen und vor allem nach Jennifers Ich. Und als Jennifer nach der Schule nicht nach Hause kommt, machen sich auch Mama, Papa, Oma und Opa auf die Suche denn eines ist klar: ob Jennifer oder Leo, Sorgen machen sie sich auf alle Fälle.
+Text:
+
+Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf die Spur gekommen: sie ist eigentlich gar kein Bub, sondern ein Mädchen. Aber Mama, Papa, Oma und Opa wollen das noch nicht so recht begreifen und stellen sich quer. Dabei könnten sie sich doch einfach mal ein Beispiel an der Katze nehmen, der ist das schließlich alles egal.
+
+Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die Stella, sie viel besser verstehen und ihr mit Rat und Tat zur Seite stehen. Denn für die drei Freunde ist es wichtig, ganz Wien zu zeigen, was für ein tolles Mädchen die Jennifer ist. Doof nur, dass Jennifer immer noch die Klamotten vom Leo hat, aber das ist kein Problem für die vier. Schnurstracks wird die Schule geschwänzt und los geht die abenteuerliche Suche in den Straßen Wiens nach schönen Kleidern, Frisuren, Schuhen und vor allem nach Jennifers Ich. Und als Jennifer nach der Schule nicht nach Hause kommt, machen sich auch Mama, Papa, Oma und Opa auf die Suche denn eines ist klar: ob Jennifer oder Leo, Sorgen machen sie sich auf alle Fälle.
 
 ----
 
-Verdict:
+Verdict: 
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -34,7 +54,7 @@ Book-title: Der Katze ist es ganz egal
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -46,11 +66,11 @@ Illustrator: Theresa Strozyk
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -74,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur, Kinderliteratur/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Freundschaft, Transgender
+Topics: Freundschaft, Transsexualität
 
 ----
 

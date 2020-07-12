@@ -10,6 +10,10 @@ Verdict: Ein spannendes Ferienabenteuer über die allererste Liebe und eine star
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-07-27
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-423-76174-1
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Beate-Doelling/Zuckerkringel-Ferien-mit-Marie/63715/4099276460822233275/4099276460853500835/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853500835/63715/10002/-3/Buecher_Kinder--und-Jugend/Beate-Doelling/Zuckerkringel-Ferien-mit-Marie
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinderliteratur/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Erste Liebe
+Topics: Erste Liebe, Ferien, Abenteuer, Meer
 
 ----
 

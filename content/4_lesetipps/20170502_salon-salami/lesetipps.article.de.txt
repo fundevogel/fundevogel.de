@@ -2,11 +2,19 @@ Title: Salon Salami
 
 ----
 
-Text: Ich bin Hani. In der Schule nennt man mich Hani Salami. Stimmt eigentlich nicht. Salmani heißt der Friseursalon meines Vater, schnell gelesen: Salami. Wir wohnen mit meinem Bruder Moma oben drüber, zu dritt. Ohne meine Mutter, die ist weg. Vor kurzem habe ich eine Bank überfallen, denn ich will ins Gefängnis. Das hat aber nicht geklappt, wie ich es mir vorgestellt hatte. Erst hat mich keiner gehört. Und dann hat mich die Polizei geholt. Willst du wissen, wie es weiter geht? Das erfährst du in meinem Buch!
+Text:
+
+Ich bin Hani. In der Schule nennt man mich Hani Salami. Stimmt eigentlich nicht. Salmani heißt der Friseursalon meines Vater, schnell gelesen: Salami. Wir wohnen mit meinem Bruder Moma oben drüber, zu dritt. Ohne meine Mutter, die ist weg.
+
+Vor kurzem habe ich eine Bank überfallen, denn ich will ins Gefängnis. Das hat aber nicht geklappt, wie ich es mir vorgestellt hatte. Erst hat mich keiner gehört. Und dann hat mich die Polizei geholt. Willst du wissen, wie es weiter geht? Das erfährst du in meinem Buch!
 
 ----
 
 Verdict: Eine spannende, lustige und doch sehr kluge Geschichte.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +46,7 @@ Isbn: 978-3-7915-0047-8
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/4099276460853611539/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Benjamin-Tienti/Salon-Salami-Einer-ist-immer-besonders
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853611539/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Benjamin-Tienti/Salon-Salami-Einer-ist-immer-besonders
 
 ----
 
@@ -74,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Abenteuer, Deutsch-französischer Jugendliteraturpreis
+Topics: Abenteuer, Familie
 
 ----
 

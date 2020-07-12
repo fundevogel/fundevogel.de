@@ -10,6 +10,10 @@ Verdict: Eine berührende Geschichte, die von den zauberhaften Illustrationen vo
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2019-12-13
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -46,11 +62,11 @@ Illustrator: Hanna Jung
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Roman
+Categories: Kinderbuch
 
 ----
 

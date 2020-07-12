@@ -46,7 +46,7 @@ Isbn: 978-3-407-81232-2
 
 ----
 
-Shop:
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626266/63715/10002/-3/Buecher_Kinder--und-Jugend/Maria-Farrer/Hallo-Herr-Eisbaer
 
 ----
 
@@ -66,11 +66,11 @@ Illustrator: Daniel Rieley
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -94,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Geschwister / Geschwisterbeziehung
+Topics: Geschwister, Autismus, Schattenkinder
 
 ----
 
@@ -112,4 +112,4 @@ Seotitle: Hallo, Herr Eisbär!
 
 ----
 
-Seodescription:
+Seodescription: 

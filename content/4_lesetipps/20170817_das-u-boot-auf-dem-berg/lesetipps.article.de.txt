@@ -10,6 +10,10 @@ Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel,
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-08-17
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-864-29367-2
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460853507847/Buecher_Kinder--und-Jugend/Ulrich-Fasshauer/Das-U-Boot-auf-dem-Berg
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853507847/63715/10002/-3/Buecher_Kinder--und-Jugend/Ulrich-Fasshauer/Das-U-Boot-auf-dem-Berg
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinderliteratur/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Psychische Erkrankung / Psychokrankheiten
+Topics: Psychische Erkrankungen
 
 ----
 

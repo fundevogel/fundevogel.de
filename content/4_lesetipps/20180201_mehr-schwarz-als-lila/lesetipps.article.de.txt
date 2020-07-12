@@ -90,7 +90,7 @@ Publisher: Rowohlt, Berlin
 
 ----
 
-Age: ab 12 Jahren
+Age: ab 14 Jahren
 
 ----
 
@@ -102,7 +102,7 @@ Binding: gebunden
 
 ----
 
-Categories: Roman
+Categories: Roman, Jugendbuch
 
 ----
 

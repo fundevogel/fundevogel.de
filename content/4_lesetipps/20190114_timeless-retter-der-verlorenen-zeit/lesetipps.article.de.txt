@@ -21,6 +21,10 @@ Spannung und Action
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2019-01-14
 
 ----
@@ -29,7 +33,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -37,7 +53,7 @@ Isbn: 978-3-570-17447-0
 
 ----
 
-Shop: http://shop.fundevogel.de/Product/3000000186312/63715/10002/-3/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000186312/63715/10002/-3/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit
 
 ----
 
@@ -45,7 +61,7 @@ Book-title: Timeless - Retter der verlorenen Zeit
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -53,7 +69,7 @@ Author: Armand Baltazar
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
@@ -61,7 +77,7 @@ Translator: Tanja Ohlsen
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -85,11 +101,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Roman
 
 ----
 
-Topics: Fantasy
+Topics: Fantasy, Science-Fiction, Abenteuer
 
 ----
 
@@ -104,5 +120,7 @@ Seotitle: Timeless – Retter der verlorenen Zeit
 
 ----
 
-Seodescription: Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
+Seodescription:
+
+Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
 Spannung und Action

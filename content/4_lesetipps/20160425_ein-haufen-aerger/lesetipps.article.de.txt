@@ -2,11 +2,19 @@ Title: Ein Haufen Ärger
 
 ----
 
-Text: Van Gogh und Rudolf haben es gut in Amsterdam! Dem Kater fehlt zwar ein Ohr und die Wasserratte fürchtet sich (nur ein wenig) vor Wasser, aber Van Gogh und Rudolf sind befreundet und führen ein sehr entspanntes Leben auf ihrem Hausboot. Ganz allein! Bis zu dem Tag, wo ein Blässhuhn sein Ei genau auf ihrem Boot ausbrüten will … und dann kommt noch ein Papagei dazu, der Gesellschaft sucht…und noch eine Schlange, die verzweifelt ist, weil niemand sie liebt…und die schöne Chouchou, Van Goghs Verehrerin! Das Zusammenleben wird nicht einfach, aber bald ist das Team bereit, gemeinsam die Hunde zu bekämpfen, die auch noch auf dem Boot einziehen möchten. Es gibt Ärger!
+Text:
+
+Van Gogh und Rudolf haben es gut in Amsterdam! Dem Kater fehlt zwar ein Ohr und die Wasserratte fürchtet sich (nur ein wenig) vor Wasser, aber Van Gogh und Rudolf sind befreundet und führen ein sehr entspanntes Leben auf ihrem Hausboot. Ganz allein! Bis zu dem Tag, wo ein Blässhuhn sein Ei genau auf ihrem Boot ausbrüten will ... und dann kommt noch ein Papagei dazu, der Gesellschaft sucht ... und noch eine Schlange, die verzweifelt ist, weil niemand sie liebt ... und die schöne Chouchou, Van Goghs Verehrerin!
+
+Das Zusammenleben wird nicht einfach, aber bald ist das Team bereit, gemeinsam die Hunde zu bekämpfen, die auch noch auf dem Boot einziehen möchten. Es gibt Ärger!
 
 ----
 
 Verdict: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +46,7 @@ Isbn: 978-3-596-80479-5
 
 ----
 
-Shop: http://shop.fundevogel.de/product/1602295/Buecher_Kinder--und-Jugend/Sabine-Ludwig/Ein-Haufen-aerger
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1602296/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Ludwig/Ein-Haufen-aerger
 
 ----
 
@@ -70,15 +90,15 @@ Price: 7,95
 
 ----
 
-Binding: 
+Binding: gebunden
 
 ----
 
-Categories: 
+Categories: Kinderbuch
 
 ----
 
-Topics: 
+Topics: Tiere, Freundschaft
 
 ----
 

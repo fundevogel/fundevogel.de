@@ -10,11 +10,13 @@ Für Hanneke ist es aber kein Experiment, sondern Realität, denn sie lebt in ei
 
 Hanneke ist 18 Jahre alt und versorgt jetzt ihre Familie, indem sie heimlich die ergaunerten Lebensmittelkarten auf dem Schwarzmarkt gegen Luxusgüter wie Zigaretten oder Parfüm eintauscht und teuer an reiche Auftraggeber verkauft. Um sich in diesem Geschäft zu behaupten, legt sie sich eine Menge Tricks zu – und eine vollkommen nüchterne Geschäftsmäßigkeit.
 
-Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, ihr Freund ist im bewaffneten Krieg an der Front gestorben. Hanneke möchte nur eines: vergessen und überleben! Aber dann geschehen Dinge, vor denen sie ihre Augen und ihr Herz nicht länger verschließen kann. Das jüdische Mädchen im blauen Mantel verschwindet spurlos aus einem sicheren Versteck und Hanneke bekommt einen neuen Auftrag, nämlich dieses Mädchen schnellstmöglich zu finden. Für sie alleine ist der Auftrag jedoch zu groß. – Sie braucht Verbündete, aber wem kann sie noch vertrauen? Und, darf sie nur ein Mädchen vor der Deportation retten, während Millionen andere getötet werden?
-
 ----
 
 Verdict: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
+
+----
+
+Conclusion: Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, ihr Freund ist im bewaffneten Krieg an der Front gestorben. Hanneke möchte nur eines: vergessen und überleben! Aber dann geschehen Dinge, vor denen sie ihre Augen und ihr Herz nicht länger verschließen kann. Das jüdische Mädchen im blauen Mantel verschwindet spurlos aus einem sicheren Versteck und Hanneke bekommt einen neuen Auftrag, nämlich dieses Mädchen schnellstmöglich zu finden. Für sie alleine ist der Auftrag jedoch zu groß. – Sie braucht Verbündete, aber wem kann sie noch vertrauen? Und, darf sie nur ein Mädchen vor der Deportation retten, während Millionen andere getötet werden?
 
 ----
 
@@ -22,11 +24,23 @@ Date: 2019-05-27
 
 ----
 
-Conclusion-wanted: false
+Conclusion-wanted: true
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -82,11 +96,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur, Kinderliteratur/Jugendliteratur
+Categories: Jugendbuch
 
 ----
 
-Topics: Amsterdam, Geschichte, Erste Liebe, Judenverfolgung (Nationalsozialismus), Widerstand (Nationalsozialismus), Young Adult
+Topics: Amsterdam, Geschichte, Erste Liebe, Juden, Nationalsozialismus
 
 ----
 

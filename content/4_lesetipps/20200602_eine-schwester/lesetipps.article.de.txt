@@ -58,7 +58,7 @@ Book-title: Eine Schwester
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -66,7 +66,7 @@ Author: Bastien Vivès
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
@@ -74,7 +74,7 @@ Translator: Heike Drescher
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -98,7 +98,7 @@ Binding: gebunden
 
 ----
 
-Categories: Comic
+Categories: Graphic Novel
 
 ----
 

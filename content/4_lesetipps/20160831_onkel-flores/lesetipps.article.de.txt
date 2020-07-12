@@ -14,6 +14,10 @@ Verdict:
 
 ----
 
+Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der jedoch ungemütliche Themen wie Umweltverschmutzung und die Auswirkungen der Globalisierung eine wesentliche Rolle spielen. Rauchwolken aus Zeitungspapier, Wiesen und Pflanzen aus grünem Transparentpapier und natürlich viele bunte Stoffreste … ein Blick in das Buch lohnt sich!
+
+----
+
 Date: 2016-08-31
 
 ----
@@ -22,7 +26,19 @@ Conclusion-wanted: true
 
 ----
 
-Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der jedoch ungemütliche Themen wie Umweltverschmutzung und die Auswirkungen der Globalisierung eine wesentliche Rolle spielen. Rauchwolken aus Zeitungspapier, Wiesen und Pflanzen aus grünem Transparentpapier und natürlich viele bunte Stoffreste … ein Blick in das Buch lohnt sich!
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -30,7 +46,7 @@ Isbn: 978-3-905804-72-0
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/4099276460851008340/63715/10002/-3/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851008340/63715/10002/-3/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores
 
 ----
 
@@ -82,7 +98,7 @@ Categories: Bilderbuch
 
 ----
 
-Topics: Brasilien, Globalisierung
+Topics: Brasilien, Globalisierung, Arbeitswelt
 
 ----
 

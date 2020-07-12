@@ -2,15 +2,11 @@ Title: Warum gibt es uns?
 
 ----
 
-Text:
-
-Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? Zwischen diesen beiden Fragen werden grundlegende, durchaus schwierige naturwissenschaftliche Zusammenhänge kinderleicht erklärt: von chemischen Prozessen über die Relativitätstheorie bis hin zu Fragen der Zukunftsforschung. Und das nicht nur mit wissenschaftlicher Genauigkeit, sondern immer auch mit einem Augenzwinkern und anschaulichen Beispielen aus dem Alltag.
-
-Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
+Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? Zwischen diesen beiden Fragen werden grundlegende, durchaus schwierige naturwissenschaftliche Zusammenhänge kinderleicht erklärt: von chemischen Prozessen über die Relativitätstheorie bis hin zu Fragen der Zukunftsforschung. Und das nicht nur mit wissenschaftlicher Genauigkeit, sondern immer auch mit einem Augenzwinkern und anschaulichen Beispielen aus dem Alltag.
 
 ----
 
-Verdict: 
+Verdict: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
 
 ----
 

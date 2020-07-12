@@ -10,6 +10,10 @@ Verdict: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Sü
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2016-08-17
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-7891-2033-6
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460851356366/Buecher_Abenteuer/Kirsten-Boie/Thabo-Detektiv--Gentleman---Der-Nashorn-Fall
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851356366/63715/10002/-3/Buecher_Kinder--und-Jugend/Kirsten-Boie/Thabo-Detektiv--Gentleman---Der-Nashorn-Fall
 
 ----
 
@@ -74,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

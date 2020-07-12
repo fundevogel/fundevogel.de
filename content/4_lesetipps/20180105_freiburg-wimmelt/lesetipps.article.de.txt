@@ -10,6 +10,10 @@ Verdict: All das und noch viel mehr lässt sich auf den prall gefüllten Seiten 
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-01-05
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-8425-2043-1
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Bilderbuecher/Steph-Burlefinger/Freiburg-wimmelt/63715/4099276460822233275/3000000309416/-3/4099276460822241241/%204099276460822241224/%204099276460822241224#
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000309416/63715/10002/-3/Buecher_Bilderbuecher/Steph-Burlefinger/Freiburg-wimmelt
 
 ----
 
@@ -78,7 +94,7 @@ Categories: Bilderbuch
 
 ----
 
-Topics: Freiburg, Suchbild / Vexierbild / Wimmelbild
+Topics: Freiburg, Wimmelbilder
 
 ----
 

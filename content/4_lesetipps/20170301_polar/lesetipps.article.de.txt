@@ -62,7 +62,7 @@ Book-subtitle: Ein Photicular Buch
 
 ----
 
-Author: Dan Kainen; Carol Kaufmann
+Author: Dan Kainen & Carol Kaufmann
 
 ----
 
@@ -98,11 +98,11 @@ Binding: gebunden
 
 ----
 
-Categories: Sachbuch
+Categories: Sachbuch, Bilderbuch
 
 ----
 
-Topics: Arktis / Nordpol
+Topics: Nordpol, Tiere
 
 ----
 

@@ -6,10 +6,11 @@ Text: Carlo ist 11 und auf dem Weg nach Palermo. Das ist ziemlich weit weg und l
 
 ----
 
-Verdict:
+Verdict: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
 
-Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
-Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern.
+----
+
+Conclusion: Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen (link: kalender/lirum-larum-lesefest text: Lirum-Larum-Lesefest) und liest für Euch aus seinen Büchern.
 
 ----
 
@@ -17,11 +18,23 @@ Date: 2017-10-12
 
 ----
 
-Conclusion-wanted: false
+Conclusion-wanted: true
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -29,7 +42,7 @@ Isbn: 978-3-522-18395-6
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460848873279/Buecher_Kinder--und-Jugend/Oliver-Scherz/Keiner-haelt-Don-Carlo-auf
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848873279/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Keiner-haelt-Don-Carlo-auf
 
 ----
 
@@ -77,7 +90,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

@@ -2,11 +2,19 @@ Title: Grüße vom Mars - Notlandung bei Oma und Opa
 
 ----
 
-Text: Oma und Opa wohnen im Marswinkel – und sind so ganz anders, als man sich Omas und Opas eigentlich vorstellt. Tom, Nina und Elmar kommen sich manchmal tatsächlich vor wie auf dem Mars! Oma und Opa wohnen nämlich in Lunau, einem kleinen Städtchen, in dem man noch nicht einmal Handyempfang hat. Dafür gibt es aber ein geheimnisvolles Monster im Garten und einen Dachboden, von dem aus man das Weltall beobachten kann. Für Tom fühlt es sich an wie eine echte Mars-Expedition! Aber was hat das alles mit einem Bulli-Bus, der Farbe Rot und einer blauen Muschel zu tun ?!
+Text:
+
+Oma und Opa wohnen im Marswinkel – und sind so ganz anders, als man sich Omas und Opas eigentlich vorstellt. Tom, Nina und Elmar kommen sich manchmal tatsächlich vor wie auf dem Mars! Oma und Opa wohnen nämlich in Lunau, einem kleinen Städtchen, in dem man noch nicht einmal Handyempfang hat.
+
+Dafür gibt es aber ein geheimnisvolles Monster im Garten und einen Dachboden, von dem aus man das Weltall beobachten kann. Für Tom fühlt es sich an wie eine echte Mars-Expedition! Aber was hat das alles mit einem Bulli-Bus, der Farbe Rot und einer blauen Muschel zu tun ?!
 
 ----
 
 Verdict: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinder ab 8 Jahren, in dem es auch darum geht, dass man als Team schwierige Abenteuer gemeinsam meistern kann.
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,7 +94,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
+Categories: Kinderbuch
 
 ----
 

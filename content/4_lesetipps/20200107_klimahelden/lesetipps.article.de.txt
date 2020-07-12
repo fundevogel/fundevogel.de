@@ -10,12 +10,11 @@ Und wer isst den Fisch?
 
 ----
 
-Verdict:
+Verdict: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
 
-Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen.
+----
 
-Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen.
-Lasst uns damit gemeinsam anfangen!
+Conclusion: 
 
 ----
 
@@ -27,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -35,7 +46,7 @@ Isbn: 978-3-86256-098-1
 
 ----
 
-Shop: http://shop.fundevogel.de/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
 
 ----
 
@@ -55,11 +66,11 @@ Illustrator: Volker Konrad
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -83,11 +94,11 @@ Binding: kartoniert
 
 ----
 
-Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
+Categories: Kinderbuch
 
 ----
 
-Topics: Klima / Klimatologie, Umweltschutz
+Topics: Umweltschutz, Klimawandel
 
 ----
 

@@ -2,11 +2,19 @@ Title: Mitten im Dschungel
 
 ----
 
-Text: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich gestellt: Der Junge Fred aus London, das Mädchen Lila und ihr kleiner Bruder Max aus Brasilien und das englische Mädchen Con. Für die vier Kinder beginnt ein Kampf ums Überleben. Ihr Plan ist es, den nächstgelegenen Ort zu erreichen, um dort Hilfe zu erhalten. Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut und ein Feuer entzündet; Lila kennt sich gut in der heimischen Tier- und Pflanzenwelt aus. Doch wird es ihnen gelingen, im Dschungel zu überleben und aus dem Urwald herauszufinden?
+Text:
+
+Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich gestellt: Der Junge Fred aus London, das Mädchen Lila und ihr kleiner Bruder Max aus Brasilien und das englische Mädchen Con. Für die vier Kinder beginnt ein Kampf ums Überleben. Ihr Plan ist es, den nächstgelegenen Ort zu erreichen, um dort Hilfe zu erhalten.
+
+Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut und ein Feuer entzündet; Lila kennt sich gut in der heimischen Tier- und Pflanzenwelt aus. Doch wird es ihnen gelingen, im Dschungel zu überleben und aus dem Urwald herauszufinden?
 
 ----
 
-Verdict:
+Verdict: 
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion:
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -34,7 +54,7 @@ Book-title: Mitten im Dschungel
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -42,7 +62,7 @@ Author: Katherine Rundell
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
@@ -50,7 +70,7 @@ Translator: Henning Ahrens
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -74,11 +94,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur, Kinder-/Jugendlit.
+Categories: Kinderbuch
 
 ----
 
-Topics: Abenteuer, Amazonas, Flugzeugabsturz / Absturz (Flugzeug), Freundschaft, Regenwald / Dschungel
+Topics: Abenteuer, Amazonas, Freundschaft, Regenwald, Flugzeugabsturz
 
 ----
 

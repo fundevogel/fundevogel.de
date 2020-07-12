@@ -62,7 +62,7 @@ Book-title: Ausflug zum Mond
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -70,15 +70,15 @@ Author: John Hare
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -106,7 +106,7 @@ Categories: Bilderbuch
 
 ----
 
-Topics: Mond, Zukunft, Weltall
+Topics: Mond, Zukunft, Weltall, Außerirdische, Schule
 
 ----
 
@@ -116,8 +116,8 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

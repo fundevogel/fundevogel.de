@@ -8,13 +8,17 @@ Seit sie denken können, sind Otto und Matti gute Freunde. Sie gehen in die glei
 
 Bei Frau Schütz haben sie Musikunterricht und immer, wenn sie singen sollen, brummt Otto. Er kann nicht singen, er kann nur brummen.
 
-Die beiden Freunde erhalten die Aufgabe, einen Rapp zu dichten und diesen vor der Klasse aufzuführen. Diesen Rap nennen die beiden "Die Herren Kinder", denn so werden sie täglich von Herrn Zimmermannn begrüßt, dessen kleiner Laden 'Zur Ecke' auf ihrem Schulweg liegt. Herr Zimmermann raucht wie ein Schlot und ist ein echter Griesgram, aber bei ihm gibt es besonders gute Süßigkeiten zum kleinen Preis.
+Die beiden Freunde erhalten die Aufgabe, einen Rapp zu dichten und diesen vor der Klasse aufzuführen. Diesen Rap nennen die beiden "Die Herren Kinder", denn so werden sie täglich von Herrn Zimmermannn begrüßt, dessen kleiner Laden "Zur Ecke" auf ihrem Schulweg liegt. Herr Zimmermann raucht wie ein Schlot und ist ein echter Griesgram, aber bei ihm gibt es besonders gute Süßigkeiten zum kleinen Preis.
 
 Doch eines Tages ist der Laden zu und auf dem Schild steht dick und fett geschrieben: "Wegen Vorfall geschlossen". Damit beginnt für Otto und Matti die spannende und dramatische Geschichte zur Rettung des Ladens, denn Herr Zimmermann ist überfallen worden. Und bei dieser Rettung spielt der Rap der beiden eine nicht unbedeutende Rolle ...
 
 ----
 
-Verdict: Eine spannende Geschichte für schlaue Köpfe
+Verdict: Eine spannende Geschichte für schlaue Köpfe!
+
+----
+
+Conclusion: 
 
 ----
 
@@ -26,7 +30,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -34,7 +50,7 @@ Isbn: 978-3-8369-5625-3
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Silke-Lambeck/Mein-Freund-Otto-das-wilde-Leben-und-ich/63715/10002/3000001057129/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001057129/63715/10002/-3/Buecher_Kinder--und-Jugend/Silke-Lambeck/Mein-Freund-Otto-das-wilde-Leben-und-ich
 
 ----
 
@@ -82,7 +98,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

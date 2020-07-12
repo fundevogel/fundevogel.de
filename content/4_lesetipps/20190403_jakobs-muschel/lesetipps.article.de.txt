@@ -16,6 +16,10 @@ Verdict: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und 
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2019-04-03
 
 ----
@@ -24,7 +28,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -80,7 +96,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

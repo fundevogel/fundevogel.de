@@ -88,7 +88,7 @@ Publisher: Beltz
 
 ----
 
-Age: ab 3 Jahren
+Age: ab 4 Jahren
 
 ----
 
@@ -100,11 +100,11 @@ Binding: gebunden
 
 ----
 
-Categories: Sachbuch
+Categories: Sachbuch, Bilderbuch
 
 ----
 
-Topics: Ausklapp-Bilderbuch/Bewegungsbilderbuch, Marienkäfer
+Topics: Marienkäfer, Ausklappbar
 
 ----
 

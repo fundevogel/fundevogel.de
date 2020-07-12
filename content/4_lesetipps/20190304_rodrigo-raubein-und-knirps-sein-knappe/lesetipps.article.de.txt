@@ -2,11 +2,19 @@ Title: Rodrigo Raubein und Knirps, sein Knappe
 
 ----
 
-Text: Diese Geschichte beginnt mitten im Mittelalter, an einem Mittwoch um Mitternacht. Mit von der Partie sind ein lebenskluger Papagei, ein kleiner Junge, mit mehr Mut als Verstand und ein gefürchteter Raubritter, der es lieber vorzieht, Kakteen zu züchten, anstatt den Leuten Angst einzujagen. Ebenso dabei: sehr besorgte Eltern! Unterwegs treffen wir auf eine entführte Prinzessin, einen schlechtgelaunten Drachen, den fiesen Zauberer Rabanus Rochus und einen trübsinnigen König. Doch schließlich ist es der kleinste von allen, der in dieser turbulenten Geschichte das größte Chaos stiftet und ein ganzes Königreich in Aufruhr versetzt…
+Text:
+
+Diese Geschichte beginnt mitten im Mittelalter, an einem Mittwoch um Mitternacht. Mit von der Partie sind ein lebenskluger Papagei, ein kleiner Junge, mit mehr Mut als Verstand und ein gefürchteter Raubritter, der es lieber vorzieht, Kakteen zu züchten, anstatt den Leuten Angst einzujagen. Ebenso dabei: sehr besorgte Eltern!
+
+Unterwegs treffen wir auf eine entführte Prinzessin, einen schlechtgelaunten Drachen, den fiesen Zauberer Rabanus Rochus und einen trübsinnigen König. Doch schließlich ist es der kleinste von allen, der in dieser turbulenten Geschichte das größte Chaos stiftet und ein ganzes Königreich in Aufruhr versetzt ...
 
 ----
 
-Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt.
+Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt!
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,7 +94,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch, Vorlesebuch
 
 ----
 

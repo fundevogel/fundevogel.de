@@ -10,12 +10,4 @@ Altattribute: Cover des Buches "Salon Salami" von Benjamin Tienti
 
 ----
 
-Caption-wanted: false
-
-----
-
-Caption: 
-
-----
-
 Template: image

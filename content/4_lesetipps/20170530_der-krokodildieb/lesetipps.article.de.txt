@@ -10,6 +10,10 @@ Verdict: Empfehlenswert!
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-05-30
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 9783-4078-2109-6
 
 ----
 
-Shop: http://shop.fundevogel.de/product/4099276460851006974/Buecher_Kinder--und-Jugend/Taran-Bjrnstad/Der-Krokodildieb
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851006974/63715/10002/-3/Buecher_Kinder--und-Jugend/Taran-Bjrnstad/Der-Krokodildieb
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendlit., Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Krokodil, Mobbing, Mut, Schule
+Topics: Mobbing, Mut, Schule
 
 ----
 

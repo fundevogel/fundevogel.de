@@ -10,6 +10,10 @@ Verdict: Eine Geschichte, die spannend und leichtfüßig erzählt ist.
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2020-07-07
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinderliteratur/Jugendliteratur, Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Familienroman / Familienerzählung, Garten, Sommer
+Topics: Garten, Sommer, Familie
 
 ----
 

@@ -10,6 +10,10 @@ Verdict: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-06-05
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-499-21184-3
 
 ----
 
-Shop: http://shop.fundevogel.de/product/414874/Buecher_Kinder--und-Jugend/Roald-Dahl/Danny-oder-Die-Fasanenjagd
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/414874/63715/10002/-3/Buecher_Kinder--und-Jugend/Roald-Dahl/Danny-oder-Die-Fasanenjagd
 
 ----
 
@@ -74,7 +90,7 @@ Binding: kartoniert
 
 ----
 
-Categories: Kinder-/Jugendlit.
+Categories: Kinderbuch
 
 ----
 

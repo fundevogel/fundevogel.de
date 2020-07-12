@@ -6,7 +6,7 @@ Text:
 
 Tobi wird zwölf. Und mit zwölf kriegt man meistens eine Zahnspange. Auf jeden Fall war das bei seiner Schwester so, und bei vielen anderen in der Klasse. Nur bei Tobi läuft alles ganz anders …
 
-„Pass gut auf, was in deinem Mund geschieht…“, flüstert ihm Docteur Letroux, der Kieferorthopäde, geheimnisvoll und verschwörerisch zu.
+"Pass gut auf, was in deinem Mund geschieht ...", flüstert ihm Docteur Letroux, der Kieferorthopäde, geheimnisvoll und verschwörerisch zu.
 
 Schnell merkt Tobi, dass seine Zahnspange magische Kräfte hat. Sie spricht zu ihm! Und scheint alles zu wissen. Wenn er sie trägt, sind die Hausaufgaben im Nu erledigt! So wird der schüchterne Tobi nicht nur gut in der Schule, sondern auch ein ausgezeichneter Fussballspieler. Denn die magische Zahnspange weiß, wie man Tore schießen kann und verleiht Tobi ungeahnte Kräfte.
 
@@ -18,6 +18,10 @@ Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsa
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2019-09-02
 
 ----
@@ -26,7 +30,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -82,11 +98,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Abenteuer, Magie
+Topics: Abenteuer, Magie, Zahnspangen
 
 ----
 

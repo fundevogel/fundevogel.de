@@ -10,6 +10,10 @@ Verdict: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- u
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2018-07-26
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -26,7 +42,7 @@ Isbn: 978-3-95470-186-5
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Kinder--und-Jugend/Thomas-Engelhardt/Im-Gefaengnis/63715/10002/3000000644450/-3/4099276460822241240/%204099276460822241224/%204099276460822241224
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000644450/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Engelhardt/Im-Gefaengnis
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kindersachbuch/Jugendsachbuch, Kinder-/Jugendliteratur
+Categories: Sachbuch
 
 ----
 
-Topics: Gefängnis / Strafanstalt, Vater
+Topics: Gefängnis, Vater
 
 ----
 

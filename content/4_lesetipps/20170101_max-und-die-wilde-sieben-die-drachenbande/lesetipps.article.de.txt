@@ -50,7 +50,7 @@ Isbn: 978-3-7891-3338-1
 
 ----
 
-Shop: 
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851356344/63715/10002/-3/Buecher_Kinder--und-Jugend/Lisa-Marie-Dickreiter/Max-und-die-Wilde-Sieben---Die-Drachenbande
 
 ----
 
@@ -62,7 +62,7 @@ Book-subtitle:
 
 ----
 
-Author: Lisa-Marie Dickreiter; Winfried Oelsner
+Author: Lisa-Marie Dickreiter & Winfried Oelsner
 
 ----
 
@@ -98,7 +98,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

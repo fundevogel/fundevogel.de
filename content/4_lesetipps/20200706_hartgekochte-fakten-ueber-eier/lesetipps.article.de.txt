@@ -10,7 +10,7 @@ Die Autorin hat sich ganz unterschiedlicher fachlicher Quellen bedient, um diese
 
 ----
 
-Conclusion-wanted: true
+Verdict: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
 
 ----
 
@@ -28,7 +28,7 @@ Date: 2020-07-06
 
 ----
 
-Verdict: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
+Conclusion-wanted: true
 
 ----
 
@@ -60,7 +60,7 @@ Book-title: Hartgekochte Fakten über Eier
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -68,7 +68,7 @@ Author: Lena Sjöberg
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
@@ -76,7 +76,7 @@ Translator: Gesa Kunter
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -104,7 +104,7 @@ Categories: Sachbuch, Bilderbuch
 
 ----
 
-Topics: Ei / Eier, Ostern
+Topics: Ei / Eier, Ostern, Experimente, Tiere, Rezepte, Basteln
 
 ----
 

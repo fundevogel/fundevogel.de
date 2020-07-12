@@ -16,6 +16,10 @@ Verdict: Eine herrlich witzige und schokoladige Geschichte für junge Leser ab 9
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -24,7 +28,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -32,7 +48,7 @@ Isbn: 978-3-551-52094-4
 
 ----
 
-Shop: http://shop.fundevogel.de/product/3000000180516/Buecher_Kinder--und-Jugend/Chris-Callaghan/Schokopokalypse
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000180516/63715/10002/-3/Buecher_Kinder--und-Jugend/Chris-Callaghan/Schokopokalypse
 
 ----
 
@@ -80,7 +96,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

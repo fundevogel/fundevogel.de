@@ -10,6 +10,10 @@ Verdict: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auc
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2020-06-08
 
 ----
@@ -18,7 +22,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,11 +90,11 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 
-Topics: Flucht / Flüchtling, Freundschaft
+Topics: Freundschaft, Flucht
 
 ----
 

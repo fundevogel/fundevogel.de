@@ -2,11 +2,19 @@ Title: Emil und die Prinzessin aus dem Nachbarhaus
 
 ----
 
-Text: Emil ist neun Jahre alt und findet, dass er ein ganz normaler Junge mit einem ganz normalen Leben ist: Er wohnt mit seinen Eltern, seiner großen Schwester, dem spazierfaulen, ständig pupsenden Königspudel Bertil und seiner Oma mit der Piepsstimme in einem ganz gewöhnlichen Haus in einer völlig normalen Straße, hat einige gute Freunde und ein paar weniger gute Freunde und macht jeden Sommer mit seiner Familie ganz normalen Campingurlaub. Doch eines Tages kommt eine neue Mitschülerin in die Klasse und plötzlich ist alles anders: Florine, die ins Nachbarhaus einzieht, stellt Emils Leben völlig auf den Kopf! Warum denkt er plötzlich nur noch an Florine, und warum bringt er in ihrer Gegenwart keinen vernünftigen Satz heraus? Florine schlägt ihm zum Glück ein Spiel vor: Sie ist eine Prinzessin und Emil ihr Diener! Also trägt Emil fortan Florines Schultasche, spitzt ihre Stifte an und erfüllt ihr auch sonst alle Wünsche. Bis sich Florine plötzlich für den angeberischen Mitschüler Alexander zu interessieren scheint ...
+Text:
+
+Emil ist neun Jahre alt und findet, dass er ein ganz normaler Junge mit einem ganz normalen Leben ist: Er wohnt mit seinen Eltern, seiner großen Schwester, dem spazierfaulen, ständig pupsenden Königspudel Bertil und seiner Oma mit der Piepsstimme in einem ganz gewöhnlichen Haus in einer völlig normalen Straße, hat einige gute Freunde und ein paar weniger gute Freunde und macht jeden Sommer mit seiner Familie ganz normalen Campingurlaub.
+
+Doch eines Tages kommt eine neue Mitschülerin in die Klasse und plötzlich ist alles anders: Florine, die ins Nachbarhaus einzieht, stellt Emils Leben völlig auf den Kopf! Warum denkt er plötzlich nur noch an Florine, und warum bringt er in ihrer Gegenwart keinen vernünftigen Satz heraus? Florine schlägt ihm zum Glück ein Spiel vor: Sie ist eine Prinzessin und Emil ihr Diener! Also trägt Emil fortan Florines Schultasche, spitzt ihre Stifte an und erfüllt ihr auch sonst alle Wünsche. Bis sich Florine plötzlich für den angeberischen Mitschüler Alexander zu interessieren scheint ...
 
 ----
 
 Verdict: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Autorin Marianne Kaurin über einen ganz normalen Jungen, dessen Leben plötzlich Kopf steht!
+
+----
+
+Conclusion: 
 
 ----
 
@@ -18,7 +26,19 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Haslesepeter: false
+
+----
+
+Lesepeter: 
+
+----
+
+Leselink: 
+
+----
+
+Islesepeter: false
 
 ----
 
@@ -74,7 +94,7 @@ Binding: gebunden
 
 ----
 
-Categories: Kinder-/Jugendliteratur
+Categories: Kinderbuch
 
 ----
 

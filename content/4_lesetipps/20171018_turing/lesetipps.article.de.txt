@@ -88,7 +88,7 @@ Publisher: avant-verlag
 
 ----
 
-Age: 
+Age: ab 14 Jahren
 
 ----
 
@@ -100,11 +100,11 @@ Binding: gebunden
 
 ----
 
-Categories: Graphic Novel
+Categories: Graphic Novel, Biographie
 
 ----
 
-Topics: Schwule, Turing
+Topics: Homosexualität, Alan Turing
 
 ----
 
