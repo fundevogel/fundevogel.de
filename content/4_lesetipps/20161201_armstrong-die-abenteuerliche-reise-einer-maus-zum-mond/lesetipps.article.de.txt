@@ -1,0 +1,125 @@
+Title: Armstrong
+
+----
+
+Text:
+
+Die kleine Maus, der die Menschen später den Namen "Armstrong" geben werden, wird trotz ihrer Beobachtungen des Mondes durch das Teleskop von den anderen Mäusen in New York nicht ernst genommen. Der Mond ein Stein? Jede Maus weiß, dass der Mond ein Käse ist, "gelb wie Gouda, dann weiß wie Camembert oder sogar rotorange wie Cheddar". Enttäuscht und ganz allein entdeckt Armstrong, wir wollen die Maus jetzt schon so nennen, eine kurze Nachricht. Ein Treffen im Luftfahrtmuseum in Washington D. C. mit einer uralten Maus bestärkt ihn, sich in die Planung zu einem Mondflug zu begeben.
+
+### Der Mond ist kein Käse
+Zu lösen sind die Probleme um die Atmung im Weltall und auf dem Mond, um den Antrieb und um die Rückkehr. Da bleiben nach anfänglichen Erfolgen Rückschläge nicht aus. Die Menschen werden auf unsere kleine Maus aufmerksam, suchen sie mit Mann und Hund, und nur durch eine schnelle Entscheidung kann sie in den Weltraum starten.
+
+Torben Kuhlmann siedelt die Bilder im Amerika der späten 1950er Jahren an. Da haben die Autos noch lange Flossen und wuchtige Kühlerhauben, es gibt Schiebefenster in den Häusern. Die Freuen tragen wandenlange Kleider mit viel Stoff und enger Taille,, die Männer Trenchcoat und Bogarthüte mit Krempe, die Telefone sind schwarz und haben eine Wählscheibe.
+Das Cover ist in Brauntönen gestaltet, mit scheinbar abgestoßenen Ecken und Kanten: Eine Maus sitzt vor ihrer Weltraumkapsel inmitten des Smithsonian-Museums in Washington D. C. auf den schwarz-weiß gemusterten Fußbodenfliesen. Über ihr hängen von der Decke einige Flugwerke aus der Zeit der Pioniere. Auf dem Vorsatz wie auf vielen weiteren Entwürfen sind (in Art der Projektzeichnungen von Leonardo da Vinci) diverse Details in Weiß aus dem schwarzen Hintergrund gekratzt. Die Schrift in den Bildern ist Englisch, wie ja auch der Ort der Handlung. Der erzählende Text ist abgesetzt, ermöglicht so also auch eine Übertragung in weitere Sprachen ("Lindbergh" ist inzwischen in über 20 Sprachen erhältlich).
+
+----
+
+Verdict: Erster auf dem Mond! Armstrong heißt er, das wissen wir. Aber wissen wir auch, dass es eine Maus war, die zudem die Grundlagen legte, dass der Mensch gleichen Namens ihr folgen konnte? Hier finden wir den Beweis. Aufregend und (nach "Lindbergh" und "Maulwurfstadt") wieder unglaublich gut gezeichnet.
+
+----
+
+Conclusion:
+
+In einem Anhang skizziert Kuhlmann kurz eine "Geschichte der Raumfahrt", die von Galileo Galilei über Konstantin Ziolkowski, Robert Goddard, den Sputnik, Laika, Juri Gagarin und Alan Shepard bis zu Apollo 11 und der ersten Mondlandung – der ja noch fünf weitere folgen sollten, nämlich Apollo 12 bis 17. Das Projekt Apollo 13 musste vorzeitig beendet werden, da ein Sauerstofftank während des Flugs explodierte "Houston, we’ve had a problem."). Ob dieser "erfolgreiche Fehlschlag" bereits von unserer kleinen Maus vorausschauend geplant war, ist nicht wirklich bewiesen, kann aber nach Lage der Dinge durchaus so sein. (Anmerkung: Immerhin ist das internationale Wort des Jahres "post-truth", also "postfaktisch".)
+
+Neben den vielen Anspielungen, die Torben Kuhlmann (auch für die erwachsenen Vorleser) in seinen Bildern versteckt, zitiert er andere: "Lunch atop a skyscaper" (1932: Arbeiter machen auf einem Stahlträger beim Bau eines Wolkenkratzers Mittagspause) hängt als Foto von Maulwürfen an der Wand in seinem Arbeitsraum, eine alte Leica-Kamera hält die Rückkehr der Maus auf die Erde fest (seitenverkehrt), im Polizeirevier hängt ein Foto von J. Edgar Hoover, dem ersten Direktor des FBI, - und ob er mit der Alu-Folie "William’s Wrap" eine Verbindung zur Modemarke der Tennisspielerin Serena Williams beabsichtigte, ist eine gewagte Vermutung, aber auch ziemlich postfaktisch.
+
+Die sehr sympathische kleine Maus mit dem starken Willen und ihr Erschaffer haben es mit diesem Buch verdient, den LesePeters zu erhalten.
+
+----
+
+Date: 2016-12-01
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Haslesepeter: true
+
+----
+
+Lesepeter: Dezember 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201612.html
+
+----
+
+Islesepeter: true
+
+----
+
+Isbn: 978-3-314-10348-3
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852058032/63715/10002/-3/Buecher_Abenteuer/Torben-Kuhlmann/Armstrong
+
+----
+
+Book-title: Armstrong
+
+----
+
+Book-subtitle: Die abenteuerliche Reise einer Maus zum Mond
+
+----
+
+Author: Torben Kuhlmann
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 128
+
+----
+
+Publisher: NordSüd Verlag
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Topics: Abenteuer, Raumfahrt, Weltall, Mäuse
+
+----
+
+Cover:
+
+- armstrong_torben-kuhlmann.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

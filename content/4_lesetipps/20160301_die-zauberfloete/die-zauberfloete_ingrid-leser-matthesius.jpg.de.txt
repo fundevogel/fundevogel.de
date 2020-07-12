@@ -1,0 +1,13 @@
+Titleattribute: "Die Zauberflöte" von Ingrid Leser-Matthesius
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Zauberflöte" von Ingrid Leser-Matthesius
+
+----
+
+Template: image
