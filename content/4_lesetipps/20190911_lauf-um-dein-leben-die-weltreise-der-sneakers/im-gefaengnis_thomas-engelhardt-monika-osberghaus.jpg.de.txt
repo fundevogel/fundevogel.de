@@ -1,0 +1,21 @@
+Titleattribute: "Im Gefängnis" von Thomas Engelhardt & Monika Osberghaus
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Im Gefängnis" von Thomas Engelhardt & Monika Osberghaus
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Der Wundergarten" von Barb Rosenstock
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Der Wundergarten" von Barb Rosenstock
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

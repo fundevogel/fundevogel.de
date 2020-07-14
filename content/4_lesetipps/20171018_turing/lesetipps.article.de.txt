@@ -32,11 +32,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Oktober 2017
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2017
 
 ----
 
@@ -44,7 +48,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

@@ -28,11 +28,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Februar 2019
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2019
 
 ----
 
@@ -40,7 +44,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-februar
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

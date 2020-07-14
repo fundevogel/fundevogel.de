@@ -32,11 +32,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: April 2019
+Award: LesePeter
+
+----
+
+Awardedition: April 2019
 
 ----
 
@@ -44,7 +48,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-bi
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

@@ -1,0 +1,21 @@
+Titleattribute: "Die Eisenbahn über den Wolken" von Li Kunwu
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Eisenbahn über den Wolken" von Li Kunwu
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

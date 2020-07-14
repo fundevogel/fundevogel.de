@@ -33,11 +33,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: August 2019
+Award: LesePeter
+
+----
+
+Awardedition: August 2019
 
 ----
 
@@ -45,7 +49,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

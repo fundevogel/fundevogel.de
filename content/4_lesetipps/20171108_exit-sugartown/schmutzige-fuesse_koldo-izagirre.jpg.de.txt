@@ -1,0 +1,21 @@
+Titleattribute: "Schmutzige Füße" von Koldo Izagirre
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Schmutzige Füße" von Koldo Izagirre
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -28,11 +28,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: false
+Hasaward: false
 
 ----
 
-Lesepeter: 
+Award: 
+
+----
+
+Awardedition: 
 
 ----
 
@@ -40,7 +44,7 @@ Leselink:
 
 ----
 
-Islesepeter: false
+Isaward: false
 
 ----
 

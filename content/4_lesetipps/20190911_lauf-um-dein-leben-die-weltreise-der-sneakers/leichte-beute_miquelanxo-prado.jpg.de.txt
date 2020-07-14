@@ -1,0 +1,21 @@
+Titleattribute: "Leichte Beute" von Miquelanxo Prado
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Leichte Beute" von Miquelanxo Prado
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

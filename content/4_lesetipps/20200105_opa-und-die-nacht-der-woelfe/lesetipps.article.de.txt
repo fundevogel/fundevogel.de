@@ -30,11 +30,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Januar 2020
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2020
 
 ----
 
@@ -42,7 +46,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-mon
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

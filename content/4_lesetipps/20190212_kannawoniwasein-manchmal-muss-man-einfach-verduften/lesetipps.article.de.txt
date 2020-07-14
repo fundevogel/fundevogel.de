@@ -4,7 +4,7 @@ Title: Kannawoniwasein - Manchmal muss man einfach verduften
 
 Text:
 
-Zum ersten Mal darf Finn alleine mit dem Zug fahren! Nach Berlin ist es zwar keine große Reise, aber trotzdem schon ziemlich aufregend. Mit 10 hat er keine Angst, natürlich nicht, aber er fühlt sich ein bisschen komisch, wenn sein Papa ihm durch das Fenster zuwinkt und am Bahnsteig immer kleiner wird. Noch komischer fühlt er sich, wenn der Schaffner ihn nach seiner Fahrkarte fragt und er seinen Rucksack nicht mehr findet. Denn er hat alles im Rucksack, auch sein Handy und sein Geld. Und als wäre das nicht schlimm genug, schmeißt ihn der Schaffner einfach raus aus dem Zug. Und im Nu steht Finn vor zwei Polizisten, die ihn wie einen Kriminellen behandeln. Kannawoniwasein – Das kann ja wohl nicht wahr sein. Hilfe! 
+Zum ersten Mal darf Finn alleine mit dem Zug fahren! Nach Berlin ist es zwar keine große Reise, aber trotzdem schon ziemlich aufregend. Mit 10 hat er keine Angst, natürlich nicht, aber er fühlt sich ein bisschen komisch, wenn sein Papa ihm durch das Fenster zuwinkt und am Bahnsteig immer kleiner wird. Noch komischer fühlt er sich, wenn der Schaffner ihn nach seiner Fahrkarte fragt und er seinen Rucksack nicht mehr findet. Denn er hat alles im Rucksack, auch sein Handy und sein Geld. Und als wäre das nicht schlimm genug, schmeißt ihn der Schaffner einfach raus aus dem Zug. Und im Nu steht Finn vor zwei Polizisten, die ihn wie einen Kriminellen behandeln. Kannawoniwasein – Das kann ja wohl nicht wahr sein. Hilfe!
 
 Ein Glück, dass er die mutige Jola kennenlernt. Sie weiß für alle Probleme eine Lösung und ist dazu noch so witzig! Die zwei entkommen der Polizei und fahren selbst nach Berlin…mit einem Traktor! Wenn nur nicht der Wolf und eine Rockerbande auf Motorrädern hinter ihnen her wären…
 
@@ -26,11 +26,15 @@ Conclusion-wanted: false
 
 ----
 
-Haslesepeter: false
+Hasaward: false
 
 ----
 
-Lesepeter: 
+Award: 
+
+----
+
+Awardedition: 
 
 ----
 
@@ -38,7 +42,7 @@ Leselink:
 
 ----
 
-Islesepeter: false
+Isaward: false
 
 ----
 

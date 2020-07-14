@@ -38,11 +38,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Februar 2020
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2020
 
 ----
 
@@ -50,7 +54,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-on-the
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

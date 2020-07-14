@@ -22,11 +22,15 @@ Conclusion-wanted: false
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: März 2020
+Award: LesePeter
+
+----
+
+Awardedition: März 2020
 
 ----
 
@@ -34,7 +38,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/johan-olsens-sach
 
 ----
 
-Islesepeter: false
+Isaward: false
 
 ----
 

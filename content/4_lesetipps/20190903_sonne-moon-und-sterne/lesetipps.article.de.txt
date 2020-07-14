@@ -26,11 +26,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: September 2019
+Award: LesePeter
+
+----
+
+Awardedition: September 2019
 
 ----
 
@@ -38,7 +42,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-septemb
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

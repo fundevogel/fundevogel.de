@@ -1,0 +1,21 @@
+Titleattribute: "Klappe, Cut, Hurra" von Henrik Hitzbleck
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Klappe, Cut, Hurra" von Henrik Hitzbleck
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -10,11 +10,28 @@ Shop: http://shop.fundevogel.de
 
 ----
 
-Lesepeter:
+Awards:
 
-Die Auszeichnung "LesePeter" wird monatlich von der (link: https://www.ajum.de text: Arbeitsgemeinschaft Jugendliteratur und Medien target: blank) (AJuM) vergeben und würdigt herausragende Bücher. Die Vergabe erfolgt abwechselnd in den Sparten *Kinderbuch*, *Jugendbuch*, *Sachbuch* und *Bilderbuch* - alle Preisträger findet ihr (link: https://www.ajum.de/html/Lesepeter/chronos.htm text: hier target: blank).
+-
+  identifier: wolgast
+  award: Heinrich-Wolgast-Preis
+  donor: Gewerkschaft Erziehung und Wissenschaft
+  donorlink: https://www.gew.de
+  description: |
+    Der Heinrich-Wolgast-Preis wird alle zwei Jahre von der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank) (GEW) vergeben und würdigt Kinder- und Jugendliteratur in allen medialen Formen, die sich in besonderer Weise der Darstellung von Arbeitswelten in der Kinder- und Jugendliteratur verpflichtet haben - weitere Informationen zur Preisverleihung findet ihr (link: https://www.gew.de/ausschuesse-arbeitsgruppen/weitere-gruppen/die-ajum/wolgast-preis text: hier target: blank).
 
-Die AJuM engagiert sich bundesweit für Leseförderung und Medienbildung in Kindergarten, Schule, Bibliothek, Hort, Hochschule und anderen Einrichtungen und ist Teil der (short: GEW desc: Gewerkschaft Erziehung und Wissenschaft color: orange).
+    Die GEW engagiert sich für Chancengleichheit und Mitbestimmung in einem demokratischen und inklusiven Bildungswesen und ist Mitglied im (link: https://www.dgb.de text: Deutschen Gewerkschaftsbund target: blank).
+-
+  identifier: lesepeter
+  award: LesePeter
+  donor: >
+    Arbeitsgemeinschaft Jugendliteratur und
+    Medien
+  donorlink: https://www.ajum.de
+  description: |
+    Die Auszeichnung "LesePeter" wird monatlich von der (link: https://www.ajum.de text: Arbeitsgemeinschaft Jugendliteratur und Medien target: blank) (AJuM) vergeben und würdigt herausragende Bücher. Die Vergabe erfolgt abwechselnd in den Sparten *Kinderbuch*, *Jugendbuch*, *Sachbuch* und *Bilderbuch* - die Liste aller Preisträger findet ihr (link: https://www.ajum.de/html/Lesepeter/chronos.htm text: hier target: blank).
+
+    Die AJuM engagiert sich bundesweit für Leseförderung und Medienbildung in Kindergarten, Schule, Bibliothek, Hort, Hochschule und anderen Einrichtungen und ist Teil der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank).
 
 ----
 

@@ -31,11 +31,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Mai 2019
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2019
 
 ----
 
@@ -43,7 +47,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-mi
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

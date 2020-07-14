@@ -2,7 +2,11 @@ Title: Nemi und der Hehmann
 
 ----
 
-Text: Eines Tages, als Nemi auf den Bus zur Schule wartet, schallt es plötzlich laut: „Heh, heeeeh“ aus dem Wald heraus und neugierig geworden, macht sich Nemi natürlich sofort auf die Suche nach den Rufen. Tief im Wald angelangt, entdeckt sie schließlich ein wundersames, kleines Männchen mit einem Hut, geformt wie ein Pilz. Doch Nemi mag kaum ihren Augen trauen, denn es sieht überhaupt nicht aus wie ein Mensch. Der Hehmann, wie Nemi ihn nennt, hat ein Gesicht aus verwittertem Holz, einen rauschenden Blätterbart und seine Kleidung besteht aus Rinde, die voller Efeu und Ranken ist. Der Hehmann ist ganz verwundert, dass Nemi ihn überhaupt gehört hat, denn niemand sonst hört ihn über den Lärm der Autos und Flugzeuge. Auch sonst scheinen alle vergessen zu haben, dass es den Wald und die Natur noch gibt. Und je weniger die Menschen sich erinnern, umso schlechter geht es der Natur und dem Hehmann, denn er ist das Gedächtnis und das Wissen des Waldes. So traurig und verzagt ist er, dass Nemi beschließt, ihm zu helfen, sein Gedächtnis zu bewahren. So fängt sie an Tiere und Pflanzen zu zeichnen und die Naturwörter und Lieder des Waldes zu sammeln.
+Text:
+
+Eines Tages, als Nemi auf den Bus zur Schule wartet, schallt es plötzlich laut: „Heh, heeeeh“ aus dem Wald heraus und neugierig geworden, macht sich Nemi natürlich sofort auf die Suche nach den Rufen. Tief im Wald angelangt, entdeckt sie schließlich ein wundersames, kleines Männchen mit einem Hut, geformt wie ein Pilz. Doch Nemi mag kaum ihren Augen trauen, denn es sieht überhaupt nicht aus wie ein Mensch. Der Hehmann, wie Nemi ihn nennt, hat ein Gesicht aus verwittertem Holz, einen rauschenden Blätterbart und seine Kleidung besteht aus Rinde, die voller Efeu und Ranken ist. Der Hehmann ist ganz verwundert, dass Nemi ihn überhaupt gehört hat, denn niemand sonst hört ihn über den Lärm der Autos und Flugzeuge.
+
+Auch sonst scheinen alle vergessen zu haben, dass es den Wald und die Natur noch gibt. Und je weniger die Menschen sich erinnern, umso schlechter geht es der Natur und dem Hehmann, denn er ist das Gedächtnis und das Wissen des Waldes. So traurig und verzagt ist er, dass Nemi beschließt, ihm zu helfen, sein Gedächtnis zu bewahren. So fängt sie an Tiere und Pflanzen zu zeichnen und die Naturwörter und Lieder des Waldes zu sammeln.
 
 ----
 
@@ -22,11 +26,15 @@ Conclusion-wanted: false
 
 ----
 
-Haslesepeter: false
+Hasaward: false
 
 ----
 
-Lesepeter: 
+Award: 
+
+----
+
+Awardedition: 
 
 ----
 
@@ -34,7 +42,7 @@ Leselink:
 
 ----
 
-Islesepeter: false
+Isaward: false
 
 ----
 
@@ -94,7 +102,7 @@ Categories: Kinderbuch
 
 ----
 
-Topics: Natur
+Topics: Natur, Wald, Umweltschutz
 
 ----
 

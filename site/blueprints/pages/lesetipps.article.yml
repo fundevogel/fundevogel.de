@@ -29,6 +29,11 @@ tabs:
         when:
           conclusion_wanted: true
 
+      builder:
+        extends: fields/builder
+        when:
+          hasAward: true
+
     sidebar:
       sidebar_fields:
         type: fields
@@ -42,36 +47,51 @@ tabs:
               en: Conclusion?
             width: 1/4
 
-          hasLesepeter:
+          hasAward:
             extends: fields/toggle
             label:
-              de: LesePeter erhalten?
-              en: LesePeter received?
+              de: Auszeichnung erhalten?
+              en: Award received?
 
-          lesepeter:
+          award:
             label:
-              de: LesePeter-Ausgabe
-              en: LesePeter-Edition
+              de: Auszeichnung
+              en: Award
+            type: radio
+            options:
+              LesePeter: LesePeter
+              Heinrich-Wolgast-Preis: Heinrich-Wolgast-Preis
+            when:
+              hasAward: true
+
+          awardEdition:
+            label:
+              de: Ausgabe / Jahrgang
+              en: Edition / Volume
             type: text
             when:
-              hasLesepeter: true
+              hasAward: true
 
           leselink:
-            label: LesePeter-Link
+            label: Link
             type: url
             when:
-              hasLesepeter: true
+              hasAward: true
 
-          isLesepeter:
+          isAward:
             extends: fields/toggle
             label:
               de: Rezension
               en: Review
             text:
-              - Füchsle
-              - LesePeter
+              de:
+                - FV
+                - Extern
+              en:
+                - FV
+                - External
             when:
-              hasLesepeter: true
+              hasAward: true
 
       sidebar_files: false
 
