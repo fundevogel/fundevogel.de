@@ -1,6 +1,8 @@
 <?php
 
 use PHPCBIS\PHPCBIS;
+use GuzzleHttp\Client;
+use GuzzleHttp\TransferStats;
 
 function pcbis()
 {
@@ -24,6 +26,42 @@ function loadBook (string $isbn)
     }
 
     return $object->processData($dataRaw);
+}
+
+function getShopLink ($isbn): string
+{
+    $baseUrl = 'https://fundevogel.buchkatalog.de/servlet/SearchDisplay?';
+    $params = [
+        'storeId=63715',
+        'catalogId=10002',
+        'langId=-3',
+        'pageSize=10',
+        'beginIndex=0',
+        'sType=SimpleSearch',
+        'resultCatEntryType=2',
+        'showResultsPage=true',
+        'pageView=',
+        'pageType=PK',
+        'searchTerm=' . $isbn,
+        'searchBtn=',
+        'mediaTypes=All%20Media',
+    ];
+
+    $url = $baseUrl . implode('&', $params);
+    $endpoint = '';
+
+    (new Client())->request('GET', $url, [
+        'on_stats' => function (TransferStats $stats) use (&$endpoint) {
+            $endpoint = $stats->getEffectiveUri();
+        }
+    ]);
+
+    if ($endpoint == $url) {
+        # Doesn't exist, skipping ..
+        return '';
+    }
+
+    return (string) $endpoint;
 }
 
 function getLangVars ($language = 'de')

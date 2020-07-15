@@ -22,6 +22,7 @@ return [
             'binding' => $data['Einband'],
             'categories' => $data['Kategorien'],
             'topics' => $data['Schlagworte'],
+            'shop' => rtrim(getShopLink($isbn), '01234567890/'),
         ];
 
         $page->updateBook($dataArray);

@@ -25,6 +25,7 @@
         "bnomei/kirby3-janitor": "^2.5",
         "distantnative/retour-for-kirby": "^2.3",
         "fundevogel/php-pcbis": "^0.5.0",
+        "guzzlehttp/guzzle": "^7.0",
         "mzur/kirby-uniform": "^4.0",
         "oblik/kirby-plurals": "^1.0",
         "pedroborges/kirby-meta-tags": "^2.0",
