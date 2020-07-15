@@ -133,6 +133,16 @@
         </div>
     </div>
 
+    <div class="mb-12">
+        <label>Haben Sie weitere Anregungen, Vorschläge, ..? Hier ist Raum für ihre Bemerkungen!</label>
+        <textarea name="WeitereAnregungen" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('WeitereAnregungen'), ' error') ?>" style="min-height: 10rem"><?= $form->old('WeitereAnregungen') ?></textarea>
+    </div>
+
+    <div class="mb-12">
+        <label>Ich habe Interesse an weiteren Informationen. Zu erreichen bin ich über diese Kontaktdaten:</label>
+        <input class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('Kontakt'), ' error') ?>" name="Kontakt" type="text" value="<?= $form->old('Kontakt') ?>">
+    </div>
+
     <?= csrf_field(); ?>
     <?= honeypot_field(); ?>
     <input class="h-16 px-4 sketch text-xl sm:text-3xl text-white text-shadow bg-red-light hover:bg-red-medium rounded-lg select-none transition-all cursor-pointer" type="submit" value="<?= t('Absenden') ?>">

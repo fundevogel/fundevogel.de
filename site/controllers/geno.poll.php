@@ -2,7 +2,7 @@
 
 use Uniform\Form;
 
-return function ($kirby) {
+return function ($kirby, $page) {
     $form = new Form([
         'Name' => [],
         'Adresse' => [],
@@ -22,6 +22,8 @@ return function ($kirby) {
         'HoeheAnteileAlternativ' => [],
         'MithilfeVorstellbar' => [],
         'MithilfeWas' => [],
+        'WeitereAnregungen' => [],
+        'Kontakt' => [],
     ]);
 
     if ($kirby->request()->is('POST')) {
@@ -30,5 +32,12 @@ return function ($kirby) {
         ]);
     }
 
-    return compact('form');
+    $file = $page->files()
+                 ->filterBy('extension', 'pdf')
+                 ->first();
+
+    return compact(
+        'form',
+        'file',
+    );
 };
