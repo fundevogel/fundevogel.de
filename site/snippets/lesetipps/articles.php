@@ -43,10 +43,10 @@
         <?= useSVG($award['awardtitle'], 'js-tippy w-auto h-16 absolute right-0', $award['identifier'], 'style="top: -1rem"') ?>
         <?php endif ?>
         <time datetime="<?= $lesetipp->date()->toDate('Y-m-d') ?>"><?= $lesetipp->date()->toDate('d.m.Y') ?></time>
-        <h3><a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
+        <h3><a class="link" href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
         <p class="lg:text-lg">
             <?= $lesetipp->text()->excerpt(300) ?><br>
-            <?= $lesetipp->moreLink('font-bold font-small-caps text-sm outline-none') ?>
+            <?= $lesetipp->moreLink('link font-bold font-small-caps text-sm outline-none') ?>
         </p>
     </div>
 </article>

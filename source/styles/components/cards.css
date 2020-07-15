@@ -14,7 +14,11 @@
 }
 
 .card p {
-  margin: 0;
+  @apply m-0;
+}
+
+.card p + p {
+  @apply mt-4;
 }
 
 .card a {

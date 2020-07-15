@@ -23,8 +23,6 @@ Cards:
 -
   entry: "(link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) lives in Erfurt and supports us with beautiful illustrations, and also she's an author herself! If you look closely, you'll find some of her work among the treasures of our book store .."
 -
-  entry: 'Our former colleague Katharina, who joined the (link: http://www.buchkinder.de/ text: Buchkinder Leipzig target: blank), a writing workshop and printery. They assist children with writing their own books, designing and illustrating them and finally printing them, all by themselves! We are glad to bring their stories and pictures to Freiburg.'
--
   entry: "As cooperation partner of the German Bundesliga club (link: https://www.scfreiburg.com/ text: SC Freiburg) we support the (link: http://www.fuechsleclub.de/ text: Füchsle Club's) project ‚football and reading‘, writing inspiring book reviews and organising events together. Come visit our stall each season start at Freiburg's football stadium!"
 -
   entry: "At our book store, there are  (link: http://www.traeume-am-werk.de/index.html text: dreams at work target: blank): For quite a while now, Monika Schwab's letterings embellish our window boards. Have a look at her website, or visit our book store and see for yourself!"

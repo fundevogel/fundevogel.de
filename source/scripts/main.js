@@ -220,6 +220,38 @@ class App {
                         // },
                     },
                     {
+                        namespace: 'lesetipps.article',
+                        beforeEnter(data) {
+                            function getClosest(elem, selector) {
+                                for ( ; elem && elem !== document; elem = elem.parentNode ) {
+                                    if ( elem.matches( selector ) ) return elem;
+                                }
+                                return null;
+                            }
+
+                            forEach(data.next.container.querySelectorAll('.js-slider'), function(value, index) {
+                                tns({
+                                    container: value,
+                                    speed: 1500,
+                                    // lazyload: true,
+                                    autoplay: true,
+                                    autoplayTimeout: 5000,
+                                    autoplayHoverPause: true,
+                                    autoplayButtonOutput: false,
+                                    nav: true,
+                                    navContainer: getClosest(value, '.wave').querySelector('.js-controls'),
+                                    controls: false,
+                                });
+                            });
+                        },
+                        // afterEnter() {
+                        // },
+                        // beforeLeave() {
+                        // },
+                        // afterLeave() {
+                        // },
+                    },
+                    {
                         namespace: 'lesetipps.browse',
                         beforeEnter(data) {
                             // NodeList:

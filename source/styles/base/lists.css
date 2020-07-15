@@ -1,17 +1,18 @@
-.list {
-  a {
-    @apply font-normal;
-    @apply text-red-medium;
-  }
+/* LISTS */
 
-  a:active,
-  a:focus,
-  a:hover {
-    @apply text-red-dark;
-  }
+.list a {
+  @apply font-normal;
+  @apply text-red-medium;
+}
+
+.list a:active,
+.list a:focus,
+.list a:hover {
+  @apply text-red-dark;
 }
 
 .list li {
+  @apply m-0;
   @apply pl-6;
   @apply relative;
 }
@@ -24,4 +25,12 @@
 
   content: '×';
   top: -1px;
+}
+
+.list li + li {
+  @apply mt-2;
+}
+
+.list + .content {
+  @apply mt-4;
 }

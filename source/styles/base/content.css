@@ -1,0 +1,22 @@
+.content {
+  @apply m-0;
+}
+
+.content a {
+  @apply font-normal;
+  @apply text-red-medium;
+}
+
+.content a:active,
+.content a:focus,
+.content a:hover {
+  @apply text-red-dark;
+}
+
+.content + .content {
+  @apply mt-4;
+}
+
+.content + .list {
+  @apply mt-2;
+}

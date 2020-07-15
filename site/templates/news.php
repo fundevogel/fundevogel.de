@@ -7,7 +7,7 @@
             if ($hero = $page->image('hero.jpg')) :
             $thumb = $hero->thumb('news.hero');
         ?>
-        <div class="text-center">
+        <div class="mt-4 text-center">
             <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
                 <img
                     class="group-hover:opacity-75 rounded-lg transition-all"
@@ -37,7 +37,7 @@
                         <div class="container">
                         <?php endif ?>
 
-                        <div class="js-lightbox <?php e(count($images) < 3, 'lg:mt-10 mb-8 lg:mb-0 ') ?>flex-none text-center">
+                        <div class="js-lightbox <?php e(count($images) < 3, 'lg:mt-10 mb-8 lg:mb-0 ') ?><?php e(count($images) < 3, 'lg:ml-12 lg:flex lg:flex-col ') ?>flex-none text-center">
                             <?php foreach ($images as $image) : ?>
                             <?php
                                 $id = $article->uid();
@@ -46,10 +46,10 @@
                                 $thumb = $image->thumb('news.article.image');
                                 $blurry = $image->thumb('news.article.image.placeholder');
                             ?>
-                            <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block<?php e(count($images) < 3, ' lg:ml-12') ?><?php e(count($images) === 2, ' last:ml-6') ?> rounded-lg select-none" href="<?= $full->url() ?>" data-caption="<?= $image->caption()->html() ?>">
+                            <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg select-none" href="<?= $full->url() ?>" data-caption="<?= $image->caption()->html() ?>">
                                 <img
                                     src="<?= $blurry->url() ?>"
-                                    class="w-32 h-32 lg:w-48 lg:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg"
+                                    class="w-24 h-24 xs:w-32 xs:h-32 md:w-48 md:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg"
                                     data-layzr="<?= $thumb->url() ?>"
                                     title="<?= $image->caption()->html() ?>"
                                     alt="<?= $image->alt()->html() ?>"

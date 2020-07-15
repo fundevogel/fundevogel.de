@@ -1,0 +1,9 @@
+.link {
+  @apply text-red-medium;
+}
+
+.link:active,
+.link:focus,
+.link:hover {
+  @apply text-red-dark;
+}

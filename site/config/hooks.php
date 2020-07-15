@@ -14,8 +14,8 @@ return [
 
         $to = [];
         $to[0] = '<p class="content">';
-        $to[2] = '<ol class="list">';
         $to[1] = '<ul class="list">';
+        $to[2] = '<ol class="list">';
 
         return preg_replace($from, $to, $text);
     },

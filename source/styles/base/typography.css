@@ -3,72 +3,55 @@
   @apply text-white;
 }
 
-p {
-  @apply mt-0 mx-0 mb-4;
-
-  a {
-    @apply font-normal;
-  }
-}
-
-p, h2, h3 {
-  a {
-    @apply text-red-medium;
-  }
-
-  a:active,
-  a:focus,
-  a:hover {
-    @apply text-red-dark;
-  }
-}
-
 a {
   @apply no-underline;
 
   transition: all theme('transitionDuration.250') theme('transitionTimingFunction.in');
 }
 
-article {
-  h2, h3, h4, h5, h6 {
-    @apply mb-2;
-    @apply font-bold;
-    @apply text-red-medium;
-    @apply leading-none;
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  @apply mb-2;
+  @apply font-bold;
+  @apply text-red-medium;
+  @apply leading-none;
 
-    font-variant: small-caps;
-  }
+  font-variant: small-caps;
+}
 
-  h2 {
-    @apply text-4xl;
-  }
+article h2 {
+  @apply text-4xl;
+}
 
-  h3, h4 {
-    @apply text-xl;
-  }
+article h3,
+article h4 {
+  @apply text-xl;
+}
 
-  blockquote {
-    @apply my-6;
-    @apply pl-4;
-    @apply border-l-4;
-    @apply border-red-medium;
+time {
+  @apply text-xs;
+  @apply font-medium;
+}
 
-    p {
-      @apply italic;
-    }
-  }
+blockquote {
+  @apply my-6;
+  @apply pl-4;
+  @apply border-l-4;
+  @apply border-red-medium;
+}
 
-  cite {
-    @apply block;
-    @apply font-medium;
-    @apply text-xs;
-    @apply text-gray-dark;
-  }
+blockquote p {
+  @apply italic;
+}
 
-  time {
-    @apply text-xs;
-    @apply font-medium;
-  }
+cite {
+  @apply block;
+  @apply font-medium;
+  @apply text-xs;
+  @apply text-gray-dark;
 }
 
 hr {

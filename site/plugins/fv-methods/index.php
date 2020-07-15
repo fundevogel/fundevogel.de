@@ -71,10 +71,10 @@ Kirby::plugin('fundevogel/methods', [
 
             return false;
         },
-        'moreLink' => function($class = '') {
+        'moreLink' => function($classes = '') {
             $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
                 'href' => $this->url(),
-                'class' => $class,
+                'class' => $classes,
             ]);
 
             return $link;

@@ -88,9 +88,9 @@ Buch/Bücher:
 
 
 # Lesetipps: awards
-Einleitung LesePeter: 'Dieses Buch erhielt den <a href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a href="{donorlink}" target="_blank">{donor}</a>.'
-Einleitung LesePeter (Füchsle): 'Dieser Lesetipp erhielt die Auszeichnung <a href="{awardlink}" target="_blank">{awardtitle}</a> der <a href="{donorlink}" target="_blank">{donor}</a>, mit der herausragende Bücher gewürdigt werden, die Begründung der Jury gibt es <a href="{awardlink}" target="_blank">hier</a>.'
-Einleitung Heinrich-Wolgast-Preis: 'Dieses Buch erhielt den <a href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a href="{donorlink}" target="_blank">{donor}</a>.'
+Einleitung LesePeter: 'Dieses Buch erhielt den <a class="link" href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a class="link" href="{donorlink}" target="_blank">{donor}</a>.'
+Einleitung LesePeter (Füchsle): 'Dieser Lesetipp erhielt die Auszeichnung <a class="link" href="{awardlink}" target="_blank">{awardtitle}</a> der <a class="link" href="{donorlink}" target="_blank">{donor}</a>, mit der herausragende Bücher gewürdigt werden, die Begründung der Jury gibt es <a class="link" href="{awardlink}" target="_blank">hier</a>.'
+Einleitung Heinrich-Wolgast-Preis: 'Dieses Buch erhielt den <a class="link" href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a class="link" href="{donorlink}" target="_blank">{donor}</a>.'
 Über LesePeter: Was ist der "LesePeter"?
 Über Heinrich-Wolgast-Preis: Was ist der "Heinrich-Wolgast-Preis"?
 
