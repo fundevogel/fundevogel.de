@@ -1,6 +1,27 @@
 <?php
 
 class LesetippsArticlePage extends Page {
+    public function getCoverImage() {
+        return $this->content()->get('cover')->toFile() ?? site()->fallback()->toFile();
+    }
+
+    public function getCover($classes = '') {
+        $image = $this->getCoverImage();
+
+        $cover = $image->orientation() === 'portrait'
+            ? $image->thumb('lesetipps.article.cover-normal')
+            : $image->thumb('lesetipps.article.cover-square')
+        ;
+
+        return Html::img($cover->url(), [
+            'class' => $classes,
+            'title' => $image->titleAttribute(),
+            'alt' => $image->altAttribute(),
+            'width' => $cover->width(),
+            'height' => $cover->height(),
+        ]);
+    }
+
     public function getAward() {
         $award = '';
 

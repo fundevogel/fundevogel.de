@@ -50,14 +50,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <img
-                                    class="rounded-lg shadow-cover"
-                                    src="<?= $cover->url() ?>"
-                                    title="<?= $titleAttribute ?>"
-                                    alt="<?= $altAttribute ?>"
-                                    width="<?= $cover->width() ?>"
-                                    height="<?= $cover->height() ?>"
-                                >
+                                <?= $page->getCover('rounded-lg shadow-cover') ?>
                             </div>
                         </div>
                     </div>
