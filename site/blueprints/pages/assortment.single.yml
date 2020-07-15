@@ -79,6 +79,7 @@ tabs:
             label: ISBN
             type: text
             width: 1/2
+
           book_cover:
             extends: fields/single-cover
             layout: list
