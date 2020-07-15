@@ -35,11 +35,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Januar 2019
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2019
 
 ----
 
@@ -47,7 +51,7 @@ Leselink: https://www.ajum.de/html/Lesepeter/201901.html
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

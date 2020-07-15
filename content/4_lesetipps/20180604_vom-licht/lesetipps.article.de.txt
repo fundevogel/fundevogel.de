@@ -35,11 +35,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Juni 2018
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2018
 
 ----
 
@@ -47,7 +51,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-vom-li
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

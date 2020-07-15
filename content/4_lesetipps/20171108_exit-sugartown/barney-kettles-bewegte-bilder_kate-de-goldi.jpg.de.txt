@@ -1,0 +1,21 @@
+Titleattribute: "Barney Kettles bewegte Bilder" von Kate de Goldi
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Barney Kettles bewegte Bilder" von Kate de Goldi
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

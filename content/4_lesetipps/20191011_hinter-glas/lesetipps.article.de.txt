@@ -32,11 +32,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Oktober 2019
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2019
 
 ----
 
@@ -44,7 +48,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/julya-rabinowich-
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

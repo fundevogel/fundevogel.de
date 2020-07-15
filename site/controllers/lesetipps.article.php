@@ -16,6 +16,8 @@ return function ($site, $page) {
     $categories = $page->categories()->split();
     $topics = $page->topics()->split();
 
+    $award = $page->getAward();
+
     return compact(
         'titleAttribute',
         'altAttribute',
@@ -24,5 +26,6 @@ return function ($site, $page) {
         'age',
         'categories',
         'topics',
+        'award',
     );
 };

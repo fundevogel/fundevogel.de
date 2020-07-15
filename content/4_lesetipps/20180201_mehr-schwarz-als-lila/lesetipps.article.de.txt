@@ -34,11 +34,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Februar 2018
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2018
 
 ----
 
@@ -46,7 +50,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/mehr-schwarz-als-
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

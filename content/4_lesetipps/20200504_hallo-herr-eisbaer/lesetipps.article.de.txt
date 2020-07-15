@@ -26,11 +26,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Mai 2020
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2020
 
 ----
 
@@ -38,7 +42,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

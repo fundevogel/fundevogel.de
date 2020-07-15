@@ -4,7 +4,7 @@
     <header class="container">
         <time datetime="<?= $page->date()->toDate('Y-m-d') ?>"><?= $page->date()->toDate('d.m.Y') ?></time>
         <h2><?= $page->title()->html() ?></h2>
-        <?php if ($page->hasLesepeter()->bool()) snippet('lesetipps/lesepeter/intro') ?>
+        <?php if ($page->hasAward()->bool()) snippet('lesetipps/award.intro') ?>
         <?= $page->text()->kt() ?>
     </header>
     <aside class="wave">
@@ -156,7 +156,12 @@
         <?= $page->conclusion()->kt() ?>
     </section>
     <?php endif ?>
-    <?php if ($page->isLesepeter()->bool()) snippet('lesetipps/lesepeter/about') ?>
+    <?php if ($page->isAward()->bool()) : ?>
+        <?php
+            snippet('blocks');
+            snippet('lesetipps/award.' . $award['identifier']);
+        ?>
+    <?php endif ?>
 </article>
 
 <?php if ($page->hasTranslatedSiblings()) snippet('lesetipps/prevnext') ?>

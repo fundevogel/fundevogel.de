@@ -85,9 +85,14 @@ wie: wie
 Buch/Bücher:
   one: '{{ count }} Buch'
   other: '{{ count }} Bücher'
-Einleitung LesePeter (Rezension): 'Die Veröffentlichung dieses Lesetipps erfolgt mit freundlicher Genehmigung der Arbeitsgemeinschaft Jugendliteratur und Medien, die Erstveröffentlichung findet ihr <a href="{link}" target="_blank">hier</a>.'
-Einleitung LesePeter (Füchsle): 'Dieser Lesetipp erhielt die Auszeichnung "LesePeter" der Arbeitsgemeinschaft Jugendliteratur und Medien, mit der herausragende Bücher gewürdigt werden, die Begründung der Jury gibt es <a href="{link}" target="_blank">hier</a>.'
-Was ist der "LesePeter": Was ist der "LesePeter"?
+
+
+# Lesetipps: awards
+Einleitung LesePeter: 'Dieses Buch erhielt den <a href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a href="{donorlink}" target="_blank">{donor}</a>.'
+Einleitung LesePeter (Füchsle): 'Dieser Lesetipp erhielt die Auszeichnung <a href="{awardlink}" target="_blank">{awardtitle}</a> der <a href="{donorlink}" target="_blank">{donor}</a>, mit der herausragende Bücher gewürdigt werden, die Begründung der Jury gibt es <a href="{awardlink}" target="_blank">hier</a>.'
+Einleitung Heinrich-Wolgast-Preis: 'Dieses Buch erhielt den <a href="{awardlink}" target="_blank">{awardtitle}</a>. Die Veröffentlichung der Begründung erfolgt mit freundlicher Genehmigung der <a href="{donorlink}" target="_blank">{donor}</a>.'
+Über LesePeter: Was ist der "LesePeter"?
+Über Heinrich-Wolgast-Preis: Was ist der "Heinrich-Wolgast-Preis"?
 
 # Calendar: headings
 Alle Veranstaltungen im Überblick: Alle Veranstaltungen im Überblick

@@ -4,7 +4,7 @@ Title: Die Mondwandlerin
 
 Text:
 
-Text und Bilder sind von hoher Qualität – jedoch auch "schwere Kost". Erste Voraussetzung: Man muss sich auf darauf einlassen, dass es möglicherweise "Werwölfinnen, Heilerinnen und Märchenerzählerinnen" gibt, die "den Kreislauf der Natur bis in alle Ewigkeit preisen und bewahren". Der Vollmond zwingt demnach die Menschen, die der Mond auserwählt hat, sich in einen Werwolf zu verwandeln, in ein Ungeheuer, vor dem sich andere Menschen in Acht nehmen müssen. Das Erwachen am Morgen ist verbunden mit Selbstvorwürfen: "Wie kann sie ihren Eltern vor die Augen treten?" Dabei hat sich die junge Frau erstmals in die Bestie verwandelt, erschrak vor sich selbst und flüchtet sich sodann in ein starkes Fieber. Keine Medizin hilft, sodass die Eltern die Dorfheilerin um Hilfe bitten. 
+Text und Bilder sind von hoher Qualität – jedoch auch "schwere Kost". Erste Voraussetzung: Man muss sich auf darauf einlassen, dass es möglicherweise "Werwölfinnen, Heilerinnen und Märchenerzählerinnen" gibt, die "den Kreislauf der Natur bis in alle Ewigkeit preisen und bewahren". Der Vollmond zwingt demnach die Menschen, die der Mond auserwählt hat, sich in einen Werwolf zu verwandeln, in ein Ungeheuer, vor dem sich andere Menschen in Acht nehmen müssen. Das Erwachen am Morgen ist verbunden mit Selbstvorwürfen: "Wie kann sie ihren Eltern vor die Augen treten?" Dabei hat sich die junge Frau erstmals in die Bestie verwandelt, erschrak vor sich selbst und flüchtet sich sodann in ein starkes Fieber. Keine Medizin hilft, sodass die Eltern die Dorfheilerin um Hilfe bitten.
 
 Die Bilder sind wuchtig. Viele nutzen die runde Form des Mondes, um mit Kraft und Intensität das Geschehen zu unterstreichen. Das Mädchen hat lange rote Haare, die geschwungen bis auf ihre Schulterblätter ragen. Ihre Wangen nehmen die Farbe in zwei großen runden Kreisen auf. Die familiäre Idylle steigert sich in bunten Farben, bis der Mond, um den sich der friedliche Abend dreht, tiefschwarz wird. Das nächste Bild bricht mit der Farbigkeit. Der runde Mond bricht sich Bahn in das tiefschwarze Schlafzimmer des Mädchens, fast ein Schattenbild mit vielen Ecken und geraden Linien. Die Wiederkehr der Farbe zeigt vielfach das leuchtend rote Haar und die Verzweiflung des Mädchens. Aus dem schwarzen Hintergrund sieht uns mehrfach versteckt das Auge eines Wolfes an.
 
@@ -16,7 +16,7 @@ Verdict: Schon immer verwandeln sich – so die Geschichte im Buch – junge Fra
 
 Conclusion:
 
-Viele Bilder und/oder Teile davon sind mit feinen Tintenlinien / Finelinern gefärbt, die einigen Flächen eine Struktur geben. Andere Teile entstehen durch Bunt- oder Aquarellstifte. Der Betonung der Rundung durch den Mond werden eckige entgegengesetzt, die wie zerbrochene Glasscheiben geformt sind, sich selbst dem Kreis andienen und ihn damit in vielen Situationen seine gewaltige Rolle selbst im Hintergrund zugestehen. 
+Viele Bilder und/oder Teile davon sind mit feinen Tintenlinien / Finelinern gefärbt, die einigen Flächen eine Struktur geben. Andere Teile entstehen durch Bunt- oder Aquarellstifte. Der Betonung der Rundung durch den Mond werden eckige entgegengesetzt, die wie zerbrochene Glasscheiben geformt sind, sich selbst dem Kreis andienen und ihn damit in vielen Situationen seine gewaltige Rolle selbst im Hintergrund zugestehen.
 
 Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustrationen, die das Bilderbuch zu einem ganz besonderen Buch für Kinder machen, ist es hervorragend geeignet, um im Kunst-Unterricht der Sekundarstufe II Bildaufbau, Bildspannung und Bildtechnik zu besprechen.
 
@@ -30,11 +30,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: April 2017
+Award: LesePeter
+
+----
+
+Awardedition: April 2017
 
 ----
 
@@ -42,7 +46,7 @@ Leselink: https://www.ajum.de/html/Lesepeter/201704.html
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

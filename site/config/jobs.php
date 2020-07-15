@@ -257,5 +257,57 @@ return [
             'label' => $success ? 'Erfolgreich!' : 'Mistikus totalus!',
             'reload' => $success,
         ];
+    },
+    'builder.downloadCover' => function ($page) {
+        $builder = $page->builder()->yaml();
+        $object = pcbis();
+        $imagePath = $page->root();
+        $object->setImagePath($imagePath);
+
+        $books = [];
+
+        # Collect book data
+        foreach ($builder as $block) {
+            if (A::missing($block, ['books'])) {
+                continue;
+            }
+
+            $entries = $block['books'];
+
+            foreach ($entries as $entry) {
+                $books[] = [
+                    'isbn' => $entry['isbn'],
+                    'author' => $entry['author'],
+                    'book_title' => $entry['book_title'],
+                ];
+            }
+        }
+
+        # Download covers & update images
+        foreach ($books as $book) {
+            $isbn = $book['isbn'];
+            $fileName = implode('_', [Str::slug($book['book_title']), Str::slug($book['author'])]);
+
+            if (!file_exists(implode('/', [$imagePath, $fileName . '.jpg']))) {
+                $object->downloadCover($isbn, $fileName, true);
+            } else {
+                try {
+                    $page->image($fileName . '.jpg')->update([
+                        'titleAttribute' => '"' . $book['book_title'] . '" von ' . $book['author'],
+                        'source' => 'Deutsche Nationalbibliothek',
+                        'altAttribute' => 'Cover des Buches "' . $book['book_title'] . '" von ' . $book['author'],
+                        'template' => 'image',
+                    ]);
+                } catch (Exception $e) {
+                    continue;
+                }
+            }
+        }
+
+        return [
+            'status' => 200,
+            'label' => 'Update erfolgreich!',
+            'reload' => true,
+        ];
     }
 ];

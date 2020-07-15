@@ -86,9 +86,47 @@ tabs:
         type: url
         width: 2/3
 
-      lesepeter:
-        label: LesePeter
-        type: textarea
+      awards:
+        label:
+          de: Auszeichnungen
+          en: Awards
+        type: structure
+        columns:
+          award:
+          donor:
+          donorLink:
+        fields:
+          identifier:
+            label:
+              de: ID
+              en: ID
+            type: text
+            width: 1/2
+
+          award:
+            label:
+              de: Auszeichnung
+              en: Award
+            type: text
+            width: 1/2
+
+          donor:
+            label:
+              de: Stifter
+              en: Donor
+            type: text
+            width: 1/2
+
+          donorLink:
+            label: Link
+            type: url
+            width: 1/2
+
+          description:
+            label:
+              de: Beschreibung
+              en: Description
+            type: textarea
 
       doctor:
         type: doctor

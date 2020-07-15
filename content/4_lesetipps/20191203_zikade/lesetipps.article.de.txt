@@ -30,11 +30,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Dezember 2019
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2019
 
 ----
 
@@ -42,7 +46,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezembe
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 
@@ -86,7 +90,7 @@ Publisher: Aladin
 
 ----
 
-Age: ab 15 Jahren
+Age: ab 5 Jahren
 
 ----
 

@@ -34,11 +34,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Oktober 2018
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2018
 
 ----
 
@@ -46,7 +50,7 @@ Leselink: https://www.ajum.de/html/Lesepeter/201810.html
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

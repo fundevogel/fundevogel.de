@@ -1,0 +1,21 @@
+Titleattribute: "Ein Blick in die deutsche Geschichte" von Jochen Oltmer & Nikolaus Barbian
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Ein Blick in die deutsche Geschichte" von Jochen Oltmer & Nikolaus Barbian
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

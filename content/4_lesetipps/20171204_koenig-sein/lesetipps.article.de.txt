@@ -33,11 +33,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Dezember 2017
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2017
 
 ----
 
@@ -45,7 +49,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezembe
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

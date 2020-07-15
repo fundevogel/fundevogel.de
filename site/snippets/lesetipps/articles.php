@@ -36,8 +36,11 @@
         </a>
     </div>
     <div class="flex-1 md:ml-10 relative">
-        <?php if ($lesetipp->hasLesepeter()->bool()) : ?>
-        <?= useSVG('LesePeter ' . $lesetipp->lesepeter()->html(), 'js-tippy w-16 h-16 absolute right-0', 'lesepeter', 'style="top: -1rem"') ?>
+        <?php
+            if ($lesetipp->hasAward()->bool()) :
+            $award = $lesetipp->getAward();
+        ?>
+        <?= useSVG($award['awardtitle'], 'js-tippy w-auto h-16 absolute right-0', $award['identifier'], 'style="top: -1rem"') ?>
         <?php endif ?>
         <time datetime="<?= $lesetipp->date()->toDate('Y-m-d') ?>"><?= $lesetipp->date()->toDate('d.m.Y') ?></time>
         <h3><a href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>

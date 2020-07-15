@@ -1,0 +1,21 @@
+Titleattribute: "Die Geheimnisse von Schokolade" von Franckie Alarcon
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Geheimnisse von Schokolade" von Franckie Alarcon
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

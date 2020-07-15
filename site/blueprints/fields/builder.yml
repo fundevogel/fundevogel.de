@@ -47,6 +47,74 @@ fieldsets:
           cover: true
         info: "{{ file.dimensions }} ({{ file.niceSize }})"
 
+  books:
+    name: Büchergalerie
+    label: "{{heading}} (Büchergalerie)"
+    # preview:
+    #   snippet: blocks/books
+    #   css: /site/snippets/blocks/books/styles.css
+    fields:
+      heading:
+        label:
+          de: Überschrift
+          en: Heading
+        type: text
+
+      builder.downloadCover:
+        type: janitor
+        label:
+          de: Cover laden
+          en: Download cover
+        progress: Bitte warten ..
+        job: builder.downloadCover
+
+      intro:
+        label:
+          de: Einleitung
+          en: Introduction
+        type: textarea
+
+      books:
+        label:
+          de: Bücher
+          en: Books
+        type: structure
+        columns:
+          author:
+          book_title:
+          isbn:
+          book_cover:
+        fields:
+          isbn:
+            label: ISBN
+            type: text
+            width: 1/2
+
+          book_cover:
+            extends: fields/single-cover
+            layout: list
+            width: 1/2
+
+          book_title:
+            label: Buchtitel
+            type: text
+            width: 1/2
+
+          book_subtitle:
+            label: Untertitel
+            type: text
+            width: 1/2
+
+          author:
+            label:
+              de: AutorIn
+              en: Author
+            type: text
+
+          text:
+            label: Text
+            type: textarea
+
   text:
     name: Textfeld
     label: "{{heading}} (Textfeld)"

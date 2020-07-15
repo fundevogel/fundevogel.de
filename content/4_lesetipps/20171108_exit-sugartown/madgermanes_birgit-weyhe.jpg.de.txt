@@ -1,0 +1,21 @@
+Titleattribute: "Madgermanes" von Birgit Weyhe
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Madgermanes" von Birgit Weyhe
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

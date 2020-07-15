@@ -1,0 +1,21 @@
+Titleattribute: "Der Tag, an dem ich vom Baum fiel und unser Hotel rettete" von Enne Koens
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Der Tag, an dem ich vom Baum fiel und unser Hotel rettete" von Enne Koens
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

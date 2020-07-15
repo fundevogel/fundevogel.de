@@ -1,0 +1,21 @@
+Titleattribute: "Geld zu verkaufen!" von Lorenz Pauli
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Geld zu verkaufen!" von Lorenz Pauli
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

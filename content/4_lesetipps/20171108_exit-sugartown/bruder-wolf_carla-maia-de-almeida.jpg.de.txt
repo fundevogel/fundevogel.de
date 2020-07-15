@@ -1,0 +1,21 @@
+Titleattribute: "Bruder Wolf" von Carla Maia de Almeida
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Bruder Wolf" von Carla Maia de Almeida
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -4,7 +4,7 @@ Title: Seltene Tiere
 
 Text:
 
-Die Erde ist reich an verschiedensten Tierarten, doch leider ist diese Vielfalt zum Teil massiv bedroht. Der Bestand einiger Tierarten sinkt beständig, trotz Bemühungen vieler Tierschützer. Einige äußerst bedrohte Arten, wie Okapi, Mandschuren Kranich oder Numbat finden wir in diesem Buch wieder. Bereits das Vorwort enthält einen Aufruf sich bewusst zu machen, was aussterbende Tierarten für Konsequenzen haben, letztendlich auch für uns Menschen. Die Wandertaube, so ist dort zu lesen, war um 1800 die am weitesten verbreitete Vogelart Nordamerikas. Gut 100 Jahre später starb die letzte. Das sollte zu denken geben. 
+Die Erde ist reich an verschiedensten Tierarten, doch leider ist diese Vielfalt zum Teil massiv bedroht. Der Bestand einiger Tierarten sinkt beständig, trotz Bemühungen vieler Tierschützer. Einige äußerst bedrohte Arten, wie Okapi, Mandschuren Kranich oder Numbat finden wir in diesem Buch wieder. Bereits das Vorwort enthält einen Aufruf sich bewusst zu machen, was aussterbende Tierarten für Konsequenzen haben, letztendlich auch für uns Menschen. Die Wandertaube, so ist dort zu lesen, war um 1800 die am weitesten verbreitete Vogelart Nordamerikas. Gut 100 Jahre später starb die letzte. Das sollte zu denken geben.
 
 Der Biologe und Umweltschützer Martin Jenkins hat einen ganz besonderen Atlas bedrohter Tierarten erstellt denn dieses Buch wartet mit einem genialen Konzept auf. Die enthaltenen Tiere werden als großformatige Briefmarken präsentiert, wodurch direkt ein Vergleich zur Seltenheit und Kostbarkeit gezogen werden kann. Bereits das Cover mit dem geprägten Eisbär sowie das große Format machen auf dieses Buch aufmerksam.
 
@@ -31,11 +31,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Juli 2019
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2019
 
 ----
 
@@ -43,7 +47,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fu
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

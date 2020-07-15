@@ -34,11 +34,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: April 2018
+Award: LesePeter
+
+----
+
+Awardedition: April 2018
 
 ----
 
@@ -46,7 +50,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-mit-le
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

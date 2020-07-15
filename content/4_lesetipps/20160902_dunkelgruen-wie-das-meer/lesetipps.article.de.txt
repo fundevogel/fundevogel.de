@@ -30,11 +30,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: September 2016
+Award: LesePeter
+
+----
+
+Awardedition: September 2016
 
 ----
 
@@ -42,7 +46,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-da
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 

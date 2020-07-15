@@ -14,6 +14,10 @@ Verdict: In Versen geschrieben, verwirrend, fesselt diese zeitlose Liebesgeschic
 
 ----
 
+Conclusion: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -22,7 +26,23 @@ Conclusion-wanted: false
 
 ----
 
-Conclusion: 
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
 
 ----
 

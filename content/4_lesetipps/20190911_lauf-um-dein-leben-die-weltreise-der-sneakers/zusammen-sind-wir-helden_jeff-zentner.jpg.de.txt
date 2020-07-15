@@ -1,0 +1,21 @@
+Titleattribute: "Zusammen sind wir Helden" von Jeff Zentner
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Zusammen sind wir Helden" von Jeff Zentner
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

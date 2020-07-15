@@ -32,11 +32,15 @@ Conclusion-wanted: true
 
 ----
 
-Haslesepeter: true
+Hasaward: true
 
 ----
 
-Lesepeter: Februar 2016
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2016
 
 ----
 
@@ -44,7 +48,7 @@ Leselink: https://www.ajum.de/html/Lesepeter/201602.html
 
 ----
 
-Islesepeter: true
+Isaward: true
 
 ----
 
