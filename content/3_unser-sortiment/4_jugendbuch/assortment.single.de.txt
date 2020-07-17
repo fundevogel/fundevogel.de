@@ -1,12 +1,10 @@
-Title: Roman
+Title: Jugendbuch
 
 ----
 
 Text:
 
 ## Geschichten über das Leben
-In unseren Regalen findet ihr so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten "Kommissar Gordon" sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustrationen machen sie Lust auf Lesen.
-
 Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen aller Genres: ob Krimi, Abenteuer, Fantasy und vieles mehr.
 
 ----
@@ -208,12 +206,12 @@ Favorites:
 
 Cover:
 
-- roman.jpg
+- jugendbuch.jpg
 
 ----
 
-Seotitle: Romane & Erzählungen
+Seotitle: Jugendbuch
 
 ----
 
-Seodescription: Wir lieben Romane!
+Seodescription: Romane und Erzählungen für junge Erwachsene

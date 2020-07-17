@@ -1,0 +1,36 @@
+Title: Children's book
+
+----
+
+Slug: reading-books-together
+
+----
+
+Text:
+## Reading as experience
+First-time readers will find wonderful books on our shelves, such as the exciting stories about the lovable "Detective Gordon" and the school friend stories about Dunne by Rose Lagercrantz: with large letters, simple, clear texts and imaginative illustrations, they just make you want to start reading right away!
+
+## Experiencing books together
+Reading in a cozy atmosphere and far away from the often so busy everyday life can be a wonderful moment of closeness, security and joy for children and parents. We have selected many great reading books for you, with which you can discover and experience new worlds together.
+
+----
+
+Builder:
+
+----
+
+Favorites:
+
+----
+
+Cover:
+
+- kinderbuch.jpg
+
+----
+
+Seotitle: Books to read together
+
+----
+
+Seodescription: We have selected many great reading books, with which children and parents can discover and experience new worlds together.

@@ -1,13 +1,13 @@
-Title: Vorlesebuch
+Title: Kinderbuch
 
 ----
 
 Text:
+## Lesen als Erfahrung
+In unseren Regalen findet ihr so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten "Kommissar Gordon" sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz: mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustrationen machen sie Lust auf Lesen.
 
 ## Gemeinsam Bücher erleben
-In gemütlicher Atmosphäre und fernab des oft so trubeligen Alltags kann das Vorlesen für Kinder und Eltern ein wunderbarer Moment der Nähe, Geborgenheit und Erholung sein.
-
-Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.
+In gemütlicher Atmosphäre und fernab des oft so trubeligen Alltags kann das Vorlesen für Kinder und Eltern ein wunderbarer Moment der Nähe, Geborgenheit und Erholung sein. Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.
 
 ----
 
@@ -217,7 +217,7 @@ Favorites:
 
 Cover:
 
-- vorlesebuch.jpg
+- kinderbuch.jpg
 
 ----
 
