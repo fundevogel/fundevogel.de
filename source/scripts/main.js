@@ -12,9 +12,10 @@ import svg4everybody from 'svg4everybody';
 import tippy, {roundArrow} from 'tippy.js';
 import {tns} from 'tiny-slider/src/tiny-slider.module';
 
-import featureDetection from './modules/jsDetect';
+import jsDetect from './modules/jsDetect';
 import toggleMenu from './modules/toggleMenu';
-import forEach from './modules/foreach';
+import forEach from './modules/forEach';
+import getClosest from './modules/getClosest';
 import baguetteBox from '../../../baguetteBox.js/src/baguetteBox';
 
 import Dropkick from 'dropkickjs';
@@ -49,7 +50,7 @@ class App {
     init() {
         console.info('🚀 App:init');
 
-        featureDetection();
+        jsDetect();
 
         // eslint-disable-next-line new-cap
         const lazyLoading = Layzr({normal: 'data-layzr'});
@@ -219,13 +220,6 @@ class App {
                     {
                         namespace: 'lesetipps.article',
                         beforeEnter(data) {
-                            function getClosest(elem, selector) {
-                                for ( ; elem && elem !== document; elem = elem.parentNode ) {
-                                    if ( elem.matches( selector ) ) return elem;
-                                }
-                                return null;
-                            }
-
                             forEach(data.next.container.querySelectorAll('.js-slider'), function(value, index) {
                                 tns({
                                     container: value,
