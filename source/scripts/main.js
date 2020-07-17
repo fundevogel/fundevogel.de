@@ -52,10 +52,7 @@ class App {
         featureDetection();
 
         // eslint-disable-next-line new-cap
-        const lazyLoading = Layzr({
-            normal: 'data-layzr',
-            threshold: 250,
-        });
+        const lazyLoading = Layzr({normal: 'data-layzr'});
 
         lazyLoading
             .update()
