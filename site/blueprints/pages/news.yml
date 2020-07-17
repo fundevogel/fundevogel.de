@@ -48,7 +48,8 @@ tabs:
 
               cover:
                 extends: fields/single-cover
-                disabled: true
+                image:
+                  ratio: 16/9
 
   # Metadata
   tab_seo: tabs/seo

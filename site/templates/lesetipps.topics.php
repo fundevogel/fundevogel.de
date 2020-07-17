@@ -12,6 +12,10 @@
         </div>
     </header>
     <hr>
+    <?php if ($page->builder()->isNotEmpty()) : ?>
+    <?php snippet('blocks') ?>
+    <hr class="max-w-sm">
+    <?php endif ?>
     <section class="container leading-relaxed">
         <h2 class="mb-12 text-center">Alle Themen</h2>
         <div class="flex flex-wrap justify-center leading-relaxed">
