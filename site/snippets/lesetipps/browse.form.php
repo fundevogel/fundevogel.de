@@ -1,4 +1,4 @@
-<section class="container">
+<section class="container px-2">
     <?= $page->details()->kt() ?>
 
     <div class="flex flex-col sm:flex-row">

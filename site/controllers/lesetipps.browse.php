@@ -25,7 +25,7 @@ return function ($page) {
             'Kategorie' => 'categories',
             'Thema' => 'topics',
             'Lesealter' => 'age',
-            'Verlag' => 'publisher',
+            'Auszeichnung' => 'award',
         ];
 
         foreach ($parameters as $parameter => $field) {
@@ -48,17 +48,20 @@ return function ($page) {
     $publishers = $lesetipps->pluck('publisher', ',', true);
     natcasesort($publishers);
 
+    $awards = $lesetipps->pluck('award', ',', true);
+    sort($awards);
+
     // Order will be used in frontend
     $fields = [
         'Kategorie' => $categories,
         'Thema' => $topics,
         'Lesealter' => $ages,
-        'Verlag' => $publishers,
+        'Auszeichnung' => $awards,
     ];
 
     // Applying pagination
     $perPage = $page->perpage()->int();
-    $results = $results->paginate(($perPage >= 1) ? $perPage : 5);
+    $results = $results->flip()->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $results->pagination();
 
     // Counting results
