@@ -2,7 +2,11 @@ Title: Exit Sugartown
 
 ----
 
-Text: Die siebzehnjährige Halbwaise Dawn hat genug von der aufzehrenden, aber letztlich ertraglosen Arbeit und dem ärmlichen Leben in Sugartown. In der Hoffnung auf ein besseres Leben in City, einer reichen Stadt jenseits des Meeres, überwindet sie Grenzen, Zäune und Mauern. Dort angekommen wird ihr Traum, sich und ihrer Familie durch eine menschenwürdige Arbeit ein gesichertes Leben zu ermöglichen, auf eine harte Probe gestellt.
+Text:
+
+Die siebzehnjährige Dawn hat genug von der aufzehrenden, aber letztlich ertraglosen Arbeit und dem ärmlichen Leben in Sugartown. Nach dem Tod ihrer Mutter schmeißt sie trotz ausgezeichneter Noten die Schule und übernimmt deren Job als Näherin. Obwohl sie jeden Tag bis tief in die Nacht hinein hart arbeitet, reicht das erwirtschaftete Geld für sie und ihren kleinen Bruder Charlie nicht einmal für das Nötigste. Auf die Hilfe des Vaters, der seinen Frust über die gescheiterte berufliche Existenz im Alkohol zu ertränken versucht, ist nicht zu zählen. Schließlich muss auch ihr Bruder die Schule verlassen und in einem Ziegelwerk harte Knochenarbeit verrichten. In der Hoffnung auf ein einträglicheres Einkommen und ein besseres Leben in City, einer reichen Stadt jenseits des Meeres, legt sie ihr Schicksal schließlich in die Hände von Fluchthelfern, die ihr einträgliches Geschäft freilich nicht aus reiner Menschenliebe betreiben. Es folgt eine Reise voller Strapazen und Gefahren, in der natürliche und von Menschen geschaffene Grenzen und Hindernisse überwunden werden müssen. Endlich in City angekommen wird ihr Traum, sich und ihrer Familie durch eine menschenwürdige Arbeit ein gesichertes Leben zu ermöglichen, jedoch auf eine harte Probe gestellt.
+
+Denn schon ihr Empfang jenseits der Grenze lässt nichts Gutes erahnen. Die Flüchtenden werden in einem provisorischen Lager untergebracht, dessen Zustände katastrophal und menschenunwürdig sind. Das Wachpersonal und ein hoher Stacheldrahtzaun sollen verhindern, dass die Ankommenden diesen Ort einfach so wieder verlassen können. Doch trüge sie ihren Namen nicht zurecht, wenn ein Zaun sie aufhalten könnte, den Traum von einem besseren Leben nun endlich in die Tat umzusetzen. Einerseits steht sie in der Schuld ihrer Schleuser, welche ihr bei der Überwindung der zahlreichen natürlichen wie menschengemachten Grenzen geholfen haben und benötigt daher dringend einen Job. Doch sie muss nicht nur die Gläubiger zufriedenstellen, sondern auch ihre Familie finanziell unterstützen. Sie will dafür sorgen, dass ihr kleiner Bruder wieder die Schule besuchen kann, anstatt in der Betonfabrik Knochenarbeit zu verrichten. Ihr Ausbruch aus dem Lager ist jedoch teuer bezahlt, denn sie gilt nun als Illegale. Ohne regulären Aufenthaltsstatus und damit ohne jegliche Rechte ist sie den ausbeuterischen und kriminellen Machenschaften ihrer Verbindungsleute schutzlos ausgeliefert. Als sie versucht, sich aus dieser Abhängigkeit zu befreien, verstrickt sie sich nur noch stärker in ein Netz aus Verbrechen, Verrat und Verfolgung.
 
 ----
 
@@ -10,17 +14,18 @@ Verdict: "*Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugen
 
 ----
 
-Conclusion: Der Roman erzählt eine Geschichte, die an Aktualität, Universalität und politischer Virulenz kaum zu überbieten ist: Sugartown ist nicht Sugartown, sondern nur ein Name, der dem Elend und der Perspektivlosigkeit unzähliger Menschen auf dieser Welt eine konkrete Gestalt verleiht. City ist nicht City, sondern verkörpert als Sehnsuchts- wie Alptraumort der Flüchtenden die sogenannte "Erste Welt" in ihrer ganzen Widersprüchlichkeit. Schließlich ist auch Dawn nicht Dawn. Ihr Name (dt.: Morgendämmerung) steht sinn­bildlich für all jene, die sich mit ihrem Zustand nicht abfinden wollen und auf den Weg in eine vermeintlich bessere Zukunft machen.
+Conclusion: Der Roman erzählt eine Geschichte, die an Aktualität, Universalität und politischer Virulenz kaum zu überbieten ist: Sugartown ist nicht Sugartown, sondern nur ein Name, der dem Elend und der Perspektivlosigkeit unzähliger Menschen auf dieser Welt eine konkrete Gestalt verleiht. Menschen sterben an gewöhnlichen Krankheiten, weil Medikamente entweder fehlen oder nicht bezahlbar sind. Die grauen Gasbetonwände der Wohnhäuser riechen nach dem Schweiß ihrer in den umliegenden Fabriken schuftenden Bewohner. Doch andere Formen der Erwerbsarbeit werden rar, denn importierte Billigware – ein Effekt des vielgepriesenen Freihandels – überschwemmt die heimischen Märkte und macht die ansässigen Handwerker arbeitslos. Ob mit oder ohne Arbeit – Elend und Armut haben in den Gesellschaften der sogenannten Dritten Welt viele Gesichter. Auch City ist nicht City, sondern verkörpert als Sehnsuchts- wie Alptraumort der Flüchtenden die Erste Welt in ihrer ganzen Widersprüchlichkeit. Die Stadt, welche ihnen zunächst alle Möglichkeiten des Aufstiegs zu bieten scheint, betreibt eine paradox anmutende Politik der Ausschließung und der gleichzeitigen Ausbeutung der Arbeitsmigranten. Rigide Grenzregime sollen das unkontrollierte Übertreten der Landesgrenzen unmöglich bzw. so schwer wie möglich machen. So werden die Flüchtenden auf immer längere und gefährlichere Passagen gedrängt; mit der Folge, dass jährlich Tausende von ihnen beim Einreiseversuch nach Europa im Mittelmeer ertrinken. Denjenigen, denen die Einreise dennoch gelingt, werden aufgrund ihres rechtlosen Status nicht selten Opfer ausbeuterischer Arbeitsverhältnisse in den Dienstleistungen der Schattenwirtschaft, die – so zeigen Schätzungen – mehr als ein Zehntel unseres Bruttoinlandsprodukts umfassen. Und schließlich ist Dawn nicht Dawn. Ihr Name (dt.: *Morgendämmerung*) steht sinnbildlich für all jene, die sich mit ihrem Zustand nicht abfinden wollen und auf den Weg in eine vermeintlich bessere Zukunft machen.
 
 ----
 
 Builder:
 
--
+- 
   heading: Nominierungen
   builder.downloadcover: null
+  intro: ""
   books:
-    -
+    - 
       isbn: 978-3-551-76307-5
       book_cover:
         - >
@@ -29,7 +34,7 @@ Builder:
       book_subtitle: ""
       author: Franckie Alarcon
       text: 'Man sitzt in diesem Sachbuch nicht nur bei der Entstehung eines interessanten Comics in der ersten Reihe, es werden auch tiefe Einblicke in die Arbeitsabläufe zur Herstellung von Schokolade gewährt. Diese gelungene Mischung aus Sachcomic und Graphic Novel ist sehr reichhaltig und informativ, besonders hinsichtlich des Selbstverständ- nisses und der Arbeitsweise eines Chocolatiers. Die erzählte Handlung entwickelt sich in den hochfrequenten Bildpanels, die eine (dokumentar-)filmartige Atmosphäre erzeugen.'
-    -
+    - 
       isbn: 978-3-551-56032-2
       book_cover:
         - >
@@ -57,7 +62,7 @@ Builder:
         idealen Gemeinschaft. Ein eigenwilliges
         Buch voller Dialoge mit intelligentem
         Witz.
-    -
+    - 
       isbn: 978-3945-03442-2
       book_cover:
         - madgermanes_birgit-weyhe.jpg
@@ -83,7 +88,7 @@ Builder:
         Auszahlung vorenthaltener Löhne und
         eine Mitverantwortlichkeit der
         Bundesrepublik.
-    -
+    - 
       isbn: 978-3-03731-147-9
       book_cover:
         - >
@@ -92,7 +97,7 @@ Builder:
       book_subtitle: ""
       author: Li Kunwu
       text: 'Der historische Dokumentarcomic berichtet über den Bau der vietnamesisch-chinesischen Yunnan-Bahn Anfang des 20. Jahrhunderts: Eine technische Meisterleistung, die Mensch und Natur abgerungen werden musste: Grausame Zwangsarbeit und – selbst für damalige Verhältnisse – katastrophale Arbeitsbedingungen kosteten mehr als zehntausend Arbeitern das Leben. Insbesondere in der visuellen Darstellung seines dokumentarischen Gehaltes und der engen Verknüpfung von historischen und kulturellen Differenzen beeindruckt dieses Buch.'
-    -
+    - 
       isbn: 978-3-905804-72-0
       book_cover:
         - onkel-flores_eymard-toledo.jpg
@@ -102,7 +107,7 @@ Builder:
         Brasilien
       author: Eymard Toledo
       text: 'Ungemein realistisch gestaltet, gleichsam ein wenig märchenhaft erzählend, entführt dieses Bilderbuch mit seinen Papier- und Stoffcollagen in die kleine Stadt Pinbauê (Brasilien): Umweltverschmutzung, Industrialisierung, das Aussterben traditioneller Berufe sowie Preis- und Lohndum- ping durch billigen Import werden am Existenzkampf eines Schneiders anschaulich dargestellt. Dank einer Idee seines Neffen gelingt Flores nicht nur die Erhaltung des eigenen Geschäftes, sondern er bringt auch wieder Farbe und etwas Glück in das Leben der Bewohner von Pinbauê.'
-    -
+    - 
       isbn: 978-3-7152-0727-8
       book_cover:
         - geld-zu-verkaufen_lorenz-pauli.jpg
@@ -112,7 +117,7 @@ Builder:
       text: |
         Das Schenken, Tauschen, Teilen, Leihen, Sparen, Arbeiten, Kaufen, Verkaufen ist unmittelbar oder mittelbar mit dem Thema Geld verknüpft. Was ist Besitz und wie
         begründen sich Werte? Warum brauchen wir überhaupt solche Vergleichsgrößen und wie gehen wir damit um? Lorenz Pauli thematisiert im vorliegenden Bilderbuch zentrale Fragen des Besitztums, die in einer kindlichen Spielsituation in verschiedenen Varianten durchgespielt und veranschaulicht werden. Konkret und dennoch verallgemeinerbar entstehen so Vorstellungen einer abstrakten Thematik; witzig vermittelt in den comicartig gezeichneten Illustrationen von Claudia de Weck.
-    -
+    - 
       isbn: 978-3-86569-255-9
       book_cover:
         - schmutzige-fuesse_koldo-izagirre.jpg
@@ -120,7 +125,7 @@ Builder:
       book_subtitle: ""
       author: Koldo Izagirre
       text: 'Schmutzige Füße beobachtet die Menschen in der Telefonzelle, die ihre Lieben in der Ferne anrufen. Dabei ergeben sich oft zwei Realitäten: die eine, welche die Migranten ihren Verwandten berichten und die andere, in der sie offenkundig leben. Auch Schmutzige Füße lebt in verschiedenen Welten und würde gern jemandem davon berichten. Eine poetische Geschichte, die mit ihren vielschichtigen Collagen besonders die Widersprüche im Leben ihrer Handlungsträger eindrücklich in Szene setzt.'
-    -
+    - 
       isbn: 978-3-7373-5427-1
       book_cover:
         - crenshaw_katherine-applegate.jpg
@@ -146,7 +151,7 @@ Builder:
         liebevollen Familienzusammenhalt auch
         tröstliche Perspektiven zu diesem Thema
         an.
-    -
+    - 
       isbn: 978-3-7373-5360-1
       book_cover:
         - bruder-wolf_carla-maia-de-almeida.jpg
@@ -154,7 +159,7 @@ Builder:
       book_subtitle: ""
       author: Carla Maia de Almeida
       text: 'Sehr poetisch, anrührend und nach­denklich werden die Arbeitslosigkeit des Vaters, sozialer Abstieg, Anspruch und Wirklichkeit des männlichen Haupt­verdienermodells und nicht zuletzt die Zerrüttung einer Familie thematisiert. Im Zeitalter der Wirtschafts- und Finanzkrise(n) ist dieses illustrierte Kinderbuch, welches den Zusammenhang von Arbeitswelt und Privatleben eindrücklich und poetisch verfremdet herstellt, topaktuell. Meisterhafte Illustrationen vermitteln eine düstere, bedrückende Atmosphäre und machen das Buch zu einem traurig schönen Gesamtkunstwerk.'
-    -
+    - 
       isbn: 978-3-946593-08-9
       book_cover:
         - >
@@ -165,11 +170,11 @@ Builder:
       text: 'Dieses politische Sachbuch verknüpft die Themenfelder Arbeit und Migration miteinander. Es informiert seine Leser darüber, dass sich Deutschland in den vergangenen 150 Jahren, je nach politischen und gesellschaftlichen Verhältnissen, mal als Auswanderungs- und mal als Einwanderungsland definiert hat. Weltweite Migrationsbewegungen hatten (und haben) sehr oft sozioökonomische Ursachen. Das abwertend gebrauchte Schlagwort vom "Wirtschaftsflüchtling" offenbart sich in diesem Kontext als erstaunlich geschichtsvergessene Vokabel. Hier wird eine andere Perspektive vermittelt – in kurzen Texten und Illustrationen, die eine interessante Mischdarstellung von typisierter Verfremdung und fotografischer Anspielung realisieren.'
   _key: books
   _uid: books_1594729277716_600
--
+- 
   heading: Fazit
   show_columns: 'false'
   horizontal_line: 'false'
-  text_full: '"Exit Sugartown" ist engagierte Jugendliteratur im besten Sinne: Ganz ohne Pathos, Moralisierung, platte Schuldzuweisung und stereotype Feindbilder, welche in allen politischen Lagern grassieren, direkt, unmittelbar und schonungslos. Es macht auf einen skandalösen gesellschaftlichen Missstand aufmerksam, der strukturelle Ursachen hat und einer dringenden Lösung bedarf.'
+  text_full: '"Exit Sugartown" ist engagierte Jugendliteratur im besten Sinne: Ganz ohne Pathos, Moralisierung, platte Schuldzuweisung und stereotype Feindbilder, welche in allen politischen Lagern grassieren, direkt, unmittelbar und schonungslos. Martin Petersen nutzt für seine Geschichte einen lakonisch-nüchternen, fast journalistisch präzisen Erzählton, den er seiner Protagonistin in den Mund legt. Doch die Erzählweise wirkt weder neutral noch unbeteiligt. Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugendbuch zutiefst. Anhand eines individuellen Schicksals macht es auf zentrale und skandalöse gesellschaftliche Missstände aufmerksam, die strukturelle Ursachen haben und einer dringenden Lösung bedürfen.'
   text_left: ""
   text_right: ""
   _key: text
@@ -217,7 +222,7 @@ Book-title: Exit Sugartown
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -225,7 +230,7 @@ Author: Martin Petersen
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
@@ -233,7 +238,7 @@ Translator: Friederike Buchinger
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -271,8 +276,8 @@ Cover:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
