@@ -1,0 +1,23 @@
+title:
+  de: Neuerscheinungen
+  en: Recommendation lists
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+      sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo

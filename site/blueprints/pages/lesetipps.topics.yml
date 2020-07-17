@@ -1,0 +1,28 @@
+title:
+  de: Themen
+  en: Topics
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+        text:
+          label: Text
+          type: textarea
+
+        builder: fields/builder
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+      sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo
