@@ -19,7 +19,7 @@ tabs:
           en: By bike
         type: textarea
 
-      auto:
+      car:
         label:
           de: Anfahrt mit Auto
           en: By car
@@ -35,6 +35,11 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
           kontaktinfos:
             label:
               de: Kontaktinformationen

@@ -10,7 +10,13 @@ Car: Wer den Fundevogel mit dem Auto besuchen möchte, gelangt am einfachsten ü
 
 ----
 
-Tram: Oder Ihr fahrt mit der Straßenbahn. Die nächstgelegenen Haltestellen sind der „Bertoldsbrunnen“, der „Holzmarkt“ oder die Haltestelle „Oberlinden“ an der Linie 1.
+Tram: Oder Ihr fahrt mit der Straßenbahn. Die nächstgelegenen Haltestellen sind der „Bertoldsbrunnen“, der "Holzmarkt" oder die Haltestelle "Oberlinden" an der Linie 1.
+
+----
+
+Cover:
+
+- stadtkarte-fundevogel.png
 
 ----
 
