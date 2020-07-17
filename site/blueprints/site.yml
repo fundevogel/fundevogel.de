@@ -21,6 +21,8 @@ tabs:
             template: lesetipps.article
             create: lesetipps.article
             limit: 8
+            image:
+              query: page.getCover
 
       right:
         width: 1/3

@@ -7,20 +7,10 @@
         </div>
         <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
         <div class="js-slider mb-10 flex items-center">
-            <?php
-                foreach ($data->gallery()->toFiles() as $image) :
-                $thumb = $image->resize(600);
-            ?>
+            <?php foreach ($data->gallery()->toFiles() as $image) : ?>
             <div class="js-lightbox mx-6">
                 <a href="<?= $image->url() ?>">
-                    <img
-                        class="shadow-cover rounded-lg"
-                        src="<?= $thumb->url() ?>"
-                        title="<?= $image->caption()->html() ?>"
-                        alt="<?= $image->alt()->html() ?>"
-                        width="<?= $thumb->width() ?>"
-                        height="<?= $thumb->height() ?>"
-                    >
+                    <?= $image->createImage('rounded-lg shadow-cover', 'calendar.single.gallery') ?>
                 </a>
             </div>
             <?php endforeach ?>

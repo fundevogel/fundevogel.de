@@ -1,9 +1,6 @@
 <?php
 
-return function ($site, $pages, $page) {
-    $image = $page->cover()->toFile();
-    $thumb = $image->resize(460);
-
+return function ($page) {
     $events = $page->children()
                    ->listed()
                    ->filterBy('intendedTemplate', 'calendar.event');
@@ -36,8 +33,6 @@ return function ($site, $pages, $page) {
         'openEvents',
         'closedEvents',
         'annualEvents',
-        'image',
-        'thumb',
         'events',
     );
 };

@@ -5,7 +5,6 @@ type: pages
 sortBy: date desc
 info: "{{ page.date.toDate('d.m.Y') }}"
 image:
-  query: page.getCoverImage
   ratio: 3/4
   cover: true
 layout: cards

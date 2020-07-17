@@ -11,7 +11,7 @@
                 <?php foreach ($editions as $edition) : ?>
                 <a class="inline-block group relative lg:first:ml-12 last:ml-12" href="<?= $edition->url() ?>" target="_blank">
                     <figure class="w-32 xs:w-40 sm:w-auto shadow-cover rounded-lg">
-                        <?= $edition->getCover('rounded-t-lg') ?>
+                        <?= $edition->getFront('rounded-t-lg') ?>
                         <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= t($edition->edition()->value()) ?></figcaption>
                     </figure>
                     <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">

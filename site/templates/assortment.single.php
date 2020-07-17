@@ -32,11 +32,6 @@
                     ;
 
                     if ($image = $favorite->book_cover()->toFile()) :
-                    $titleAttribute = $image->titleAttribute()->html();
-                    $altAttribute = $image->altAttribute()->html();
-
-                    $cover = $image->thumb('lesetipps.article.cover-normal');
-                    // $blurry = $image->thumb('lesetipps.category.cover.placeholder');
                 ?>
                 <div class="">
                     <div class="container">
@@ -49,14 +44,7 @@
                                             <?= t('Serie') ?>
                                         </span>
                                         <?php endif ?>
-                                        <img
-                                            class="rounded-lg shadow-cover"
-                                            src="<?= $cover->url() ?>"
-                                            title="<?= $titleAttribute ?>"
-                                            alt="<?= $altAttribute ?>"
-                                            width="<?= $cover->width() ?>"
-                                            height="<?= $cover->height() ?>"
-                                        >
+                                        <?= $image->createImage('rounded-lg shadow-cover', 'lesetipps.article.cover-normal') ?>
                                     </div>
                                 </div>
                             </div>

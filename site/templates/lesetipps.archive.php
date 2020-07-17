@@ -19,7 +19,7 @@
             <div class="w-1/2 sm:w-1/3 lg:w-1/4 mb-6 md:mb-10 text-center">
                 <a class="inline-block group relative" href="<?= $edition->url() ?>" target="_blank">
                     <figure class="w-40 md:w-auto inline-block shadow-cover rounded-lg">
-                        <?= $edition->getCover('rounded-t-lg') ?>
+                        <?= $edition->getFront('rounded-t-lg') ?>
                         <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= implode(' ', [t($edition->edition()->value()), $edition->year()]) ?></figcaption>
                     </figure>
                     <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">

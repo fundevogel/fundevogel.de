@@ -15,25 +15,13 @@
                 ;
 
                 if ($image = $book->book_cover()->toFile()) :
-                $titleAttribute = $image->titleAttribute()->html();
-                $altAttribute = $image->altAttribute()->html();
-
-                $cover = $image->thumb('lesetipps.article.cover-normal');
-                // $blurry = $image->thumb('lesetipps.category.cover.placeholder');
             ?>
             <div class="">
                 <div class="container">
                     <div class="flex flex-col lg:flex-row">
                         <div class="flex-none flex justify-center">
                             <div class="flex items-center mb-10 lg:mb-0">
-                                <img
-                                    class="rounded-lg shadow-cover"
-                                    src="<?= $cover->url() ?>"
-                                    title="<?= $titleAttribute ?>"
-                                    alt="<?= $altAttribute ?>"
-                                    width="<?= $cover->width() ?>"
-                                    height="<?= $cover->height() ?>"
-                                >
+                                <?= $image->createImage('rounded-lg shadow-cover', 'lesetipps.article.cover-normal') ?>
                             </div>
                         </div>
                         <div class="md:ml-16 flex-1 flex flex-col justify-center">

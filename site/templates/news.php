@@ -3,21 +3,11 @@
 <article class="mb-16">
     <header class="container">
         <?= $page->text()->kt() ?>
-        <?php
-            if ($hero = $page->image('hero.jpg')) :
-            $thumb = $hero->thumb('news.hero');
-        ?>
-        <div class="mt-4 text-center">
+        <?php if ($page->hasCover()) : ?>
+        <div class="mt-6 text-center">
             <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
-                <img
-                    class="group-hover:opacity-75 rounded-lg transition-all"
-                    src="<?= $thumb->url() ?>"
-                    title="<?= $hero->titleAttribute() ?>"
-                    alt="<?= $hero->altAttribute() ?>"
-                    width="<?= $thumb->width() ?>"
-                    height="<?= $thumb->height() ?>"
-                >
-                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $hero->caption()->html() ?></figcaption>
+                <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'news.hero') ?>
+                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
             </figure>
         </div>
         <?php endif ?>
@@ -42,20 +32,9 @@
                             <?php
                                 $id = $article->uid();
                                 if ($image) :
-                                $full = $image->thumb('news.article.full');
-                                $thumb = $image->thumb('news.article.image');
-                                $blurry = $image->thumb('news.article.image.placeholder');
                             ?>
-                            <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg select-none" href="<?= $full->url() ?>" data-caption="<?= $image->caption()->html() ?>">
-                                <img
-                                    src="<?= $blurry->url() ?>"
-                                    class="w-24 h-24 xs:w-32 xs:h-32 md:w-48 md:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg"
-                                    data-layzr="<?= $thumb->url() ?>"
-                                    title="<?= $image->caption()->html() ?>"
-                                    alt="<?= $image->alt()->html() ?>"
-                                    width="<?= $thumb->width() ?>"
-                                    height="<?= $thumb->height() ?>"
-                                >
+                            <a class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg select-none" href="<?= $image->thumb('news.article.full')->url() ?>" data-caption="<?= $image->caption()->html() ?>">
+                                <?= $image->createImage('w-24 h-24 xs:w-32 xs:h-32 md:w-48 md:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg', 'news.article.image', true) ?>
                             </a>
                             <?php endif ?>
                             <?php endforeach ?>

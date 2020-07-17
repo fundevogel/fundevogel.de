@@ -50,7 +50,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <?= $page->getCover('rounded-lg shadow-cover') ?>
+                                <?= $page->getBookCover('rounded-lg shadow-cover', '') ?>
                             </div>
                         </div>
                     </div>

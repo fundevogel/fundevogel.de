@@ -4,23 +4,22 @@
     <header class="container">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1 text-center">
-                <?= $page->kontaktinfos()->kt() ?>
-                <?= $page->oeffnungszeiten()->kt() ?>
+                <div class="mb-4">
+                    <?= $page->kontaktinfos()->kt() ?>
+                </div>
+                <div>
+                    <?= $page->oeffnungszeiten()->kt() ?>
+                </div>
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
+                <?php if ($page->hasCover()) : ?>
                 <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
-                    <a href="<?= $image->url() ?>" data-caption="<?= $image->caption()->html() ?>">
-                        <img
-                            class="group-hover:opacity-75 rounded-lg transition-all"
-                            src="<?= $thumb->url() ?>"
-                            title="<?= $image->caption()->html() ?>"
-                            alt="<?= $image->alt()->html() ?>"
-                            width="<?= $thumb->width() ?>"
-                            height="<?= $thumb->height() ?>"
-                        >
-                        <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $image->caption()->html() ?></figcaption>
+                    <a href="<?= $page->getCover()->url() ?>" data-caption="<?= $page->getCover()->caption()->html() ?>">
+                        <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'contact.map') ?>
+                        <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
                     </a>
                 </figure>
+                <?php endif ?>
             </div>
         </div>
     </header>

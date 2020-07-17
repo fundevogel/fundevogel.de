@@ -8,19 +8,10 @@
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
                 <a class="lg:ml-12 inline-block group relative" href="<?= $file->url() ?>" target="_blank">
-                    <?php
-                        if ($image = $page->cover()->toFile()) :
-                        $thumb = $image->resize('420');
-                    ?>
+                    <?php if ($page->hasCover()) : ?>
                     <figure class="inline-block shadow-cover rounded-lg">
-                        <img
-                            class="rounded-t-lg" src="<?= $thumb->url() ?>"
-                            title="<?= $image->titleAttribute()->html() ?><?php e($image->source()->isNotEmpty(), ' - ' . $image->source()->html()) ?>"
-                            alt="<?= $image->altAttribute()->html() ?>"
-                            width="<?= $thumb->width() ?>"
-                            height="<?= $thumb->height() ?>"
-                        >
-                        <figcaption class="py-2 text-xs text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= $image->caption()->html() ?></figcaption>
+                        <?= $page->getCover()->createImage('rounded-t-lg') ?>
+                        <figcaption class="py-2 text-xs text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= $page->getCover()->caption()->html() ?></figcaption>
                     </figure>
                     <?php endif ?>
                     <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">

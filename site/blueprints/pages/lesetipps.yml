@@ -14,11 +14,15 @@ tabs:
         sections:
           drafts:
             template: lesetipps.article
+            image:
+              query: page.getCover
 
       right:
         sections:
           unlisted:
             template: lesetipps.article
+            image:
+              query: page.getCover
 
       full:
         sections:
@@ -26,21 +30,45 @@ tabs:
             template: lesetipps.article
             text: "{{ page.author }}: {{ page.book_title }}"
             info: "{{ page.date.toDate('d.m.Y') }}"
+            image:
+              query: page.getCover
 
   tab_content:
-    extends: tabs/content
+    extends: tabs/default
 
-    fields:
-      text:
-        label: Text
-        type: textarea
+    columns:
+      column_main:
+        sections:
+          main_fields:
+            type: fields
+            fields:
+              text:
+                label: Text
+                type: textarea
 
-    sidebar:
-      sidebar_fields:
-        fields:
-          limit_perpage: fields/groups/limit-perpage
+          child_pages:
+            extends: sections/articles
+            headline:
+              de: Unterseiten
+              en: Subpages
+            template:
+              - lesetipps.browse
+              - lesetipps.archive
+              - lesetipps.topics
+            create: false
+            size: small
+            image:
+              query: page.getCover
+              ratio: 3/2
 
-      sidebar_files: sections/documents
+      column_sidebar:
+        sections:
+          sidebar_fields:
+            type: fields
+            fields:
+              limit_perpage: fields/groups/limit-perpage
+
+          sidebar_files: sections/documents
 
   # Metadata
   tab_seo: tabs/seo

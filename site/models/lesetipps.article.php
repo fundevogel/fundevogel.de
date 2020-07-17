@@ -1,12 +1,8 @@
 <?php
 
 class LesetippsArticlePage extends Page {
-    public function getCoverImage() {
-        return $this->content()->get('cover')->toFile() ?? site()->fallback()->toFile();
-    }
-
-    public function getCover($classes = '') {
-        $image = $this->getCoverImage();
+    public function getBookCover(string $classes = '') {
+        $image = $this->getCover();
 
         $cover = $image->orientation() === 'portrait'
             ? $image->thumb('lesetipps.article.cover-normal')
