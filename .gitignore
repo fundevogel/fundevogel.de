@@ -20,7 +20,7 @@
 # Plugins
 # ---------------
 /site/plugins/*
-!/site/plugins/fv-*
+!/site/plugins/fundevogel
 
 # Geno poll
 # ---------------
