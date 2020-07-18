@@ -16,8 +16,8 @@ import jsDetect from './modules/jsDetect';
 import toggleMenu from './modules/toggleMenu';
 import forEach from './modules/forEach';
 import getClosest from './modules/getClosest';
-import baguetteBox from '../../../baguetteBox.js/src/baguetteBox';
 
+import runLightbox from './modules/lightBox';
 import Dropkick from 'dropkickjs';
 
 /*
@@ -60,18 +60,6 @@ class App {
             .check()
             .handlers(true);
 
-        const baguetteBoxSelector = '.js-lightbox';
-        const baguetteBoxOptions = {
-            theme: 'fundevogel',
-            animation: 'fadeIn',
-            overlayBackgroundColor: 'rgba(255,249,196,1)',
-        };
-
-        function reloadBaguettebox() {
-            baguetteBox.destroy();
-            baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
-        }
-
         // Avoid 'blank page' on JS error
         try {
             barba.hooks.before(() => {
@@ -88,6 +76,7 @@ class App {
                     polyfill: true,
                 });
 
+                // TODO: Outsource `runTooltips`
                 tippy(data.next.container.querySelectorAll('.js-tippy'), {
                     theme: 'fundevogel orange',
                     duration: [350, 150],
@@ -106,7 +95,7 @@ class App {
                     .update()
                     .check();
 
-                baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
+                runLightbox(data.next.container);
 
                 const toggle = data.next.container.querySelector('.js-toggle');
 
@@ -116,6 +105,7 @@ class App {
                 }, false);
 
                 if (data.next.namespace === 'grid-list' || data.next.namespace === 'calendar') {
+                    // TODO: Outsource `runMasonry`
                     macy({
                         container: data.next.container.querySelector('#macy'),
                         trueOrder: false,
@@ -150,6 +140,7 @@ class App {
                     {
                         namespace: 'news',
                         beforeEnter(data) {
+                            // TODO: `runInfiniteScroll`
                             const infiniteScroll = new InfiniteScroll(data.next.container.querySelector('.js-list'), {
                                 hideNav: '.js-hide',
                                 button: '.js-more',
@@ -161,7 +152,7 @@ class App {
 
                             infiniteScroll.on('append', () => {
                                 lazyLoading.update();
-                                reloadBaguettebox();
+                                runLightbox(data.next.container);
                             });
                         },
                         // afterEnter() {
@@ -178,7 +169,6 @@ class App {
                                 container: data.next.container.querySelector('.js-slider'),
                                 mode: 'gallery',
                                 speed: 1000,
-                                // lazyload: true,
                                 autoplay: true,
                                 autoplayTimeout: 3500,
                                 autoplayHoverPause: true,
@@ -197,10 +187,10 @@ class App {
                     {
                         namespace: 'assortment.single',
                         beforeEnter(data) {
+                            // TODO: Outsource `runSlider`
                             tns({
                                 container: data.next.container.querySelector('.js-slider'),
                                 speed: 1500,
-                                // lazyload: true,
                                 autoplay: true,
                                 autoplayTimeout: 5000,
                                 autoplayHoverPause: true,
@@ -245,7 +235,6 @@ class App {
                     {
                         namespace: 'lesetipps.browse',
                         beforeEnter(data) {
-                            // NodeList:
                             forEach(data.next.container.querySelectorAll('.js-select'), function(value, index) {
                                 value.onchange = function() {
                                     // if (this.selectedIndex !== 0) {
@@ -273,7 +262,6 @@ class App {
                                 speed: 2500,
                                 edgePadding: 40,
                                 center: true,
-                                // lazyload: true,
                                 autoplay: true,
                                 autoplayTimeout: 5000,
                                 autoplayHoverPause: true,
@@ -287,7 +275,7 @@ class App {
                                     },
                                 },
                                 onInit: function() {
-                                    reloadBaguettebox();
+                                    runLightbox(data.next.container);
                                 },
                             });
                         },

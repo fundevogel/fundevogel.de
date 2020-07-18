@@ -9,9 +9,7 @@
         <div class="js-slider mb-10 flex items-center">
             <?php foreach ($data->gallery()->toFiles() as $image) : ?>
             <div class="js-lightbox mx-6">
-                <a href="<?= $image->url() ?>">
-                    <?= $image->createImage('rounded-lg shadow-cover', 'calendar.single.gallery') ?>
-                </a>
+                <?= $image->createImage('rounded-lg shadow-cover cursor-pointer', 'calendar.single.gallery', true, true) ?>
             </div>
             <?php endforeach ?>
         </div>

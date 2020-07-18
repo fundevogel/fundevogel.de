@@ -13,11 +13,9 @@
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
                 <?php if ($page->hasCover()) : ?>
-                <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
-                    <a href="<?= $page->getCover()->url() ?>" data-caption="<?= $page->getCover()->caption()->html() ?>">
-                        <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'contact.map') ?>
-                        <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
-                    </a>
+                <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative cursor-pointer">
+                    <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'contact.map', false, true) ?>
+                    <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
                 </figure>
                 <?php endif ?>
             </div>
