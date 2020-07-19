@@ -21,7 +21,7 @@ def dump_csv(data, csv_file):
 
 if __name__ == "__main__":
     # Load raw data
-    with open('../site/geno-umfrage.log', 'r') as file:
+    with open('../site/geno-umfrage--mitarbeiter.log', 'r') as file:
         raw = file.read()
 
     ## I. CSV REPORT
@@ -72,6 +72,10 @@ if __name__ == "__main__":
 
         results.append(item)
 
+    # Create directory (if it doesn't exist)
+    if not os.path.exists('dist'):
+        os.makedirs('dist')
+
     # Print CSV file with results
     dump_csv(results, os.path.join('dist', 'report_ ' + str(len(results)) + '.csv'))
 
@@ -99,8 +103,5 @@ if __name__ == "__main__":
         figureObject, axesObject = plotter.subplots()
         axesObject.pie(counter.values(), labels=counter.keys(), autopct='%1.2f', startangle=90)
         axesObject.axis('equal')
-
-        if not os.path.exists('dist'):
-            os.makedirs('dist')
 
         plotter.savefig(os.path.join('dist', category + '.png'))
