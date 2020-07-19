@@ -2,9 +2,7 @@ Title: Our Partners
 
 ----
 
-Cover:
-
-- unser-netzwerk.jpg
+Slug: our-partners
 
 ----
 
@@ -20,40 +18,44 @@ We are looking for partnerships, where children, adolescents and books come toge
 
 Cards:
 
--
+- 
   entry: "(link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) lives in Erfurt and supports us with beautiful illustrations, and also she's an author herself! If you look closely, you'll find some of her work among the treasures of our book store .."
--
-  entry: "As cooperation partner of the German Bundesliga club (link: https://www.scfreiburg.com/ text: SC Freiburg) we support the (link: http://www.fuechsleclub.de/ text: Füchsle Club's) project ‚football and reading‘, writing inspiring book reviews and organising events together. Come visit our stall each season start at Freiburg's football stadium!"
--
-  entry: "At our book store, there are  (link: http://www.traeume-am-werk.de/index.html text: dreams at work target: blank): For quite a while now, Monika Schwab's letterings embellish our window boards. Have a look at her website, or visit our book store and see for yourself!"
--
-  entry: 'Alongside the cultural office Freiburg, especially (link: http://www.kulturelle-bildung-freiburg.de/kontakt/ text: Martina Wolff target: blank) and (link: http://www.theater.freiburg.de/de_DE/junges-theater/ text: Michael Kaiser target: blank) we mount the magnificent (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes target: blank), taking place anually in October.'
--
-  entry: 'If you are ever in St. Märgen, take some time and drop by the (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone target: blank): An absolutely commendable project and worthy of support - and they got a fine selection of books for the little ones as well!'
--
-  entry: 'Actress (link: http://www.petra-gack.de/ text: Petra Gack target: blank) and musician (link: http://www.mike-schweizer.de/Home.html text: Mike Schweizer target: blank) belong to our network, because time and again we are having great events together.'
--
+- 
   entry: |
-    (link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank):
-    „Language is not an obstacle, but a possibility!“
--
-  entry: 'The (link: http://www.literaturbuero-freiburg.de/cms/ text: Literaturbüro Freiburg target: blank) is our partner because of the great projects you can find there, for example ‚Freileser‘.'
--
-  entry: 'Did you ever taste home-made dragon scale cake? Check out (link: http://www.cafe-fabelhaft.org/ text: Café Fabelhaft target: blank) and have some! This place really is fabulous.'
--
+    As cooperation partner of the German Bundesliga club (link: https://www.scfreiburg.com/ text: SC Freiburg) we support the (link: http://www.fuechsleclub.de text: Füchsle Club's target: blank) project "football and reading", writing inspiring book reviews and organising events together. Come visit our stall each season start at Freiburg's football stadium!
+- 
+  entry: "At our book store, there are  (link: http://www.traeume-am-werk.de/index.html text: dreams at work target: blank): For quite a while now, Monika Schwab's letterings embellish our window boards. Have a look at her website, or visit our book store and see for yourself!"
+- 
+  entry: 'The ongoing support of our website is in good hands with (link: https://twobrain.io text: Martin Folkers target: blank) - competence with attention to detail, hats off!'
+- 
+  entry: 'Under the leadership of the (link: https://www.freiburg.de/pb/1432868.html text: Kulturamt Freiburg target: blank), the Junges Theater Freiburg and the Literaturhaus Freiburg we accompany the preparations and implementation of the great (link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefest target: blank), which takes place annually in October.'
+- 
+  entry: "In cooperation with the (short: AJuM desc: working group for children's and youth literature and media color: orange) we monthly publish reviews of outstanding books that received the (link: https://www.lesepeter.de text: Leseteter target: blank) award. We're grateful for the kind permission of the (short: GEW desc: Education and Science Workers' Union color: orange) to publish the winners of the (link: https://www.gew.de/wolgast-preis text: Heinrich-Wolgast-Prize target: blank) as reading tips."
+- 
+  entry: 'If you are ever in St. Märgen, take some time and drop by the (link: http://www.cafe-goldene-krone.de text: Café Goldene Krone target: blank): An absolutely commendable project and worthy of support - and they got a fine selection of books for the little ones as well!'
+- 
+  entry: 'Actress (link: http://www.petra-gack.de text: Petra Gack target: blank) and musician (link: http://www.mike-schweizer.de text: Mike Schweizer target: blank) belong to our network, because time and again we are having great events together.'
+- 
+  entry: |
+    (link: http://kathinkamarcks.com text: Kathinka Marcks target: blank):
+    Language is not an obstacle, but a opportunity!
+- 
+  entry: 'The (link: http://www.literaturbuero-freiburg.de text: Literaturbüro Freiburg target: blank) is our partner because of the great projects you can find there, for example "Freileser".'
+- 
   entry: 'One of our dearest neighbors is the (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst target: blank) - art and literature being very close (and just across the street).'
--
+- 
   entry: "It's an oasis of calm where you can just take it easy, sling a hammock and relax - no muss, no fuss! Spend your days dreaming and decelerating at (link: http://www.traeumothek.de/ text: Träumothek target: blank)."
--
-  entry: 'When the sun is shining, (link: http://www.cafemarcel.de/ text: Café Marcel target: blank) is definitely the place to be. While their parents relish coffee specialties and french croissants, their kids play at the huge playground nearby.'
+- 
+  entry: 'When the sun is shining, (link: https://www.cafemarcel.de text: Café Marcel target: blank) is definitely the place to be. While their parents relish coffee specialties and french croissants, their kids play at the huge playground nearby.'
+- 
+  entry: |
+    Since the opening of our "French corner", the (link: https://ccf-fr.de/ text: Centre Culturel Francais target: blank) has been one of our most loyal cooperation partners. Together we build bridges between our countries and strive to provide you with a current and original look at French children's and youth literature.
 
 ----
 
-Handle: Network
+Cover:
 
-----
-
-Motto: Awakening interest in books and literature, to enjoy reading, and having fun.
+- unser-netzwerk.jpg
 
 ----
 
@@ -65,4 +67,8 @@ Seodescription: We are looking for cooperation and partnerships to spark interes
 
 ----
 
-slug: our-partners
+Handle: Network
+
+----
+
+Motto: Awakening interest in books and literature, to enjoy reading, and having fun.
