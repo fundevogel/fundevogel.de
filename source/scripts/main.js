@@ -29,9 +29,6 @@ class App {
     }
 
     constructor() {
-        // eslint-disable-next-line new-cap
-        this.lazyload = Layzr({normal: 'data-layzr'});
-
         Promise
             .all([
                 App.domReady(),
@@ -54,6 +51,9 @@ class App {
     init() {
         console.info('🚀 App:init');
 
+        // eslint-disable-next-line new-cap
+        const lazyload = Layzr({normal: 'data-layzr'});
+
         // Avoid 'blank page' on JS error
         try {
             barba.hooks.before(() => {
@@ -71,7 +71,7 @@ class App {
 
             barba.hooks.beforeEnter((data) => {
                 // Generic setup
-                this.lazyload
+                lazyload
                     .update()
                     .check()
                     .handlers(true);
@@ -155,7 +155,7 @@ class App {
                             const infiniteScroll = runScroll(data.next.container);
 
                             infiniteScroll.on('append', () => {
-                                this.lazyload.update();
+                                lazyload.update();
                                 runLightbox(data.next.container);
                             });
                         },
