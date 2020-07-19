@@ -1,28 +1,23 @@
 <?php
 
 return [
-    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isBlurry = false) {
+    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isBlurry = false, bool $isLightbox = false, array $extra = []) {
         $cover = $this->thumb($preset);
         $blurry = $this->thumb($preset . '.blurred');
 
-        $url = $isBlurry
-            ? $blurry->url()
-            : $cover->url()
+        $source = $isBlurry ? $blurry->url() : $cover->url();
+        $title = $this->source()->isEmpty()
+            ? $this->titleAttribute()
+            : $this->titleAttribute() . ' - ' . $this->source()
         ;
 
-        $attributes = [
+        $attributes = A::append([
             'class' => $classes,
-            'title' => $this->titleAttribute(),
+            'title' => $title,
             'alt' => $this->altAttribute(),
             'width' => $cover->width(),
             'height' => $cover->height(),
-        ];
-
-        if ($this->source()->isNotEmpty()) {
-            $attributes = A::update($attributes, [
-                'title' => $this->titleAttribute() . ' - ' . $this->source(),
-            ]);
-        }
+        ], $extra);
 
         if ($isBlurry) {
             $attributes = A::append($attributes, [
@@ -30,7 +25,14 @@ return [
             ]);
         }
 
-        return Html::img($url, $attributes);
+        if ($isLightbox) {
+            $attributes = A::append($attributes, [
+                'data-bp' => $this->thumb('full')->url(),
+                'data-caption' => $title,
+            ]);
+        }
+
+        return Html::img($source, $attributes);
     },
     'getFront' => function ($classes = '') {
         // Try using default cover, otherwise use global fallback image

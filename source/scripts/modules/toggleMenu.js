@@ -1,6 +1,5 @@
 import anime from 'animejs';
 
-
 export default () => {
     const body = document.body;
     const toggle = document.querySelector('.js-toggle');

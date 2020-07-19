@@ -8,11 +8,9 @@
             </div>
             <div class="pt-6 lg:pt-12 flex-none text-center">
             <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
-                <div class="js-lightbox js-slider">
+                <div class="js-lightbox js-slider cursor-pointer">
                     <?php foreach ($page->images() as $image) : ?>
-                    <a href="<?= $image->url() ?>" data-caption="<?= $page->caption()->html() ?>">
-                        <?= $image->createImage('group-hover:opacity-75 rounded-lg transition-all', 'about.slides') ?>
-                    </a>
+                    <?= $image->createImage('group-hover:opacity-75 rounded-lg transition-all', 'about.slides', false, true) ?>
                     <?php endforeach ?>
                 </div>
                 <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all">

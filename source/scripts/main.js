@@ -1,34 +1,37 @@
-/* eslint-disable max-len */
-
 /*
  * IMPORTS
  */
 
 import barba from '@barba/core';
-import InfiniteScroll from 'infinite-scroll';
+
 import Layzr from 'layzr.js';
-import macy from 'macy';
-import svg4everybody from 'svg4everybody';
-import tippy, {roundArrow} from 'tippy.js';
-import {tns} from 'tiny-slider/src/tiny-slider.module';
 
-import jsDetect from './modules/jsDetect';
+import contains from './helpers/contains';
+import jsDetect from './helpers/jsDetect';
+
+import runForms from './modules/forms';
+import runScroll from './modules/infiniteScroll';
+import runLightbox from './modules/lightBox';
+import runMasonry from './modules/masonry';
+import runSlider from './modules/slider';
+import runSVG from './modules/polyfillSVG';
+import runTooltips from './modules/toolTips';
 import toggleMenu from './modules/toggleMenu';
-import forEach from './modules/forEach';
-import getClosest from './modules/getClosest';
-import baguetteBox from '../../../baguetteBox.js/src/baguetteBox';
 
-import Dropkick from 'dropkickjs';
 
 /*
  * App Class
  */
+
 class App {
     static start() {
         return new App();
     }
 
     constructor() {
+        // eslint-disable-next-line new-cap
+        this.lazyload = Layzr({normal: 'data-layzr'});
+
         Promise
             .all([
                 App.domReady(),
@@ -45,89 +48,86 @@ class App {
     static showPage() {
         document.body.classList.add('app:is-ready');
         console.info('🚀 App:ready');
+        jsDetect();
     }
 
     init() {
         console.info('🚀 App:init');
-
-        jsDetect();
-
-        // eslint-disable-next-line new-cap
-        const lazyLoading = Layzr({normal: 'data-layzr'});
-
-        lazyLoading
-            .update()
-            .check()
-            .handlers(true);
-
-        const baguetteBoxSelector = '.js-lightbox';
-        const baguetteBoxOptions = {
-            theme: 'fundevogel',
-            animation: 'fadeIn',
-            overlayBackgroundColor: 'rgba(255,249,196,1)',
-        };
-
-        function reloadBaguettebox() {
-            baguetteBox.destroy();
-            baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
-        }
 
         // Avoid 'blank page' on JS error
         try {
             barba.hooks.before(() => {
                 barba.wrapper.classList.add('app:is-animating');
             });
+
             // barba.hooks.beforeLeave(() => {
             // });
+
             // barba.hooks.leave(() => {
             // });
+
             // barba.hooks.afterLeave(() => {
             // });
+
             barba.hooks.beforeEnter((data) => {
-                svg4everybody({
-                    polyfill: true,
-                });
-
-                tippy(data.next.container.querySelectorAll('.js-tippy'), {
-                    theme: 'fundevogel orange',
-                    duration: [350, 150],
-                    offset: [0, 20],
-                    arrow: roundArrow,
-                    plugins: [],
-                    // Use `title` attribute as content
-                    content(reference) {
-                        const title = reference.getAttribute('title');
-                        reference.removeAttribute('title');
-                        return title;
-                    },
-                });
-
-                lazyLoading
+                // Generic setup
+                this.lazyload
                     .update()
-                    .check();
+                    .check()
+                    .handlers(true);
 
-                baguetteBox.run(baguetteBoxSelector, baguetteBoxOptions);
+                const page = data.next.container;
 
-                const toggle = data.next.container.querySelector('.js-toggle');
+                runSVG();
+                runTooltips(page);
+
+                const toggle = page.querySelector('.js-toggle');
 
                 toggle.addEventListener('click', function(e) {
                     e.preventDefault();
                     toggleMenu();
                 }, false);
 
-                if (data.next.namespace === 'grid-list' || data.next.namespace === 'calendar') {
-                    macy({
-                        container: data.next.container.querySelector('#macy'),
-                        trueOrder: false,
-                        columns: 3,
-                        margin: 16,
-                        breakAt: {
-                            767: 1,
-                            1279: 2,
-                        },
-                    });
+
+                // Template-specifc setup
+                const template = data.next.namespace;
+
+                // Slider
+                const hasSlider = [
+                    'about',
+                    'assortment.single',
+                    'lesetipps.article',
+                    'calendar.single',
+                ];
+
+                if (contains(hasSlider, template)) {
+                    runSlider(page, template);
+                }
+
+                // Lightbox
+                const hasLightbox = [
+                    'news',
+                    'about',
+                    'lesetipps.article',
+                    'calendar.single',
+                    'contact',
+                ];
+
+                if (contains(hasLightbox, template)) {
+                    runLightbox(page);
+                }
+
+                // Masonry
+                const hasMasonry = [
+                    'calendar',
+                    'grid-list',
+                ];
+
+                if (contains(hasMasonry, template)) {
+                    runMasonry(page);
                 }
             });
+
             barba.hooks.enter((data) => {
                 window.scrollTo(0, 0);
 
@@ -138,8 +138,10 @@ class App {
                     toggleMenu();
                 }
             });
+
             // barba.hooks.afterEnter(() => {
             // });
+
             barba.hooks.after(() => {
                 barba.wrapper.classList.remove('app:is-animating');
             });
@@ -150,89 +152,11 @@ class App {
                     {
                         namespace: 'news',
                         beforeEnter(data) {
-                            const infiniteScroll = new InfiniteScroll(data.next.container.querySelector('.js-list'), {
-                                hideNav: '.js-hide',
-                                button: '.js-more',
-                                path: '.js-target',
-                                append: '.js-article',
-                                scrollThreshold: 750,
-                                history: false,
-                            });
+                            const infiniteScroll = runScroll(data.next.container);
 
                             infiniteScroll.on('append', () => {
-                                lazyLoading.update();
-                                reloadBaguettebox();
-                            });
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                    {
-                        namespace: 'about',
-                        beforeEnter(data) {
-                            tns({
-                                container: data.next.container.querySelector('.js-slider'),
-                                mode: 'gallery',
-                                speed: 1000,
-                                // lazyload: true,
-                                autoplay: true,
-                                autoplayTimeout: 3500,
-                                autoplayHoverPause: true,
-                                autoplayButtonOutput: false,
-                                nav: false,
-                                controls: false,
-                            });
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                    {
-                        namespace: 'assortment.single',
-                        beforeEnter(data) {
-                            tns({
-                                container: data.next.container.querySelector('.js-slider'),
-                                speed: 1500,
-                                // lazyload: true,
-                                autoplay: true,
-                                autoplayTimeout: 5000,
-                                autoplayHoverPause: true,
-                                autoplayButtonOutput: false,
-                                nav: true,
-                                navContainer: data.next.container.querySelector('.js-controls'),
-                                controls: false,
-                            });
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                    {
-                        namespace: 'lesetipps.article',
-                        beforeEnter(data) {
-                            forEach(data.next.container.querySelectorAll('.js-slider'), function(value, index) {
-                                tns({
-                                    container: value,
-                                    speed: 1500,
-                                    // lazyload: true,
-                                    autoplay: true,
-                                    autoplayTimeout: 5000,
-                                    autoplayHoverPause: true,
-                                    autoplayButtonOutput: false,
-                                    nav: true,
-                                    navContainer: getClosest(value, '.wave').querySelector('.js-controls'),
-                                    controls: false,
-                                });
+                                this.lazyload.update();
+                                runLightbox(data.next.container);
                             });
                         },
                         // afterEnter() {
@@ -245,51 +169,7 @@ class App {
                     {
                         namespace: 'lesetipps.browse',
                         beforeEnter(data) {
-                            // NodeList:
-                            forEach(data.next.container.querySelectorAll('.js-select'), function(value, index) {
-                                value.onchange = function() {
-                                    // if (this.selectedIndex !== 0) {
-                                    window.location.href = this.value;
-                                    // }
-                                };
-
-                                new Dropkick(value);
-                            });
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                    {
-                        namespace: 'calendar.single',
-                        beforeEnter(data) {
-                            tns({
-                                container: data.next.container.querySelector('.js-slider'),
-                                items: 2,
-                                slideBy: 1,
-                                speed: 2500,
-                                edgePadding: 40,
-                                center: true,
-                                // lazyload: true,
-                                autoplay: true,
-                                autoplayTimeout: 5000,
-                                autoplayHoverPause: true,
-                                autoplayButtonOutput: false,
-                                nav: false,
-                                controls: false,
-                                responsive: {
-                                    1024: {
-                                        items: 3,
-                                        slideBy: 2,
-                                    },
-                                },
-                                onInit: function() {
-                                    reloadBaguettebox();
-                                },
-                            });
+                            runForms(data.next.container);
                         },
                         // afterEnter() {
                         // },

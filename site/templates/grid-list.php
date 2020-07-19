@@ -26,7 +26,7 @@
     <hr>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t(Str::ucfirst($identifier) . '-Überschrift') ?></h2>
-        <div id="macy">
+        <div class="js-masonry">
             <?php foreach($cards as $card) : ?>
             <article class="card">
                 <div class="card-inner">

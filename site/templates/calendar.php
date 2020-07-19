@@ -70,7 +70,7 @@
     <?php if ($closedEvents->isNotEmpty()) : ?>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('Geschlossene Veranstaltungen') ?></h2>
-        <div id="macy">
+        <div class="js-masonry">
             <?php foreach ($closedEvents as $event) : ?>
             <div class="card">
                 <h4><?= $event->title() ?></h4>

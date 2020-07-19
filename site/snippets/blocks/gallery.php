@@ -6,13 +6,9 @@
             <?= useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
         </div>
         <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
-        <div class="js-slider mb-10 flex items-center">
+        <div class="js-lightbox js-slider mb-10 flex items-center">
             <?php foreach ($data->gallery()->toFiles() as $image) : ?>
-            <div class="js-lightbox mx-6">
-                <a href="<?= $image->url() ?>">
-                    <?= $image->createImage('rounded-lg shadow-cover', 'calendar.single.gallery') ?>
-                </a>
-            </div>
+            <?= $image->createImage('mx-6 rounded-lg shadow-cover cursor-pointer', 'calendar.single.gallery', true, true) ?>
             <?php endforeach ?>
         </div>
     </div>
