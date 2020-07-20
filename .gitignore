@@ -22,11 +22,12 @@
 /site/plugins/*
 !/site/plugins/fundevogel
 
-# Geno poll
+# Toolset
 # ---------------
-/geno-poll/*
-!/geno-poll/main.py
-!/geno-poll/requirements.txt
+/toolset/*
+!/toolset/*.py
+!/toolset/*.bash
+!/toolset/requirements.txt
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!

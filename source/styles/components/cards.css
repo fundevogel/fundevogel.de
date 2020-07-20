@@ -23,7 +23,7 @@
 
 .card a {
   @apply text-orange-medium;
-  @apply font-normal;
+  @apply font-medium;
 }
 
 .card a:active,
