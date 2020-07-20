@@ -4,8 +4,6 @@ import forEach from '../helpers/forEach';
 import getClosest from '../helpers/getClosest';
 
 function getPreset(element, template) {
-    console.log(element);
-
     const defaults = {
         container: element,
         speed: 2500,
@@ -16,7 +14,6 @@ function getPreset(element, template) {
         controls: false,
         nav: false,
     };
-    console.log(defaults);
 
     const presets = {
         'about': {

@@ -16,15 +16,9 @@ export default (container) => {
                     document.documentElement.style.overflowY = 'hidden';
                     document.body.style.overflowY = 'scroll';
                 },
-                animationEnd: function() {
-                    console.log('Lightbox opened');
-                },
                 onClose: function() {
                     document.documentElement.style.overflowY = 'auto';
                     document.body.style.overflowY = 'auto';
-                },
-                onChangeImage: function(props) {
-                    console.log('gallery image changed', props);
                 },
             });
         }, false);
