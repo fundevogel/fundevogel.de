@@ -3,7 +3,7 @@
 }
 
 .content a {
-  @apply font-normal;
+  @apply font-medium;
   @apply text-red-medium;
 }
 

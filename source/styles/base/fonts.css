@@ -1,49 +1,39 @@
 @font-face {
-  font-family: 'DosisInitial';
-  src: url('/assets/fonts/Dosis-Light-supersubset.woff2') format('woff2'),
-       url('/assets/fonts/Dosis-Light-supersubset.zopfli.woff') format('woff'),
-       url('/assets/fonts/Dosis-Light-supersubset.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 300;
-  unicode-range: U+0030-0039,U+0041-005A,U+0061-007A;
-}
-
-@font-face {
-  font-family: 'Dosis';
-  src: url('/assets/fonts/Dosis-Light-subset.woff2') format('woff2'),
-       url('/assets/fonts/Dosis-Light-subset.zopfli.woff') format('woff'),
-       url('/assets/fonts/Dosis-Light-subset.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 300;
   font-display: swap;
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/assets/fonts/CabinSketch.subset.woff2') format('woff2'),
+    url('/assets/fonts/CabinSketch.subset.woff') format('woff'),
+    url('/assets/fonts/CabinSketch.subset.ttf') format('truetype');
 }
 
 @font-face {
+  font-display: swap;
   font-family: 'Dosis';
-  src: url('/assets/fonts/Dosis-Medium-subset.woff2') format('woff2'),
-       url('/assets/fonts/Dosis-Medium-subset.zopfli.woff') format('woff'),
-       url('/assets/fonts/Dosis-Medium-subset.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300;
+  src: url('/assets/fonts/Dosis-Light.subset.woff2') format('woff2'),
+    url('/assets/fonts/Dosis-Light.subset.woff') format('woff'),
+    url('/assets/fonts/Dosis-Light.subset.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Dosis';
   font-style: normal;
   font-weight: 500;
-  font-display: swap;
+  src: url('/assets/fonts/Dosis-Medium.subset.woff2') format('woff2'),
+    url('/assets/fonts/Dosis-Medium.subset.woff') format('woff'),
+    url('/assets/fonts/Dosis-Medium.subset.ttf') format('truetype');
 }
 
 @font-face {
+  font-display: swap;
   font-family: 'Dosis';
-  src: url('/assets/fonts/Dosis-Bold-subset.woff2') format('woff2'),
-       url('/assets/fonts/Dosis-Bold-subset.zopfli.woff') format('woff'),
-       url('/assets/fonts/Dosis-Bold-subset.ttf') format('truetype');
   font-style: normal;
   font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Cabin Sketch';
-  src: url('/assets/fonts/CabinSketch-Bold-ultrasubset.woff2') format('woff2'),
-       url('/assets/fonts/CabinSketch-Bold-ultrasubset.zopfli.woff') format('woff'),
-       url('/assets/fonts/CabinSketch-Bold-ultrasubset.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
+  src: url('/assets/fonts/Dosis-Bold.subset.woff2') format('woff2'),
+    url('/assets/fonts/Dosis-Bold.subset.woff') format('woff'),
+    url('/assets/fonts/Dosis-Bold.subset.ttf') format('truetype');
 }
