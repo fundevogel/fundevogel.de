@@ -87,15 +87,6 @@
   width: 650px;
 }
 
-.bp-container button {
-  background: 0;
-  border: 0;
-  cursor: pointer;
-  outline: 0;
-  position: absolute;
-  transition: all 0.1s;
-}
-
 .bp-container > .bp-x {
   border-radius: 100%;
   height: 41px;
@@ -138,14 +129,59 @@
   @apply opacity-0;
 }
 
-.bp-arrow {
+.bp-button {
+  @apply my-24;
+  @apply absolute;
+  @apply outline-none;
+  @apply cursor-pointer;
+
   background: 0;
   border: 0;
-  /* opacity: 0.4; */
   top: 50%;
-  top: calc(50% - 130px);
-  /* transition: opacity 0.1s; */
-  /* width: 6%; */
+  top: calc(50% - 8rem);
+  outline: 0;
+  position: absolute;
+  transition: all 0.1s;
+}
+
+@screen lg {
+  .bp-button {
+    @apply my-0;
+  }
+}
+
+.bp-button.left {
+  @apply left-0;
+
+  .bp-arrow {
+    @apply rounded-r-lg;
+    @apply mr-20;
+  }
+}
+
+@screen lg {
+  .bp-button.left {
+    @apply mr-0;
+  }
+}
+
+.bp-button.right {
+  @apply right-0;
+
+  .bp-arrow {
+    @apply rounded-l-lg;
+    @apply ml-20;
+  }
+}
+
+@screen lg {
+  .bp-button.right {
+    @apply ml-0;
+  }
+}
+
+.bp-arrow {
+  @apply px-6 py-4;
 }
 
 @keyframes bpf {
