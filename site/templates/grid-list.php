@@ -6,7 +6,7 @@
             <div class="flex-1">
                 <?= $page->text()->kt() ?>
             </div>
-            <div class="pt-6 lg:pt-12 flex-none text-center">
+            <div class="mt-12 flex-none text-center">
                 <?php if ($page == page('unser-netzwerk')) : ?>
                 <p class="max-w-md mb-10 font-bold font-small-caps text-center text-red-medium inline-block lg:hidden">
                     <?= $page->motto()->html() ?>

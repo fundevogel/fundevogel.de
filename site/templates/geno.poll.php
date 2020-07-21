@@ -6,7 +6,7 @@
             <div class="flex-1">
                 <?= $page->text()->kt() ?>
             </div>
-            <div class="pt-6 lg:pt-12 flex-none text-center">
+            <div class="mt-12 flex-none text-center">
                 <a class="lg:ml-12 inline-block group relative" href="<?= $file->url() ?>" target="_blank">
                     <?php if ($page->hasCover()) : ?>
                     <figure class="inline-block shadow-cover rounded-lg">

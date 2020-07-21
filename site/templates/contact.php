@@ -11,7 +11,7 @@
                     <?= $page->oeffnungszeiten()->kt() ?>
                 </div>
             </div>
-            <div class="pt-6 lg:pt-12 flex-none text-center">
+            <div class="mt-12 flex-none text-center">
                 <?php if ($page->hasCover()) : ?>
                 <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative cursor-pointer">
                     <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'contact.map', false, true) ?>

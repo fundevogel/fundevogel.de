@@ -6,7 +6,7 @@
             <div class="flex-1">
                 <?= $page->text()->kt() ?>
             </div>
-            <div class="pt-6 lg:pt-12 flex-none text-center">
+            <div class="mt-12 flex-none text-center">
                 <?php snippet('cover') ?>
             </div>
         </div>
