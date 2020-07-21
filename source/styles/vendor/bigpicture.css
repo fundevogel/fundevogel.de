@@ -1,0 +1,227 @@
+.bp-caption,
+.bp-container {
+  @apply fixed;
+  @apply bottom-0;
+  @apply inset-x-0;
+  @apply opacity-0;
+}
+
+.bp-container > *,
+.bp-loader {
+  @apply absolute;
+  @apply right-0;
+  @apply z-10;
+}
+
+.bp-container,
+.bp-caption,
+.bp-container svg {
+  @apply pointer-events-none;
+}
+
+.bp-container {
+  @apply bg-yellow-light;
+  @apply opacity-0;
+  @apply top-0;
+  @apply z-50;
+
+  transition: opacity 0.35s;
+}
+
+.bp-loader {
+  align-items: center;
+  background: 0;
+  bottom: 0;
+  cursor: wait;
+  display: flex;
+  left: 0;
+  top: 0;
+  z-index: 9;
+}
+
+.bp-loader svg {
+  animation: bpturn 1s infinite linear;
+  margin: auto;
+  max-height: 50%;
+  max-width: 300px;
+  width: 50%;
+}
+
+.bp-aud,
+.bp-container img,
+.bp-sv,
+.bp-vid {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  max-height: 96%;
+  max-width: 96%;
+  top: 0;
+  user-select: none;
+  z-index: -1;
+}
+
+.bp-sv {
+  background: #111;
+}
+
+.bp-sv svg {
+  width: 66px;
+}
+
+.bp-caption {
+  @apply p-4;
+  @apply bg-red-medium;
+  @apply text-center;
+  @apply text-lg;
+  @apply text-white;
+
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s;
+}
+
+.bp-aud {
+  bottom: auto;
+  box-shadow: none;
+  top: calc(50% - 20px);
+  width: 650px;
+}
+
+.bp-container button {
+  background: 0;
+  border: 0;
+  cursor: pointer;
+  outline: 0;
+  position: absolute;
+  transition: all 0.1s;
+}
+
+.bp-container > .bp-x {
+  border-radius: 100%;
+  height: 41px;
+  line-height: 1;
+  opacity: 0.8;
+  padding: 0;
+  right: 14px;
+  top: 8px;
+  width: 41px;
+}
+
+.bp-container > .bp-x:focus,
+.bp-container > .bp-x:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.bp-x svg,
+.bp-xc svg {
+  fill: #fff;
+  height: 21px;
+  vertical-align: top;
+  width: 20px;
+}
+
+.bp-xc svg {
+  width: 16px;
+}
+
+.bp-container .bp-xc {
+  background: #d04444;
+  border-radius: 2px 2px 0 0;
+  bottom: 100%;
+  left: 2%;
+  opacity: 0.85;
+  padding: 9px 20px 7px;
+}
+
+.bp-container .bp-xc:focus,
+.bp-container .bp-xc:hover {
+  @apply opacity-0;
+}
+
+.bp-arrow {
+  background: 0;
+  border: 0;
+  /* opacity: 0.4; */
+  top: 50%;
+  top: calc(50% - 130px);
+  /* transition: opacity 0.1s; */
+  /* width: 6%; */
+}
+
+@keyframes bpf {
+  50% {
+    transform: translatex(15px);
+  }
+
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes bpl {
+  50% {
+    transform: translatex(-15px);
+  }
+
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes bpfl {
+  0% {
+    opacity: 0;
+    transform: translatex(70px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes bpfr {
+  0% {
+    opacity: 0;
+    transform: translatex(-70px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes bpfol {
+  0% {
+    opacity: 1;
+    transform: none;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translatex(-70px);
+  }
+}
+
+@keyframes bpfor {
+  0% {
+    opacity: 1;
+    transform: none;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translatex(70px);
+  }
+}
+
+@keyframes bpturn {
+  0% {
+    transform: none;
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

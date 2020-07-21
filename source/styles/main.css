@@ -28,6 +28,7 @@
 
 
 /* Vendor */
+@import 'vendor/bigpicture';
 @import 'vendor/dropkick';
 @import 'vendor/tiny-slider';
 @import 'vendor/tippy';

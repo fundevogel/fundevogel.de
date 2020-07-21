@@ -5,6 +5,7 @@ module.exports = {
     purge: {
       content: [
         'source/scripts/**/*.js',
+        'source/scripts/**/*.js',
         'site/plugins/fv-*/*.php',
         'site/snippets/**/*.php',
         'site/templates/**/*.php',
@@ -17,6 +18,19 @@ module.exports = {
           // Margins used for SVG separator
           '-mt-px',
           '-mb-px',
+          // bigPicture JS-generated classes
+          'pr-20',
+          'pl-20',
+          'py-24',
+          'lg:py-0',
+          'left-0',
+          'right-0',
+          'rounded-r-lg',
+          'rounded-l-lg',
+          'w-auto',
+          'h-12',
+          'text-white',
+          'fill-current',
         ],
       }
     },
