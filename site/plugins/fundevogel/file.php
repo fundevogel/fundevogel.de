@@ -26,8 +26,9 @@ return [
         }
 
         if ($isLightbox) {
+            $preset = $this->orientation() === 'landscape' ? 'full-width' : 'full-height';
             $attributes = A::append($attributes, [
-                'data-bp' => $this->thumb('full')->url(),
+                'data-bp' => $this->thumb($preset)->url(),
                 'data-caption' => $title,
             ]);
         }

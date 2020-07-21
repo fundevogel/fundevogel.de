@@ -13,7 +13,8 @@ return [
     # Thumbnail presets
     'presets' => [
         'cover' => ['width' => 460],
-        'full' => ['width' => 768],
+        'full-width' => ['width' => 768],
+        'full-height' => ['width' => null, 'height' => 640],
         'news.hero' => ['width' => 960],
         'news.article.image' => ['width' => 224, 'crop' => true],
         'news.article.image.blurred' => ['width' => 224, 'crop' => true, 'blur' => true],
