@@ -159,12 +159,6 @@
   }
 }
 
-@screen lg {
-  .bp-button.left {
-    @apply mr-0;
-  }
-}
-
 .bp-button.right {
   @apply right-0;
 
@@ -174,14 +168,15 @@
   }
 }
 
-@screen lg {
-  .bp-button.right {
-    @apply ml-0;
-  }
-}
-
 .bp-arrow {
   @apply px-6 py-4;
+}
+
+@screen lg {
+  .bp-button.left .bp-arrow,
+  .bp-button.right .bp-arrow {
+    @apply mx-0;
+  }
 }
 
 @keyframes bpf {
