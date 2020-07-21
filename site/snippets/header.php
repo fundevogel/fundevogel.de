@@ -14,10 +14,10 @@
                                     <span><?= t('Menü-' . $item->id()) ?></span>
                                 </a>
                             <?php endforeach ?>
-                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" style="opacity: 0; text-shadow:none">Shop</a>
+                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" style="opacity: 0; text-shadow:none" rel="noopener">Shop</a>
                         </nav>
                     </div>
-                    <button class="js-toggle py-6 pl-4 pr-8 text-white lg:hidden relative z-50" type="button" data-menu="<?= t('Menü') ?>">
+                    <button class="js-toggle py-6 pl-4 pr-8 text-white lg:hidden relative z-50" type="button" data-menu="<?= t('Menü') ?>" aria-label="<?= t('Menü') ?>">
                         <span></span>
                     </button>
                     <nav class="spread-out hidden lg:flex">
@@ -29,7 +29,7 @@
                             </div>
                         <?php endforeach ?>
                         <div class="px-2 relative">
-                            <a class="js-tippy text-sm text-white outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank">
+                            <a class="js-tippy text-sm text-white outline-none" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" rel="noopener">
                                 <span>Shop</span>
                             </a>
                         </div>
