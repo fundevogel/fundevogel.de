@@ -22,6 +22,12 @@ server {
         try_files $uri $uri/ /index.php$is_args$args;
     }
 
+    # Enable asset fingerprinting
+    # See https://github.com/bnomei/kirby3-fingerprint
+    location ~ (.+)\.(?:\d+)\.(js|css)$ {
+        try_files $uri $1.$2;
+    }
+
     # Enable PHP's FastCGI Process Manager (PHP-FPM)
     location ~ \.php$ {
         try_files $uri = 404;
