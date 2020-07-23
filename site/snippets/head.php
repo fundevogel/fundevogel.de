@@ -1,7 +1,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; manifest-src 'self'">
 
     <!-- Fonts -->
     <link rel="preload" href="/assets/fonts/Dosis-Light.subset.woff2" as="font" type="font/woff2" crossorigin>
@@ -11,16 +10,21 @@
     <?php
         $cssFile = option('debug') === true ? 'main.css' : 'main.min.css';
         $cssPath = 'assets/styles/' . $cssFile;
-
-        echo Bnomei\Fingerprint::css($cssPath, ['integrity' => true])
+        $css = (new Asset($cssPath))->read();
     ?>
+    <style nonce="<?= $page->nonce($css) ?>"><?= $css ?></style>
 
     <!-- JS -->
     <?php
         $jsFile = option('debug') ? 'main.js' : 'main.min.js';
         $jsPath = 'assets/scripts/' . $jsFile;
+        $js = (new Asset($jsPath))->read();
 
-        echo Bnomei\Fingerprint::js($jsPath, ['defer' => true, 'integrity' => true]);
+        echo Bnomei\Fingerprint::js($jsPath, [
+            'nonce' => $page->nonce($js),
+            'defer' => true,
+            'integrity' => true
+        ]);
     ?>
 
     <!-- Metadata -->
