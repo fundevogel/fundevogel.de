@@ -6,7 +6,7 @@
             <?= useSVG($data->heading()->html(), 'wave-icon', 'star') ?>
         </div>
         <h2 class="wave-title"><?= $data->heading()->html() ?></h2>
-        <div class="js-slider mb-10">
+        <div class="js-slider mb-10" data-nonce="<?= $page->nonce('tiny-slider') ?>">
             <?php
                 foreach ($data->books()->toStructure() as $book) :
                 $bookTitle = $book->book_subtitle()->isNotEmpty()

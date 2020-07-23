@@ -23,7 +23,7 @@
                 <?= useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
             </div>
             <h2 class="wave-title"><?= t('Auswahl unserer Lieblinge') ?></h2>
-            <div class="js-slider mb-10">
+            <div class="js-slider mb-10" data-nonce="<?= $page->nonce('tiny-slider') ?>">
                 <?php
                     foreach ($favorites as $favorite) :
                     $favoriteTitle = $favorite->title()->isNotEmpty()
@@ -40,7 +40,7 @@
                                 <div class="flex items-center mb-10 lg:mb-0">
                                     <div class="relative">
                                         <?php if ($favorite->isSeries()->bool()) : ?>
-                                        <span class="absolute px-3 py-1 font-bold font-small-caps text-sm text-white text-shadow tracking-wide bg-orange-medium rounded-lg select-none" style="left: -1.5rem; top: 1rem">
+                                        <span class="absolute px-3 py-1 top-4 -left-6 font-bold font-small-caps text-sm text-white text-shadow tracking-wide bg-orange-medium rounded-lg select-none">
                                             <?= t('Serie') ?>
                                         </span>
                                         <?php endif ?>

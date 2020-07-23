@@ -13,6 +13,7 @@ function getPreset(element, template) {
         autoplayButtonOutput: false,
         controls: false,
         nav: false,
+        nonce: element.dataset.nonce,
     };
 
     const presets = {

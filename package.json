@@ -40,7 +40,7 @@
     "macy": "2.5.1",
     "svg4everybody": "2.1.9",
     "tailwindcss": "1.4.6",
-    "tiny-slider": "2.9.2",
+    "tiny-slider": "https://github.com/fundevogel/tiny-slider.git",
     "tippy.js": "6.2.3"
   },
   "devDependencies": {

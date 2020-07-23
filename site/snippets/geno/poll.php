@@ -6,7 +6,7 @@
         </div>
         <div class="mb-6">
             <label>ggf. Adresse:</label>
-            <textarea name="Adresse" class="form-input placeholder-orange-medium placeholder-opacity-100" style="min-height: 10rem"><?= $form->old('Adresse'); ?></textarea>
+            <textarea name="Adresse" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll"><?= $form->old('Adresse'); ?></textarea>
         </div>
         <div class="mb-6">
             <label>Ich bin Kunde/Kundin im FUNDEVOGEL seit:</label>
@@ -26,7 +26,7 @@
 
     <div class="mb-12">
         <label>Was ist für Sie die Besonderheit des FUNDEVOGELs, wodurch zeichnet er sich für Sie aus?</label>
-        <textarea name="BesonderheitenFV" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('BesonderheitenFV'), ' error') ?>" style="min-height: 10rem"><?= $form->old('BesonderheitenFV') ?></textarea>
+        <textarea name="BesonderheitenFV" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('BesonderheitenFV'), ' error') ?>"><?= $form->old('BesonderheitenFV') ?></textarea>
     </div>
 
     <div class="mb-12">
@@ -41,7 +41,7 @@
         </div>
         <div class="mb-6">
             <label>.. wenn ja, welches?</label>
-            <textarea name="AngebotErweiternWie" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('AngebotErweiternWie'), ' error') ?>" style="min-height: 10rem"><?= $form->old('AngebotErweiternWie') ?></textarea>
+            <textarea name="AngebotErweiternWie" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('AngebotErweiternWie'), ' error') ?>"><?= $form->old('AngebotErweiternWie') ?></textarea>
         </div>
     </div>
 
@@ -57,7 +57,7 @@
         </div>
         <div class="mb-6">
             <label>.. wenn nein, was könnte besser sein?</label>
-            <textarea name="SortimentBeratungWas" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('SortimentBeratungWas'), ' error') ?>" style="min-height: 10rem"><?= $form->old('SortimentBeratungWas') ?></textarea>
+            <textarea name="SortimentBeratungWas" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('SortimentBeratungWas'), ' error') ?>"><?= $form->old('SortimentBeratungWas') ?></textarea>
         </div>
     </div>
 
@@ -73,7 +73,7 @@
         </div>
         <div class="mb-6">
             <label>.. wenn nicht, was könnte besser gemacht werden?</label>
-            <textarea name="ServiceSchnelligkeitWas" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('ServiceSchnelligkeitWas'), ' error') ?>" style="min-height: 10rem"><?= $form->old('ServiceSchnelligkeitWas') ?></textarea>
+            <textarea name="ServiceSchnelligkeitWas" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('ServiceSchnelligkeitWas'), ' error') ?>"><?= $form->old('ServiceSchnelligkeitWas') ?></textarea>
         </div>
     </div>
 
@@ -129,13 +129,13 @@
         </div>
         <div class="mb-6">
             <label>.. wenn ja, zB diese Tätigkeiten:</label>
-            <textarea name="MithilfeWas" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('MithilfeWas'), ' error') ?>" style="min-height: 10rem"><?= $form->old('MithilfeWas') ?></textarea>
+            <textarea name="MithilfeWas" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('MithilfeWas'), ' error') ?>"><?= $form->old('MithilfeWas') ?></textarea>
         </div>
     </div>
 
     <div class="mb-12">
         <label>Haben Sie weitere Anregungen, Vorschläge, ..? Hier ist Raum für ihre Bemerkungen!</label>
-        <textarea name="WeitereAnregungen" class="form-input placeholder-orange-medium placeholder-opacity-100<?php e($form->error('WeitereAnregungen'), ' error') ?>" style="min-height: 10rem"><?= $form->old('WeitereAnregungen') ?></textarea>
+        <textarea name="WeitereAnregungen" class="form-input placeholder-orange-medium placeholder-opacity-100 min-h-poll<?php e($form->error('WeitereAnregungen'), ' error') ?>"><?= $form->old('WeitereAnregungen') ?></textarea>
     </div>
 
     <div class="mb-12">

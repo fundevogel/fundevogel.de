@@ -6,21 +6,21 @@
     <body class="min-h-screen font-light text-base text-black bg-yellow-light" data-barba="wrapper">
         <div class="min-h-screen flex flex-col" data-barba="container" data-barba-namespace="<?= $page->template() ?>">
             <header class="mb-4 flex-none" role="banner">
-                <div class="w-full h-12 flex justify-between items-center shadow-nav fixed top-0 text-white text-shadow bg-red-medium z-40">
-                    <div class="js-overlay flex flex-col justify-center fixed inset-0 bg-red-medium z-50" style="transform: translateY(-100%)">
+                <div class="w-full h-12 flex justify-between items-center shadow-nav fixed top-0 text-white bg-red-medium z-40">
+                    <div class="js-overlay flex flex-col justify-center fixed inset-0 bg-red-medium transform -translate-y-full z-50">
                         <nav class="mt-12 sm:mt-16 flex flex-col items-center font-normal text-lg sm:text-2xl text-center">
                             <?php foreach($pages->listed()->onlyTranslated() as $item) : ?>
-                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white', ' text-white hover:text-red-medium hover:bg-white') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>" style="opacity: 0; text-shadow:none">
+                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white', ' text-white hover:text-red-medium hover:bg-white opacity-0') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>">
                                     <span><?= t('Menü-' . $item->id()) ?></span>
                                 </a>
                             <?php endforeach ?>
-                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" style="opacity: 0; text-shadow:none" rel="noopener">Shop</a>
+                            <a class="js-link w-full py-2 text-white hover:text-red-medium hover:bg-white opacity-0" href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>" title="<?= t('Menü-shop') ?>" target="_blank" rel="noopener">Shop</a>
                         </nav>
                     </div>
                     <button class="js-toggle py-6 pl-4 pr-8 text-white lg:hidden relative z-50" type="button" data-menu="<?= t('Menü') ?>" aria-label="<?= t('Menü') ?>">
                         <span></span>
                     </button>
-                    <nav class="spread-out hidden lg:flex">
+                    <nav class="spread-out text-shadow hidden lg:flex">
                         <?php foreach($pages->listed()->onlyTranslated() as $item) : ?>
                             <div class="px-2 relative">
                                 <a class="js-tippy text-sm text-white outline-none<?php e($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>">

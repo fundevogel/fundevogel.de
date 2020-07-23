@@ -8,7 +8,7 @@
             </div>
             <div class="mt-12 flex-none text-center">
             <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
-                <div class="js-lightbox js-slider cursor-pointer">
+                <div class="js-lightbox js-slider cursor-pointer" data-nonce="<?= $page->nonce('tiny-slider') ?>">
                     <?php
                         foreach ($page->images() as $image) :
                         $caption = $image->altAttribute()->isNotEmpty() ? $image->altAttribute() : $page->caption();
