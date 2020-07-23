@@ -9,12 +9,12 @@ import Layzr from 'layzr.js';
 import contains from './helpers/contains';
 import jsDetect from './helpers/jsDetect';
 
+import polyfillSVG from './modules/polyfillSVG';
 import runForms from './modules/forms';
 import runScroll from './modules/infiniteScroll';
 import runLightbox from './modules/lightBox';
 import runMasonry from './modules/masonry';
 import runSlider from './modules/slider';
-import runSVG from './modules/polyfillSVG';
 import runTooltips from './modules/toolTips';
 import toggleMenu from './modules/toggleMenu';
 
@@ -45,11 +45,13 @@ class App {
     static showPage() {
         document.body.classList.add('app:is-ready');
         console.info('🚀 App:ready');
-        jsDetect();
     }
 
     init() {
         console.info('🚀 App:init');
+
+        jsDetect();
+        polyfillSVG();
 
         // eslint-disable-next-line new-cap
         const lazyload = Layzr({normal: 'data-layzr'});
@@ -70,17 +72,22 @@ class App {
             // });
 
             barba.hooks.beforeEnter((data) => {
-                // Generic setup
+                /*
+                 * Generic setup
+                 */
+
+                const page = data.next.container;
+
+                // Tooltips
+                runTooltips(page);
+
+                // Lazyloading
                 lazyload
                     .update()
                     .check()
                     .handlers(true);
 
-                const page = data.next.container;
-
-                runSVG();
-                runTooltips(page);
-
+                // Menu (@mobile)
                 const toggle = page.querySelector('.js-toggle');
 
                 toggle.addEventListener('click', function(e) {
@@ -89,8 +96,26 @@ class App {
                 }, false);
 
 
-                // Template-specifc setup
+                /*
+                 * Template-specifc setup
+                 */
+
                 const template = data.next.namespace;
+
+                // Infinite scrolling
+                if (template === 'news') {
+                    const infiniteScroll = runScroll(page);
+
+                    infiniteScroll.on('append', () => {
+                        lazyload.update();
+                        runLightbox(page);
+                    });
+                }
+
+                // Dropkick (form element styling)
+                if (template === 'lesetipps.browse') {
+                    runForms(page);
+                }
 
                 // Slider
                 const hasSlider = [
@@ -146,40 +171,7 @@ class App {
                 barba.wrapper.classList.remove('app:is-animating');
             });
 
-            barba.init({
-                debug: true,
-                views: [
-                    {
-                        namespace: 'news',
-                        beforeEnter(data) {
-                            const infiniteScroll = runScroll(data.next.container);
-
-                            infiniteScroll.on('append', () => {
-                                lazyload.update();
-                                runLightbox(data.next.container);
-                            });
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                    {
-                        namespace: 'lesetipps.browse',
-                        beforeEnter(data) {
-                            runForms(data.next.container);
-                        },
-                        // afterEnter() {
-                        // },
-                        // beforeLeave() {
-                        // },
-                        // afterLeave() {
-                        // },
-                    },
-                ],
-            });
+            barba.init({debug: true});
         } catch (err) {
             console.error(err);
         }
