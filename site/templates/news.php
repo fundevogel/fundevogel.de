@@ -6,8 +6,8 @@
         <?php if ($page->hasCover()) : ?>
         <div class="mt-6 text-center">
             <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
-                <?= $page->getCover()->createImage('group-hover:opacity-75 rounded-lg transition-all', 'news.hero') ?>
-                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
+                <?= $page->getCover()->createImage('rounded-lg transition-all', 'news.hero') ?>
+                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none z-10 transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
             </figure>
         </div>
         <?php endif ?>
