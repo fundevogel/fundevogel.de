@@ -40,7 +40,7 @@ return [
     'bnomei.securityheaders.enabled' => 'force',
     'bnomei.securityheaders.headers' => [],
     'bnomei.securityheaders.loader' => function () {
-        return kirby()->root('config') . '/csp.json';
+        return kirby()->root('config') . '/settings/csp.json';
     },
     'bnomei.securityheaders.setter' => function (\Bnomei\SecurityHeaders $instance) {
         # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically

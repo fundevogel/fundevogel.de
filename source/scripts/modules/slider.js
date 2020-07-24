@@ -4,6 +4,7 @@ import forEach from '../helpers/forEach';
 
 function getPreset(element, template) {
     const defaults = {
+        init: false,
         speed: 2500,
         loop: true,
         simulateTouch: false,
@@ -45,7 +46,7 @@ function getPreset(element, template) {
 }
 
 export default (container, template) => {
-    forEach(container.querySelectorAll('.js-slider'), function(value, index) {
+    forEach(container.querySelectorAll('.js-slider'), (value, index) => {
         // Use modules
         Swiper.use([Autoplay, Pagination, EffectFade]);
 
@@ -53,11 +54,11 @@ export default (container, template) => {
         const swiper = new Swiper(value, options);
 
         if (swiper.autoplay.running) {
-            value.addEventListener('mouseenter', function(e) {
+            value.addEventListener('mouseenter', (e) => {
                 swiper.autoplay.stop();
             });
 
-            value.addEventListener('mouseleave', function(e) {
+            value.addEventListener('mouseleave', (e) => {
                 swiper.autoplay.start();
             });
         }
@@ -66,9 +67,9 @@ export default (container, template) => {
             const pagination = value.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
 
-            forEach(bullets, function(bullet, index) {
-                bullet.addEventListener('click', function(e) {
-                    forEach(bullets, function(sibling, index) {
+            forEach(bullets, (bullet, index) => {
+                bullet.addEventListener('click', (e) => {
+                    forEach(bullets, (sibling, index) => {
                         sibling.classList.remove('is-active');
                     });
 
@@ -77,6 +78,25 @@ export default (container, template) => {
                 });
             });
 
+            swiper.on('init', () => {
+                forEach(bullets, (bullet, index) => {
+                    if (swiper.realIndex === index) {
+                        bullet.classList.add('is-active');
+                    }
+                });
+            });
+
+            swiper.on('autoplay', () => {
+                forEach(bullets, (bullet, index) => {
+                    bullet.classList.remove('is-active');
+
+                    if (swiper.realIndex === index) {
+                        bullet.classList.add('is-active');
+                    }
+                });
+            });
         }
+
+        swiper.init();
     });
 };
