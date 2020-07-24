@@ -198,6 +198,45 @@ Favorites:
   binding: gebunden
   text: 'Billy hat einen berühmten Gangster zum Papa. Der möchte unbedingt, dass auch Billy später mal Gangster wird. Aber Billy ist ihm nicht böse genug. So staffiert er seinen Sohn mit einem (ungeladenen) Revolver aus und schickt ihn in die Welt: "Es kommt darauf an, dass man Angst vor dir bekommt. Üb das erst mal." Voller Bammel macht Billy sich auf den Weg. "Pfoten hoch!", sagt er zum Regenwurm (der keine solchen hat), zur Maus (die ihn nicht ernst nimmt) und zum Hasen (der ihn nicht beachtet). Nur der fiese Fuchs (der den Hasen gejagt hatte) fürchtet sich vor dem Revolver und wird von Billy außer Gefecht gesetzt. Billy ist ein Held! Aber Gangster wird er deswegen noch lange nicht ..'
   delimiter: null
+-
+  title: ""
+  quote: >
+    Ein Bilderbuch mit bemerkenswerten
+    Illustrationen über ein mutiges
+    Mädchen, das die Grenze zwischen
+    Wachsein und Nichtmehrwachsein
+    beschreitet, ein Licht in die Dunkelheit
+    trägt – und unterwegs weitaus
+    interessantere Wesen kennenlernt als zu
+    zählende Schäfchen.
+  person: Carola M.
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7152-0769-8
+  book_cover:
+    - >
+      reise-in-den-schlummerdschungel_juan-munoz-tebar.jpg
+  book_title: Reise in den Schlummerdschungel
+  book_subtitle: ""
+  author: Juan Muñoz-Tébar
+  illustrator: Ramón París
+  translator: Eva Roth
+  participants: ""
+  page_count: "34"
+  publisher: Atlantis, Orell Füssli
+  age: ab 3 Jahren
+  price: 14,95
+  binding: gebunden
+  text: >
+    Was hält die Dunkelheit bereit? Was
+    gibt es zu entdecken, wenn eigentlich
+    Zeit zum Schlafen ist, die Augen aber
+    einfach nicht zufallen wollen? Für
+    Elisa am liebsten den
+    Schlummerdschungel. Mit ihrer Laterne
+    erkundet sie dieses sonderbare Land auf
+    dem Weg in die Welt der Träume!
+  delimiter: null
 
 ----
 
