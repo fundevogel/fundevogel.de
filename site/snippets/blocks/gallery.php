@@ -6,10 +6,18 @@
             <?= useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
         </div>
         <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
-        <div class="js-lightbox js-slider mb-10 flex items-center" data-nonce="<?= $page->nonce('tiny-slider') ?>">
-            <?php foreach ($data->gallery()->toFiles() as $image) : ?>
-            <?= $image->createImage('mx-6 rounded-lg shadow-cover cursor-pointer', 'calendar.single.gallery', true, true) ?>
-            <?php endforeach ?>
+        <div class="js-lightbox mb-10 flex items-center">
+            <div class="js-slider swiper-container">
+                <div class="swiper-wrapper swiper-wrapper-gallery">
+                    <?php foreach ($data->gallery()->toFiles() as $image) : ?>
+                    <div class="swiper-slide">
+                        <div class="">
+                            <?= $image->createImage('mx-6 rounded-lg shadow-cover cursor-pointer', 'calendar.single.gallery', true, true) ?>
+                        </div>
+                    </div>
+                    <?php endforeach ?>
+                </div>
+            </div>
         </div>
     </div>
     <?= useSeparator('orange-light', 'bottom-reversed') ?>

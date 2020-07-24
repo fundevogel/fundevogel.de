@@ -1,41 +1,36 @@
-import {tns as tinySlider} from 'tiny-slider/src/tiny-slider.module';
+import Swiper, {Autoplay, Pagination, EffectFade} from 'swiper';
 
 import forEach from '../helpers/forEach';
-import getClosest from '../helpers/getClosest';
 
 function getPreset(element, template) {
     const defaults = {
-        container: element,
         speed: 2500,
-        autoplay: true,
-        autoplayTimeout: template === 'about' ? 3500 : 5000,
-        autoplayHoverPause: true,
-        autoplayButtonOutput: false,
-        controls: false,
-        nav: false,
-        nonce: element.dataset.nonce,
+        loop: true,
+        simulateTouch: false,
+        autoplay: {
+            delay: template === 'about' ? 3500 : 4500,
+        },
     };
 
     const presets = {
         'about': {
             speed: 1000,
-            mode: 'gallery',
+            effect: 'fade',
         },
         'calendar.single': {
-            items: 2,
-            slideBy: 1,
-            responsive: {
+            slidesPerView: 2,
+            slidesPerGroup: 1,
+            breakpoints: {
                 1024: {
-                    items: 3,
-                    slideBy: 2,
+                    slidesPerView: 3,
                 },
                 1280: {
-                    items: 4,
-                    slideBy: 3,
+                    slidesPerView: 4,
+                    slidesPerGroup: 2,
                 },
             },
-            edgePadding: 40,
-            center: true,
+            spaceBetween: 40,
+            centeredSlides: true,
         },
     };
 
@@ -43,8 +38,6 @@ function getPreset(element, template) {
     if (template === 'assortment.single' || template === 'lesetipps.article') {
         return Object.assign(defaults, {
             speed: 1500,
-            nav: true,
-            navContainer: getClosest(element, '.wave').querySelector('.js-controls'),
         });
     }
 
@@ -53,8 +46,37 @@ function getPreset(element, template) {
 
 export default (container, template) => {
     forEach(container.querySelectorAll('.js-slider'), function(value, index) {
-        const options = getPreset(value, template);
+        // Use modules
+        Swiper.use([Autoplay, Pagination, EffectFade]);
 
-        tinySlider(options);
+        const options = getPreset(value, template);
+        const swiper = new Swiper(value, options);
+
+        if (swiper.autoplay.running) {
+            value.addEventListener('mouseenter', function(e) {
+                swiper.autoplay.stop();
+            });
+
+            value.addEventListener('mouseleave', function(e) {
+                swiper.autoplay.start();
+            });
+        }
+
+        if (template === 'assortment.single' || template === 'lesetipps.article') {
+            const pagination = value.querySelector('.js-controls');
+            const bullets = pagination.querySelectorAll('span');
+
+            forEach(bullets, function(bullet, index) {
+                bullet.addEventListener('click', function(e) {
+                    forEach(bullets, function(sibling, index) {
+                        sibling.classList.remove('is-active');
+                    });
+
+                    bullet.classList.add('is-active');
+                    swiper.slideTo(index + 1);
+                });
+            });
+
+        }
     });
 };

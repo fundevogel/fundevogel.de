@@ -54,9 +54,6 @@ return [
         $jsPath = 'assets/scripts/' . $jsFile;
         $jsNonce = $instance->setNonce((new Asset($jsPath))->read());
 
-        $tinySlider = $instance->setNonce('tiny-slider');
-
-        $csp->nonce('style-src', $tinySlider);
         $csp->nonce('style-src', $cssNonce);
         $csp->nonce('script-src', $jsNonce);
     },

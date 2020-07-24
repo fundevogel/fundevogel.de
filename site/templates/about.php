@@ -8,15 +8,21 @@
             </div>
             <div class="mt-12 flex-none text-center">
             <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
-                <div class="js-lightbox js-slider cursor-pointer" data-nonce="<?= $page->nonce('tiny-slider') ?>">
-                    <?php
-                        foreach ($page->images() as $image) :
-                        $caption = $image->altAttribute()->isNotEmpty() ? $image->altAttribute() : $page->caption();
-                    ?>
-                    <?= $image->createImage('group-hover:opacity-75 rounded-lg transition-all', 'about.slides', false, true, ['data-caption' => $caption]) ?>
-                    <?php endforeach ?>
+                <div class="js-lightbox cursor-pointer">
+                    <div class="js-slider swiper-container swiper-about">
+                        <div class="swiper-wrapper">
+                            <?php
+                                foreach ($page->images() as $image) :
+                                $caption = $image->altAttribute()->isNotEmpty() ? $image->altAttribute() : $page->caption();
+                            ?>
+                            <div class="swiper-slide">
+                                <?= $image->createImage('rounded-lg transition-all', 'about.slides', false, true, ['data-caption' => $caption]) ?>
+                            </div>
+                            <?php endforeach ?>
+                        </div>
+                    </div>
                 </div>
-                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none transition-all">
+                <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none z-10 transition-all">
                     <?= $page->caption()->html() ?>
                 </figcaption>
             </figure>
