@@ -217,6 +217,20 @@ module.exports = {
       }),
       inset: {
         '0': '0',
+        'px': '1px',
+        '1': '.25rem',
+        '2': '.5rem',
+        '3': '.75rem',
+        '4': '1rem',
+        '5': '1.25rem',
+        '6': '1.5rem',
+        '-px': '-1px',
+        '-1': '-.25rem',
+        '-2': '-.5rem',
+        '-3': '-.75rem',
+        '-4': '-1rem',
+        '-5': '-1.25rem',
+        '-6': '-1.5rem',
         auto: 'auto',
       },
       letterSpacing: {
@@ -276,6 +290,8 @@ module.exports = {
         '0': '0',
         full: '100%',
         screen: '100vh',
+        // geno-poll
+        poll: '10rem',
       },
       minWidth: {
         '0': '0',

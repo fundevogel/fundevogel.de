@@ -36,6 +36,28 @@ return [
     # PLUGIN OPTIONS
     ##
 
+    # Disable security headers (see `.htaccess`)
+    'bnomei.securityheaders.enabled' => 'force',
+    'bnomei.securityheaders.headers' => [],
+    'bnomei.securityheaders.loader' => function () {
+        return kirby()->root('config') . '/settings/csp.json';
+    },
+    'bnomei.securityheaders.setter' => function (\Bnomei\SecurityHeaders $instance) {
+        # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically
+        $csp = $instance->csp();
+
+        $cssFile = option('debug') === true ? 'main.css' : 'main.min.css';
+        $cssPath = 'assets/styles/' . $cssFile;
+        $cssNonce = $instance->setNonce((new Asset($cssPath))->read());
+
+        $jsFile = option('debug') === true ? 'main.js' : 'main.min.js';
+        $jsPath = 'assets/scripts/' . $jsFile;
+        $jsNonce = $instance->setNonce((new Asset($jsPath))->read());
+
+        $csp->nonce('style-src', $cssNonce);
+        $csp->nonce('script-src', $jsNonce);
+    },
+
     # Adding hash to {css,js} files for cache busting
     # See https://github.com/bnomei/kirby3-fingerprint
     // 'bnomei.fingerprint.query' => false,
