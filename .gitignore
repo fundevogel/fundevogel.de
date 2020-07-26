@@ -1,6 +1,7 @@
 # Development
 # -----
 
+*.bak
 /.ideas
 /.vagrant
 /node_modules

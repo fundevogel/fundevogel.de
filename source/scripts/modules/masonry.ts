@@ -1,10 +1,10 @@
-import macy from 'macy';
+import Macy from 'macy';
 
 import forEach from '../helpers/forEach';
 
-export default (container) => {
-    forEach(container.querySelectorAll('.js-masonry'), function(value, index) {
-        macy({
+export default (container: HTMLElement) => {
+    forEach(container.querySelectorAll('.js-masonry'), (value: HTMLElement, index: number) => {
+        Macy({
             container: value,
             trueOrder: false,
             columns: 3,

@@ -1,6 +1,6 @@
-export default () => {
-    let className = '';
-    let html = '';
+export default (): void => {
+    let html;
+    let className;
 
     html = document.documentElement;
     className = html.className.replace('no-js', 'js');

@@ -1,6 +1,6 @@
 import svg4everybody from 'svg4everybody';
 
-export default () => {
+export default (): void => {
     svg4everybody({
         polyfill: true,
     });

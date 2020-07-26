@@ -1,13 +1,12 @@
 /*
- * IMPORTS
+ * Imports
  */
 
 import barba from '@barba/core';
-
 import Layzr from 'layzr.js';
 
-import contains from './helpers/contains';
 import jsDetect from './helpers/jsDetect';
+import contains from './helpers/contains';
 
 import polyfillSVG from './modules/polyfillSVG';
 import runForms from './modules/forms';
@@ -24,6 +23,10 @@ import toggleMenu from './modules/toggleMenu';
  */
 
 class App {
+    public hasSlider: string[];
+    public hasLightbox: string[];
+    public hasMasonry: string[];
+
     static start() {
         return new App();
     }
@@ -34,6 +37,26 @@ class App {
                 App.domReady(),
             ])
             .then(this.init.bind(this));
+
+        this.hasLightbox = [
+            'news',
+            'about',
+            'lesetipps.article',
+            'calendar.single',
+            'contact',
+        ];
+
+        this.hasSlider = [
+            'about',
+            'assortment.single',
+            'lesetipps.article',
+            'calendar.single',
+        ];
+
+        this.hasMasonry = [
+            'calendar',
+            'grid-list',
+        ];
     }
 
     static domReady() {
@@ -118,37 +141,17 @@ class App {
                 }
 
                 // Slider
-                const hasSlider = [
-                    'about',
-                    'assortment.single',
-                    'lesetipps.article',
-                    'calendar.single',
-                ];
-
-                if (contains(hasSlider, template)) {
+                if (contains(this.hasSlider, template)) {
                     runSlider(page, template);
                 }
 
                 // Lightbox
-                const hasLightbox = [
-                    'news',
-                    'about',
-                    'lesetipps.article',
-                    'calendar.single',
-                    'contact',
-                ];
-
-                if (contains(hasLightbox, template)) {
+                if (contains(this.hasLightbox, template)) {
                     runLightbox(page);
                 }
 
                 // Masonry
-                const hasMasonry = [
-                    'calendar',
-                    'grid-list',
-                ];
-
-                if (contains(hasMasonry, template)) {
+                if (contains(this.hasMasonry, template)) {
                     runMasonry(page);
                 }
             });

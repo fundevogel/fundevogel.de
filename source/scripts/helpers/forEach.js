@@ -8,7 +8,7 @@ export default (collection, callback, scope) => {
             }
         }
     } else {
-        for (let index = 0, len = collection.length; index < len; index++) {
+        for (let index = 0; index < collection.length; index++) {
             callback.call(scope, collection[index], index, collection);
         }
     }
