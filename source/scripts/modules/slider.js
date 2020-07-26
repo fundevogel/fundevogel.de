@@ -13,6 +13,7 @@ function getPreset(element, template) {
         },
     };
 
+    // const presets: {[key: string]: number | string | Object} = {
     const presets = {
         'about': {
             speed: 1000,
@@ -53,16 +54,6 @@ export default (container, template) => {
         const options = getPreset(value, template);
         const swiper = new Swiper(value, options);
 
-        if (swiper.autoplay.running) {
-            value.addEventListener('mouseenter', (e) => {
-                swiper.autoplay.stop();
-            });
-
-            value.addEventListener('mouseleave', (e) => {
-                swiper.autoplay.start();
-            });
-        }
-
         if (template === 'assortment.single' || template === 'lesetipps.article') {
             const pagination = value.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
@@ -86,7 +77,7 @@ export default (container, template) => {
                 });
             });
 
-            swiper.on('autoplay', () => {
+            swiper.on('slideChange', () => {
                 forEach(bullets, (bullet, index) => {
                     bullet.classList.remove('is-active');
 
@@ -94,9 +85,29 @@ export default (container, template) => {
                         bullet.classList.add('is-active');
                     }
                 });
+
+                if (!swiper.autoplay.running) {
+                    swiper.autoplay.start();
+                }
             });
         }
 
+        // Resume autoplay after swiping (touch-only)
+        swiper.on('slideChangeTransitionEnd', () => {
+            swiper.autoplay.start();
+        });
+
         swiper.init();
+
+        // Stop on mouse hover, resume after it's gone
+        if (swiper.autoplay.running) {
+            value.addEventListener('mouseenter', () => {
+                swiper.autoplay.stop();
+            });
+
+            value.addEventListener('mouseleave', () => {
+                swiper.autoplay.start();
+            });
+        }
     });
 };

@@ -46,6 +46,9 @@
   "devDependencies": {
     "@babel/core": "7.9.6",
     "@babel/preset-env": "7.9.6",
+    "@types/animejs": "^3.1.1",
+    "@types/layzr.js": "^2.2.0",
+    "@types/svg4everybody": "^2.1.1",
     "@typescript-eslint/eslint-plugin": "^3.7.0",
     "@typescript-eslint/parser": "^3.7.0",
     "autoprefixer": "9.8.0",

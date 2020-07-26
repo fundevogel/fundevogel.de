@@ -1,6 +1,6 @@
 import tippy, {roundArrow} from 'tippy.js';
 
-export default (container) => {
+export default (container: HTMLElement): void => {
     tippy(container.querySelectorAll('.js-tippy'), {
         theme: 'fundevogel orange',
         duration: [350, 150],
