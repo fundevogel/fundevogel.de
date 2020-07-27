@@ -120,6 +120,12 @@ tabs:
                 image:
                   ratio: 3/4
 
+              isAudiobook:
+                extends: fields/toggle
+                label:
+                  de: Hörbuch?
+                  en: Audiobook?
+
           right_images: sections/images
 
   # Metadata

@@ -1,0 +1,132 @@
+Title: Drachenreiter – Die Feder eines Greifs
+
+----
+
+Text: Eine furchtbare Nachricht erreicht Drachenreiter Ben und seine Freunde: Das Leben der letzten drei Pegasusfohlen ist bedroht! Nur die Sonnenfeder eines Greifs vermag sie noch zu retten. Mutig begeben sich daher Ben und Barnabas gemeinsam mit einem ungewöhnlichen Expeditionsteam auf die Suche nach dem Greif, einem der gefährlichsten und bösartigsten Fabeltiere. Ihre abenteuerliche Reise führt die Freunde vom norwegischen Wald in den undurchdringlichen Urwald Indonesiens. Doch scheint ohne die Hilfe des Silberdrachens Lung und des Koboldmädchens Schwefelfell alles verloren ...
+
+----
+
+Verdict: Ein spannungsreiches, fantastisches Hör-Abenteuer, das von Tapferkeit und Freundschaft, den Wundern der Natur und der Bedeutsamkeit, sie zu schützen und zu erhalten, erzählt.
+
+----
+
+Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher", einem Hörbuchverlag, den die Autorin Cornelia Funke gegründet hat. Und das Hörbuch atmet wirklich! Ob tief grollender Fjordtroll oder zaghaft klingender Homunkulus: Mit seiner fesselnden Stimme haucht Rainer Strecker jeder Figur Leben ein. Gemeinsam mit Cornelia Funke, die ihre Stimme Bens Schwester und Mutter leiht, einer atmosphärischen Geräusch- und Klangkulisse, ergreifenden Musikstücken am Ende eines jeden Kapitels und liebevoll gestalteten CD-Hüllen ist so ein einzigartiges Hörbuch entstanden.
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-07-27
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Isbn: 978-3-8373-0979-9
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/4099276460852371958/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Cornelia-Funke/Drachenreiter---Die-Feder-eines-Greifs-Audio-CDs
+
+----
+
+Book-title: Drachenreiter - Die Feder eines Greifs
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Cornelia Funke
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: Rainer Strecker
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 
+
+----
+
+Duration: 600
+
+----
+
+Publisher: Atmende Bücher
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 24,99
+
+----
+
+Binding: CD
+
+----
+
+Categories: Hörbuch
+
+----
+
+Topics: Abenteuer, Fantasy, Drachen
+
+----
+
+Cover:
+
+- >
+  drachenreiter-die-feder-eines-greifs_cornelia-funke.jpg
+
+----
+
+Isaudiobook: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

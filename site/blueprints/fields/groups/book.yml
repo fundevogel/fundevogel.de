@@ -60,6 +60,17 @@ fields:
       en: Illustrator
     type: text
     width: 1/3
+    when:
+      isAudiobook: false
+
+  narrator:
+    label:
+      de: Sprecher
+      en: Narrator
+    type: text
+    width: 1/3
+    when:
+      isAudiobook: true
 
   translator:
     label:
@@ -81,6 +92,17 @@ fields:
       en: Page count
     type: text
     width: 1/4
+    when:
+      isAudiobook: false
+
+  duration:
+    label:
+      de: Dauer (in Minuten)
+      en: Duration (in minutes)
+    type: text
+    width: 1/4
+    when:
+      isAudiobook: true
 
   publisher:
     label:
@@ -98,8 +120,8 @@ fields:
 
   price:
     label:
-      de: Preis (ohne Euro / €)
-      en: Price (w/o Euro / €)
+      de: Preis (ohne Euro)
+      en: Price (w/o Euro)
     type: text
     width: 1/4
 

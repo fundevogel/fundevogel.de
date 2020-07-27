@@ -73,6 +73,13 @@
                                         <?= $page->illustrator()->html() ?>
                                     </span>
                                 </div>
+                                <?php elseif ($page->narrator()->isNotEmpty()) : ?>
+                                    <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG(t('SprecherIn'), 'js-tippy lesetipp-icon', 'microphone') ?>
+                                    <span class="ml-4">
+                                        <?= $page->narrator()->html() ?>
+                                    </span>
+                                </div>
                                 <?php elseif ($page->translator()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
                                     <?= useSVG(t('ÜbersetzerIn'), 'js-tippy lesetipp-icon', 'globe') ?>
@@ -116,6 +123,12 @@
                                 <div class="mr-6 md:mr-8 text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->page_count()->htm() ?></span>
                                     <span class="block text-sm sm:text-lg"><?= t('Seiten') ?></span>
+                                </div>
+                                <?php endif ?>
+                                <?php if ($page->duration()->isNotEmpty()) : ?>
+                                <div class="mr-6 md:mr-8 text-center leading-tight">
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->duration()->htm() ?></span>
+                                    <span class="block text-sm sm:text-lg"><?= t('Minuten') ?></span>
                                 </div>
                                 <?php endif ?>
                                 <?php if ($page->price()->isNotEmpty()) : ?>
