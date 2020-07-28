@@ -6,9 +6,9 @@ I. Prerequisites
 ---------------------------------------
 */
 
-const
-    {series, parallel} = require('gulp'),
+import {series, parallel} from 'gulp';
 
+const
     {styles} = require('./lib/gulp/tasks/styles'),
     {scripts} = require('./lib/gulp/tasks/scripts'),
     {images} = require('./lib/gulp/tasks/images'),

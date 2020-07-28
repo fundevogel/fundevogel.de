@@ -4,8 +4,9 @@ Assets - Scripts
 ---------------------------------------
 */
 
+import {src, dest, series, lastRun} from 'gulp';
+
 const
-    {src, dest, series, lastRun} = require('gulp'),
     conf = require('../config'),
 
     babel = require('gulp-babel'),

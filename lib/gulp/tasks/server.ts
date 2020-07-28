@@ -4,8 +4,9 @@ Development / Deployment
 ---------------------------------------
 */
 
+import {parallel} from 'gulp';
+
 const
-    {parallel} = require('gulp'),
     conf = require('../config'),
 
     browserSync = require('browser-sync').init,

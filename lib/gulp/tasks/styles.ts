@@ -4,8 +4,9 @@ Assets - Styles
 ---------------------------------------
 */
 
+import {src, dest, series, lastRun} from 'gulp';
+
 const
-    {src, dest, series, lastRun} = require('gulp'),
     conf = require('../config'),
 
     browserSync = require('browser-sync').init,

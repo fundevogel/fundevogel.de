@@ -4,8 +4,9 @@ Assets - Fonts
 ---------------------------------------
 */
 
+import {src, dest, series, parallel, lastRun} from 'gulp';
+
 const
-    {src, dest, series, parallel, lastRun} = require('gulp'),
     conf = require('../config'),
 
     browserSync = require('browser-sync').init,
@@ -35,7 +36,7 @@ function copyFonts() {
  * Subsets fonts for smaller filesize
  */
 
-function subsetFonts(cb) {
+function subsetFonts(callback: Function) {
     execSync('mkdir -p ' + conf.dist.fonts);
 
     const options = conf.subsetting;
@@ -88,7 +89,7 @@ function subsetFonts(cb) {
         execSync(command.filter(Boolean).join(' '));
     }
 
-    cb();
+    callback();
 }
 
 

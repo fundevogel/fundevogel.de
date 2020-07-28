@@ -4,14 +4,15 @@ Assets - Build
 ---------------------------------------
 */
 
+import {series, parallel} from 'gulp';
+
 const
-    {series, parallel} = require('gulp'),
     conf = require('../config'),
 
-    {styles} = require('./styles.js'),
-    {scripts} = require('./scripts.js'),
-    {images} = require('./images.js'),
-    {fonts} = require('./fonts.js'),
+    {styles} = require('./styles'),
+    {scripts} = require('./scripts'),
+    {images} = require('./images'),
+    {fonts} = require('./fonts'),
 
     del = require('del')
 ;

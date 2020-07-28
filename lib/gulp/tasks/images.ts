@@ -4,8 +4,9 @@ Assets - Images & Icons
 ---------------------------------------
 */
 
+import {src, dest, series, parallel, lastRun} from 'gulp';
+
 const
-    {src, dest, series, parallel, lastRun} = require('gulp'),
     conf = require('../config'),
 
     browserSync = require('browser-sync').init,

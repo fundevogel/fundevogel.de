@@ -4,14 +4,15 @@ Monitoring
 ---------------------------------------
 */
 
+import {watch, parallel} from 'gulp';
+
 const
-    {watch, parallel} = require('gulp'),
     conf = require('../config'),
 
-    {styles} = require('./styles.js'),
-    {scripts} = require('./scripts.js'),
-    {images} = require('./images.js'),
-    {fonts} = require('./fonts.js'),
+    {styles} = require('./styles'),
+    {scripts} = require('./scripts'),
+    {images} = require('./images'),
+    {fonts} = require('./fonts'),
 
     browserSync = require('browser-sync').init
 ;
@@ -21,7 +22,7 @@ const
  * See https://github.com/BrowserSync/browser-sync/issues/711
  */
 
-function reload(done) {
+function reload(done: Function) {
     browserSync.reload();
     done();
 }
