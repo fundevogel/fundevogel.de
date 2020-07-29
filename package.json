@@ -1,138 +1,137 @@
 {
-  "name": "fundevogel",
-  "version": "1.0.0",
-  "description": "Source code of fundevogel.de",
-  "author": "S1SYPHOS <hello@twobrain.io>",
-  "homepage": "https://fundevogel.de",
-  "main": "Gulpfile.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/two-brain/fundevogel.de.git"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/two-brain/fundevogel.de/issues"
-  },
-  "keywords": [
-    "gulp",
-    "kirby",
-    "cms",
-    "starterkit"
-  ],
-  "scripts": {
-    "start": "gulp",
-    "build": "NODE_ENV=production gulp build",
-    "assets": "gulp styles && gulp scripts && gulp images && gulp fonts",
-    "styles": "gulp styles",
-    "scripts": "gulp scripts",
-    "images": "gulp images",
-    "fonts": "gulp fonts",
-    "deploy": "NODE_ENV=production gulp build && gulp deploy",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "@barba/core": "2.9.7",
-    "animejs": "3.2.0",
-    "bigpicture": "https://github.com/fundevogel/bigpicture.git",
-    "dropkickjs": "^2.2.4",
-    "infinite-scroll": "3.0.6",
-    "layzr.js": "2.2.2",
-    "macy": "2.5.1",
-    "svg4everybody": "2.1.9",
-    "swiper": "^6.0.4",
-    "tailwindcss": "1.4.6",
-    "tippy.js": "6.2.3"
-  },
-  "devDependencies": {
-    "@babel/core": "7.9.6",
-    "@babel/preset-env": "7.9.6",
-    "@types/animejs": "^3.1.1",
-    "@types/gulp": "^4.0.6",
-    "@types/layzr.js": "^2.2.0",
-    "@types/node": "^14.0.26",
-    "@types/svg4everybody": "^2.1.1",
-    "@typescript-eslint/eslint-plugin": "^3.7.0",
-    "@typescript-eslint/parser": "^3.7.0",
-    "autoprefixer": "9.8.0",
-    "browser-sync": "2.26.7",
-    "child_process": "1.0.2",
-    "del": "5.1.0",
-    "eslint": "^7.5.0",
-    "eslint-config-google": "0.14.0",
-    "glyphhanger": "3.2.0",
-    "gulp": "4.0.2",
-    "gulp-autoprefixer": "7.0.1",
-    "gulp-babel": "8.0.0",
-    "gulp-clean-css": "4.3.0",
-    "gulp-connect-php": "1.0.3",
-    "gulp-eslint": "6.0.0",
-    "gulp-favicons": "2.4.0",
-    "gulp-filter": "6.0.0",
-    "gulp-flatten": "0.4.0",
-    "gulp-if": "3.0.0",
-    "gulp-imagemin": "7.1.0",
-    "gulp-newer": "1.4.0",
-    "gulp-postcss": "8.0.0",
-    "gulp-rename": "2.0.0",
-    "gulp-sass": "4.1.0",
-    "gulp-stylelint": "13.0.0",
-    "gulp-svgstore": "7.0.1",
-    "gulp-terser": "1.2.0",
-    "gulp-uglify": "3.0.2",
-    "imagemin-pngquant": "8.0.0",
-    "precss": "4.0.0",
-    "stylelint": "13.5.0",
-    "stylelint-config-sass-guidelines": "7.0.0",
-    "ts-loader": "^8.0.1",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.7",
-    "vinyl-named": "1.1.0",
-    "webpack-stream": "5.2.1"
-  },
-  "stylelint": {
-    "extends": "stylelint-config-sass-guidelines",
-    "rules": {}
-  },
-  "eslintConfig": {
-    "extends": [
-      "eslint:recommended",
-      "google"
+    "name": "fundevogel",
+    "version": "1.0.0",
+    "description": "Source code of fundevogel.de",
+    "author": "S1SYPHOS <hello@twobrain.io>",
+    "homepage": "https://fundevogel.de",
+    "main": "Gulpfile.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/two-brain/fundevogel.de.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/two-brain/fundevogel.de/issues"
+    },
+    "keywords": [
+        "gulp",
+        "kirby",
+        "cms",
+        "starterkit"
     ],
-    "env": {
-      "browser": true,
-      "node": true,
-      "es6": true,
-      "amd": true,
-      "commonjs": true
+    "scripts": {
+        "start": "gulp",
+        "build": "NODE_ENV=production gulp build",
+        "assets": "gulp styles && gulp scripts && gulp images && gulp fonts",
+        "styles": "gulp styles",
+        "scripts": "gulp scripts",
+        "images": "gulp images",
+        "fonts": "gulp fonts",
+        "deploy": "NODE_ENV=production gulp build && gulp deploy",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "parserOptions": {
-      "sourceType": "module"
+    "dependencies": {
+        "@barba/core": "2.9.7",
+        "animejs": "3.2.0",
+        "bigpicture": "https://github.com/fundevogel/bigpicture.git",
+        "dropkickjs": "^2.2.4",
+        "infinite-scroll": "3.0.6",
+        "layzr.js": "2.2.2",
+        "macy": "2.5.1",
+        "svg4everybody": "2.1.9",
+        "swiper": "^6.0.4",
+        "tailwindcss": "1.4.6",
+        "tippy.js": "6.2.3"
     },
-    "rules": {
-      "at-rule-no-unknown": [
-        "off"
-      ],
-      "indent": [
-        "error",
-        4
-      ],
-      "max-len": [
-        "warn",
-        {
-          "ignoreComments": true
+    "devDependencies": {
+        "@babel/core": "7.9.6",
+        "@babel/preset-env": "7.9.6",
+        "@types/animejs": "^3.1.1",
+        "@types/layzr.js": "^2.2.0",
+        "@types/svg4everybody": "^2.1.1",
+        "@typescript-eslint/eslint-plugin": "^3.7.0",
+        "@typescript-eslint/parser": "^3.7.0",
+        "autoprefixer": "9.8.0",
+        "babel-eslint": "^10.1.0",
+        "browser-sync": "2.26.7",
+        "child_process": "1.0.2",
+        "del": "5.1.0",
+        "eslint": "^7.5.0",
+        "eslint-config-google": "0.14.0",
+        "glyphhanger": "3.2.0",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "7.0.1",
+        "gulp-babel": "8.0.0",
+        "gulp-clean-css": "4.3.0",
+        "gulp-connect-php": "1.0.3",
+        "gulp-eslint": "6.0.0",
+        "gulp-favicons": "2.4.0",
+        "gulp-filter": "6.0.0",
+        "gulp-flatten": "0.4.0",
+        "gulp-if": "3.0.0",
+        "gulp-imagemin": "7.1.0",
+        "gulp-newer": "1.4.0",
+        "gulp-postcss": "8.0.0",
+        "gulp-rename": "2.0.0",
+        "gulp-sass": "4.1.0",
+        "gulp-stylelint": "13.0.0",
+        "gulp-svgstore": "7.0.1",
+        "gulp-terser": "1.2.0",
+        "gulp-uglify": "3.0.2",
+        "imagemin-pngquant": "8.0.0",
+        "precss": "4.0.0",
+        "stylelint": "13.5.0",
+        "stylelint-config-sass-guidelines": "7.0.0",
+        "ts-loader": "^8.0.1",
+        "typescript": "^3.9.7",
+        "vinyl-named": "1.1.0",
+        "webpack-stream": "5.2.1"
+    },
+    "stylelint": {
+        "extends": "stylelint-config-sass-guidelines",
+        "rules": {}
+    },
+    "eslintConfig": {
+        "extends": [
+            "eslint:recommended",
+            "google"
+        ],
+        "env": {
+            "browser": true,
+            "node": true,
+            "es6": true,
+            "amd": true,
+            "commonjs": true
+        },
+        "parser": "babel-eslint",
+        "parserOptions": {
+            "sourceType": "module"
+        },
+        "rules": {
+            "at-rule-no-unknown": [
+                "off"
+            ],
+            "indent": [
+                "error",
+                4
+            ],
+            "max-len": [
+                "warn",
+                {
+                    "ignoreComments": true
+                }
+            ],
+            "one-var": [
+                "off"
+            ],
+            "require-jsdoc": [
+                "off"
+            ]
         }
-      ],
-      "one-var": [
-        "off"
-      ],
-      "require-jsdoc": [
-        "off"
-      ]
-    }
-  },
-  "browserslist": [
-    "last 3 versions",
-    "> 1%",
-    "IE >= 9"
-  ]
+    },
+    "browserslist": [
+        "last 3 versions",
+        "> 1%",
+        "IE >= 9"
+    ]
 }
