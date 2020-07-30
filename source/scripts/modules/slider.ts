@@ -1,8 +1,9 @@
+// @ts-ignore
 import Swiper, {Autoplay, Pagination, EffectFade} from 'swiper';
 
 import forEach from '../helpers/forEach';
 
-function getPreset(element, template) {
+function getPreset(element: HTMLElement, template: string): Object {
     const defaults = {
         init: false,
         speed: 2500,
@@ -13,8 +14,7 @@ function getPreset(element, template) {
         },
     };
 
-    // const presets: {[key: string]: number | string | Object} = {
-    const presets = {
+    const presets: {[key: string]: number | string | Object} = {
         'about': {
             speed: 1000,
             effect: 'fade',
@@ -46,8 +46,8 @@ function getPreset(element, template) {
     return Object.assign(defaults, presets[template]);
 }
 
-export default (container, template) => {
-    forEach(container.querySelectorAll('.js-slider'), (value, index) => {
+export default (container: HTMLElement, template: string) => {
+    forEach(container.querySelectorAll('.js-slider'), (value: HTMLElement, index: number) => {
         // Use modules
         Swiper.use([Autoplay, Pagination, EffectFade]);
 
@@ -58,9 +58,9 @@ export default (container, template) => {
             const pagination = value.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
 
-            forEach(bullets, (bullet, index) => {
+            forEach(bullets, (bullet: HTMLElement, index: number) => {
                 bullet.addEventListener('click', (e) => {
-                    forEach(bullets, (sibling, index) => {
+                    forEach(bullets, (sibling: HTMLElement, index: number) => {
                         sibling.classList.remove('is-active');
                     });
 
@@ -70,7 +70,7 @@ export default (container, template) => {
             });
 
             swiper.on('init', () => {
-                forEach(bullets, (bullet, index) => {
+                forEach(bullets, (bullet: HTMLElement, index: number) => {
                     if (swiper.realIndex === index) {
                         bullet.classList.add('is-active');
                     }
@@ -78,7 +78,7 @@ export default (container, template) => {
             });
 
             swiper.on('slideChange', () => {
-                forEach(bullets, (bullet, index) => {
+                forEach(bullets, (bullet: HTMLElement, index: number) => {
                     bullet.classList.remove('is-active');
 
                     if (swiper.realIndex === index) {
@@ -97,6 +97,7 @@ export default (container, template) => {
             swiper.autoplay.start();
         });
 
+        // @ts-ignore
         swiper.init();
 
         // Stop on mouse hover, resume after it's gone
