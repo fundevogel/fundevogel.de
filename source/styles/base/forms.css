@@ -1,15 +1,20 @@
-/* class applies to select element itself, not a wrapper element */
 .form-select {
   @apply m-0;
-  @apply py-2 px-4;
+  @apply py-2;
+  @apply px-4;
   @apply w-1/3;
   @apply max-w-full;
   @apply inline-block;
-  @apply font-medium text-orange-dark text-opacity-50;
+  @apply font-medium;
+  @apply text-orange-dark;
+  @apply text-opacity-50;
   @apply bg-orange-light;
-  @apply border-4 border-dashed border-orange-medium;
+  @apply border-4;
+  @apply border-dashed;
+  @apply border-orange-medium;
   @apply rounded-lg;
-  @apply appearance-none outline-none;
+  @apply appearance-none;
+  @apply outline-none;
 }
 
 .form-select:focus,
@@ -35,9 +40,10 @@
 }
 
 /* Kirby Uniform plugin */
+/* stylelint-disable-next-line selector-class-pattern */
 .uniform__potty {
-  position: absolute;
   left: -9999px;
+  position: absolute;
 }
 
 label {
@@ -53,10 +59,13 @@ label {
   @apply font-medium;
   @apply text-orange-medium;
   @apply bg-orange-light;
-  @apply border-4 border-dashed border-orange-medium;
+  @apply border-4;
+  @apply border-dashed;
+  @apply border-orange-medium;
   @apply rounded-lg;
   @apply leading-relaxed ;
-  @apply appearance-none outline-none;
+  @apply appearance-none;
+  @apply outline-none;
 }
 
 .form-input:focus,

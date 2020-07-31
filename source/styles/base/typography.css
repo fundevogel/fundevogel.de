@@ -57,7 +57,8 @@ cite {
 hr {
   @apply max-w-xs;
   @apply h-6;
-  @apply my-16 mx-auto;
+  @apply my-16;
+  @apply mx-auto;
   @apply font-light;
   @apply text-sm;
   @apply text-red-medium;

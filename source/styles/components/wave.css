@@ -11,7 +11,8 @@
 .wave-icon {
   @apply inline-block;
   @apply mb-4;
-  @apply w-12 h-12;
+  @apply w-12;
+  @apply h-12;
   @apply fill-current;
   @apply text-orange-medium;
 }
