@@ -22,8 +22,8 @@
                     <?php if ($member->back()->isNotEmpty()) : ?>
                     <figure class="<?php e($member->front()->isNotEmpty(), 'group mb-6 cursor-help', 'mb-6 cursor-not-allowed') ?>">
                         <?php if ($member->front()->isNotEmpty()) : ?>
-                        <?= $member->back()->toFile()->createImage('block group-hover:hidden rounded-full', 'about.team') ?>
-                        <?= $member->front()->toFile()->createImage('hidden group-hover:block rounded-full', 'about.team') ?>
+                        <?= $member->back()->toFile()->createImage('block group-hover:hidden rounded-full animation-fade-in', 'about.team') ?>
+                        <?= $member->front()->toFile()->createImage('hidden group-hover:block rounded-full animation-fade-in', 'about.team') ?>
                     <?php else : ?>
                     <?= $member->back()->toFile()->createImage('rounded-full', 'about.team') ?>
                     <?php endif ?>

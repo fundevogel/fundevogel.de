@@ -1,5 +1,4 @@
 .badge {
-  @apply pt-px;
   @apply pb-1;
   @apply px-2;
   @apply font-bold;
