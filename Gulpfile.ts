@@ -8,15 +8,13 @@ I. Prerequisites
 
 import {series, parallel} from 'gulp';
 
-const
-    {styles} = require('./lib/gulp/tasks/styles'),
-    {scripts} = require('./lib/gulp/tasks/scripts'),
-    {images} = require('./lib/gulp/tasks/images'),
-    {fonts} = require('./lib/gulp/tasks/fonts'),
-    {server} = require('./lib/gulp/tasks/server'),
-    {watch} = require('./lib/gulp/tasks/watch'),
-    {build} = require('./lib/gulp/tasks/build')
-;
+import styles from './lib/gulp/tasks/styles';
+import scripts from './lib/gulp/tasks/scripts';
+import images from './lib/gulp/tasks/images';
+import fonts from './lib/gulp/tasks/fonts';
+import server from './lib/gulp/tasks/server';
+import watching from './lib/gulp/tasks/watch';
+import build from './lib/gulp/tasks/build';
 
 
 /*
@@ -34,8 +32,8 @@ module.exports = {
 
     default: series(
         build, parallel(
-            watch,
-            server
-        )
+            watching,
+            server,
+        ),
     ),
 };

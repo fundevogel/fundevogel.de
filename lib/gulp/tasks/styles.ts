@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Assets - Styles
 ---------------------------------------
 */
 
-import {src, dest, series, lastRun} from 'gulp';
+import {src, dest, series, lastRun, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     browserSync = require('browser-sync').init,
     gulpif = require('gulp-if'),
     minify = require('gulp-clean-css'),
@@ -27,8 +29,8 @@ const
 
 function lintStyles() {
     const lintSource = [
-        conf.src.styles + '/**/*.scss',
-        '!' + conf.src.styles + '/vendor/**/*.scss',
+        conf.src.styles + '/**/*.css',
+        '!' + conf.src.styles + '/vendor/**/*.css',
     ];
 
     return src(lintSource, {since: lastRun(lintStyles)})
@@ -50,7 +52,7 @@ function makeStyles() {
 
     const plugins = [
         precss(),
-        tailwind(conf.src.styles + '/tailwind.config.js'),
+        tailwind(conf.src.styles + '/tailwind.config.ts'),
         prefix(conf.styles.prefix),
     ];
 
@@ -83,8 +85,12 @@ function minifyStyles() {
  * Exports
  */
 
+let styles: TaskFunction;
+
 if (process.env.NODE_ENV === 'production') {
-    exports.styles = series(makeStyles, minifyStyles);
+    styles = series(makeStyles, minifyStyles);
 } else {
-    exports.styles = series(lintStyles, makeStyles);
+    styles = series(lintStyles, makeStyles);
 }
+
+export = styles;

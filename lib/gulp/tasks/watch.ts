@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Monitoring
 ---------------------------------------
 */
 
-import {watch, parallel} from 'gulp';
+import {watch, parallel, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     {styles} = require('./styles'),
     {scripts} = require('./scripts'),
     {images} = require('./images'),
@@ -22,7 +24,7 @@ const
  * See https://github.com/BrowserSync/browser-sync/issues/711
  */
 
-function reload(done: Function) {
+function reload(done: () => void) {
     browserSync.reload();
     done();
 }
@@ -58,10 +60,12 @@ function watchCode() {
  * Exports
  */
 
-exports.watch = parallel(
+const watching: TaskFunction = parallel(
     watchStyles,
     watchScripts,
     watchImages,
     watchFonts,
     watchCode
 );
+
+export = watching;

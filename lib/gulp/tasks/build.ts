@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Assets - Build
@@ -6,13 +8,13 @@ Assets - Build
 
 import {series, parallel} from 'gulp';
 
-const
-    conf = require('../config'),
+import conf from '../config';
 
-    {styles} = require('./styles'),
-    {scripts} = require('./scripts'),
-    {images} = require('./images'),
-    {fonts} = require('./fonts'),
+const
+    styles = require('./styles'),
+    scripts = require('./scripts'),
+    images = require('./images'),
+    fonts = require('./fonts'),
 
     del = require('del')
 ;
@@ -31,7 +33,7 @@ function clean() {
  * Exports
  */
 
-exports.build = series(
+const build = series(
     clean, parallel(
         styles,
         scripts,
@@ -39,3 +41,5 @@ exports.build = series(
         fonts
     )
 );
+
+export = build;

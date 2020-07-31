@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Assets - Images & Icons
 ---------------------------------------
 */
 
-import {src, dest, series, parallel, lastRun} from 'gulp';
+import {src, dest, series, parallel, lastRun, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     browserSync = require('browser-sync').init,
     favicons = require('gulp-favicons'),
     filter = require('gulp-filter'),
@@ -76,14 +78,18 @@ function createFavicons() {
  * Exports
  */
 
+let images: TaskFunction;
+
 if (conf.favicons.enable && process.env.NODE_ENV === 'production') {
-    exports.images = parallel(
+    images = parallel(
         combineIcons,
         series(createFavicons, compressImages)
     );
 } else {
-    exports.images = parallel(
+    images = parallel(
         combineIcons,
         compressImages
     );
 }
+
+export = images;

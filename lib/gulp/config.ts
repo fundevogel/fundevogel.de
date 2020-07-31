@@ -1,16 +1,15 @@
+import pngquant from 'imagemin-pngquant';
+import pkg from '../../package.json';
+
 const
     src = 'source/',
     root = 'public/',
     dist = root + 'assets/',
-    pkg = require('../../package.json'),
-
     localURL = 'http://192.168.69.69:8080',
-    faviconSnippet = 'favicons.html',
-
-    pngquant = require('imagemin-pngquant')
+    faviconSnippet = 'favicons.html'
 ;
 
-module.exports = {
+const conf: Record<string, any> = {
     public: root,
     src: {
         styles: src + 'styles',
@@ -172,6 +171,7 @@ module.exports = {
         // Available formats: 'ttf', 'woff', 'woff-zopfli', 'woff2'
         formats: ['ttf', 'woff-zopfli', 'woff2'],
         spider: false,
+        spiderlimit: 0,
         latin: true,
         us_ascii: false,
         whitelist: {
@@ -181,3 +181,5 @@ module.exports = {
         output_css: false,
     },
 };
+
+export = conf;

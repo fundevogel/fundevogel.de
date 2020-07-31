@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Assets - Scripts
 ---------------------------------------
 */
 
-import {src, dest, series, lastRun} from 'gulp';
+import {src, dest, series, lastRun, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     babel = require('gulp-babel'),
     browserSync = require('browser-sync').init,
     eslint = require('gulp-eslint'),
@@ -25,7 +27,7 @@ const
 
 function lintScripts() {
     const lintSource = [
-        conf.src.scripts + '/**/*.js',
+        conf.src.scripts + '/**/*.ts',
     ];
 
     return src(lintSource, {since: lastRun(lintScripts)})
@@ -74,8 +76,12 @@ function minifyScripts() {
  * Exports
  */
 
+let scripts: TaskFunction;
+
 if (process.env.NODE_ENV === 'production') {
-    exports.scripts = series(makeScripts, minifyScripts);
+    scripts = series(makeScripts, minifyScripts);
 } else {
-    exports.scripts = series(lintScripts, makeScripts);
+    scripts = series(lintScripts, makeScripts);
 }
+
+export = scripts;

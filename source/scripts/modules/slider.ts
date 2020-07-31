@@ -3,7 +3,7 @@ import Swiper, {Autoplay, Pagination, EffectFade} from 'swiper';
 
 import forEach from '../helpers/forEach';
 
-function getPreset(element: HTMLElement, template: string): Object {
+function getPreset(element: HTMLElement, template: string): Record<string, any> {
     const defaults = {
         init: false,
         speed: 2500,
@@ -14,7 +14,7 @@ function getPreset(element: HTMLElement, template: string): Object {
         },
     };
 
-    const presets: {[key: string]: number | string | Object} = {
+    const presets: Record<string, any>= {
         'about': {
             speed: 1000,
             effect: 'fade',

@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Assets - Fonts
 ---------------------------------------
 */
 
-import {src, dest, series, parallel, lastRun} from 'gulp';
+import {src, dest, series, parallel, lastRun, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     browserSync = require('browser-sync').init,
     del = require('del'),
     {execSync} = require('child_process'),
@@ -36,7 +38,7 @@ function copyFonts() {
  * Subsets fonts for smaller filesize
  */
 
-function subsetFonts(callback: Function) {
+function subsetFonts(callback: () => void): void {
     execSync('mkdir -p ' + conf.dist.fonts);
 
     const options = conf.subsetting;
@@ -116,11 +118,15 @@ function removeCSS() {
  * Exports
  */
 
+let fonts: TaskFunction;
+
 if (conf.subsetting.enable && process.env.NODE_ENV === 'production') {
-    exports.fonts = parallel(
+    fonts = parallel(
         copyFonts,
         series(subsetFonts, copyStyles, removeCSS)
     );
 } else {
-    exports.fonts = copyFonts;
+    fonts = copyFonts;
 }
+
+export = fonts;

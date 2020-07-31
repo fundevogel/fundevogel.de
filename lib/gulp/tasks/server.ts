@@ -1,14 +1,16 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 /*
 ---------------------------------------
 Development / Deployment
 ---------------------------------------
 */
 
-import {parallel} from 'gulp';
+import {parallel, TaskFunction} from 'gulp';
+
+import conf from '../config';
 
 const
-    conf = require('../config'),
-
     browserSync = require('browser-sync').init,
     php = require('gulp-connect-php')
 ;
@@ -27,7 +29,7 @@ function connect() {
  * Starts a live reload proxy via Browsersync
  */
 
-function livereload() {
+function livereload(): void {
     browserSync.init(conf.browsersync);
 }
 
@@ -36,11 +38,15 @@ function livereload() {
  * Exports
  */
 
+let server: TaskFunction;
+
 if (conf.server.enable) {
-    exports.server = parallel(
+    server = parallel(
         connect,
         livereload
     );
 } else {
-    exports.server = livereload;
+    server = livereload;
 }
+
+export = server;
