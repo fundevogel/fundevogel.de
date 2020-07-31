@@ -37,5 +37,14 @@ tabs:
 
       sidebar_files: sections/images
 
+      sidebar_pages:
+        extends: sections/articles
+        headline:
+          de: Unterseiten
+          en: Subpages
+        create: false
+        layout: list
+        image: page.getCover
+
   # Metadata
   tab_seo: tabs/seo

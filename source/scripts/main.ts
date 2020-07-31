@@ -54,6 +54,7 @@ class App {
         ];
 
         this.hasMasonry = [
+            'about.team',
             'calendar',
             'grid-list',
         ];
@@ -152,7 +153,7 @@ class App {
 
                 // Masonry
                 if (contains(this.hasMasonry, template)) {
-                    runMasonry(page);
+                    runMasonry(page, template);
                 }
             });
 
