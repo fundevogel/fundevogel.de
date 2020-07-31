@@ -41,7 +41,7 @@
                                     <div class="flex items-center mb-10 lg:mb-0">
                                         <div class="relative">
                                             <?php if ($favorite->isSeries()->bool()) : ?>
-                                            <span class="absolute px-3 py-1 top-4 -left-6 font-bold font-small-caps text-sm text-white text-shadow tracking-wide bg-orange-medium rounded-lg select-none">
+                                            <span class="badge absolute top-4 -left-6">
                                                 <?= t('Serie') ?>
                                             </span>
                                             <?php endif ?>

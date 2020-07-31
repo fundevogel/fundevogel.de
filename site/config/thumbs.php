@@ -19,6 +19,7 @@ return [
         'news.article.image' => ['width' => 224, 'crop' => true],
         'news.article.image.blurred' => ['width' => 224, 'crop' => true, 'blur' => true],
         'about.slides' => ['width' => 460, 'height' => 400, 'crop' => true],
+        'about.team' => ['width' => 120, 'height' => 120, 'crop' => true],
         'lesetipps.article.cover-normal' => ['width' => 300],
         'lesetipps.article.cover-square' => ['width' => 300, 'height' => 300, 'crop' => true],
         'assortment.navigation' => ['width' => 416, 'height' => 312, 'crop' => true,],

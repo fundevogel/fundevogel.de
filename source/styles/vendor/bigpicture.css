@@ -150,26 +150,29 @@
   }
 }
 
+.bp-arrow {
+  @apply px-6;
+  @apply py-4;
+}
+
 .bp-button.left {
   @apply left-0;
 
-  .bp-arrow {
-    @apply rounded-r-lg;
-    @apply mr-20;
-  }
+}
+
+.bp-button.left .bp-arrow {
+  @apply rounded-r-lg;
+  @apply mr-20;
 }
 
 .bp-button.right {
   @apply right-0;
 
-  .bp-arrow {
-    @apply rounded-l-lg;
-    @apply ml-20;
-  }
 }
 
-.bp-arrow {
-  @apply px-6 py-4;
+.bp-button.right .bp-arrow {
+  @apply rounded-l-lg;
+  @apply ml-20;
 }
 
 @screen lg {

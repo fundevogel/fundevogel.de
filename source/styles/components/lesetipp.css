@@ -1,5 +1,6 @@
 .lesetipp-icon {
-  @apply w-10 h-10;
+  @apply w-10;
+  @apply h-10;
   @apply p-2;
   @apply text-white;
   @apply fill-current;
@@ -22,7 +23,8 @@
 }
 
 .lesetipp-overlay-icon {
-  @apply w-8 h-8;
+  @apply w-8;
+  @apply h-8;
   @apply mr-2;
   @apply text-white;
   @apply fill-current;

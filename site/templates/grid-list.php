@@ -28,11 +28,9 @@
         <h2 class="mb-12 text-center"><?= t(Str::ucfirst($identifier) . '-Überschrift') ?></h2>
         <div class="js-masonry">
             <?php foreach($cards as $card) : ?>
-            <article class="card">
-                <div class="card-inner">
-                    <?= $card->entry()->kt() ?>
-                </div>
-            </article>
+            <div class="card">
+                <?= $card->entry()->kt() ?>
+            </div>
             <?php endforeach ?>
         </div>
     </section>

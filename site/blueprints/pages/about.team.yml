@@ -1,0 +1,79 @@
+title:
+  de: Über uns
+  en: About us
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+
+      team:
+        label: Team
+        type: structure
+        columns:
+          name:
+          isActive:
+          desc:
+        fields:
+          name:
+            label: Name
+            type: text
+            width: 1/2
+
+          isActive:
+            label:
+              de: Aktiv?
+              en: Active?
+            type: toggle
+            width: 1/2
+            text:
+              -
+                de: Nein
+                en: No
+              -
+                de: Ja
+                en: Yes
+
+          desc:
+            label:
+              de: Beschreibung
+              en: Description
+            type: textarea
+
+          back:
+            extends: fields/single-cover
+            label:
+              de: Rückseite
+              en: Back
+            layout: list
+            width: 1/2
+
+          front:
+            extends: fields/single-cover
+            label:
+              de: Vorderseite
+              en: Front
+            layout: list
+            width: 1/2
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+      sidebar_files:
+        extends: sections/images
+        layout: list
+
+  # Metadata
+  tab_seo: tabs/seo
