@@ -1,0 +1,139 @@
+Title: Ein Strandtag
+
+----
+
+Text:
+
+Wenn man am Strand ist, sind manche Dinge ganz typisch: Nicht nur der Sand unter den Füßen und das Meer in der Nähe, auch die Menschen, deren Spiele, Begegnungsformen und Verhaltensweisen sowie die diffuse Orientierung auf dem gelben Streifen entlang der Wasserkante, wo es gar nicht so viele markante Objekte gibt. Die Stimme zu den Bildern in diesem Buch gehört einem kleinen Mädchen, das mit seiner Familie einen Tag am Strand verbringt und alltägliche Erlebnisse an diesem besonderen Ort beschreibt. Sprachlich sind die Schilderungen konsequent verallgemeinert ausformuliert: Was „man“ eben so tun kann. In den Bildern wird jedoch der konkrete Tag sichtbar und die Lesenden und Betrachtenden des Bilderbuchs begleiten das Mädchen bei seinem Spiel und seinen Beobachtungen, so dass die Erzählung selbst zum unmittelbaren Ereignis wird. Den familiären Sonnenschirm im Auge zu behalten, ist vermeintlich ganz leicht; doch mehr und mehr wird die Aufmerksamkeit auf die wimmelartige Szene gelenkt und der Schirm gerät aus dem Blick. Während der Suche nach Muscheln gibt es auf kindlicher Augenhöhe viel zu sehen: Popos, Bäuche, Kindergesichter, Menschen bei ganz verschiedenen Aktivitäten, Boote und andere faszinierende Dinge. Ganz langsam, subtil und beiläufig schleicht sich bei aller Spannung die Erkenntnis ein, sich verlaufen zu haben, die kurz vor eigener Besorgnis zur sicheren Heimkehr führt.
+
+Faszinierend ist an dem vorliegenden Bilderbuch der genaue und sachliche, und dann in der kindlichen Perspektive doch künstlich herausgestellte Blick auf das Strandleben mit seinen ganz verschiedenen, gleichzeitig stereotypen und einzigartigen Facetten. Es sind im Wesentlichen unspektakuläre Beobachtungen, die aber gerade wegen ihrer isolierend-fokussierenden Beschreibung so bemerkenswert werden. Den Erzähltext flankieren nur wenige ganz- oder halbseitige Szenenbilder, stattdessen findet sich eine Vielzahl an kleinen Vignetten, die viele Variationen eines Phänomens (Popos, Bäuche, duschende oder spielende Menschen) zeigen. Am Ende gibt es eine große Panoramaübersicht auf den Strand aus der Vogelperspektive, auf der wie auf einem Wimmelbild ganz viele der kleinen Vignettenmotive auffindbar sind und zum Suchen anregen. So fordert das Buch auch zum genauen Schauen und Vergleichen heraus. Die Bilder kombinieren Aquarellmalerei und Buntstiftzeichnungen, die naturalistische, aber detailreduzierte Figuren und Szenen zeigen. Dabei stellen sie ohne Idealisierung Menschen und Situationen dar, die starke Wiedererkennungseffekte haben und gleichzeitig eine große Diversität von Körpern und Verhaltensweisen zeigen, ohne diese wertend zu markieren.
+
+----
+
+Verdict: Ein Tag am Strand bietet viele wunderbare Erfahrungen: mit der Taucherbrille die Unterwasserwelt beobachten, einen Tunnel buddeln oder alleine Pommes kaufen. Von einem solchen Strandtag erzählt auch dieses Bilderbuch, welches die alltägliche Situation detailreich, präzise und ausgesprochen dicht aus der Perspektive einer kindlichen Protagonistin in Szene setzt.
+
+----
+
+Conclusion:
+
+Insgesamt entwickelt sich aus der Perspektive der Protagonistin heraus ein dynamisches, spannungsreiches Verhältnis zwischen Bild und Text. Das Bild zeigt neben Szenen, in denen das Mädchen selbst als ein Teil der Szene erscheint, auch viele kleine Detailausschnitte der Wirklichkeit, auf die die Protagonistin ihre Aufmerksamkeit richtet. Gleichzeitig wird auch der universelle Duktus der Sprache im Verlauf des Buches unterlaufen, als die Erkenntnis ins Bewusstsein rückt, sich verlaufen zu haben. Hier gewinnt die konkrete Ich-Perspektive der Erzählerin die Oberhand und markiert das Ereignis in seiner konkreten Erlebnishaftigkeit.
+
+Die besondere Leistung der beiden Künstlerinnen Susanna Mattiangli und Vessela Nikolova besteht darin, dass sie das alltäglich Vertraute in einer schlichten Weise zur Darstellung bringen, die aber durch den verfremdenden Perspektivenwechsel eine unglaubliche Dichte erzeugt.
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-08-04
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2020
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/202008.html
+
+----
+
+Isaward: true
+
+----
+
+Isbn: 978-3-95939-076-7
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002542569/63715/10002/-3/Buecher_Bilderbuecher/Vessela-Nikolova/Ein-Strandtag/4099276460822241241/%204099276460822241224/%
+
+----
+
+Book-title: Ein Strandtag
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Vessela Nikolova
+
+----
+
+Illustrator: Susanna Mattiangeli
+
+----
+
+Narrator: 
+
+----
+
+Translator: Lucia Zamolo
+
+----
+
+Participants: 
+
+----
+
+Page-count: 36
+
+----
+
+Duration: 
+
+----
+
+Publisher: Bohem Press
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Topics: Sommer, Strand
+
+----
+
+Cover:
+
+- ein-strandtag_vessela-nikolova.jpg
+
+----
+
+Isaudiobook: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
