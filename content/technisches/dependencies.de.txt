@@ -1,0 +1,74 @@
+Title: Technik
+
+----
+
+Text:
+
+## Freiheit als Grundbedingung
+> Ein Kind, ein junger Mensch, die auf ihrem eigenen Wege irregehen, sind mir lieber als manche, die auf fremdem Wege rechtwandeln.
+> <cite>— Johann Wolfgang von Goethe</cite>
+
+Freiheit eröffnet Kindern und jungen Erwachsenen einen wichtigen Erfahrungsraum, in dem das Leben positiv als Chance, als Möglichkeit zu gestalten und sich zu beteiligen, begriffen werden kann.
+
+Wir alle wollen ausprobieren und Neues entdecken, machen Fehler und finden Lösungen. Dafür braucht es Freiheit - in der analogen wie der digitalen Welt.
+
+----
+
+Details:
+
+## Freie Software für freie Menschen
+Digitale Freiheit ist eine kulturelle und soziale, aber auch ethische Frage. Auf unserer Webseite verwenden wir daher aus Überzeugung ausschließlich (link: https://www.gnu.org/philosophy/free-sw.de.html text: freie Software target: blank):
+
+> Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern.
+> <cite>— Richard Stallman (GNU-Projekt)</cite>
+
+Das *Online* wirkt sich in vielen Bereichen unseres Lebens schon heute auf das *Offline* aus, etwa "soziale" Medien auf zwischenmenschliche Beziehungen oder Online-Shopping auf das Kaufverhalten. Freie Software kann dabei demokratische Teilhabe ermöglichen, denn sie ist transparent und wird von EntwicklerInnen weltweit gemeinsam erdacht, umgesetzt und gepflegt.
+
+Das bekannteste Beispiel dieser neuen Kulturtechnik ist der Betriebssystemkern (link: https://de.wikipedia.org/wiki/Linux text: Linux), an dem nach Angaben der (link: https://www.linuxfoundation.org/blog/2017/10/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change text: Linux Foundation) mehr als 4300 EntwicklerInnen (Stand: 2017) gemeinsam arbeiten und der mittlerweile in Kühlschränken und Getränkeautomaten ebenso wie in Smartphones und Autos zu finden ist - und **auch im Fundevogel** kommt mit (link: https://de.wikipedia.org/wiki/Ubuntu text: Ubuntu target: blank) ein auf Linux basierendes Betriebssystem zum Einsatz!
+
+----
+
+Builder:
+
+- 
+  heading: Dankeschön!
+  show_columns: 'false'
+  text_full: 'Auf dieser Seite möchten wir einen Blick "hinter den Vorhang" gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken - und auf diesem Wege auch **den Menschen dahinter** unseren **Dank für ihre tolle Arbeit** aussprechen!'
+  text_left: ""
+  text_right: ""
+  _key: wave
+  _uid: wave_1596391436818_157
+
+----
+
+Misc:
+
+## Bildquellen & APIs
+Daneben spielen auch andere Ressourcen eine große Rolle, die ebenfalls nicht unerwähnt bleiben sollen:
+
+Bei der Verwendung hochwertiger Abbildungen und Grafiken gehen wir so vor:
+- Alle Buchcover, die auf unserer Webseite zu finden sind, stammen (soweit nicht anders angegeben) aus dem (link: https://portal.dnb.de text: Katalog) der (link: https://www.dnb.de text: Deutschen Nationabibliothek).
+- Als (short: Icons desc: Symbolbilder) verwenden wir die beiden exzellenten & frei verfügbaren Sets (link: https://feathericons.com text: Feather Icons) sowie (link: https://akveo.github.io/eva-icons text: Eva Icons).
+- Für hochwertige, lizenzfreie Bilder aller Art ist (link: https://unsplash.com text: Unsplash target: blank) unsere erste Wahl.
+
+Die Nutzung einer (short: API desc: Programmierschnittstelle, engl. 'application programming interface') ermöglicht uns zudem die automatisierte Abfrage bestimmter Informationen:
+- Titeldaten von Büchern beziehen wir über die (link: http://www.knv-zeitfracht.de/wp-content/uploads/2020/07/Webservice_2.0.pdf text: WSDL-Schnittstelle target: blank) unseres Großhändlers (link: http://www.knv-zeitfracht.de text: KNV Zeitfracht target: blank).
+- Für die Informationen auf dieser Seite (rund um die einzelnen Projekte) verwenden wir die Schnittstellen der Plattform (link: https://packagist.org/apidoc text: Packagist target: blank), des Open-Source-Projekts (link: https://api-docs.npms.io text: npms target: blank) und des Code-Hosters (link: https://docs.github.com/en/rest text: GitHub target: blank). Die Ergebnisse werden einmal wöchentlich abgefragt und dann für diesen Zeitraum gespeichert.
+
+----
+
+Cover:
+
+- technisches.jpg
+
+----
+
+Seotitle: Freie Software für freie Menschen
+
+----
+
+Seodescription: Auf dieser Seite möchten wir einen Blick “hinter den Vorhang” gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken.
+
+----
+
+Date: 2020-08-01

@@ -166,3 +166,48 @@ fieldsets:
         width: 1/2
         when:
           show_columns: true
+
+  wave:
+    name: Welle
+    label: "{{heading}} (Welle)"
+    # preview:
+    #   snippet: blocks/text
+    #   css: /site/snippets/blocks/text/styles.css
+    fields:
+      heading:
+        label:
+          de: Überschrift
+          en: Heading
+        type: text
+        width: 3/4
+
+      show_columns:
+        extends: fields/toggle
+        label:
+          de: Zweispaltiges Layout?
+          en: Two-column layout?
+        width: 1/4
+
+      text_full:
+        label: Text
+        type: textarea
+        when:
+          show_columns: false
+
+      text_left:
+        label:
+          de: Linker Text
+          en: Left text
+        type: textarea
+        width: 1/2
+        when:
+          show_columns: true
+
+      text_right:
+        label:
+          de: Rechter Text
+          en: Right text
+        type: textarea
+        width: 1/2
+        when:
+          show_columns: true

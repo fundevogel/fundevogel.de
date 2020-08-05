@@ -31,6 +31,9 @@ return [
     # See https://getkirby.com/docs/reference/system/options/smartypants
     'smartypants' => true,
 
+    # Enable API cache for `dependencies`
+    'cache.deps' => true,
+
 
     ##
     # PLUGIN OPTIONS

@@ -1,0 +1,11 @@
+Titleattribute: Frontend- & Backendtechnik des Fundevogels
+----
+Altattribute: Server in einem Rechenzentrum
+----
+Caption-wanted: true
+----
+Caption: Wir verwenden freie Software - aus Überzeugung!
+----
+Source: Taylor Vick @Unsplash - https://unsplash.com/@tvick
+----
+Template: image
