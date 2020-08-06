@@ -1,5 +1,5 @@
 <aside class="wave">
-    <?= useSeparator('orange-light', 'top-reversed') ?>
+    <?= useSeparator('orange-light', 'top') ?>
     <div class="inner">
         <div class="container">
             <div class="text-center">
@@ -20,5 +20,5 @@
             <?php endif ?>
         </div>
     </div>
-    <?= useSeparator('orange-light', 'bottom-reversed') ?>
+    <?= useSeparator('orange-light', 'bottom') ?>
 </aside>

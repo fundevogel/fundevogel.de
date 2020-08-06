@@ -9,6 +9,7 @@ import jsDetect from './helpers/jsDetect';
 import contains from './helpers/contains';
 
 import polyfillSVG from './modules/polyfillSVG';
+import runChart from './modules/chart';
 import runForms from './modules/forms';
 import runScroll from './modules/infiniteScroll';
 import runLightbox from './modules/lightBox';
@@ -154,6 +155,11 @@ class App {
                 // Masonry
                 if (contains(this.hasMasonry, template)) {
                     runMasonry(page, template);
+                }
+
+                // Tiny-Donuts (creating donut-style charts)
+                if (template === 'dependencies') {
+                    runChart(page);
                 }
             });
 
