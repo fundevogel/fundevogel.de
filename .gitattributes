@@ -7,3 +7,4 @@
 
 # PHP != Hacklang
 *.php linguist-language=PHP
+*.txt linguist-language=Markdown

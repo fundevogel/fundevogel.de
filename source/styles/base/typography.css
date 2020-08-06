@@ -48,6 +48,7 @@ blockquote p {
 }
 
 cite {
+  @apply mt-2;
   @apply block;
   @apply font-medium;
   @apply text-xs;

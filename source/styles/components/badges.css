@@ -1,7 +1,7 @@
 .badge {
   @apply pb-1;
   @apply px-2;
-  @apply font-bold;
+  @apply font-medium;
   @apply font-small-caps;
   @apply text-sm;
   @apply text-white;

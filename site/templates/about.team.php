@@ -2,17 +2,16 @@
 
 <article class="mb-16">
     <header class="container">
-            <div class="flex flex-col lg:flex-row">
-                <div class="flex-1">
-                    <?= $page->text()->kt() ?>
-                </div>
-                <div class="mt-12 flex-none text-center">
-                    <?php snippet('cover') ?>
-                </div>
+        <div class="flex flex-col lg:flex-row">
+            <div class="flex-1">
+                <?= $page->text()->kt() ?>
             </div>
-        </header>
-        <hr>
-
+            <div class="mt-12 flex-none text-center">
+                <?php snippet('cover') ?>
+            </div>
+        </div>
+    </header>
+    <hr>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('Wir stellen uns vor') ?></h2>
         <div class="js-masonry">
@@ -44,7 +43,7 @@
             </div>
             <?php endforeach ?>
         </div>
-    </header>
+    </section>
 </article>
 
 <?php snippet('footer') ?>

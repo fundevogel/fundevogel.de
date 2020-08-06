@@ -78,7 +78,7 @@ return function ($kirby, $page) {
     #
     # For unaccounted languages, we could loop over those (eg, `yaml`)
     # and get their values too, like this:
-    # 'https://api.github.com/search/code?q=language:' . $language . '+repo:fundevogel.de/fundevogel+user:S1SYPHOS'
+    # 'https://api.github.com/search/code?q=language:' . $language . '+repo:fundevogel.de/fundevogel+org:Fundevogel'
     #
     # See https://stackoverflow.com/a/26881503
 

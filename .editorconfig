@@ -10,12 +10,12 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 # Set default charset
-[*.{json,php}]
+[*.{bash,json,php,py}]
 charset = utf-8
 indent_style = space
 indent_size = 4
 
-[*.{css,html}]
+[*.{yml,css,html}]
 charset = utf-8
 indent_style = space
 indent_size = 2
