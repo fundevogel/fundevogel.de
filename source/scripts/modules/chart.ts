@@ -32,4 +32,11 @@ export default (container: HTMLElement) => {
         // .. and append it to the chart element
         value.appendChild(svg);
     });
+
+    forEach(container.querySelectorAll('.js-label'), (value: HTMLElement, index: number) => {
+        const color = value.dataset.color;
+        console.log(color);
+        // @ts-ignore
+        value.style = 'background:' + color;
+    });
 };
