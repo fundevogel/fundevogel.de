@@ -94,6 +94,8 @@ return function ($kirby, $page) {
         $percentages[] = $percentage;
     }
 
+    # Round percentages safely, using `largest remainder method`
+    # See https://en.wikipedia.org/wiki/Largest_remainder_method
     $largestRemainder = new LargestRemainder($percentages);
     // $largestRemainder->setPrecision(1);
 
@@ -103,7 +105,23 @@ return function ($kirby, $page) {
         $roundedPercentages[] = $number / 100;
     }
 
-    $source['languages'] = array_combine($languages, $roundedPercentages);
+    # Fetch GitHub's language colors
+    $path = $kirby->root('config');
+    $file = $path . '/colors.json';
+
+    // if (!file_exists($file)) {
+    //     exec('cd ' . $kirby->root('base') . ' && source .env/bin/activate && python toolset/github_colors.py ' . $path);
+    // }
+
+    $colorData = json_decode(file_get_contents($file), true);
+
+    # Build languages array
+    foreach (array_combine($languages, $roundedPercentages) as $language => $percentage) {
+        $source['languages'][$language] = [
+            'value' => $percentage,
+            'color' => $colorData[$language],
+        ];
+    }
 
 
     # Fetch cached PageSpeed performance score
@@ -290,34 +308,7 @@ return function ($kirby, $page) {
         $depsCache->set('pkgData', $pkgData, 10080);
     }
 
-    $languages = array_keys($source['languages']);
-    $percentages = array_values($source['languages']);
-
-    # Generate the chart element
-    $path = $kirby->root('config');
-    $file = $path . '/colors.json';
-
-    // if (!file_exists($file)) {
-    //     exec('cd ' . $kirby->root('base') . ' && source .env/bin/activate && python toolset/github_colors.py ' . $path);
-    // }
-
-    $colorData = json_decode(file_get_contents($file), true);
-
-    $colors = [];
-
-    foreach (array_keys($source['languages']) as $language) {
-        $colors[] = $colorData[$language];
-    }
-
-    $chart = Html::tag('div', '', [
-        'class' => 'js-chart w-48 h-48 block',
-        'data-percentages' => implode(' ', $percentages),
-        'data-languages' => implode(' ', $languages),
-        'data-colors' => implode(' ', $colors),
-    ]);
-
     return compact(
-        'chart',
         'source',
         'phpData',
         'pkgData',

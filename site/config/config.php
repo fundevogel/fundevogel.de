@@ -39,6 +39,10 @@ return [
     # PLUGIN OPTIONS
     ##
 
+    # Generate donuts charts as inline SVG
+    'fundevogel.donuts.inline' => true,
+
+
     # Disable security headers (see `.htaccess`)
     'bnomei.securityheaders.enabled' => 'force',
     'bnomei.securityheaders.headers' => [],
