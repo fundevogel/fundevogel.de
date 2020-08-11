@@ -12,10 +12,6 @@ return [
     'cache' => [
         'pages' => [
             'active' => true,
-            'ignore' => function ($page) {
-                # .. except for our form
-                return $page->intendedTemplate() !== 'geno.poll';
-            }
         ]
     ],
 ];
