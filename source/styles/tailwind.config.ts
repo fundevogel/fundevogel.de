@@ -5,11 +5,11 @@ module.exports = {
     separator: ':',
     purge: {
       content: [
-        'source/scripts/**/*.js',
         'node_modules/bigpicture/index.js',
-        'site/plugins/fv-*/*.php',
+        'site/plugins/fundevogel/*.php',
         'site/snippets/**/*.php',
         'site/templates/**/*.php',
+        'source/scripts/**/*.ts',
       ],
       options: {
         whitelist: [
