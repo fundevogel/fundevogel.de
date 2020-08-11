@@ -31,29 +31,54 @@ Das bekannteste Beispiel dieser neuen Kulturtechnik ist der Betriebssystemkern (
 Builder:
 
 - 
-  heading: Dankeschön!
+  heading: Bilder
   show_columns: 'false'
-  text_full: 'Auf dieser Seite möchten wir einen Blick "hinter den Vorhang" gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken - und auf diesem Wege auch **den Menschen dahinter** unseren **Dank für ihre tolle Arbeit** aussprechen!'
+  horizontal_line: 'true'
+  text_full: |
+    ### Bildquellen
+    Daneben spielen auch andere Ressourcen eine große Rolle, die ebenfalls nicht unerwähnt bleiben sollen:
+    
+    Bei der Verwendung hochwertiger Abbildungen und Grafiken gehen wir so vor:
+    - Alle Buchcover, die auf unserer Webseite zu finden sind, stammen (soweit nicht anders angegeben) aus dem (link: https://portal.dnb.de text: Katalog target: blank) der (link: https://de.wikipedia.org/wiki/Deutsche_Nationalbibliothek text: Deutschen Nationabibliothek target: blank).
+    - Als (short: Icons desc: Symbolbilder) verwenden wir die exzellenten & quelloffenen Sets (link: https://feathericons.com text: Feather Icons target: blank) und (link: https://akveo.github.io/eva-icons text: Eva Icons target: blank), eine einzige Graphik stammt außerdem jeweils von den (link: https://heroicons.dev text: Hero Icons target: blank) und den (link: https://vorillaz.github.io/devicons text: Devicons target: blank).
+    - Für hochwertige, lizenzfreie Bilder aller Art ist (link: https://unsplash.com text: Unsplash target: blank) unsere erste Wahl.
   text_left: ""
   text_right: ""
-  _key: wave
-  _uid: wave_1596391436818_157
-
-----
-
-Misc:
-
-## Bildquellen & APIs
-Daneben spielen auch andere Ressourcen eine große Rolle, die ebenfalls nicht unerwähnt bleiben sollen:
-
-Bei der Verwendung hochwertiger Abbildungen und Grafiken gehen wir so vor:
-- Alle Buchcover, die auf unserer Webseite zu finden sind, stammen (soweit nicht anders angegeben) aus dem (link: https://portal.dnb.de text: Katalog) der (link: https://www.dnb.de text: Deutschen Nationabibliothek).
-- Als (short: Icons desc: Symbolbilder) verwenden wir die beiden exzellenten & frei verfügbaren Sets (link: https://feathericons.com text: Feather Icons) sowie (link: https://akveo.github.io/eva-icons text: Eva Icons).
-- Für hochwertige, lizenzfreie Bilder aller Art ist (link: https://unsplash.com text: Unsplash target: blank) unsere erste Wahl.
-
-Die Nutzung einer (short: API desc: Programmierschnittstelle, engl. 'application programming interface') ermöglicht uns zudem die automatisierte Abfrage bestimmter Informationen:
-- Titeldaten von Büchern beziehen wir über die (link: http://www.knv-zeitfracht.de/wp-content/uploads/2020/07/Webservice_2.0.pdf text: WSDL-Schnittstelle target: blank) unseres Großhändlers (link: http://www.knv-zeitfracht.de text: KNV Zeitfracht target: blank).
-- Für die Informationen auf dieser Seite (rund um die einzelnen Projekte) verwenden wir die Schnittstellen der Plattform (link: https://packagist.org/apidoc text: Packagist target: blank), des Open-Source-Projekts (link: https://api-docs.npms.io text: npms target: blank) und des Code-Hosters (link: https://docs.github.com/en/rest text: GitHub target: blank). Die Ergebnisse werden einmal wöchentlich abgefragt und dann für diesen Zeitraum gespeichert.
+  _key: text
+  _uid: text_1596711055738_209
+- 
+  heading: APIs
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ### Schnittstellen
+    Die Nutzung einer (short: API desc: Programmierschnittstelle, engl. 'application programming interface') ermöglicht uns zudem die automatisierte Abfrage bestimmter Informationen, etwa Titeldaten von Büchern über die (link: http://www.knv-zeitfracht.de/wp-content/uploads/2020/07/Webservice_2.0.pdf text: WSDL-Schnittstelle target: blank) unseres Großhändlers (link: http://www.knv-zeitfracht.de text: KNV Zeitfracht target: blank).
+    
+    Für die Informationen auf dieser Seite verwenden wir Schnittstellen
+    - der Plattform (link: https://packagist.org/apidoc text: Packagist target: blank) für PHP / Composer,
+    - des Open-Source-Projekts (link: https://api-docs.npms.io text: npms target: blank) für JavaScript / Node,
+    - des Code-Hosters (link: https://docs.github.com/en/rest text: GitHub target: blank) für Informationen zu unserem Git-Repositorium,
+    - des Mozilla-Projekts (link: https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md text: Observatory target: blank) zur Bewertung sicherheitsrelevanter Einstellungen sowie
+    - des Google-Dienstes (link: https://developers.google.com/speed/docs/insights/v5/about text: PageSpeed Insights target: blank) zur Erfassung der Leistungsfähigkeit.
+    
+    Beim Aufruf dieser Seite sendet der Computer, auf dem unsere Webseite läuft (der sogenannte *Server*), eine Anfrage - *Request* - an die genannten APIs und speichert deren Antworten - *Response* - anschließend für eine Woche - bei einem erneuten Aufruf dieser Seite werden dann die gespeicherten Ergebnisse verwendet. Der tatsächliche Stand kann von den hier angezeigten Informationen also (geringfügig) abweichen.
+    
+    Wenn ihr unsere Seite selbst auf Sicherheit oder Geschwindigkeit abklopfen wollt, könnt ihr die Tests von Mozillas (link: https://observatory.mozilla.org/analyze/fundevogel.de text: Observatory target: blank) und Googles (link: https://developers.google.com/speed/pagespeed/insights/?url=fundevogel.de text: PageSpeed target: blank) auch selbst durchführen - diese Dienste erleichtern den Einstieg in die Optimierung von Webseiten, indem sie erste Anhaltspunkte für mögliche Problemstellen liefern.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1596711026167_209
+- 
+  heading: Sonstiges
+  show_columns: 'true'
+  horizontal_line: 'false'
+  text_full: ""
+  text_left: |
+    #### Sonstiges
+    Die Farben des Diagramms stammen vom Code-Hoster GitHub und wurden mit () generiert.
+  text_right: ""
+  _key: text
+  _uid: text_1597132344652_205
 
 ----
 
@@ -63,11 +88,31 @@ Cover:
 
 ----
 
+Source:
+
+Hier haben wir ein paar Infos und Statistiken über die Fundevogel-Webseite und ihren (short: Quelltext desc: So nennt man den Text, aus dem eine Webseite bzw. ein Computerprogramm besteht. color: orange) für euch zusammengetragen.
+
+Der gesamte *Code* ist (link: https://github.com/Fundevogel/fundevogel.de text: frei verfügbar target: blank).
+
+----
+
 Seotitle: Freie Software für freie Menschen
 
 ----
 
 Seodescription: Auf dieser Seite möchten wir einen Blick “hinter den Vorhang” gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken.
+
+----
+
+Misc: 
+
+----
+
+Php: 
+
+----
+
+Pkg: 
 
 ----
 

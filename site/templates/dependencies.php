@@ -15,9 +15,21 @@
     <section class="container">
         <?= $page->details()->kt() ?>
     </section>
-    <?php if ($page->builder()->isNotEmpty()) : ?>
-    <?php snippet('blocks') ?>
-    <?php endif ?>
+    <aside class="wave">
+        <?= useSeparator('orange-light', 'top') ?>
+        <div class="inner">
+            <div class="container">
+                <div class="text-center">
+                    <?= useSVG('', 'wave-icon', 'heart-filled') ?>
+                </div>
+                <h2 class="wave-title">Dankeschön!</h2>
+                <p class="content">
+                    Auf dieser Seite möchten wir einen Blick “hinter den Vorhang” gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken - und auf diesem Wege auch <strong>den Menschen dahinter</strong> unseren <strong>Dank für ihre tolle Arbeit</strong> aussprechen!
+                </p>
+            </div>
+        </div>
+        <?= useSeparator('orange-light', 'bottom') ?>
+    </aside>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('Verwendete Software') ?></h2>
         <div class="flex flex-col md:flex-row">
@@ -29,10 +41,106 @@
             </div>
         </div>
     </section>
-    <hr>
-    <section class="container">
-        <?= $page->misc()->kt() ?>
-    </section>
+    <aside class="wave">
+        <?= useSeparator('orange-light', 'top-reversed') ?>
+        <div class="inner">
+            <div class="container">
+                <div class="text-center">
+                    <?= useSVG(t('Über unsere Webseite'), 'wave-icon', 'badge-filled') ?>
+                </div>
+                <h2 class="wave-title"><?= t('Über unsere Webseite') ?></h2>
+                <div class="flex flex-col lg:flex-row">
+                    <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
+                        <?= $page->toDonut($source['languages'], 15, null, 'w-56 h-56 block') ?>
+                        <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
+                            <h3><?= t('Programmiersprachen') ?></h3>
+                            <ul class="table">
+                                <?php foreach ($source['languages'] as $language => $data) : ?>
+                                <li>
+                                    <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $data['color'] ?>"></span>
+                                    <?= $data['value'] * 100 ?> % <?= $language ?>
+                                </li>
+                                <?php endforeach ?>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mb-16 lg:mb-0 md:ml-16 lg:ml-20 flex-1 flex flex-col justify-center">
+                        <div class="lg:text-lg">
+                            <?= $page->source()->kt() ?>
+                        </div>
+                        <div class="flex flex-col my-12 text-sm">
+                            <div class="flex flex-col xs:flex-row">
+                                <div class="mb-4 flex-1 flex justify-content">
+                                    <div class="flex items-center">
+                                        <?= useSVG('Content Management System', 'js-tippy lesetipp-icon', 'layout') ?>
+                                        <span class="ml-4">
+                                            Kirby CMS
+                                        </span>
+                                    </div>
+                                </div>
+                                <?php if ($source['license']['short'] !== '') : ?>
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG(A::join([t('Lizenz'), $source['license']['long']], ': '), 'js-tippy lesetipp-icon', 'shield') ?>
+                                    <span class="ml-4">
+                                        <?= $source['license']['short'] ?>
+                                    </span>
+                                </div>
+                                <?php endif ?>
+                            </div>
+                            <div class="flex flex-col xs:flex-row">
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG('Code Hosting', 'js-tippy lesetipp-icon', 'git', 'data-tippy-placement="bottom"') ?>
+                                    <span class="ml-4">
+                                        GitHub
+                                    </span>
+                                </div>
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG('Server Hosting', 'js-tippy lesetipp-icon', 'hdd', 'data-tippy-placement="bottom"') ?>
+                                    <span class="ml-4">
+                                        Hetzner
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col xl:flex-row justify-between xl:items-center">
+                            <div class="flex">
+                                <?php if ($source['loc'] !== '') : ?>
+                                <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= number_format($source['loc'], 0, ',', '.') ?></span>
+                                    <span class="block text-sm sm:text-lg"><?= t('Zeilen Code') ?></span>
+                                </div>
+                                <?php endif ?>
+                                <?php if ($source['activity'] !== '') : ?>
+                                <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $source['activity'] ?> commits</span>
+                                    <span class="block text-sm sm:text-lg">pro Monat</span>
+                                </div>
+                                <?php endif ?>
+                            </div>
+                            <div class="flex mt-6 xl:mt-0">
+                                <?php if ($source['observatory']['grade'] !== '') : ?>
+                                <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold">Grade <?= $source['observatory']['grade'] ?></span>
+                                    <span class="block text-sm sm:text-lg">Mozilla Observatory</span>
+                                </div>
+                                <?php endif ?>
+                                <?php if ($source['pagespeed'] !== '') : ?>
+                                <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $source['pagespeed'] ?>/100</span>
+                                    <span class="block text-sm sm:text-lg">PageSpeed Score</span>
+                                </div>
+                                <?php endif ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <?= useSeparator('orange-light', 'bottom-reversed') ?>
+    </aside>
+    <?php if ($page->builder()->isNotEmpty()) : ?>
+    <?php snippet('blocks') ?>
+    <?php endif ?>
 </article>
 
 <?php snippet('footer') ?>

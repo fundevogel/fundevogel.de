@@ -1,0 +1,17 @@
+Title: 
+
+----
+
+Caption: 
+
+----
+
+Altattribute: Darstellung der Programiersprachen der Fundevogel-Webseite als Diagramm
+
+----
+
+Titleattribute: Programmiersprachen der Fundevogel-Webseite
+
+----
+
+Template: donut

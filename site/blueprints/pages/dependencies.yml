@@ -1,0 +1,36 @@
+title:
+  de: Programmierung
+  en: Programming
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+        text:
+          label: Text
+          type: textarea
+
+        details:
+          label: Details
+          type: textarea
+
+        builder: fields/builder
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: fields/single-cover
+            image:
+              ratio: 2/1
+
+          source:
+            label:
+              de: Über den Quelltext
+              en: About the source code
+            type: textarea
+
+  # Metadata
+  tab_seo: tabs/seo
