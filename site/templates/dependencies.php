@@ -22,10 +22,8 @@
                 <div class="text-center">
                     <?= useSVG('', 'wave-icon', 'heart-filled') ?>
                 </div>
-                <h2 class="wave-title">Dankeschön!</h2>
-                <p class="content">
-                    Auf dieser Seite möchten wir einen Blick “hinter den Vorhang” gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken - und auf diesem Wege auch <strong>den Menschen dahinter</strong> unseren <strong>Dank für ihre tolle Arbeit</strong> aussprechen!
-                </p>
+                <h2 class="wave-title"><?= t('Dankeschön') ?>!</h2>
+                <?= $page->thanks()->kt() ?>
             </div>
         </div>
         <?= useSeparator('orange-light', 'bottom') ?>
@@ -80,9 +78,9 @@
                                 </div>
                                 <?php if ($source['license']['short'] !== '') : ?>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= useSVG(A::join([t('Lizenz'), $source['license']['long']], ': '), 'js-tippy lesetipp-icon', 'shield') ?>
+                                    <?= useSVG(t('Lizenz'), 'js-tippy lesetipp-icon', 'shield') ?>
                                     <span class="ml-4">
-                                        <?= $source['license']['short'] ?>
+                                        <?= kirbytag(['short' => $source['license']['short'], 'desc' => $source['license']['long'], 'color' => 'orange']) ?>
                                     </span>
                                 </div>
                                 <?php endif ?>
@@ -113,14 +111,14 @@
                                 <?php if ($source['activity'] !== '') : ?>
                                 <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
                                     <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $source['activity'] ?> commits</span>
-                                    <span class="block text-sm sm:text-lg">pro Monat</span>
+                                    <span class="block text-sm sm:text-lg"><?= t('pro Monat') ?></span>
                                 </div>
                                 <?php endif ?>
                             </div>
                             <div class="flex mt-6 xl:mt-0">
                                 <?php if ($source['observatory']['grade'] !== '') : ?>
                                 <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
-                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold">Grade <?= $source['observatory']['grade'] ?></span>
+                                    <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= t('Note') . ' ' .  $source['observatory']['grade'] ?></span>
                                     <span class="block text-sm sm:text-lg">Mozilla Observatory</span>
                                 </div>
                                 <?php endif ?>

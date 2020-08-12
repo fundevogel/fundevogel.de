@@ -32,5 +32,11 @@ tabs:
               en: About the source code
             type: textarea
 
+          thanks:
+            label:
+              de: Danke sagen
+              en: Giving thanks
+            type: textarea
+
   # Metadata
   tab_seo: tabs/seo

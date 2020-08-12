@@ -4,7 +4,7 @@
         foreach ($data as $library) :
         $link = Html::a($library['url'], $library['repo'], [
             'class' => $library['license'] ? 'js-tippy' : '',
-            'title' => $library['license'] ? implode(': ', [t('Lizenz'), $library['license'][0]]) : '',
+            'title' => $library['license'] ? A::join([t('Lizenz'), $library['license']], ': ') : '',
             'target' => '_blank',
         ]);
     ?>

@@ -130,10 +130,6 @@ tabs:
               en: Description
             type: textarea
 
-      doctor:
-        type: doctor
-        label: Perform checks
-
     sidebar:
       sidebar_files: false
       sidebar_pages:

@@ -228,7 +228,7 @@ return function ($kirby, $page) {
                 $data = $phpResponse->json(true)['packages'][$library]['dev-master'];
 
                 $node['desc'] = $data['description'];
-                $node['license'] = $data['license'] ?? '';
+                $node['license'] = $data['license'][0] ?? '';
                 $node['url'] = Str::rtrim($data['source']['url'], '.git');
             }
 

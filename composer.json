@@ -20,16 +20,14 @@
     "require": {
         "php": ">=7.2.0",
         "getkirby/cms": "3.4.2",
-        "bnomei/kirby3-doctor": "1.4.4",
         "bnomei/kirby3-fingerprint": "3.0.8",
         "bnomei/kirby3-janitor": "2.6.1",
         "bnomei/kirby3-security-headers": "2.3.1",
         "distantnative/retour-for-kirby": "2.3.2",
         "fundevogel/php-pcbis": "0.5.2",
-        "fundevogel/kirby3-donuts": "0.2.3",
+        "fundevogel/kirby3-donuts": "1.1.0",
         "guzzlehttp/guzzle": "7.0.1",
         "kschu91/largest-remainder-method": "0.1.0",
-        "mzur/kirby-uniform": "4.1.0",
         "oblik/kirby-plurals": "1.0.0",
         "pedroborges/kirby-meta-tags": "2.0.2",
         "timoetting/kirby-builder": "2.0.15"
