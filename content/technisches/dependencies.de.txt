@@ -68,17 +68,6 @@ Builder:
   text_right: ""
   _key: text
   _uid: text_1596711026167_209
-- 
-  heading: Sonstiges
-  show_columns: 'true'
-  horizontal_line: 'false'
-  text_full: ""
-  text_left: |
-    #### Sonstiges
-    Die Farben des Diagramms stammen vom Code-Hoster GitHub und wurden mit () generiert.
-  text_right: ""
-  _key: text
-  _uid: text_1597132344652_205
 
 ----
 

@@ -22,11 +22,11 @@ Die besondere Leistung der beiden Künstlerinnen Susanna Mattiangli und Vessela 
 
 ----
 
-Builder: 
+Builder:
 
 ----
 
-Date: 2020-08-04
+Date: 2020-08-10
 
 ----
 
@@ -46,7 +46,7 @@ Awardedition: August 2020
 
 ----
 
-Leselink: https://www.ajum.de/html/Lesepeter/202008.html
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-fuer-das-bilderbuchbuch-ein-strandtag
 
 ----
 
@@ -66,7 +66,7 @@ Book-title: Ein Strandtag
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -78,7 +78,7 @@ Illustrator: Susanna Mattiangeli
 
 ----
 
-Narrator: 
+Narrator:
 
 ----
 
@@ -86,7 +86,7 @@ Translator: Lucia Zamolo
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
@@ -94,7 +94,7 @@ Page-count: 36
 
 ----
 
-Duration: 
+Duration:
 
 ----
 
@@ -118,7 +118,7 @@ Categories: Bilderbuch
 
 ----
 
-Topics: Sommer, Strand
+Topics: Sommer, Strand, Diversität
 
 ----
 
@@ -132,8 +132,8 @@ Isaudiobook: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
