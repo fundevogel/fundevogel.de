@@ -16,7 +16,7 @@
                                 $caption = $image->altAttribute()->isNotEmpty() ? $image->altAttribute() : $page->caption();
                             ?>
                             <div class="swiper-slide">
-                                <?= $image->createImage('rounded-lg transition-all', 'about.slides', false, true, ['data-caption' => $caption]) ?>
+                                <?= $image->createImage('rounded-lg transition-all', 'about.slides', true, ['data-caption' => $caption]) ?>
                             </div>
                             <?php endforeach ?>
                         </div>

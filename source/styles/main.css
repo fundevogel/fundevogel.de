@@ -31,5 +31,6 @@
 /* Vendor */
 @import 'vendor/bigpicture';
 @import 'vendor/dropkick';
+@import 'vendor/lazyload';
 @import 'vendor/swiper';
 @import 'vendor/tippy';

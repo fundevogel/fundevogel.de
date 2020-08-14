@@ -42,6 +42,10 @@ return [
     # Generate donuts charts as inline SVG
     'fundevogel.donuts.inline' => true,
 
+    # Create lossy WebP images
+    'hashandsalt.webp.png.encoding' => 'lossy',
+    'hashandsalt.webp.jpeg.encoding' => 'lossy',
+    'hashandsalt.kirby-webp.template' => 'webp',
 
     # Disable security headers (see `.htaccess`)
     'bnomei.securityheaders.enabled' => 'force',

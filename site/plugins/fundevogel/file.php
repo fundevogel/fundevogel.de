@@ -1,39 +1,40 @@
 <?php
 
 return [
-    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isBlurry = false, bool $isLightbox = false, array $extra = []) {
-        $cover = $this->thumb($preset);
-        $blurry = $this->thumb($preset . '.blurred');
-
-        $source = $isBlurry ? $blurry->url() : $cover->url();
+    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isLightbox = false, array $extra = []) {
+        $image = $this->thumb($preset);
+        $blurry = $this->thumb($preset . '.blurry');
+        $alt = $this->altAttribute();
         $title = $this->source()->isEmpty()
             ? $this->titleAttribute()
             : $this->titleAttribute() . ' - ' . $this->source()
         ;
 
         $attributes = A::append([
-            'class' => $classes,
+            'data-src' => $image->url(),
+            'class' => 'lazyload ' . $classes,
             'title' => $title,
-            'alt' => $this->altAttribute(),
-            'width' => $cover->width(),
-            'height' => $cover->height(),
+            'alt' => $alt,
+            'width' => $image->width(),
+            'height' => $image->height(),
+            'loading' => 'lazy',
+            'data-sizes' => 'auto',
         ], $extra);
 
-        if ($isBlurry) {
-            $attributes = A::append($attributes, [
-                'data-layzr' => $cover->url(),
-            ]);
-        }
-
         if ($isLightbox) {
-            $preset = $this->orientation() === 'landscape' ? 'full-width' : 'full-height';
+            $orientation = $this->orientation() === 'landscape' ? 'full-width' : 'full-height';
             $attributes = A::append($attributes, [
-                'data-bp' => $this->thumb($preset)->url(),
+                'data-bp' => $this->thumb($orientation)->url(),
                 'data-caption' => $title,
             ]);
         }
 
-        return Html::img($source, $attributes);
+        return snippet('webPicture', [
+            'src' => $this,
+            'tag' => Html::img($blurry->url(), $attributes),
+            'sizes' => option('thumbs.sizes')[$preset],
+            'preset' => $preset,
+        ]);
     },
     'getFront' => function ($classes = '') {
         // Try using default cover, otherwise use global fallback image
@@ -46,14 +47,6 @@ return [
             : $fallback
         ;
 
-        $image = $cover->thumb('lesetipps.pdf');
-
-        return Html::img($image->url(), [
-            'class' => $classes,
-            'title' => $this->titleAttribute(),
-            'alt' => $this->altAttribute(),
-            'width' => $image->width(),
-            'height' => $image->height(),
-        ]);
+        return $cover->createImage($classes, 'lesetipps.pdf');
     }
 ];
