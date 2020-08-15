@@ -18,6 +18,3 @@ sidebar:
       de: Dateien
       en: Files
     type: files
-    templates:
-      - pdf
-      - image
