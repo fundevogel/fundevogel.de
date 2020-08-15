@@ -11,13 +11,9 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
-Builder:
-
-----
-
 Favorites:
 
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -57,8 +53,7 @@ Favorites:
     Tagesgespenst, das in der Stadt für
     jede Menge Unheil und Verwirrung sorgt
     ..
-  delimiter: null
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -95,8 +90,7 @@ Favorites:
     dressierter Zirkustiere, verkuppeln
     einen König und bestehen viele
     Mutproben.
-  delimiter: null
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -117,8 +111,7 @@ Favorites:
   price: 9,95
   binding: gebunden
   text: 'Manuel und Didi sind die allerbesten Freunde der Welt: phantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende!'
-  delimiter: null
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -151,11 +144,16 @@ Favorites:
     nach freunden die beiden sich an. Bis
     ihre Freundschaft auf eine harte Probe
     gestellt wird ..
-  delimiter: null
--
+- 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Astrid Lindgrens Geschichten über den
+    den kleinen, liebenswerten Lausejungen
+    Michel aus Lönneberga vom Hof Katthult
+    in Südschwedens Småland gehört zu den
+    wundervollsten Schätzen der
+    Kinderliteratur!
+  person: Sandra H.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7891-2946-9
@@ -173,8 +171,7 @@ Favorites:
   price: 17,00
   binding: gebunden
   text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
-  delimiter: null
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -211,7 +208,6 @@ Favorites:
     der Sommerinsel kommt, ist nur eines der
     aufregenden Abenteuer, die er und seine
     Freunde erleben ..
-  delimiter: null
 
 ----
 
