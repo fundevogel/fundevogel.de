@@ -22,7 +22,7 @@
                         <div class="flex flex-col lg:flex-row">
                             <div class="flex-none flex justify-center">
                                 <div class="flex items-center mb-10 lg:mb-0">
-                                    <?= $image->createImage('rounded-lg shadow-cover', 'lesetipps.article.cover-normal') ?>
+                                    <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal') ?>
                                 </div>
                             </div>
                             <div class="md:ml-16 flex-1 flex flex-col justify-center">

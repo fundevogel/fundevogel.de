@@ -129,7 +129,6 @@ module.exports = {
         none: 'none',
         // Custom
         nav: '0 2px 3px rgba(175, 75, 50, 0.5)',
-        cover: '0 1px 2px rgba(0,0,0,.24), 0 2px 3px rgba(0,0,0,.48)',
       },
       container: {
         center: true,

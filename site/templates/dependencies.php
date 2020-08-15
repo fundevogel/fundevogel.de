@@ -51,7 +51,7 @@
                     <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
                         <?= $page->toDonut($source['languages'], 15, null, 'w-56 h-56 block') ?>
                         <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
-                            <h3><?= t('Programmiersprachen') ?></h3>
+                            <h3 class="text-orange-medium"><?= t('Programmiersprachen') ?></h3>
                             <ul class="table">
                                 <?php foreach ($source['languages'] as $language => $data) : ?>
                                 <li>

@@ -7,16 +7,16 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mt-12 flex-none text-center">
-            <figure class="group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative">
+            <figure class="group inline-block lg:ml-12 rounded-lg overflow-hidden relative">
                 <div class="js-lightbox cursor-pointer">
                     <div class="js-slider swiper-container swiper-about">
                         <div class="swiper-wrapper">
                             <?php
-                                foreach ($page->images() as $image) :
+                                foreach ($page->gallery()->toFiles() as $image) :
                                 $caption = $image->altAttribute()->isNotEmpty() ? $image->altAttribute() : $page->caption();
                             ?>
                             <div class="swiper-slide">
-                                <?= $image->createImage('rounded-lg transition-all', 'about.slides', true, ['data-caption' => $caption]) ?>
+                                <?= $image->createImage('rounded-lg transition-all', 'about.slides', true, false, ['data-caption' => $caption]) ?>
                             </div>
                             <?php endforeach ?>
                         </div>

@@ -1,27 +1,43 @@
-<?php
-    $webp = $src->toWebp();
-    $variants = $src->toVariants()->filterBy('extension', '!=', 'webp');
-    $source = $src->toSource();
-?>
-
 <picture>
-    <?php foreach ($sizes as $max) : ?>
+    <?php
+        $webp = $src->toWebp();
+        $variants = $src->toVariants()->filterBy('extension', '!=', 'webp');
+        $source = $src->toSource();
+
+        foreach ($sizes as $max) :
+        $image = $webp->thumb(A::join([$preset, $max], '.'));
+    ?>
     <source
         media="(min-width: <?= $max ?>px)"
         type="image/webp"
-        data-srcset="<?= $webp->thumb(A::join([$preset, $max], '.'))->url() ?>"
+        <?php if ($noLazy === true) : ?>
+        srcset="<?= $image->url() ?>"
+        <?php else : ?>
+        data-srcset="<?= $image->url() ?>"
+        data-aspectratio="<?= $image->width() / $image->height() ?>"
+        <?php endif ?>
     >
-    <?php endforeach?>
+    <?php
+        endforeach;
+        foreach ($variants as $variant) :
 
-    <?php foreach ($variants as $variant) : ?>
-    <?php foreach ($sizes as $max) : ?>
+        foreach ($sizes as $max) :
+        $image = $variant->thumb(A::join([$preset, $max], '.'));
+    ?>
     <source
         media="(min-width: <?= $max ?>px)"
         type="image/<?= $variant->extension() ?>"
-        data-srcset="<?= $variant->thumb(A::join([$preset, $max], '.'))->url() ?>"
+        <?php if ($noLazy === true) : ?>
+        srcset="<?= $image->url() ?>"
+        <?php else : ?>
+        data-srcset="<?= $image->url() ?>"
+        data-aspectratio="<?= $image->width() / $image->height() ?>"
+        <?php endif ?>
     >
-    <?php endforeach?>
-    <?php endforeach?>
+    <?php
+        endforeach;
+        endforeach;
 
-    <?= $tag ?>
+        echo $tag;
+    ?>
 </picture>

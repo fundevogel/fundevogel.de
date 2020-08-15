@@ -13,7 +13,7 @@
             </div>
             <div class="mt-12 flex-none text-center">
                 <?php if ($page->hasCover()) : ?>
-                <figure class="js-lightbox group inline-block lg:ml-12 shadow-cover rounded-lg overflow-hidden relative cursor-pointer">
+                <figure class="js-lightbox group inline-block lg:ml-12 rounded-lg overflow-hidden relative cursor-pointer">
                     <?= $page->getCover()->createImage('rounded-lg transition-all', 'cover', true) ?>
                     <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none z-10 transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
                 </figure>

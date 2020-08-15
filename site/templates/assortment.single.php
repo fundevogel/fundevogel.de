@@ -45,7 +45,7 @@
                                                 <?= t('Serie') ?>
                                             </span>
                                             <?php endif ?>
-                                            <?= $image->createImage('rounded-lg shadow-cover', 'lesetipps.article.cover-normal') ?>
+                                            <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal') ?>
                                         </div>
                                     </div>
                                 </div>
