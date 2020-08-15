@@ -83,6 +83,10 @@ return [
         'lesetipps.article.cover-square.300' => ['width' => 300, 'crop' => true],
         'lesetipps.article.cover-square.240' => ['width' => 240, 'crop' => true],
         'lesetipps.article.cover-square.160' => ['width' => 160, 'crop' => true],
+        # Lesepeter mascot image
+        'lesepeter.mascot' => ['width' => 150],
+        'lesepeter.mascot.150' => ['width' => 150],
+        'lesepeter.mascot.112' => ['width' => 112],
 
         # Calendar
         # Gallery slide images
@@ -104,6 +108,7 @@ return [
         'lesetipps.pdf' => [200, 160, 128],
         'lesetipps.article.cover-normal' => [300, 240, 160],
         'lesetipps.article.cover-square' => [300, 240, 160],
+        'lesepeter.mascot' => [150, 112],
         'calendar.single.gallery' => [320, 280, 220, 160],
     ]
 ];
