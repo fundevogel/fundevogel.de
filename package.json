@@ -78,6 +78,7 @@
         "gulp-svgstore": "7.0.1",
         "gulp-terser": "^1.2.1",
         "gulp-uglify": "3.0.2",
+        "gulp-webp": "^4.0.1",
         "imagemin-pngquant": "^9.0.0",
         "precss": "4.0.0",
         "stylelint": "^13.6.1",
