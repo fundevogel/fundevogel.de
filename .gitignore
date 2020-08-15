@@ -28,7 +28,7 @@
 /toolset/*
 !/toolset/*.py
 !/toolset/*.bash
-!/toolset/requirements.txt
+!/toolset/graveyard
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
