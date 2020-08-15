@@ -27,6 +27,7 @@
                         ]),
                         'sizes' => option('thumbs.sizes')[$preset],
                         'preset' => $preset,
+                        'noLazy' => false,
                     ]);
                 ?>
             </div>
