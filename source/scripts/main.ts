@@ -3,11 +3,11 @@
  */
 
 import barba from '@barba/core';
-import 'lazysizes';
 
 import jsDetect from './helpers/jsDetect';
 import contains from './helpers/contains';
 
+import lazyLoading from './modules/lazyLoading';
 import polyfillSVG from './modules/polyfillSVG';
 import runForms from './modules/forms';
 import runScroll from './modules/infiniteScroll';
@@ -76,6 +76,7 @@ class App {
 
         jsDetect();
         polyfillSVG();
+        lazyLoading();
 
         // Avoid 'blank page' on JS error
         try {
