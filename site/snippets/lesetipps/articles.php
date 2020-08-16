@@ -3,12 +3,12 @@
     foreach ($lesetipps as $lesetipp) :
 ?>
 <article class="flex flex-col md:flex-row">
-    <div class="flex-none flex justify-center">
-        <a class="mb-6 md:mb-0" href="<?= $lesetipp->url() ?>">
+    <div class="flex-none flex justify-center items-center">
+        <a class="<?php e($lesetipp->hasAward()->bool(), 'mb-16 ', 'mb-8 ') ?>md:mb-0" href="<?= $lesetipp->url() ?>">
             <?= $lesetipp->getBookCover('rounded-lg') ?>
         </a>
     </div>
-    <div class="flex-1 md:ml-10 relative">
+    <div class="md:ml-10 flex-1 flex flex-col justify-center relative">
         <?php
             if ($lesetipp->hasAward()->bool()) :
             $award = $lesetipp->getAward();
