@@ -5,10 +5,17 @@ type: builder
 fieldsets:
   info:
     name: Info-Box
+    label: "{{heading}} (Info-Box)"
     # preview:
     #   snippet: blocks/infos
     #   css: /site/snippets/blocks/infos/styles.css
     fields:
+      heading:
+        label:
+          de: Überschrift
+          en: Heading
+        type: text
+
       info:
         label:
           de: Nützliche Informationen
