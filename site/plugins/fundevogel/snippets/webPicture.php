@@ -14,7 +14,6 @@
         srcset="<?= $image->url() ?>"
         <?php else : ?>
         data-srcset="<?= $image->url() ?>"
-        data-aspectratio="<?= $image->width() / $image->height() ?>"
         <?php endif ?>
     >
     <?php
@@ -31,7 +30,6 @@
         srcset="<?= $image->url() ?>"
         <?php else : ?>
         data-srcset="<?= $image->url() ?>"
-        data-aspectratio="<?= $image->width() / $image->height() ?>"
         <?php endif ?>
     >
     <?php
