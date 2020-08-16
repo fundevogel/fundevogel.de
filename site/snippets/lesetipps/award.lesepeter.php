@@ -6,15 +6,30 @@
                 <?= (new Field(null, 'desc', $award['description']))->kirbytext() ?>
             </div>
             <div class="flex-none">
-                <?php $image = new Asset('assets/images/lesepeter.png') ?>
-                <img
-                    class="js-tippy ml-6 w-auto h-48 lg:h-64 hidden md:block cursor-help"
-                    src="<?= $image->url() ?>"
-                    title="Daumen hoch für gute Bücher!" alt="LesePeter-Logo"
-                    width="<?= $image->width() ?>"
-                    height="<?= $image->height() ?>"
-                    data-tippy-theme="fundevogel red"
-                >
+                <?php
+                    $image = new File([
+                        'parent' => $site,
+                        'filename' => 'lesepeter.png',
+                    ]);
+                    $preset = 'lesepeter.mascot';
+                    $resized = $image->thumb($preset);
+                ?>
+                <?php
+                    snippet('webPicture', [
+                        'src' => $image,
+                        'tag' => Html::img($resized->url(), [
+                            'class' => 'js-tippy ml-6 w-auto h-48 lg:h-64 hidden md:block cursor-help',
+                            'title' => 'Daumen hoch für gute Bücher!',
+                            'alt'=> 'LesePeter-Logo',
+                            'width' => $resized->width(),
+                            'height' => $resized->height(),
+                            'data-tippy-theme' => 'fundevogel red',
+                        ]),
+                        'sizes' => option('thumbs.sizes')[$preset],
+                        'preset' => $preset,
+                        'noLazy' => false,
+                    ]);
+                ?>
             </div>
         </div>
     </div>

@@ -29,6 +29,8 @@ tabs:
         type: textarea
         width: 1/2
 
+      gallery: fields/gallery
+
     sidebar:
       sidebar_fields:
         type: fields

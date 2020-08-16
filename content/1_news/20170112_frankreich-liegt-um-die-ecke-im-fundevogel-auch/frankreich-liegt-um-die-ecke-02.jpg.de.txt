@@ -1,9 +1,0 @@
-Template: image
-
-----
-
-Titleattribute: 
-
-----
-
-Altattribute: 

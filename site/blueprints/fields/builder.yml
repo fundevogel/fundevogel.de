@@ -36,16 +36,7 @@ fieldsets:
           en: Horizontal line?
         width: 1/4
 
-      gallery:
-        label:
-          de: Bildergalerie
-          en: Gallery
-        type: files
-        layout: cards
-        image:
-          ratio: 16/9
-          cover: true
-        info: "{{ file.dimensions }} ({{ file.niceSize }})"
+      gallery: fields/gallery
 
   books:
     name: Büchergalerie

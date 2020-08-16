@@ -18,7 +18,7 @@
             <?php foreach ($editions as $edition) : ?>
             <div class="w-1/2 sm:w-1/3 lg:w-1/4 mb-6 md:mb-10 text-center">
                 <a class="inline-block group relative" href="<?= $edition->url() ?>" target="_blank">
-                    <figure class="w-40 md:w-auto inline-block shadow-cover rounded-lg">
+                    <figure class="w-40 md:w-auto inline-block rounded-lg">
                         <?= $edition->getFront('rounded-t-lg') ?>
                         <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= implode(' ', [t($edition->edition()->value()), $edition->year()]) ?></figcaption>
                     </figure>

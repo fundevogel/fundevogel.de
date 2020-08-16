@@ -5,7 +5,7 @@
         <?= $page->text()->kt() ?>
         <?php if ($page->hasCover()) : ?>
         <div class="mt-6 text-center">
-            <figure class="group inline-block shadow-cover rounded-lg overflow-hidden relative">
+            <figure class="group inline-block rounded-lg overflow-hidden relative">
                 <?= $page->getCover()->createImage('rounded-lg transition-all', 'news.hero') ?>
                 <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow absolute w-full sketch bg-red-medium select-none z-10 transition-all"><?= $page->getCover()->caption()->html() ?></figcaption>
             </figure>
@@ -17,7 +17,7 @@
         <h2 class="mb-12 text-center"><?= t('Neues aus dem Fundevogel') ?></h2>
         <?php foreach($news as $article) : ?>
             <article class="js-article animation-fade-in">
-                <div class="<?php e(count($images = $article->images()) < 3, 'container') ?>">
+                <div class="<?php e(count($images = $article->images()->filterBy('extension', '!=', 'webp')) < 3, 'container') ?>">
                     <div class="flex flex-col <?php e(count($images) < 3, 'lg:flex-row ') ?> justify-center">
                         <?php if ($images) : ?>
                         <?php if (count($images) > 2) : ?>
@@ -34,7 +34,7 @@
                                 if ($image) :
                             ?>
                             <div class="<?php e(count($images) > 2, 'm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg select-none">
-                                <?= $image->createImage('w-24 h-24 xs:w-32 xs:h-32 md:w-48 md:h-48 xl:w-56 xl:h-56 shadow-cover rounded-lg cursor-pointer', 'news.article.image', true, true) ?>
+                                <?= $image->createImage('w-24 h-24 xs:w-32 xs:h-32 md:w-48 md:h-48 xl:w-56 xl:h-56 rounded-lg cursor-pointer', 'news.article.image', true) ?>
                             </div>
                             <?php endif ?>
                             <?php endforeach ?>

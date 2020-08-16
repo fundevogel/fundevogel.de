@@ -17,7 +17,8 @@ const
     imagemin = require('gulp-imagemin'),
     newer = require('gulp-newer'),
     rename = require('gulp-rename'),
-    svg = require('gulp-svgstore')
+    svg = require('gulp-svgstore'),
+    webp = require('gulp-webp')
 ;
 
 
@@ -34,7 +35,23 @@ function compressImages() {
     return src(imagesSource, {since: lastRun(compressImages)})
         .pipe(imagemin(conf.images.minify))
         .pipe(dest(conf.dist.images))
-        .pipe(browserSync.stream())
+    ;
+}
+
+
+/*
+ * Convert images to WebP format
+ */
+
+function convertWebP() {
+    const filetypes = conf.images.allowed.join(',');
+    const imagesSource = [
+        conf.dist.images + '/**/*.{' + filetypes + '}',
+    ];
+
+    return src(imagesSource, {since: lastRun(convertWebP)})
+		.pipe(webp())
+        .pipe(dest(conf.dist.images))
     ;
 }
 
@@ -82,13 +99,14 @@ let images: TaskFunction;
 
 if (conf.favicons.enable && process.env.NODE_ENV === 'production') {
     images = parallel(
+        createFavicons,
         combineIcons,
-        series(createFavicons, compressImages)
+        series(compressImages, convertWebP)
     );
 } else {
     images = parallel(
         combineIcons,
-        compressImages
+        series(compressImages, convertWebP)
     );
 }
 

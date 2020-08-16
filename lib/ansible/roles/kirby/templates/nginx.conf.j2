@@ -17,6 +17,10 @@ server {
     sendfile off;
     client_max_body_size {{ max_upload }}M;
 
+    # Fix thumbnail creation issue
+    # See https://forum.getkirby.com/t/no-thumbnails-generated-on-nginx/13534/10
+    error_page 404 /error;
+
     # Enable URL rewriting
     location / {
         try_files $uri $uri/ /index.php$is_args$args;

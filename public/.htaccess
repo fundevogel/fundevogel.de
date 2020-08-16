@@ -85,6 +85,9 @@ RewriteRule ^(.*) index.php [L]
   Header append Vary Accept env=REDIRECT_accept
 </IfModule>
 
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+</IfModule>
 
 # ######################################################################
 # # CROSS-ORIGIN                                                       #

@@ -3,11 +3,11 @@
  */
 
 import barba from '@barba/core';
-import Layzr from 'layzr.js';
 
 import jsDetect from './helpers/jsDetect';
 import contains from './helpers/contains';
 
+import lazyLoading from './modules/lazyLoading';
 import polyfillSVG from './modules/polyfillSVG';
 import runForms from './modules/forms';
 import runScroll from './modules/infiniteScroll';
@@ -76,9 +76,7 @@ class App {
 
         jsDetect();
         polyfillSVG();
-
-        // eslint-disable-next-line new-cap
-        const lazyload = Layzr({normal: 'data-layzr'});
+        lazyLoading();
 
         // Avoid 'blank page' on JS error
         try {
@@ -105,11 +103,6 @@ class App {
                 // Tooltips
                 runTooltips(page);
 
-                // Lazyloading
-                lazyload
-                    .update()
-                    .check()
-                    .handlers(true);
 
                 // Menu (@mobile)
                 const toggle = page.querySelector('.js-toggle');
@@ -131,7 +124,6 @@ class App {
                     const infiniteScroll = runScroll(page);
 
                     infiniteScroll.on('append', () => {
-                        lazyload.update();
                         runLightbox(page);
                     });
                 }

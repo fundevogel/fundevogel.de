@@ -12,7 +12,7 @@
                     <?php foreach ($data->gallery()->toFiles() as $image) : ?>
                     <div class="swiper-slide">
                         <div class="">
-                            <?= $image->createImage('mx-6 rounded-lg shadow-cover cursor-pointer', 'calendar.single.gallery', true, true) ?>
+                            <?= $image->createImage('mx-6 rounded-lg cursor-pointer', 'calendar.single.gallery', true) ?>
                         </div>
                     </div>
                     <?php endforeach ?>

@@ -4,18 +4,12 @@ class LesetippsArticlePage extends Page {
     public function getBookCover(string $classes = '') {
         $image = $this->getCover();
 
-        $cover = $image->orientation() === 'portrait'
-            ? $image->thumb('lesetipps.article.cover-normal')
-            : $image->thumb('lesetipps.article.cover-square')
+        $preset = $image->orientation() === 'portrait'
+            ? 'lesetipps.article.cover-normal'
+            : 'lesetipps.article.cover-square'
         ;
 
-        return Html::img($cover->url(), [
-            'class' => $classes,
-            'title' => $image->titleAttribute(),
-            'alt' => $image->altAttribute(),
-            'width' => $cover->width(),
-            'height' => $cover->height(),
-        ]);
+        return $image->createImage($classes, $preset);
     }
 
     public function getAward() {

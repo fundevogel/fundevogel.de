@@ -5,7 +5,7 @@
 <article class="flex flex-col md:flex-row">
     <div class="flex-none flex justify-center">
         <a class="mb-6 md:mb-0" href="<?= $lesetipp->url() ?>">
-            <?= $lesetipp->getBookCover('rounded-lg shadow-cover') ?>
+            <?= $lesetipp->getBookCover('rounded-lg') ?>
         </a>
     </div>
     <div class="flex-1 md:ml-10 relative">

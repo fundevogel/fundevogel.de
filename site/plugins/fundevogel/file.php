@@ -1,39 +1,49 @@
 <?php
 
 return [
-    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isBlurry = false, bool $isLightbox = false, array $extra = []) {
-        $cover = $this->thumb($preset);
-        $blurry = $this->thumb($preset . '.blurred');
-
-        $source = $isBlurry ? $blurry->url() : $cover->url();
+    'createImage' => function (string $classes = '', string $preset = 'cover', bool $isLightbox = false, bool $noLazy = false, array $extra = []) {
+        $image = $this->thumb($preset);
+        $blurry = $this->thumb($preset . '.blurry');
+        $source = $noLazy === false ? $blurry->url() : $image->url();
+        $alt = $this->altAttribute();
         $title = $this->source()->isEmpty()
             ? $this->titleAttribute()
             : $this->titleAttribute() . ' - ' . $this->source()
         ;
 
-        $attributes = A::append([
+        $attributes = A::update([
             'class' => $classes,
             'title' => $title,
-            'alt' => $this->altAttribute(),
-            'width' => $cover->width(),
-            'height' => $cover->height(),
+            'alt' => $alt,
+            'width' => $image->width(),
+            'height' => $image->height(),
         ], $extra);
 
-        if ($isBlurry) {
-            $attributes = A::append($attributes, [
-                'data-layzr' => $cover->url(),
+        if ($noLazy === false) {
+            $attributes = A::update($attributes, [
+                'class' => $classes . ' lazyload animation-blur-in',
+                'loading' => 'lazy',
+                'data-src' => $image->url(),
+                'data-sizes' => 'auto',
+                'data-aspectratio' => '',
             ]);
         }
 
         if ($isLightbox) {
-            $preset = $this->orientation() === 'landscape' ? 'full-width' : 'full-height';
-            $attributes = A::append($attributes, [
-                'data-bp' => $this->thumb($preset)->url(),
+            $orientation = $this->orientation() === 'landscape' ? 'full-width' : 'full-height';
+            $attributes = A::update($attributes, [
+                'data-bp' => $this->thumb($orientation)->url(),
                 'data-caption' => $title,
             ]);
         }
 
-        return Html::img($source, $attributes);
+        return snippet('webPicture', [
+            'src' => $this,
+            'tag' => Html::img($source, $attributes),
+            'sizes' => option('thumbs.sizes')[$preset],
+            'preset' => $preset,
+            'noLazy' => $noLazy,
+        ]);
     },
     'getFront' => function ($classes = '') {
         // Try using default cover, otherwise use global fallback image
@@ -46,14 +56,6 @@ return [
             : $fallback
         ;
 
-        $image = $cover->thumb('lesetipps.pdf');
-
-        return Html::img($image->url(), [
-            'class' => $classes,
-            'title' => $this->titleAttribute(),
-            'alt' => $this->altAttribute(),
-            'width' => $image->width(),
-            'height' => $image->height(),
-        ]);
+        return $cover->createImage($classes, 'lesetipps.pdf');
     }
 ];

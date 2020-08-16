@@ -10,7 +10,7 @@
             <div class="mt-12 flex-none text-center">
                 <?php foreach ($editions as $edition) : ?>
                 <a class="inline-block group relative lg:first:ml-12 last:ml-12" href="<?= $edition->url() ?>" target="_blank">
-                    <figure class="w-32 xs:w-40 sm:w-auto shadow-cover rounded-lg">
+                    <figure class="w-32 xs:w-40 sm:w-auto rounded-lg">
                         <?= $edition->getFront('rounded-t-lg') ?>
                         <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= t($edition->edition()->value()) ?></figcaption>
                     </figure>
