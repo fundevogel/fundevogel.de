@@ -9,6 +9,7 @@ import contains from './helpers/contains';
 
 import lazyLoading from './modules/lazyLoading';
 import polyfillSVG from './modules/polyfillSVG';
+import runChartLabels from './modules/chartLabels';
 import runForms from './modules/forms';
 import runScroll from './modules/infiniteScroll';
 import runLightbox from './modules/lightBox';
@@ -133,6 +134,11 @@ class App {
                     runForms(page);
                 }
 
+                // Coloring chart labels
+                if (template === 'dependencies') {
+                    runChartLabels(page);
+                }
+
                 // Slider
                 if (contains(this.hasSlider, template)) {
                     runSlider(page, template);
@@ -167,7 +173,10 @@ class App {
                 barba.wrapper.classList.remove('app:is-animating');
             });
 
-            barba.init({debug: true});
+            barba.init({
+                debug: true,
+                timeout: 5000,
+            });
         } catch (err) {
             console.error(err);
         }
