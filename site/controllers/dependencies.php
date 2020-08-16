@@ -172,7 +172,7 @@ return function ($kirby, $page) {
 
 
     # Add lines of code
-    exec('cd ' . $kirby->root('base') . ' && bash toolset/lines_of_code.bash', $outputLines);
+    exec('cd ' . $kirby->root('base') . ' && bash lib/toolset/lines_of_code.bash', $outputLines);
 
     if (is_array($outputLines) && count($outputLines) >= 1) {
         $source['loc'] = (string) $outputLines[0];
@@ -180,7 +180,7 @@ return function ($kirby, $page) {
 
 
     # Add average commits/month for last three months
-    exec('cd ' . $kirby->root('base') . ' && bash toolset/average_commits_per_month.bash', $outputCommits);
+    exec('cd ' . $kirby->root('base') . ' && bash lib/toolset/average_commits_per_month.bash', $outputCommits);
 
     if (is_array($outputCommits) && count($outputCommits) >= 1) {
         $source['activity'] = (string) $outputCommits[0];

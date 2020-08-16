@@ -25,10 +25,10 @@
 
 # Toolset
 # ---------------
-/toolset/*
-!/toolset/*.py
-!/toolset/*.bash
-!/toolset/graveyard
+/lib/toolset/*
+!/lib/toolset/*.py
+!/lib/toolset/*.bash
+!/lib/toolset/graveyard
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
