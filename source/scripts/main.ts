@@ -48,7 +48,6 @@ class App {
         ];
 
         this.hasSlider = [
-            'about',
             'assortment.single',
             'lesetipps.article',
             'calendar.single',
@@ -146,7 +145,7 @@ class App {
 
                 // Lightbox
                 if (contains(this.hasLightbox, template)) {
-                    runLightbox(page);
+                    runLightbox(page, template);
                 }
 
                 // Masonry

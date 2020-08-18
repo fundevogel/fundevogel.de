@@ -20,9 +20,9 @@ return [
         'cover' => ['width' => 460],
         'cover.blurry' => ['width' => 460, 'blur' => true],
         'cover.460' => ['width' => 460],
-        'cover.400' => ['width' => 400],
+        'cover.420' => ['width' => 420],
         'cover.340' => ['width' => 340],
-        'cover.280' => ['width' => 280],
+        'cover.260' => ['width' => 260],
 
         # News
         # Hero image
@@ -42,13 +42,12 @@ return [
         'news.article.image.128' => ['width' => 128, 'crop' => true],
 
         # Fundevogel
-        # Slideshow image
-        'about.slides' => ['width' => 460, 'height' => 400, 'crop' => true],
-        'about.slides.blurry' => ['width' => 460, 'height' => 400, 'crop' => true, 'blur' => true],
-        'about.slides.460' => ['width' => 460, 'height' => 460, 'crop' => true],
-        'about.slides.400' => ['width' => 400, 'height' => 400, 'crop' => true],
-        'about.slides.340' => ['width' => 340, 'height' => 340, 'crop' => true],
-        'about.slides.280' => ['width' => 280, 'height' => 280, 'crop' => true],
+        'about.cover' => ['width' => 460, 'height' => 400, 'crop' => true],
+        'about.cover.blurry' => ['width' => 460, 'height' => 400, 'crop' => true, 'blur' => true],
+        'about.cover.460' => ['width' => 460, 'height' => 400, 'crop' => true],
+        'about.cover.420' => ['width' => 420, 'height' => 360, 'crop' => true],
+        'about.cover.340' => ['width' => 340, 'height' => 294, 'crop' => true],
+        'about.cover.260' => ['width' => 260, 'height' => 224, 'crop' => true],
         # Team avatar images
         'about.team' => ['width' => 120, 'height' => 120, 'crop' => true],
         'about.team.blurry' => ['width' => 120, 'height' => 120, 'crop' => true, 'blur' => true],
@@ -99,10 +98,10 @@ return [
     ],
 
     'sizes' => [
-        'cover' => [460, 400, 340, 280],
+        'cover' => [460, 420, 340, 260],
         'news.hero' => [960, 768, 640, 480, 320, 240],
         'news.article.image' => [224, 192, 128],
-        'about.slides' => [460, 400, 340, 280],
+        'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
         'assortment.navigation' => [416, 374, 320, 272, 192, 132],
         'lesetipps.pdf' => [200, 160, 128],

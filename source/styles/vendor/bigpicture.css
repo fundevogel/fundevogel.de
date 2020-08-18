@@ -70,7 +70,7 @@
 }
 
 .bp-caption {
-  @apply p-4;
+  @apply py-2;
   @apply bg-red-medium;
   @apply text-center;
   @apply text-lg;
