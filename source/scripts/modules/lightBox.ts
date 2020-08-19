@@ -5,43 +5,51 @@ import forEach from '../helpers/forEach';
 import { stringify } from 'querystring';
 
 export default (container: HTMLElement, template: string = '') => {
+    let options = {
+        loop: true,
+
+        // Prevent scrollbar overflow
+        animationStart: () => {
+            document.documentElement.style.overflowY = 'hidden';
+            document.body.style.overflowY = 'scroll';
+        },
+        onClose: () => {
+            document.documentElement.style.overflowY = 'auto';
+            document.body.style.overflowY = 'auto';
+        },
+    };
+
     forEach(container.querySelectorAll('.js-lightbox'), (value: HTMLElement, index: number) => {
-        value.addEventListener('click', () => {
-            let defaults = {
-                el: value,
-                gallery: value.querySelectorAll('img'),
-                loop: true,
+        const images = value.querySelectorAll('img');
 
-                // Prevent scrollbar overflow
-                animationStart: () => {
-                    document.documentElement.style.overflowY = 'hidden';
-                    document.body.style.overflowY = 'scroll';
-                },
-                onClose: () => {
-                    document.documentElement.style.overflowY = 'auto';
-                    document.body.style.overflowY = 'auto';
-                },
-            };
+        options = Object.assign(options, {
+            gallery: images,
+        });
 
-            if (template === 'about') {
-                const images = value.dataset.images.split(';');
-                const captions = value.dataset.captions.split(';');
+        if (template === 'about') {
+            const urls = value.dataset.images.split(';');
+            const captions = value.dataset.captions.split(';');
 
-                const array: {src: string, caption: string}[] = [];
+            const items: {src: string, caption: string}[] = [];
 
-                forEach(images, (url: string, index: number) => {
-                    array.push({
-                        src: url,
-                        caption: captions[index],
-                    })
-                });
+            forEach(urls, (url: string, index: number) => {
+                items.push({
+                    src: url,
+                    caption: captions[index],
+                })
+            });
 
-                defaults = Object.assign(defaults, {
-                    gallery: array,
-                });
-            }
+            options = Object.assign(options, {
+                gallery: items,
+            });
+        }
 
-            BigPicture(defaults);
-        }, false);
+        forEach(images, (image: HTMLElement, index: number) => {
+            image.addEventListener('click', (e) => {
+                BigPicture(Object.assign(options, {
+                    el: e.target,
+                }));
+            }, false);
+        });
     });
 };
