@@ -9,7 +9,7 @@
             </div>
             <div class="mt-12 lg:ml-12 flex-none flex justify-center">
                 <?php foreach ($editions as $edition) : ?>
-                <a class="group relative last:ml-10" href="<?= $edition->url() ?>" target="_blank">
+                <a class="last:ml-10 group table relative" href="<?= $edition->url() ?>" target="_blank">
                     <figure class="w-24 xs:w-40 sm:w-auto rounded-lg">
                         <?= $edition->getFront('rounded-t-lg') ?>
                         <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= t($edition->edition()->value()) ?></figcaption>
