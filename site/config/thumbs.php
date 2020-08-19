@@ -55,14 +55,13 @@ return [
 
         # Assortment
         # Navigation images
-        'assortment.navigation' => ['width' => 374, 'height' => 280, 'crop' => true,],
-        'assortment.navigation.blurry' => ['width' => 374, 'height' => 280, 'crop' => true, 'blur' => true],
-        'assortment.navigation.416' => ['width' => 416, 'height' => 312, 'crop' => true,],
-        'assortment.navigation.374' => ['width' => 374, 'height' => 280, 'crop' => true,],
-        'assortment.navigation.320' => ['width' => 320, 'height' => 240, 'crop' => true,],
-        'assortment.navigation.272' => ['width' => 272, 'height' => 204, 'crop' => true,],
-        'assortment.navigation.192' => ['width' => 192, 'height' => 144, 'crop' => true,],
-        'assortment.navigation.132' => ['width' => 132, 'height' => 99, 'crop' => true,],
+        'assortment.navigation' => ['width' => 440, 'height' => 320, 'crop' => true,],
+        'assortment.navigation.blurry' => ['width' => 440, 'height' => 320, 'crop' => true, 'blur' => true],
+        'assortment.navigation.440' => ['width' => 440, 'height' => 320, 'crop' => true,],
+        'assortment.navigation.400' => ['width' => 400, 'height' => 300, 'crop' => true,],
+        'assortment.navigation.346' => ['width' => 346, 'height' => 250, 'crop' => true,],
+        'assortment.navigation.282' => ['width' => 282, 'height' => 204, 'crop' => true,],
+        'assortment.navigation.202' => ['width' => 202, 'height' => 146, 'crop' => true,],
 
         # Lesetipps
         # Reading list cover images
@@ -89,12 +88,12 @@ return [
 
         # Calendar
         # Gallery slide images
-        'calendar.single.gallery' => ['width' => 320],
-        'calendar.single.gallery.blurry' => ['width' => 320, 'blur' => true],
-        'calendar.single.gallery.320' => ['width' => 320],
-        'calendar.single.gallery.280' => ['width' => 280],
-        'calendar.single.gallery.220' => ['width' => 220],
-        'calendar.single.gallery.160' => ['width' => 160],
+        'calendar.single.gallery' => ['width' => 312],
+        'calendar.single.gallery.blurry' => ['width' => 312, 'blur' => true],
+        'calendar.single.gallery.312' => ['width' => 312],
+        'calendar.single.gallery.288' => ['width' => 288],
+        'calendar.single.gallery.200' => ['width' => 200],
+        'calendar.single.gallery.120' => ['width' => 120],
     ],
 
     'sizes' => [
@@ -103,11 +102,11 @@ return [
         'news.article.image' => [224, 192, 128],
         'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
-        'assortment.navigation' => [416, 374, 320, 272, 192, 132],
+        'assortment.navigation' => [440, 400, 346, 282, 202],
         'lesetipps.pdf' => [200, 160, 128],
         'lesetipps.article.cover-normal' => [300, 240, 160],
         'lesetipps.article.cover-square' => [300, 240, 160],
         'lesepeter.mascot' => [150, 112],
-        'calendar.single.gallery' => [320, 280, 220, 160],
+        'calendar.single.gallery' => [312, 288, 200, 120],
     ]
 ];

@@ -50,12 +50,14 @@ class App {
         this.hasSlider = [
             'assortment.single',
             'lesetipps.article',
-            'calendar.single',
         ];
 
         this.hasMasonry = [
             'about.team',
+            'assortment',
+            'assortment.single',
             'calendar',
+            'calendar.single',
             'grid-list',
         ];
     }
