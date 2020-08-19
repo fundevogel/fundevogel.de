@@ -6,13 +6,6 @@
   @apply opacity-0;
 }
 
-.bp-container > *,
-.bp-loader {
-  @apply absolute;
-  @apply right-0;
-  @apply z-10;
-}
-
 .bp-container,
 .bp-caption,
 .bp-container svg {
@@ -29,14 +22,17 @@
 }
 
 .bp-loader {
-  align-items: center;
+  @apply flex;
+  @apply items-center;
+  @apply absolute;
+  @apply top-0;
+  @apply right-0;
+  @apply bottom-0;
+  @apply left-0;
+  @apply z-10;
+
   background: 0;
-  bottom: 0;
   cursor: wait;
-  display: flex;
-  left: 0;
-  top: 0;
-  z-index: 9;
 }
 
 .bp-loader svg {
@@ -138,18 +134,34 @@
   @apply opacity-0;
 }
 
+.bp-image {
+  @apply rounded-lg;
+  @apply right-0;
+  @apply absolute;
+}
+
+.bp-button-wrap {
+  @apply h-screen;
+  @apply flex;
+  @apply items-center;
+  @apply absolute;
+  @apply top-0;
+  @apply bottom-0;
+}
+
+.bp-button-wrap.right {
+  @apply right-0;
+}
+
+.bp-button-wrap.left {
+  @apply left-0;
+}
+
 .bp-button {
   @apply my-24;
-  @apply absolute;
   @apply outline-none;
   @apply cursor-pointer;
 
-  background: 0;
-  border: 0;
-  top: 50%;
-  top: calc(50% - 8rem);
-  outline: 0;
-  position: absolute;
   transition: all 0.1s;
 }
 
@@ -162,6 +174,7 @@
 .bp-arrow {
   @apply px-6;
   @apply py-4;
+  @apply table;
 }
 
 .bp-button.left {
