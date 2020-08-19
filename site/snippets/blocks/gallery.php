@@ -1,4 +1,7 @@
-<?php if ($data->gallery()->isNotEmpty()) : ?>
+<?php
+    if ($data->gallery()->isNotEmpty()) :
+    $gallery = $data->gallery()->toFiles();
+?>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top-reversed') ?>
     <div class="inner">
@@ -6,17 +9,11 @@
             <?= useSVG(t('Eindrücke'), 'wave-icon', 'camera-filled') ?>
         </div>
         <h2 class="wave-title"><?= t('Eindrücke') ?></h2>
-        <div class="js-lightbox mb-10 flex items-center">
-            <div class="js-slider swiper-container">
-                <div class="swiper-wrapper swiper-wrapper-gallery">
-                    <?php foreach ($data->gallery()->toFiles() as $image) : ?>
-                    <div class="swiper-slide">
-                        <div class="">
-                            <?= $image->createImage('mx-6 rounded-lg cursor-pointer', 'calendar.single.gallery', true) ?>
-                        </div>
-                    </div>
-                    <?php endforeach ?>
-                </div>
+        <div class="container">
+            <div class="js-masonry js-lightbox">
+                <?php foreach ($gallery as $image) : ?>
+                <?= $image->createImage('rounded-lg cursor-pointer', 'calendar.single.gallery', true) ?>
+                <?php endforeach ?>
             </div>
         </div>
     </div>

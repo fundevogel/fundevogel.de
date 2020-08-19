@@ -129,16 +129,7 @@ Favorites:
   age: ab 8 Jahren
   price: 12,95
   binding: CD
-  text: >
-    Das Leben ist leicht, solange man auf
-    einer Flussinsel liegt, Fische grillt,
-    Pfeife raucht und sich Geschichten
-    erzählt. Aber das angenehme Leben von
-    Huckleberry Finn und dem geflohenen
-    Sklaven Jim hat ein Ende, als sie zwei
-    Hochstaplern begegnen. Können sie dem
-    "Herzog" und dem "König" das
-    betrügerische Handwerk legen?
+  text: 'Das Leben ist leicht, solange man auf einer Flussinsel liegt, Fische grillt, Pfeife raucht und sich Geschichten erzählt. Aber das angenehme Leben von Huckleberry Finn und dem geflohenen Sklaven Jim hat ein Ende, als sie zwei Hochstaplern begegnen. Können sie dem "Herzog" und dem "König" das betrügerische Handwerk legen?'
   delimiter: null
 -
   title: ""
@@ -160,21 +151,7 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: CD
-  text: >
-    "Ich geh in die Stadt!", sagt der kleine
-    Bauernjunge Trenk zu seiner Schwester
-    Mia-Mina und macht sich heimlich mit
-    seinem treuen Ferkelchen auf den Weg.
-    Und weil Trenk so schlau und mutig ist,
-    wird er schon bald zum tapferen
-    Ritterlehrling. Er schließt
-    Freundschaft mit einer lustigen
-    Gauklertruppe und dem kleinen
-    Ritterfräulein Thekla, trifft auf wilde
-    Räuber und gütige Fürsten und macht
-    im düsteren Wald die ungewöhnliche
-    Bekanntschaft mit einem ganz besonderen
-    Drachen.
+  text: '"Ich geh in die Stadt!", sagt der kleine Bauernjunge Trenk zu seiner Schwester Mia-Mina und macht sich heimlich mit seinem treuen Ferkelchen auf den Weg. Und weil Trenk so schlau und mutig ist, wird er schon bald zum tapferen Ritterlehrling. Er schließt Freundschaft mit einer lustigen Gauklertruppe und dem kleinen Ritterfräulein Thekla, trifft auf wilde Räuber und gütige Fürsten und macht im düsteren Wald die ungewöhnliche Bekanntschaft mit einem ganz besonderen Drachen.'
   delimiter: null
 -
   title: Harry Potter
@@ -197,18 +174,7 @@ Favorites:
   age: ab 10 Jahren
   price: 29,95
   binding: CD
-  text: >
-    Harry Potter hat sich bisher für einen
-    ganz normalen Jungen gehalten. Er hat
-    sich getäuscht! Er ist ein Zauberer, in
-    den die magische Welt große Hoffnungen
-    setzt. Er muss die Zauberei von der Pike
-    auf lernen, viele Abenteuer bestehen und
-    er gewinnt vor allem gute Freunde. So
-    ganz nebenbei rettet er die Welt der
-    guten Zauberer und Hexen vor dem
-    Untergang, aber das ist fast schon
-    selbstverständlich.
+  text: 'Harry Potter hat sich bisher für einen ganz normalen Jungen gehalten. Er hat sich getäuscht! Er ist ein Zauberer, in den die magische Welt große Hoffnungen setzt. Er muss die Zauberei von der Pike auf lernen, viele Abenteuer bestehen und er gewinnt vor allem gute Freunde. So ganz nebenbei rettet er die Welt der guten Zauberer und Hexen vor dem Untergang, aber das ist fast schon selbstverständlich.'
   delimiter: null
 
 ----

@@ -70,14 +70,23 @@
 }
 
 .bp-caption {
-  @apply p-4;
+  @apply pt-1;
+  @apply pb-2;
   @apply bg-red-medium;
   @apply text-center;
-  @apply text-lg;
   @apply text-white;
+  @apply text-sm;
 
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   transition: opacity 0.3s;
+}
+
+@screen lg {
+  .bp-caption {
+    @apply pt-2;
+    @apply pb-4;
+    @apply text-lg;
+  }
 }
 
 .bp-aud {

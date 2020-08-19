@@ -6,8 +6,8 @@
             <?= useSVG($data->heading()->html(), 'wave-icon', 'star') ?>
         </div>
         <h2 class="wave-title"><?= $data->heading()->html() ?></h2>
-        <div class="js-slider swiper-container mb-10">
-            <div class="swiper-wrapper">
+        <div class="js-slider mb-10 overflow-hidden">
+            <div class="flex">
                 <?php
                     foreach ($data->books()->toStructure() as $book) :
                     $bookTitle = $book->book_subtitle()->isNotEmpty()
@@ -17,7 +17,7 @@
 
                     if ($image = $book->book_cover()->toFile()) :
                 ?>
-                <div class="swiper-slide">
+                <div class="min-w-full relative">
                     <div class="container">
                         <div class="flex flex-col lg:flex-row">
                             <div class="flex-none flex justify-center">
@@ -53,7 +53,7 @@
                     endforeach;
                 ?>
             </div>
-            <div class="js-controls swiper-controls">
+            <div class="js-controls mt-12 mb-px flex justify-center">
                 <?php foreach ($data->books()->toStructure() as $book) : ?>
                 <span
                     class="js-tippy mx-1 inline-block w-4 h-4 bg-red-light hover:bg-red-medium rounded-full cursor-pointer transition-all"
@@ -61,9 +61,7 @@
                     data-tippy-placement="bottom"
                     data-tippy-theme="fundevogel red"
                 ></span>
-                <?php
-                    endforeach
-                ?>
+                <?php endforeach ?>
             </div>
         </div>
     </div>

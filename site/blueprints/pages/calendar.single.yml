@@ -31,5 +31,13 @@ tabs:
             image:
               ratio: 2/1
 
+          previewImage:
+            extends: fields/single-cover
+            label:
+              de: Vorschaubild
+              en: Preview image
+            image:
+              ratio: 2/1
+
   # Metadata
   tab_seo: tabs/seo

@@ -82,6 +82,12 @@ Cover:
 
 ----
 
+Previewimage:
+
+- vorm-theater-lirum-larum.jpg
+
+----
+
 Seotitle: Freiburger Kinderliteraturfest "Lirum Larum Lesefest"
 
 ----

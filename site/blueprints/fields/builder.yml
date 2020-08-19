@@ -43,7 +43,8 @@ fieldsets:
           en: Horizontal line?
         width: 1/4
 
-      gallery: fields/gallery
+      gallery:
+        extends: fields/gallery
 
   books:
     name: Büchergalerie

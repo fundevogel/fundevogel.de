@@ -54,9 +54,12 @@
                         foreach ($annualEvents as $annualEvent) :
                     ?>
                     <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
+                        <div class="mb-8 text-center">
+                            <?= $annualEvent->getPreview() ?>
+                        </div>
                         <h3 class="text-orange-medium"><?= $annualEvent->title()->html() ?></h3>
                         <?= $annualEvent->short()->kt() ?>
-                        <?= $annualEvent->moreLink('font-bold font-small-caps text-sm text-orange-medium hover:text-orange-dark outline-none') ?>
+                        <?= $annualEvent->moreLink('mt-4 block font-bold font-small-caps text-sm text-orange-medium hover:text-orange-dark outline-none') ?>
                     </div>
                     <?php
                         $count++;

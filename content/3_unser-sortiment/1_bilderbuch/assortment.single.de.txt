@@ -5,7 +5,7 @@ Title: Bilderbuch
 Text:
 
 ## Bunte Bilderwunderwelt
-Kommt mit auf eine phantastische Reise zwischen die Buchdeckel unserer liebsten Bilderbuchgeschichten, deren farbenprächtigen Bilder und freundlichen Bewohner zum Staunen, Entdecken, Phantasieren, Erzählen und Verweilen einladen:
+Kommt mit auf eine phantastische Reise zwischen die Buchdeckel unserer liebsten Bilderbuchgeschichten, deren farbenprächtige Illustrationen und freundliche Bewohner zum Staunen, Entdecken, Phantasieren, Erzählen und Verweilen einladen:
 
 Im Mittelpunkt der ersten Lesejahre steht das Bilderbuch - denn "lesen" braucht keine Buchstaben! Staunend betrachten Kinder die Welt und erkunden sie voller Freude mit all ihren Sinnen. Für die Allerkleinsten haben wir daher viele anregende Stoff- und Pappbilderbücher, die sie mit viel Vergnügen fühlen, klappen, drehen und erforschen können.
 
@@ -68,12 +68,7 @@ Favorites:
   age: ab 4 Jahren
   price: 6,50
   binding: kartoniert
-  text: >
-    "Macht die Augen zu", sagte Frederick
-    und kletterte auf einen großen Stein.
-    "Jetzt schicke ich euch die
-    Sonnenstrahlen. Fühlt ihr schon, wie
-    warm sie sind? Schön warm und golden."
+  text: '"Macht die Augen zu", sagte Frederick und kletterte auf einen großen Stein. "Jetzt schicke ich euch die Sonnenstrahlen. Fühlt ihr schon, wie warm sie sind? Schön warm und golden."'
   delimiter: null
 -
   title: 'Petterson & Findus'
@@ -118,21 +113,11 @@ Favorites:
   age: ab 3 Jahren
   price: 20,00
   binding: gebunden
-  text: >
-    Die drei Räuber überfallen Kutschen
-    und berauben die Reisenden. Wirklich
-    sehr bös. Aber als sie eines Tages auf
-    das kleine Waisenmädchen Tiffany
-    treffen, suchen sie gleich nach anderen
-    unglücklichen Kindern, für die sie ein
-    prächtiges Schloss kaufen und
-    schließlich eine ganze Stadt gründen.
+  text: 'Die drei Räuber überfallen Kutschen und berauben die Reisenden. Wirklich sehr bös. Aber als sie eines Tages auf das kleine Waisenmädchen Tiffany treffen, suchen sie gleich nach anderen unglücklichen Kindern, für die sie ein prächtiges Schloss kaufen und schließlich eine ganze Stadt gründen.'
   delimiter: null
 -
   title: Willkommen in Wimmlingen!
-  quote: >
-    Eintauchen in Bilder, die Geschichten
-    erzählen. Es gibt so viel zu entdecken!
+  quote: 'Eintauchen in Bilder, die Geschichten erzählen. Es gibt so viel zu entdecken!'
   person: Helena K.
   isseries: 'true'
   more_options: 'true'
@@ -177,38 +162,8 @@ Favorites:
   text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern. "Das ist eine Bibliothek", erklärt die Maus. "Pippi .. was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
   delimiter: null
 -
-  title: Billy, der Hamster
-  quote: ""
-  person: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-89565-235-6
-  book_cover:
-    - pfoten-hoch_catharina-valckx.jpg
-  book_title: Pfoten hoch!
-  book_subtitle: ""
-  author: Catharina Valckx
-  illustrator: ""
-  translator: Julia Süßbrich
-  participants: ""
-  page_count: "36"
-  publisher: Moritz
-  age: ab 4 Jahren
-  price: 12,95
-  binding: gebunden
-  text: 'Billy hat einen berühmten Gangster zum Papa. Der möchte unbedingt, dass auch Billy später mal Gangster wird. Aber Billy ist ihm nicht böse genug. So staffiert er seinen Sohn mit einem (ungeladenen) Revolver aus und schickt ihn in die Welt: "Es kommt darauf an, dass man Angst vor dir bekommt. Üb das erst mal." Voller Bammel macht Billy sich auf den Weg. "Pfoten hoch!", sagt er zum Regenwurm (der keine solchen hat), zur Maus (die ihn nicht ernst nimmt) und zum Hasen (der ihn nicht beachtet). Nur der fiese Fuchs (der den Hasen gejagt hatte) fürchtet sich vor dem Revolver und wird von Billy außer Gefecht gesetzt. Billy ist ein Held! Aber Gangster wird er deswegen noch lange nicht ..'
-  delimiter: null
--
   title: ""
-  quote: >
-    Ein Bilderbuch mit bemerkenswerten
-    Illustrationen über ein mutiges
-    Mädchen, das die Grenze zwischen
-    Wachsein und Nichtmehrwachsein
-    beschreitet, ein Licht in die Dunkelheit
-    trägt – und unterwegs weitaus
-    interessantere Wesen kennenlernt als zu
-    zählende Schäfchen.
+  quote: 'Ein Bilderbuch mit bemerkenswerten Illustrationen über ein mutiges Mädchen, das die Grenze zwischen Wachsein und Nichtmehrwachsein beschreitet, ein Licht in die Dunkelheit trägt – und unterwegs weitaus interessantere Wesen kennenlernt als zu zählende Schäfchen.'
   person: Carola M.
   isseries: 'false'
   more_options: 'true'
@@ -227,15 +182,7 @@ Favorites:
   age: ab 3 Jahren
   price: 14,95
   binding: gebunden
-  text: >
-    Was hält die Dunkelheit bereit? Was
-    gibt es zu entdecken, wenn eigentlich
-    Zeit zum Schlafen ist, die Augen aber
-    einfach nicht zufallen wollen? Für
-    Elisa am liebsten den
-    Schlummerdschungel. Mit ihrer Laterne
-    erkundet sie dieses sonderbare Land auf
-    dem Weg in die Welt der Träume!
+  text: 'Was hält die Dunkelheit bereit? Was gibt es zu entdecken, wenn eigentlich Zeit zum Schlafen ist, die Augen aber einfach nicht zufallen wollen? Für Elisa am liebsten den Schlummerdschungel. Mit ihrer Laterne erkundet sie dieses sonderbare Land auf dem Weg in die Welt der Träume!'
   delimiter: null
 
 ----

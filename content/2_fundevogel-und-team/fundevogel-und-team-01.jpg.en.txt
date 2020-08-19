@@ -14,7 +14,7 @@ Caption-wanted: false
 
 ----
 
-Caption: Vorderer Bereich des Ladens mit Tisch zu wechselnden Themen
+Caption: Area next to the counter
 
 ----
 

@@ -14,7 +14,7 @@ Caption-wanted: false
 
 ----
 
-Caption: Vorderer Bereich des Ladens mit Tisch zu wechselnden Themen
+Caption: Affichage changeant de livres et de bricolages près de l'entrée
 
 ----
 

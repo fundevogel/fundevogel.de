@@ -14,7 +14,7 @@ Caption-wanted: false
 
 ----
 
-Caption: Vorderer Bereich des Ladens mit Tisch zu wechselnden Themen
+Caption: Une partie de la librairie vue d'un côté
 
 ----
 

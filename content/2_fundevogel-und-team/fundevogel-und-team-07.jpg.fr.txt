@@ -14,7 +14,7 @@ Caption-wanted: false
 
 ----
 
-Caption: Vorderer Bereich des Ladens mit Tisch zu wechselnden Themen
+Caption: Zone avant de la librairie avec table sur les sujets changeants
 
 ----
 
