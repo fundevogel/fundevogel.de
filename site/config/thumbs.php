@@ -87,6 +87,10 @@ return [
         'lesepeter.mascot.112' => ['width' => 112],
 
         # Calendar
+        # Annual event thumbnail images
+        'calendar.single.preview' => ['width' => 160, 'crop' => true],
+        'calendar.single.preview.blurry' => ['width' => 160, 'crop' => true, 'blur' => true],
+        'calendar.single.preview.160' => ['width' => 160, 'crop' => true],
         # Gallery slide images
         'calendar.single.gallery' => ['width' => 312],
         'calendar.single.gallery.blurry' => ['width' => 312, 'blur' => true],
@@ -107,6 +111,7 @@ return [
         'lesetipps.article.cover-normal' => [300, 240, 160],
         'lesetipps.article.cover-square' => [300, 240, 160],
         'lesepeter.mascot' => [150, 112],
+        'calendar.single.preview' => [160],
         'calendar.single.gallery' => [312, 288, 200, 120],
     ]
 ];
