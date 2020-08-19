@@ -1,113 +1,100 @@
-// @ts-ignore
-import Swiper, {Autoplay, Pagination, EffectFade} from 'swiper';
+import EmblaCarousel from 'embla-carousel';
 
 import forEach from '../helpers/forEach';
 
-function getPreset(element: HTMLElement, template: string) {
-    const defaults = {
-        init: false,
-        speed: 2500,
-        loop: true,
-        simulateTouch: false,
-        autoplay: {
-            delay: template === 'about' ? 3500 : 4500,
-        },
+// @ts-ignore
+function autoplay (embla, interval: number) {
+    let timer = 0;
+
+    const play = () => {
+        stop();
+        requestAnimationFrame(() => (timer = window.setTimeout(next, interval)));
     };
 
-    const presets: Record<string, any>= {
-        'about': {
-            speed: 1000,
-            effect: 'fade',
-        },
-        'calendar.single': {
-            slidesPerView: 2,
-            slidesPerGroup: 1,
-            breakpoints: {
-                1024: {
-                    slidesPerView: 3,
-                },
-                1280: {
-                    slidesPerView: 4,
-                    slidesPerGroup: 2,
-                },
-            },
-            spaceBetween: 40,
-            centeredSlides: true,
-        },
+    const stop = () => {
+        window.clearTimeout(timer);
+        timer = 0;
     };
 
-    // Common preset for 'assortment.single' & 'lesetipps.article'
-    if (template === 'assortment.single' || template === 'lesetipps.article') {
-        return Object.assign(defaults, {
-            speed: 1500,
-        });
-    }
+    const next = () => {
+        if (embla.canScrollNext()) {
+            embla.scrollNext();
+        } else {
+            embla.scrollTo(0);
+        }
 
-    return Object.assign(defaults, presets[template]);
-}
+        play();
+    };
+
+    return {play, stop};
+};
 
 export default (container: HTMLElement, template: string) => {
     forEach(container.querySelectorAll('.js-slider'), (value: HTMLElement, index: number) => {
-        // Use modules
-        Swiper.use([Autoplay, Pagination, EffectFade]);
+        const options = {
+            speed: 4,
+            loop: true,
+            delay: 4500,
+        };
 
-        const options = getPreset(value, template);
-        const swiper = new Swiper(value, options);
+        const embla = EmblaCarousel(value, options);
+        const autoplayer = autoplay(embla, options.delay);
+
+        // Start autoplay function upon init
+        embla.on('init', autoplayer.play);
+
+        // Resume autoplay after swiping
+        embla.on('select', () => {
+            autoplayer.stop();
+        });
+
+        embla.on('settle', () => {
+            autoplayer.play();
+        });
+
+        // Stop on mouse hover, resume after it's gone
+        value.addEventListener('mouseenter', () => {
+            autoplayer.stop();
+        });
+
+        value.addEventListener('mouseleave', () => {
+            autoplayer.play();
+        });
 
         if (template === 'assortment.single' || template === 'lesetipps.article') {
             const pagination = value.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
 
+            // Add active class upon init
+            embla.on('init', () => {
+                forEach(bullets, (bullet: HTMLElement, index: number) => {
+                    if (embla.selectedScrollSnap() === index) {
+                        bullet.classList.add('bg-red-medium');
+                    }
+                });
+            });
+
+            // Add active class while autoplay is running
+            embla.on('scroll', () => {
+                forEach(bullets, (bullet: HTMLElement, index: number) => {
+                    bullet.classList.remove('bg-red-medium');
+
+                    if (embla.selectedScrollSnap() === index) {
+                        bullet.classList.add('bg-red-medium');
+                    }
+                });
+            });
+
+            // Add active class upon click on dot
             forEach(bullets, (bullet: HTMLElement, index: number) => {
-                bullet.addEventListener('click', (e) => {
+                bullet.addEventListener('click', () => {
                     forEach(bullets, (sibling: HTMLElement, index: number) => {
-                        sibling.classList.remove('is-active');
+                        sibling.classList.remove('bg-red-medium');
                     });
 
-                    bullet.classList.add('is-active');
-                    swiper.slideTo(index + 1);
+                    bullet.classList.add('bg-red-medium');
+                    embla.scrollTo(index);
                 });
-            });
-
-            swiper.on('init', () => {
-                forEach(bullets, (bullet: HTMLElement, index: number) => {
-                    if (swiper.realIndex === index) {
-                        bullet.classList.add('is-active');
-                    }
-                });
-            });
-
-            swiper.on('slideChange', () => {
-                forEach(bullets, (bullet: HTMLElement, index: number) => {
-                    bullet.classList.remove('is-active');
-
-                    if (swiper.realIndex === index) {
-                        bullet.classList.add('is-active');
-                    }
-                });
-
-                if (!swiper.autoplay.running) {
-                    swiper.autoplay.start();
-                }
-            });
-        }
-
-        // Resume autoplay after swiping (touch-only)
-        swiper.on('slideChangeTransitionEnd', () => {
-            swiper.autoplay.start();
-        });
-
-        // @ts-ignore
-        swiper.init();
-
-        // Stop on mouse hover, resume after it's gone
-        if (swiper.autoplay.running) {
-            value.addEventListener('mouseenter', () => {
-                swiper.autoplay.stop();
-            });
-
-            value.addEventListener('mouseleave', () => {
-                swiper.autoplay.start();
             });
         }
     });

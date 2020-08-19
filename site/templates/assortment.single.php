@@ -23,8 +23,8 @@
                 <?= useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
             </div>
             <h2 class="wave-title"><?= t('Auswahl unserer Lieblinge') ?></h2>
-            <div class="js-slider swiper-container mb-10">
-                <div class="swiper-wrapper">
+            <div class="js-slider mb-10 overflow-hidden">
+                <div class="flex">
                     <?php
                         foreach ($favorites as $favorite) :
                         $favoriteTitle = $favorite->title()->isNotEmpty()
@@ -34,7 +34,7 @@
 
                         if ($image = $favorite->book_cover()->toFile()) :
                     ?>
-                    <div class="swiper-slide">
+                    <div class="min-w-full relative">
                         <div class="container">
                             <div class="flex flex-col lg:flex-row">
                                 <div class="flex-none flex justify-center">
@@ -76,7 +76,7 @@
                         endforeach;
                     ?>
                 </div>
-                <div class="js-controls swiper-controls">
+                <div class="js-controls mt-12 mb-px flex justify-center">
                     <?php
                         foreach ($favorites as $favorite) :
                         $favoriteTitle = $favorite->title()->isNotEmpty()
@@ -90,9 +90,7 @@
                         data-tippy-placement="bottom"
                         data-tippy-theme="fundevogel red"
                     ></span>
-                    <?php
-                        endforeach
-                    ?>
+                    <?php endforeach ?>
                 </div>
             </div>
         </div>
