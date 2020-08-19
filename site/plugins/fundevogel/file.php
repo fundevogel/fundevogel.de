@@ -11,13 +11,13 @@ return [
             : $this->titleAttribute() . ' - ' . $this->source()
         ;
 
-        $attributes = A::update([
+        $attributes = [
             'class' => $classes,
             'title' => $title,
             'alt' => $alt,
             'width' => $image->width(),
             'height' => $image->height(),
-        ], $extra);
+        ];
 
         if ($noLazy === false) {
             $attributes = A::update($attributes, [
@@ -39,7 +39,7 @@ return [
 
         return snippet('webPicture', [
             'src' => $this,
-            'tag' => Html::img($source, $attributes),
+            'tag' => Html::img($source, A::update($attributes, $extra)),
             'sizes' => option('thumbs.sizes')[$preset],
             'preset' => $preset,
             'noLazy' => $noLazy,
