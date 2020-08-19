@@ -7,11 +7,11 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mt-12 flex-none flex justify-center items-center">
-                <figure class="js-lightbox lg:ml-12 rounded-lg relative cursor-pointer" data-images="<?= A::join($imageURLs, ';') ?>" data-captions="<?= A::join($imageCaptions, ';') ?>">
+                <figure class="js-lightbox lg:ml-12 rounded-lg relative" data-images="<?= A::join($imageURLs, ';') ?>" data-captions="<?= A::join($imageCaptions, ';') ?>">
                     <span class="-top-5 -right-5 absolute z-30">
                         <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                     </span>
-                    <div class="group overflow-hidden rounded-lg relative">
+                    <div class="group overflow-hidden rounded-lg relative cursor-pointer">
                         <?= $images->first()->createImage('rounded-lg transition-all', 'about.cover', true) ?>
                         <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow text-center absolute w-full sketch bg-red-medium select-none z-10 transition-all">
                             <?= $caption ?>
