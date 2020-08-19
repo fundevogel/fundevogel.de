@@ -13,7 +13,7 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 Favorites:
 
-- 
+-
   title: ""
   quote: >
     Zeitlos gut! Ein Buch, das voller
@@ -37,7 +37,7 @@ Favorites:
   price: 15,00
   binding: gebunden
   text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
-- 
+-
   title: ""
   quote: ""
   person: ""
@@ -58,25 +58,10 @@ Favorites:
   age: ab 10 Jahren
   price: 12,00
   binding: gebunden
-  text: >
-    Tom Sawyer hat es faustdick hinter den
-    Ohren! Tante Polly hat jedenfalls hat
-    alle Hände voll zu tun, mit ihrem
-    abenteuerlustigen Neffen. Aber man kann
-    schließlich kein Musterschüler sein,
-    wenn man ein gefürchteter Pirat werden
-    will und sich in den Kopf gesetzt hat,
-    einen echten Schatz zu finden. Als Tom
-    und sein bester Freund Huck eines Nacht
-    auf dem Friedhof einen Mord beobachten,
-    geht das Abenteuer am Mississippi erst
-    so richtig los ..
-- 
+  text: 'Tom Sawyer hat es faustdick hinter den Ohren! Tante Polly hat jedenfalls hat alle Hände voll zu tun, mit ihrem abenteuerlustigen Neffen. Aber man kann schließlich kein Musterschüler sein, wenn man ein gefürchteter Pirat werden will und sich in den Kopf gesetzt hat, einen echten Schatz zu finden. Als Tom und sein bester Freund Huck eines Nacht auf dem Friedhof einen Mord beobachten, geht das Abenteuer am Mississippi erst so richtig los ..'
+-
   title: ""
-  quote: >
-    Intelligentere Phantasieliteratur gibt
-    es nicht. Ein Muss für alle
-    Bücherfans!
+  quote: 'Intelligentere Phantasieliteratur gibt es nicht. Ein Muss für alle Bücherfans!'
   person: Helena K.
   isseries: 'false'
   more_options: 'true'
@@ -95,26 +80,8 @@ Favorites:
   age: ""
   price: 28,00
   binding: gebunden
-  text: >
-    Als der Pate des jungen Dichters
-    Hildegunst von Mythenmetz stirbt,
-    hinterlässt er seinem Schützling nur
-    wenig mehr als ein Manuskript. Dieses
-    aber ist so makellos, dass Mythenmetz
-    sich gezwungen sieht, dem Geheimnis
-    seiner Herkunft nachzugehen. Die Spur
-    führt nach Buchhaim, der Stadt der
-    Träumenden Bücher. Einmal in den
-    Klauen dieser buchverrückten Stadt,
-    wird Mythenmetz immer tiefer
-    hineingesogen in ihre labyrinthische
-    Welt, in der Lesen noch eine wirkliche
-    Gefahr ist, in der rücksichtslose
-    Bücherjäger nach bibliophilen
-    Schätzen gieren, Buchlinge ihren
-    Schabernack treiben und der mysteriöse
-    Schattenkönig herrscht ..
-- 
+  text: 'Als der Pate des jungen Dichters Hildegunst von Mythenmetz stirbt, hinterlässt er seinem Schützling nur wenig mehr als ein Manuskript. Dieses aber ist so makellos, dass Mythenmetz sich gezwungen sieht, dem Geheimnis seiner Herkunft nachzugehen. Die Spur führt nach Buchhaim, der Stadt der Träumenden Bücher. Einmal in den Klauen dieser buchverrückten Stadt, wird Mythenmetz immer tiefer hineingesogen in ihre labyrinthische Welt, in der Lesen noch eine wirkliche Gefahr ist, in der rücksichtslose Bücherjäger nach bibliophilen Schätzen gieren, Buchlinge ihren Schabernack treiben und der mysteriöse Schattenkönig herrscht ..'
+-
   title: ""
   quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
   person: Sandra H.
@@ -134,20 +101,8 @@ Favorites:
   age: ab 10 Jahren
   price: 17,90
   binding: gebunden
-  text: >
-    Im winterlichen Venedig treibt eine
-    Kinderbande ihr Unwesen. Sie wird von
-    einem maskierten Unbekannten angeführt.
-    Doch keiner kennt seine Herkunft,
-    niemand hat je sein Gesicht gesehen. Er
-    wird von allen nur "Herr der Diebe"
-    genannt. Eines Tages führt ein
-    rätselhafter Auftrag die Kinder auf
-    eine scheinbar unbewohnte Laguneninsel.
-    Welches Geheimnis birgt diese Insel? Und
-    wer versteckt sich hinter der Maske des
-    Anführers?
-- 
+  text: 'Im winterlichen Venedig treibt eine Kinderbande ihr Unwesen. Sie wird von einem maskierten Unbekannten angeführt. Doch keiner kennt seine Herkunft, niemand hat je sein Gesicht gesehen. Er wird von allen nur "Herr der Diebe" genannt. Eines Tages führt ein rätselhafter Auftrag die Kinder auf eine scheinbar unbewohnte Laguneninsel. Welches Geheimnis birgt diese Insel? Und wer versteckt sich hinter der Maske des Anführers?'
+-
   title: ""
   quote: ""
   person: ""
@@ -171,7 +126,7 @@ Favorites:
   price: 8,99
   binding: kartoniert
   text: 'Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.'
-- 
+-
   title: ""
   quote: ""
   person: ""

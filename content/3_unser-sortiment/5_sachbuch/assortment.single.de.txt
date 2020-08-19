@@ -37,23 +37,7 @@ Favorites:
   age: ab 5 Jahren
   price: 24,95
   binding: gebunden
-  text: >
-    Willkommen im Reich der Bienen! Hier
-    können wir die fleißigen Insekten aus
-    der Nähe betrachten, in einen
-    Bienenstock schauen und alles über das
-    Imkern erfahren. Wer bei Bienen nur an
-    den leckeren Honig denkt, wird staunen!
-    Denn wer hätte gewusst, dass es Bienen
-    schon seit den Dinosauriern gibt? Was es
-    mit dem Bienentanz auf sich hat? Oder
-    warum es ohne die Bienen weniger Äpfel
-    gäbe? Ein wunderbar witziges Buch für
-    große und kleine Bienenfreunde, das mit
-    seinen fröhlich bunten, großformatigen
-    Bildtafeln und vielen erstaunlichen
-    Informationen die Geschichte von Mensch
-    und Honigbiene erzählt.
+  text: 'Willkommen im Reich der Bienen! Hier können wir die fleißigen Insekten aus der Nähe betrachten, in einen Bienenstock schauen und alles über das Imkern erfahren. Wer bei Bienen nur an den leckeren Honig denkt, wird staunen! Denn wer hätte gewusst, dass es Bienen schon seit den Dinosauriern gibt? Was es mit dem Bienentanz auf sich hat? Oder warum es ohne die Bienen weniger Äpfel gäbe? Ein wunderbar witziges Buch für große und kleine Bienenfreunde, das mit seinen fröhlich bunten, großformatigen Bildtafeln und vielen erstaunlichen Informationen die Geschichte von Mensch und Honigbiene erzählt.'
   delimiter: null
 -
   title: ""
@@ -101,21 +85,7 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
-  text: >
-    Haben Bäume eine eigene Sprache?
-    Müssen Baumkinder in die Schule gehen?
-    Warum haben Waldtiere Angst vor
-    Menschen? Peter Wohlleben beantwortet
-    Fragen, die ungewöhnlich, originell und
-    oft sehr lustig sind. Seine leicht
-    verständlichen und fast immer
-    überraschenden Antworten lassen Kinder
-    das Leben im Wald mit ganz anderen Augen
-    sehen. Der begnadete Erzähler schöpft
-    aus seiner jahrzehntelangen Erfahrung
-    als Förster und Naturschützer und
-    stützt sich dabei auf neueste
-    wissenschaftliche Erkenntnisse.
+  text: 'Haben Bäume eine eigene Sprache? Müssen Baumkinder in die Schule gehen? Warum haben Waldtiere Angst vor Menschen? Peter Wohlleben beantwortet Fragen, die ungewöhnlich, originell und oft sehr lustig sind. Seine leicht verständlichen und fast immer überraschenden Antworten lassen Kinder das Leben im Wald mit ganz anderen Augen sehen. Der begnadete Erzähler schöpft aus seiner jahrzehntelangen Erfahrung als Förster und Naturschützer und stützt sich dabei auf neueste wissenschaftliche Erkenntnisse.'
   delimiter: null
 -
   title: ""
@@ -167,11 +137,7 @@ Favorites:
   delimiter: null
 -
   title: ""
-  quote: >
-    Spannend und anschaulich präsentiertes
-    naturwissenschaftliches Fachwissen vom
-    Urknall über die Entstehung des Lebens
-    mit schönen Illustrationen!
+  quote: 'Spannend und anschaulich präsentiertes naturwissenschaftliches Fachwissen vom Urknall über die Entstehung des Lebens mit schönen Illustrationen!'
   person: Sandra H.
   isseries: 'false'
   more_options: 'true'
