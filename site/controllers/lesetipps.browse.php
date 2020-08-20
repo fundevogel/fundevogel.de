@@ -59,13 +59,14 @@ return function ($page) {
         'Auszeichnung' => $awards,
     ];
 
+    // Counting results
+    $total = $results->count();
+
     // Applying pagination
     $perPage = $page->perpage()->int();
     $results = $results->flip()->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $results->pagination();
 
-    // Counting results
-    $total = $results->count();
 
     return compact(
         'query',

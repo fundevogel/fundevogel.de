@@ -5,9 +5,9 @@ import forEach from '../helpers/forEach';
 
 export default (container: HTMLElement) => {
     forEach(container.querySelectorAll('.js-select'), (value: HTMLElement, index: number) => {
-        value.onchange = () => {
+        value.onchange = event => {
             // @ts-ignore
-            window.location.href = this.value;
+            window.location.href = event.target.value;
         };
 
         new Dropkick(value);
