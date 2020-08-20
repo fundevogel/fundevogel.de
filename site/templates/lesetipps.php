@@ -12,7 +12,7 @@
                 <a class="last:ml-10 group table relative" href="<?= $edition->url() ?>" target="_blank">
                     <figure class="w-24 xs:w-40 sm:w-auto rounded-lg">
                         <?= $edition->getFront('rounded-t-lg') ?>
-                        <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= t($edition->edition()->value()) ?></figcaption>
+                        <figcaption class="small-caption is-pdf"><?= t($edition->edition()->value()) ?></figcaption>
                     </figure>
                     <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">
                         <div class="h-full flex flex-col justify-center items-center">

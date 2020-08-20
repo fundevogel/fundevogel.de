@@ -13,7 +13,7 @@
                     </span>
                     <div class="group overflow-hidden rounded-lg relative cursor-pointer">
                         <?= $images->first()->createImage('rounded-lg transition-all', 'about.cover', true) ?>
-                        <figcaption class="transform py-2 group-hover:-translate-y-full text-5xl text-white text-shadow text-center absolute w-full sketch bg-red-medium select-none z-10 transition-all">
+                        <figcaption class="big-caption sketch group-hover:-translate-y-full">
                             <?= $caption ?>
                         </figcaption>
                     </div>

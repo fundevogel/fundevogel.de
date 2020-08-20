@@ -20,7 +20,7 @@
                 <a class="inline-block group relative" href="<?= $edition->url() ?>" target="_blank">
                     <figure class="w-40 md:w-auto inline-block rounded-lg">
                         <?= $edition->getFront('rounded-t-lg') ?>
-                        <figcaption class="py-1 sm:py-2 text-xs sm:text-sm text-white text-shadow text-center bg-red-medium rounded-b-lg"><?= implode(' ', [t($edition->edition()->value()), $edition->year()]) ?></figcaption>
+                        <figcaption class="small-caption is-pdf"><?= implode(' ', [t($edition->edition()->value()), $edition->year()]) ?></figcaption>
                     </figure>
                     <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">
                         <div class="h-full flex flex-col justify-center items-center">

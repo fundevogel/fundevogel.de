@@ -1,0 +1,37 @@
+.small-caption {
+  @apply py-2;
+  @apply text-xs;
+  @apply text-white;
+  @apply text-center;
+  @apply bg-red-medium;
+  @apply rounded-b-lg;
+
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.small-caption.is-pdf {
+  @apply py-1
+}
+
+@screen sm {
+  .small-caption.is-pdf {
+    @apply py-2;
+    @apply text-sm;
+  }
+}
+
+.big-caption {
+  @apply py-2;
+  @apply w-full;
+  @apply transform;
+  @apply absolute;
+  @apply text-5xl;
+  @apply text-white;
+  @apply text-center;
+  @apply bg-red-medium;
+  @apply select-none;
+  @apply z-10;
+
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  transition: transform 200ms ease-in-out;
+}
