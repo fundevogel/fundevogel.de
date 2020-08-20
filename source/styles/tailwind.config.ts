@@ -133,9 +133,9 @@ module.exports = {
       container: {
         center: true,
         padding: {
-          default: '2rem',
-          lg: '4rem',
-          xl: '10rem',
+          default: '1rem',
+          xs: '2rem',
+          xl: '4rem',
         },
       },
       cursor: {
