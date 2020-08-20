@@ -184,6 +184,7 @@ module.exports = {
         cursive: ['Cabin Sketch', 'cursive'],
       },
       fontSize: {
+        '2xs': '1rem',
         xs: '1.125rem',
         sm: '1.25rem',
         base: '1.375rem',

@@ -56,6 +56,7 @@ class App {
             'about.team',
             'assortment',
             'assortment.single',
+            'lesetipps.archive',
             'calendar',
             'calendar.single',
             'grid-list',

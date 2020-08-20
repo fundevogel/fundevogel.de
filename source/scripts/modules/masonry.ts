@@ -25,8 +25,17 @@ function getPreset(element: HTMLElement, template: string) {
             breakAt: {
                 639: 2,
             },
-        }
-    }
+        },
+        'lesetipps.archive': {
+            trueOrder: true,
+            columns: 4,
+            margin: 24,
+            breakAt: {
+                479: 2,
+                1023: 3,
+            },
+        },
+    };
 
     if (template === 'assortment' || template === 'assortment.single') {
         return Object.assign(defaults, {

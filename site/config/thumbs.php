@@ -65,11 +65,11 @@ return [
 
         # Lesetipps
         # Reading list cover images
-        'lesetipps.pdf' => ['width' => 200, 'quality' => 100],
-        'lesetipps.pdf.blurry' => ['width' => 200, 'quality' => 100, 'blur' => true],
-        'lesetipps.pdf.200' => ['width' => 200, 'quality' => 100],
-        'lesetipps.pdf.160' => ['width' => 160, 'quality' => 100],
-        'lesetipps.pdf.128' => ['width' => 128, 'quality' => 100],
+        'lesetipps.pdf' => ['width' => 215, 'quality' => 100],
+        'lesetipps.pdf.blurry' => ['width' => 215, 'quality' => 100, 'blur' => true],
+        'lesetipps.pdf.215' => ['width' => 215, 'quality' => 100],
+        'lesetipps.pdf.196' => ['width' => 196, 'quality' => 100],
+        'lesetipps.pdf.120' => ['width' => 120, 'quality' => 100],
         # Cover images
         'lesetipps.article.cover-normal' => ['width' => 300],
         'lesetipps.article.cover-normal.blurry' => ['width' => 300, 'blur' => true],
@@ -107,7 +107,7 @@ return [
         'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
         'assortment.navigation' => [440, 400, 346, 282, 202],
-        'lesetipps.pdf' => [200, 160, 128],
+        'lesetipps.pdf' => [215, 196, 120],
         'lesetipps.article.cover-normal' => [300, 240, 160],
         'lesetipps.article.cover-square' => [300, 240, 160],
         'lesepeter.mascot' => [150, 112],

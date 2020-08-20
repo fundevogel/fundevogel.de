@@ -10,7 +10,8 @@
 }
 
 .small-caption.is-pdf {
-  @apply py-1
+  @apply py-1;
+  @apply text-2xs;
 }
 
 @screen sm {

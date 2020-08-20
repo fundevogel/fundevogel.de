@@ -14,22 +14,11 @@
     <hr>
     <section class="container">
         <h2 class="mb-12 text-center"><?= t('Alle Empfehlungslisten') ?></h2>
-        <div class="flex flex-wrap">
+        <div class="js-masonry">
             <?php foreach ($editions as $edition) : ?>
-            <div class="w-1/2 sm:w-1/3 lg:w-1/4 mb-6 md:mb-10 text-center">
-                <a class="inline-block group relative" href="<?= $edition->url() ?>" target="_blank">
-                    <figure class="w-40 md:w-auto inline-block rounded-lg">
-                        <?= $edition->getFront('rounded-t-lg') ?>
-                        <figcaption class="small-caption is-pdf"><?= implode(' ', [t($edition->edition()->value()), $edition->year()]) ?></figcaption>
-                    </figure>
-                    <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-red-medium transition-all z-25">
-                        <div class="h-full flex flex-col justify-center items-center">
-                            <?= useSVG('Download', 'w-12 h-12 text-white fill-current', 'download') ?>
-                            <span class="font-normal text-lg sm:text-xl text-white">Download</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
+                <div class="flex justify-center">
+                    <?php snippet('lesetipps/edition', ['edition' => $edition, 'isArchive' => true]) ?>
+                </div>
             <?php endforeach ?>
         </div>
     </section>
