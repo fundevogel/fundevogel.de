@@ -54,8 +54,10 @@
                         foreach ($annualEvents as $annualEvent) :
                     ?>
                     <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
-                        <div class="mb-8 text-center">
-                            <?= $annualEvent->getPreview() ?>
+                        <div class="mb-8 flex justify-center">
+                            <a href="<?= $annualEvent->url() ?>">
+                                <?= $annualEvent->getPreview() ?>
+                            </a>
                         </div>
                         <h3 class="text-orange-medium"><?= $annualEvent->title()->html() ?></h3>
                         <?= $annualEvent->short()->kt() ?>

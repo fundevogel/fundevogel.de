@@ -7,6 +7,6 @@ class CalendarSinglePage extends Page {
             : $this->getCover()
         ;
 
-        return $image->createImage('inline-block rounded-full', 'calendar.single.preview');
+        return $image->createImage('rounded-full', 'calendar.single.preview');
     }
 }
