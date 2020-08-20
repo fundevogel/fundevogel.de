@@ -13,6 +13,11 @@
   @apply text-red-dark;
 }
 
+.content + h2,
+.content + h3,
+.content + h4,
+.content + h5,
+.content + h6,
 .content + .content {
   @apply mt-4;
 }
