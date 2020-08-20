@@ -21,7 +21,7 @@ return [
 
         if ($noLazy === false) {
             $attributes = A::update($attributes, [
-                'class' => A::join([$classes, 'lazyload animation-blur-in'], ' '),
+                'class' => A::join([$classes, 'lazyload '], ' '),
                 'loading' => 'lazy',
                 'data-src' => $image->url(),
                 'data-sizes' => 'auto',

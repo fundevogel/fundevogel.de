@@ -7,13 +7,3 @@
   animation-duration: 500ms;
   animation-name: fadeIn;
 }
-
-@keyframes blurIn {
-  0% { filter: blur(1px); }
-  100% { filter: blur(0); }
-}
-
-.animation-blur-in {
-  animation-duration: 500ms;
-  animation-name: blurIn;
-}
