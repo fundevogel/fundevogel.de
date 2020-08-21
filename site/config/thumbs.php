@@ -61,6 +61,7 @@ return [
         'assortment.navigation.400' => ['width' => 400, 'height' => 300, 'crop' => true,],
         'assortment.navigation.346' => ['width' => 346, 'height' => 250, 'crop' => true,],
         'assortment.navigation.282' => ['width' => 282, 'height' => 204, 'crop' => true,],
+        'assortment.navigation.228' => ['width' => 228, 'height' => 166, 'crop' => true,],
         'assortment.navigation.202' => ['width' => 202, 'height' => 146, 'crop' => true,],
 
         # Lesetipps
@@ -106,7 +107,7 @@ return [
         'news.article.image' => [224, 192, 128],
         'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
-        'assortment.navigation' => [440, 400, 346, 282, 202],
+        'assortment.navigation' => [440, 400, 346, 282, 228, 202],
         'lesetipps.pdf' => [215, 196, 120],
         'lesetipps.article.cover-normal' => [300, 240, 160],
         'lesetipps.article.cover-square' => [300, 240, 160],

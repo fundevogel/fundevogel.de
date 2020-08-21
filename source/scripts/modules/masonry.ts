@@ -42,7 +42,7 @@ function getPreset(element: HTMLElement, template: string) {
             trueOrder: true,
             breakAt: {
                 479: 1,
-                639: 2,
+                767: 2,
             },
         });
     }
