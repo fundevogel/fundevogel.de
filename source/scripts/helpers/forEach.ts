@@ -1,6 +1,6 @@
 // See https://gist.github.com/cferdinandi/42f985de9af4389e7ab3
 
-export default (
+export const forEach = (
     collection: (string | number)[] | Object | NodeList,
     callback: Function,
     scope?: (string | number)[] | Object | NodeList

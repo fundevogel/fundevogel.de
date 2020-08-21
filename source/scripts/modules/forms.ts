@@ -1,9 +1,9 @@
 // @ts-ignore
 import Dropkick from 'dropkickjs';
 
-import forEach from '../helpers/forEach';
+import {forEach} from '../helpers/forEach';
 
-export default (container: HTMLElement) => {
+export const runForms = (container: HTMLElement) => {
     forEach(container.querySelectorAll('.js-select'), (value: HTMLElement, index: number) => {
         value.onchange = event => {
             // @ts-ignore

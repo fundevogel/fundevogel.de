@@ -1,6 +1,6 @@
 // See https://stackoverflow.com/a/237176
 
-export default (
+export const contains = (
     array: string[],
     string: string
 ): boolean => {

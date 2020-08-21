@@ -1,6 +1,6 @@
 // See https://gist.github.com/Dobby89/ba967b77fe2da5f4f596c6337c78fb52
 
-export default (
+export const getClosest = (
 	target: HTMLElement,
 	selector: string,
 	scope?: HTMLElement

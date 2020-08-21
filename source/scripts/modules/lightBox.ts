@@ -1,10 +1,9 @@
 // @ts-ignore
 import BigPicture from 'bigpicture';
 
-import forEach from '../helpers/forEach';
-import { stringify } from 'querystring';
+import {forEach} from '../helpers/forEach';
 
-export default (container: HTMLElement, template: string = '') => {
+export const runLightbox = (container: HTMLElement, template: string = '') => {
     let options = {
         loop: true,
 

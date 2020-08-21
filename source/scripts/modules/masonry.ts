@@ -1,8 +1,8 @@
 import Macy from 'macy';
 
-import forEach from '../helpers/forEach';
+import {forEach} from '../helpers/forEach';
 
-function getPreset(element: HTMLElement, template: string) {
+const getPreset = (element: HTMLElement, template: string) => {
     const defaults = {
         container: element,
         trueOrder: false,
@@ -50,7 +50,7 @@ function getPreset(element: HTMLElement, template: string) {
     return Object.assign(defaults, presets[template]);
 }
 
-export default (container: HTMLElement, template: string) => {
+export const runMasonry = (container: HTMLElement, template: string) => {
     forEach(container.querySelectorAll('.js-masonry'), (value: HTMLElement, index: number) => {
         const options = getPreset(value, template);
 

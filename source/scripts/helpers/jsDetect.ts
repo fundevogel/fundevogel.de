@@ -1,4 +1,4 @@
-export default (): void => {
+export const jsDetect = (): void => {
     let html;
     let className;
 

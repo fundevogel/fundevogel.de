@@ -11,6 +11,4 @@ lazySizes.cfg.expFactor = 2;
 lazySizes.cfg.expand = 1000;
 lazySizes.cfg.hFac = 1;
 
-export default () => {
-    lazySizes.init();
-};
+export const lazyLoad = () => lazySizes.init();

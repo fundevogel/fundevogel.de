@@ -1,11 +1,8 @@
-import forEach from '../helpers/forEach';
+import {forEach} from '../helpers/forEach';
 
-export default (container: HTMLElement) => {
+export const runCharts = (container: HTMLElement) => {
     forEach(container.querySelectorAll('.js-label'), (value: HTMLElement, index: number) => {
-        const color = value.dataset.color;
-
         // @ts-ignore
-        value.style = 'background:' + color;
+        value.style = 'background:' + value.dataset.color;
     });
-
 };

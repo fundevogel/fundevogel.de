@@ -1,7 +1,7 @@
 // @ts-ignore
 import InfiniteScroll from 'infinite-scroll';
 
-export default (container: HTMLElement) => {
+export const runScroll = (container: HTMLElement) => {
     return new InfiniteScroll(container.querySelector('.js-list'), {
         hideNav: '.js-hide',
         button: '.js-more',

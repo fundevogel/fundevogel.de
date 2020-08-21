@@ -4,18 +4,18 @@
 
 import barba from '@barba/core';
 
-import jsDetect from './helpers/jsDetect';
-import contains from './helpers/contains';
+import {jsDetect} from './helpers/jsDetect';
+import {contains} from './helpers/contains';
 
-import lazyLoading from './modules/lazyLoading';
-import polyfillSVG from './modules/polyfillSVG';
-import runChartLabels from './modules/chartLabels';
-import runForms from './modules/forms';
-import runScroll from './modules/infiniteScroll';
-import runLightbox from './modules/lightBox';
-import runMasonry from './modules/masonry';
-import runSlider from './modules/slider';
-import runTooltips from './modules/toolTips';
+import {lazyLoad} from './modules/lazyLoading';
+import {polyfillSVG} from './modules/polyfillSVG';
+import {runCharts} from './modules/chartLabels';
+import {runForms} from './modules/forms';
+import {runScroll} from './modules/infiniteScroll';
+import {runLightbox} from './modules/lightBox';
+import {runMasonry} from './modules/masonry';
+import {runSlider} from './modules/slider';
+import {runTooltips} from './modules/toolTips';
 import {toggleMenu} from './modules/toggleMenu';
 
 
@@ -79,7 +79,7 @@ class App {
 
         jsDetect();
         polyfillSVG();
-        lazyLoading();
+        lazyLoad();
 
         // Avoid 'blank page' on JS error
         try {
@@ -140,7 +140,7 @@ class App {
 
                 // Coloring chart labels
                 if (template === 'dependencies') {
-                    runChartLabels(page);
+                    runCharts(page);
                 }
 
                 // Slider

@@ -1,9 +1,9 @@
 import EmblaCarousel from 'embla-carousel';
 
-import forEach from '../helpers/forEach';
+import {forEach} from '../helpers/forEach';
 
 // @ts-ignore
-function autoplay (embla, interval: number) {
+const autoplay = (embla, interval: number) => {
     let timer = 0;
 
     const play = () => {
@@ -29,7 +29,7 @@ function autoplay (embla, interval: number) {
     return {play, stop};
 };
 
-export default (container: HTMLElement, template: string) => {
+export const runSlider = (container: HTMLElement, template: string) => {
     forEach(container.querySelectorAll('.js-slider'), (value: HTMLElement, index: number) => {
         const options = {
             speed: 4,
