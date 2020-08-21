@@ -13,7 +13,7 @@
             if ($lesetipp->hasAward()->bool()) :
             $award = $lesetipp->getAward();
         ?>
-        <?= useSVG($award['awardtitle'], 'js-tippy w-auto h-16 absolute right-0 -top-4', $award['identifier']) ?>
+        <?= useSVG($award['awardtitle'], 'js-tippy w-auto h-16 absolute -right-5 -top-5', $award['identifier']) ?>
         <?php endif ?>
         <time datetime="<?= $lesetipp->date()->toDate('Y-m-d') ?>"><?= $lesetipp->date()->toDate('d.m.Y') ?></time>
         <h3><a class="link" href="<?= $lesetipp->url() ?>"><?= $lesetipp->title()->html() ?></a></h3>
