@@ -7,7 +7,7 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mt-12 flex-none text-center">
-                <?php snippet('cover') ?>
+                <?php snippet('cover', ['page' => $page->parent()]) ?>
             </div>
         </div>
     </header>
