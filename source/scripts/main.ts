@@ -16,7 +16,7 @@ import runLightbox from './modules/lightBox';
 import runMasonry from './modules/masonry';
 import runSlider from './modules/slider';
 import runTooltips from './modules/toolTips';
-import toggleMenu from './modules/toggleMenu';
+import {toggleMenu} from './modules/toggleMenu';
 
 
 /*
@@ -97,6 +97,8 @@ class App {
             // });
 
             barba.hooks.beforeEnter((data) => {
+                window.scrollTo(0, 0);
+
                 /*
                  * Generic setup
                  */
@@ -157,16 +159,8 @@ class App {
                 }
             });
 
-            barba.hooks.enter((data) => {
-                window.scrollTo(0, 0);
-
-                const toggle = data.current.container.querySelector('.js-toggle');
-                const isOpen = toggle.classList.contains('is-active');
-
-                if (isOpen) {
-                    toggleMenu();
-                }
-            });
+            // barba.hooks.enter(() => {
+            // });
 
             // barba.hooks.afterEnter(() => {
             // });
@@ -178,6 +172,16 @@ class App {
             barba.init({
                 debug: true,
                 timeout: 5000,
+                transitions: [
+                    {
+                        name: 'mobileMenu',
+                        // @ts-ignore
+                        custom: ({ trigger }) => <HTMLElement>trigger.classList && trigger.classList.contains('js-link'),
+                        enter() {
+                            toggleMenu();
+                        },
+                    },
+                ],
             });
         } catch (err) {
             console.error(err);

@@ -1,51 +1,49 @@
 import anime from 'animejs';
 
-export default () => {
+export const toggleMenu = () => {
     const body = document.body;
     const toggle = document.querySelector('.js-toggle');
-    const isOpen = toggle.classList.contains('is-active');
 
     const timeline = anime.timeline({
         duration: 250,
         easing: 'easeInOutQuad',
     });
 
-    if (isOpen) {
+    if (toggle.classList.contains('is-active')) {
         timeline
             .add({
                 targets: '.js-overlay .js-link',
-                opacity: 0,
-                duration: 50,
+                opacity: [1, 0],
+                duration: 100,
                 delay: function() {
-                    return anime.random(0, 250);
+                    return anime.random(50, 250);
                 },
             })
             .add({
                 targets: '.js-overlay',
-                translateY: '-100%',
-            }, '+=150')
+                translateY: [0, '-100%'],
+            }, '+=250')
             .finished.then(() => {
+                body.classList.remove('overflow-hidden');
                 toggle.classList.remove('is-active');
             });
-
-        body.classList.remove('overflow-hidden');
     } else {
         toggle.classList.add('is-active');
 
         timeline
-            .add({
-                targets: '.js-overlay',
-                translateY: 0,
-            })
-            .add({
-                targets: '.js-overlay .js-link',
-                opacity: 1,
-                duration: 50,
-                delay: function() {
-                    return anime.random(0, 250);
-                },
-            })
-            .finished.then(() => {
+        .add({
+            targets: '.js-overlay',
+            translateY: ['-100%', 0],
+        })
+        .add({
+            targets: '.js-overlay .js-link',
+            opacity: [0, 1],
+            duration: 100,
+            delay: function() {
+                return anime.random(50, 250);
+            },
+        })
+        .finished.then(() => {
                 body.classList.add('overflow-hidden');
             });
     }

@@ -10,7 +10,7 @@
                     <div class="js-overlay flex flex-col justify-center fixed inset-0 bg-red-medium transform -translate-y-full z-50">
                         <nav class="mt-12 sm:mt-16 flex flex-col items-center font-normal text-xs xs:text-lg sm:text-2xl text-center">
                             <?php foreach($pages->listed()->onlyTranslated() as $item) : ?>
-                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white', ' text-white hover:text-red-medium hover:bg-white opacity-0') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>">
+                                <a class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white opacity-0', ' text-white hover:text-red-medium hover:bg-white opacity-0') ?>" href="<?= $item->url() ?>" title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>">
                                     <span><?= t('Menü-' . $item->id()) ?></span>
                                 </a>
                             <?php endforeach ?>
