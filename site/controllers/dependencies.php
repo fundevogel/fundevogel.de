@@ -2,7 +2,6 @@
 
 use Aeq\LargestRemainder\Math\LargestRemainder;
 
-# TODO: Add 'forked' status, eg `bigpicture
 # TODO: Add card layout`
 
 return function ($kirby, $page) {
@@ -217,6 +216,7 @@ return function ($kirby, $page) {
                 'desc' => '',
                 'license' => '',
                 'url' => '',
+                'forked' => false,
             ];
 
             # .. fetch additional information from https://packagist.org
@@ -274,6 +274,7 @@ return function ($kirby, $page) {
                 'desc' => '',
                 'url' => '',
                 'license' => '',
+                'forked' => false,
             ];
 
             # .. fetch additional information from https://packagist.org
@@ -292,6 +293,12 @@ return function ($kirby, $page) {
                 $node['desc'] = $data->description;
                 $node['license'] = $data->license ?? '';
                 $node['url'] = $data->links->repository;
+
+                # Check if it's a forked repository
+                if (preg_match('/(([0-9])+(\.{0,1}([0-9]))*)/', $node['version']) == false) {
+                    $node['version'] = $data->version;
+                    $node['forked'] = true;
+                }
             }
 
             $pkgData[] = $node;

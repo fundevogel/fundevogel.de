@@ -66,8 +66,8 @@
                         <div class="lg:text-lg">
                             <?= $page->source()->kt() ?>
                         </div>
-                        <div class="flex flex-col my-12 text-sm">
-                            <div class="flex flex-col xs:flex-row">
+                        <div class="flex flex-col xl:flex-row xl:justify-between my-12 text-sm">
+                            <div class="flex flex-col xs:flex-row xl:flex-col">
                                 <div class="mb-4 flex-1 flex justify-content">
                                     <div class="flex items-center">
                                         <?= useSVG('Content Management System', 'js-tippy lesetipp-icon', 'layout') ?>
@@ -85,17 +85,31 @@
                                 </div>
                                 <?php endif ?>
                             </div>
-                            <div class="flex flex-col xs:flex-row">
+                            <div class="flex flex-col xs:flex-row xl:flex-col">
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= useSVG('Code Hosting', 'js-tippy lesetipp-icon', 'git', 'data-tippy-placement="bottom"') ?>
+                                    <?= useSVG('Code Hosting', 'js-tippy lesetipp-icon', 'git') ?>
                                     <span class="ml-4">
                                         GitHub
                                     </span>
                                 </div>
                                 <div class="mb-4 flex-1 flex items-center">
-                                    <?= useSVG('Server Hosting', 'js-tippy lesetipp-icon', 'hdd', 'data-tippy-placement="bottom"') ?>
+                                    <?= useSVG('Server Hosting', 'js-tippy lesetipp-icon', 'hdd') ?>
                                     <span class="ml-4">
                                         Hetzner
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col xs:flex-row xl:flex-col">
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG('CSS Framework', 'js-tippy lesetipp-icon', 'tailwindcss') ?>
+                                    <span class="ml-4">
+                                        TailwindCSS
+                                    </span>
+                                </div>
+                                <div class="mb-4 flex-1 flex items-center">
+                                    <?= useSVG('JS Framework', 'js-tippy lesetipp-icon', 'barbajs') ?>
+                                    <span class="ml-4">
+                                        barbaJS
                                     </span>
                                 </div>
                             </div>

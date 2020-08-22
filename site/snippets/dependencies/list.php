@@ -10,9 +10,6 @@
     ?>
     <li>
         <?= $library['maintainer'] ?>/<?= $link ?> (v<?= $library['version'] ?>)
-        <p class="content">
-            <?= $library['desc'] ?>
-        </p>
     </li>
     <?php endforeach ?>
 </ul>
