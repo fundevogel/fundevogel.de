@@ -11,9 +11,13 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
+Builder: 
+
+----
+
 Favorites:
 
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -36,8 +40,24 @@ Favorites:
   age: ab 6 Jahren
   price: 12,00
   binding: gebunden
-  text: 'Jede Nacht pünktlich zur Geisterstunde erwacht das kleine Gespenst. Vergnügt geistert es durch Burg Eulenstein und besucht seinen Freund, den Uhu Schuhu. Sein größter Wunsch ist es, die Welt einmal bei Tageslicht zu sehen. Doch alle Versuche, nach dem Ende der Geisterstunde wach zu bleiben, schlagen fehl. Doch als dieser Wunsch unversehens Wirklichkeit wird, beginnt ein aufregendes Abenteuer. Vom Sonnenlicht getroffen wird aus dem weißen Nachtgepenst ein schwarzes Tagesgespenst, das in der Stadt für jede Menge Unheil und Verwirrung sorgt ..'
--
+  text: >
+    Jede Nacht pünktlich zur Geisterstunde
+    erwacht das kleine Gespenst. Vergnügt
+    geistert es durch Burg Eulenstein und
+    besucht seinen Freund, den Uhu Schuhu.
+    Sein größter Wunsch ist es, die Welt
+    einmal bei Tageslicht zu sehen. Doch
+    alle Versuche, nach dem Ende der
+    Geisterstunde wach zu bleiben, schlagen
+    fehl. Doch als dieser Wunsch unversehens
+    Wirklichkeit wird, beginnt ein
+    aufregendes Abenteuer. Vom Sonnenlicht
+    getroffen wird aus dem weißen
+    Nachtgepenst ein schwarzes
+    Tagesgespenst, das in der Stadt für
+    jede Menge Unheil und Verwirrung sorgt
+    ..
+- 
   title: ""
   quote: ""
   person: ""
@@ -58,8 +78,23 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
-  text: 'Der kleine Kapitän und seine Freunde Martinka, Tonne und Heini Hasenfuß segeln über die Weltmeere, trotzen den größten Gefahren und bestehen die kühnsten Abenteuer. Dabei begegnen sie einer mysteriösen Stadt auf Pfählen, statten den Töchtern von König Blaukrabbe auf dem Meeresboden einen Besuch ab oder kapern ein Geisterschiff, das sieben Schatzkisten an Bord hat. Nebenbei retten sie sechs Schiffbrüchige und eine Truppe dressierter Zirkustiere, verkuppeln einen König und bestehen viele Mutproben.'
--
+  text: >
+    Der kleine Kapitän und seine Freunde
+    Martinka, Tonne und Heini Hasenfuß
+    segeln über die Weltmeere, trotzen den
+    größten Gefahren und bestehen die
+    kühnsten Abenteuer. Dabei begegnen sie
+    einer mysteriösen Stadt auf Pfählen,
+    statten den Töchtern von König
+    Blaukrabbe auf dem Meeresboden einen
+    Besuch ab oder kapern ein Geisterschiff,
+    das sieben Schatzkisten an Bord hat.
+    Nebenbei retten sie sechs
+    Schiffbrüchige und eine Truppe
+    dressierter Zirkustiere, verkuppeln
+    einen König und bestehen viele
+    Mutproben.
+- 
   title: ""
   quote: ""
   person: ""
@@ -80,10 +115,14 @@ Favorites:
   price: 9,95
   binding: gebunden
   text: 'Manuel und Didi sind die allerbesten Freunde der Welt: phantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende!'
--
+- 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Eine wunderbar lebendig erzählte
+    Geschichte, die Klein und Groß
+    begeistert und mitfiebern lässt. Toll
+    illustriert, mit viel Charme und Witz
+  person: Frieda T.
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-522-18457-1
@@ -101,10 +140,27 @@ Favorites:
   age: ab 6 Jahren
   price: 14,00
   binding: gebunden
-  text: 'Erdhörnchen Habbi ist mit einem Wolf zusammengeprallt, dem größten Feind der Erdhörnchen! Doch statt sich auf ihn zu stürzen, blinzelt der Wolf ihn nur kraftlos an. Er scheint schwer verletzt zu sein. Wie könnte Habbi ihn da einfach allein lassen? Täglich versorgt er ihn mit Futter und nach und nach freunden die beiden sich an. Bis ihre Freundschaft auf eine harte Probe gestellt wird ..'
--
+  text: >
+    Erdhörnchen Habbi ist mit einem Wolf
+    zusammengeprallt, dem größten Feind
+    der Erdhörnchen! Doch statt sich auf
+    ihn zu stürzen, blinzelt der Wolf ihn
+    nur kraftlos an. Er scheint schwer
+    verletzt zu sein. Wie könnte Habbi ihn
+    da einfach allein lassen? Täglich
+    versorgt er ihn mit Futter und nach und
+    nach freunden die beiden sich an. Bis
+    ihre Freundschaft auf eine harte Probe
+    gestellt wird ..
+- 
   title: ""
-  quote: 'Astrid Lindgrens Geschichten über den den kleinen, liebenswerten Lausejungen Michel aus Lönneberga vom Hof Katthult in Südschwedens Småland gehört zu den wundervollsten Schätzen der Kinderliteratur!'
+  quote: >
+    Astrid Lindgrens Geschichten über den
+    den kleinen, liebenswerten Lausejungen
+    Michel aus Lönneberga vom Hof Katthult
+    in Südschwedens Småland gehört zu den
+    wundervollsten Schätzen der
+    Kinderliteratur!
   person: Sandra H.
   isseries: 'false'
   more_options: 'true'
@@ -123,7 +179,7 @@ Favorites:
   price: 17,00
   binding: gebunden
   text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -144,7 +200,22 @@ Favorites:
   age: ab 6 Jahren
   price: 14,99
   binding: gebunden
-  text: 'Kokosnuss ist ein mutiger und vor allem neugieriger kleiner Feuerdrache, der mit seinen Eltern auf einer bisher unentdeckten Insel lebt. Wie alle Kinder müssen auch kleine Drachen in die Schule gehen, wo sie das Fliegen lernen. Können sie dann fliegen, verbringen sie den Winter auf der Sommerinsel in der südlichen Südsee. Doch das mit dem Fliegen ist gar nicht so einfach! Wie Kokosnuss auch ohne abgeschlossene Flugausbildung zu einem Winterurlaub auf der Sommerinsel kommt, ist nur eines der aufregenden Abenteuer, die er und seine Freunde erleben ..'
+  text: >
+    Kokosnuss ist ein mutiger und vor allem
+    neugieriger kleiner Feuerdrache, der mit
+    seinen Eltern auf einer bisher
+    unentdeckten Insel lebt. Wie alle Kinder
+    müssen auch kleine Drachen in die
+    Schule gehen, wo sie das Fliegen lernen.
+    Können sie dann fliegen, verbringen sie
+    den Winter auf der Sommerinsel in der
+    südlichen Südsee. Doch das mit dem
+    Fliegen ist gar nicht so einfach! Wie
+    Kokosnuss auch ohne abgeschlossene
+    Flugausbildung zu einem Winterurlaub auf
+    der Sommerinsel kommt, ist nur eines der
+    aufregenden Abenteuer, die er und seine
+    Freunde erleben ..
 
 ----
 
