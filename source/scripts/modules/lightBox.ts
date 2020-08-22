@@ -19,29 +19,32 @@ export const runLightbox = (container: HTMLElement, template: string = '') => {
     };
 
     forEach(container.querySelectorAll('.js-lightbox'), (lightbox: HTMLElement) => {
-        let images: NodeList | {src: string, caption: string}[] = lightbox.querySelectorAll('img');
+        const images = lightbox.querySelectorAll('img');
+
+        // Fill items ..
+        let items: {src: string, caption: string}[] | NodeListOf<HTMLImageElement> = [];
 
         if (template === 'about') {
+            // .. with data from lightbox element
             const urls = lightbox.dataset.images.split(';');
             const captions = lightbox.dataset.captions.split(';');
 
-            let items: {src: string, caption: string}[] = [];
-
             forEach(urls, (url: string, index: number) => {
-                items.push({
+                (<{src: string, caption: string}[]>items).push({
                     src: url,
                     caption: captions[index],
                 })
             });
-
-            images = items;
+        } else {
+            // .. or lightbox images themselves
+            items = images;
         }
 
         forEach(images, (image: HTMLImageElement) => {
             image.addEventListener('click', event => {
                 BigPicture(Object.assign(options, {
                     el: event.target,
-                    gallery: images,
+                    gallery: items,
                 }));
             }, false);
         });
