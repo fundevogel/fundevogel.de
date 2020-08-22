@@ -8,18 +8,24 @@ declare module 'macy' {
 
     interface MacyInstance {
         /**
+         * Public method for recalculating image positions when the images have loaded.
+         * @param  {Boolean} waitUntilFinish - if true it will not recalculate until all images are finished loading
+         */
+        recalculateOnImageLoad (waitUntilFinish?: boolean): PromiseConstructor;
+
+        /**
          * Run a function on every image load or once all images are loaded
          * @param  {Function}  func      - Function to run on image load
          * @param  {Boolean} everyLoad   - If true it will run everytime an image loads
          */
-        runOnImageLoad (func: Function, everyLoad: boolean): void;
+        runOnImageLoad (func: Function, everyLoad?: boolean): void;
 
         /**
          * Recalculates masonory positions
          * @param  {Boolean} refresh - Recalculates All elements within the container
          * @param  {Boolean} loaded  - When true it sets the recalculated elements to be marked as complete
          */
-        recalculate(refresh: boolean, loaded: boolean): MacyInstance;
+        recalculate(refresh?: boolean, loaded?: boolean): MacyInstance;
 
         /**
          * Destroys macy instance

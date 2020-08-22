@@ -30,14 +30,14 @@ const autoplay = (embla, interval: number) => {
 };
 
 export const runSlider = (container: HTMLElement, template: string) => {
-    forEach(container.querySelectorAll('.js-slider'), (value: HTMLElement, index: number) => {
+    forEach(container.querySelectorAll('.js-slider'), (slider: HTMLElement) => {
         const options = {
             speed: 4,
             loop: true,
             delay: 4500,
         };
 
-        const embla = EmblaCarousel(value, options);
+        const embla = EmblaCarousel(slider, options);
         const autoplayer = autoplay(embla, options.delay);
 
         // Start autoplay function upon init
@@ -53,16 +53,16 @@ export const runSlider = (container: HTMLElement, template: string) => {
         });
 
         // Stop on mouse hover, resume after it's gone
-        value.addEventListener('mouseenter', () => {
+        slider.addEventListener('mouseenter', () => {
             autoplayer.stop();
         });
 
-        value.addEventListener('mouseleave', () => {
+        slider.addEventListener('mouseleave', () => {
             autoplayer.play();
         });
 
         if (template === 'assortment.single' || template === 'lesetipps.article') {
-            const pagination = value.querySelector('.js-controls');
+            const pagination = slider.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
 
             // Add active class upon init

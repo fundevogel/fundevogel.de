@@ -171,12 +171,11 @@ class App {
 
             barba.init({
                 debug: true,
-                timeout: 5000,
+                timeout: 10000,
                 transitions: [
                     {
                         name: 'mobileMenu',
-                        // @ts-ignore
-                        custom: ({ trigger }) => <HTMLElement>trigger.classList && trigger.classList.contains('js-link'),
+                        custom: ({ trigger }) => (<HTMLElement>trigger).classList && (<HTMLElement>trigger).classList.contains('js-link'),
                         enter() {
                             toggleMenu();
                         },

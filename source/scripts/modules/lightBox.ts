@@ -18,18 +18,14 @@ export const runLightbox = (container: HTMLElement, template: string = '') => {
         },
     };
 
-    forEach(container.querySelectorAll('.js-lightbox'), (value: HTMLElement, index: number) => {
-        const images = value.querySelectorAll('img');
-
-        options = Object.assign(options, {
-            gallery: images,
-        });
+    forEach(container.querySelectorAll('.js-lightbox'), (lightbox: HTMLElement) => {
+        let images: NodeList | {src: string, caption: string}[] = lightbox.querySelectorAll('img');
 
         if (template === 'about') {
-            const urls = value.dataset.images.split(';');
-            const captions = value.dataset.captions.split(';');
+            const urls = lightbox.dataset.images.split(';');
+            const captions = lightbox.dataset.captions.split(';');
 
-            const items: {src: string, caption: string}[] = [];
+            let items: {src: string, caption: string}[] = [];
 
             forEach(urls, (url: string, index: number) => {
                 items.push({
@@ -38,15 +34,14 @@ export const runLightbox = (container: HTMLElement, template: string = '') => {
                 })
             });
 
-            options = Object.assign(options, {
-                gallery: items,
-            });
+            images = items;
         }
 
-        forEach(images, (image: HTMLElement, index: number) => {
-            image.addEventListener('click', (e) => {
+        forEach(images, (image: HTMLImageElement) => {
+            image.addEventListener('click', event => {
                 BigPicture(Object.assign(options, {
-                    el: e.target,
+                    el: event.target,
+                    gallery: images,
                 }));
             }, false);
         });

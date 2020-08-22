@@ -14,7 +14,17 @@ const getPreset = (element: HTMLElement, template: string) => {
         },
     };
 
-    const presets: Record<string, any>= {
+    if (template === 'assortment' || template === 'assortment.single') {
+        return Object.assign(defaults, {
+            trueOrder: true,
+            breakAt: {
+                479: 1,
+                767: 2,
+            },
+        });
+    }
+
+    const presets: Record<string, any> = {
         'about.team': {
             breakAt: {
                 639: 1,
@@ -37,26 +47,15 @@ const getPreset = (element: HTMLElement, template: string) => {
         },
     };
 
-    if (template === 'assortment' || template === 'assortment.single') {
-        return Object.assign(defaults, {
-            trueOrder: true,
-            breakAt: {
-                479: 1,
-                767: 2,
-            },
-        });
-    }
-
     return Object.assign(defaults, presets[template]);
 }
 
 export const runMasonry = (container: HTMLElement, template: string) => {
-    forEach(container.querySelectorAll('.js-masonry'), (value: HTMLElement, index: number) => {
+    forEach(container.querySelectorAll('.js-masonry'), (value: HTMLElement) => {
         const options = getPreset(value, template);
-
         const macy = Macy(options);
+
         macy.runOnImageLoad(() => {
-            // @ts-ignore
             macy.recalculate(true);
         }, true);
     });
