@@ -5,10 +5,10 @@ return [
         $image = $this->thumb($preset);
         $blurry = $this->thumb($preset . '.blurry');
         $source = $noLazy === false ? $blurry->url() : $image->url();
-        $alt = $this->altAttribute();
-        $title = $this->source()->isEmpty()
-            ? $this->titleAttribute()
-            : $this->titleAttribute() . ' - ' . $this->source()
+        $title = $this->titleAttribute();
+        $alt = $this->source()->isEmpty()
+            ? $this->altAttribute()
+            : A::join([$this->altAttribute(), t('Bildquelle') . ': ' . $this->source()], ' - ')
         ;
 
         $attributes = [

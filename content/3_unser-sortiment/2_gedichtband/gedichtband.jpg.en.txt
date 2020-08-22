@@ -1,4 +1,4 @@
-Titleattribute: Helping children express feelings
+Titleattribute: Poems give life a melody.
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Enter poetry!
+Caption: Playing with language is fun!
 
 ----
 

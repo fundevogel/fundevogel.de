@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Audiobooks take young and old alike on an acoustic journey.
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Enter a world of language, music .. and magic!
 
 ----
 

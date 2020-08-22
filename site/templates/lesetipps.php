@@ -20,7 +20,7 @@
         <?php if (param($parameter)) : ?>
         <h2 class="mb-12 flex flex-col items-center">
             <span class="mb-8 font-bold font-small-caps"><?= t('Alle Lesetipps:' . $parameter) ?>:</span>
-            <a class="py-2 px-4 sketch text-6xl text-white hover:text-white bg-red-light hover:bg-red-medium hover:line-through rounded-lg outline-none" href="<?= $page->url() ?>">
+            <a class="py-2 px-4 sketch text-5xl text-white hover:text-white bg-red-light hover:bg-red-medium hover:line-through rounded-lg outline-none" href="<?= $page->url() ?>">
                 <?= rawurldecode(param($parameter)) ?>
             </a>
         </h2>

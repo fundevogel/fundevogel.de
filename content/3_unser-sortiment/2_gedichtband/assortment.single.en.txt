@@ -31,4 +31,4 @@ Seotitle: Poetry
 
 ----
 
-Seodescription: Children love repetitions and rhymes and have a lot of fun twisting letters and words, forming (nonsensical) rhymes and creating new words.
+Seodescription: Children love repetitions and rhymes and have a lot of fun twisting letters and words, forming (nonsensical) rhymes or creating new words.

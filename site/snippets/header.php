@@ -3,7 +3,7 @@
 
     <?php snippet('head') ?>
 
-    <body class="min-h-screen font-light text-base text-black bg-yellow-light" data-barba="wrapper">
+    <body class="min-h-screen font-light text-sm sm:text-base text-black bg-yellow-light" data-barba="wrapper">
         <div class="min-h-screen flex flex-col" data-barba="container" data-barba-namespace="<?= $page->template() ?>">
             <header class="mb-4 flex-none" role="banner">
                 <div class="w-full h-12 flex justify-between items-center shadow-nav fixed top-0 text-white bg-red-medium z-40">
@@ -55,19 +55,19 @@
                     </nav>
                     <?php endif ?>
                 </div>
-                <div class="mt-12 pt-4 bg-yellow-dark">
+                <div class="mt-12 py-4 md:pb-0 bg-yellow-dark">
                     <div class="container">
-                        <div class="flex items-end justify-center sm:justify-start">
+                        <div class="flex items-end justify-center md:justify-start">
                             <?php $image = new Asset('assets/images/logo.png'); ?>
                             <img
-                                class="w-24 md:w-32 lg:w-auto -mb-4 md:-mb-8 mr-4 hidden sm:inline z-30"
+                                class="w-32 lg:w-auto -mb-4 md:-mb-8 mr-4 hidden md:inline z-30"
                                 src="<?= $image->url() ?>"
                                 title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo"
                                 width="<?= $image->width() ?>"
                                 height="<?= $image->height() ?>"
                             >
                             <div class="flex flex-col items-center md:items-start leading-none">
-                                <h1 class="sketch text-center tracking-wide<?php e($page->isHomePage(), ' text-6xl xs:text-7xl sm:text-site-heading', ' text-5xl xs:text-6xl sm:text-7xl lg:text-page-heading') ?>">
+                                <h1 class="sketch tracking-wide<?php e($page->isHomePage(), ' text-6xl xs:text-page-heading sm:text-site-heading', ' text-center text-5xl sm:text-6xl lg:text-page-heading') ?>">
                                     <?php
                                         if ($page->intendedTemplate() == 'lesetipps.article') {
                                             echo page('lesetipps')->title()->html();
@@ -81,7 +81,7 @@
                                     ?>
                                 </h1>
                                 <?php if ($page->isHomePage()) : ?>
-                                <h3 class="text-black text-2xl sm:text-4xl sketch"><?= t('Kinder- und Jugendbuchhandlung') ?></h3>
+                                <h3 class="sketch text-black text-2xl sm:text-4xl text-center"><?= t('Kinder- und Jugendbuchhandlung') ?></h3>
                                 <?php endif ?>
                             </div>
                         </div>

@@ -1,4 +1,4 @@
-Titleattribute: Bilderbücher halten fit!
+Titleattribute: Hörbücher entführen Jung und Alt auf eine akustische Reise.
 
 ----
 
@@ -6,7 +6,7 @@ Source: Eigenmaterial
 
 ----
 
-Altattribute: Holzregale mit Kinderbüchern
+Altattribute: Viele Hörbücher und CDs vor einem Tresen
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Taucht ein in die Welt des gesprochenen Buches!
 
 ----
 
