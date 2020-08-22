@@ -67,7 +67,7 @@
                                 height="<?= $image->height() ?>"
                             >
                             <div class="flex flex-col items-center md:items-start leading-none">
-                                <h1 class="sketch tracking-wide <?php e($page->isHomePage(), ' text-7xl sm:text-site-heading', ' text-6xl sm:text-7xl lg:text-page-heading') ?>">
+                                <h1 class="sketch text-center tracking-wide<?php e($page->isHomePage(), ' text-6xl xs:text-7xl sm:text-site-heading', ' text-5xl xs:text-6xl sm:text-7xl lg:text-page-heading') ?>">
                                     <?php
                                         if ($page->intendedTemplate() == 'lesetipps.article') {
                                             echo page('lesetipps')->title()->html();

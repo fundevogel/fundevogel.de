@@ -39,7 +39,8 @@ return [
         'news.article.image.blurry' => ['width' => 224, 'crop' => true, 'blur' => true],
         'news.article.image.224' => ['width' => 224, 'crop' => true],
         'news.article.image.192' => ['width' => 192, 'crop' => true],
-        'news.article.image.128' => ['width' => 128, 'crop' => true],
+        'news.article.image.160' => ['width' => 160, 'crop' => true],
+        'news.article.image.96' => ['width' => 96, 'crop' => true],
 
         # Fundevogel
         'about.cover' => ['width' => 460, 'height' => 400, 'crop' => true],
@@ -104,7 +105,7 @@ return [
     'sizes' => [
         'cover' => [460, 420, 340, 260],
         'news.hero' => [960, 768, 640, 480, 320, 240],
-        'news.article.image' => [224, 192, 128],
+        'news.article.image' => [224, 192, 160, 96],
         'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
         'assortment.navigation' => [440, 400, 346, 282, 228, 202],
