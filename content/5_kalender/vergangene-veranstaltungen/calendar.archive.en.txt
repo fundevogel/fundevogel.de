@@ -23,12 +23,6 @@ Perpage: 10
 
 ----
 
-Cover:
-
-- kalender.jpg
-
-----
-
 Seotitle: Previous events
 
 ----
