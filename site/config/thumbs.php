@@ -26,8 +26,9 @@ return [
 
         # News
         # Hero image
-        'news.hero' => ['width' => 960],
-        'news.hero.blurry' => ['width' => 960, 'blur' => true],
+        'news.hero' => ['width' => 1152],
+        'news.hero.blurry' => ['width' => 1152, 'blur' => true],
+        'news.hero.1152' => ['width' => 1152],
         'news.hero.960' => ['width' => 960],
         'news.hero.768' => ['width' => 768],
         'news.hero.640' => ['width' => 640],
@@ -104,7 +105,7 @@ return [
 
     'sizes' => [
         'cover' => [460, 420, 340, 260],
-        'news.hero' => [960, 768, 640, 480, 320, 240],
+        'news.hero' => [1152, 960, 768, 640, 480, 320, 240],
         'news.article.image' => [224, 192, 160, 96],
         'about.cover' => [460, 420, 340, 260],
         'about.team' => [120],
