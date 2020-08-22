@@ -24,13 +24,7 @@ tabs:
               type: textarea
 
     sidebar:
-      sidebar_fields:
-        type: fields
-        fields:
-          cover:
-            extends: fields/single-cover
-            image:
-              ratio: 2/1
+      sidebar_fields: sections/sidebar.cover
 
   # Metadata
   tab_seo: tabs/seo

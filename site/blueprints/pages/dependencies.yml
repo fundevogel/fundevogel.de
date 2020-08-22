@@ -19,13 +19,8 @@ tabs:
 
     sidebar:
       sidebar_fields:
-        type: fields
+        extends: sections/sidebar.cover
         fields:
-          cover:
-            extends: fields/single-cover
-            image:
-              ratio: 2/1
-
           source:
             label:
               de: Über den Quelltext

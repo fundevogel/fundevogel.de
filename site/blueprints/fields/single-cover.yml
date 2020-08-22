@@ -3,6 +3,7 @@ type: files
 query: page.images
 layout: cards
 multiple: false
+size: huge
 image:
   ratio: 2/1
   cover: true

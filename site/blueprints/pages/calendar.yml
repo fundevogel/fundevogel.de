@@ -59,10 +59,7 @@ tabs:
             fields:
               limit_perpage: fields/groups/limit-perpage
 
-              cover:
-                extends: fields/single-cover
-                image:
-                  ratio: 2/1
+              cover: fields/single-cover
 
           sidebar_files: sections/images
 
