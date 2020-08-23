@@ -1,6 +1,7 @@
+                </article>
             </main>
 
-            <footer class="py-8 flex-none relative text-white text-center text-shadow bg-red-medium" role="contentinfo">
+            <footer id="site-footer" class="py-8 flex-none relative text-white text-center text-shadow bg-red-medium" role="contentinfo" itemscope itemtype="https://schema.org/WPFooter">
                 <div class="zigzag-border w-full absolute z-10"></div>
                 <div class="container">
                     <h4 class="mb-4 sm:text-xl md:text-2xl lg:text-3xl">- <?= $site->title()->html() ?> -</h4>
