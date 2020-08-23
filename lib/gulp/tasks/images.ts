@@ -67,7 +67,6 @@ function combineIcons() {
 
     return src(iconsSource)
         .pipe(newer(conf.dist.icons))
-        .pipe(imagemin(conf.images.minify))
         .pipe(svg({inlineSvg: conf.icons.inline})) // See https://github.com/w0rm/gulp-svgstore#options
         .pipe(rename(conf.icons.output))
         .pipe(dest(conf.dist.icons));
