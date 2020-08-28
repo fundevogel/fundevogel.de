@@ -30,8 +30,24 @@
   transition-property: transform, visibility, opacity;
 }
 
-.tippy-box[data-theme~='fundevogel'] > .tippy-svg-arrow {
+.tippy-box > .tippy-svg-arrow {
   @apply fill-current;
+}
+
+
+/* MENU */
+
+.tippy-box[data-theme~='menu'] {
+  @apply rounded-lg;
+  @apply shadow-xl;
+}
+
+.tippy-box[data-theme~='menu'] > .tippy-svg-arrow {
+  @apply text-yellow-light;
+}
+
+.tippy-box[data-theme~='menu'] > .tippy-svg-arrow > svg {
+  transform: scale(2.5);
 }
 
 

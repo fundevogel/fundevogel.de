@@ -15,7 +15,7 @@ import {runScroll} from './modules/infiniteScroll';
 import {runLightbox} from './modules/lightBox';
 import {runMasonry} from './modules/masonry';
 import {runSlider} from './modules/slider';
-import {runTooltips} from './modules/toolTips';
+import {runTooltips, activateMainMenu} from './modules/toolTips';
 import {toggleMenu} from './modules/toggleMenu';
 
 
@@ -105,7 +105,8 @@ class App {
 
                 const page = data.next.container;
 
-                // Tooltips
+                // Menu & tooltips
+                // activateMainMenu(page);
                 runTooltips(page);
 
 
