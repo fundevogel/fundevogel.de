@@ -42,8 +42,12 @@ if __name__ == '__main__':
             base_path = file.parent
             base_name = '-'.join(dir_name.split('_')[1:]) + '-' + str(count).zfill(2)
 
-            # Rename regular image
+            # Rename regular image (if unprocessed)
             updated_file = base_path / (base_name + suffix)
+
+            if updated_file.exists():
+                continue
+
             file.rename(updated_file)
 
             # Rename WebP image (if one exists)
