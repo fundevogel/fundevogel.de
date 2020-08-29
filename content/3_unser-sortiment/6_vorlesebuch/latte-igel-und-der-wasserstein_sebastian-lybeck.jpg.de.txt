@@ -1,0 +1,13 @@
+Titleattribute: "Latte Igel und der Wasserstein" von Sebastian Lybeck
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Latte Igel und der Wasserstein" von Sebastian Lybeck
+
+----
+
+Template: image

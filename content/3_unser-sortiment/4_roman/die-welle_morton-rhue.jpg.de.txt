@@ -1,0 +1,21 @@
+Titleattribute: "Die Welle" von Morton Rhue
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die Welle" von Morton Rhue
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
