@@ -32,7 +32,10 @@ tabs:
         type: textarea
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: fields/single-cover
 
           kontaktinfos:
             label:
