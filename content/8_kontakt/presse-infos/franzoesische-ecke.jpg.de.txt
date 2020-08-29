@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Französische Ecke
+
+----
+
+Template: image

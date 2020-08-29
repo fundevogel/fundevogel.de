@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Ob Sofa, Schaukelpferd oder Sitzecke - macht es euch bequem!
+
+----
+
+Template: image

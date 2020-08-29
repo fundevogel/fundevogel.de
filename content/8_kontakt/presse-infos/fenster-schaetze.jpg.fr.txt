@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Venez voir tous les "trésors" cachés du Fundevogel
+
+----
+
+Template: image

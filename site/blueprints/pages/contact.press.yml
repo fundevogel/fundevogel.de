@@ -1,0 +1,38 @@
+title:
+  de: Fundevogel & Team
+  en: About us
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+
+      details:
+        label:
+          de: Pressemappe
+          en: Press kit
+        type: textarea
+
+      grid: fields/gallery
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          subtitle:
+            label:
+              de: Zwischenüberschrift
+              en: Subtitle
+            type: text
+            icon: image
+
+      sidebar_files: sections/images
+
+  # Metadata
+  tab_seo: tabs/seo

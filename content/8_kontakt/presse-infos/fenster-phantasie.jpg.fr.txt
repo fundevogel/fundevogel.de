@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Regarder à travers une fenêtre dans le domaine de «l'imagination»
+
+----
+
+Template: image

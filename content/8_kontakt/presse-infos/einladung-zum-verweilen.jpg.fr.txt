@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Que ce soit un canapé, un cheval à bascule ou un coin salon - installez-vous confortablement!
+
+----
+
+Template: image

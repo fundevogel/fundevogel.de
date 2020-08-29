@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Affichage changeant de livres et de bricolages près de l'entrée
+
+----
+
+Template: image
