@@ -8,8 +8,11 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mt-12 lg:ml-12 flex-none flex justify-center">
-                <?php foreach ($editions as $edition) : ?>
-                <?php snippet('lesetipps/edition', ['edition' => $edition, 'isArchive' => false]) ?>
+                <?php
+                    foreach ($editions as $edition) :
+                    $caption = t($edition->edition()->value());
+                ?>
+                <?php snippet('lesetipps/edition', compact('edition', 'caption')) ?>
                 <?php endforeach ?>
             </div>
         </div>
