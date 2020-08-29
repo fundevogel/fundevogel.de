@@ -7,6 +7,6 @@ class CalendarSinglePage extends Page {
             : $this->getCover()
         ;
 
-        return $image->createImage('rounded-full', 'calendar.single.preview');
+        return $image->createImage('rounded-full transition-transform duration-350 transform group-hover:scale-110', 'calendar.single.preview');
     }
 }

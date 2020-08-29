@@ -59,6 +59,30 @@ Favorites:
     ..
 - 
   title: ""
+  quote: >
+    Unsere Klassenlehrerin hat daraus immer
+    vorgelesen. Faszination Magie.
+  person: Rüdiger B.
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-522-18051-1
+  book_cover:
+    - >
+      latte-igel-und-der-wasserstein_sebastian-lybeck.jpg
+  book_title: Latte Igel und der Wasserstein
+  book_subtitle: ""
+  author: Sebastian Lybeck
+  illustrator: Daniel Napp
+  translator: ""
+  participants: ""
+  page_count: "144"
+  publisher: Thienemann
+  age: ab 6 Jahren
+  price: 15,00
+  binding: gebunden
+  text: 'Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.'
+- 
+  title: ""
   quote: ""
   person: ""
   isseries: 'false'
@@ -94,27 +118,6 @@ Favorites:
     dressierter Zirkustiere, verkuppeln
     einen König und bestehen viele
     Mutproben.
-- 
-  title: ""
-  quote: ""
-  person: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-407-74693-1
-  book_cover:
-    - manuel-didi_erwin-moser.jpg
-  book_title: 'Manuel & Didi'
-  book_subtitle: Mäuseabenteuer im Sommer
-  author: Erwin Moser
-  illustrator: Erwin Moser
-  translator: ""
-  participants: ""
-  page_count: "90"
-  publisher: Beltz
-  age: ab 3 Jahren
-  price: 9,95
-  binding: gebunden
-  text: 'Manuel und Didi sind die allerbesten Freunde der Welt: phantasievoll, frech und unzertrennlich. Schnell bauen sie sich eine Palmeninsel, um gemütlich übers Wasser zu schippern, oder verwandeln einen Pilz in einen Sonnenschirm, als es ihnen zu heiß wird. Sommerspaß ohne Ende!'
 - 
   title: ""
   quote: >

@@ -45,7 +45,7 @@ Favorites:
   author: Otfried Preußler
   illustrator: ""
   translator: ""
-  participants: 'Mitarbeit: Frank. Regie Gustavus: Charly Frank. Gesprochen von Hübner Gustavus; Felix von Manteuffel; Tim Kreuer; Julian Greis; Hedi Kriegeskotte; Till Huster'
+  participants: ""
   page_count: ""
   publisher: Silberfisch
   age: ab 5 Jahren
@@ -54,8 +54,8 @@ Favorites:
   text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
 -
   title: ""
-  quote: ""
-  person: ""
+  quote: 'Otfried Preußlers Stimme lässt die sorbische Sage um den Waisenjungen und Mühlknappen Krabat, die dunklen und hellen Seiten der Magie sowie die Kraft der Liebe lebendig werden. Jedes Mal, wenn ich "Krabat" lese, höre ich Otfried Preußlers rollendes "R" und das Düstere und das Freundliche in seiner Stimme.'
+  person: Janina B.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7456-0167-1

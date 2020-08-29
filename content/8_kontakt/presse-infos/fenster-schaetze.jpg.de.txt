@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Im Fundevogel gibt es allerhand "Schätze" zu entdecken
+
+----
+
+Template: image

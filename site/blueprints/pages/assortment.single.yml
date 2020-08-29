@@ -181,8 +181,9 @@ tabs:
             type: textarea
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
-
+      sidebar_fields:
+        extends: sections/sidebar.cover
+        fields:
           assortment.fetchData:
             type: janitor
             label:
@@ -202,8 +203,6 @@ tabs:
       sidebar_files:
         extends: sections/images
         layout: list
-
-
 
   # Metadata
   tab_seo: tabs/seo

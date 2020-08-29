@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Entrée du Fundevogel, fenêtre sur le bureau et véritable "Freiburger Bächle"
+
+----
+
+Template: image

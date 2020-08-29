@@ -1,10 +1,20 @@
 <?php snippet('header') ?>
 
-<?php if ($pagination->page() === 1 || count($lesetipps) === 0) : ?>
-<header class="container">
-    <div class="flex flex-col lg:flex-row">
-        <div class="flex-1">
-            <?= $page->text()->kt() ?>
+<article class="mb-16">
+    <?php if ($pagination->page() === 1 || count($lesetipps) === 0) : ?>
+    <header class="container">
+        <div class="flex flex-col lg:flex-row">
+            <div class="flex-1">
+                <?= $page->text()->kt() ?>
+            </div>
+            <div class="mt-12 lg:ml-12 flex-none flex justify-center">
+                <?php
+                    foreach ($editions as $edition) :
+                    $caption = t($edition->edition()->value());
+                ?>
+                <?php snippet('lesetipps/edition', compact('edition', 'caption')) ?>
+                <?php endforeach ?>
+            </div>
         </div>
         <div class="mt-12 lg:ml-12 flex-none flex justify-center">
             <?php foreach ($editions as $edition) : ?>

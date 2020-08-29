@@ -11,9 +11,13 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 ----
 
+Builder: 
+
+----
+
 Favorites:
 
--
+- 
   title: ""
   quote: >
     Zeitlos gut! Ein Buch, das voller
@@ -26,7 +30,10 @@ Favorites:
   book_cover:
     - momo_michael-ende.jpg
   book_title: Momo
-  book_subtitle: ""
+  book_subtitle: >
+    Ausgezeichnet mit dem Deutschen
+    Jugendbuchpreis 1974, Kategorie
+    Jugendbuch
   author: Michael Ende
   illustrator: ""
   translator: ""
@@ -37,7 +44,7 @@ Favorites:
   price: 15,00
   binding: gebunden
   text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
--
+- 
   title: ""
   quote: ""
   person: ""
@@ -58,10 +65,25 @@ Favorites:
   age: ab 10 Jahren
   price: 12,00
   binding: gebunden
-  text: 'Tom Sawyer hat es faustdick hinter den Ohren! Tante Polly hat jedenfalls hat alle Hände voll zu tun, mit ihrem abenteuerlustigen Neffen. Aber man kann schließlich kein Musterschüler sein, wenn man ein gefürchteter Pirat werden will und sich in den Kopf gesetzt hat, einen echten Schatz zu finden. Als Tom und sein bester Freund Huck eines Nacht auf dem Friedhof einen Mord beobachten, geht das Abenteuer am Mississippi erst so richtig los ..'
--
+  text: >
+    Tom Sawyer hat es faustdick hinter den
+    Ohren! Tante Polly hat jedenfalls hat
+    alle Hände voll zu tun, mit ihrem
+    abenteuerlustigen Neffen. Aber man kann
+    schließlich kein Musterschüler sein,
+    wenn man ein gefürchteter Pirat werden
+    will und sich in den Kopf gesetzt hat,
+    einen echten Schatz zu finden. Als Tom
+    und sein bester Freund Huck eines Nacht
+    auf dem Friedhof einen Mord beobachten,
+    geht das Abenteuer am Mississippi erst
+    so richtig los ..
+- 
   title: ""
-  quote: 'Intelligentere Phantasieliteratur gibt es nicht. Ein Muss für alle Bücherfans!'
+  quote: >
+    Intelligentere Phantasieliteratur gibt
+    es nicht. Ein Muss für alle
+    Bücherfans!
   person: Helena K.
   isseries: 'false'
   more_options: 'true'
@@ -70,7 +92,9 @@ Favorites:
     - >
       die-stadt-der-traeumenden-buecher_walter-moers.jpg
   book_title: Die Stadt der Träumenden Bücher
-  book_subtitle: ""
+  book_subtitle: >
+    Roman. Ausgezeichnet mit dem
+    Phantastik-Preis 2005 der Stadt Wetzlar
   author: Walter Moers
   illustrator: ""
   translator: ""
@@ -80,8 +104,26 @@ Favorites:
   age: ""
   price: 28,00
   binding: gebunden
-  text: 'Als der Pate des jungen Dichters Hildegunst von Mythenmetz stirbt, hinterlässt er seinem Schützling nur wenig mehr als ein Manuskript. Dieses aber ist so makellos, dass Mythenmetz sich gezwungen sieht, dem Geheimnis seiner Herkunft nachzugehen. Die Spur führt nach Buchhaim, der Stadt der Träumenden Bücher. Einmal in den Klauen dieser buchverrückten Stadt, wird Mythenmetz immer tiefer hineingesogen in ihre labyrinthische Welt, in der Lesen noch eine wirkliche Gefahr ist, in der rücksichtslose Bücherjäger nach bibliophilen Schätzen gieren, Buchlinge ihren Schabernack treiben und der mysteriöse Schattenkönig herrscht ..'
--
+  text: >
+    Als der Pate des jungen Dichters
+    Hildegunst von Mythenmetz stirbt,
+    hinterlässt er seinem Schützling nur
+    wenig mehr als ein Manuskript. Dieses
+    aber ist so makellos, dass Mythenmetz
+    sich gezwungen sieht, dem Geheimnis
+    seiner Herkunft nachzugehen. Die Spur
+    führt nach Buchhaim, der Stadt der
+    Träumenden Bücher. Einmal in den
+    Klauen dieser buchverrückten Stadt,
+    wird Mythenmetz immer tiefer
+    hineingesogen in ihre labyrinthische
+    Welt, in der Lesen noch eine wirkliche
+    Gefahr ist, in der rücksichtslose
+    Bücherjäger nach bibliophilen
+    Schätzen gieren, Buchlinge ihren
+    Schabernack treiben und der mysteriöse
+    Schattenkönig herrscht ..
+- 
   title: ""
   quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
   person: Sandra H.
@@ -91,7 +133,7 @@ Favorites:
   book_cover:
     - herr-der-diebe_cornelia-funke.jpg
   book_title: Herr der Diebe
-  book_subtitle: ""
+  book_subtitle: "Ausgezeichnet mit dem Corine - Internationaler Buchpreis, Kategorie Kinder- und Jugendbuch 2003, dem Evangelischen Buchpreis, Kategorie Kinderbuch, 2002, dem Zürcher Kinderbuchpreis 'La vache qui lit' 20"
   author: Cornelia Funke
   illustrator: ""
   translator: ""
@@ -101,8 +143,44 @@ Favorites:
   age: ab 10 Jahren
   price: 17,90
   binding: gebunden
-  text: 'Im winterlichen Venedig treibt eine Kinderbande ihr Unwesen. Sie wird von einem maskierten Unbekannten angeführt. Doch keiner kennt seine Herkunft, niemand hat je sein Gesicht gesehen. Er wird von allen nur "Herr der Diebe" genannt. Eines Tages führt ein rätselhafter Auftrag die Kinder auf eine scheinbar unbewohnte Laguneninsel. Welches Geheimnis birgt diese Insel? Und wer versteckt sich hinter der Maske des Anführers?'
--
+  text: >
+    Im winterlichen Venedig treibt eine
+    Kinderbande ihr Unwesen. Sie wird von
+    einem maskierten Unbekannten angeführt.
+    Doch keiner kennt seine Herkunft,
+    niemand hat je sein Gesicht gesehen. Er
+    wird von allen nur "Herr der Diebe"
+    genannt. Eines Tages führt ein
+    rätselhafter Auftrag die Kinder auf
+    eine scheinbar unbewohnte Laguneninsel.
+    Welches Geheimnis birgt diese Insel? Und
+    wer versteckt sich hinter der Maske des
+    Anführers?
+- 
+  title: Der Herr der Ringe
+  quote: 'Sagengestalten, Abenteuer, Magie, Zauberer - idealer Lesestoff für gelegentliche Träumer.'
+  person: Rüdiger B.
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-608-93981-1
+  book_cover:
+    - >
+      der-herr-der-ringe-die-gefaehrten_john-r-r-tolkien.jpg
+  book_title: 'Der Herr der Ringe - Die Gefährten'
+  book_subtitle: ""
+  author: John R. R. Tolkien
+  illustrator: ""
+  translator: Wolfgang Krege
+  participants: ""
+  page_count: "608"
+  publisher: Klett-Cotta
+  age: ""
+  price: 15,00
+  binding: kartoniert
+  text: |
+    Der Schauplatz des Herrn der Ringe ist Mittelerde, eine alternative Welt, und erzählt wird von der gefahrvollen Quest einiger Gefährten, die in einem dramatischen Kampf gegen das Böse endet. Durch einen merkwürdigen Zufall fällt dem Hobbit Bilbo Beutlin ein Zauberring zu, dessen Kraft, käme er in die falschen Hände, zu einer absoluten Herrschaft des Bösen führen würde. Bilbo übergibt den Ring an seinen Neffen Frodo, der den Ring in der Schicksalskluft zerstören soll.
+    Hobbits sind kleine, gemütliche Leute, dabei aber erstaunlich zäh. Sie leben in einem ländlichen Idyll, dem Auenland.
+- 
   title: ""
   quote: ""
   person: ""
@@ -126,10 +204,16 @@ Favorites:
   price: 8,99
   binding: kartoniert
   text: 'Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.'
--
+- 
   title: ""
-  quote: ""
-  person: ""
+  quote: >
+    Die Geschichte von Tarek und Soraya, von
+    Unterdrückung und Freiheitskampf, von
+    Angst und Mut und Liebe. Und es ist eine
+    Heldengeschichte. Wie viele gute
+    Heldengeschichten ist sie ein bisschen
+    erfunden und ein bisschen wahr.
+  person: Janina B.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8369-5676-5
@@ -137,7 +221,7 @@ Favorites:
     - >
       ueber-die-berge-und-ueber-das-meer_dirk-reinhardt.jpg
   book_title: Über die Berge und über das Meer
-  book_subtitle: ""
+  book_subtitle: Roman
   author: Dirk Reinhardt
   illustrator: ""
   translator: ""
@@ -148,6 +232,32 @@ Favorites:
   price: 14,95
   binding: gebunden
   text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde ..'
+- 
+  title: ""
+  quote: >
+    Ein faszinierendes und gleichzeitig
+    erschreckendes Buch. Die Menschheit ist
+    immer noch anfällig.
+  person: Rüdiger B.
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-473-58008-8
+  book_cover:
+    - die-welle_morton-rhue.jpg
+  book_title: Die Welle
+  book_subtitle: >
+    Bericht über einen Unterrichtsversuch,
+    der zu weit ging.
+  author: Morton Rhue
+  illustrator: ""
+  translator: Hans-Georg Noack
+  participants: ""
+  page_count: "186"
+  publisher: Ravensburger Verlag
+  age: ab 14 Jahren
+  price: 8,99
+  binding: kartoniert
+  text: 'Ein junger Lehrer entschließt sich zu einem ungewöhnlichen Experiment. Er möchte seinen Schülern beweisen, dass Anfälligkeit für faschistoides Handeln und Denken nicht etwas ist, das nur andere Menschen betrifft - Faschismus ist hier mitten unter uns und in jedem von uns. Doch die "Bewegung", die er auslöst, droht ihn und sein Vorhaben zu überrollen: Das Experiment gerät außer Kontrolle.'
 
 ----
 

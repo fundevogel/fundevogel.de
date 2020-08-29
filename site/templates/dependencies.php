@@ -5,8 +5,21 @@
         <div class="flex-1">
             <?= $page->text()->kt() ?>
         </div>
-        <div class="mt-12 flex-none text-center">
-            <?php snippet('cover') ?>
+    </header>
+    <hr>
+    <section class="container">
+        <?= $page->details()->kt() ?>
+    </section>
+    <aside class="wave">
+        <?= useSeparator('orange-light', 'top') ?>
+        <div class="inner">
+            <div class="container">
+                <div class="text-center">
+                    <?= useSVG('', 'title-icon', 'heart-filled') ?>
+                </div>
+                <h2 class="title"><?= t('Dankeschön') ?>!</h2>
+                <?= $page->thanks()->kt() ?>
+            </div>
         </div>
     </div>
 </header>
@@ -24,46 +37,29 @@
             <h2 class="wave-title"><?= t('Dankeschön') ?>!</h2>
             <?= $page->thanks()->kt() ?>
         </div>
-    </div>
-    <?= useSeparator('orange-light', 'bottom') ?>
-</aside>
-<section class="container">
-    <h2 class="mb-12 text-center"><?= t('Verwendete Software') ?></h2>
-    <div class="flex flex-col md:flex-row">
-        <div class="mb-6 md:mb-0 flex-1">
-            <?php snippet('dependencies/list', ['title' => 'PHP / Composer', 'data' => $phpData]) ?>
-        </div>
-        <div class="flex-1 md:ml-10">
-            <?php snippet('dependencies/list', ['title' => 'JavaScript / Node', 'data' => $pkgData]) ?>
-        </div>
-    </div>
-</section>
-<aside class="wave">
-    <?= useSeparator('orange-light', 'top-reversed') ?>
-    <div class="inner">
-        <div class="container">
-            <div class="text-center">
-                <?= useSVG(t('Über unsere Webseite'), 'wave-icon', 'badge-filled') ?>
-            </div>
-            <h2 class="wave-title"><?= t('Über unsere Webseite') ?></h2>
-            <div class="flex flex-col lg:flex-row">
-                <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
-                    <?= $page->toDonut($source['languages'], 'programmiersprachen', 15, null, 'w-56 h-56 block') ?>
-                    <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
-                        <h3 class="text-orange-medium"><?= t('Programmiersprachen') ?></h3>
-                        <ul class="table">
-                            <?php foreach ($source['languages'] as $language => $data) : ?>
-                            <li>
-                                <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $data['color'] ?>"></span>
-                                <?= $data['value'] * 100 ?> % <?= $language ?>
-                            </li>
-                            <?php endforeach ?>
-                        </ul>
-                    </div>
+    </section>
+    <aside class="wave">
+        <?= useSeparator('orange-light', 'top-reversed') ?>
+        <div class="inner">
+            <div class="container">
+                <div class="text-center">
+                    <?= useSVG(t('Über unsere Webseite'), 'title-icon', 'badge-filled') ?>
                 </div>
-                <div class="mb-16 lg:mb-0 md:ml-16 lg:ml-20 flex-1 flex flex-col justify-center">
-                    <div class="lg:text-lg">
-                        <?= $page->source()->kt() ?>
+                <h2 class="title"><?= t('Über unsere Webseite') ?></h2>
+                <div class="flex flex-col lg:flex-row">
+                    <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
+                        <?= $page->toDonut($source['languages'], 'programmiersprachen', 15, null, 'w-56 h-56 block') ?>
+                        <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
+                            <h3 class="text-orange-medium"><?= t('Programmiersprachen') ?></h3>
+                            <ul class="table">
+                                <?php foreach ($source['languages'] as $language => $data) : ?>
+                                <li>
+                                    <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $data['color'] ?>"></span>
+                                    <?= $data['value'] * 100 ?> % <?= $language ?>
+                                </li>
+                                <?php endforeach ?>
+                            </ul>
+                        </div>
                     </div>
                     <div class="flex flex-col xl:flex-row xl:justify-between my-12 text-sm">
                         <div class="flex flex-col xs:flex-row xl:flex-col">

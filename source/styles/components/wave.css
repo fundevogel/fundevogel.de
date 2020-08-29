@@ -18,18 +18,26 @@
   @apply bg-orange-light;
 }
 
-.wave-icon {
+.title-icon {
   @apply inline-block;
   @apply mb-4;
   @apply w-12;
   @apply h-12;
   @apply fill-current;
+  @apply text-red-medium;
+}
+
+.wave .title-icon {
   @apply text-orange-medium;
 }
 
-.wave-title {
+.title {
   @apply mb-16;
   @apply text-5xl;
   @apply text-center;
+  @apply text-red-medium;
+}
+
+.wave .title {
   @apply text-orange-medium;
 }

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der kleine Drache Kokosnuss" von Ingo Siegner
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

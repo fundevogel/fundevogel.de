@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Der Blick durchs Fenster ins Reich der "Phantasie"
+
+----
+
+Template: image

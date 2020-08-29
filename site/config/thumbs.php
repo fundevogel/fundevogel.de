@@ -101,6 +101,11 @@ return [
         'calendar.single.gallery.288' => ['width' => 288],
         'calendar.single.gallery.200' => ['width' => 200],
         'calendar.single.gallery.120' => ['width' => 120],
+
+        # Contact
+        # Press images grid
+        'contact.press.grid' => ['width' => 768, 'height' => 768, 'crop' => true],
+        'contact.press.grid.768' => ['width' => 768, 'height' => 768, 'crop' => true],
     ],
 
     'sizes' => [
@@ -116,5 +121,6 @@ return [
         'lesepeter.mascot' => [150, 112],
         'calendar.single.preview' => [160],
         'calendar.single.gallery' => [312, 288, 200, 120],
+        'contact.press.grid' => [768],
     ]
 ];

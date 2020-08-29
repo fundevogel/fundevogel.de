@@ -1,0 +1,21 @@
+Titleattribute:
+
+----
+
+Source:
+
+----
+
+Altattribute:
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Une partie de la librairie vue d'un côté
+
+----
+
+Template: image

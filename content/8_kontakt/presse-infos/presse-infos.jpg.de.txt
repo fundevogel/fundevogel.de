@@ -1,0 +1,21 @@
+Titleattribute: Und was tust du?
+
+----
+
+Source: Börsenverein des Deutschen Buchhandels e.V.
+
+----
+
+Altattribute: Artikel im "Börsenblatt"
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: Unsere Aktion "Jetzt tun wir was" im "Börsenblatt"
+
+----
+
+Template: image

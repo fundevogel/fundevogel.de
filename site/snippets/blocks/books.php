@@ -3,9 +3,9 @@
     <?= useSeparator('orange-light', 'top') ?>
     <div class="inner">
         <div class="text-center">
-            <?= useSVG($data->heading()->html(), 'wave-icon', 'star') ?>
+            <?= useSVG($data->heading()->html(), 'title-icon', 'star') ?>
         </div>
-        <h2 class="wave-title"><?= $data->heading()->html() ?></h2>
+        <h2 class="title"><?= $data->heading()->html() ?></h2>
         <div class="js-slider mb-10 overflow-hidden">
             <div class="flex">
                 <?php
