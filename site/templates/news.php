@@ -33,8 +33,8 @@
                                 $id = $article->uid();
                                 if ($image) :
                             ?>
-                            <div class="<?php e(count($images) > 2, 'm-2 xs:sm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg select-none">
-                                <?= $image->createImage('h-auto' . r(count($images) === 1, ' w-40 ', ' w-24 xs:w-40 ') . 'sm:w-48 xl:w-56 rounded-lg cursor-pointer', 'news.article.image', true) ?>
+                            <div class="<?php e(count($images) > 2, 'm-2 xs:sm-4 ') ?>inline-block <?php e(count($images) === 2, 'last:ml-6 lg:last:ml-0 lg:last:mt-6 ') ?>rounded-lg group overflow-hidden select-none">
+                                <?= $image->createImage('h-auto' . r(count($images) === 1, ' w-40 ', ' w-24 xs:w-40 ') . 'sm:w-48 xl:w-56 rounded-lg transition-transform duration-350 transform group-hover:scale-110 cursor-pointer', 'news.article.image', true) ?>
                             </div>
                             <?php endif ?>
                             <?php endforeach ?>

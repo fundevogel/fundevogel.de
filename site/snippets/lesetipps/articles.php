@@ -4,8 +4,8 @@
 ?>
 <article class="flex flex-col md:flex-row">
     <div class="flex-none flex justify-center items-center">
-        <a class="<?php e($lesetipp->hasAward()->bool(), 'mb-16 ', 'mb-8 ') ?>md:mb-0" href="<?= $lesetipp->url() ?>">
-            <?= $lesetipp->getBookCover('rounded-lg') ?>
+        <a class="<?php e($lesetipp->hasAward()->bool(), 'mb-16 ', 'mb-8 ') ?>md:mb-0 rounded-lg group overflow-hidden" href="<?= $lesetipp->url() ?>">
+            <?= $lesetipp->getBookCover('rounded-lg transition-transform duration-350 transform group-hover:scale-110') ?>
         </a>
     </div>
     <div class="md:ml-10 flex-1 flex flex-col justify-center relative">

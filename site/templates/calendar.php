@@ -45,9 +45,9 @@
         <div class="pt-12 pb-6 lg:pb-4 bg-orange-light">
             <div class="container lg:px-8 xl:px-12">
                 <div class="text-center">
-                    <?= useSVG(t('Jährliche Höhepunkte'), 'wave-icon', 'calendar-filled') ?>
+                    <?= useSVG(t('Jährliche Höhepunkte'), 'title-icon', 'calendar-filled') ?>
                 </div>
-                <h2 class="wave-title"><?= t('Jährliche Höhepunkte') ?></h2>
+                <h2 class="title"><?= t('Jährliche Höhepunkte') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <?php
                         $count = 1;
@@ -55,7 +55,7 @@
                     ?>
                     <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
                         <div class="mb-8 flex justify-center">
-                            <a href="<?= $annualEvent->url() ?>">
+                            <a class="rounded-full group overflow-hidden" href="<?= $annualEvent->url() ?>">
                                 <?= $annualEvent->getPreview() ?>
                             </a>
                         </div>

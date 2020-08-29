@@ -20,9 +20,9 @@
         <div class="inner">
             <div class="container">
                 <div class="text-center">
-                    <?= useSVG('', 'wave-icon', 'heart-filled') ?>
+                    <?= useSVG('', 'title-icon', 'heart-filled') ?>
                 </div>
-                <h2 class="wave-title"><?= t('Dankeschön') ?>!</h2>
+                <h2 class="title"><?= t('Dankeschön') ?>!</h2>
                 <?= $page->thanks()->kt() ?>
             </div>
         </div>
@@ -44,9 +44,9 @@
         <div class="inner">
             <div class="container">
                 <div class="text-center">
-                    <?= useSVG(t('Über unsere Webseite'), 'wave-icon', 'badge-filled') ?>
+                    <?= useSVG(t('Über unsere Webseite'), 'title-icon', 'badge-filled') ?>
                 </div>
-                <h2 class="wave-title"><?= t('Über unsere Webseite') ?></h2>
+                <h2 class="title"><?= t('Über unsere Webseite') ?></h2>
                 <div class="flex flex-col lg:flex-row">
                     <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
                         <?= $page->toDonut($source['languages'], 'programmiersprachen', 15, null, 'w-56 h-56 block') ?>

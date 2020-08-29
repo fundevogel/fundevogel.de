@@ -20,9 +20,9 @@
         <?= useSeparator('orange-light', 'top-reversed') ?>
         <div class="inner">
             <div class="text-center">
-                <?= useSVG(t('Auswahl unserer Lieblinge'), 'wave-icon', 'book-closed-filled') ?>
+                <?= useSVG(t('Auswahl unserer Lieblinge'), 'title-icon', 'book-closed-filled') ?>
             </div>
-            <h2 class="wave-title"><?= t('Auswahl unserer Lieblinge') ?></h2>
+            <h2 class="title"><?= t('Auswahl unserer Lieblinge') ?></h2>
             <div class="js-slider mb-10 overflow-hidden">
                 <div class="flex">
                     <?php

@@ -3,9 +3,9 @@
     <div class="inner">
         <div class="container">
             <div class="text-center">
-                <?= useSVG($data->heading()->html(), 'wave-icon', 'heart-filled') ?>
+                <?= useSVG($data->heading()->html(), 'title-icon', 'heart-filled') ?>
             </div>
-            <h2 class="wave-title"><?= $data->heading()->html() ?></h2>
+            <h2 class="title"><?= $data->heading()->html() ?></h2>
             <?php if ($data->show_columns()->bool()) : ?>
             <div class="flex flex-col md:flex-row">
                 <div class="mb-6 md:mb-0 flex-1">
