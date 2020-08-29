@@ -1,5 +1,5 @@
 <div class="container">
-    <nav class="mb-12 flex sketch text-5xl select-none">
+    <nav class="flex sketch text-5xl select-none">
         <?php
             foreach ($siblings as $sibling) :
             $isFirst = $sibling === $siblings->first();

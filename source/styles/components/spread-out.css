@@ -5,10 +5,10 @@
   @apply mt-px;
   @apply mx-auto;
   @apply mb-0;
-  @apply bg-white;
   @apply opacity-0;
 
   content: '';
+  background: currentColor;
   transition: theme('transitionDuration.250') theme('transitionTimingFunction.in-out');
 }
 

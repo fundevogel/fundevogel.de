@@ -16,28 +16,34 @@
                 <?php endforeach ?>
             </div>
         </div>
-    </header>
-    <hr>
+        <div class="mt-12 lg:ml-12 flex-none flex justify-center">
+            <?php foreach ($editions as $edition) : ?>
+            <?php snippet('lesetipps/edition', ['edition' => $edition, 'isArchive' => false]) ?>
+            <?php endforeach ?>
+        </div>
+    </div>
+</header>
+<hr>
+<?php endif ?>
+<section class="container">
+    <?php if (param($parameter)) : ?>
+    <h2 class="mb-12 flex flex-col items-center">
+        <span class="mb-8 font-bold font-small-caps"><?= t('Alle Lesetipps:' . $parameter) ?>:</span>
+        <a class="py-2 px-4 sketch text-5xl text-white hover:text-white bg-red-light hover:bg-red-medium hover:line-through rounded-lg outline-none" href="<?= $page->url() ?>">
+            <?= rawurldecode(param($parameter)) ?>
+        </a>
+    </h2>
+    <?php else : ?>
+    <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
     <?php endif ?>
-    <section class="container">
-        <?php if (param($parameter)) : ?>
-        <h2 class="mb-12 flex flex-col items-center">
-            <span class="mb-8 font-bold font-small-caps"><?= t('Alle Lesetipps:' . $parameter) ?>:</span>
-            <a class="py-2 px-4 sketch text-5xl text-white hover:text-white bg-red-light hover:bg-red-medium hover:line-through rounded-lg outline-none" href="<?= $page->url() ?>">
-                <?= rawurldecode(param($parameter)) ?>
-            </a>
-        </h2>
-        <?php else : ?>
-        <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
-        <?php endif ?>
-        <?php if (count($lesetipps) === 0) : ?>
-        <p class="italic text-center"><?= t('Keine Lesetipps') ?></p>
-        <?php else : ?>
-        <?php snippet('lesetipps/articles', ['lesetipps' => $lesetipps]) ?>
-        <?php endif ?>
-    </section>
-</article>
-
-<?php snippet('lesetipps/pagination') ?>
+    <?php if (count($lesetipps) === 0) : ?>
+    <p class="italic text-center"><?= t('Keine Lesetipps') ?></p>
+    <?php else : ?>
+    <?php snippet('lesetipps/articles', ['lesetipps' => $lesetipps]) ?>
+    <?php endif ?>
+</section>
+<footer class="mt-16">
+    <?php snippet('lesetipps/pagination') ?>
+<footer>
 
 <?php snippet('footer') ?>
