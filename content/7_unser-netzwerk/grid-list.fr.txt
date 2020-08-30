@@ -9,7 +9,7 @@ Slug: notre-reseau
 Text:
 
 ## En bonne compagnie !
-> „ Il n'est pas bon que l'homme soit seul, encore moins quand il est à l'oeuvre ; il a d'autant plus besoin de sympathie et de stimulation s'il veut réussir.“
+> „Il n'est pas bon que l'homme soit seul, encore moins quand il est à l'oeuvre ; il a d'autant plus besoin de sympathie et de stimulation s'il veut réussir.“
 > <cite>— Johann Wolfgang von Goethe</cite>
 
 Nous cherchons à coopérer avec tous les lieux qui mettent en contact les enfants et adolescents avec les livres.
@@ -20,37 +20,36 @@ Nous cherchons des partenaires qui partagent notre mission :
 
 Cards:
 
-- 
-  entry: "Bien qu'habitant maintenant à Erfurt, notre collègue (link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) fait encore partie de l'équipe et nous aide avec ses dessins et son graphisme. Elle est elle-même illustratrice, auteure et typographe. Les personnes attentives découvriront son nom sur quelques livres de nos rayons..."
-- 
-  entry: |
-    En tant que partenaire du SC Freiburg, (link: http://www.fuechsleclub.de text: Füchsle Club target: blank) nous soutenons le club dans son projet "football et lecture", notamment avec l'opération des sacs-lecture, de nombreux conseils de lecture et d'événements communs. Nous accompagnons également chaque année l'ouverture de la saison par une sélection de livres, directement au stade !
-- 
-  entry: "On nous demande souvent si la belle décoration poétique qui orne nos jardinières est à vendre ... Pour ceux que cela intéresse, voici le site de l'artiste Monika Schwab : (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk target: blank)."
-- 
-  entry: "(link: https://twobrain.io text: Martin Folkers target: blank) est notre héros de l'informatique ! Il nous aide et nous conseille avec amour et précision !"
-- 
+-
+  entry: 'Bien qu'habitant maintenant à Erfurt, notre collègue (link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) fait encore partie de l'équipe et nous aide avec ses dessins et son graphisme. Elle est elle-même illustratrice, auteure et typographe. Les personnes attentives découvriront son nom sur quelques livres de nos rayons...'
+-
+  entry: 'En tant que (link: https://www.scfreiburg.com/fr text: partenaire du SC Freiburg target: blank), (link: http://www.fuechsleclub.de text: Füchsle Club target: blank) nous soutenons le club dans son projet "football et lecture", notamment avec l'opération des sacs-lecture, de nombreux conseils de lecture et d'événements communs. Nous accompagnons également chaque année l'ouverture de la saison par une sélection de livres, directement au stade !'
+-
+  entry: 'On nous demande souvent si la belle décoration poétique qui orne nos jardinières est à vendre ... Pour ceux que cela intéresse, voici le site de l'artiste Monika Schwab : (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk target: blank).'
+-
+  entry: '(link: https://twobrain.io text: Martin Folkers target: blank) est notre héros de l'informatique ! Il nous aide et nous conseille avec amour et précision !'
+-
   entry: 'Chaque année en octobre, nous organisons et faisons partie du grand (link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefestes target: blank), en coopération avec le (link: https://www.freiburg.de/pb/1432868.html text: service de la culture de Fribourg target: blank), le département jeunesse du théatre de Fribourg et la maison de la littérature.'
-- 
+-
   entry: 'In Zusammenarbeit mit der (short: AJuM desc: Arbeitsgemeinschaft Jugendliteratur und Medien color: orange) veröffentlichen wir monatlich herausragende, mit dem (link: https://www.lesepeter.de text: LesePeter target: blank) ausgezeichnete Bücher. Daneben danken wir der (short: GEW desc: Gewerkschaft Erziehung und Wissenschaft color: orange) für die freundliche Genehmigung, die Preisträger des (link: https://www.gew.de/wolgast-preis text: Heinrich-Wolgast-Preises target: blank) als Lesetipps aufzunehmen.'
-- 
-  entry: "Vous pouvez nous voir de temps en temps dans le (link: http://www.cafe-goldene-krone.de text: Café Goldene Krone target: blank) à St. Märgen: un projet exceptionnel mené par des femmes, qui mérite d'être soutenu ! De nombreux livres pour enfants y sont mis à disposition."
-- 
+-
+  entry: Vous pouvez nous voir de temps en temps dans le (link: http://www.cafe-goldene-krone.de text: Café Goldene Krone target: blank) à St. Märgen: un projet exceptionnel mené par des femmes, qui mérite d'être soutenu ! De nombreux livres pour enfants y sont mis à disposition.'
+-
   entry: 'La comédienne (link: http://www.petra-gack.de text: Petra Gack target: blank) et le musicien (link: http://www.mike-schweizer.de text: Mike Schweizer target: blank) font partie de notre réseau car nous avons la possibilité et la chance de pouvoir organiser avec eux de belles manifestations artistiques.'
-- 
+-
   entry: |
-    (link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank):
-    La langue n'est pas une barrière, elle est une opportunité !
-- 
+  (link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank):
+  La langue n'est pas une barrière, elle est une opportunité !
+-
   entry: 'Nous trouvons très intéressants les projets du (link: https://www.literaturhaus-freiburg.de text: Literaturhaus Freiburg target: blank), comme le "Freileser".'
-- 
+-
   entry: 'Zu unseren liebsten Nachbarn gehört das (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst target: blank). Nicht allein, weil es direkt gegenüber vom Fundevogel liegt, sondern auch weil Kunst und Literatur im Alltag nicht weit voneinander entfernt sind.'
-- 
-  entry: "(link: http://www.traeumothek.de text: Träumothek - Innehalten, Erzählen, Träumen target: blank). Un lieu culturel pour songer et rêver, un lieu de paix et de calme, à l'écart des stimulations extérieures incessantes ... Les tentes et hamacs invitent à ne rien faire et laisser place à son imagination et sa créativité. Nous sommes heureux (et fiers) que nos cartes postales aient encouragé un tel projet !"
-- 
-  entry: "Le soleil brille et invite à la farniente dans les chaises longues du (link: https://www.cafemarcel.de text: Café Marcel target: blank) ! De temps en temps (consultez pour cela notre agenda), des lectures en français se mêlent au goût divin d'un croissant chaud ..."
-- 
-  entry: "Depuis l'ouverture du rayon de livres en français, le (link: https://ccf-fr.de text: Centre Culturel Francais target: blank) compte parmi nos partenaires fidèles. Nous essayons ensemble de donner un aperçu actuel et original de la littérature jeunesse française."
+-
+  entry: (link: http://www.traeumothek.de text: Träumothek - Innehalten, Erzählen, Träumen target: blank). Un lieu culturel pour songer et rêver, un lieu de paix et de calme, à l'écart des stimulations extérieures incessantes ... Les tentes et hamacs invitent à ne rien faire et laisser place à son imagination et sa créativité. Nous sommes heureux (et fiers) que nos cartes postales aient encouragé un tel projet !'
+-
+  entry: 'Le soleil brille et invite à la farniente dans les chaises longues du (link: https://www.cafemarcel.de text: Café Marcel target: blank) ! De temps en temps (consultez pour cela notre agenda), des lectures en français se mêlent au goût divin d'un croissant chaud ...'
+-
+  entry: 'Depuis l'ouverture du rayon de livres en français, le (link: https://ccf-fr.de text: Centre Culturel Francais target: blank) compte parmi nos partenaires fidèles. Nous essayons ensemble de donner un aperçu actuel et original de la littérature jeunesse française.'
 
 ----
 
