@@ -5,27 +5,31 @@
         <div class="flex-1">
             <?= $page->text()->kt() ?>
         </div>
-    </header>
-    <?php if ($page->builder()->isNotEmpty()) : ?>
-    <hr>
-    <?php snippet('blocks') ?>
-    <?php endif ?>
-    <?php if ($favorites->isNotEmpty()) : ?>
-    <aside class="wave">
-        <?= useSeparator('orange-light', 'top-reversed') ?>
-        <div class="inner">
-            <div class="text-center">
-                <?= useSVG(t('Auswahl unserer Lieblinge'), 'title-icon', 'book-closed-filled') ?>
-            </div>
-            <h2 class="title"><?= t('Auswahl unserer Lieblinge') ?></h2>
-            <div class="js-slider mb-10 overflow-hidden">
-                <div class="flex">
-                    <?php
-                        foreach ($favorites as $favorite) :
-                        $favoriteTitle = $favorite->title()->isNotEmpty()
-                            ? $favorite->title()->html()
-                            : $favorite->book_title()->html()
-                        ;
+        <div class="mt-12 flex-none text-center">
+            <?php snippet('cover') ?>
+        </div>
+    </div>
+</header>
+<?php if ($page->builder()->isNotEmpty()) : ?>
+<hr>
+<?php snippet('blocks') ?>
+<?php endif ?>
+<?php if ($favorites->isNotEmpty()) : ?>
+<aside class="wave">
+    <?= useSeparator('orange-light', 'top-reversed') ?>
+    <div class="inner">
+        <div class="text-center">
+            <?= useSVG(t('Auswahl unserer Lieblinge'), 'title-icon', 'book-closed-filled') ?>
+        </div>
+        <h2 class="title"><?= t('Auswahl unserer Lieblinge') ?></h2>
+        <div class="js-slider mb-10 overflow-hidden">
+            <div class="flex">
+                <?php
+                    foreach ($favorites as $favorite) :
+                    $favoriteTitle = $favorite->title()->isNotEmpty()
+                        ? $favorite->title()->html()
+                        : $favorite->book_title()->html()
+                    ;
 
                     if ($image = $favorite->book_cover()->toFile()) :
                 ?>

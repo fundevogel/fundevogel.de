@@ -47,5 +47,7 @@
         <span class="px-2">Shop</span>
     </a>
 
+    <?php if ($page->hasTranslations()) : ?>
     <?php snippet('nav/languages') ?>
+    <?php endif ?>
 </div>
