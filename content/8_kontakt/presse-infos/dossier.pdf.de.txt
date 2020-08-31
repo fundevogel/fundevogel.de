@@ -1,15 +1,7 @@
-Edition: Herbst
-
-----
-
-Year: 2020
-
-----
-
 Coverimage:
 
 - >
-  lesetipps/2020-herbst-buchempfehlungen.pdf.jpg
+  kontakt/presse-infos/dossier.pdf.jpg
 
 ----
 

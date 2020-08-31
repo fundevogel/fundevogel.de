@@ -1,4 +1,4 @@
-Titleattribute: Unsere Empfehlungen im Herbst
+Titleattribute: Unsere Pressemappe
 
 ----
 
@@ -6,15 +6,15 @@ Source: Eigenmaterial
 
 ----
 
-Altattribute: Coverbild unserer Empfehlungen im Herbst
+Altattribute: Coverbild unserer Pressemappe
 
 ----
 
-Caption-wanted: true
+Caption-wanted: false
 
 ----
 
-Caption: Herbst
+Caption:
 
 ----
 
