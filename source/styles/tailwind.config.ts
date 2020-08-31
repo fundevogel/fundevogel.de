@@ -145,7 +145,7 @@ module.exports = {
         padding: {
           default: '1rem',
           xs: '2rem',
-          xl: '4rem',
+          xl: '8rem',
         },
       },
       cursor: {

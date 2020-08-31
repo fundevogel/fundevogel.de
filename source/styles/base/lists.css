@@ -27,8 +27,7 @@
   top: -1px;
 }
 
-.list li ul,
-.list li + li {
+.list li ul {
   @apply mt-2;
 }
 
