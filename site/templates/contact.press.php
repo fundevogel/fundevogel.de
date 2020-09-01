@@ -10,22 +10,39 @@
         </div>
     </div>
 </header>
+<hr>
+<section class="container">
+    <?= $page->details()->kt() ?>
+</section>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top-reversed') ?>
     <div class="inner">
-        <div class="container max-w-xl">
-            <div class="flex flex-col items-center">
-                <?= useSVG(t('Presse-Überschrift'), 'title-icon mb-6', 'file-filled') ?>
-                <h2 class="title"><?= t('Presse-Überschrift') ?></h2>
-                <?php snippet('lesetipps/edition', ['edition' => $dossier, 'caption' => t('Presse-Überschrift')]) ?>
-                <div class="mt-8 text-center">
-                    <?= $page->details()->kt() ?>
+        <div class="container">
+            <div class="flex flex-col lg:flex-row">
+                <div class="flex-none flex justify-center">
+                    <div class="flex items-center mb-10 lg:mb-0">
+                        <?php snippet('lesetipps/edition', ['edition' => $dossier]) ?>
+                    </div>
+                </div>
+                <div class="md:ml-16 flex-1 flex flex-col justify-center">
+                    <div class="mb-6">
+                        <span class="text-xs font-medium"><?= t('Unsere Pressemappe') ?></span>
+                        <h3 class="lg:text-2xl text-orange-medium"><?= t('Presse-Überschrift') ?></h3>
+                        <?= $page->press_kit()->kt() ?>
+                    </div>
+                    <div>
+
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
+<?php if ($page->builder()->isNotEmpty()) : ?>
+<?php snippet('blocks') ?>
+<hr>
+<?php endif ?>
 <?php if ($grid) : ?>
 <section>
     <div class="text-center">

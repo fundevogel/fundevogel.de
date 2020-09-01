@@ -19,6 +19,8 @@ module.exports = {
           // Margins used for SVG separator
           '-mt-px',
           '-mb-px',
+          // Text style used for `contact.press` quote
+          'underline',
         ],
       }
     },

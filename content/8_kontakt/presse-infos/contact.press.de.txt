@@ -2,31 +2,70 @@ Title: Presse
 
 ----
 
-Date: 2020-08-28
-
-----
-
 Text:
 
-## Einblicke in unsere Welt
-Sie wollen über den Fundevogel einen Artikel oder Blogeintrag schreiben, einen Beitrag für Hörfunk oder Fernsehen produzieren und benötigen
+## Danke für Ihr Interesse!
+Es ist uns ein Anliegen, die Beschäftigung mit Literatur für Kinder und Jugendliche aktiv zu fördern und zu begleiten; wir sind daher für eure und Ihre Berichterstattung über unsere Buchhandlung dankbar.
 
-- Bilder von der Buchhandlung,
-- Hintergründe, Referenzen oder
-- sonstige Informationen?
-
-Dann sind Sie hier genau richtig: die nachfolgende Auswahl an Texten und Bildern ermöglicht einen schnellen Einstieg in unsere Welt der Kinder- und Jugendliteratur. Herzlich willkommen!
-
-----
-
-Cover: presse-infos.jpg
+Dafür haben wir nachfolgend Bilder und Texte zusammengestellt, die im Rahmen einer Berichterstattung über den Fundevogel als Informationsgrundlage dienen können.
 
 ----
 
 Details:
-**Alle Infos und Bilder** über den Fundevogel finden Sie auch in unserer Pressemappe:
 
-**schnell, übersichtlich und kompakt**.
+## Die Entstehung des Fundevogels
+Die Idee für eine Kinder- und Jugendbuchhandlung in Freiburg entstand Mitte der 80er Jahre; getragen von dem Wunsch, die Kinder- und Jugendliteratur ernst zu nehmen und ihr ein eigenes kleines Universum zu schaffen, gründete eine Gruppe junger BuchhändlerInnen, PädagogInnen und Freischaffender im Jahre 1986 den "Fundevogel", benannt nach dem gleichnamigen Märchen der Gebrüder Grimm, in dem sich zwei Kinder ewigen Zusammenhalt schwören.
+
+Noch heute sind da der Laden, die Liebe und die gemeinsame Idee, welche die "GründerInnen" im Oktober 1985 in einem Bericht unter der Überschrift **Anstiftung zum Lesen** so zusammenfassten:
+
+> Mit unseren Kompetenzen wollen wir in Freiburg ein qualitativ differenziertes Sortiment an Kinder und Jugendbüchern bereitstellen und die Liebe zum Kinder- und Jugendbuch wecken, fördern und pflegen.
+>
+> Wir wollen unser Anliegen und unser Bemühen in der Öffentlichkeit verbreiten. Unsere Arbeit zielt dahin, Kinder und Jugendliche aktiv mit dem Buch vertraut zu machen. Elternarbeit ist darin selbstredend eingeschlossen. In erster Linie jedoch wollen wir eine Buch-Handlung <span class="underline">für</span> Kinder und Jugendliche sein. Darüberhinaus wollen wir ein Angebot an die Gemeinsamkeit für Kinder und Erwachsene sein.
+>
+> Der kindliche und jugendliche Leser selbst ist unser Ziel. Dies schliesst ein pädagogisches und kulturelles Bemühen ein, dem wir uns unter dem "Begriff" Bildung mit unserer Tätigkeit und uns als ganzen Wesen verantwortlich fühlen.
+
+----
+
+Press-kit:
+
+Alle Informationen und Bilder über den Fundevogel finden Sie auch in unserer Pressemappe - **schnell, übersichtlich und kompakt**. Natürlich können auch alle sonstigen Texte unserer Webseite im Rahmen einer Berichterstattung genutzt werden.
+
+Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer NutzerInnen legen, haben wir auch eine Reihe (link: technisches text: technische Informationen) über unsere Webseite zusammengestellt - außerdem ist der gesamte Quellcode unseres Internetauftritts auf GitHub (link: https://github.com/Fundevogel/fundevogel.de text: frei verfügbar target: blank).
+
+----
+
+Builder:
+
+- 
+  heading: Gegenwart
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ### Bücher öffnen Welten - Welten öffnen dich
+    Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Leseförderung mit vielfältigen Angeboten und Aktionen für Kindergärten und Schulen, anlässlich der Feierlichkeiten zum (link: kalender/welttag-des-buches text: Welttag des Buches) oder als (link: netzwerk text: Kooperationspartner) des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts "Fußball und Lesen".
+    
+    Daneben veranstaltet der Fundevogel regelmäßig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkräftig an Planung und Durchführung des "(link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefestes)" der Stadt Freiburg, einem jährlich im Oktober stattfindenden Kinderliteraturfestival.
+    
+    Ein besonderes Ereignis bildet die "(link: kalender/herbstlese text: HerbstLese)": in gemütlicher Atmosphäre stellen die MitarbeiterInnen der Buchhandlung ihre ganz persönlichen Lieblingsbücher aus der Flut herbstlicher Neuerscheinungen vor.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1598944863065_231
+- 
+  heading: Zukunft
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Gemeinsam in die Zukunft
+    Zusammen mit seinen Kundinnen und Kunden, FreundInnen und Förderern soll der Fundevogel als Genossenschaft fortgeführt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:
+    
+    Der besondere Geist des Ladens soll auch für zukünftige Generationen erhalten bleiben, während die digitale Transformation des Buchmarktes fortwährend neue Herausforderungen hervorbringt.
+    
+    **Einer für alle und alle für einen** - wir freuen uns darauf!
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1598944887019_231
 
 ----
 
@@ -48,8 +87,16 @@ Subtitle: Bilder zum Download
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Date: 2020-08-28
+
+----
+
+Cover: presse-infos.jpg

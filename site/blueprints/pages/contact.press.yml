@@ -14,10 +14,16 @@ tabs:
         type: textarea
 
       details:
+        label: Details
+        type: textarea
+
+      press_kit:
         label:
           de: Pressemappe
           en: Press kit
         type: textarea
+
+      builder: fields/builder
 
       grid: fields/gallery
 
