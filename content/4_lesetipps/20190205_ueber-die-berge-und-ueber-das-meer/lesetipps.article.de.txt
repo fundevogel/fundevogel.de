@@ -14,7 +14,7 @@ Verdict: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung un
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -30,15 +30,15 @@ Hasaward: false
 
 ----
 
-Award: 
+Award:
 
 ----
 
-Awardedition: 
+Awardedition:
 
 ----
 
-Leselink: 
+Leselink:
 
 ----
 
@@ -50,7 +50,7 @@ Isbn: 978-3-8369-5676-5
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/ueber-die-Berge-und-ueber-das-Meer/63715/10002/3000001645823/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/Product/3000001645823/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/ueber-die-Berge-und-ueber-das-Meer
 
 ----
 
@@ -58,7 +58,7 @@ Book-title: Über die Berge und über das Meer
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -66,15 +66,15 @@ Author: Dirk Reinhardt
 
 ----
 
-Illustrator: 
+Illustrator:
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 

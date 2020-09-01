@@ -58,7 +58,7 @@ Isbn: 978-3-95939-076-7
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002542569/63715/10002/-3/Buecher_Bilderbuecher/Vessela-Nikolova/Ein-Strandtag/4099276460822241241/%204099276460822241224/%
+Shop: https://fundevogel.buchkatalog.de/Product/3000002542569/63715/10002/-3/Buecher_Bilderbuecher/Vessela-Nikolova/Ein-Strandtag
 
 ----
 

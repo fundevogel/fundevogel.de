@@ -14,7 +14,7 @@ Verdict: Das erste Band der Abenteuer von Finn und Jola. Spannend und witzig erz
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -30,15 +30,15 @@ Hasaward: false
 
 ----
 
-Award: 
+Award:
 
 ----
 
-Awardedition: 
+Awardedition:
 
 ----
 
-Leselink: 
+Leselink:
 
 ----
 
@@ -50,7 +50,7 @@ Isbn: 978-3-551-55375-1
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/Product/Buecher_Abenteuer/Martin-Muser/Kannawoniwasein/63715/10002/3000000666236/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/Product/3000000666236/63715/10002/-3/Buecher_Abenteuer/Martin-Muser/Kannawoniwasein
 
 ----
 
@@ -66,15 +66,15 @@ Author: Martin Muser
 
 ----
 
-Illustrator: 
+Illustrator:
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 

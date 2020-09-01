@@ -27,6 +27,7 @@
 # ---------------
 /lib/toolset/*
 !/lib/toolset/*.py
+!/lib/toolset/*.php
 !/lib/toolset/*.bash
 !/lib/toolset/graveyard
 

@@ -10,7 +10,7 @@ Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die g
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -26,15 +26,15 @@ Hasaward: false
 
 ----
 
-Award: 
+Award:
 
 ----
 
-Awardedition: 
+Awardedition:
 
 ----
 
-Leselink: 
+Leselink:
 
 ----
 
@@ -46,7 +46,7 @@ Isbn: 978-3-7891-0883-9
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet//Product/Buecher_Abenteuer/Kirsten-Boie/Ein-Sommer-in-Sommerby/63715/4099276460822233275/3000000556998/-3/4099276460822241237/4099276460822241224/4099276460822241224
+Shop: https://fundevogel.buchkatalog.de/Product/3000000556998/63715/10002/-3/Buecher_Abenteuer/Kirsten-Boie/Ein-Sommer-in-Sommerby
 
 ----
 
@@ -54,7 +54,7 @@ Book-title: Ein Sommer in Sommerby
 
 ----
 
-Book-subtitle: 
+Book-subtitle:
 
 ----
 
@@ -66,11 +66,11 @@ Illustrator: Verena Körting
 
 ----
 
-Translator: 
+Translator:
 
 ----
 
-Participants: 
+Participants:
 
 ----
 
