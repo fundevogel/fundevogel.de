@@ -80,11 +80,17 @@ function useSVG ($title, $classes = '', $file = '', $customAttribute = '')
         $file = strtolower($file);
     }
 
-    return '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute) . '><use xlink:href="/assets/images/icons.svg#' . $file . '"></use></svg>';
+    $svgPath = 'assets/images/' . $file . '.svg';
+    $svg = (new Asset($svgPath))->read();
+
+    return Str::replace($svg, '<svg', '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute), 1);
 }
 
 function useSeparator ($color = 'orange-light', $position = 'top') {
+    $svgPath = 'assets/images/' . $position . '.svg';
+    $svg = (new Asset($svgPath))->read();
+
     $margin = Str::contains($position, 'top') === true ? '-mb-px' : '-mt-px';
 
-    return '<div class="w-full"><svg class="w-full h-auto ' . $margin . ' fill-current text-' . $color .'" role="img"><use xlink:href="/assets/images/icons.svg#' . $position . '"></use></svg></div>';
+    return '<div class="w-full">' . Str::replace($svg, '<svg', '<svg class="w-full h-auto ' . $margin . ' fill-current text-' . $color .'" role="img"', 1) . '</div>';
 }

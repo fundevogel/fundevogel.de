@@ -96,7 +96,6 @@ const conf: Record<string, any> = {
             }],
         }, // For more options, see https://github.com/ben-eb/gulp-svgmin#plugins
         output: 'icons.svg', // SVG sprite filename
-        inline: false,
     },
     fonts: {
         allowed: ['ttf', 'woff', 'woff2'], // For example, generating from OTF without shipping source files
