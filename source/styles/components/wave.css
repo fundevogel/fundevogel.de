@@ -33,7 +33,6 @@
 
 .title {
   @apply mb-16;
-  @apply text-5xl;
   @apply text-center;
   @apply text-red-medium;
 }
