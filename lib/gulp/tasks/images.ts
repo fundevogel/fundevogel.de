@@ -14,10 +14,10 @@ const
     browserSync = require('browser-sync').init,
     favicons = require('gulp-favicons'),
     filter = require('gulp-filter'),
+    flatten = require('gulp-flatten'),
     imagemin = require('gulp-imagemin'),
     newer = require('gulp-newer'),
     rename = require('gulp-rename'),
-    svg = require('gulp-svgstore'),
     webp = require('gulp-webp')
 ;
 
@@ -35,6 +35,7 @@ function compressImages() {
     return src(imagesSource, {since: lastRun(compressImages)})
         .pipe(imagemin(conf.images.minify))
         .pipe(dest(conf.dist.images))
+        .pipe(browserSync.stream())
     ;
 }
 
@@ -67,9 +68,10 @@ function combineIcons() {
 
     return src(iconsSource)
         .pipe(newer(conf.dist.icons))
-        .pipe(svg({inlineSvg: conf.icons.inline})) // See https://github.com/w0rm/gulp-svgstore#options
-        .pipe(rename(conf.icons.output))
-        .pipe(dest(conf.dist.icons));
+        .pipe(flatten())
+        .pipe(dest(conf.dist.icons))
+        .pipe(browserSync.stream())
+    ;
 }
 
 
@@ -83,6 +85,7 @@ function createFavicons() {
 
     return src(faviconSource)
         .pipe(favicons(conf.favicons.options))
+        .pipe(imagemin(conf.images.minify))
         .pipe(snippet)
         .pipe(rename({extname: '.php'}))
         .pipe(snippet.restore)

@@ -1,7 +1,7 @@
 .zigzag-border {
   @apply absolute;
 
-  background: url('/assets/images/border.svg') repeat-x center bottom;
+  background: url('/assets/images/icons/border.svg') repeat-x center bottom;
   height: 13px;
   top: -10px;
 }

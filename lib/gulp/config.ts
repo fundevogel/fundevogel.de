@@ -22,7 +22,7 @@ const conf: Record<string, any> = {
         styles: dist + 'styles',
         scripts: dist + 'scripts',
         images: dist + 'images',
-        icons: dist + 'images',
+        icons: dist + 'images/icons',
         fonts: dist + 'fonts',
     },
     styles: {
@@ -69,7 +69,7 @@ const conf: Record<string, any> = {
         },
     },
     images: {
-        allowed: ['png', 'jpg', 'svg', 'gif'],
+        allowed: ['png', 'jpg', 'jpeg', 'gif'],
         minify: {
             progressive: true,
             use: [pngquant()],
@@ -95,8 +95,6 @@ const conf: Record<string, any> = {
                 },
             }],
         }, // For more options, see https://github.com/ben-eb/gulp-svgmin#plugins
-        output: 'icons.svg', // SVG sprite filename
-        inline: false,
     },
     fonts: {
         allowed: ['ttf', 'woff', 'woff2'], // For example, generating from OTF without shipping source files

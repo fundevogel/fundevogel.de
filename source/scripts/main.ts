@@ -8,7 +8,6 @@ import {jsDetect} from './helpers/jsDetect';
 import {contains} from './helpers/contains';
 
 import {lazyLoad} from './modules/lazyLoading';
-import {polyfillSVG} from './modules/polyfillSVG';
 import {runCharts} from './modules/chartLabels';
 import {runForms} from './modules/forms';
 import {runScroll} from './modules/infiniteScroll';
@@ -78,7 +77,6 @@ class App {
         console.info('🚀 App:init');
 
         jsDetect();
-        polyfillSVG();
         lazyLoad();
 
         // Avoid 'blank page' on JS error
