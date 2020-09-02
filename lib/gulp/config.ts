@@ -5,7 +5,7 @@ const
     src = 'source/',
     root = 'public/',
     dist = root + 'assets/',
-    localURL = 'http://192.168.69.69:8080',
+    localURL = 'https://192.168.69.69:8080',
     faviconSnippet = 'favicons.html'
 ;
 
@@ -20,6 +20,7 @@ const conf: Record<string, any> = {
     },
     dist: {
         styles: dist + 'styles',
+        critical: dist + 'styles/critical',
         scripts: dist + 'scripts',
         images: dist + 'images',
         icons: dist + 'images/icons',
@@ -42,6 +43,29 @@ const conf: Record<string, any> = {
         },
         prefix: {
             // For more options, see https://github.com/postcss/autoprefixer#options
+        },
+        critical: {
+            base: localURL,
+            urls: [
+                '/fundevogel-und-team',
+                '/unser-sortiment',
+                '/lesetipps',
+                '/kalender',
+                '/unser-service',
+                '/unser-netzwerk',
+                '/kontakt',
+                '/technisches',
+                '/agb',
+                '/impressum',
+                '/datenschutz',
+            ],
+            penthouse: {
+                css: dist + 'styles/main.css'
+            },
+        },
+        minify: {
+            // For more options, see https://github.com/jakubpawlowicz/clean-css#constructor-options
+            level: 2,
         },
     },
     scripts: {
