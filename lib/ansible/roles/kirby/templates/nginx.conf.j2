@@ -1,6 +1,6 @@
 server {
-    listen {{ host_port }} default_server ssl;
-    listen [::]:{{ host_port }} default_server ssl ipv6only=on;
+    listen {{ host_port }} default_server ssl http2;
+    listen [::]:{{ host_port }} default_server ssl ipv6only=on http2;
 
     # Server settings
     server_name {{ host_ip }};
@@ -39,5 +39,9 @@ server {
         fastcgi_index index.php;
         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
         include fastcgi_params;
+    }
+
+    location ~* \.(webp|jpg|jpeg|png|gif|ico|css|js|ttf|woff|woff2)$ {
+        expires 365d;
     }
 }
