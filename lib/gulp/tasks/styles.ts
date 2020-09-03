@@ -71,7 +71,7 @@ function makeStyles() {
  * Extracts critical CSS (only used in production)
  */
 
-function extractCritical() {
+function extractCritical(cb: Function) {
     if (!fs.existsSync(conf.dist.critical)){
         fs.mkdirSync(conf.dist.critical);
     }
@@ -113,13 +113,15 @@ function extractCritical() {
         extractCSS(),
         extractCSS(),
         extractCSS(),
-    ])
+    ]).then(() => {
+        src(conf.dist.critical + '/*.css')
+            .pipe(concat('critical.css'))
+            .pipe(minify(conf.styles.minify))
+            .pipe(dest(conf.dist.styles))
+        ;
+    });
 
-    return src(conf.dist.critical + '/*.css')
-        .pipe(concat('critical.css'))
-        .pipe(minify(conf.styles.minify))
-        .pipe(dest(conf.dist.styles))
-    ;
+    cb();
 }
 
 

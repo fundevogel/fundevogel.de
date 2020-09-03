@@ -48,6 +48,7 @@ return [
     'hashandsalt.kirby-webp.template' => 'webp',
 
     # Disable security headers (see `.htaccess`)
+    // 'bnomei.securityheaders.enabled' => false,
     'bnomei.securityheaders.enabled' => 'force',
     'bnomei.securityheaders.headers' => [],
     'bnomei.securityheaders.loader' => function () {
@@ -57,16 +58,8 @@ return [
         # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically
         $csp = $instance->csp();
 
-        $cssFile = option('debug') === true ? 'main.css' : 'main.min.css';
-        $cssPath = 'assets/styles/' . $cssFile;
-        $cssNonce = $instance->setNonce((new Asset($cssPath))->read());
-
-        $jsFile = option('debug') === true ? 'main.js' : 'main.min.js';
-        $jsPath = 'assets/scripts/' . $jsFile;
-        $jsNonce = $instance->setNonce((new Asset($jsPath))->read());
-
-        $csp->nonce('style-src', $cssNonce);
-        $csp->nonce('script-src', $jsNonce);
+        $csp->nonce('style-src', $instance->setNonce('css'));
+        $csp->nonce('script-src', $instance->setNonce('js'));
     },
 
     # Adding hash to {css,js} files for cache busting

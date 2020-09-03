@@ -54,10 +54,6 @@ const conf: Record<string, any> = {
                 '/unser-service',
                 '/unser-netzwerk',
                 '/kontakt',
-                '/technisches',
-                '/agb',
-                '/impressum',
-                '/datenschutz',
             ],
             penthouse: {
                 css: dist + 'styles/main.css'
