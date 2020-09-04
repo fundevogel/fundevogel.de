@@ -7,23 +7,39 @@
 
     <!-- CSS -->
     <?php
-        $cssFile = option('debug') === true ? 'main.css' : 'main.min.css';
-        $cssPath = 'assets/styles/' . $cssFile;
-        $css = (new Asset($cssPath))->read();
+        $criticalPath = '/assets/styles/critical.css';
+        $critical = (new Asset($kirby->root('assets') . $criticalPath))->read();
     ?>
-    <style nonce="<?= $page->nonce($css) ?>"><?= $css ?></style>
+    <style nonce="<?= $page->nonce('css') ?>"><?= $critical ?></style>
+
+    <?php
+        $cssFile = option('debug') === true ? 'main.css' : 'main.min.css';
+        $cssPath = '/assets/styles/' . $cssFile;
+    ?>
+    <link id="css" rel="stylesheet" href="<?= $cssPath ?>" type="text/css" media="all">
+    <script nonce="<?= $page->nonce('js') ?>">
+        document.getElementById('css').addEventListener('load', function () {
+            this.media = 'all';
+        });
+    </script>
+    <noscript>
+        <?= css($cssPath) ?>
+    </noscript>
 
     <!-- JS -->
     <?php
         $jsFile = option('debug') ? 'main.js' : 'main.min.js';
-        $jsPath = 'assets/scripts/' . $jsFile;
-        $js = (new Asset($jsPath))->read();
+        $jsPath = '/assets/scripts/' . $jsFile;
 
-        echo Bnomei\Fingerprint::js($jsPath, [
-            'nonce' => $page->nonce($js),
-            'defer' => true,
-            'integrity' => true
-        ]);
+        if (option('debug')) {
+            echo js($jsPath, ['defer' => true]);
+        } else {
+            echo Bnomei\Fingerprint::js($jsPath, [
+                'nonce' => $page->nonce('js'),
+                'defer' => true,
+                'integrity' => true
+            ]);
+        }
     ?>
 
     <!-- Metadata -->

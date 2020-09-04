@@ -1,7 +1,5 @@
 import tippy, {createSingleton, roundArrow} from 'tippy.js';
 
-import {polyfillSVG} from './polyfillSVG';
-
 export const runTooltips = (container: HTMLElement): void => {
     tippy(container.querySelectorAll('.js-tippy'), {
         theme: 'fundevogel orange',

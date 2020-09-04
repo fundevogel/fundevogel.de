@@ -5,7 +5,7 @@ const
     src = 'source/',
     root = 'public/',
     dist = root + 'assets/',
-    localURL = 'http://192.168.69.69:8080',
+    localURL = 'https://192.168.69.69:8080',
     faviconSnippet = 'favicons.html'
 ;
 
@@ -20,9 +20,10 @@ const conf: Record<string, any> = {
     },
     dist: {
         styles: dist + 'styles',
+        critical: dist + 'styles/critical',
         scripts: dist + 'scripts',
         images: dist + 'images',
-        icons: dist + 'images',
+        icons: dist + 'images/icons',
         fonts: dist + 'fonts',
     },
     styles: {
@@ -42,6 +43,25 @@ const conf: Record<string, any> = {
         },
         prefix: {
             // For more options, see https://github.com/postcss/autoprefixer#options
+        },
+        critical: {
+            base: localURL,
+            urls: [
+                '/fundevogel-und-team',
+                '/unser-sortiment',
+                '/lesetipps',
+                '/kalender',
+                '/unser-service',
+                '/unser-netzwerk',
+                '/kontakt',
+            ],
+            penthouse: {
+                css: dist + 'styles/main.css'
+            },
+        },
+        minify: {
+            // For more options, see https://github.com/jakubpawlowicz/clean-css#constructor-options
+            level: 2,
         },
     },
     scripts: {
@@ -69,7 +89,7 @@ const conf: Record<string, any> = {
         },
     },
     images: {
-        allowed: ['png', 'jpg', 'svg', 'gif'],
+        allowed: ['png', 'jpg', 'jpeg', 'gif'],
         minify: {
             progressive: true,
             use: [pngquant()],
@@ -95,8 +115,6 @@ const conf: Record<string, any> = {
                 },
             }],
         }, // For more options, see https://github.com/ben-eb/gulp-svgmin#plugins
-        output: 'icons.svg', // SVG sprite filename
-        inline: false,
     },
     fonts: {
         allowed: ['ttf', 'woff', 'woff2'], // For example, generating from OTF without shipping source files
