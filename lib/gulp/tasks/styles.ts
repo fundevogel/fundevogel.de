@@ -148,11 +148,13 @@ function minifyStyles() {
 
 let styles: TaskFunction;
 
-if (process.env.NODE_ENV === 'production') {
+if (conf.styles.critical.enable && process.env.NODE_ENV === 'production') {
     styles = series(
         makeStyles,
         parallel(minifyStyles, extractCritical)
     );
+} else if (process.env.NODE_ENV === 'production') {
+    styles = series(makeStyles, minifyStyles);
 } else {
     styles = series(lintStyles, makeStyles);
 }

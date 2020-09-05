@@ -105,6 +105,11 @@ if (conf.favicons.enable && process.env.NODE_ENV === 'production') {
         combineIcons,
         series(compressImages, convertWebP)
     );
+} else if (process.env.NODE_ENV === 'production') {
+    images = parallel(
+        combineIcons,
+        series(compressImages, convertWebP)
+    );
 } else {
     images = parallel(
         combineIcons,

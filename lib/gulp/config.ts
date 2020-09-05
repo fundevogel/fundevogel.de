@@ -45,6 +45,7 @@ const conf: Record<string, any> = {
             // For more options, see https://github.com/postcss/autoprefixer#options
         },
         critical: {
+            enable: true,
             base: localURL,
             urls: [
                 '/fundevogel-und-team',
@@ -56,7 +57,9 @@ const conf: Record<string, any> = {
                 '/kontakt',
             ],
             penthouse: {
-                css: dist + 'styles/main.css'
+                // For more options, see https://github.com/pocketjoso/penthouse#options
+                css: dist + 'styles/main.css',
+                renderWaitTime: 3000,
             },
         },
         minify: {
