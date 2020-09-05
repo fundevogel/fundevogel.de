@@ -26,14 +26,17 @@
                     <div class="py-4 md:pb-0 bg-yellow-dark">
                         <div class="container">
                             <div class="flex items-end justify-center md:justify-start">
-                                <?php $image = new Asset('assets/images/logo.png'); ?>
-                                <img
-                                    class="w-32 lg:w-auto -mb-4 md:-mb-8 mr-4 hidden md:inline z-30"
-                                    src="<?= $image->url() ?>"
-                                    title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo"
-                                    width="<?= $image->width() ?>"
-                                    height="<?= $image->height() ?>"
-                                >
+                                <div class="-mb-4 md:-mb-8 mr-4 flex">
+                                    <?php $image = new Asset('assets/images/logo_square.png'); ?>
+                                    <div class="aspect-ratio-square"></div>
+                                    <img
+                                        class="w-32 lg:w-auto hidden md:inline z-30"
+                                        src="<?= $image->url() ?>"
+                                        title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo"
+                                        width="<?= $image->width() ?>"
+                                        height="<?= $image->height() ?>"
+                                    >
+                                </div>
                                 <div class="flex flex-col items-center md:items-start leading-none">
                                     <h1 class="sketch tracking-wide<?php e($page->isHomePage(), ' text-6xl xs:text-page-heading sm:text-site-heading', ' text-center text-5xl sm:text-6xl lg:text-page-heading') ?>">
                                         <?php

@@ -82,6 +82,12 @@ module.exports = {
         '56': '14rem',
         '64': '16rem',
       },
+      aspectRatio: {
+        'none': 0,
+        'square': [1, 1],
+        '16/9': [16, 9],
+        '4/3': [4, 3],
+      },
       backgroundColor: theme => theme('colors'),
       backgroundImage: {
         'gradient-to-t': 'linear-gradient(to top, var(--gradient-color-stops))',
@@ -595,6 +601,7 @@ module.exports = {
       alignItems: ['responsive'],
       alignSelf: ['responsive'],
       appearance: ['responsive'],
+      aspectRatio: ['responsive'],
       backgroundAttachment: ['responsive'],
       backgroundColor: ['responsive', 'hover', 'focus', 'group-hover'],
       backgroundImage: ['responsive'],
@@ -686,5 +693,10 @@ module.exports = {
       transitionDelay: ['responsive'],
     },
     corePlugins: {},
-    plugins: [],
+    plugins: [
+      require('tailwindcss-aspect-ratio'),
+    ],
+    future: {
+      removeDeprecatedGapUtilities: true,
+    },
   }
