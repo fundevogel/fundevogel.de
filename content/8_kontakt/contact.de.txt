@@ -16,7 +16,7 @@ Tram: Oder Ihr fahrt mit der Straßenbahn. Die nächstgelegenen Haltestellen sin
 
 Cover:
 
-- stadtkarte-fundevogel.png
+- stadtkarte-fundevogel.jpg
 
 ----
 

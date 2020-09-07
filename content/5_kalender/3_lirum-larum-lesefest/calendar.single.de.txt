@@ -75,7 +75,7 @@ Builder:
 
 Cover:
 
-- lirum-larum-lesefest_logo.png
+- lirum-larum-lesefest_logo.jpg
 
 ----
 
