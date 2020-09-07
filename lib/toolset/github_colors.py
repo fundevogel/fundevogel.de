@@ -23,7 +23,7 @@ def fetch_url(url):
     return response.text
 
 
-if __name__ == '__main__':
+def generate_colors(path: str):
     # Fetch `linugist` yaml data & load color data
     raw = fetch_url('https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml')
     data = yaml.safe_load(raw)
@@ -41,5 +41,12 @@ if __name__ == '__main__':
     colors = {key: colors[key] for key in sorted(colors, key=lambda string: string.lower())}
 
     # Store color data as JSON
-    with open(sys.argv[1] + '/colors.json', 'w') as file:
+    with open(path + '/colors.json', 'w') as file:
         json.dump(colors, file, indent=4)
+
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        sys.exit('Usage: %s path/to/colors' % sys.argv[0])
+
+    generate_colors(sys.argv[1])

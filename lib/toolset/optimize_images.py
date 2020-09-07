@@ -6,7 +6,7 @@ import sys
 from PIL import Image
 
 
-def optimize_images(path, quality: int=85):
+def optimize_images(path: str, quality: int=85):
     # Extensions to look for
     extensions = [
         '.png',

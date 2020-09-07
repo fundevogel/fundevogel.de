@@ -65,6 +65,6 @@ def rename_images(path):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        sys.exit('Usage: %s path/to/images' % sys.argv[0])
+        sys.exit('Usage: %s path/to/directories' % sys.argv[0])
 
     optimize_images(sys.argv[1])
