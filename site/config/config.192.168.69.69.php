@@ -5,7 +5,7 @@
 ##
 
 return [
-    'debug' => false,
+    'debug' => true,
 
     // Disable plguins @ development
     'afbora.kirby-minify-html.enabled' => false,

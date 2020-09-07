@@ -9,7 +9,7 @@
                 <?php
                     $image = new File([
                         'parent' => $site,
-                        'filename' => 'lesepeter.png',
+                        'filename' => 'lesepeter.jpg',
                     ]);
                     $preset = 'lesepeter.mascot';
                     $resized = $image->thumb($preset);

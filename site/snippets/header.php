@@ -23,14 +23,14 @@
 
             <main class="flex-1" role="main">
                 <header id="page-header" class="mt-12 mb-4">
-                    <div class="py-4 md:pb-0 bg-yellow-dark">
+                    <div class="pt-4 pb-2 md:py-0 bg-yellow-dark">
                         <div class="container">
                             <div class="flex items-end justify-center md:justify-start">
-                                <div class="-mb-4 md:-mb-8 mr-4 flex">
+                                <div class="-mb-4 md:-mb-12 mr-4 hidden md:flex">
                                     <?php $image = new Asset('assets/images/logo_square.png'); ?>
                                     <div class="aspect-ratio-square"></div>
                                     <img
-                                        class="w-32 lg:w-auto hidden md:inline z-30"
+                                        class="w-32 lg:w-auto z-30"
                                         src="<?= $image->url() ?>"
                                         title="Lieber barfuß als ohne Buch" alt="Fundevogel-Logo"
                                         width="<?= $image->width() ?>"

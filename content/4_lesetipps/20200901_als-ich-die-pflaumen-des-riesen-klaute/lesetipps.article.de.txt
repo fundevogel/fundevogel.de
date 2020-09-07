@@ -56,7 +56,7 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-septemb
 
 ----
 
-Isaward: false
+Isaward: true
 
 ----
 

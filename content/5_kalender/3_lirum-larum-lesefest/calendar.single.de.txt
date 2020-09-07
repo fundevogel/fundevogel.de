@@ -32,25 +32,22 @@ Builder:
   heading: Eindrücke
   horizontal_line: 'false'
   gallery:
-    - 20181019_110301nnnnnnnnn.jpg
-    - >
-      22548670_1693727277327267_6674288599474112539_o.jpg
-    - >
-      abschluss-des-lirum-larum-lesefestes-2016.jpg
-    - dedicace-aurelie-guetz-13.10.jpg
-    - >
-      erzaehlungen-und-live-zeichnungen-mit-mehrdad-zaeri.jpg
-    - img-20181016-wa0021.jpg
-    - img-20181020-wa0006.jpg
-    - img-20181023-wa0006.jpg
-    - img-20191014-wa0007.jpg
-    - img_4552.jpg
-    - img_20181014_140045.jpg
-    - img_20181014_140238.jpg
-    - img_20181014_151033.jpg
-    - img_20191013_151953.jpg
-    - img_20191013_152058.jpg
-    - wp_20171017_12_04_26_pro.jpg
+    - lirum-larum-lesefest-01.jpg
+    - lirum-larum-lesefest-02.jpg
+    - lirum-larum-lesefest-03.jpg
+    - lirum-larum-lesefest-04.jpg
+    - lirum-larum-lesefest-05.jpg
+    - lirum-larum-lesefest-06.jpg
+    - lirum-larum-lesefest-07.jpg
+    - lirum-larum-lesefest-08.jpg
+    - lirum-larum-lesefest-09.jpg
+    - lirum-larum-lesefest-10.jpg
+    - lirum-larum-lesefest-11.jpg
+    - lirum-larum-lesefest-12.jpg
+    - lirum-larum-lesefest-13.jpg
+    - lirum-larum-lesefest-14.jpg
+    - lirum-larum-lesefest-15.jpg
+    - lirum-larum-lesefest-16.jpg
   _key: gallery
   _uid: gallery_1593979450547_755
 -

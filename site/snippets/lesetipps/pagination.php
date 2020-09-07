@@ -8,6 +8,8 @@
         <a class="h-20 flex-1 flex justify-center items-center md:hidden bg-red-light rounded-l-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->prevPageUrl() ?>" title="<?= t('Neuere Lesetipps') ?>">
             <?= useSVG(t('Neuere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-left') ?>
         </a>
+        <?php else : ?>
+        <span class="h-20 flex-1 md:hidden rounded-l-lg bg-red-light opacity-75 cursor-not-allowed" title="<?= t('Hier geht es nicht weiter!') ?>"></span>
         <?php endif ?>
         <?php foreach ($pagination->range(5) as $number): ?>
             <?php if ($pagination->page() === $number) : ?>
@@ -28,6 +30,8 @@
         <a class="h-20 flex-1 hidden md:flex justify-center items-center bg-red-light rounded-r-lg hover:bg-red-medium text-white transition-all outline-none" href="<?= $pagination->lastPageURL() ?>" title="<?= t('Zum Ende springen') ?>">
             <?= useSVG(t('Ältere Lesetipps'), 'w-auto h-10 fill-current', 'arrow-right') ?>
         </a>
+        <?php else : ?>
+        <span class="h-20 flex-1 md:hidden rounded-r-lg bg-red-light opacity-75 cursor-not-allowed" title="<?= t('Hier geht es nicht weiter!') ?>"></span>
         <?php endif ?>
     </nav>
 </div>

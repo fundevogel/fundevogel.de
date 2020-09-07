@@ -1,12 +1,9 @@
 #!/usr/bin/python
 
-# Renames all 'news' images recursively
-
-
 from pathlib import Path
 
 
-if __name__ == '__main__':
+def rename_images(path):
     # Extensions to look for
     extensions = [
         '.png',
@@ -26,13 +23,13 @@ if __name__ == '__main__':
     ]
 
     # Get this party started
-    for path in Path('content/1_news').iterdir():
+    for path in Path(path).iterdir():
         dir_name = path.parts[-1]
 
         if dir_name in block_list:
             continue
 
-        files = {file.resolve() for file in path.glob('*') if file.suffix in extensions}
+        files = {file.resolve() for file in path.glob('*') if file.suffix.lower() in extensions}
 
         for count, file in enumerate(files):
             count += 1
@@ -64,3 +61,10 @@ if __name__ == '__main__':
                 if metadata.exists():
                     updated = base_path / (base_name + suffix + lang_suffix)
                     metadata.rename(updated)
+
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        sys.exit('Usage: %s path/to/images' % sys.argv[0])
+
+    optimize_images(sys.argv[1])

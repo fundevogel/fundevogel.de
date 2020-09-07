@@ -1,0 +1,125 @@
+Title: Unser Team
+
+----
+
+Text:
+
+## Eine zweite Familie
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia minima dolore soluta deserunt mollitia, nam nemo asperiores assumenda, sapiente sint libero, expedita amet nulla.
+
+----
+
+Team:
+
+- 
+  name: Martin F.
+  isactive: 'true'
+  desc: >
+    Der Martin verbringt die meisten Tage
+    unterm Dach und grübelt an den großen
+    Fragen, bis die Kleinen kommen.
+  back:
+    - martinf-back.jpg
+  front:
+    - martinf-front.jpg
+- 
+  name: Nofretete
+  isactive: 'false'
+  desc: >
+    Nofretete war die Hauptgemahlin des
+    Pharaos Amenophis IV. und lebte im 14.
+    Jahrhundert vor Christus.
+  back:
+    - queen-back.jpg
+  front:
+    - queen-front.jpg
+- 
+  name: Nitram F.
+  isactive: 'true'
+  desc: >
+    Der Nitram verbringt die meisten Nächte
+    im Keller und grübelt an den kleinen
+    Fragen, bis die Großen kommen.
+  back:
+    - nitramf-back.jpg
+  front: [ ]
+- 
+  name: Nitram F.
+  isactive: 'false'
+  desc: >
+    Der Nitram verbringt die meisten Nächte
+    im Keller und grübelt an den kleinen
+    Fragen, bis die Großen kommen.
+  back:
+    - nitramf-back.jpg
+  front: [ ]
+- 
+  name: Martin F.
+  isactive: 'false'
+  desc: >
+    Der Martin verbringt die meisten Tage
+    unterm Dach und grübelt an den großen
+    Fragen, bis die Kleinen kommen.
+  back:
+    - martinf-back.jpg
+  front:
+    - martinf-front.jpg
+- 
+  name: Nitram F.
+  isactive: 'true'
+  desc: >
+    Der Nitram verbringt die meisten Nächte
+    im Keller und grübelt an den kleinen
+    Fragen, bis die Großen kommen.
+  back:
+    - nitramf-back.jpg
+  front: [ ]
+- 
+  name: Nofretete
+  isactive: 'false'
+  desc: >
+    Nofretete war die Hauptgemahlin des
+    Pharaos Amenophis IV. und lebte im 14.
+    Jahrhundert vor Christus.
+  back:
+    - queen-back.jpg
+  front:
+    - queen-front.jpg
+- 
+  name: Nofretete
+  isactive: 'false'
+  desc: >
+    Nofretete war die Hauptgemahlin des
+    Pharaos Amenophis IV. und lebte im 14.
+    Jahrhundert vor Christus.
+  back:
+    - queen-back.jpg
+  front:
+    - queen-front.jpg
+- 
+  name: Martin F.
+  isactive: 'true'
+  desc: >
+    Der Martin verbringt die meisten Tage
+    unterm Dach und grübelt an den großen
+    Fragen, bis die Kleinen kommen.
+  back:
+    - martinf-back.jpg
+  front:
+    - martinf-front.jpg
+
+----
+
+Cover:
+
+- unser-team.jpg
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
