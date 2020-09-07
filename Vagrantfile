@@ -17,8 +17,8 @@ Vagrant.configure(2) do |config|
         name: 'KirbyDev',
         lts: '20.04',
         ip: '192.168.69.69',
-        cpus: 1,
-        memory: 512,
+        cpus: 2,
+        memory: 1024,
         ansible: '2.9.0',
         playbook: 'lib/ansible/playbook.yml',
     }
