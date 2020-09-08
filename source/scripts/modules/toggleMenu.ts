@@ -1,5 +1,22 @@
 import anime from 'animejs';
 
+import {getClosest} from '../helpers/getClosest';
+
+export const unveil = (page: HTMLElement): void => {
+    document.addEventListener('lazyloaded', (e) => {
+        const coverlay = getClosest(<HTMLElement>e.target, '.js-coverlay').firstElementChild;
+
+        anime({
+            targets: coverlay,
+            opacity: [1, 0],
+            duration: 350,
+            easing: 'linear',
+        }).finished.then(() => {
+            coverlay.parentNode.removeChild(coverlay);
+        });
+    });
+}
+
 export const toggleMenu = (): void => {
     const body = document.body;
     const toggle = document.querySelector('.js-toggle');

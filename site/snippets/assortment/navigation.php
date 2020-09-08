@@ -4,7 +4,8 @@
         <?php foreach (page('unser-sortiment')->children()->listed()->sortBy('title', 'asc')->onlyTranslated() as $category) : ?>
         <?php if ($category->hasCover()) : ?>
         <div class="flex justify-center">
-            <figure class="group table relative<?php e($category->isOpen(), ' cursor-default') ?>"<?php e($category->isOpen(), ' title="' . t('Du bist hier') . '"') ?>>
+            <figure class="js-coverlay group table relative<?php e($category->isOpen(), ' cursor-default') ?>"<?php e($category->isOpen(), ' title="' . t('Du bist hier') . '"') ?>>
+                <div class="inset-0 w-full h-full absolute rounded-lg bg-gradient-to-tr from-red-medium to-orange-medium z-20"></div>
                 <?php e(!$category->isOpen(), '<a href="' . $category->url() . '">') ?>
                     <?php if ($category->isOpen()) : ?>
                     <div class="absolute inset-0 bg-orange-medium rounded-lg opacity-50"></div>

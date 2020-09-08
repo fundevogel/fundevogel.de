@@ -15,7 +15,7 @@ import {runLightbox} from './modules/lightBox';
 import {runMasonry} from './modules/masonry';
 import {runSlider} from './modules/slider';
 import {runTooltips, activateMainMenu} from './modules/toolTips';
-import {toggleMenu} from './modules/toggleMenu';
+import {toggleMenu, unveil} from './modules/toggleMenu';
 
 
 /*
@@ -102,6 +102,9 @@ class App {
                  */
 
                 const page = data.next.container;
+
+                // Lazyload unveil events
+                unveil(page);
 
                 // Menu & tooltips
                 // activateMainMenu(page);

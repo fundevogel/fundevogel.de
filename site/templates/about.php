@@ -6,7 +6,8 @@
             <?= $page->text()->kt() ?>
         </div>
         <div class="mt-12 flex-none flex justify-center items-center">
-            <figure class="js-lightbox lg:ml-12 rounded-lg relative" data-images="<?= A::join($imageURLs, ';') ?>" data-captions="<?= A::join($imageCaptions, ';') ?>">
+            <figure class="js-coverlay js-lightbox lg:ml-12 rounded-lg relative" data-images="<?= A::join($imageURLs, ';') ?>" data-captions="<?= A::join($imageCaptions, ';') ?>">
+                <div class="inset-0 w-full h-full absolute rounded-lg bg-gradient-to-tr from-red-medium to-orange-medium z-20"></div>
                 <span class="-top-2 -right-2 xs:-top-5 xs:-right-5 absolute z-30">
                     <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                 </span>
