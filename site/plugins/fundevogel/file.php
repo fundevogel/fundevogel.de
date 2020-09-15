@@ -17,6 +17,8 @@ return [
             'alt' => $alt,
             'width' => $image->width(),
             'height' => $image->height(),
+            'loading' => 'eager',
+            'decoding' => 'async',
         ];
 
         if ($noLazy === false) {
