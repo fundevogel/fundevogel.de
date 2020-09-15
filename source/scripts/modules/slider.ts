@@ -35,6 +35,7 @@ export const runSlider = (container: HTMLElement, template: string) => {
             speed: 4,
             loop: true,
             delay: 4500,
+            draggable: false,
         };
 
         const embla = EmblaCarousel(slider, options);
