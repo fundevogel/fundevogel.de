@@ -61,7 +61,7 @@ function convertWebP() {
  * Compresses SVG icons & combines them to a sprite
  */
 
-function combineIcons() {
+function copyIcons() {
     const iconsSource = [
         conf.src.icons + '/**/*.svg',
     ];
@@ -102,17 +102,17 @@ let images: TaskFunction;
 if (conf.favicons.enable && process.env.NODE_ENV === 'production') {
     images = parallel(
         createFavicons,
-        combineIcons,
+        copyIcons,
         series(compressImages, convertWebP)
     );
 } else if (process.env.NODE_ENV === 'production') {
     images = parallel(
-        combineIcons,
+        copyIcons,
         series(compressImages, convertWebP)
     );
 } else {
     images = parallel(
-        combineIcons,
+        copyIcons,
         series(compressImages, convertWebP)
     );
 }
