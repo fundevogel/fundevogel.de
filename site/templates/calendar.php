@@ -58,9 +58,10 @@
                             <?= $annualEvent->getPreview() ?>
                         </a>
                     </div>
-                    <h3 class="text-orange-medium"><?= $annualEvent->title()->html() ?></h3>
-                    <?= $annualEvent->short()->kt() ?>
-                    <?= $annualEvent->moreLink('mt-4 block font-bold font-small-caps text-sm text-orange-medium hover:text-orange-dark outline-none') ?>
+                    <div class="text-center">
+                        <h3><a class="text-orange-medium hover:text-orange-dark" href="<?= $annualEvent->url() ?>"><?= $annualEvent->title()->html() ?></a></h3>
+                        <?= $annualEvent->short()->kt() ?>
+                    </div>
                 </div>
                 <?php
                     $count++;
