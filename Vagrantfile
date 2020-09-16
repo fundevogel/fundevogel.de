@@ -18,7 +18,7 @@ Vagrant.configure(2) do |config|
         lts: '20.04',
         ip: '192.168.69.69',
         cpus: 2,
-        memory: 1024,
+        memory: 2048,
         ansible: '2.9.0',
         playbook: 'lib/ansible/playbook.yml',
     }
