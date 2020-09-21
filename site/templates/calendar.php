@@ -12,12 +12,12 @@
 </header>
 <hr>
 <section class="container">
-    <h2 class="mb-12 text-center"><?= t('Alle Veranstaltungen im Überblick') ?></h2>
+    <h2 id="<?= Str::lower(t('Veranstaltungen')) ?>" class="mb-12 text-center"><?= t('Alle Veranstaltungen im Überblick') ?></h2>
     <?php if ($openEvents->isNotEmpty()) : ?>
     <?php foreach($openEvents as $timeRange => $events) : ?>
     <h2 class="mb-8 text-center"><?= $timeRange ?></h2>
     <?php foreach($events as $event) : ?>
-    <article class="container">
+    <article class="container px-4">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
                 <h3><?= $event->title()->html() ?></h3>
@@ -33,7 +33,7 @@
     </article>
     <?php e($event !== $events->last(), '<hr class="max-w-xs">') ?>
     <?php endforeach ?>
-    <?php e($events !== $groups->last(), '<hr class="max-w-sm">') ?>
+    <?php e($events !== $openEvents->last(), '<hr class="max-w-sm">') ?>
     <?php endforeach ?>
     <?php else : ?>
     <p class="italic text-center"><?= t('Keine Veranstaltungen') ?></p>
