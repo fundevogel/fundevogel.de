@@ -1,0 +1,13 @@
+Titleattribute: "Können Sie sich eine ehrenamtliche Mithilfe vorstellen?"
+
+----
+
+Source: Kundenumfrage 2020
+
+----
+
+Altattribute: Graphik zur Frage "Können Sie sich eine ehrenamtliche Mithilfe vorstellen?"
+
+----
+
+Template: image

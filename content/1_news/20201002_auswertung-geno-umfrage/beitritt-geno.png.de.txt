@@ -1,0 +1,13 @@
+Titleattribute: "Können Sie sich einen Beitritt zur Genossenschaft vorstellen?"
+
+----
+
+Source: Kundenumfrage 2020
+
+----
+
+Altattribute: Graphik zur Frage "Können Sie sich einen Beitritt zur Genossenschaft vorstellen?"
+
+----
+
+Template: image
