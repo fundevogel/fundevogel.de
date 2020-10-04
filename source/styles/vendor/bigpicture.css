@@ -25,19 +25,15 @@
   @apply flex;
   @apply items-center;
   @apply absolute;
-  @apply top-0;
-  @apply right-0;
-  @apply bottom-0;
-  @apply left-0;
+  @apply inset-0;
+  @apply cursor-wait;
   @apply z-10;
-
-  background: 0;
-  cursor: wait;
 }
 
 .bp-loader svg {
+  @apply m-auto;
+
   animation: bpturn 1s infinite linear;
-  margin: auto;
   max-height: 50%;
   max-width: 300px;
   width: 50%;
@@ -47,13 +43,12 @@
 .bp-sv,
 .bp-vid, */
 .bp-container img {
-  bottom: 0;
-  left: 0;
-  margin: auto;
+  @apply m-auto;
+  @apply inset-0;
+  @apply select-none;
+
   max-height: 96%;
   max-width: 96%;
-  top: 0;
-  user-select: none;
   z-index: -1;
 }
 
