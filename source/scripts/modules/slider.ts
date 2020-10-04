@@ -2,33 +2,6 @@ import EmblaCarousel from 'embla-carousel';
 
 import {forEach} from '../helpers/forEach';
 
-// @ts-ignore
-const autoplay = (embla, interval: number) => {
-    let timer = 0;
-
-    const play = () => {
-        stop();
-        requestAnimationFrame(() => (timer = window.setTimeout(next, interval)));
-    };
-
-    const stop = () => {
-        window.clearTimeout(timer);
-        timer = 0;
-    };
-
-    const next = () => {
-        if (embla.canScrollNext()) {
-            embla.scrollNext();
-        } else {
-            embla.scrollTo(0);
-        }
-
-        play();
-    };
-
-    return {play, stop};
-};
-
 export const runSlider = (container: HTMLElement, template: string) => {
     forEach(container.querySelectorAll('.js-slider'), (slider: HTMLElement) => {
         const options = {
@@ -39,28 +12,6 @@ export const runSlider = (container: HTMLElement, template: string) => {
         };
 
         const embla = EmblaCarousel(slider, options);
-        const autoplayer = autoplay(embla, options.delay);
-
-        // Start autoplay function upon init
-        embla.on('init', autoplayer.play);
-
-        // Resume autoplay after swiping
-        embla.on('select', () => {
-            autoplayer.stop();
-        });
-
-        embla.on('settle', () => {
-            autoplayer.play();
-        });
-
-        // Stop on mouse hover, resume after it's gone
-        slider.addEventListener('mouseenter', () => {
-            autoplayer.stop();
-        });
-
-        slider.addEventListener('mouseleave', () => {
-            autoplayer.play();
-        });
 
         if (template === 'assortment.single' || template === 'lesetipps.article') {
             const pagination = slider.querySelector('.js-controls');
