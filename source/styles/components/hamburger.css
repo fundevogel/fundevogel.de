@@ -9,9 +9,10 @@
 
 .toggle::before {
   @apply ml-12;
+  @apply font-bold;
+  @apply uppercase;
 
   content: attr(data-menu);
-  font-variant: small-caps;
 }
 
 .toggle span::before {
