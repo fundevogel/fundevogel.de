@@ -11,7 +11,7 @@
                     <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
                 </span>
                 <div class="group overflow-hidden rounded-lg relative cursor-pointer">
-                    <?= $images->first()->createImage('rounded-lg transition-all', 'about.cover', true) ?>
+                    <?= $images->first()->createImage('rounded-lg transition-all', 'about.cover', true, true) ?>
                     <figcaption class="big-caption sketch group-hover:-translate-y-full">
                         <?= $caption ?>
                     </figcaption>

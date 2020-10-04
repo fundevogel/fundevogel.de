@@ -1,6 +1,6 @@
 <?php if ($page->hasCover()) : ?>
 <figure class="inline-block lg:ml-12 rounded-lg">
-    <?= $page->getCover()->createImage('rounded-t-lg', 'cover') ?>
+    <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
     <figcaption class="small-caption"><?= $page->getCover()->caption()->html() ?></figcaption>
 </figure>
 <?php endif ?>

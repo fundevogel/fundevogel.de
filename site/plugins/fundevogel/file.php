@@ -58,6 +58,6 @@ return [
             : $fallback
         ;
 
-        return $cover->createImage($classes, 'lesetipps.pdf');
-    }
+        return $cover->createImage($classes, 'lesetipps.pdf', false, true);
+    },
 ];

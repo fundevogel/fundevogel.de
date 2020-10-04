@@ -13,7 +13,7 @@
         <div class="mt-12 flex-none text-center">
             <?php if ($page->hasCover()) : ?>
             <figure class="js-lightbox group inline-block lg:ml-12 rounded-lg overflow-hidden relative cursor-pointer">
-                <?= $page->getCover()->createImage('rounded-lg transition-all', 'cover', true) ?>
+                <?= $page->getCover()->createImage('rounded-lg transition-all', 'cover', true, true) ?>
                 <figcaption class="big-caption sketch group-hover:-translate-y-full"><?= $page->getCover()->caption()->html() ?></figcaption>
             </figure>
             <?php endif ?>
