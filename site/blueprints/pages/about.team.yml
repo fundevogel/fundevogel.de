@@ -11,7 +11,7 @@ tabs:
     fields:
       text:
         label: Text
-        type: textarea
+        type: markdown
 
       team:
         label: Team
@@ -44,7 +44,7 @@ tabs:
             label:
               de: Beschreibung
               en: Description
-            type: textarea
+            type: markdown
 
           back:
             extends: fields/single-cover

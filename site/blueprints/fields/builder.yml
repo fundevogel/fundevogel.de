@@ -20,7 +20,7 @@ fieldsets:
         label:
           de: Nützliche Informationen
           en: Useful information
-        type: textarea
+        type: markdown
 
   gallery:
     name: Bildergalerie
@@ -71,7 +71,7 @@ fieldsets:
         label:
           de: Einleitung
           en: Introduction
-        type: textarea
+        type: markdown
 
       books:
         label:
@@ -112,7 +112,7 @@ fieldsets:
 
           text:
             label: Text
-            type: textarea
+            type: markdown
 
   text:
     name: Textfeld
@@ -144,7 +144,7 @@ fieldsets:
 
       text_full:
         label: Text
-        type: textarea
+        type: markdown
         when:
           show_columns: false
 
@@ -152,7 +152,7 @@ fieldsets:
         label:
           de: Linker Text
           en: Left text
-        type: textarea
+        type: markdown
         width: 1/2
         when:
           show_columns: true
@@ -161,7 +161,7 @@ fieldsets:
         label:
           de: Rechter Text
           en: Right text
-        type: textarea
+        type: markdown
         width: 1/2
         when:
           show_columns: true
@@ -189,7 +189,7 @@ fieldsets:
 
       text_full:
         label: Text
-        type: textarea
+        type: markdown
         when:
           show_columns: false
 
@@ -197,7 +197,7 @@ fieldsets:
         label:
           de: Linker Text
           en: Left text
-        type: textarea
+        type: markdown
         width: 1/2
         when:
           show_columns: true
@@ -206,7 +206,7 @@ fieldsets:
         label:
           de: Rechter Text
           en: Right text
-        type: textarea
+        type: markdown
         width: 1/2
         when:
           show_columns: true

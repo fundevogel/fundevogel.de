@@ -7,7 +7,7 @@ label:
 fields:
   text:
     label: Text
-    type: textarea
+    type: markdown
 
 sidebar:
   sidebar_fields:

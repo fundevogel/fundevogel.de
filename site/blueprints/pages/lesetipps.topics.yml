@@ -9,7 +9,7 @@ tabs:
     fields:
         text:
           label: Text
-          type: textarea
+          type: markdown
 
         builder: fields/builder
 

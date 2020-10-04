@@ -55,7 +55,7 @@ fields:
     label:
       de: Beschreibung
       en: Description
-    type: textarea
+    type: markdown
 
   begin_time:
     label:

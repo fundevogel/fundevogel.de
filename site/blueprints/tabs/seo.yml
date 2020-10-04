@@ -10,7 +10,7 @@ fields:
 
   seoDescription:
     label: Beschreibung
-    type: textarea
+    type: markdown
     size: small
     buttons: false
     help: Dieser Text wird in den Ergebnissen von Suchmaschinen ("SERPs") abgebildet und sollte 155 Zeichen nicht überschreiten.

@@ -17,19 +17,19 @@ tabs:
         label:
           de: Anfahrt mit Fahrrad
           en: By bike
-        type: textarea
+        type: markdown
 
       car:
         label:
           de: Anfahrt mit Auto
           en: By car
-        type: textarea
+        type: markdown
 
       tram:
         label:
           de: Anfahrt mit Tram
           en: By tram
-        type: textarea
+        type: markdown
 
     sidebar:
       sidebar_fields:
@@ -41,13 +41,13 @@ tabs:
             label:
               de: Kontaktinformationen
               en: Contact information
-            type: textarea
+            type: markdown
 
           oeffnungszeiten:
             label:
               de: Öffnungszeiten
               en: Opening hours
-            type: textarea
+            type: markdown
 
       sidebar_files: sections/images
 

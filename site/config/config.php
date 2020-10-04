@@ -45,6 +45,18 @@ return [
     # Generate donuts charts as inline SVG
     'fundevogel.donuts.inline' => true,
 
+    # Markdown field settings
+    # See https://github.com/sylvainjule/kirby-markdown-field
+    'community.markdown-field.buttons' => [
+        'headlines', 'bold', 'italic', 'ul','blockquote',
+        'divider',
+        'link', 'email', 'pagelink', 'file',
+    ],
+    'community.markdown-field.font' => [
+        'family'  => 'sans-serif',
+        'scaling' => true,
+    ],
+
     # Create lossy WebP images
     'hashandsalt.webp.png.encoding' => 'lossy',
     'hashandsalt.webp.jpeg.encoding' => 'lossy',

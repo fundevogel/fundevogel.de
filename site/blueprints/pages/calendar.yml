@@ -38,7 +38,7 @@ tabs:
             fields:
               text:
                 label: Text
-                type: textarea
+                type: markdown
 
           annual_highlights:
             extends: sections/articles

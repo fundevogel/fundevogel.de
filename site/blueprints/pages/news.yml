@@ -37,7 +37,7 @@ tabs:
             fields:
               text:
                 label: Text
-                type: textarea
+                type: markdown
 
       column_sidebar:
         sections:

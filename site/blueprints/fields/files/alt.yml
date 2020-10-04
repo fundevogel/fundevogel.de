@@ -2,7 +2,7 @@ label:
   de: Alternativtext
   en: Alternative text
 icon: alert
-type: textarea
+type: markdown
 help:
   de: >
     Der Alternativtext wird für Bilder benötigt, um den Richtlinien für ein

@@ -44,7 +44,7 @@ tabs:
             fields:
               text:
                 label: Text
-                type: textarea
+                type: markdown
 
           child_pages:
             extends: sections/articles

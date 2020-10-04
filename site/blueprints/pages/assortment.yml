@@ -11,17 +11,17 @@ tabs:
     fields:
         text:
           label: Text
-          type: textarea
+          type: markdown
 
         details:
           label: Details
-          type: textarea
+          type: markdown
 
         conclusion:
           label:
             de: Schluss
             en: Conclusion
-          type: textarea
+          type: markdown
 
     sidebar:
       sidebar_fields: sections/sidebar.cover

@@ -11,17 +11,17 @@ tabs:
     fields:
       text:
         label: Text
-        type: textarea
+        type: markdown
 
       details:
         label: Details
-        type: textarea
+        type: markdown
 
       press_kit:
         label:
           de: Pressemappe
           en: Press kit
-        type: textarea
+        type: markdown
 
       builder: fields/builder
 

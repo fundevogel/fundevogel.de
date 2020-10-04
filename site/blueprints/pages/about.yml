@@ -13,20 +13,20 @@ tabs:
         label:
           de: Über uns
           en: About us
-        type: textarea
+        type: markdown
 
       left:
         label:
           de: Lieber barfuß als ohne Buch
           en: Content area (left)
-        type: textarea
+        type: markdown
         width: 1/2
 
       right:
         label:
           de: Bücher öffnen Welten
           en: Content area (right)
-        type: textarea
+        type: markdown
         width: 1/2
 
       gallery: fields/gallery

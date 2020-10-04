@@ -13,19 +13,19 @@ tabs:
     fields:
       text:
         label: Text
-        type: textarea
+        type: markdown
 
       verdict:
         label:
           de: Einschätzung
           en: Verdict
-        type: textarea
+        type: markdown
 
       conclusion:
         label:
           de: Zusammenfassung
           en: Summary
-        type: textarea
+        type: markdown
         when:
           conclusion_wanted: true
 

@@ -128,7 +128,7 @@ tabs:
             label:
               de: Beschreibung
               en: Description
-            type: textarea
+            type: markdown
 
     sidebar:
       sidebar_files: false

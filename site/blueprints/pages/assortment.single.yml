@@ -11,7 +11,7 @@ tabs:
     fields:
       text:
         label: Text
-        type: textarea
+        type: markdown
 
       builder: fields/builder
 
@@ -40,7 +40,7 @@ tabs:
 
           quote:
             label: Zitat
-            type: textarea
+            type: markdown
 
           person:
             label: Person
@@ -178,7 +178,7 @@ tabs:
 
           text:
             label: Text
-            type: textarea
+            type: markdown
 
     sidebar:
       sidebar_fields:

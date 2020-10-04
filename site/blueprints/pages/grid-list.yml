@@ -11,7 +11,7 @@ tabs:
     fields:
         text:
           label: Text
-          type: textarea
+          type: markdown
 
         cards:
           label:
@@ -21,7 +21,7 @@ tabs:
           fields:
             entry:
               label: Text
-              type: textarea
+              type: markdown
 
     sidebar:
       sidebar_fields: sections/sidebar.cover

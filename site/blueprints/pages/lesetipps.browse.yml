@@ -11,7 +11,7 @@ tabs:
     fields:
       details:
         label: Details
-        type: textarea
+        type: markdown
 
     sidebar:
       sidebar_fields:

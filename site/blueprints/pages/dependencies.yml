@@ -9,11 +9,11 @@ tabs:
     fields:
         text:
           label: Text
-          type: textarea
+          type: markdown
 
         details:
           label: Details
-          type: textarea
+          type: markdown
 
         builder: fields/builder
 
@@ -25,13 +25,13 @@ tabs:
             label:
               de: Über den Quelltext
               en: About the source code
-            type: textarea
+            type: markdown
 
           thanks:
             label:
               de: Danke sagen
               en: Giving thanks
-            type: textarea
+            type: markdown
 
   # Metadata
   tab_seo: tabs/seo
