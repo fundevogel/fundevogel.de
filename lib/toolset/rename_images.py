@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 from pathlib import Path
+import sys
 
 
 def rename_images(path):
@@ -20,6 +21,7 @@ def rename_images(path):
 
     block_list = [
         '20200812_frisches-lesefutter-ajum-und-gew-lesetipps',
+        '20201002_auswertung-geno-umfrage',
     ]
 
     # Get this party started
@@ -67,4 +69,4 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         sys.exit('Usage: %s path/to/directories' % sys.argv[0])
 
-    optimize_images(sys.argv[1])
+    rename_images(sys.argv[1])
