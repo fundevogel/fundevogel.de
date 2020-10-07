@@ -8,7 +8,6 @@
 # Define languages
 # PHP != Hacklang
 *.php linguist-language=PHP
-*.sla linguist-language=XML
 *.txt linguist-language=Markdown
 
 Vagrantfile linguist-language=Ruby
