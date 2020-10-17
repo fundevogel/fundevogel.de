@@ -56,6 +56,13 @@ def rename_images(path):
                 updated_webp = base_path / (base_name + '.webp')
                 webp_file.rename(updated_webp)
 
+            # Rename AVIF image (if one exists)
+            avif_file = base_path / (without_suffix + '.avif')
+
+            if avif_file.exists():
+                updated_avif = base_path / (base_name + '.avif')
+                avif_file.rename(updated_avif)
+
             # Rename metadata file(s)
             for lang_suffix in lang_extensions:
                 metadata = base_path / (with_suffix + lang_suffix)
