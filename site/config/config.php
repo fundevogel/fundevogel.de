@@ -64,7 +64,20 @@ return [
 
     # Disable security headers (see `.htaccess`)
     // 'bnomei.securityheaders.enabled' => false,
-    'bnomei.securityheaders.enabled' => 'force',
+    'bnomei.securityheaders.enabled' => function () {
+        # Panel check, borrowed from @bnomei's `security-headers`
+        # See https://github.com/steirico/kirby-plugin-custom-add-fields/issues/37
+        $isPanel = strpos(
+            kirby()->request()->url()->toString(),
+            kirby()->urls()->panel
+        ) !== false;
+
+        if ($isPanel) {
+            return false;
+        }
+
+        return 'force';
+    },
     'bnomei.securityheaders.headers' => [],
     'bnomei.securityheaders.loader' => function () {
         return kirby()->root('config') . '/settings/csp.json';

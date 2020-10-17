@@ -33,6 +33,7 @@
         "kschu91/largest-remainder-method": "0.1.0",
         "oblik/kirby-plurals": "1.0.0",
         "pedroborges/kirby-meta-tags": "2.0.2",
+        "steirico/kirby-plugin-custom-add-fields": "1.4.1",
         "timoetting/kirby-builder": "2.0.15"
     },
     "extra": {
