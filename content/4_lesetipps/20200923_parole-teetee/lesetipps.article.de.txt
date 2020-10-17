@@ -1,0 +1,141 @@
+Title: Parole Teetee
+
+----
+
+Text:
+
+Teetee gehört zum Viertel wie der Eckladen von Herrn Mansur und der Pfefferminztee vor dessen Tür. Niemand weiß so genau, wer sie ist oder wie sie wirklich heißt, aber alle kennen sie und ihre magische Tasche. In der versteckt die alte Dame die sonderbarsten Dinge und auf merkwürdige Weise immer etwas Hilfreiches für die Kinder: eine Schwanzmeise, eine etwas zu kleine Orangenpresse oder ein altes Rezeptebuch, das Junis an das Baklava seiner Oma erinnert – und einen etwas geheimnisvollen Rat gibt sie immer dazu. Doch eines Tages fehlt von Teetee jede Spur.
+
+Mit ihrem Verschwinden läuft es im ganzen Viertel nicht rund: Es ist, als hätte ein großer Staubsauger das Glück aus der hintersten Ecke gesaugt. Kurzerhand verwandeln Lene, Bene, Cosmo, Stulle, Sara, Saha und Junis den Eckladen von Herrn Mansur in ihre Kommandozentrale und machen sich auf Spurensuche. Unverhofft landen die sieben Nachbarskinder mitten in einem Kriminalfall von größter Wichtigkeit – ob sie es schaffen, Teetee zurückzubringen?
+
+----
+
+Verdict: "Parole Teetee" ist eine ehrliche, vielseitige Geschichte über Freundschaft, Gerechtigkeit und den Zusammenhalt, der eine Nachbarschaft lebendig macht.
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-09-23
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Isbn: 978-3-86429-483-9
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002774367/63715/10002/-3/Buecher_Kinder--und-Jugend/Antje-Herden/Parole-Teetee/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Book-title: Parole Teetee
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Antje Herden
+
+----
+
+Illustrator: Maja Bohn
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 224
+
+----
+
+Duration: 
+
+----
+
+Publisher: Tulipan
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 13
+
+----
+
+Binding: Gebunden
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Topics: Engagement, Detektiv, Krimis/Thriller
+
+----
+
+Cover:
+
+- parole-teetee_antje-herden.jpg
+
+----
+
+Isaudiobook: false
+
+----
+
+Seotitle: Parole Teetee
+
+----
+
+Seodescription:
+
+Teetee gehört zum Viertel wie der Eckladen von Herrn Mansur und der Pfefferminztee vor dessen Tür. Niemand weiß so genau, wer sie ist oder wie sie wirklich heißt, aber alle kennen sie und ihre magische Tasche. In der versteckt die alte Dame die sonderbarsten Dinge und auf merkwürdige Weise immer etwas Hilfreiches für die Kinder: eine Schwanzmeise, eine etwas zu kleine Orangenpresse oder ein altes Rezeptebuch, das Junis an das Baklava seiner Oma erinnert – und einen etwas geheimnisvollen Rat gibt sie immer dazu. Doch eines Tages fehlt von Teetee jede Spur. Mit ihrem Verschwinden läuft es im ganzen Viertel nicht rund: Es ist, als hätte ein großer Staubsauger das Glück aus der hintersten Ecke gesaugt. Kurzerhand verwandeln Lene, Bene, Cosmo, Stulle, Sara, Saha und Junis den Eckladen von Herrn Mansur in ihre Kommandozentrale und machen sich auf Spurensuche. Unverhofft landen die sieben Nachbarskinder mitten in einem Kriminalfall von größter Wichtigkeit – ob sie es schaffen, Teetee
+zurückzubringen?
+
+„Parole Teetee“ ist eine ehrliche, vielseitige Geschichte über Freundschaft, Gerechtigkeit und den Zusammenhalt, der eine Nachbarschaft lebendig macht.
+Für Jungen und Mädchen ab 9 Jahren!

@@ -46,38 +46,43 @@ Favorites:
   text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: |
+    Als Kind konnte ich mit Karl May überhaupt nichts anfangen. Statt dessen verschlang ich die Bücher von Fritz Mühlenweg. Erst viel später begriff ich, warum das so war. In seinen Büchern stimmt jede km Angabe. Hier spürst Du beim Lesen den Wüstensand zwischen den Zähnen. Hier bist Du wirklich mittendrin im Abenteuer. Christians Vater ist Arzt und praktiziert in China. Eines Tages wollen Christian und sein chinesischer Freund vor den Toren der Stadt einen Drachen steigen lassen. Ein Zug nähert sich und die Passagiere winken den Jungs zu. Vom fahrenden Zug aus lässt sich der Drache doch bestens steigen. Nur - der Zug hält erst hunderte von Kilometern weiter. Und so beginnt das spannende Abenteuer. Der Rückweg der beiden, die uns 752 Seiten lang mitnehmen auf ihre Reise, die uns u.a. mitten durch die Wüste Gobi und die asiatische Lebenswelt führt.
+    
+    Einer der schönsten klassischen Abenteuerromane. Spannender geht‘s kaum. Lesen! Unbedingt! Und zwar am besten ungekürzt
+  person: Ips
   isseries: 'false'
   more_options: 'true'
-  isbn: 978-3-7915-0113-0
+  isbn: 978-3-423-71770-0
   book_cover:
     - >
-      die-abenteuer-des-tom-sawyer_mark-twain.jpg
-  book_title: Die Abenteuer des Tom Sawyer
+      grosser-tiger-und-christian_fritz-muehlenweg.jpg
+  book_title: Großer-Tiger und Christian
   book_subtitle: ""
-  author: Mark Twain
-  illustrator: Walter Trier
-  translator: Ulrich Johannsen
+  author: Fritz Mühlenweg
+  illustrator: Dieter Wiesmüller
+  translator: ""
   participants: ""
-  page_count: "304"
-  publisher: Dressler Verlag GmbH
+  page_count: "752"
+  publisher: DTV
   age: ab 10 Jahren
-  price: 12,00
-  binding: gebunden
+  price: 15,95
+  binding: kartoniert
   text: >
-    Tom Sawyer hat es faustdick hinter den
-    Ohren! Tante Polly hat jedenfalls hat
-    alle Hände voll zu tun, mit ihrem
-    abenteuerlustigen Neffen. Aber man kann
-    schließlich kein Musterschüler sein,
-    wenn man ein gefürchteter Pirat werden
-    will und sich in den Kopf gesetzt hat,
-    einen echten Schatz zu finden. Als Tom
-    und sein bester Freund Huck eines Nacht
-    auf dem Friedhof einen Mord beobachten,
-    geht das Abenteuer am Mississippi erst
-    so richtig los ..
+    Christian und sein chinesischer Freund
+    Großer-Tiger werden mit einer geheimen
+    Botschaft durch die Wüste Gobi
+    geschickt. Von Peking aus überqueren
+    die beiden Jungen und ihre Begleiter in
+    einem Lastwagen das Grasland und die
+    Steppe der Mongolei. Mitten in der
+    Wüste wird ihnen der Wagen gestohlen.
+    Nur mithilfe der Wüstenbewohner kann
+    die abenteuerliche Reise auf Pferden und
+    Kamelen weitergeführt werden. Aber
+    werden sie es rechtzeitig bis nach
+    Urumtschi schaffen, um ihre Botschaft zu
+    überbringen?
 - 
   title: ""
   quote: >
@@ -167,7 +172,7 @@ Favorites:
     - >
       der-herr-der-ringe-die-gefaehrten_john-r-r-tolkien.jpg
   book_title: 'Der Herr der Ringe - Die Gefährten'
-  book_subtitle: ""
+  book_subtitle: Life and Politics
   author: John R. R. Tolkien
   illustrator: ""
   translator: Wolfgang Krege
@@ -182,8 +187,8 @@ Favorites:
     Hobbits sind kleine, gemütliche Leute, dabei aber erstaunlich zäh. Sie leben in einem ländlichen Idyll, dem Auenland.
 - 
   title: ""
-  quote: ""
-  person: ""
+  quote: 'Eine zeitlose und großartig erzählte Geschichte von John Boyne. Der liebevolle Charakter von Barnaby lässt den Leser gründlich darüber nachdenken, was die Konstrukte von "Normal-" und "Anderssein" bedeuten und macht Mut, sich in das Abenteuer des Lebens stürzen zu wollen und dabei die Menschen zu finden, die zu einem passen und einem nahe sind - auch wenn das nicht die sind, bei denen man aufwächst. Eine Geschichte, die einen hoffnungsvoll stimmt.'
+  person: Lena M.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-596-81193-9

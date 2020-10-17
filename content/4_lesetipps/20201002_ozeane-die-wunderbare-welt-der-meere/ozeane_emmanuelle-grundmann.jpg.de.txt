@@ -1,0 +1,21 @@
+Titleattribute: "Ozeane" von Emmanuelle Grundmann
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Ozeane" von Emmanuelle Grundmann
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Titleattribute: "Parole Teetee" von Antje Herden
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Parole Teetee" von Antje Herden
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

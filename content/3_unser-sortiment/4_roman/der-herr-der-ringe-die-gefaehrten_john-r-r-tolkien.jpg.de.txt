@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Herr der Ringe - Die Gefährten" von John R.
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image
