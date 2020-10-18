@@ -6,9 +6,12 @@
 
 return [
     # General thumbnail settings
-    'driver' => 'im',
-    'quality' => 85,
-    'interlace' => true,
+    'driver' => 'colorist',
+    'quality' => [
+        'jpg' => 85,
+        'webp' => 80,
+        'avif' => 60,
+    ],
 
     # Thumbnail presets
     'presets' => [

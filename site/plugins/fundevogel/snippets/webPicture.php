@@ -1,31 +1,19 @@
+<?php
+    # Note: Once Kirby supports next-gen MIME types, like `image/avif`,
+    # we may also use `F::extensionToMime($format->extension())`
+?>
 <picture>
     <?php
-        $webp = $src->toWebp();
-        $variants = $src->toVariants()->filterBy('extension', '!=', 'webp');
-        $source = $src->toSource();
+        $formats = $src->toFormats(['avif', 'webp']);
 
+        foreach ($formats as $format) :
         foreach ($sizes as $max) :
-        $image = $webp->thumb(A::join([$preset, $max], '.'));
+
+        $image = $format->thumb($preset . '.' . $max);
     ?>
     <source
-        media="(min-width: <?= $max ?>px)"
-        type="image/webp"
-        <?php if ($noLazy === true) : ?>
-        srcset="<?= $image->url() ?>"
-        <?php else : ?>
-        data-srcset="<?= $image->url() ?>"
-        <?php endif ?>
-    >
-    <?php
-        endforeach;
-        foreach ($variants as $variant) :
-
-        foreach ($sizes as $max) :
-        $image = $variant->thumb(A::join([$preset, $max], '.'));
-    ?>
-    <source
-        media="(min-width: <?= $max ?>px)"
-        type="image/<?= $variant->extension() ?>"
+        media="(min-width: <?=$max?>px)"
+        type="image/<?= $image->extension() ?>"
         <?php if ($noLazy === true) : ?>
         srcset="<?= $image->url() ?>"
         <?php else : ?>
@@ -36,6 +24,19 @@
         endforeach;
         endforeach;
 
-        echo $tag;
+        foreach ($sizes as $max) :
+        $image = $src->thumb($preset . '.' . $max);
     ?>
+    <source
+        media="(min-width: <?= $max?>px)"
+        type="image/<?= $image->extension() ?>"
+        <?php if ($noLazy === true) : ?>
+        srcset="<?= $image->url() ?>"
+        <?php else : ?>
+        data-srcset="<?= $image->url() ?>"
+        <?php endif ?>
+    >
+    <?php endforeach?>
+
+    <?= $tag ?>
 </picture>

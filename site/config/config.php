@@ -42,53 +42,61 @@ return [
     # PLUGIN OPTIONS
     ##
 
+    # Define AVIF conversion options
+    'fundevogel.colorist' => [
+        'formats' => ['avif', 'webp'],
+        'tonemap' => false,
+        'speed' => 0,
+        'yuv' => '420',
+    ],
+
     # Generate donuts charts as inline SVG
     'fundevogel.donuts.inline' => true,
 
     # Markdown field settings
     # See https://github.com/sylvainjule/kirby-markdown-field
-    'community.markdown-field.buttons' => [
-        'headlines', 'bold', 'italic', 'ul','blockquote',
-        'divider',
-        'link', 'email', 'pagelink', 'file',
+    'community.markdown-field' => [
+        'buttons' => [
+            'headlines', 'bold', 'italic', 'ul','blockquote',
+            'divider',
+            'link', 'email', 'pagelink', 'file',
+        ],
+        'font' => [
+            'family'  => 'sans-serif',
+            'scaling' => true,
+        ],
     ],
-    'community.markdown-field.font' => [
-        'family'  => 'sans-serif',
-        'scaling' => true,
+
+    'bnomei.securityheaders' => [
+        # Disable CSP rules on the panel,
+        # force everywhere else (development as well as production)
+        'enabled' => function () {
+            # Panel check, borrowed from @bnomei's `security-headers`
+            # See https://github.com/steirico/kirby-plugin-custom-add-fields/issues/37
+            $isPanel = strpos(
+                kirby()->request()->url()->toString(),
+                kirby()->urls()->panel
+            ) !== false;
+
+            if ($isPanel) {
+                return false;
+            }
+
+            return 'force';
+        },
+        # Disable security headers (see `.htaccess`)
+        'headers' => [],
+        'loader' => function () {
+            return kirby()->root('config') . '/settings/csp.json';
+        },
+        'setter' => function (\Bnomei\SecurityHeaders $instance) {
+            # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically
+            $csp = $instance->csp();
+
+            $csp->nonce('style-src', $instance->setNonce('css'));
+            $csp->nonce('script-src', $instance->setNonce('js'));
+        },
     ],
-
-    # Create lossy WebP images
-    'hashandsalt.webp.png.encoding' => 'lossy',
-    'hashandsalt.webp.jpeg.encoding' => 'lossy',
-    'hashandsalt.kirby-webp.template' => 'webp',
-
-    # Disable security headers (see `.htaccess`)
-    // 'bnomei.securityheaders.enabled' => false,
-    'bnomei.securityheaders.enabled' => function () {
-        # Panel check, borrowed from @bnomei's `security-headers`
-        # See https://github.com/steirico/kirby-plugin-custom-add-fields/issues/37
-        $isPanel = strpos(
-            kirby()->request()->url()->toString(),
-            kirby()->urls()->panel
-        ) !== false;
-
-        if ($isPanel) {
-            return false;
-        }
-
-        return 'force';
-    },
-    'bnomei.securityheaders.headers' => [],
-    'bnomei.securityheaders.loader' => function () {
-        return kirby()->root('config') . '/settings/csp.json';
-    },
-    'bnomei.securityheaders.setter' => function (\Bnomei\SecurityHeaders $instance) {
-        # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically
-        $csp = $instance->csp();
-
-        $csp->nonce('style-src', $instance->setNonce('css'));
-        $csp->nonce('script-src', $instance->setNonce('js'));
-    },
 
     # Adding hash to {css,js} files for cache busting
     # See https://github.com/bnomei/kirby3-fingerprint
