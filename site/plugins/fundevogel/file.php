@@ -22,8 +22,13 @@ return [
         ];
 
         if ($noLazy === false) {
+            $lazyclass = in_array($preset, option('thumbs.blurry', []))
+                ? 'lazyload blur-up'
+                : 'lazyload'
+            ;
+
             $attributes = A::update($attributes, [
-                'class' => A::join([$classes, 'lazyload '], ' '),
+                'class' => A::join([$classes, $lazyclass], ' '),
                 'loading' => 'lazy',
                 'data-src' => $image->url(),
                 'data-sizes' => 'auto',

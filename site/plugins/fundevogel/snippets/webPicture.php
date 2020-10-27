@@ -4,7 +4,13 @@
 ?>
 <picture>
     <?php
-        $formats = $src->toFormats(['avif', 'webp']);
+        $formats = ['webp'];
+
+        if (in_array($preset, option('thumbs.avif', ['cover']))) {
+            array_unshift($formats, 'avif');
+        }
+
+        $formats = $src->toFormats($formats);
 
         foreach ($formats as $format) :
         foreach ($sizes as $max) :

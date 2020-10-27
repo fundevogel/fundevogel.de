@@ -7,3 +7,13 @@
   animation-duration: 500ms;
   animation-name: fadeIn;
 }
+
+.blur-up {
+  filter: blur(3px);
+  transition: filter 500ms;
+}
+
+.blur-up.lazyloaded,
+.blur-up.ls-is-cached {
+  filter: blur(0);
+}

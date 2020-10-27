@@ -10,7 +10,25 @@ return [
     'quality' => [
         'jpg' => 85,
         'webp' => 80,
-        'avif' => 60,
+        'avif' => 40,
+    ],
+
+    # AVIF support
+    'avif' => [
+        'cover',
+        'about.cover',
+        'assortment.navigation',
+        'calendar.single.preview',
+        'calendar.single.gallery',
+    ],
+
+    # Blur up effect
+    'blurry' => [
+        'news.article.image',
+        'lesetipps.article.cover-normal',
+        'lesetipps.article.cover-square',
+        'calendar.single.preview',
+        'calendar.single.gallery',
     ],
 
     # Thumbnail presets
@@ -21,7 +39,6 @@ return [
 
         # Generic cover
         'cover' => ['width' => 460],
-        'cover.blurry' => ['width' => 460, 'blur' => true],
         'cover.460' => ['width' => 460],
         'cover.420' => ['width' => 420],
         'cover.340' => ['width' => 340],
@@ -30,7 +47,6 @@ return [
         # News
         # Hero image
         'news.hero' => ['width' => 1152],
-        'news.hero.blurry' => ['width' => 1152, 'blur' => true],
         'news.hero.1152' => ['width' => 1152],
         'news.hero.960' => ['width' => 960],
         'news.hero.768' => ['width' => 768],
@@ -40,7 +56,7 @@ return [
         'news.hero.240' => ['width' => 240],
         # Article thumbnail
         'news.article.image' => ['width' => 224, 'crop' => true],
-        'news.article.image.blurry' => ['width' => 224, 'crop' => true, 'blur' => true],
+        'news.article.image.blurry' => ['width' => 224, 'crop' => true, 'quality' => 10, 'blur' => true],
         'news.article.image.224' => ['width' => 224, 'crop' => true],
         'news.article.image.192' => ['width' => 192, 'crop' => true],
         'news.article.image.160' => ['width' => 160, 'crop' => true],
@@ -48,20 +64,18 @@ return [
 
         # Fundevogel
         'about.cover' => ['width' => 460, 'height' => 400, 'crop' => true],
-        'about.cover.blurry' => ['width' => 460, 'height' => 400, 'crop' => true, 'blur' => true],
         'about.cover.460' => ['width' => 460, 'height' => 400, 'crop' => true],
         'about.cover.420' => ['width' => 420, 'height' => 360, 'crop' => true],
         'about.cover.340' => ['width' => 340, 'height' => 294, 'crop' => true],
         'about.cover.260' => ['width' => 260, 'height' => 224, 'crop' => true],
         # Team avatar images
         'about.team' => ['width' => 120, 'height' => 120, 'crop' => true],
-        'about.team.blurry' => ['width' => 120, 'height' => 120, 'crop' => true, 'blur' => true],
+        'about.team.blurry' => ['width' => 120, 'height' => 120, 'crop' => true, 'quality' => 10, 'blur' => true],
         'about.team.120' => ['width' => 120, 'height' => 120, 'crop' => true],
 
         # Assortment
         # Navigation images
         'assortment.navigation' => ['width' => 440, 'height' => 320, 'crop' => true,],
-        'assortment.navigation.blurry' => ['width' => 440, 'height' => 320, 'crop' => true, 'blur' => true],
         'assortment.navigation.440' => ['width' => 440, 'height' => 320, 'crop' => true,],
         'assortment.navigation.400' => ['width' => 400, 'height' => 300, 'crop' => true,],
         'assortment.navigation.346' => ['width' => 346, 'height' => 250, 'crop' => true,],
@@ -71,19 +85,18 @@ return [
 
         # Lesetipps
         # Reading list cover images
-        'lesetipps.pdf' => ['width' => 215, 'quality' => 100],
-        'lesetipps.pdf.blurry' => ['width' => 215, 'quality' => 100, 'blur' => true],
-        'lesetipps.pdf.215' => ['width' => 215, 'quality' => 100],
-        'lesetipps.pdf.196' => ['width' => 196, 'quality' => 100],
-        'lesetipps.pdf.120' => ['width' => 120, 'quality' => 100],
+        'lesetipps.pdf' => ['width' => 215, 'quality' => 90],
+        'lesetipps.pdf.215' => ['width' => 215, 'quality' => 90],
+        'lesetipps.pdf.196' => ['width' => 196, 'quality' => 90],
+        'lesetipps.pdf.120' => ['width' => 120, 'quality' => 90],
         # Cover images
         'lesetipps.article.cover-normal' => ['width' => 300],
-        'lesetipps.article.cover-normal.blurry' => ['width' => 300, 'blur' => true],
+        'lesetipps.article.cover-normal.blurry' => ['width' => 300, 'quality' => 10, 'blur' => true],
         'lesetipps.article.cover-normal.300' => ['width' => 300],
         'lesetipps.article.cover-normal.240' => ['width' => 240],
         'lesetipps.article.cover-normal.160' => ['width' => 160],
         'lesetipps.article.cover-square' => ['width' => 300, 'crop' => true],
-        'lesetipps.article.cover-square.blurry' => ['width' => 300, 'crop' => true, 'blur' => true],
+        'lesetipps.article.cover-square.blurry' => ['width' => 300, 'crop' => true, 'quality' => 10, 'blur' => true],
         'lesetipps.article.cover-square.300' => ['width' => 300, 'crop' => true],
         'lesetipps.article.cover-square.240' => ['width' => 240, 'crop' => true],
         'lesetipps.article.cover-square.160' => ['width' => 160, 'crop' => true],
@@ -95,11 +108,11 @@ return [
         # Calendar
         # Annual event thumbnail images
         'calendar.single.preview' => ['width' => 160, 'crop' => true],
-        'calendar.single.preview.blurry' => ['width' => 160, 'crop' => true, 'blur' => true],
+        'calendar.single.preview.blurry' => ['width' => 160, 'crop' => true, 'quality' => 10, 'blur' => true],
         'calendar.single.preview.160' => ['width' => 160, 'crop' => true],
         # Gallery slide images
         'calendar.single.gallery' => ['width' => 312],
-        'calendar.single.gallery.blurry' => ['width' => 312, 'blur' => true],
+        'calendar.single.gallery.blurry' => ['width' => 312, 'quality' => 10, 'blur' => true],
         'calendar.single.gallery.312' => ['width' => 312],
         'calendar.single.gallery.288' => ['width' => 288],
         'calendar.single.gallery.200' => ['width' => 200],
