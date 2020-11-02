@@ -39,15 +39,15 @@ def optimize_images(path: str):
                     # Make it as small as possible
                     image.save(file, format='PNG', optimize=True)
                 else:
-                    if image.mode != 'RGB':
-                        image = image.convert('RGB')
+                    # If original image mode is CMYK, 'keep'ing quality doesn't work
+                    quality = 'keep' if image.mode == 'CMYK' == False else 100
 
                     # If original image format is JPEG:
                     # (1) Make it progressive
                     # (2) at maximum quality
                     # (3) but strip metadata
                     # (4) and set chroma subsampling mode to `420`
-                    image.save(file, format='JPEG', quality='keep', progressive=True, optimize=True, subsampling=2)
+                    image.convert('RGB').save(file, format='JPEG', quality=quality, progressive=True, optimize=True, subsampling=2)
 
                 # Close file pointer
                 image.close()
