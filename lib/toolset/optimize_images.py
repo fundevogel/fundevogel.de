@@ -34,14 +34,14 @@ def optimize_images(path: str):
                 # Create optimized version of original image
                 print('Processing {} ..'.format(file.name))
 
-                if image.mode != 'RGB':
-                    image = image.convert('RGB')
-
                 if file.suffix == '.png':
                     # If original image format is PNG:
                     # Make it as small as possible
                     image.save(file, format='PNG', optimize=True)
                 else:
+                    if image.mode != 'RGB':
+                        image = image.convert('RGB')
+
                     # If original image format is JPEG:
                     # (1) Make it progressive
                     # (2) at maximum quality

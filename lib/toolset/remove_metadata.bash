@@ -5,3 +5,5 @@
 # See https://github.com/getkirby/ideas/issues/192
 
 find . -type f -name '*.webp.*.txt' -delete
+
+find . -type f -name '*.avif.*.txt' -delete
