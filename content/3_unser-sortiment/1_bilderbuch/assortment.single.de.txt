@@ -90,7 +90,7 @@ Favorites:
     - >
       ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
   book_title: Ein Feuerwerk für den Fuchs
-  book_subtitle: ""
+  book_subtitle: Aus d. Schwedischen v. Angelika Kutsch
   author: Sven Nordqvist
   illustrator: ""
   translator: ""
@@ -162,8 +162,7 @@ Favorites:
   more_options: 'true'
   isbn: 978-3-7152-0620-2
   book_cover:
-    - >
-      pippilothek_lorenz-pauli-kathrin-schaerer.jpg
+    - pippilothek_lorenz-pauli.jpg
   book_title: Pippilothek???
   book_subtitle: Eine Bibliothek wirkt Wunder
   author: Lorenz Pauli
@@ -214,6 +213,28 @@ Favorites:
     Schlummerdschungel. Mit ihrer Laterne
     erkundet sie dieses sonderbare Land auf
     dem Weg in die Welt der Träume!
+- 
+  title: Pu der Bär trifft Alice im Wunderland
+  quote: Helena schweigt
+  person: Helena K.
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-88897-970-5
+  book_cover:
+    - der-baer-der-nicht-da-war_oren-lavie.jpg
+  book_title: Der Bär, der nicht da war
+  book_subtitle: ""
+  author: Oren Lavie
+  illustrator: Wolf Erlbruch
+  translator: Harry Rowohlt
+  participants: ""
+  page_count: "48"
+  publisher: Verlag Antje Kunstmann
+  age: ""
+  price: 16,95
+  binding: gebunden
+  text: |
+    "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär."Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
 
 ----
 

@@ -1,0 +1,21 @@
+Titleattribute: "Malamander - Die Geheimnisse von Eerie-on-Sea" von Thomas Taylor
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Malamander - Die Geheimnisse von Eerie-on-Sea" von Thomas Taylor
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

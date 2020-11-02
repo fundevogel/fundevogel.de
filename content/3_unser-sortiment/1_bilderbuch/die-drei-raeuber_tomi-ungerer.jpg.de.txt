@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die drei Räuber" von Tomi Ungerer
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

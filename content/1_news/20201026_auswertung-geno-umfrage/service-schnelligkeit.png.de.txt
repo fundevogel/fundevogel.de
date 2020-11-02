@@ -1,0 +1,13 @@
+Titleattribute: "Sind Sie mit Service und Schnelligkeit der Bestellungen zufrieden?"
+
+----
+
+Source: Kundenumfrage 2020
+
+----
+
+Altattribute: Graphik zur Frage "Sind Sie mit Service und Schnelligkeit der Bestellungen zufrieden?"
+
+----
+
+Template: image

@@ -1,0 +1,32 @@
+Title: "Das richtige Buch zur richtigen Zeit finden"
+
+----
+
+Slug: das-richtige-buch-zur-richtigen-zeit-finden
+
+----
+
+Text:
+
+Unter dieser Überschrift (link: https://www.buchreport.de/?p=119766 text: berichtet die Zeitschrift "buchreport") über 35 Jahre Fundevogel, bereits gemeisterte und zukünftige Herausforderungen und über die Freude der MitarbeiterInnen, täglich auf der Suche nach dem passenden Buch zu begleiten und zu beraten:
+
+> Sucht man ein Wort, um die Lage der Kinder- und Jugendbuchhandlung Fundevogel zu beschreiben, so trifft "idyllisch" wohl am ehesten zu: Von der Freiburger Innenstadt führt eine Brücke über den historischen Gewerbekanal in die Marienstraße, ein altstädtisches Gässchen, in dem neben der Buchhandlung auch Restaurants, ein Spielwarenladen, ein Schuhgeschäft und das Museum für Neue Kunst mit grünem Vorgarten angesiedelt sind.
+>
+> Diesen Standort am Rande der südlichen Altstadt hat sich Claus-Peter Jepsen bewusst ausgesucht, als er die 80-qm-Buchhandlung vor 35 Jahren gegründet hat, zeitgleich zur Eröffnung des Museums. (...) Nur ein paar Meter weiter, und er müsste deutlich mehr auf "Mainstream" setzen, um die Laufkundschaft anzusprechen, sagt Jepsen, und schließt an: "Wir leben in einem qualitativen Paradies und haben uns hier eine Nische gesucht, in der man das auch genießen kann."
+> <cite>Auszug des Artikels, "buchreport.spezial 2020"</cite>
+
+Eine Leseprobe des Artikels gibt es (file: 35-jahre-fundevogel-buchreport-spezial-2020.pdf text: hier als PDF); für alle, die lieber den ganzen Artikel in der herbstlich geschmückten Atmosphäre des Fundevogels lesen wollen, haben wir ein Leseexemplar im Laden.
+
+.. und wenn ihr schon einmal da seid, dann werft doch einen Blick in unser vergrößertes Regal mit den Neuerscheinungen für Herbst und Winter - wir freuen uns auf euren Besuch!
+
+----
+
+Subtitle-wanted: true
+
+----
+
+Subtitle: Artikel über den Fundevogel im "buchreport"
+
+----
+
+Date: 2020-10-17

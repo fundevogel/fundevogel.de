@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Frederick" von Leo Lionni
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

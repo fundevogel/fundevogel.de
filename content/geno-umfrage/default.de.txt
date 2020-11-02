@@ -1,0 +1,304 @@
+Title: Umfrage
+
+----
+
+Builder:
+
+- 
+  heading: Einleitung
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ## Zeit zum Wandel
+    Die Kinder- und Jugendbuchhandlung Fundevogel besteht nun seit 35 Jahren. Zusammen mit dem jetzigen Eigentümer möchten wir den Fundevogel als Genossenschaft in die Zukunft führen und so die Frage der "Nachfolge" auf mehrere Schultern aufteilen.
+    
+    Wir, das ist eine Gruppe langjähriger Mitarbeiterinnen und Mitarbeiter, Kundinnen, Kunden und Literaturbegeisterter. Was uns verbindet: Gemeinsam möchten wir die bisher erfolgreiche Arbeit in Form einer Genossenschaft fortführen. Dabei wollen wir die Seele und den besonderen Geist dieses Ladens auch für die Zukunft erhalten, für Sie als Kundinnen und Kunden, aber auch für Ihre Kinder und Enkelkinder.
+    
+    > "Kleine Geschäfte, insbesondere Buchhandlungen die mit Herzblut geführt werden, müssen für uns alle erhalten bleiben. Deshalb finde ich die Planungen für die Zukunft des Fundevogels sehr wichtig und möchte hierbei unterstützen."
+    
+    ## Der Blick nach vorn
+    Mit unserer im Sommer 2020 durchgeführten Umfrage wollten wir deshalb von unseren KundInnen zunächst wissen, wie es um die Zufriedenheit mit dem Fundevogel bestellt ist. Wir haben uns sehr gefreut, dass bis zum Stichtag ganze 120 Rückmeldungen bei uns eingingen - wir danken daher allen TeilnehmerInnen für das Engagement und die unschätzbare Hilfe! Wir dürfen außerdem voranschicken, dass alle 120 TeilnehmerInnen Interesse an einer Buchhandlung bekundet haben, die sich schwerpunktmäßig mit Kinder- und Jugendliteratur befasst.
+    
+    Werfen wir also einen Blick auf die Ergebnisse! Dabei wollen wir die gestellten Fragen kurz erläutern, die Bedeutung des Ergebnisses für die Zukunft herausarbeiten und dabei auch Stimmen unserer KundInnen zum jeweiligen Bereich abbilden:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602930974051_651
+- 
+  heading: Sortiment / Beratung
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Sortiment / Beratung
+    Die Befragung zur Zusammenstellung des Sortiments und Qualität der Beratung bildet für uns die konzeptionelle Arbeit des Teams ab. Die Beratung zu Kinder- und Jugendbüchern bildet zugleich das Kernstück unserer Tätigkeit. Dabei sind wir stets bemüht, nur Bücher zu empfehlen, die wir auch selbst gelesen haben.
+    
+    (image: sortiment-beratung.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Sind Sie mit Beratung und Sortimentsauswahl zufrieden?**)
+    
+    Neben der überwätigenden Zustimmung gab es auch acht Enthaltungen. Blickt man auf jene Kommentare, die inhaltlich an Sortiment und Beratung anknüpfen, zeichnet sich eine Ungleichverteilung in der Beratungsleistung ab: manchmal kommt es - auch bei uns! - eben vor, dass eine Beratung ins Leere läuft oder kein passendes Buch gefunden wird:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602932491179_651
+- 
+  heading: 'Rückmeldungen zu Sortiment & Beratung'
+  info: |
+    - "Die Beratung finde ich sehr gut und wichtig. Ich bekomme oft gute Rückmeldungen von Beschenkten aufgrund Ihrer Beratung."
+    - "Das Sortiment finde ich klasse, die Beratung meist auch. In einem Falle hat es der beratenden Person an originellen Ideen für Bücher zu einem eigentlich recht populären Themenkomplex (soziales Miteinander) gefehlt, die ich mir erhofft hatte - aber ich kann trotzdem insgesamt Zufriedenheit bekunden."
+    - "Die Zusammenstellung ist wunderbar, allerdings hängt die gute Beratung sehr am Inhaber. Ich war teilweise von der Beratung durch die Mitarbeitende schon enttäuscht (Freundlichkeit und Service waren immer hervorragend). Problematisch war dann eher die inhaltliche Beratung. Wobei es auch wunderbare Beratung durch Mitarbeitende gegeben hat."
+  _key: info
+  _uid: info_1602932538282_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ---
+    
+    In den freien Kommentarfeldern lasen wir immer wieder, dass viele KundInnen den Fundevogel mit dessen Inhaber, Herrn Jepsen, identifizieren und diesem die meiste Beratungserfahrung zumessen - immerhin ist er seit 35 Jahren im Kinder- und Jugendliteraturbetrieb tätig und kennt die Materie wie kein zweiter. Als Team nehmen wir diese Bedenken ernst, denn auch uns ist klar, dass "Herr Fundevogel" für viele KundInnen der Dreh- und Angelpunkt des Ladens ist. Anders gewendet handelt es sich allerdings um ein klassisches Nachfolgeproblem all jener, welche auf die Wegbereiter und Vorbilder einer Disziplin folgen. In diesem Sinne: wir nehmen die Herausforderung an!
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602932854167_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Service / Schnelligkeit
+    Toller Service und eine zügige Auftragsbearbeitung sind Ausdruck von Kundennähe und unternehmerischer Effizienz. Sie geben darüber Auskunft, wie gut ein Team zusammenarbeitet und die vielfältigen organisatorischen Aufgaben des Ladenbetriebs - auch unter Stress (Weihnachtsgeschäft!) - bewältigen kann.
+    
+    (image: service-schnelligkeit.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Sind Sie mit Service und Schnelligkeit der Bestellungen zufrieden?**)
+    
+    Die positiven Zustimmungswerte von 95% nehmen wir als Zeichen, auf einem guten Weg zu sein. Die mit zwei Negativstimmen sehr gering ausfallende Unzufriedenheit muss allerdings vor den Entwicklungen des Frühjahrs 2020 als "coronabedingt" gesehen werden:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602933691712_651
+- 
+  heading: 'Rückmeldungen zu Service & Schnelligkeit'
+  info: |
+    - "Eventuell Spezialisierung der Mitarbeitende und Kompetenzbereiche und Delegation der Anfragen an
+    in dem nachgefragten Bereich kompetente Person."
+    - "Ich finde es toll, dass sie keine Daten speichern! Danke!"
+    - "Während Corona kam es zu längeren Lieferzeiten, aber das war zu der Zeit schon normal... Alles nett
+    und freundlich "abgewickelt". Super bisher."
+    - "Der Versand von Online-Buchbestellungen hat extrem lange gedauert. Wahrscheinlich coronabedingt.
+    Aber andere Bestellungen kamen schneller an. Sonst aber alles bestens."
+  _key: info
+  _uid: info_1602934504642_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ---
+    
+    Die TeilnehmerInnen der Umfrage bewiesen dabei großes Einsichtsvermögen und lieferten wertvolle Hinweise "von außen betrachtet". So haben wir etwa die Rückmeldung, unter den MitarbeiterInnen noch stärker einzelne Verantwortungsbereiche abzugrenzen, dankbar aufgenommen und einer Diskussion zugeführt. Außerdem arbeiten wir nach Kräften mit unserem Großhändler KNV an einer Verbesserung des Bestellwesens über den Onlineshop, der zu Hochzeiten von Corona (ebenso wie die Auslieferung an KundInnen) leider an seine Grenzen kam.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602934507553_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Erweiterung des Angebots
+    Keine Frage wurde und wird so kontrovers diskutiert wie diese: Sollen wir unser Angebot vergrößern, indem wir etwa "Erwachsenenbücher" aufnehmen, E-Books, Musikinstrumente, Spielzeug oder Fremdsprachiges, Pädagogisches? Oder genügt etwa eine thematische Ausdehnung auf Bereiche, die noch nicht oder nur unterrepräsentiert sind?
+    
+    (image: angebot-erweitern.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Solllen wir unser Angebot erweitern?**)
+    
+    Auch in unseren regelmäßig stattfindenden Teambesprechungen ist diese Frage immer wieder auf der Tagesordnung. Dabei sind die zustimmenden Stimmen, also jene 14% der TeilnehmerInnen, die sich für eine deutliche Veränderung aussprechen, interessant und sprechen Themenfelder mit großer Zukunftsrelevanz an:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602934978112_651
+- 
+  heading: "Ja" zur Erweiterung des Angebots
+  info: |
+    - "Auch Bücher außerhalb des Schwerpunkts (Online), E-Books."
+    - "Als Idee: Publikation lokaler AutorInnen (Mini-Selbstverlag)"
+    - "englischsprachige Bücher, Bücher für Erwachsene"
+    - "Geschichtensammlungen, z.B. von Erzählerinnen (häufig nur direkt über den Autor zu bekommen)"
+    - "Musik- und Kunstbücher für Kinder, vielleicht sogar Instrumente (für Kinder)"
+    - "Therapiebücher für Kinder und Jugendliche"
+    - "Vielleicht könnten graphic novels ins Angebot kommen."
+    - "mehr Bücher zum Thema *Diversität / Transgender*, spezielle Kinder"
+  _key: info
+  _uid: info_1602935740803_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ---
+    
+    Viele der eingebrachten Vorschläge sind innerhalb des Teams gleich aufgegriffen worden, etwa mehr Bücher zu tagesaktuellen Themen (Klimawandel, Rassismus, Transgender) anzubieten. Teilweise überschneiden sich auch bestehende Pläne mit den aufgeworfenen Ideen, etwa Bücher zum Thema "Programmieren für Kinder und Jugendliche" aufzunehmen oder Möglichkeiten auszuloten, auch unbekannten AutorInnen einen Vertriebsweg zu eröffnen.
+    
+    Der überwiegende Teil der Rückmeldungen spricht sich hingegen dafür aus, dass das "große Ganze" passt. Dabei geben nicht wenige beispielsweise zu bedenken, dass die Spezialisierung auf Kinder- und Jugendliteratur nicht zugunsten eines erweiterten Angebots an Schärfe verlieren dürfe; auch lassen die Platzverhältnisse des Ladens von 80 Quadratmetern keine großen Sprünge zu:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602935736260_651
+- 
+  heading: "Nein" zur Erweiterung des Angebots
+  info: |
+    - "der Online-Shop war in Corona Zeiten super. Da kann man dann ja auch alles andere bestellen."
+    - "dafür gibt es andere Buchgeschäfte"
+    - "Könnte natürlich immer Interessant sein - aber so wie der Laden bisher ausgerichtet ist, finde ich ihn wunderbar."
+    - "...höchstens im Bereich digitale Medien usw. - im Wesentlichen ist das Sortiment super so!"
+  _key: info
+  _uid: info_1602936881379_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ---
+    
+    In unserer Arbeit bewegen wir uns täglich zwischen beiden Polen. Einerseits sind wir bemüht, bei knapp 10.000 Neuerscheinungen pro Jahr den Überblick zu behalten, unser wechselndes Angebot stets ansprechend und anspruchsvoll zu halten und achten auf eine thematische Ausgewogenheit. Die Schwierigkeit dieses Balanceakts, aber auch dessen Chancen skizziert etwa diese Rückmeldung:
+    
+    > Es ist natürlich schwierig in einem kleinen Laden, das Klientel der Jugendlichen ist auch nicht so groß, aber da gäbe es sicher noch mehr an Lesestoff, der dann auch wieder jung gebliebene Erwachsene ansprechen würde.
+    
+    Wir sehen uns im Bemühen um ein Gleichgewicht, in unserem Abwägungsprozess des Ausprobierens, Dazulernens und Veränderns bestätigt: denn wir brauchen immer auch ein Ohr am Puls der Zeit, wollen neue Entwicklungen aufgreifen, entdecken, durchdenken - und unseren KundInnen so einen persönlichen Mehrwert bieten. Das ist wahrlich keine leichte Aufgabe, umso größer ist unser Ansporn!
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1602936994974_651
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Beitritt zur Genossenschaft
+    Während sich die bisherigen Fragen dem Kundengeschäft widmen, geht es in den folgenden drei Bereichen um die Gründung einer Genossenschaft, welche den Fundevogel zukünftig tragen soll:
+    
+    (image: beitritt-geno.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Wären Sie grundsätzlich bereit, der Genossenschaft beizutreten?**)
+    
+    Die Bereitschaft der TeilnehmerInnen zum Beitritt - und damit der direkten Investition in die Zukunftsfähigkeit des Fundevogels - war für uns überwältigend: 73 % sprachen sich dafür aus, 18 % dagegen bei 9 % Enthaltungen. Es ist ein enormer Vertrauensvorschuss unserer KundInnen - dieses Umfrageergebnis in die Tat umzusetzen, wird dennoch eine Herausforderung, wie auch der Blick auf die korrespondierenden Kommentare zeigt:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1603799476723_925
+- 
+  heading: >
+    Rückmeldungen zum
+    Genossenschaftsbeitritt
+  info: |
+    - "das hängt dann von dem Gesamtkonzept ab"
+    - "ich müsste darüber noch mehr Informationen haben, da ich mich nicht auskenne"
+    - "Ja, dann müssten aber auch Themen wie "Haftung" geklärt werden. Da Genossenschaftsmitglieder ja auch Verantwortung für die GS tragen."
+    - "Ja, es wäre mir eine große Freude"
+    - " .. eher nein, weil ich auch Zweifel habe, dass Service und Kompetenz so weiter bestehen würden. Aber falls es sonst nicht zustande kommen kann, vielleicht mit 100 Euro."
+  _key: info
+  _uid: info_1603800192905_925
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ---
+    
+    Anders als von so manchen TeilnehmerInnen vermutet, hat die Gründung einer *Genossenschaft als Organisationsform* keinerlei Einfluss auf die Qualität der Beratung oder den Service - viele sprachen offen aus, was hinter dieser Befürchtung steht: Die Entscheidung über den Beitritt soll wohl überlegt sein; dafür braucht es Informationen, also Transparenz. Auch im Team stellen wir immer wieder fest, dass ein großer Informationsbedarf besteht. An dieser Stelle gibt es einiges zu tun, um auch die Unentschlossenen zu überzeugen!
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1603800361578_925
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'true'
+  text_full: |
+    ### Höhe der Genossenschaftsanteile
+    Im nächsten Bereich, der finanziellen Beteiligung, sprachen sich die meisten TeilnehmerInnen für einen Betrag von 100 Euro aus - die farbliche Abstufung beginnt bei 100 Euro, es folgen 200, 300 und 500 Euro - manche waren sogar bereit, größere Summen einzubringen: So lag der höchste Betrag sogar bei "5000 bis 10000 Euro". Die Gesamtsumme belief sich dabei auf Zusagen in Höhe von ca. 41750 Euro (!):
+    
+    (image: hoehe-anteile.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Welchen Beitrag wären Sie bereit zu investieren?**)
+    
+    Die finanzielle Unterstützung einer Genossenschaft kann neben dem Kauf von Anteilen über Kredite der Mitglieder erfolgen. Die Anteile der Genossenschaft bilden deren Grundkapital, während langfristige Kredite von KundInnen eine sinnvolle Alternative zu Bankdarlehen darstellen oder zur Überbrückung von Krisen (etwa Corona) genutzt werden können.
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1603799395414_925
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ### Ehrenamtliche Mithilfe
+    Zuletzt wollten wir wissen, ob eine - wie auch immer geartete - Mithilfe vorstellbar ist. 48 % der befragten Personen haben Zeit und Lust dazu - 43 % hingegen fehlt es an jedenfalls einer dieser Ressourcen, was wir gut verstehen können. Viele der TeilnehmerInnen ließen in ihren Kommentaren erkennen, dass schlicht die Zeit für ein (weiteres) Ehrenamt fehlt.
+    
+    (image: mithilfe-vorstellbar.png width: 400 height: 400 class: my-8 text-center imgClass: inline-block mb-4 caption: **Können Sie sich eine ehrenamtliche Tätigkeit vorstellen?**)
+    
+    Die Genossenschaft lebt von den Ideen ihrer Mitglieder, sie atmet deren Kreativität und eröffnet allen die Möglichkeit, sich einzubringen - wir danken allen TeilnehmerInnen für den kleinen Vorgeschmack darauf:
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1603799497842_925
+- 
+  heading: >
+    Vorschläge für ehrenamtliche
+    Tätigkeiten
+  info: |
+    - "Ausstellungen bei uns im Ort organisieren"
+    - "Kindern während der Öffnungszeiten vorlesen, so dass die Eltern in Ruhe Bücher kaufen können"
+    - "Probelesen, Rezensionen zu Büchern verfassen/ (Vor-)Lesetipps verfassen"
+    - "Veranstaltungen und/oder Lesungen organisieren, Gäste einladen etc"
+    - "Auch in einem der erforderlichen Gremien (abhängig von meiner freien Zeit), was es braucht, wenn es konkret wird."
+    - "Büchertisch vor allem für U3 Bücher mit Beratung"
+  _key: info
+  _uid: info_1603801997006_925
+- 
+  heading: ""
+  show_columns: 'false'
+  horizontal_line: 'false'
+  text_full: |
+    ---
+    
+    ## Zukunft gemeinsam gestalten
+    Ihr habt uns geholfen, einen Eindruck davon zu gewinnen, wie ihr über die eine Genossenschaft als "Nest" des Fundevogels denkt und welches Engagement ihr euch dabei vorstellen könnt. Noch mehr **Ideen, Kritik, Anregungen, Feedback** geht nicht - oder doch? Schreibt uns jederzeit (email: info@fundevogel.de text: eine E-Mail) und lasst es uns wissen!
+    
+    Wir danken allen TeilnehmerInnen sehr herzlich und freuen uns auf die Zukunft - packen wir’s an!
+  text_left: ""
+  text_right: ""
+  _key: text
+  _uid: text_1603802315538_925
+
+----
+
+Date: 2020-10-28
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Text:
+
+## Zeit zum Wandel
+Die Buchhandlung FUNDEVOGEL besteht nun seit 35 Jahren. Zeit zum Wandel. Zusammen mit dem jetzigen Eigentümer möchten wir den FUNDEVOGEL als Genossenschaft in die Zukunft führen. Wir, das ist eine Gruppe langjähriger Mitarbeiterinnen und Mitarbeiter, Kundinnen, Kunden und Literaturbegeisterter. Was uns verbindet: Gemeinsam möchten wir die bisher erfolgreiche Arbeit in Form einer Genossenschaft fortführen.
+
+----
+
+Details:
+
+## Der Blick nach vorn
+Dabei wollen wir die Seele und den besonderen Geist dieses Ladens auch für die Zukunft erhalten, für Sie als Kundinnen und Kunden, aber auch für Ihre Kinder und Enkelkinder. Damit dies gelingen kann, brauchen wir Ihre Unterstützung. Ihre Meinung liegt uns besonders am Herzen. Um uns ein Bild machen zu können, bitten wir Sie um Ihre Meinung, ob unser geplantes Engagement auch von Ihnen gewünscht und mitgetragen wird. Als Genossenschaft wollen wir uns an den Interessen unserer Kundinnen und Kunden ausrichten.
+
+Aussicht auf Erfolg wird das genossenschaftliche Projekt FUNDEVOGEL dann haben, wenn es von Ihnen als Kundinnen und Kunden durch Einkäufe und Bestellungen, durch Engagement und Solidarität getragen wird. Eine wichtige Voraussetzung für den genossenschaftlichen Betrieb des FUNDEVOGELs wird auch die finanzielle Unterstützung durch die Zeichnung von Genossenschaftsanteilen und Mitgliedschaften sein. Mit dem nachfolgenden Fragebogen wollen wir Ihr Interesse erkunden. Ihre Angaben sind selbstverständlich unverbindlich. Bitte beachten Sie aber, dass das Ergebnis dieser Fragebogenaktion für uns eine wichtige Entscheidungsgrundlage für unsere weiteren Planungen darstellt.
+
+----
+
+Cover: hannah-busing-at-unsplash.jpg
+
+----
+
+Seo:
+
+-
+  seo-title: "Impressum"
+  seo-description: "Kinder- und Jugendbuchhandlung Fundevogel für Freiburg und Umgebung | Marienstraße 13, 79098 Freiburg | Telefon: 0761 / 25218 | E-Mail: info@fundevogel.de"

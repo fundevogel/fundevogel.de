@@ -1,0 +1,13 @@
+Titleattribute: "Welchen Beitrag wären Sie bereit zu investieren?"
+
+----
+
+Source: Kundenumfrage 2020
+
+----
+
+Altattribute: Graphik zur Frage "Welchen Beitrag wären Sie bereit zu investieren?"
+
+----
+
+Template: image

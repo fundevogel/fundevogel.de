@@ -33,19 +33,17 @@ Cards:
 -
   entry: 'In Zusammenarbeit mit der (short: AJuM desc: Arbeitsgemeinschaft Jugendliteratur und Medien color: orange) veröffentlichen wir monatlich herausragende, mit dem (link: https://www.lesepeter.de text: LesePeter target: blank) ausgezeichnete Bücher. Daneben danken wir der (short: GEW desc: Gewerkschaft Erziehung und Wissenschaft color: orange) für die freundliche Genehmigung, die Preisträger des (link: https://www.gew.de/wolgast-preis text: Heinrich-Wolgast-Preises target: blank) als Lesetipps aufzunehmen.'
 -
-  entry: Vous pouvez nous voir de temps en temps dans le (link: http://www.cafe-goldene-krone.de text: Café Goldene Krone target: blank) à St. Märgen: un projet exceptionnel mené par des femmes, qui mérite d'être soutenu ! De nombreux livres pour enfants y sont mis à disposition.'
+  entry: 'Vous pouvez nous voir de temps en temps dans le (link: http://www.cafe-goldene-krone.de text: Café Goldene Krone target: blank) à St. Märgen: un projet exceptionnel mené par des femmes, qui mérite d'être soutenu ! De nombreux livres pour enfants y sont mis à disposition.'
 -
   entry: 'La comédienne (link: http://www.petra-gack.de text: Petra Gack target: blank) et le musicien (link: http://www.mike-schweizer.de text: Mike Schweizer target: blank) font partie de notre réseau car nous avons la possibilité et la chance de pouvoir organiser avec eux de belles manifestations artistiques.'
 -
-  entry: |
-  (link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank):
-  La langue n'est pas une barrière, elle est une opportunité !
+  entry: '(link: http://kathinkamarcks.com/ text: Kathinka Marcks target: blank): La langue n'est pas une barrière, elle est une opportunité !'
 -
   entry: 'Nous trouvons très intéressants les projets du (link: https://www.literaturhaus-freiburg.de text: Literaturhaus Freiburg target: blank), comme le "Freileser".'
 -
   entry: 'Zu unseren liebsten Nachbarn gehört das (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst target: blank). Nicht allein, weil es direkt gegenüber vom Fundevogel liegt, sondern auch weil Kunst und Literatur im Alltag nicht weit voneinander entfernt sind.'
 -
-  entry: (link: http://www.traeumothek.de text: Träumothek - Innehalten, Erzählen, Träumen target: blank). Un lieu culturel pour songer et rêver, un lieu de paix et de calme, à l'écart des stimulations extérieures incessantes ... Les tentes et hamacs invitent à ne rien faire et laisser place à son imagination et sa créativité. Nous sommes heureux (et fiers) que nos cartes postales aient encouragé un tel projet !'
+  entry: '(link: http://www.traeumothek.de text: Träumothek - Innehalten, Erzählen, Träumen target: blank). Un lieu culturel pour songer et rêver, un lieu de paix et de calme, à l'écart des stimulations extérieures incessantes ... Les tentes et hamacs invitent à ne rien faire et laisser place à son imagination et sa créativité. Nous sommes heureux (et fiers) que nos cartes postales aient encouragé un tel projet !'
 -
   entry: 'Le soleil brille et invite à la farniente dans les chaises longues du (link: https://www.cafemarcel.de text: Café Marcel target: blank) ! De temps en temps (consultez pour cela notre agenda), des lectures en français se mêlent au goût divin d'un croissant chaud ...'
 -

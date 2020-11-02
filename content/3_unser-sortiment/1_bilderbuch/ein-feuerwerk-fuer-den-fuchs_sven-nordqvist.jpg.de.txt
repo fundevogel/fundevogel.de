@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein Feuerwerk für den Fuchs" von Sven Nordqvist
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -1,0 +1,13 @@
+Titleattribute: "Haben Sie Interesse an einer Kinder- und Jugendbuchhandlung?"
+
+----
+
+Source: Kundenumfrage 2020
+
+----
+
+Altattribute: Graphik zur Frage "Haben Sie Interesse an einer Kinder- und Jugendbuchhandlung?"
+
+----
+
+Template: image

@@ -1,0 +1,140 @@
+Title: Malamander - Die Geheimnisse von Eerie-on-Sea
+
+----
+
+Text:
+
+Der verschlafene Badeort Eerie-on-Sea birgt ein dunkles Geheimnis: Vor seiner Küste treibt das legendäre Seeungeheuer Malamander sein Unwesen, dem jeder im Ort auf der Spur ist, und jeder aus einem andern Grund…
+
+Da ist zum Beispiel Mrs Hanniver mit ihrer magischen Bücherapotheke, der Naturwissenschaftler und Legendenforscher Dr. Thalassi, der überhebliche Schriftsteller Sebastian Eels und der furchterregende Seemann Hakenhand mit dem eisernen Bootshaken.
+
+Und schließlich und vor allem gibt es in Eerie-on-Sea den berühmten Herbie Lemon, den zwölfjährigen Sachenfinder aus dem Grand Nautilus Hotel, der gewissenhaft dafür sorgt, dass jedes Fundstück sicher aufbewahrt wird und zurück in die Hände seiner Besitzer gelangt.
+
+Sein verhältnismäßig ruhiges Leben wird allerdings völlig auf den Kopf gestellt, als eines Tages das Mädchen Violet Parma in seinem Fundbüro auftaucht und ihn um Hilfe bittet: Sie ist auf der Suche nach ihren seit zwölf Jahren verschollenen Eltern und fest entschlossen, den Malamander aufzuspüren…
+
+----
+
+Verdict: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphäre und voll eigenwilliger Gestalten von dem britischen Autor Thomas Taylor, der als Illustrator unter anderem das Cover zur englischen Ausgabe von „Harry Potter und der Stein der Weisen“ gestaltet hat.
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-10-29
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Isbn: 978-3-446-26821-0
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000002809340/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Taylor/Malamander---Die-Geheimnisse-von-Eerie-on-Sea
+
+----
+
+Book-title: Malamander - Die Geheimnisse von Eerie-on-Sea
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Thomas Taylor
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Claudia Max
+
+----
+
+Participants: 
+
+----
+
+Page-count: 288
+
+----
+
+Duration: 
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 17,00
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Topics: Abenteuer
+
+----
+
+Cover:
+
+- >
+  malamander-die-geheimnisse-von-eerie-on-sea_thomas-taylor.jpg
+
+----
+
+Isaudiobook: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

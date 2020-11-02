@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Reise in den Schlummerdschungel" von Juan Muñoz
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Sommer-Wimmelbuch" von Rotraut Susanne Berner
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image
