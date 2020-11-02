@@ -4,7 +4,7 @@
     <?= $page->text()->kt() ?>
     <?php if ($page->hasCover()) : ?>
     <div class="mt-6">
-        <?php snippet('news/teaser') ?>
+        <?php snippet('news/hero') ?>
     </div>
     <?php endif ?>
 </header>
@@ -13,7 +13,7 @@
     <h2 class="mb-12 text-center"><?= t('Neues aus dem Fundevogel') ?></h2>
     <?php foreach($news as $article) : ?>
         <article class="js-article animation-fade-in">
-            <div class="<?php e(count($images = $article->images()->filterBy('extension', '!=', 'webp')) < 3, 'container') ?>">
+            <div class="<?php e(count($images = $article->images()->filterBy('extension', 'not in', ['avif', 'webp'])) < 3, 'container') ?>">
                 <div class="flex flex-col <?php e(count($images) < 3, 'lg:flex-row ') ?> justify-center">
                     <?php if ($images) : ?>
                     <?php if (count($images) > 2) : ?>
