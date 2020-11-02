@@ -1,0 +1,73 @@
+tabs:
+  about:
+    columns:
+      left:
+        width: 1/2
+        fields:
+          street:
+            label:
+              de: Straße
+              en: Street
+            type: text
+            icon: home
+            translate: false
+          zip:
+            label:
+              de: Postleitzahl
+              en: Postal Code
+            type: text
+            translate: false
+            width: 1/4
+          city:
+            label:
+              de: Stadt
+              en: City
+            type: text
+            translate: false
+            icon: map
+            width: 3/4
+          phone:
+            label:
+              de: Telefon
+              en: Phone
+            type: tel
+            translate: false
+            width: 1/2
+          birthday:
+            label:
+              de: Geburtstag
+              en: Birthday
+            type: text
+            icon: heart
+            translate: false
+            width: 1/2
+
+      right:
+        width: 1/2
+        fields:
+          knowhow:
+            label:
+              de: Aufgabenbereich
+              en: Job description
+            type: text
+            icon: star
+            translate: false
+          hobbies:
+            label: Hobbies
+            type: text
+            icon: smile
+            translate: false
+          show_website:
+            extends: fields/toggle
+            label:
+              de: Webseite?
+              en: Website?
+            width: 1/4
+          website:
+            label:
+              de: Webseite
+              en: Website
+            type: url
+            width: 3/4
+            when:
+              show_website: true

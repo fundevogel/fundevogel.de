@@ -1,0 +1,22 @@
+title:
+  de: SchreiberIn
+  en: Writer
+
+description:
+  en: May edit all pages
+  de: Kann alle Seiten bearbeiten
+
+extends: layouts/user
+
+permissions:
+  access:
+    settings: false
+    retour: false
+  languages: false
+  pages:
+    delete: false
+  site:
+    update: false
+  user:
+    changeRole: false
+  users: false

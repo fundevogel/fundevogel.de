@@ -1,1 +1,9 @@
-title: Administrator
+title:
+  de: AdministratorIn
+  en: Administrator
+
+description:
+  en: May edit everything
+  de: Kann alles bearbeiten
+
+extends: layouts/user

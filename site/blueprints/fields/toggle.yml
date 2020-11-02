@@ -1,8 +1,8 @@
 type: toggle
 text:
   -
-    en: No
     de: Nein
+    en: No
   -
-    en: Yes
     de: Ja
+    en: Yes
