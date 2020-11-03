@@ -10,42 +10,24 @@
     <!-- CSS -->
     <?php if (!option('debug')) : ?>
     <?php
-        $criticalPath = $kirby->root('assets') . '/styles/critical.css';
-        $critical = F::read($criticalPath);
+        # Production = Minified inline CSS
+        $cssPath = $kirby->root('assets') . '/styles/main.min.css';
+        $css = F::read($cssPath);
     ?>
-    <!-- 1. Critical CSS -->
-    <style nonce="<?= $page->nonce('css') ?>"><?= $critical ?></style>
-    <?php endif ?>
+    <style nonce="<?= $page->nonce('css') ?>"><?= $css ?></style>
 
-    <!-- 2. Async CSS -->
+    <?php else : ?>
+
     <?php
-        $cssFile = option('debug') ? 'main.css' : 'main.min.css';
-        $cssPath = '/assets/styles/' . $cssFile;
+        # Development = Unminified CSS file
+        $cssPath = '/assets/styles/main.css';
         $css = Bnomei\Fingerprint::css($cssPath, [
-            'id' => 'css',
             'nonce' => $page->nonce('css'),
-            'media' => option('debug') ? 'all' : 'print',
             'integrity' => true,
         ]);
 
         echo $css;
     ?>
-    <?php if (!option('debug')) : ?>
-    <script nonce="<?= $page->nonce('js') ?>">
-        document.getElementById('css').addEventListener('load', function () {
-            this.media = 'all';
-        });
-    </script>
-
-    <!-- 3. Fallback CSS -->
-    <noscript>
-        <?php
-            echo Bnomei\Fingerprint::css($cssPath, [
-                'nonce' => $page->nonce('css'),
-                'integrity' => true,
-            ]);
-        ?>
-    </noscript>
     <?php endif ?>
 
     <!-- JS -->
