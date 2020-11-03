@@ -15,6 +15,7 @@ return [
 
     # AVIF support
     'avif' => [
+        'news.hero',
         'cover',
         'about.cover',
         'assortment.navigation',
