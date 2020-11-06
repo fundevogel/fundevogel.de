@@ -68,7 +68,17 @@ tabs:
             fields:
               limit_perpage: fields/groups/limit-perpage
 
-          sidebar_files: sections/documents
+          sidebar_documents:
+            headline:
+              de: Ausgaben
+              en: Editions
+            type: files
+            sortBy: year desc edition desc
+            text: "{{ file.edition }} ({{ file.year }})"
+            template: pdf
+            create: pdf
+            info: "{{ file.niceSize }}"
+            image: file.coverImage.toFile()
 
   # Metadata
   tab_seo: tabs/seo
