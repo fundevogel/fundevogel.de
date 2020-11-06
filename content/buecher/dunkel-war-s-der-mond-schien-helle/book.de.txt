@@ -1,0 +1,136 @@
+Title: Dunkel war's, der Mond schien helle
+
+----
+
+Isbn: 978-3-8369-4285-0
+
+----
+
+Book-title: Dunkel war's, der Mond schien helle
+
+----
+
+Book-subtitle: Verse, Reime und Gedichte
+
+----
+
+Author: Edmund Jacoby
+
+----
+
+Illustrator: Rotraut Susanne Berner
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 152
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 24,00
+
+----
+
+Binding: Halbleinen
+
+----
+
+Topics: Kindergedichte, Kinderreime / Kinderverse / Abzählreime
+
+----
+
+Description: Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460849217808/63715/10002/-3/Buecher_Kinder--und-Jugend//Dunkel-wars-der-Mond-schien-helle/4099276460822241246/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  dunkel-war-s-der-mond-schien-helle_edmund-jacoby.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

@@ -1,0 +1,136 @@
+Title: Ein Riese warf einen Stein
+
+----
+
+Isbn: 978-3-407-75471-4
+
+----
+
+Book-title: Ein Riese warf einen Stein
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Josef Guggenmos
+
+----
+
+Illustrator: Sabine Kranz
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 30
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Ameise
+
+----
+
+Description: Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002532723/63715/10002/-3/Buecher_Bilderbuecher/Josef-Guggenmos/Ein-Riese-warf-einen-Stein/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  ein-riese-warf-einen-stein_josef-guggenmos-sabine-kranz.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

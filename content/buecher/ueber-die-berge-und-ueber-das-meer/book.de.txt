@@ -1,0 +1,116 @@
+Title: Über die Berge und über das Meer
+
+----
+
+Isbn: 978-3-8369-5676-5
+
+----
+
+Book-title: Über die Berge und über das Meer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Dirk Reinhardt
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 272
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Afghanistan, Flucht / Flüchtling, Taliban
+
+----
+
+Description: Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001645823/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/ueber-die-Berge-und-ueber-das-Meer
+
+----
+
+Cover:
+
+- >
+  ueber-die-berge-und-ueber-das-meer_dirk-reinhardt.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

@@ -1,0 +1,136 @@
+Title: Wo kommen die Worte her
+
+----
+
+Isbn: 978-3-407-79986-9
+
+----
+
+Book-title: Wo kommen die Worte her
+
+----
+
+Book-subtitle: Neue Gedichte für Kinder und Erwachsene
+
+----
+
+Author: Hans-Joachim Gelberg
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 262
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 24,95
+
+----
+
+Binding: Halbleinen
+
+----
+
+Topics: Lyrik/Gedichte
+
+----
+
+Description: “Sag, wo kommen die Worte her?” Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838828108/63715/10002/-3/Buecher_Kinder--und-Jugend//Wo-kommen-die-Worte-her/4099276460822241246/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  wo-kommen-die-worte-her_hans-joachim-gelberg.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

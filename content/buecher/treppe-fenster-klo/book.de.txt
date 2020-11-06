@@ -1,0 +1,93 @@
+Title: Treppe, Fenster, Klo
+
+----
+
+Isbn: 978-3-89565-217-2
+
+----
+
+Book-title: Treppe, Fenster, Klo
+
+----
+
+Book-subtitle: Die ungewöhnlichsten Häuser der Welt
+
+----
+
+Author: Aleksandra Machowiak; Daniel Mizielinski
+
+----
+
+Translator: Dorota Stroinska
+
+----
+
+Page-count: 155
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 19,95
+
+----
+
+Binding: gebunden
+
+----
+
+Categories: 
+
+----
+
+Topics: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Hasaward: false
+
+----
+
+Isaward: false
+
+----
+
+Cover: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Seodescription: 

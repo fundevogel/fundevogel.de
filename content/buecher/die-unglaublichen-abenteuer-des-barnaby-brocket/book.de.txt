@@ -1,0 +1,116 @@
+Title: Die unglaublichen Abenteuer des Barnaby Brocket
+
+----
+
+Isbn: 978-3-596-81193-9
+
+----
+
+Book-title: Die unglaublichen Abenteuer des Barnaby Brocket
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: John Boyne
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Adelheid Zöfel
+
+----
+
+Participants: 
+
+----
+
+Page-count: 288
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER Kinder- und Jugendtaschenbuch
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 8,99
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Anderssein
+
+----
+
+Description: Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846065011/63715/10002/-3/Buecher_Kinder--und-Jugend/John-Boyne/Die-unglaublichen-Abenteuer-des-Barnaby-Brocket
+
+----
+
+Cover:
+
+- >
+  die-unglaublichen-abenteuer-des-barnaby-brocket_john-boyne.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

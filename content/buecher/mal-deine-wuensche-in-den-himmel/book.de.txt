@@ -1,0 +1,136 @@
+Title: Mal deine Wünsche in den Himmel
+
+----
+
+Isbn: 978-3-7913-7103-0
+
+----
+
+Book-title: Mal deine Wünsche in den Himmel
+
+----
+
+Book-subtitle: Kunst und Gedichte für Kinder und Erwachsene
+
+----
+
+Author: Christine Knödler
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 160
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Prestel
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 19,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Bildbetrachtung / Bildinterpretation, Hausbuch / Familienbuch / Familienbücher, Kindergedichte
+
+----
+
+Description: Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840360338/63715/10002/-3/weitere-Kategorien_Architektur-und-Kunst//Mal-deine-Wuensche-in-den-Himmel
+
+----
+
+Cover:
+
+- >
+  mal-deine-wuensche-in-den-himmel_christine-knoedler.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

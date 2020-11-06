@@ -1,0 +1,136 @@
+Title: Latte Igel und der Wasserstein
+
+----
+
+Isbn: 978-3-522-18051-1
+
+----
+
+Book-title: Latte Igel und der Wasserstein
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Sebastian Lybeck
+
+----
+
+Illustrator: Daniel Napp
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 144
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: 
+
+----
+
+Description: Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/772416/63715/10002/-3/Buecher_Kinder--und-Jugend/Sebastian-Lybeck/Latte-Igel-und-der-Wasserstein
+
+----
+
+Cover:
+
+- >
+  latte-igel-und-der-wasserstein_sebastian-lybeck.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

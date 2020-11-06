@@ -1,0 +1,136 @@
+Title: Ein Freund wie kein anderer
+
+----
+
+Isbn: 978-3-522-18457-1
+
+----
+
+Book-title: Ein Freund wie kein anderer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Oliver Scherz
+
+----
+
+Illustrator: Barbara Scholz
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 128
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann Verlag
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft
+
+----
+
+Description: Erdhörnchen Habbi ist mit einem Wolf zusammengeprallt, dem größten Feind der Erdhörnchen! Doch statt sich auf ihn zu stürzen, blinzelt der Wolf ihn nur kraftlos an. Er scheint schwer verletzt zu sein. Wie könnte Habbi ihn da einfach allein lassen? Täglich versorgt er ihn mit Futter und nach und nach freunden die beiden sich an. Bis ihre Freundschaft auf eine harte Probe gestellt wird ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000614598/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Ein-Freund-wie-kein-anderer
+
+----
+
+Cover:
+
+- >
+  ein-freund-wie-kein-anderer_oliver-scherz.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

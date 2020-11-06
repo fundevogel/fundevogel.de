@@ -48,13 +48,21 @@ Favorites:
 
 - 
   title: ""
+  person: Frieda T.
+  book:
+    - buecher/frederick
   quote: >
     Ein zeitloses Kinderbuch, das immer
     wieder wunderschön zeigt, dass auch das
     Herz im Winter versorgt sein will. Und
     dass "Nichtstun" nicht immer sinnlos ist
     … !
-  person: Frieda T.
+  text: >
+    "Macht die Augen zu", sagte Frederick
+    und kletterte auf einen großen Stein.
+    "Jetzt schicke ich euch die
+    Sonnenstrahlen. Fühlt ihr schon, wie
+    warm sie sind? Schön warm und golden."
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-76007-4
@@ -73,16 +81,13 @@ Favorites:
   age: ab 4 Jahren
   price: 6,50
   binding: kartoniert
-  text: >
-    "Macht die Augen zu", sagte Frederick
-    und kletterte auf einen großen Stein.
-    "Jetzt schicke ich euch die
-    Sonnenstrahlen. Fühlt ihr schon, wie
-    warm sie sind? Schön warm und golden."
 - 
   title: 'Petterson & Findus'
-  quote: ""
   person: ""
+  book:
+    - buecher/ein-feuerwerk-fuer-den-fuchs
+  quote: ""
+  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-7891-6172-8
@@ -100,11 +105,21 @@ Favorites:
   age: ab 4 Jahren
   price: 14,00
   binding: gebunden
-  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
 - 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/die-drei-raeuber
+  quote: ""
+  text: >
+    Die drei Räuber überfallen Kutschen
+    und berauben die Reisenden. Wirklich
+    sehr bös. Aber als sie eines Tages auf
+    das kleine Waisenmädchen Tiffany
+    treffen, suchen sie gleich nach anderen
+    unglücklichen Kindern, für die sie ein
+    prächtiges Schloss kaufen und
+    schließlich eine ganze Stadt gründen.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-257-00502-8
@@ -121,21 +136,15 @@ Favorites:
   age: ab 3 Jahren
   price: 20,00
   binding: gebunden
-  text: >
-    Die drei Räuber überfallen Kutschen
-    und berauben die Reisenden. Wirklich
-    sehr bös. Aber als sie eines Tages auf
-    das kleine Waisenmädchen Tiffany
-    treffen, suchen sie gleich nach anderen
-    unglücklichen Kindern, für die sie ein
-    prächtiges Schloss kaufen und
-    schließlich eine ganze Stadt gründen.
 - 
   title: Willkommen in Wimmlingen!
+  person: Helena K.
+  book:
+    - buecher/sommer-wimmelbuch
   quote: >
     Eintauchen in Bilder, die Geschichten
     erzählen. Es gibt so viel zu entdecken!
-  person: Helena K.
+  text: 'Rotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, und das nicht nur unter den Kleinen! Ohne Worte erählt sie vom Leben in Wimmlingen, dessen Bewohner den BetrachterInnen schon nach kurzer Zeit vertraut sind - und die man nicht mehr missen möchte.'
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-8369-5082-4
@@ -153,11 +162,13 @@ Favorites:
   age: ab 2 Jahren
   price: 12,90
   binding: Pappband
-  text: 'Rotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, und das nicht nur unter den Kleinen! Ohne Worte erählt sie vom Leben in Wimmlingen, dessen Bewohner den BetrachterInnen schon nach kurzer Zeit vertraut sind - und die man nicht mehr missen möchte.'
 - 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/pippilothek
+  quote: ""
+  text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern. "Das ist eine Bibliothek", erklärt die Maus. "Pippi .. was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7152-0620-2
@@ -174,9 +185,11 @@ Favorites:
   age: ab 5 Jahren
   price: 14,95
   binding: gebunden
-  text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern. "Das ist eine Bibliothek", erklärt die Maus. "Pippi .. was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
 - 
   title: ""
+  person: Carola M.
+  book:
+    - buecher/reise-in-den-schlummerdschungel
   quote: >
     Ein Bilderbuch mit bemerkenswerten
     Illustrationen über ein mutiges
@@ -186,7 +199,15 @@ Favorites:
     trägt – und unterwegs weitaus
     interessantere Wesen kennenlernt als zu
     zählende Schäfchen.
-  person: Carola M.
+  text: >
+    Was hält die Dunkelheit bereit? Was
+    gibt es zu entdecken, wenn eigentlich
+    Zeit zum Schlafen ist, die Augen aber
+    einfach nicht zufallen wollen? Für
+    Elisa am liebsten den
+    Schlummerdschungel. Mit ihrer Laterne
+    erkundet sie dieses sonderbare Land auf
+    dem Weg in die Welt der Träume!
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7152-0769-8
@@ -204,19 +225,14 @@ Favorites:
   age: ab 3 Jahren
   price: 14,95
   binding: gebunden
-  text: >
-    Was hält die Dunkelheit bereit? Was
-    gibt es zu entdecken, wenn eigentlich
-    Zeit zum Schlafen ist, die Augen aber
-    einfach nicht zufallen wollen? Für
-    Elisa am liebsten den
-    Schlummerdschungel. Mit ihrer Laterne
-    erkundet sie dieses sonderbare Land auf
-    dem Weg in die Welt der Träume!
 - 
   title: Pu der Bär trifft Alice im Wunderland
-  quote: Helena schweigt
-  person: Helena K.
+  person: ""
+  book:
+    - buecher/der-baer-der-nicht-da-war
+  quote: ""
+  text: |
+    "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär."Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-88897-970-5
@@ -233,8 +249,6 @@ Favorites:
   age: ""
   price: 16,95
   binding: gebunden
-  text: |
-    "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär."Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
 
 ----
 

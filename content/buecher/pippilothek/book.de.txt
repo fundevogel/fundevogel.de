@@ -1,0 +1,139 @@
+Title: Pippilothek???
+
+----
+
+Isbn: 978-3-7152-0620-2
+
+----
+
+Book-title: Pippilothek???
+
+----
+
+Book-subtitle: Eine Bibliothek wirkt Wunder
+
+----
+
+Author: Lorenz Pauli
+
+----
+
+Illustrator: Kathrin Schärer
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Bibliotheken
+
+----
+
+Description: Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern.. "Das ist eine Bibliothek", erklärt die Maus.. "Pippi ... was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Ausgerechnet ein Huhn hilft ihm dabei!. Ob es um Hühnerknochen oder Zaubersprüche geht, in der Bibliothek findet jeder etwas. Und inmitten der Bücher versöhnen sich gar Fuchs und Huhn. Kathrin Schärer nimmt in großartigen Bildern den Witz in Lorenz Paulis Geschichte auf; in der spitzbübischen Maus und in den Begegnungen der drei ungleichen Tiere.. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838809406/63715/10002/-3/Buecher_Kinder--und-Jugend/Lorenz-Pauli/Pippilothek/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- pippilothek_lorenz-pauli.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

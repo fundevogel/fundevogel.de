@@ -1,0 +1,135 @@
+Title: Warum gibt es uns?
+
+----
+
+Isbn: 978-3-407-75468-4
+
+----
+
+Book-title: Warum gibt es uns?
+
+----
+
+Book-subtitle: Die Entwicklung des Lebens vom Urknall bis zu dir
+
+----
+
+Author: Johan Olsen
+
+----
+
+Illustrator: Lara Paulussen
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 138
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 16,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Naturwissenschaft
+
+----
+
+Description: Die Schwerkraft kann man mit einer Sahnetorte erklären und die Relativitätstheorie mit dem Bauch einer dicken Katze. Klingt irre? Ist es auch! Vor allem, weil es funktioniert. Mit ansteckender Begeisterung führt Johan Olsen vom Urknall über die Entstehung des Lebens bis zum Menschen. Er erklärt Atome, Relativitätstheorie, Moleküle und Proteine - und warum der Mensch vielleicht doch nicht die Krone der Schöpfung ist.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002025954/63715/10002/-3/Buecher_Sachbuecher/Johan-Olsen/Warum-gibt-es-uns/4099276460822241240/%204099276460822241224/%
+
+----
+
+Cover:
+
+- warum-gibt-es-uns_johan-olsen.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

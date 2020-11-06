@@ -1,0 +1,136 @@
+Title: Ein Feuerwerk für den Fuchs
+
+----
+
+Isbn: 978-3-7891-6172-8
+
+----
+
+Book-title: Ein Feuerwerk für den Fuchs
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Sven Nordqvist
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Angelika Kutsch
+
+----
+
+Participants: 
+
+----
+
+Page-count: 28
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft
+
+----
+
+Description: Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt: mit einer Hutschachtel voller Feuerwerkskörper, einer Spukseilbahn und einem falschen Huhn, das möglichst echt auszusehen hat. Wenn Henne Henni und ihre Kolleginnen dafür auch ein paar Federn lassen müssen - was macht das schon. Schließlich ist es ja zu ihrem Besten.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1060768/63715/10002/-3/Buecher_Bilderbuecher/Sven-Nordqvist/Ein-Feuerwerk-fuer-den-Fuchs/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

@@ -1,0 +1,135 @@
+Title: Bienen
+
+----
+
+Isbn: 978-3-8369-5915-5
+
+----
+
+Book-title: Bienen
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Piotr Socha
+
+----
+
+Illustrator: Wojciech Grajkowski
+
+----
+
+Narrator: 
+
+----
+
+Translator: Thomas Weiler
+
+----
+
+Participants: 
+
+----
+
+Page-count: 80
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 24,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Bienen, Deutscher Jugendliteraturpreis
+
+----
+
+Description: Willkommen im Reich der Bienen! Hier können wir die fleißigen Insekten aus der Nähe betrachten, in einen Bienenstock schauen und alles über das Imkern erfahren. Wer bei Bienen nur an den leckeren Honig denkt, wird staunen! Denn wer hätte gewusst, dass es Bienen schon seit den Dinosauriern gibt? Was es mit dem Bienentanz auf sich hat? Oder warum es ohne die Bienen weniger Äpfel gäbe? Ein wunderbar witziges Buch für große und kleine Bienenfreunde, das mit seinen fröhlich bunten, großformatigen Bildtafeln und vielen erstaunlichen Informationen die Geschichte von Mensch und Honigbiene erzählt.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851994606/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Piotr-Socha/Bienen/4099276460822241240/%204099276460822241224/%
+
+----
+
+Cover:
+
+- bienen_piotr-socha.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

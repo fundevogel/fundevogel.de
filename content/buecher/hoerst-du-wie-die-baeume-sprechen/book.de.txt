@@ -1,0 +1,136 @@
+Title: Hörst du, wie die Bäume sprechen?
+
+----
+
+Isbn: 978-3-7891-0822-8
+
+----
+
+Book-title: Hörst du, wie die Bäume sprechen?
+
+----
+
+Book-subtitle: Eine kleine Entdeckungsreise durch den Wald
+
+----
+
+Author: Peter Wohlleben
+
+----
+
+Illustrator: Stefanie Reich; Dagmar Herrmann
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 128
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Wald
+
+----
+
+Description: Haben Bäume eine eigene Sprache? Müssen Baumkinder in die Schule gehen? Warum haben Waldtiere Angst vor Menschen? Peter Wohlleben beantwortet Fragen, die ungewöhnlich, originell und oft sehr lustig sind. Seine leicht verständlichen und fast immer überraschenden Antworten lassen Kinder das Leben im Wald mit ganz anderen Augen sehen. Der begnadete Erzähler schöpft aus seiner jahrzehntelangen Erfahrung als Förster und Naturschützer und stützt sich dabei auf neueste wissenschaftliche Erkenntnisse.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000211303/63715/10002/-3/Buecher_Sachbuecher/Peter-Wohlleben/Hoerst-du-wie-die-Baeume-sprechen/4099276460822241240/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  hoerst-du-wie-die-baeume-sprechen_peter-wohlleben.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

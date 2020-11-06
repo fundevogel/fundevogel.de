@@ -1,0 +1,116 @@
+Title: Der Herr der Ringe - Die Gefährten
+
+----
+
+Isbn: 978-3-608-93981-1
+
+----
+
+Book-title: Der Herr der Ringe - Die Gefährten
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: John R. R. Tolkien
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Wolfgang Krege
+
+----
+
+Participants: 
+
+----
+
+Page-count: 608
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Klett-Cotta
+
+----
+
+Age: 
+
+----
+
+Price: 15,00
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Fantasy, Fabelwesen
+
+----
+
+Description: Der Schauplatz des Herrn der Ringe ist Mittelerde, eine alternative Welt, und erzählt wird von der gefahrvollen Quest einiger Gefährten, die in einem dramatischen Kampf gegen das Böse endet. Durch einen merkwürdigen Zufall fällt dem Hobbit Bilbo Beutlin ein Zauberring zu, dessen Kraft, käme er in die falschen Hände, zu einer absoluten Herrschaft des Bösen führen würde. Bilbo übergibt den Ring an seinen Neffen Frodo, der den Ring in der Schicksalskluft zerstören soll.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840795464/63715/10002/-3/Buecher_Fantasy/John-R-R-Tolkien/Der-Herr-der-Ringe----Die-Gefaehrten-3-Teile-
+
+----
+
+Cover:
+
+- >
+  der-herr-der-ringe-die-gefaehrten_john-r-r-tolkien.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

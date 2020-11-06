@@ -1,0 +1,135 @@
+Title: Immer dieser Michel
+
+----
+
+Isbn: 978-3-7891-2946-9
+
+----
+
+Book-title: Immer dieser Michel
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Astrid Lindgren
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 360
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 17,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: 
+
+----
+
+Description: Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1600121/63715/10002/-3/Buecher_Kinder--und-Jugend/Astrid-Lindgren/Immer-dieser-Michel-Gesamtausgabe
+
+----
+
+Cover:
+
+- immer-dieser-michel_astrid-lindgren.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

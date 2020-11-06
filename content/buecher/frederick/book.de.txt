@@ -1,0 +1,135 @@
+Title: Frederick
+
+----
+
+Isbn: 978-3-407-76007-4
+
+----
+
+Book-title: Frederick
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Leo Lionni
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 31
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 6,50
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Philosophie, Phantasie, Dichtung
+
+----
+
+Description: “Macht die Augen zu”, sagte Frederick und kletterte auf einen großen Stein. “Jetzt schicke ich euch die Sonnenstrahlen. Fühlt ihr schon, wie warm sie sind? Schön warm und golden.”
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1555685/63715/10002/-3/Buecher_Bilderbuecher/Leo-Lionni/Frederick/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- frederick_leo-lionni.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

@@ -1,0 +1,136 @@
+Title: Reise in den Schlummerdschungel
+
+----
+
+Isbn: 978-3-7152-0769-8
+
+----
+
+Book-title: Reise in den Schlummerdschungel
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Juan Muñoz-Tébar
+
+----
+
+Illustrator: Ramón París
+
+----
+
+Narrator: 
+
+----
+
+Translator: Eva Roth
+
+----
+
+Participants: 
+
+----
+
+Page-count: 34
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Gute-Nacht-Geschichten, Dunkelheit, Dschungel
+
+----
+
+Description: Wenn Elisa nicht schlafen kann, nimmt sie ihre Laterne und geht in die Nacht hinaus.Sie hat keine Angst im Dunkeln. Auf der Schwelle zwischen Schlafen und Wachen, zwischen Fantasie und Wirklichkeit streift sie durch den Schlummerdschungel.. Elisa trifft auf den Ameisenbären Estebaldo. Auch er kann nicht schlafen, und gemeinsam erkunden sie eine wundersame Welt voller verschlungener Pflanzen. Immer wieder stoßen sie auf Tiere - in Höhlen, Bäumen und im See. Schlafen sie oder sind sie noch wach?. Eine verträumte Geschichte für alle, die nicht schlafen können.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002048605/63715/10002/-3/Buecher_Bilderbuecher/Juan-Muoz-Tbar/Reise-in-den-Schlummerdschungel/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  reise-in-den-schlummerdschungel_juan-munoz-tebar.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

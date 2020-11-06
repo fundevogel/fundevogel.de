@@ -1,0 +1,135 @@
+Title: Die drei Räuber
+
+----
+
+Isbn: 978-3-257-00502-8
+
+----
+
+Book-title: Die drei Räuber
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Tomi Ungerer
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Tilde Michels
+
+----
+
+Participants: 
+
+----
+
+Page-count: 40
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Diogenes
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 20,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Fürsorge, Waisenkind
+
+----
+
+Description: Die drei Räuber überfallen Kutschen und berauben die Reisenden. Wirklich sehr bös. Aber als sie eines Tages auf das kleine Waisenmädchen Tiffany treffen, suchen sie gleich nach anderen unglücklichen Kindern, für die sie ein prächtiges Schloss kaufen und schließlich eine ganze Stadt gründen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/2074667/63715/10002/-3/Buecher_Bilderbuecher/Tomi-Ungerer/Die-drei-Raeuber/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- die-drei-raeuber_tomi-ungerer.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

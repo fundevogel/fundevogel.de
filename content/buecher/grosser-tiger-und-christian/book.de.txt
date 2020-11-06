@@ -1,0 +1,116 @@
+Title: Großer-Tiger und Christian
+
+----
+
+Isbn: 978-3-423-71770-0
+
+----
+
+Book-title: Großer-Tiger und Christian
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Fritz Mühlenweg
+
+----
+
+Illustrator: Dieter Wiesmüller
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 752
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 15,95
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Abenteuer, Gobi
+
+----
+
+Description: Großer-Tiger, ein junger Chinese, und sein deutscher Freund Christian werden mit einer geheimen Mission durch die Wüste Gobi geschickt.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000207337/63715/10002/-3/Buecher_Abenteuer/Fritz-Muehlenweg/Grosser-Tiger-und-Christian
+
+----
+
+Cover:
+
+- >
+  grosser-tiger-und-christian_fritz-muehlenweg.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

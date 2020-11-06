@@ -26,33 +26,40 @@
             <div class="flex">
                 <?php
                     foreach ($favorites as $favorite) :
-                    $favoriteTitle = $favorite->title()->isNotEmpty()
+
+                    $book = $favorite->book()->toPage();
+                    $title = $favorite->title()->isNotEmpty()
                         ? $favorite->title()->html()
-                        : $favorite->book_title()->html()
+                        : $book->book_title()->html()
                     ;
 
-                    if ($image = $favorite->book_cover()->toFile()) :
+                    $text = $favorite->text()->isNotEmpty()
+                        ? $favorite->text()->kt()
+                        : $book->description()->kt()
+                    ;
                 ?>
                 <div class="min-w-full relative">
                     <div class="container">
                         <div class="flex flex-col lg:flex-row">
+                            <?php if ($image = $book->cover()->toFile()) : ?>
                             <div class="flex-none flex justify-center">
                                 <div class="flex items-center mb-10 lg:mb-0">
                                     <div class="relative">
-                                        <?php if ($favorite->isSeries()->bool()) : ?>
+                                        <?php if ($book->isSeries()->bool()) : ?>
                                         <span class="badge absolute top-4 -left-6">
                                             <?= t('Serie') ?>
                                         </span>
                                         <?php endif ?>
-                                        <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal') ?>
+                                        <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal', false, true) ?>
                                     </div>
                                 </div>
                             </div>
+                            <?php endif ?>
                             <div class="md:ml-16 flex-1 flex flex-col justify-center">
                                 <div class="mb-6">
-                                    <h3 class="lg:text-2xl text-orange-medium"><?= $favoriteTitle ?></h3>
+                                    <h3 class="lg:text-2xl text-orange-medium"><?= $title ?></h3>
                                     <div class="lg:text-lg">
-                                        <?= $favorite->text()->kt() ?>
+                                        <?= $text ?>
                                     </div>
                                 </div>
                                 <?php if ($favorite->quote()->isNotEmpty()) : ?>
@@ -70,22 +77,21 @@
                         </div>
                     </div>
                 </div>
-                <?php
-                    endif;
-                    endforeach;
-                ?>
+                <?php endforeach ?>
             </div>
             <div class="js-controls mt-12 mb-px flex justify-center">
                 <?php
                     foreach ($favorites as $favorite) :
-                    $favoriteTitle = $favorite->title()->isNotEmpty()
+
+                    $book = $favorite->book()->toPage();
+                    $title = $favorite->title()->isNotEmpty()
                         ? $favorite->title()->html()
-                        : $favorite->book_title()->html()
+                        : $book->book_title()->html()
                     ;
                 ?>
                 <span
                     class="js-tippy mx-1 inline-block w-4 h-4 bg-red-light hover:bg-red-medium rounded-full cursor-pointer transition-all"
-                    title="<?= $favoriteTitle ?>"
+                    title="<?= $title ?>"
                     data-tippy-placement="bottom"
                     data-tippy-theme="fundevogel red"
                 ></span>

@@ -1,0 +1,115 @@
+Title: Die Welle
+
+----
+
+Isbn: 978-3-473-58008-8
+
+----
+
+Book-title: Die Welle
+
+----
+
+Book-subtitle: Bericht über einen Unterrichtsversuch, der zu weit ging.
+
+----
+
+Author: Morton Rhue
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Hans-Georg Noack
+
+----
+
+Participants: 
+
+----
+
+Page-count: 186
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Ravensburger Verlag
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 8,99
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Faschismus, Preis der Leseratten des ZDF
+
+----
+
+Description: Ein junger Lehrer entschließt sich zu einem ungewöhnlichen Experiment. Er möchte seinen Schülern beweisen, dass Anfälligkeit für faschistoides Handeln und Denken nicht etwas ist, das nur andere Menschen betrifft - Faschismus ist hier mitten unter uns und in jedem von uns. Doch die “Bewegung”, die er auslöst, droht ihn und sein Vorhaben zu überrollen: Das Experiment gerät außer Kontrolle.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1423681/63715/10002/-3/Buecher_Kinder--und-Jugend/Morton-Rhue/Die-Welle
+
+----
+
+Cover:
+
+- die-welle_morton-rhue.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

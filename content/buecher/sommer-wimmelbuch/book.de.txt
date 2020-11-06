@@ -1,0 +1,136 @@
+Title: Sommer-Wimmelbuch
+
+----
+
+Isbn: 978-3-8369-5082-4
+
+----
+
+Book-title: Sommer-Wimmelbuch
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Rotraut Susanne Berner
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 16
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 2 Jahren
+
+----
+
+Price: 12,90
+
+----
+
+Binding: Pappband
+
+----
+
+Topics: Papp-Bilderbuch, Sommer, Suchbild / Vexierbild / Wimmelbild
+
+----
+
+Description: Suchen, entdecken und Geschichten erzählenRotraut Susanne Berners Wimmelbücher haben inzwischen weltweit eine riesige Fangemeinde, nicht nur unter den 2-Jährigen. Der dritte Band ihres Jahresreigens lässt Sommergeschichten entdecken. Die Sonne scheint, vereinzelt sind kleine Wolken am Himmel zu sehen, in der Stadt und drumherum herrscht reges Treiben. Viele Bekannte aus den ersten beiden Wimmelbüchern treffen wir wieder: Der Bauer fährt die Ernte ein, Thomas und Lene haben ihre Wohnung nach brauchbaren Sachen durchstöbert, die sie auf dem Flohmarkt verkaufen wollen, der alte Friedrich nimmt Fahrstunden und verursacht dabei ein ziemliches Durcheinander und Kater Mingus jagt eine kleine Maus bis in den Stadtpark. Aber warum tragen einige der Kinder und Erwachsenen so eigenartige Pakete durch die Gegend? Eins sieht wie eine Kaffeekanne aus, ein anderes wie ein aufblasbares Gummikrokodil und der Mann im grünen Mantel hält doch nicht etwa eine eingepackte Gans unterm Arm? Da bricht plötzlich ein Sommergewitter los ...
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/289613/63715/10002/-3/Buecher_Bilderbuecher/Rotraut-Susanne-Berner/Rotraut-Susanne-Berners-Sommer-Wimmelbuch/4099276460822241241/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  sommer-wimmelbuch_rotraut-susanne-berner.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

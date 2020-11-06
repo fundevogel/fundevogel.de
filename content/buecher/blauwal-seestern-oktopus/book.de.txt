@@ -1,0 +1,136 @@
+Title: Blauwal, Seestern, Oktopus
+
+----
+
+Isbn: 978-3-8369-6029-8
+
+----
+
+Book-title: Blauwal, Seestern, Oktopus
+
+----
+
+Book-subtitle: Die Welt der Meere
+
+----
+
+Author: Virginie Aladjidi
+
+----
+
+Illustrator: Emmanuelle Tchoukriel
+
+----
+
+Narrator: 
+
+----
+
+Translator: Cornelia Panzacchi
+
+----
+
+Participants: 
+
+----
+
+Page-count: 72
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Unterwasserwelt
+
+----
+
+Description: Die lebendigen, fein gezeichneten Illustrationen der Sachbuchreihe von Virginie Aladjidi und Emmanuelle Tchoukriel, mit dem Charme historischer Bildtafeln, bilden die ganze Vielfalt unserer Tier- und Pflanzenarten ab - von der Tiefe der Weltmeere bis zu den höchsten Bergen, immer begleitet von prägnanten Texten entstehen so Bücher zum Lesen und Entdecken!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002552605/63715/10002/-3/Buecher_Sachbuecher/Virginie-Aladjidi/Blauwal-Seestern-Oktopus/4099276460822241240/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  blauwal-seestern-oktopus_virginie-aladjidi.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

@@ -1,0 +1,136 @@
+Title: Das kleine Gespenst
+
+----
+
+Isbn: 978-3-522-11080-8
+
+----
+
+Book-title: Das kleine Gespenst
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Otfried Preußler
+
+----
+
+Illustrator: F. J. Tripp
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 136
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann in der Thienemann-Esslinger Verlag GmbH
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 12,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Gespenster
+
+----
+
+Description: Jede Nacht pünktlich zur Geisterstunde erwacht das kleine Gespenst. Vergnügt geistert es durch Burg Eulenstein und besucht seinen Freund, den Uhu Schuhu. Sein größter Wunsch ist es, die Welt einmal bei Tageslicht zu sehen. Doch alle Versuche, nach dem Ende der Geisterstunde wach zu bleiben, schlagen fehl. Doch als dieser Wunsch unversehens Wirklichkeit wird, beginnt ein aufregendes Abenteuer. Vom Sonnenlicht getroffen wird aus dem weißen Nachtgepenst ein schwarzes Tagesgespenst, das in der Stadt für jede Menge Unheil und Verwirrung sorgt ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1366131/63715/10002/-3/Buecher_Kinder--und-Jugend/Otfried-Preussler/Das-kleine-Gespenst
+
+----
+
+Cover:
+
+- >
+  das-kleine-gespenst_otfried-preussler.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

@@ -19,8 +19,27 @@ Favorites:
 
 - 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/das-kleine-gespenst
+  quote: ""
+  text: >
+    Jede Nacht pünktlich zur Geisterstunde
+    erwacht das kleine Gespenst. Vergnügt
+    geistert es durch Burg Eulenstein und
+    besucht seinen Freund, den Uhu Schuhu.
+    Sein größter Wunsch ist es, die Welt
+    einmal bei Tageslicht zu sehen. Doch
+    alle Versuche, nach dem Ende der
+    Geisterstunde wach zu bleiben, schlagen
+    fehl. Doch als dieser Wunsch unversehens
+    Wirklichkeit wird, beginnt ein
+    aufregendes Abenteuer. Vom Sonnenlicht
+    getroffen wird aus dem weißen
+    Nachtgepenst ein schwarzes
+    Tagesgespenst, das in der Stadt für
+    jede Menge Unheil und Verwirrung sorgt
+    ..
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-522-11080-8
@@ -40,29 +59,15 @@ Favorites:
   age: ab 6 Jahren
   price: 12,00
   binding: gebunden
-  text: >
-    Jede Nacht pünktlich zur Geisterstunde
-    erwacht das kleine Gespenst. Vergnügt
-    geistert es durch Burg Eulenstein und
-    besucht seinen Freund, den Uhu Schuhu.
-    Sein größter Wunsch ist es, die Welt
-    einmal bei Tageslicht zu sehen. Doch
-    alle Versuche, nach dem Ende der
-    Geisterstunde wach zu bleiben, schlagen
-    fehl. Doch als dieser Wunsch unversehens
-    Wirklichkeit wird, beginnt ein
-    aufregendes Abenteuer. Vom Sonnenlicht
-    getroffen wird aus dem weißen
-    Nachtgepenst ein schwarzes
-    Tagesgespenst, das in der Stadt für
-    jede Menge Unheil und Verwirrung sorgt
-    ..
 - 
   title: ""
+  person: Rüdiger B.
+  book:
+    - buecher/latte-igel-und-der-wasserstein
   quote: >
     Unsere Klassenlehrerin hat daraus immer
     vorgelesen. Faszination Magie.
-  person: Rüdiger B.
+  text: 'Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.'
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-522-18051-1
@@ -80,11 +85,29 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: gebunden
-  text: 'Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.'
 - 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - >
+      buecher/das-grosse-buch-vom-kleinen-kapitaen
+  quote: ""
+  text: >
+    Der kleine Kapitän und seine Freunde
+    Martinka, Tonne und Heini Hasenfuß
+    segeln über die Weltmeere, trotzen den
+    größten Gefahren und bestehen die
+    kühnsten Abenteuer. Dabei begegnen sie
+    einer mysteriösen Stadt auf Pfählen,
+    statten den Töchtern von König
+    Blaukrabbe auf dem Meeresboden einen
+    Besuch ab oder kapern ein Geisterschiff,
+    das sieben Schatzkisten an Bord hat.
+    Nebenbei retten sie sechs
+    Schiffbrüchige und eine Truppe
+    dressierter Zirkustiere, verkuppeln
+    einen König und bestehen viele
+    Mutproben.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8251-7800-0
@@ -102,30 +125,28 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
-  text: >
-    Der kleine Kapitän und seine Freunde
-    Martinka, Tonne und Heini Hasenfuß
-    segeln über die Weltmeere, trotzen den
-    größten Gefahren und bestehen die
-    kühnsten Abenteuer. Dabei begegnen sie
-    einer mysteriösen Stadt auf Pfählen,
-    statten den Töchtern von König
-    Blaukrabbe auf dem Meeresboden einen
-    Besuch ab oder kapern ein Geisterschiff,
-    das sieben Schatzkisten an Bord hat.
-    Nebenbei retten sie sechs
-    Schiffbrüchige und eine Truppe
-    dressierter Zirkustiere, verkuppeln
-    einen König und bestehen viele
-    Mutproben.
 - 
   title: ""
+  person: Frieda T.
+  book:
+    - buecher/ein-freund-wie-kein-anderer
   quote: >
     Eine wunderbar lebendig erzählte
     Geschichte, die Klein und Groß
     begeistert und mitfiebern lässt. Toll
     illustriert, mit viel Charme und Witz
-  person: Frieda T.
+  text: >
+    Erdhörnchen Habbi ist mit einem Wolf
+    zusammengeprallt, dem größten Feind
+    der Erdhörnchen! Doch statt sich auf
+    ihn zu stürzen, blinzelt der Wolf ihn
+    nur kraftlos an. Er scheint schwer
+    verletzt zu sein. Wie könnte Habbi ihn
+    da einfach allein lassen? Täglich
+    versorgt er ihn mit Futter und nach und
+    nach freunden die beiden sich an. Bis
+    ihre Freundschaft auf eine harte Probe
+    gestellt wird ..
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-522-18457-1
@@ -143,20 +164,11 @@ Favorites:
   age: ab 6 Jahren
   price: 14,00
   binding: gebunden
-  text: >
-    Erdhörnchen Habbi ist mit einem Wolf
-    zusammengeprallt, dem größten Feind
-    der Erdhörnchen! Doch statt sich auf
-    ihn zu stürzen, blinzelt der Wolf ihn
-    nur kraftlos an. Er scheint schwer
-    verletzt zu sein. Wie könnte Habbi ihn
-    da einfach allein lassen? Täglich
-    versorgt er ihn mit Futter und nach und
-    nach freunden die beiden sich an. Bis
-    ihre Freundschaft auf eine harte Probe
-    gestellt wird ..
 - 
   title: ""
+  person: Sandra H.
+  book:
+    - buecher/immer-dieser-michel
   quote: >
     Astrid Lindgrens Geschichten über den
     den kleinen, liebenswerten Lausejungen
@@ -164,7 +176,7 @@ Favorites:
     in Südschwedens Småland gehört zu den
     wundervollsten Schätzen der
     Kinderliteratur!
-  person: Sandra H.
+  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7891-2946-9
@@ -181,11 +193,28 @@ Favorites:
   age: ab 8 Jahren
   price: 17,00
   binding: gebunden
-  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
 - 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/der-kleine-drache-kokosnuss
+  quote: ""
+  text: >
+    Kokosnuss ist ein mutiger und vor allem
+    neugieriger kleiner Feuerdrache, der mit
+    seinen Eltern auf einer bisher
+    unentdeckten Insel lebt. Wie alle Kinder
+    müssen auch kleine Drachen in die
+    Schule gehen, wo sie das Fliegen lernen.
+    Können sie dann fliegen, verbringen sie
+    den Winter auf der Sommerinsel in der
+    südlichen Südsee. Doch das mit dem
+    Fliegen ist gar nicht so einfach! Wie
+    Kokosnuss auch ohne abgeschlossene
+    Flugausbildung zu einem Winterurlaub auf
+    der Sommerinsel kommt, ist nur eines der
+    aufregenden Abenteuer, die er und seine
+    Freunde erleben ..
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3570175668
@@ -203,22 +232,6 @@ Favorites:
   age: ab 6 Jahren
   price: 14,99
   binding: gebunden
-  text: >
-    Kokosnuss ist ein mutiger und vor allem
-    neugieriger kleiner Feuerdrache, der mit
-    seinen Eltern auf einer bisher
-    unentdeckten Insel lebt. Wie alle Kinder
-    müssen auch kleine Drachen in die
-    Schule gehen, wo sie das Fliegen lernen.
-    Können sie dann fliegen, verbringen sie
-    den Winter auf der Sommerinsel in der
-    südlichen Südsee. Doch das mit dem
-    Fliegen ist gar nicht so einfach! Wie
-    Kokosnuss auch ohne abgeschlossene
-    Flugausbildung zu einem Winterurlaub auf
-    der Sommerinsel kommt, ist nur eines der
-    aufregenden Abenteuer, die er und seine
-    Freunde erleben ..
 
 ----
 

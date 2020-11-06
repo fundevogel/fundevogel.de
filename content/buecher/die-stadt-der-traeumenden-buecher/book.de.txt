@@ -1,0 +1,116 @@
+Title: Die Stadt der Träumenden Bücher
+
+----
+
+Isbn: 978-3-328-60123-4
+
+----
+
+Book-title: Die Stadt der Träumenden Bücher
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Walter Moers
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 480
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Penguin Verlag München
+
+----
+
+Age: 
+
+----
+
+Price: 28,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Phantasie
+
+----
+
+Description: Als der Pate des jungen Dichters Hildegunst von Mythenmetz stirbt, hinterlässt er seinem Schützling nur wenig mehr als ein Manuskript. Dieses aber ist so makellos, dass Mythenmetz sich gezwungen sieht, dem Geheimnis seiner Herkunft nachzugehen. Die Spur führt nach Buchhaim, der Stadt der Träumenden Bücher. Als der Held sie betritt, ist es, als würde er die Tür zu einer gigantischen Buchhandlung aufreißen. Er riecht den Anflug von Säure, der an den Duft von Zitronenbäumen erinnert, das anregende Aroma von altem Leder und das scharfe, intelligente Parfüm von Druckerschwärze. Einmal in den Klauen dieser buchverrückten Stadt, wird Mythenmetz immer tiefer hineingesogen in ihre labyrinthische Welt, in der Lesen noch eine wirkliche Gefahr ist, in der rücksichtslose Bücherjäger nach bibliophilen Schätzen gieren, Buchlinge ihren Schabernack treiben und der mysteriöse Schattenkönig herrscht.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002323744/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Walter-Moers/Die-Stadt-der-Traeumenden-Buecher
+
+----
+
+Cover:
+
+- >
+  die-stadt-der-traeumenden-buecher_walter-moers.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Seodescription: 

@@ -1,0 +1,136 @@
+Title: Das grosse Buch vom kleinen Kapitän
+
+----
+
+Isbn: 978-3-8251-7800-0
+
+----
+
+Book-title: Das grosse Buch vom kleinen Kapitän
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Paul Biegel
+
+----
+
+Illustrator: Carl Hollander
+
+----
+
+Narrator: 
+
+----
+
+Translator: Frank Berger
+
+----
+
+Participants: 
+
+----
+
+Page-count: 395
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Urachhaus
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: Der kleine Kapitän und seine Freunde Martinka, Tonne und Heini Hasenfuß segeln über die Weltmeere, trotzen den größten Gefahren und bestehen die kühnsten Abenteuer. Dabei begegnen sie einer mysteriösen Stadt auf Pfählen, statten den Töchtern von König Blaukrabbe auf dem Meeresboden einen Besuch ab oder kapern ein Geisterschiff, das sieben Schatzkisten an Bord hat. Nebenbei retten sie sechs Schiffbrüchige und eine Truppe dressierter Zirkustiere, verkuppeln einen König und bestehen viele Mutproben.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460824723547/63715/10002/-3/Buecher_Abenteuer/Paul-Biegel/Das-grosse-Buch-vom-kleinen-Kapitaen
+
+----
+
+Cover:
+
+- >
+  das-grosse-buch-vom-kleinen-kapitaen_paul-biegel.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

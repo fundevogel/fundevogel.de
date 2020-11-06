@@ -1,0 +1,135 @@
+Title: Der Bär, der nicht da war
+
+----
+
+Isbn: 978-3-88897-970-5
+
+----
+
+Book-title: Der Bär, der nicht da war
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Oren Lavie
+
+----
+
+Illustrator: Wolf Erlbruch
+
+----
+
+Narrator: 
+
+----
+
+Translator: Harry Rowohlt
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Verlag Antje Kunstmann
+
+----
+
+Age: 
+
+----
+
+Price: 16,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: 
+
+----
+
+Description: "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär."Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845229527/63715/10002/-3/Buecher_Sachbuecher/Oren-Lavie/Der-Baer-der-nicht-da-war
+
+----
+
+Cover:
+
+- der-baer-der-nicht-da-war_oren-lavie.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

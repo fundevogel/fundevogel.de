@@ -1,0 +1,143 @@
+Title: Momo
+
+----
+
+Isbn: 978-3-522-20255-8
+
+----
+
+Book-title: Momo
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Michael Ende
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 304
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann Verlag
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Fantasy, Zeit, Kapitalismus
+
+----
+
+Description: Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000995291/63715/10002/-3/Buecher_Abenteuer/Michael-Ende/Momo
+
+----
+
+Cover:
+
+- momo_michael-ende.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Details: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-05
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false

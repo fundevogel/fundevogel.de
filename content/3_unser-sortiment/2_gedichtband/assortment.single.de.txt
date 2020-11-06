@@ -20,7 +20,7 @@ Text:
 
 Builder:
 
--
+- 
   heading: Sprache wachsen sehen
   show_columns: 'false'
   horizontal_line: 'false'
@@ -36,10 +36,13 @@ Builder:
 
 Favorites:
 
--
+- 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/ein-riese-warf-einen-stein
+  quote: ""
+  text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-75471-4
@@ -57,11 +60,13 @@ Favorites:
   age: ab 4 Jahren
   price: 12,95
   binding: gebunden
-  text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
--
+- 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - buecher/ich-liebe-dich-wie-apfelmus
+  quote: ""
+  text: 'Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - in dieser (short: Auswahl desc: Über 120 Gedichte & Texte! color: orange) lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-570-15974-3
@@ -81,11 +86,14 @@ Favorites:
   age: ab 6 Jahren
   price: 19,99
   binding: Halbleinen
-  text: 'Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - in dieser (short: Auswahl desc: Über 120 Gedichte & Texte! color: orange) lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.'
--
+- 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - >
+      buecher/am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo
+  quote: ""
+  text: 'Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-446-26055-9
@@ -105,11 +113,14 @@ Favorites:
   age: ab 5 Jahren
   price: 14,00
   binding: gebunden
-  text: 'Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..'
--
+- 
   title: ""
-  quote: ""
   person: ""
+  book:
+    - >
+      buecher/dunkel-war-s-der-mond-schien-helle
+  quote: ""
+  text: 'Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8369-4285-0
@@ -127,9 +138,11 @@ Favorites:
   age: ab 4 Jahren
   price: 24,00
   binding: Halbleinen
-  text: 'Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.'
--
+- 
   title: ""
+  person: Gedicht von Hugo Ramnek
+  book:
+    - buecher/wo-kommen-die-worte-her
   quote: |
     Die Wörter! Die Wörter, wo kommen die Wörter denn her?
     Aus dem Wörtersee, aus dem Wörtermeer.
@@ -138,7 +151,7 @@ Favorites:
     Nimm sie zu dir nach Haus!
     Und was machen die Wörter dann bei mir?
     Die Wörter, sie spielen, sie spielen mit dir!
-  person: Gedicht von Hugo Ramnek
+  text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-79986-9
@@ -156,11 +169,18 @@ Favorites:
   age: ab 3 Jahren
   price: 24,95
   binding: Halbleinen
-  text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
--
+- 
   title: ""
-  quote: 'Mit Worten Gedichte schreiben und diese als Wünsche in den Himmel malen. – Ja, das ist möglich. Inspiration gibt’s in diesem Buch, und zwar zum Immer-wieder-Lesen.'
   person: Janina B.
+  book:
+    - buecher/mal-deine-wuensche-in-den-himmel
+  quote: >
+    Mit Worten Gedichte schreiben und diese
+    als Wünsche in den Himmel malen. –
+    Ja, das ist möglich. Inspiration
+    gibt’s in diesem Buch, und zwar zum
+    Immer-wieder-Lesen.
+  text: 'Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7913-7103-0
@@ -178,7 +198,12 @@ Favorites:
   age: ab 6 Jahren
   price: 19,99
   binding: gebunden
-  text: 'Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.'
+
+----
+
+Cover:
+
+- gedichtband.jpg
 
 ----
 
@@ -187,7 +212,3 @@ Seotitle: Gedichte & Lyrisches
 ----
 
 Seodescription: Kinder lieben Wiederholungen und Reime und haben Spaß dabei, Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und dabei Neues zu kreieren.
-
-----
-
-Cover: - gedichtband.jpg

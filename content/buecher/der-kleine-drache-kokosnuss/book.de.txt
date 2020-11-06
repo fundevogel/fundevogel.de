@@ -1,0 +1,136 @@
+Title: Der kleine Drache Kokosnuss
+
+----
+
+Isbn: 978-3570175668
+
+----
+
+Book-title: Der kleine Drache Kokosnuss
+
+----
+
+Book-subtitle: Seine ersten Abenteuer
+
+----
+
+Author: Ingo Siegner
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 112
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Fabelwesen, Drachen
+
+----
+
+Description: Kokosnuss ist ein mutiger und vor allem neugieriger kleiner Feuerdrache, der mit seinen Eltern auf einer bisher unentdeckten Insel lebt. Wie alle Kinder müssen auch kleine Drachen in die Schule gehen, wo sie das Fliegen lernen. Können sie dann fliegen, verbringen sie den Winter auf der Sommerinsel in der südlichen Südsee. Doch das mit dem Fliegen ist gar nicht so einfach! Wie Kokosnuss auch ohne abgeschlossene Flugausbildung zu einem Winterurlaub auf der Sommerinsel kommt, ist nur eines der aufregenden Abenteuer, die er und seine Freunde erleben ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000472885/63715/10002/-3/Buecher_Kinder--und-Jugend/Ingo-Siegner/Der-kleine-Drache-Kokosnuss---Seine-ersten-Abenteuer/4099276460822241242/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  der-kleine-drache-kokosnuss_ingo-siegner.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 

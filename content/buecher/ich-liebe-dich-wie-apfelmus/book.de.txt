@@ -1,0 +1,136 @@
+Title: Ich liebe dich wie Apfelmus
+
+----
+
+Isbn: 978-3-570-15974-3
+
+----
+
+Book-title: Ich liebe dich wie Apfelmus
+
+----
+
+Book-subtitle: Die schönsten Gedichte für Kleine und Große
+
+----
+
+Author: Amelie Fried
+
+----
+
+Illustrator: Sybille Hein
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 144
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 19,99
+
+----
+
+Binding: Halbleinen
+
+----
+
+Topics: Kindergedichte
+
+----
+
+Description: Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - das will Amelie Fried mit ihrer ganz persönlichen Sammlung von über 120 Lieblingsgedichten. In dieser Auswahl lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.. - Die schönsten deutschsprachigen Gedichte für Kinder. - Fantasievoll und farbenprächtig illustriert von Sybille Hein. - Als Geschenkbuch edel ausgestattet mit einem hochwertigem Halbleinen-Einband.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845218757/63715/10002/-3/Buecher_Kinder--und-Jugend//Ich-liebe-dich-wie-Apfelmus
+
+----
+
+Cover:
+
+- >
+  ich-liebe-dich-wie-apfelmus_amelie-fried.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 
