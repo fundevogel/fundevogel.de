@@ -14,10 +14,8 @@
                 <div class="flex-none flex justify-center">
                     <div class="flex items-center mb-6 lg:mb-0">
                         <div class="group relative">
-                            <span class="-top-5 -left-5 absolute z-30">
-                                <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
-                            </span>
-                            <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all z-25 spread-out">
+                            <?= $page->getBookCover('rounded-lg') ?>
+                            <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all spread-out">
                                 <div class="pt-8 px-4">
                                     <div class="lesetipp-overlay-section">
                                     <div class="mb-1 flex items-center">
@@ -49,7 +47,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <?= $page->getBookCover('rounded-lg') ?>
+                            <span class="-top-5 -left-5 absolute">
+                                <?= useSVG('Mehr anzeigen', 'w-10 h-10 p-2 text-white fill-current bg-red-medium rounded-full', 'plus') ?>
+                            </span>
                         </div>
                     </div>
                 </div>
