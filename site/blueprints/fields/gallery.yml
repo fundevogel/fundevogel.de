@@ -2,6 +2,7 @@ label:
   de: Bildergalerie
   en: Gallery
 type: files
+query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
 layout: cards
 image:
   ratio: 16/9

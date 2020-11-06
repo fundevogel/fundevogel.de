@@ -1,6 +1,6 @@
 label: Cover
 type: files
-query: page.images
+query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
 layout: cards
 multiple: false
 size: huge
