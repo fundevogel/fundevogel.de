@@ -21,7 +21,8 @@ def rename_images(path):
 
     block_list = [
         '20200812_frisches-lesefutter-ajum-und-gew-lesetipps',
-        '20201002_auswertung-geno-umfrage',
+        '20201017_das-richtige-buch-zur-richtigen-zeit-finden',
+        '20201026_auswertung-geno-umfrage',
     ]
 
     # Get this party started
