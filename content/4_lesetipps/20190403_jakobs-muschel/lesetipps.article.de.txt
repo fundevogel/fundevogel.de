@@ -20,6 +20,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-04-03
 
 ----
@@ -72,6 +76,10 @@ Illustrator: Julia Dürr
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 64
+
+----
+
+Duration: 
 
 ----
 
@@ -111,6 +123,16 @@ Topics: Außenseiter, Freundschaft, Junge
 Cover:
 
 - jakobs-muschel_jens-sparschuh.jpg
+
+----
+
+Books:
+
+- buecher/jakobs-muschel
+
+----
+
+Isaudiobook: false
 
 ----
 

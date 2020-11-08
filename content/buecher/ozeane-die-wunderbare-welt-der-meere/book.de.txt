@@ -1,0 +1,103 @@
+Title: Ozeane
+
+----
+
+Isbn: 978-3-8369-6012-0
+
+----
+
+Book-title: Ozeane
+
+----
+
+Book-subtitle: Die wunderbare Welt der Meere
+
+----
+
+Author: Emmanuelle Grundmann
+
+----
+
+Illustrator: Hélène Druvert
+
+----
+
+Narrator: 
+
+----
+
+Translator: Ursula Bachhausen
+
+----
+
+Participants: 
+
+----
+
+Page-count: 40
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 26
+
+----
+
+Binding: Gebunden
+
+----
+
+Topics: Meer
+
+----
+
+Description: Wie entsteht eine Welle? Was ist ein Schwarzer Raucher? Wie groß werden Riesenkalmare? Welche Meeresbewohner leben im Korallenriff? Wieso wird der Ozean "Lunge unseres Planeten" genannt? Dieses reich bebilderte Sachbuch beantwortet all diese Fragen und zeigt uns das grenzenlose blaue Meer, wie wir es noch nie gesehen haben. Die großen und kleinen Klappen und die filigranen Scherenschnitte verleihen diesem Buch eine einzigartige Ästhetik, die uns immer tiefer in die Welt der Meere führt - bis hinunter in die geheimnisvolle Tiefsee.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/product/3000002145244/Buecher_Kinder--und-Jugend/Hlne-Druvert/Ozeane
+
+----
+
+Cover:
+
+- ozeane_emmanuelle-grundmann.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

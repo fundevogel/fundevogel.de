@@ -22,6 +22,10 @@ Die kurzen, aber gut formulierten Texte ergeben zusammen mit den anschaulichen u
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-11-07
 
 ----
@@ -74,6 +78,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 40
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Unterwasserwelt, Schwamm
 Cover:
 
 - wundertier-schwamm_ninon-ammann.jpg
+
+----
+
+Books:
+
+- buecher/wundertier-schwamm
+
+----
+
+Isaudiobook: false
 
 ----
 

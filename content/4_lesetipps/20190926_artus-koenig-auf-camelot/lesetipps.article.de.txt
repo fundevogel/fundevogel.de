@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-09-26
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Helmut Dohle
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 64
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,16 @@ Cover:
 
 - >
   artus-koenig-auf-camelot_ilka-sokolowski.jpg
+
+----
+
+Books:
+
+- buecher/artus-koenig-auf-camelot
+
+----
+
+Isaudiobook: false
 
 ----
 

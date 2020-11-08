@@ -22,6 +22,10 @@ Symbolisch zieht sich durch das ganze Buch von Seite zu Seite ein Faden. Der far
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-11-01
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Serena Viola
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Ulrike Schimming
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 136
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,17 @@ Cover:
 
 - >
   der-dominoeffekt_gianumberto-accinelli.jpg
+
+----
+
+Books:
+
+- >
+  buecher/der-dominoeffekt-oder-die-unsichtbaren-faeden-der-natur
+
+----
+
+Isaudiobook: false
 
 ----
 

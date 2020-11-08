@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-08-08
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Anke Kuhl
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Maike Dörries
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 336
+
+----
+
+Duration: 
 
 ----
 
@@ -109,6 +121,16 @@ Topics: Freundschaft, Sommer
 Cover:
 
 - kleeblatsommer_christian-wiik-gjerde.jpg
+
+----
+
+Books:
+
+- buecher/kleeblatsommer
+
+----
+
+Isaudiobook: false
 
 ----
 

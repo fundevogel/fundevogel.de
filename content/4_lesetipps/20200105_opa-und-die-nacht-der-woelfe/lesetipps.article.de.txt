@@ -22,7 +22,17 @@ In den letzten Jahren wurden einige sehr gute Kinderbücher zum Thema Demenz ver
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-01-05
+
+----
+
+Books:
+
+- buecher/opa-und-die-nacht-der-woelfe
 
 ----
 
@@ -47,6 +57,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-mon
 ----
 
 Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -114,11 +132,3 @@ Cover:
 
 - >
   opa-und-die-nacht-der-woelfe_nora-alexander.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

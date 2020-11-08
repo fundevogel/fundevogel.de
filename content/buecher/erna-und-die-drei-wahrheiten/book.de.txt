@@ -1,0 +1,104 @@
+Title: Erna und die drei Wahrheiten
+
+----
+
+Isbn: 978-3-570-16458-7
+
+----
+
+Book-title: Erna und die drei Wahrheiten
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Anke Stelling
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 240
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Price: 12,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Coming of Age / Erwachsenwerden, Freundschaft, Schule
+
+----
+
+Description: Einfach nur Erna!. Warum steckt in "Gemeinschaft" auch "gemein"? Solche Fragen interessieren Erna Majewski, 11. Sie besucht eine Gemeinschaftsschule und lebt, wie ihre Freundinnen Liv und Rosalie, im gemeinschaftlichen Wohnprojekt. Dass das ganze Gemeinschaftsgetue ungerecht und sogar verlogen sein kann, erleben Erna und ihre Freundinnen, als nach dem Schulfasching jemand mutwillig die Klos ruiniert hat: Weil der Täter sich nicht meldet, sollen jetzt alle dafür büßen. So eine Gemeinheit! Liv lässt das kalt, aber Erna ermittelt. Und sie findet heraus, was passiert ist. Aber soll sie es auch verraten? Schließlich gibt es laut einem Sprichwort drei Wahrheiten - deine, meine und die Wahrheit. Und wer kann die schon ertragen?.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853582700/63715/10002/-3/Buecher_Kinder--und-Jugend/Anke-Stelling/Erna-und-die-drei-Wahrheiten
+
+----
+
+Cover:
+
+- >
+  erna-und-die-drei-wahrheiten_anke-stelling.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: September 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201709.html

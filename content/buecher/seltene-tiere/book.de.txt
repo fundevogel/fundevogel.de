@@ -1,0 +1,103 @@
+Title: Seltene Tiere
+
+----
+
+Isbn: 978-3-522-45902-0
+
+----
+
+Book-title: Seltene Tiere
+
+----
+
+Book-subtitle: Ein Atlas der bedrohten Arten
+
+----
+
+Author: Martin Jenkins
+
+----
+
+Illustrator: Tom Frost
+
+----
+
+Narrator: 
+
+----
+
+Translator: Ebi Naumann
+
+----
+
+Participants: 
+
+----
+
+Page-count: 64
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 20,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Tiere, Tierschutz, Bedrohte Arten
+
+----
+
+Description: Unbedingt schützenswert! Großformatiges Bilderbuch für Groß und Klein über bedrohte Tierarten.. Überall auf der Welt gibt es wunderschöne und beeindruckende Tiere. Doch viele von ihnen sind selten geworden: Der arktische Eisbär mit seiner gewaltigen Kraft, der in Japan verehrte Mandschurenkranich oder der tropische, bunt leuchtende Harlekinfrosch. Insgesamt 30 Tiere werden auf großen, außergewöhnlich schön illustrierten Tableaus vorgestellt, informative Sachtexte geben Auskunft darüber, wo sie leben, warum sie gefährdet sind und wie wir sie schützen können.Für Kinder ab 4 Jahren geeignet..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001482258/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Jenkins/Seltene-Tiere
+
+----
+
+Cover:
+
+- seltene-tiere_martin-jenkins.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fuer-das-sachbuch-seltene-tiere

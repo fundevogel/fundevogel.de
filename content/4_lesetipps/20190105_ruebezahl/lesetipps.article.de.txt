@@ -27,6 +27,10 @@ Während die zeitliche und räumliche Verortung der Sagen zumindest annähernd b
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-01-05
 
 ----
@@ -79,6 +83,10 @@ Illustrator: Hetty Krist
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -88,6 +96,10 @@ Participants:
 ----
 
 Page-count: 110
+
+----
+
+Duration: 
 
 ----
 
@@ -118,6 +130,16 @@ Topics: Rübezahl, Riesen, Märchen
 Cover:
 
 - ruebezahl_thomas-bachmann.jpg
+
+----
+
+Books:
+
+- buecher/ruebezahl
+
+----
+
+Isaudiobook: false
 
 ----
 

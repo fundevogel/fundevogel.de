@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-10-08
 
 ----
@@ -70,6 +74,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 112
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   edison-das-raetsel-des-verschollenen-mauseschatzes_torben-kuhlmann.jpg
+
+----
+
+Books:
+
+- >
+  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes
+
+----
+
+Isaudiobook: false
 
 ----
 

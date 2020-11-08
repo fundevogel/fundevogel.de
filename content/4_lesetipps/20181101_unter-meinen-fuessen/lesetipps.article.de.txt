@@ -24,6 +24,10 @@ Der Autorin Charlotte Guillain und dem Illustrator Yuval Zommer ist mit dem Lepo
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-11-01
 
 ----
@@ -76,6 +80,10 @@ Illustrator: Yuval Zommer
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Ute Löwenberg
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 22
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Cover:
 
 - >
   unter-meinen-fuessen_charlotte-guillain.jpg
+
+----
+
+Books:
+
+- buecher/unter-meinen-fuessen
+
+----
+
+Isaudiobook: false
 
 ----
 

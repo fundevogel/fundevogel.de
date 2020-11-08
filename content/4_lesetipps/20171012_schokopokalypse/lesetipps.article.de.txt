@@ -20,6 +20,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -72,6 +76,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Britt Somann-Jung
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 192
+
+----
+
+Duration: 
 
 ----
 
@@ -111,6 +123,16 @@ Topics: Schokolade
 Cover:
 
 - schokopokalypse_chris-callaghan.jpg
+
+----
+
+Books:
+
+- buecher/schokopokalypse
+
+----
+
+Isaudiobook: false
 
 ----
 

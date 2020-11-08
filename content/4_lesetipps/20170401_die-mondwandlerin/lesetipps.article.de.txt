@@ -22,6 +22,10 @@ Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustr
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-04-01
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Marion Arbona
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Patricia Klobusiczky
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 80
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,16 @@ Cover:
 
 - >
   die-mondwandlerin_myriam-bendhif-sylla.jpg
+
+----
+
+Books:
+
+- buecher/die-mondwandlerin
+
+----
+
+Isaudiobook: false
 
 ----
 

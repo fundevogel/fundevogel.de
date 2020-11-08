@@ -24,6 +24,10 @@ Deutschs Graphic Novel ist ein herausragend berauschendes Bilderwerk über eine 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-10-18
 
 ----
@@ -76,6 +80,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 192
+
+----
+
+Duration: 
 
 ----
 
@@ -115,6 +127,16 @@ Topics: Homosexualität, Alan Turing
 Cover:
 
 - turing_robert-deutsch.jpg
+
+----
+
+Books:
+
+- buecher/turing
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -28,6 +28,10 @@ Die sehr sympathische kleine Maus mit dem starken Willen und ihr Erschaffer habe
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-12-01
 
 ----
@@ -80,6 +84,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -89,6 +97,10 @@ Participants:
 ----
 
 Page-count: 128
+
+----
+
+Duration: 
 
 ----
 
@@ -119,6 +131,17 @@ Topics: Abenteuer, Raumfahrt, Weltall, Mäuse
 Cover:
 
 - armstrong_torben-kuhlmann.jpg
+
+----
+
+Books:
+
+- >
+  buecher/armstrong-die-abenteuerliche-reise-einer-maus-zum-mond
+
+----
+
+Isaudiobook: false
 
 ----
 

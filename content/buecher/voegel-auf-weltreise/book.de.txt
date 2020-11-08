@@ -1,0 +1,104 @@
+Title: Vögel auf Weltreise
+
+----
+
+Isbn: 978-3-941787-53-7
+
+----
+
+Book-title: Vögel auf Weltreise
+
+----
+
+Book-subtitle: Alles über Zugvögel
+
+----
+
+Author: Fleur Daugey & Sandrine Thommen
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 56
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Jacoby & Stuart
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Zugvögel
+
+----
+
+Description: Wussten Sie, dass Zugvögel selbst den Himalaya überqueren, wobei sie Höhen von bis von 10.000 Metern erreichen. Dass kleine Singvögel in der Lage sind, 12 Stunden durchzufliegen? Ein wahrer Marathon! Oder dass die Pfuhlschnepfe in einer Woche 11.000 Kilometer zurücklegen kann? Jeden Herbst machen sich 50 Milliarden Vögel auf zu ihren oft Tausende Kilometer entfernten Winterquartieren, um im Frühjahr pünktlich an den ersten warmen Tagen wieder zurückzukehren. Wie finden die Vögel ihren Weg in der Luft? Wieso wissen sie genau, wohin sie fliegen? Woher wissen sie, wann der richtige Zeitpunkt für den Rückflug ist? Manche dieser Rätsel hat die Forschung inzwischen gelöst, andere noch nicht. Dieses Buch stellt die wichtigsten Zugvögel vor, beschreibt ihre Flugrouten, erklärt, wie sich die Vögel orientieren und gibt Auskunft über alles, was mit Zugvögeln zu tun hat - in Worten und in klaren Bildern.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851171947/63715/10002/-3/Buecher_Sachbuecher/Fleur-Daugey/Voegel-auf-Weltreise
+
+----
+
+Cover:
+
+- >
+  voegel-auf-weltreise_fleur-daugey-sandrine-thommen.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201611.html

@@ -1,0 +1,104 @@
+Title: Die Mondwandlerin
+
+----
+
+Isbn: 978-3-946401-03-2
+
+----
+
+Book-title: Die Mondwandlerin
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Myriam Bendhif-Sylla
+
+----
+
+Illustrator: Marion Arbona
+
+----
+
+Narrator: 
+
+----
+
+Translator: Patricia Klobusiczky
+
+----
+
+Participants: 
+
+----
+
+Page-count: 80
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: TintenTrinker
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Coming of Age / Erwachsenwerden, Fantasy, Mädchen, Werwolf
+
+----
+
+Description: Es ist am Morgen des 13. Geburtstages, an dem ein Mädchen als junge Frau erwacht und sich vergegenwärtigt, dass sie allmählich erwachsen wird. Sie lebt mit ihren Eltern glücklich in einer Hütte im Wald im Einklang mit der Natur. Nachts passiert der Albtraum: Sie wird von einer unglaublichen Kraft angetrieben und verwandelt sich in eine Werwölfin. Das, was sie als Fluch empfindet, entpuppt sich viel später als ihre Bestimmung. Sie ist eine Auserwählte, und zwar die des Mondes. Um allerdings nicht weiterhin bei jeder Vollmondnacht verwandelt zu werden, rät ihr eine weise Heilerin, das Haus des Mondes tief im Wald zu finden, und das, bevor der Mond dort angekommen ist. Dann hat sie einen Wunsch frei. Schafft Sie es? Und wenn ja, wird ihr enges Band mit dem Mond auf ewig zerschnitten werden? Dieses erzählende Kinderbuch richtet sich gleichsam an jüngere Mädchen, die sich von der Kraft einer Werwolfgeschichte angezogen fühlen, wie an Ältere auf dem Weg zum Erwachsensein, die eine hohe Identifikationsmöglichkeit in der Symbolhaftigkeit der Macht des Mondes auf den weiblichen Körper finden.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851379212/63715/10002/-3/Buecher_Kinder--und-Jugend/Myriam-Bendhif-Sylla/Die-Mondwandlerin
+
+----
+
+Cover:
+
+- >
+  die-mondwandlerin_myriam-bendhif-sylla.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201704.html

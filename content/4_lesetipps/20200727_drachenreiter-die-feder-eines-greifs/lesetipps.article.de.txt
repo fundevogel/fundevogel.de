@@ -22,6 +22,13 @@ Date: 2020-07-27
 
 ----
 
+Books:
+
+- >
+  buecher/drachenreiter-die-feder-eines-greifs
+
+----
+
 Conclusion-wanted: true
 
 ----
@@ -43,6 +50,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -122,11 +137,3 @@ Cover:
 ----
 
 Isaudiobook: true
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

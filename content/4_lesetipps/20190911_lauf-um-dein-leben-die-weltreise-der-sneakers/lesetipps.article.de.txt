@@ -331,6 +331,10 @@ Illustrator: Birgit Jansen
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -340,6 +344,10 @@ Participants:
 ----
 
 Page-count: 232
+
+----
+
+Duration: 
 
 ----
 
@@ -370,6 +378,17 @@ Topics: Globalisierung, Arbeitswelt, Kapitalismus
 Cover:
 
 - lauf-um-dein-leben_wolfgang-korn.jpg
+
+----
+
+Books:
+
+- >
+  buecher/lauf-um-dein-leben-die-weltreise-der-sneakers
+
+----
+
+Isaudiobook: false
 
 ----
 

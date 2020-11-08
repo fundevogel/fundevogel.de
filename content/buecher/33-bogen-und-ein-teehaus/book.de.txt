@@ -1,0 +1,104 @@
+Title: 33 Bogen und ein Teehaus
+
+----
+
+Isbn: 978-3-7795-0522-8
+
+----
+
+Book-title: 33 Bogen und ein Teehaus
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Mehrnousch Zaeri-Esfahani
+
+----
+
+Illustrator: Mehrdad Zaeri-Esfahani
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 148
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Peter Hammer Verlag
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 14,90
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Integration, Iran, Islam, Flucht, Interkulturalität
+
+----
+
+Description: Die kleine Mehrnousch, Tochter eines Chirurgen, erlebt mit ihren drei Geschwistern eine privilegierte Kindheit in der schönen Stadt Isfahan im Iran der 70er Jahre. Die Familie feiert wie die meisten die Vertreibung des Schahs als freudiges Ereignis - nicht ahnend, dass der neue Machthaber Ayatollah Chomeini in kürzester Zeit eine Willkürherrschaft errichten und sie aller Freiheit berauben wird. Mehrnousch erlebt mit Angst und Wut, wie die Unterdrückung Einzug in alle Lebensbereiche hält. Als ihr 14jähriger Bruder Mehrdad in Gefahr ist, in den Krieg geschickt zu werden, flieht die Familie über Istanbul und Ostberlin nach Westdeutschland. Hier beginnt eine Odyssee durch viele Flüchtlingsheime, ein Auf und Ab zwischen Hoffnung und Verzweiflung, bis die Familie in Heidelberg endlich eine neue Heimat findet. Mit poetischer Kraft erzählt Mehrnousch Zaeri-Esfahani ihre Geschichte vom fünften bis zum elften Lebensjahr. Sie erzählt von der Schönheit der Stadt Isfahan und dem glücklichen Familienleben, von den Qualen der Diktatur, von traurigen, aber manchmal auch heiteren Erlebnissen dieser Jahre. Vom Gefühl der Sprach- und Heimatlosigkeit und von der Freude des Ankommens.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851008227/63715/10002/-3/Buecher_Kinder--und-Jugend/Mehrnousch-Zaeri-Esfahani/33-Bogen-und-ein-Teehaus
+
+----
+
+Cover:
+
+- >
+  33-bogen-und-ein-teehaus_mehrnousch-zaeri-esfahani.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201702.html

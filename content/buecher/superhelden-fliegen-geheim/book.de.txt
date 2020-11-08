@@ -1,0 +1,104 @@
+Title: Superhelden fliegen geheim
+
+----
+
+Isbn: 978-3-401-06825-1
+
+----
+
+Book-title: Superhelden fliegen geheim
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Alice Pantermüller
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 168
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Arena
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 9,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Fantasy
+
+----
+
+Description: Auf den ersten Blick wirkt sie ja ganz normal, die Familie von Karline Lund. Und das muss sie auch: Denn nur im Geheimen können die Lunds Tag für Tag die Welt retten. Alle - bis auf Karline. Die hat nämlich keine einzige Superheldenfähigkeit. Bis sie eines Tages den Hilferuf eines Frettchens aus einer Schultasche hört. Und nicht nur das: Karli kann plötzlich auch alle anderen Tiere verstehen. Dass ihre neuen Fähigkeiten ziemlich praktisch sind, merkt sie erst, als der Vater ihres Freundes Jona spurlos verschwindet. Dumm ist nur, dass es sich bei dem Entführten um keinen Geringeren handelt als um Professor Pangasius Puvogel, den berühmtesten Superheldenforscher aller Zeiten ...
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460841295620/63715/10002/-3/Buecher_Fantasy/Alice-Pantermueller/Superhelden-fliegen-geheim
+
+----
+
+Cover:
+
+- >
+  superhelden-fliegen-geheim_alice-pantermueller.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

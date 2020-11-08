@@ -1,0 +1,103 @@
+Title: Nemi und der Hehmann
+
+----
+
+Isbn: 978-3-407-75459-2
+
+----
+
+Book-title: Nemi und der Hehmann
+
+----
+
+Book-subtitle: Roman
+
+----
+
+Author: Wieland Freund
+
+----
+
+Illustrator: Hanna Jung
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 152
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Natur, Wald, Umweltschutz
+
+----
+
+Description: Auf einem Streifzug durch den Wald begegnet Nemi dem Hehmann, einem Wesen mit wildem Blätterbart und verwittertem Holzgesicht. Er ist das Gedächtnis und das Wissen des Waldes, aber er leidet, weil kaum jemand die wilde Natur noch wahrnimmt. Verschwindet diese am Ende, wenn keiner mehr an sie denkt? Nemi hat Mitleid, sie beginnt, Naturwörter zu sammeln, Tiere und Pflanzen zu zeichnen. Doch kann sie damit die Natur retten?Wunderschön erzählt von Wieland Freund, zauberhaft illustriert von Hanna Jung.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002025367/63715/10002/-3/Buecher_Kinder--und-Jugend/Wieland-Freund/Nemi-und-der-Hehmann
+
+----
+
+Cover:
+
+- nemi-und-der-hehmann_wieland-freund.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

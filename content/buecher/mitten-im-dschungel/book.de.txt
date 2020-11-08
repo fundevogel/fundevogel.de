@@ -1,0 +1,104 @@
+Title: Mitten im Dschungel
+
+----
+
+Isbn: 978-3-551-55480-2
+
+----
+
+Book-title: Mitten im Dschungel
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Katherine Rundell
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Henning Ahrens
+
+----
+
+Participants: 
+
+----
+
+Page-count: 304
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Amazonas, Freundschaft, Regenwald, Flugzeugabsturz
+
+----
+
+Description: Mitten im Dschungel stürzt die kleine Propellermaschine ab und plötzlich sind Fred, Con, Lila und ihr kleiner Bruder Max auf sich allein gestellt. Wo sollen sie einen Unterschlupf und etwas zu essen finden. Und wie kommen sie aus diesem Urwald überhaupt wieder heraus? Immerhin ist ein Fluss in der Nähe und wilde Früchte, und Fred hat genug Abenteuerbücher gelesen, um ein Floß zu bauen. Aber ob das zum Überleben in der Wildnis reicht?
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/product/3000001059911/Buecher_Abenteuer/Katherine-Rundell/Mitten-im-Dschungel
+
+----
+
+Cover:
+
+- >
+  mitten-im-dschungel_katherine-rundell.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

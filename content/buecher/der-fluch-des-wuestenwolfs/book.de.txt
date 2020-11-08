@@ -1,0 +1,104 @@
+Title: Der Fluch des Wüstenwolfs
+
+----
+
+Isbn: 978-3-8251-7965-6
+
+----
+
+Book-title: Der Fluch des Wüstenwolfs
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Paul Biegel
+
+----
+
+Illustrator: Carl Hollander
+
+----
+
+Narrator: 
+
+----
+
+Translator: Eva Schweikart
+
+----
+
+Participants: 
+
+----
+
+Page-count: 189
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Urachhaus
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 17,00
+
+----
+
+Binding: Halbleinen
+
+----
+
+Topics: Abenteuer, Fantasy
+
+----
+
+Description: Alle dreizehn Jahre, wenn sich Jupiter und Saturn am Himmel treffen, geschehen merkwürdige Dinge auf der Ruine des Herzogs von Wüstenwolf. Die Ruine verwandelt sich in eine prächtige Burg mit rauschenden Festen. Doch tief unter der Burg wartet der Herzog seit Jahrhunderten sehnsüchtig auf die Ankunft des einzigen Menschen, der ihn von demFluch des Wüstenwolfs erlösen kann.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851044509/63715/10002/-3/Buecher_Fantasy/Paul-Biegel/Der-Fluch-des-Wuestenwolfs
+
+----
+
+Cover:
+
+- >
+  der-fluch-des-wuestenwolfs_paul-biegel.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

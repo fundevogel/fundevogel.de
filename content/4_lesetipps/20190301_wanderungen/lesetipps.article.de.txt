@@ -26,6 +26,10 @@ Abgerundet wird das ganze durch eine Weltkarte, die die Routen der einzelnen Tie
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-03-01
 
 ----
@@ -78,6 +82,10 @@ Illustrator: Jenni Desmond
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Stephanie Menge
 
 ----
@@ -87,6 +95,10 @@ Participants:
 ----
 
 Page-count: 48
+
+----
+
+Duration: 
 
 ----
 
@@ -117,6 +129,16 @@ Topics: Tierwanderungen
 Cover:
 
 - wanderungen_mike-unwin.jpg
+
+----
+
+Books:
+
+- buecher/wanderungen
+
+----
+
+Isaudiobook: false
 
 ----
 

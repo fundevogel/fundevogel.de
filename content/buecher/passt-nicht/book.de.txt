@@ -1,0 +1,103 @@
+Title: Passt nicht
+
+----
+
+Isbn: 978-3-942795-64-7
+
+----
+
+Book-title: Passt nicht
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Mieke Scheier
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 28
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Kunstanstifter Verlag
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 20,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Denkaufgaben, Wimmelbilder
+
+----
+
+Description: Immer auf der rechten Seite versteckt sich in diesem Such-Buch ein Gegenstand, der so gar nicht zu den anderen passt:Es beginnt mit der Obergruppe. Ist die Obergruppe gefunden worden, geht es darum, einen Gegenstand zu finden, der anders ist und nicht zur Gruppe passt. Auf der darauffolgenden linken Buchseite wird das Suchrätsel aufgelöst, indem der gefundene Gegenstand im falschen Kontext gezeigt wird. Die nächste Obergruppe bezieht sich auf den unpassenden Gegenstand der vorhergegangenen Seite. So bildet sich eine lustige Kette.Geschickt tarnt Mieke Scheier - in zarten Farben und reduzierten Formen - die Sonderlinge und zieht kleine und große Betrachter in ihre wunderschönen Bilderwelten.Für die Arbeit an Passt nicht inspirierten sie vor allem verschiedene Drucktechniken, wie Siebdruck, Linoldruck und Lithografie. Hier experimentierte sie mit unterschiedlichsten Druckstrukturen, die sie in ihren digitalen Illustrationen weiterverarbeitet.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001138387/63715/10002/-3/Buecher_Bilderbuecher/Mieke-Scheier/Passt-nicht
+
+----
+
+Cover:
+
+- passt-nicht_mieke-scheier.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2018
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201812.html

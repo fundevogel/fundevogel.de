@@ -1,0 +1,103 @@
+Title: König sein
+
+----
+
+Isbn: 978-3-85452-199-0
+
+----
+
+Book-title: König sein
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Mario Ramos
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Alexander Potyka
+
+----
+
+Participants: 
+
+----
+
+Page-count: 40
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Picus Verlag
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 17,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Macht, Tiere
+
+----
+
+Description: Löwe Leo, König der Tiere, erlässt seit Neuestem Gesetze, wie es ihm gerade passt. Nun soll sogar den Vögeln das Fliegen verboten werden! Trotz allem wächst der kleine Gilli zu einem neugierigen und mutigen Vogel heran, der als Einziger die Freiheit des Fliegens kennenlernen darf. Eine Sache versteht er aber gar nicht: Wieso gehorchen die Tiere dem Löwen, nur weil er eine goldene Krone auf dem Kopf trägt? Kurzerhand tut er das, was sich die anderen Tiere nicht einmal zu denken trauen: Er fliegt zum König und stibitzt ihm die Krone vom Kopf. Aber wer soll sie von nun an tragen? Und was wird die Krone aus ihm machen?. Der Ausnahmekünstler Mario Ramos erzählt mit der Geschichte des unerschrockenen kleinen Vogels, der die Ungerechtigkeit nicht hinnimmt, von den Versuchungen der absoluten Macht..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000198247/63715/10002/-3/Buecher_Bilderbuecher/Mario-Ramos/Koenig-sein
+
+----
+
+Cover:
+
+- koenig-sein_mario-ramos.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2017
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezember-fuer-das-bilderbuch-koenig-sein

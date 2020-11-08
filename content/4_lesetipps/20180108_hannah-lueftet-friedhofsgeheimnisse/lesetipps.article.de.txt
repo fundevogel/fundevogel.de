@@ -22,6 +22,10 @@ Die Sachinformationen rings um den Tod, seine Symbole, verschiedene Bestattungsm
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-01-08
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Stefanie Duckstein
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 160
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,17 @@ Cover:
 
 - >
   hannah-lueftet-friedhofsgeheimnisse_diana-hillebrand.jpg
+
+----
+
+Books:
+
+- >
+  buecher/hannah-lueftet-friedhofsgeheimnisse
+
+----
+
+Isaudiobook: false
 
 ----
 

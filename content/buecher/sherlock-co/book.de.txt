@@ -1,0 +1,103 @@
+Title: Sherlock & Co
+
+----
+
+Isbn: 978-3-505-13973-4
+
+----
+
+Book-title: Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Sam Hearn
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Leena Flegler
+
+----
+
+Participants: 
+
+----
+
+Page-count: 192
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Egmont SchneiderBuch
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 10,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Detektiv, Krimis/Thriller
+
+----
+
+Description: Spannende Abenteuer, waghalsige Unternehmungen, verrückte Einfälle ... Das Leben des zehnjährigen John Watson war nicht immer so aufregend. Jedenfalls nicht, bevor er seinen Mitschülern Sherlock Holmes und Martha Hudson begegnet ist. Doch seit er die Baker-Street-Schule besucht, kommt es ihm vor, als wäre er selbst eine Figur aus einer Detektivgeschichte. Bereits der erste Schulausflug ins Museum wird zum nervenaufreibenden Krimi, denn der wertvollste Juwel der Welt wird dort an diesem Tag gestohlen - direkt vor ihrer Nase! Das geht Johns neuem Freund Sherlock ordentlich gegen den Strich. Dieser Dieb wird nicht ungeschoren davonkommen! Sherlock wird ihn schnappen! Und gemeinsam mit John, Martha und Schulhund Baskerville setzt er alles daran, den Fall zu lösen.
+
+----
+
+Shop: http://shop.fundevogel.de/product/4099276460853500893/Buecher_Kinder--und-Jugend/Sam-Hearn/Die-Schule-der-Detektive---Sherlock--Co-jagen-den-Museumsraeuber
+
+----
+
+Cover:
+
+- sherlock-co_sam-hearn.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

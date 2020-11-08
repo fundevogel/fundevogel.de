@@ -1,0 +1,103 @@
+Title: Komm mit, Lulu!
+
+----
+
+Isbn: 978-3-551-51943-6
+
+----
+
+Book-title: Komm mit, Lulu!
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Marianne Dubuc
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Anna Taube
+
+----
+
+Participants: 
+
+----
+
+Page-count: 76
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft, Wandern
+
+----
+
+Description: Marianne Dubuc ist mit diesem Bilderbuch eine besonders poetische Freundschaftsgeschichte gelungen. Sie zeigt auf einfühlsame Weise, wie wohltuend es ist, einen Freund zu haben.. Frau Dachs ist sehr alt und hat schon viel in ihrem Leben gesehen. Ihr Haus liegt am Fuße eines kleinen Berges. Jeden Sonntag wandert sie allein auf den Berg, um dort in Ruhe den Ausblick zu genießen und nachzudenken. Eines Tages trifft sie den jungen, neugierigen Kater Lulu, der sie fortan jeden Sonntag bei ihrem Spaziergang begleitet und dabei begreift, was wichtig ist.. Eine berührende Geschichte über Freundschaft, Rituale und wichtige Lebensbegleiter für Kinder ab 4 Jahren..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001695824/63715/10002/-3/Buecher_Bilderbuecher/Marianne-Dubuc/Komm-mit-Lulu
+
+----
+
+Cover:
+
+- komm-mit-lulu_marianne-dubuc.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-fuer-das-bilderbuch-komm-mit-lulu

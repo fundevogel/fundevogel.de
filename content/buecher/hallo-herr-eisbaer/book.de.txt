@@ -1,0 +1,103 @@
+Title: Hallo, Herr Eisbär!
+
+----
+
+Isbn: 978-3-407-81232-2
+
+----
+
+Book-title: Hallo, Herr Eisbär!
+
+----
+
+Book-subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
+
+----
+
+Author: Maria Farrer
+
+----
+
+Illustrator: Daniel Rieley
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 220
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Geschwister, Autismus, Schattenkinder
+
+----
+
+Description: Arthur staunt nicht schlecht, als ein riesiger Eisbär mit stinkigem Fischatem und einem kleinen Köfferchen in den Pfoten vor der Haustür seiner Familie steht. Herr Eisbär taucht genau im richtigen Moment auf, denn Arthur hat so einige Probleme mit seinem jüngeren Bruder Liam und fühlt sich völlig unverstanden von seinen Eltern. Wer könnte da besser helfen, als ein Eisbär? Eine wundervolle Geschichte für die ganze Familie - zum Selbst- und Vorlesen. Mit zahlreichen witzigen Illustrationen von Daniel Rieley.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626266/63715/10002/-3/Buecher_Kinder--und-Jugend/Maria-Farrer/Hallo-Herr-Eisbaer
+
+----
+
+Cover:
+
+- hallo-herr-eisbaer_maria-farrer.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-herr-eisbaer-ausgezeichnet

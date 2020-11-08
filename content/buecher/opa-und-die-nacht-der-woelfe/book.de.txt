@@ -1,0 +1,104 @@
+Title: Opa und die Nacht der Wölfe
+
+----
+
+Isbn: 978-3-7891-0954-6
+
+----
+
+Book-title: Opa und die Nacht der Wölfe
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Nora Alexander
+
+----
+
+Illustrator: Julia Christians
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 208
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Demenz, Großeltern
+
+----
+
+Description: Ollis Opa ist anders als andere Großväter und macht seltsame Sachen: Er will Eis mit Ketchup essen, geht mitten in der Nacht spazieren und vergisst sogar manchmal, aufs Klo zu gehen. Wie peinlich. Doch Opa hat ein Geheimnis. In Vollmondnächten passiert etwas Unglaubliches mit ihm. Als Olli das eines Abends herausfindet, beginnt die aufregendste Nacht seines Lebens, und nichts ist mehr so, wie Olli gedacht hat.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001933576/63715/10002/-3/Buecher_Kinder--und-Jugend/Nora-Alexander/Opa-und-die-Nacht-der-Woelfe
+
+----
+
+Cover:
+
+- >
+  opa-und-die-nacht-der-woelfe_nora-alexander.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-monats-januar-fuer-das-kinderbuch-opa-und-die-nacht-der-woelfe

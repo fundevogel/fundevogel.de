@@ -29,11 +29,29 @@ Vielmehr muss man konstatieren, dass es zwar zahlreiche Adoleszenzromane auf dem
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-09-30
 
 ----
 
+Books:
+
+- buecher/die-quersumme-von-liebe
+
+----
+
 Conclusion-wanted: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -117,14 +135,4 @@ Topics: Coming of Age / Erwachsenwerden, Wahrheit
 
 ----
 
-Cover:
-
-- die-quersumme-von-liebe_katrin-zipse.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
+Cover: - die-quersumme-von-liebe_katrin-zipse.jpg

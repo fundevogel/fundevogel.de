@@ -20,6 +20,10 @@ Conclusion: Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim K
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-11-27
 
 ----
@@ -72,6 +76,10 @@ Illustrator: Torben Kuhlmann
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Friederike Buchinger
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 376
+
+----
+
+Duration: 
 
 ----
 
@@ -112,6 +124,16 @@ Cover:
 
 - >
   siri-und-die-eismeerpiraten_frida-nilsson.jpg
+
+----
+
+Books:
+
+- buecher/siri-und-die-eismeerpiraten
+
+----
+
+Isaudiobook: false
 
 ----
 

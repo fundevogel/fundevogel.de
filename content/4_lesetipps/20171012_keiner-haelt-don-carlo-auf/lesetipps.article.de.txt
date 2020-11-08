@@ -14,6 +14,10 @@ Conclusion: Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktobe
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -66,6 +70,10 @@ Illustrator: Peter Schössow
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -75,6 +83,10 @@ Participants:
 ----
 
 Page-count: 112
+
+----
+
+Duration: 
 
 ----
 
@@ -106,6 +118,16 @@ Cover:
 
 - >
   keiner-haelt-don-carlo-auf_oliver-scherz.jpg
+
+----
+
+Books:
+
+- buecher/keiner-haelt-don-carlo-auf
+
+----
+
+Isaudiobook: false
 
 ----
 

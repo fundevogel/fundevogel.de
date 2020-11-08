@@ -1,0 +1,103 @@
+Title: Ratz-Fatz-x-weg 23
+
+----
+
+Isbn: 978-3-407-82353-3
+
+----
+
+Book-title: Der Ratz-Fatz-x-weg 23
+
+----
+
+Book-subtitle: Roman für Kinder
+
+----
+
+Author: Salah Naoura
+
+----
+
+Illustrator: Maja Bohn
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 209
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Putzen, Lügen, Schule
+
+----
+
+Description: Seit Familie Pittel sich einen "Ratz-Fatz-x-weg 23" angeschafft hat, erkennen Laura und Robert ihre Mutter nicht wieder. Wie besessen saugt sie mit dem Superstaubsauger alles weg, was ihr vor die Nase kommt, vom Staubkorn bis zum Gartenlaub. Was ist nur mit ihr los? Und wer sind die weißen Herren, die aus ihren weißen Schnappkoffern nicht nur Putzmittel zaubern, sondern auch diese Tropfen im Goldfläschchen? Gemeinsam machen sich die Kinder auf, dem Geheimnis der dubiosen Firma "GRÜNDLICH" auf die Spur zu kommen und geraten in die Fänge eines gigantischen Wüstenimperiums.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000627869/63715/10002/-3/Buecher_Kinder--und-Jugend/Salah-Naoura/Der-Ratz-Fatz-x-weg-23
+
+----
+
+Cover:
+
+- der-ratz-fatz-x-weg-23_salah-naoura.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: September 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-september-geht-an-das-kinderbuch-ratz-fatz-x-weg-23

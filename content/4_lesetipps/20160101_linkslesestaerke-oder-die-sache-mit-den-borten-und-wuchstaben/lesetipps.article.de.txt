@@ -32,6 +32,10 @@ Insgesamt bleibt Janotta mit ihren Figuren und Szenen ganz dicht bei den Kindern
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-01-01
 
 ----
@@ -84,6 +88,10 @@ Illustrator: Stefanie Jeschke
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -93,6 +101,10 @@ Participants:
 ----
 
 Page-count: 240
+
+----
+
+Duration: 
 
 ----
 
@@ -124,6 +136,17 @@ Cover:
 
 - >
   linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben_anja-janotta.jpg
+
+----
+
+Books:
+
+- >
+  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -1,0 +1,104 @@
+Title: Linkslesestärke oder Die Sache mit den Borten und Wuchstaben
+
+----
+
+Isbn: 978-3-570-16339-9
+
+----
+
+Book-title: Linkslesestärke oder Die Sache mit den Borten und Wuchstaben
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Anja Janotta
+
+----
+
+Illustrator: Stefanie Jeschke
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 240
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Namen, Schule, Mobbing, Legasthenie
+
+----
+
+Description: Rechtschreibschwäche ist out - Wort-Aggro-Batik ist in!. Wer so virtuos Wörter verdreht wie Mira Kurz, der hat ganz klar: Linkslesestärke! Nur Namen kann sie sich nicht merken. Gar nicht. Bei Mira heißen andere Kinder "die Fiese", "die Schüchterne" oder "längster Freund". Peinlich. Als nebenan ein Mädchen mit himmelblauen Augen einzieht, hofft Mira, dass sie beste Freundinnen werden. Doch dann läuft alles schief. Mira versagt kläglich beim doofen Namen-Merkspiel in der Schule, "die Fiese" schnappt ihr die zukünftige beste Freundin vor der Nase weg und nimmt Mira danach übel in die Zange. Schärfste Gegenwehr ist angesagt! In letzter Sekunde zeigt sich, dass mehr Kinder zu Mira halten, als sie dachte. Und dass Namen merken gar nicht so schwer ist..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846317254/63715/10002/-3/Buecher_Kinder--und-Jugend/Anja-Janotta/Linkslesestaerke-oder-Die-Sache-mit-den-Borten-und-Wuchstaben
+
+----
+
+Cover:
+
+- >
+  linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben_anja-janotta.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201601.html

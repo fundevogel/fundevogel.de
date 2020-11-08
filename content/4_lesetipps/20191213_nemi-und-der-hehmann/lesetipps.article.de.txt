@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-12-13
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Hanna Jung
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 152
+
+----
+
+Duration: 
 
 ----
 
@@ -109,6 +121,16 @@ Topics: Natur, Wald, Umweltschutz
 Cover:
 
 - nemi-und-der-hehmann_wieland-freund.jpg
+
+----
+
+Books:
+
+- buecher/nemi-und-der-hehmann
+
+----
+
+Isaudiobook: false
 
 ----
 

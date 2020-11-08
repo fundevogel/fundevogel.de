@@ -24,6 +24,10 @@ So hat man hier ein Buch, das sich den Themen Freundschaft, Moral und Erwachsenw
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-02-01
 
 ----
@@ -76,6 +80,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 192
+
+----
+
+Duration: 
 
 ----
 
@@ -115,6 +127,16 @@ Topics: Drogen, Freundschaft, Moral, Coming of Age / Erwachsenwerden
 Cover:
 
 - idiotensicher_dirk-pope.jpg
+
+----
+
+Books:
+
+- buecher/idiotensicher
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -25,6 +25,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-01-14
 
 ----
@@ -77,6 +81,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Tanja Ohlsen
 
 ----
@@ -86,6 +94,10 @@ Participants:
 ----
 
 Page-count: 624
+
+----
+
+Duration: 
 
 ----
 
@@ -117,6 +129,17 @@ Cover:
 
 - >
   timeless-retter-der-verlorenen-zeit_armand-baltazar.jpg
+
+----
+
+Books:
+
+- >
+  buecher/timeless-retter-der-verlorenen-zeit
+
+----
+
+Isaudiobook: false
 
 ----
 

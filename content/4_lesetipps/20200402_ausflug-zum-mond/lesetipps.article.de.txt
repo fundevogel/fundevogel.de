@@ -26,7 +26,17 @@ Das äußerst humorvolle fantastische Bilderbuch ohne Text kann mit seiner charm
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-04-02
+
+----
+
+Books:
+
+- buecher/ausflug-zum-mond
 
 ----
 
@@ -51,6 +61,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-ausflu
 ----
 
 Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -114,14 +132,4 @@ Topics: Mond, Zukunft, Weltall, Außerirdische, Schule
 
 ----
 
-Cover:
-
-- ausflug-zum-mond_john-hare.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
+Cover: - ausflug-zum-mond_john-hare.jpg

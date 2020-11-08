@@ -22,6 +22,10 @@ Im Gewand einer humorvollen Detektivgeschichte wird ein relevantes Thema unserer
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-01-01
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Ute Krause
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 240
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,17 @@ Cover:
 
 - >
   max-und-die-wilde-sieben-die-drachenbande_lisa-marie-dickreiter-winfried-oelsner.jpg
+
+----
+
+Books:
+
+- >
+  buecher/max-und-die-wilde-sieben-die-drachenbande
+
+----
+
+Isaudiobook: false
 
 ----
 

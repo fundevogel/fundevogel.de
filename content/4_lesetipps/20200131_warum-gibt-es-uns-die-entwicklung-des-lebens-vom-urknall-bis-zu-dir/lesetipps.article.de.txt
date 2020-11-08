@@ -14,7 +14,18 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-01-31
+
+----
+
+Books:
+
+- >
+  buecher/warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir
 
 ----
 
@@ -39,6 +50,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/johan-olsens-sach
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
+
+----
+
+Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …
 
 ----
 
@@ -106,11 +125,3 @@ Cover:
 
 - >
   warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir_johan-olsen.jpg
-
-----
-
-Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
-
-----
-
-Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …

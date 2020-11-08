@@ -1,0 +1,103 @@
+Title: George
+
+----
+
+Isbn: 978-3-7373-4032-8
+
+----
+
+Book-title: George
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Alex Gino
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Alexandra Ernst
+
+----
+
+Participants: 
+
+----
+
+Page-count: 208
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER KJB
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 14,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft, Mobbing, Transsexualität
+
+----
+
+Description: "Read this." John Green'George' erzählt einfühlsam und unprätentiös vom Anderssein, von Träumen und Wünschen und macht Mut, den eigenen Weg zu gehen. Der erste Kinderroman zum Thema Transgender, der auch ältere Leser fesseln wird und der die Botschaft vermittelt: Sei, wer du bist!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851985015/63715/10002/-3/Buecher_Kinder--und-Jugend/Alex-Gino/George
+
+----
+
+Cover:
+
+- george_alex-gino.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201706.html

@@ -14,7 +14,17 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-06-08
+
+----
+
+Books:
+
+- buecher/der-junge-aus-der-letzten-reihe
 
 ----
 
@@ -39,6 +49,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Der Junge aus der letzten Reihe
+
+----
+
+Seodescription: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
 
 ----
 
@@ -106,11 +124,3 @@ Cover:
 
 - >
   der-junge-aus-der-letzten-reihe_onjali-q-rauf.jpg
-
-----
-
-Seotitle: Der Junge aus der letzten Reihe
-
-----
-
-Seodescription: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.

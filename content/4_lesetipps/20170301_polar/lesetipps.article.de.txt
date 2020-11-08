@@ -22,6 +22,10 @@ Während schon kleine Kinder Freude an diesen tollen Bildern haben werden, dürf
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-03-01
 
 ----
@@ -74,6 +78,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Cornelia Panzacchi
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 32
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Nordpol, Tiere
 Cover:
 
 - polar_dan-kainen-carol-kaufmann.jpg
+
+----
+
+Books:
+
+- buecher/polar
+
+----
+
+Isaudiobook: false
 
 ----
 

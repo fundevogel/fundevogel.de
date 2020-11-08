@@ -18,7 +18,17 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-03-14
+
+----
+
+Books:
+
+- buecher/mitten-im-dschungel
 
 ----
 
@@ -43,6 +53,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Mitten im Dschungel
+
+----
+
+Seodescription: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich …
 
 ----
 
@@ -110,11 +128,3 @@ Cover:
 
 - >
   mitten-im-dschungel_katherine-rundell.jpg
-
-----
-
-Seotitle: Mitten im Dschungel
-
-----
-
-Seodescription: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich …

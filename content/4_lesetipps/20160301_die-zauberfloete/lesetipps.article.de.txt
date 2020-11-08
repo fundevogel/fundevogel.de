@@ -22,11 +22,29 @@ Die Aufnahmen der CD sind von guter Qualität und die ausgewählten Stücke mit 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-03-01
 
 ----
 
+Books:
+
+- buecher/die-zauberfloete
+
+----
+
 Conclusion-wanted: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -114,11 +132,3 @@ Cover:
 
 - >
   die-zauberfloete_ingrid-leser-matthesius.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

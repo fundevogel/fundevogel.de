@@ -1,0 +1,104 @@
+Title: Der Dominoeffekt
+
+----
+
+Isbn: 978-3-7373-5471-4
+
+----
+
+Book-title: Der Dominoeffekt
+
+----
+
+Book-subtitle: oder Die unsichtbaren Fäden der Natur
+
+----
+
+Author: Gianumberto Accinelli
+
+----
+
+Illustrator: Serena Viola
+
+----
+
+Narrator: 
+
+----
+
+Translator: Ulrike Schimming
+
+----
+
+Participants: 
+
+----
+
+Page-count: 136
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 19,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Naturschutz
+
+----
+
+Description: AUSGEZEICHNET MIT DEM DEUTSCHEN JUGENDLITERATURPREIS 2018 (Kategorie Sachbuch). Faszinierende Geschichten über das Gleichgewicht der Natur, spannend wie ein Krimi. Gleich einem Dominostein, den wir anstoßen, hat jedes menschliche Eingreifen in die Natur unabsehbare Folgen - positive und negative. Manchmal kann eine solche Kettenreaktion sogar das Weltgeschehen verändern. Spannend wie ein Kriminalroman erzählt dieses Buch in 18 wahren Geschichten von solchen historischen Ereignissen: Wie konnte ein kleiner Schmetterling ganz Australien retten? Warum lebten einst hunderte Frösche ganz offiziell in einem Hotel? Und wie kam es dazu, dass es tatsächlich einmal Katzen regnete?. Spannend und brillant recherchiert, vereint dieses Sachbuch für junge Leser wissenschaftliche Erkenntnisse und historische Fakten. Künstlerisch anspruchsvolle Bilder veranschaulichen das scheinbar unsichtbare Zusammenspiel von Mensch und Natur.. Wissensbuch des Jahres 2017 in der Kategorie Perspektive- Das beste Sachbuch für junge Leser -. Die Jury der Deutschen Akademie für Kinder- und Jugendliteratur empfiehlt "Accinelli - Der Dominoeffekt oder die unsichtbaren Fäden der Natur" als Klima-Buchtipp des Monats September 2017.Das Buch wird von der Arbeitsgemeinschaft Jugendliteratur und Medien (AJuM) der GEW mit dem LesePeter des Monats November 2017 ausgezeichnet.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853438486/63715/10002/-3/Buecher_Sachbuecher/Gianumberto-Accinelli/Der-Dominoeffekt
+
+----
+
+Cover:
+
+- >
+  der-dominoeffekt_gianumberto-accinelli.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2017
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-der-dominoeffekt-oder-die-unsichtbaren-faeden-der-natur

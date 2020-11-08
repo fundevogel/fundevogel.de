@@ -18,6 +18,10 @@ Conclusion: Während alleinerziehende Mütter, zunehmend auch Väter, in Kinderr
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-09-03
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Regina Kehn
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 240
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,16 @@ Cover:
 
 - >
   sonne-moon-und-sterne_lara-schuetzsack.jpg
+
+----
+
+Books:
+
+- buecher/sonne-moon-und-sterne
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -1,0 +1,103 @@
+Title: Jakobs Muschel
+
+----
+
+Isbn: 978-3-8369-5648-2
+
+----
+
+Book-title: Jakobs Muschel
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Jens Sparschuh
+
+----
+
+Illustrator: Julia Dürr
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 64
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 13,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Außenseiter, Freundschaft, Junge
+
+----
+
+Description: Jakob hört das Meer rauschen, wenn er seine Muschel ans Ohr hält. Und wenn er die Augen schließt, kann er es sogar sehen. Als er mit der Muschel auf dem Klettergerüst zwischen den Hochhäusern sitzt, taucht ausgerechnet Jonas auf. Jonas mit den teuren Sportschuhen und den coolen Sprüchen, der ihn immer ärgert. Prompt schnappt er sich Jakobs Muschel. Nach einem Blick nach unten klammert Jonas sich allerdings erst mal mit beiden Händen am Gerüst fest. Jakob schließt die Augen und plötzlich kann er ihn sehen - Jonny, den Freibeuter, den Schrecken der Meere. Mit der Warze auf der Nase sieht er Jonas ziemlich ähnlich. Doch das Piratenschiff gerät in einen Sturm und geht unter. Leider können nicht alle Seeräuber schwimmen... Und wie ist das mit Jonas?Eine humorvolle Geschichte über kleine Machos und große Träumer und über die Macht der Fantasie.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001646443/63715/10002/-3/Buecher_Kinder--und-Jugend/Jens-Sparschuh/Jakobs-Muschel
+
+----
+
+Cover:
+
+- jakobs-muschel_jens-sparschuh.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

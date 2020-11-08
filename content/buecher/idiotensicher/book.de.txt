@@ -1,0 +1,103 @@
+Title: Idiotensicher
+
+----
+
+Isbn: 978-3-446-24744-4
+
+----
+
+Book-title: Idiotensicher
+
+----
+
+Book-subtitle: Roman
+
+----
+
+Author: Dirk Pope
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 192
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 14,90
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Drogen, Freundschaft, Moral, Coming of Age / Erwachsenwerden
+
+----
+
+Description: Moki ist ein Freak, anders als die anderen, unnahbar und voller verrückter Ideen. Nicht einfach für Joss, mit ihm befreundet zu sein, denn diese Freundschaft bedeutet, nah am Abgrund zu stehen. Wie bei der Sache mit dem Kran am Fluss, von dem Moki hinunterspringt. Und Joss hinterher. Wie immer. Als Moki ein Haschischpaket findet, bestimmt natürlich er, dass sie die Drogen verkaufen sollten. Doch kaum haben sie Kontakt zu Dealern aufgenommen, gerät die idiotensichere Sache außer Kontrolle. Und Joss ist sich bald nicht mehr sicher, ob er Moki eigentlich je wirklich gekannt hat. Eine nervenaufreibende, lebensgefährliche Zerreißprobe beginnt.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846328230/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Pope/Idiotensicher
+
+----
+
+Cover:
+
+- idiotensicher_dirk-pope.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201602.html

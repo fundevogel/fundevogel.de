@@ -1,0 +1,103 @@
+Title: Wundertier Schwamm
+
+----
+
+Isbn: 978-3-7152-0749-0
+
+----
+
+Book-title: Wundertier Schwamm
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Ninon Ammann
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 40
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Unterwasserwelt, Schwamm
+
+----
+
+Description: Urige Lebensformen, unbekannte Welten.. Das gab es noch nie! - Ein Kindersachbuch über Schwämme.. Aber die eigentliche Sensation sind diese Lebewesen selbst. Sie gehören zu den ältesten Tieren überhaupt. Sie waren lange schon da, als Dinosaurier auftauchten, und sie kommen heute in rund 8'000 Arten vor.. Sie filtern Wasser und sind "die Apotheken der Meere", sie dienen Delfinen als Werkzeug und haben überraschende Abwehrtricks gegen ihre Fressfeinde. Eine faszinierende Lebensform!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001629029/63715/10002/-3/Buecher_Kinder--und-Jugend/Ninon-Ammann/Wundertier-Schwamm
+
+----
+
+Cover:
+
+- wundertier-schwamm_ninon-ammann.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-monats-november-geht-an-das-sachbuch-wundertier-schwamm

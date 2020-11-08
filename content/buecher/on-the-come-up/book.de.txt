@@ -1,0 +1,103 @@
+Title: On The Come Up
+
+----
+
+Isbn: 978-3-570-16548-5
+
+----
+
+Book-title: On The Come Up
+
+----
+
+Book-subtitle: Sie hat einen Traum. Und niemand kann sie aufhalten
+
+----
+
+Author: Angie Thomas
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Henriette Zeltner
+
+----
+
+Participants: 
+
+----
+
+Page-count: 512
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Jugendkultur, HipHop / Rap, Gerechtigkeit, Diskriminierung
+
+----
+
+Description: Jeder hat ein Recht auf Redefreiheit - aber nicht jeder wird gehört.... Die 16-jährige Bri wünscht sich nichts sehnlicher, als eine berühmte Rapperin zu werden. Als Tochter einer Rap-Legende ist das nicht leicht: Ihr Vater starb, kurz bevor er den großen Durchbruch schaffte, und Bri tritt in riesengroße Fußstapfen. Dann verliert ihre Mutter ihren Job. Plötzlich gehören Essensausgaben, Zahlungsaufforderungen und Kündigungen ebenso zu Bris Alltag wie Reime und Beats. Als sich die unbezahlten Rechnungen stapeln und ihre Familie kurz davor ist, ihre Bleibe zu verlieren, wird klar: Eine berühmte Rapperin zu werden, ist für Bri nicht länger nur ein Wunsch, sondern ein Muss ....
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001549652/63715/10002/-3/Buecher_Kinder--und-Jugend/Angie-Thomas/On-The-Come-Up
+
+----
+
+Cover:
+
+- on-the-come-up_angie-thomas.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-on-the-come-up-mit-lesepeter-geehrt

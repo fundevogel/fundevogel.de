@@ -1,0 +1,103 @@
+Title: Hinter Glas
+
+----
+
+Isbn: 978-3-446-26218-8
+
+----
+
+Book-title: Hinter Glas
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Julya Rabinowich
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 208
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 15 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Gewalt an Frauen, Coming of Age / Erwachsenwerden
+
+----
+
+Description: Der neue Roman der Bestsellerautorin Julya Rabinowich - eindringlich und mit poetischer Kraft schildert sie die Geschichte einer Emanzipation
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001490490/63715/10002/-3/Buecher_Kinder--und-Jugend/Julya-Rabinowich/Hinter-Glas
+
+----
+
+Cover:
+
+- hinter-glas_julya-rabinowich.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/julya-rabinowich-fuer-jugendbuch-hinter-glas-geehrt

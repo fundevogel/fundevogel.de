@@ -1,0 +1,103 @@
+Title: Eisbjörn
+
+----
+
+Isbn: 978-3-522-45846-7
+
+----
+
+Book-title: Eisbjörn
+
+----
+
+Book-subtitle: Das unglaubliche Abenteuer eines tapferen Mäuserichs
+
+----
+
+Author: Max Kaplan
+
+----
+
+Illustrator: Lev Kaplan
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Mut, Meer
+
+----
+
+Description: Der Mäuserich Eisbjörn wird in einer stürmischen Herbstnacht vom alten Leuchtturmwärter Gustav gerettet. Er darf bei ihm im Leuchtturm bleiben und die beiden werden schon bald gute Freunde. Doch eines Tages wird Gustav krank. So krank, dass er am Abend das Licht im Leuchtturm nicht entzünden kann. Ausgerechnet in dieser Nacht kommt ein Sturm auf und ein voll besetztes Schiff nimmt Kurs auf die Küste. Das Schicksal der Seeleute liegt allein in Eisbjörns Pfoten! Für die kleine Maus beginnt ein Wettlauf mit der Zeit ...Ein fantastisches Abenteuer in beeindruckenden Bildern.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000186026/63715/10002/-3/Buecher_Bilderbuecher/Max-Kaplan/Eisbjoern
+
+----
+
+Cover:
+
+- eisbjoern_max-kaplan.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-mit-lesepeter-april-ausgezeichnet

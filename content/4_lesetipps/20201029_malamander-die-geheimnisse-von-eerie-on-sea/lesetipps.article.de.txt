@@ -30,6 +30,13 @@ Date: 2020-10-29
 
 ----
 
+Books:
+
+- >
+  buecher/malamander-die-geheimnisse-von-eerie-on-sea
+
+----
+
 Conclusion-wanted: false
 
 ----
@@ -51,6 +58,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -133,8 +148,4 @@ Isaudiobook: false
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Description: Herbie, Violet und Hakenhand - Thomas Taylor erzählt ein rasantes Abenteuer voll eigenwilliger Gestalten. In Eerie-on-Sea ist das Unmögliche möglich!. Wenn du zum ersten Mal nach Eerie-on-Sea kommst, siehst du nichts als einen verschlafenen Badeort. Doch der Schein trügt. Vor der Küste treibt der Malamander sein Unwesen. Jeder hier ist dem legendären Seeungeheuer auf der Spur, aber jeder aus einem anderen Grund. Es gibt Mrs Hanniver von der Bücher-Apotheke, die für jedes Unglück die richtige Lektüre zur Hand hat. Es gibt Hakenhand, vor dem du dich besser in Acht nimmst. Vor allem aber gibt es Herbie Lemon, den 12-jährigen Sachenfinder aus dem Grand Nautilus Hotel, der jedes Fundstück zurück in die richtigen Hände bringt. Eines Tages findet er ein Mädchen: Violet ist wild entschlossen, den Malamander aufzuspüren - er ist die letzte Verbindung zu ihren verschollenen Eltern.

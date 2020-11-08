@@ -1,0 +1,103 @@
+Title: Die Quersumme von Liebe
+
+----
+
+Isbn: 978-3-7348-5011-0
+
+----
+
+Book-title: Die Quersumme von Liebe
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Katrin Zipse
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 288
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Magellan
+
+----
+
+Age: ab 15 Jahren
+
+----
+
+Price: 16,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Coming of Age / Erwachsenwerden, Wahrheit
+
+----
+
+Description: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460849048990/63715/10002/-3/Buecher_Kinder--und-Jugend/Katrin-Zipse/Die-Quersumme-von-Liebe
+
+----
+
+Cover:
+
+- die-quersumme-von-liebe_katrin-zipse.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2016
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-fuer-die-quersumme-von-liebe

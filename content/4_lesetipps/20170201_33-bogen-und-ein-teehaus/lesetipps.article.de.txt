@@ -24,6 +24,10 @@ Die Aufzählung der bewegenden, unvergesslichen - zu keiner Zeit rührseligen - 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-02-01
 
 ----
@@ -76,6 +80,10 @@ Illustrator: Mehrdad Zaeri-Esfahani
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 148
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Cover:
 
 - >
   33-bogen-und-ein-teehaus_mehrnousch-zaeri-esfahani.jpg
+
+----
+
+Books:
+
+- buecher/33-bogen-und-ein-teehaus
+
+----
+
+Isaudiobook: false
 
 ----
 

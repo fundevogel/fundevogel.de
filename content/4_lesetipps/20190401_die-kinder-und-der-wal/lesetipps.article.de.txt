@@ -24,6 +24,10 @@ Das Herz geht einem über am Ende der Geschichte, und man muss danach erst einma
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-04-01
 
 ----
@@ -76,6 +80,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Frederik Kugler
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 32
+
+----
+
+Duration: 
 
 ----
 
@@ -115,6 +127,16 @@ Topics: Abenteuer, Wale, Nordpol
 Cover:
 
 - die-kinder-und-der-wal_david-frost.jpg
+
+----
+
+Books:
+
+- buecher/die-kinder-und-der-wal
+
+----
+
+Isaudiobook: false
 
 ----
 

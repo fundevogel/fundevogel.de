@@ -22,6 +22,10 @@ Die einzigartige Aufmachung sowie das Verschmelzen von Text und Bildern machen d
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-06-26
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Maj Fagerberg
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Angelika Kutsch
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 86
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Blumen, Herbarium, Insekten
 Cover:
 
 - auf-der-hummelwiese_stefan-casta.jpg
+
+----
+
+Books:
+
+- buecher/auf-der-hummelwiese
+
+----
+
+Isaudiobook: false
 
 ----
 

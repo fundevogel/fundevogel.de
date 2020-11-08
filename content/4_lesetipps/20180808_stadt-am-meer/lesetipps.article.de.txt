@@ -27,6 +27,10 @@ Die Geschichte wie die Bilder sind für Kinder ab 4 Jahren verständlich und nac
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-08-08
 
 ----
@@ -79,6 +83,10 @@ Illustrator: Sydney Smith
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Bernadette Ott
 
 ----
@@ -88,6 +96,10 @@ Participants:
 ----
 
 Page-count: 52
+
+----
+
+Duration: 
 
 ----
 
@@ -118,6 +130,16 @@ Topics: Leben, Meer
 Cover:
 
 - stadt-am-meer_joanne-schwartz.jpg
+
+----
+
+Books:
+
+- buecher/stadt-am-meer
+
+----
+
+Isaudiobook: false
 
 ----
 

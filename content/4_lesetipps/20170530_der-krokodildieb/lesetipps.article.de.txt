@@ -14,6 +14,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-05-30
 
 ----
@@ -66,6 +70,10 @@ Illustrator: Christoffer Grav
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Maike Dörries
 
 ----
@@ -75,6 +83,10 @@ Participants:
 ----
 
 Page-count: 122
+
+----
+
+Duration: 
 
 ----
 
@@ -105,6 +117,16 @@ Topics: Mobbing, Mut, Schule
 Cover:
 
 - der-krokodildieb_taran-bjornstad.jpg
+
+----
+
+Books:
+
+- buecher/der-krokodildieb
+
+----
+
+Isaudiobook: false
 
 ----
 

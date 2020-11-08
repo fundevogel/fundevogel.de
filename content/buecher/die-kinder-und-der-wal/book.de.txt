@@ -1,0 +1,103 @@
+Title: Die Kinder und der Wal
+
+----
+
+Isbn: 978-3-89955-815-9
+
+----
+
+Book-title: Die Kinder und der Wal
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: David Frost
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Frederik Kugler
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Die Gestalten Verlag
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 14,90
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Wale, Nordpol
+
+----
+
+Description: Daniel Frost erzählt in Die Kinder und der Wal eine bewegende Geschichte über Abenteuer, Schönheit, Familie und den Zauber der Arktis.Eines Nachts sitzen die Geschwister Cuno und Aia in einer kleinen Stadt ganz, ganz hoch im Norden mit ihrem Vater am Feuer. Im Schein der knisternden Flammen erzählt er ihnen die Geschichte eines gewaltigen Tieres, das früher im Meer gejagt wurde: "Diese Kreatur ist so groß wie drei Busse, sein Herz so schwer wie ein Auto, und allein seine Laute können unsere Knochen brechen." Neugierig machen sich Cuno und Aia auf eine spannende Reise durch Eis und Schnee, um dieses rätselhafte Tier zu finden. Daniel Frost erzählt in Die Kinder und der Wal eine bewegende Geschichte über Geschwisterliebe, Abenteuerlust und den Zauber der Arktis. Seine stimmungsvollen Illustrationen nehmen kleine Leser mit in Traumwelten von unsagbarer Schönheit und Stille und lassen sie mit jeder Seite tiefer eintauchen in die magische Expedition des Geschwisterpaars durch die eisige Landschaft.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001059973/63715/10002/-3/Buecher_Bilderbuecher/David-Frost/Die-Kinder-und-der-Wal
+
+----
+
+Cover:
+
+- die-kinder-und-der-wal_david-frost.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-bilderbuch-die-kinder-und-der-wal

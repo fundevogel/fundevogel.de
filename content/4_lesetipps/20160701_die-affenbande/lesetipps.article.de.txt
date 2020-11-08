@@ -31,6 +31,10 @@ Owen Davey hat eine Fülle von Informationen gesammelt, viele interessante Theme
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-07-01
 
 ----
@@ -83,6 +87,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Gundula Müller-Wallraf
 
 ----
@@ -92,6 +100,10 @@ Participants:
 ----
 
 Page-count: 40
+
+----
+
+Duration: 
 
 ----
 
@@ -122,6 +134,16 @@ Topics: Affen
 Cover:
 
 - die-affenbande_owen-davey.jpg
+
+----
+
+Books:
+
+- buecher/die-affenbande
+
+----
+
+Isaudiobook: false
 
 ----
 

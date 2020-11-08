@@ -1,0 +1,104 @@
+Title: Im Gefängnis - Ein Kinderbuch über das Leben hinter Gittern
+
+----
+
+Isbn: 978-3-95470-186-5
+
+----
+
+Book-title: Im Gefängnis
+
+----
+
+Book-subtitle: Ein Kinderbuch über das Leben hinter Gittern
+
+----
+
+Author: Thomas Engelhardt
+
+----
+
+Illustrator: Susann Hesselbarth
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 96
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Gefängnis, Vater
+
+----
+
+Description: Sinas Papa muss ins Gefängnis. Er hat etwas Schlimmes getan und muss nun dafür geradestehen. Sina versteht das alles nicht. Sie hat keine Ahnung von dem Ort, an dem ihr Papa jetzt lebt. Für Kinder wie sie ist dieses Buch. Aber auch für alle anderen. Denn das Gefängnis ist ein Ort, von dem jeder weiß, dass es ihn gibt, den aber kaum jemand kennt. Ein schlimmer und ein interessanter Ort.Vom ersten Tag an begleiten wir Sinas Papa. Wir erfahren alles über den Alltag hinter Gittern: Was es dort zu essen gibt, wer dort alles lebt und arbeitet, wie ein Haftraum aussieht, was die Gefangenen den ganzen Tag lang machen. Und wie es ist, wenn man wieder rauskommt.Susann Hesselbarths lebhafte Illustrationen vermitteln einen Eindruck jenseits der gängigen Klischees.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000644450/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Engelhardt/Im-Gefaengnis
+
+----
+
+Cover:
+
+- >
+  im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern_thomas-engelhardt.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

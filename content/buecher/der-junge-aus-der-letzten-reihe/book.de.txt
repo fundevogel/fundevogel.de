@@ -1,0 +1,104 @@
+Title: Der Junge aus der letzten Reihe
+
+----
+
+Isbn: 978-3-85535-630-0
+
+----
+
+Book-title: Der Junge aus der letzten Reihe
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Onjali Q. Raúf
+
+----
+
+Illustrator: Pippa Curnick
+
+----
+
+Narrator: 
+
+----
+
+Translator: Katharina Naumann
+
+----
+
+Participants: 
+
+----
+
+Page-count: 288
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Atrium Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft, Flucht
+
+----
+
+Description: In der letzten Reihe unseres Klassenzimmers gab es immer einen leeren Platz. Doch jetzt sitzt dort ein Junge namens Ahmet. Er hat graue Augen, ist neun Jahre alt (genau wie ich) und verhält sich ein bisschen komisch. Aber inzwischen weiß ich, warum: Ahmet kommt aus einem Land, in dem Krieg herrscht und aus dem er fliehen musste. Ganz ohne seine Eltern! Seit ich weiß, dass Ahmet 'Tim und Struppi' genauso sehr mag wie ich, will ich seine beste Freundin sein. Deshalb müssen wir ihm unbedingt dabei helfen, seine Eltern wiederzufinden! Die Einzige, die uns dabei unterstützen kann, ist die Queen. Aber wie kommen wir nur in den Buckingham-Palast?
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000002539621/63715/10002/-3/Buecher_Kinder--und-Jugend/Onjali-Q-Raf/Der-Junge-aus-der-letzten-Reihe
+
+----
+
+Cover:
+
+- >
+  der-junge-aus-der-letzten-reihe_onjali-q-rauf.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

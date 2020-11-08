@@ -1,0 +1,104 @@
+Title: Songe à la douceur
+
+----
+
+Isbn: 978-2-84-865908-4
+
+----
+
+Book-title: Songe à la douceur
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Clémentine Beauvais
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 240
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Editions Sarbacane
+
+----
+
+Age: ab 13 Jahren
+
+----
+
+Price: 22,80
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Erste Liebe
+
+----
+
+Description: Keine Beschreibung vorhanden!
+
+----
+
+Shop: 
+
+----
+
+Cover:
+
+- >
+  songe-a-la-douceur_clementine-beauvais.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

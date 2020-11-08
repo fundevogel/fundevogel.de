@@ -24,7 +24,17 @@ Aufgrund der vielen Begrifflichkeiten ist das Buch eher für ein Lesealter ab 8 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-07-06
+
+----
+
+Books:
+
+- buecher/hartgekochte-fakten-ueber-eier
 
 ----
 
@@ -49,6 +59,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/sachbuch-hartgeko
 ----
 
 Isaward: true
+
+----
+
+Seotitle: Hartgekochte Fakten über Eier
+
+----
+
+Seodescription: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
 
 ----
 
@@ -116,11 +134,3 @@ Cover:
 
 - >
   hartgekochte-fakten-ueber-eier_lena-sjoeberg.jpg
-
-----
-
-Seotitle: Hartgekochte Fakten über Eier
-
-----
-
-Seodescription: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.

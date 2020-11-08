@@ -14,11 +14,29 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-03-26
 
 ----
 
+Books:
+
+- buecher/ein-freund-wie-kein-anderer
+
+----
+
 Conclusion-wanted: false
+
+----
+
+Seotitle: Ein Freund wie kein anderer
+
+----
+
+Seodescription: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorurteile.
 
 ----
 
@@ -106,11 +124,3 @@ Cover:
 
 - >
   ein-freund-wie-kein-anderer_oliver-scherz.jpg
-
-----
-
-Seotitle: Ein Freund wie kein anderer
-
-----
-
-Seodescription: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorurteile.

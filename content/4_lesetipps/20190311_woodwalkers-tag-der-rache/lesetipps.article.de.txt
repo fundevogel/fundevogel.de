@@ -17,6 +17,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-03-11
 
 ----
@@ -69,6 +73,10 @@ Illustrator: Claudia Carls
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -78,6 +86,10 @@ Participants:
 ----
 
 Page-count: 368
+
+----
+
+Duration: 
 
 ----
 
@@ -109,6 +121,16 @@ Cover:
 
 - >
   woodwalkers-tag-der-rache_katja-brandis.jpg
+
+----
+
+Books:
+
+- buecher/woodwalkers-tag-der-rache
+
+----
+
+Isaudiobook: false
 
 ----
 

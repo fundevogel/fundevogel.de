@@ -18,7 +18,17 @@ Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingefloch
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-05-04
+
+----
+
+Books:
+
+- buecher/hallo-herr-eisbaer
 
 ----
 
@@ -43,6 +53,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-
 ----
 
 Isaward: true
+
+----
+
+Seotitle: Hallo, Herr Eisbär!
+
+----
+
+Seodescription: 
 
 ----
 
@@ -106,14 +124,4 @@ Topics: Geschwister, Autismus, Schattenkinder
 
 ----
 
-Cover:
-
-- hallo-herr-eisbaer_maria-farrer.jpg
-
-----
-
-Seotitle: Hallo, Herr Eisbär!
-
-----
-
-Seodescription: 
+Cover: - hallo-herr-eisbaer_maria-farrer.jpg

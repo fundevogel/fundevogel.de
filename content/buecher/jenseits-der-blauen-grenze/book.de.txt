@@ -1,0 +1,108 @@
+Title: Jenseits der blauen Grenze
+
+----
+
+Slug: jenseits-der-blauen-grenze
+
+----
+
+Isbn: 978-3-7348-8201-2
+
+----
+
+Book-title: Jenseits der blauen Grenze
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Dorit Linke
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 304
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Magellan
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 9,00
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: DDR-Flüchtige, Deutsche Demokratische Republik (DDR)
+
+----
+
+Description: Die DDR im August 1989: Hanna und Andreas sind ins Visier der Staatsmacht geraten und müssen ihre Zukunftspläne von Studium und Wunschberuf aufgeben. Stattdessen sehen sie sich Willkür, Misstrauen und Repressalien ausgesetzt. Ihre einzige Chance auf ein selbstbestimmtes Leben liegt in der Flucht über die Ostsee. Fünfzig Kilometer Wasser trennen sie von der Freiheit - und nur ein dünnes Seil, das ihre Handgelenke verbindet, rettet sie vor der absoluten Einsamkeit ...
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852095055/63715/10002/-3/Buecher_Kinder--und-Jugend/Dorit-Linke/Jenseits-der-blauen-Grenze
+
+----
+
+Cover:
+
+- >
+  jenseits-der-blauen-grenze_dorit-linke.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

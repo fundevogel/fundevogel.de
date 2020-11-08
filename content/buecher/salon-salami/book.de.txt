@@ -1,0 +1,103 @@
+Title: Salon Salami
+
+----
+
+Isbn: 978-3-7915-0047-8
+
+----
+
+Book-title: Salon Salami
+
+----
+
+Book-subtitle: Einer ist immer besonders
+
+----
+
+Author: Benjamin Tienti
+
+----
+
+Illustrator: Barbara Jung
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 160
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Dressler Verlag GmbH
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 12,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Familie
+
+----
+
+Description: Tja, manchmal ist das Leben etwas bunter: Hani Salmani (nein, nicht Salami) ist zwölf, hat einen kleinen Bruder, ihre Mama ist verschwunden und ihr Papa schneidet im Friseursalon von Onkel Ibo Haare, während der krummen Geschäften nachgeht. Als Hani herausfindet, dass ihre Mama im Gefängnis sitzt und Onkel Ibo wohl schuld daran ist, fasst sie einen verrückten Plan. Zum Glück hilft ihr Sozialarbeiterin Mira, und am Ende ist im Salon Salami-Salmani alles (fast) wieder paletti.Modern, authentisch, unverwechselbar: die Geschichte einer liebenswert schrägen Familie!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853611539/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Benjamin-Tienti/Salon-Salami-Einer-ist-immer-besonders
+
+----
+
+Cover:
+
+- salon-salami_benjamin-tienti.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

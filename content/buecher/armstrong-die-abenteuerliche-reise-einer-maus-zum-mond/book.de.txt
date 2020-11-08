@@ -1,0 +1,103 @@
+Title: Armstrong
+
+----
+
+Isbn: 978-3-314-10348-3
+
+----
+
+Book-title: Armstrong
+
+----
+
+Book-subtitle: Die abenteuerliche Reise einer Maus zum Mond
+
+----
+
+Author: Torben Kuhlmann
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 128
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: NordSüd Verlag
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Raumfahrt, Weltall, Mäuse
+
+----
+
+Description: Praise for Armstrong-The Adventurous Journey of a Mouse to the Moon. "'One Small Step for a Mouse' indeed."-Kirkus Reviews, Starred Review. "This beautifully illustrated story is a feast for mind and eyes and a strong selection to complement STEAM curricula."-School Library Journal, Starred Review
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852058032/63715/10002/-3/Buecher_Abenteuer/Torben-Kuhlmann/Armstrong
+
+----
+
+Cover:
+
+- armstrong_torben-kuhlmann.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201612.html

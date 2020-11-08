@@ -25,6 +25,10 @@ Die ganze Botschaft der Geschichte zeigt sich zum Schluss, wenn nämlich der Kat
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-08-05
 
 ----
@@ -77,6 +81,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Anna Taube
 
 ----
@@ -86,6 +94,10 @@ Participants:
 ----
 
 Page-count: 76
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Topics: Freundschaft, Wandern
 Cover:
 
 - komm-mit-lulu_marianne-dubuc.jpg
+
+----
+
+Books:
+
+- buecher/komm-mit-lulu
+
+----
+
+Isaudiobook: false
 
 ----
 

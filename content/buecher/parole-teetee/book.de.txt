@@ -1,0 +1,103 @@
+Title: Parole Teetee
+
+----
+
+Isbn: 978-3-86429-483-9
+
+----
+
+Book-title: Parole Teetee
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Antje Herden
+
+----
+
+Illustrator: Maja Bohn
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 224
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Tulipan
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 13
+
+----
+
+Binding: Gebunden
+
+----
+
+Topics: Engagement, Detektiv, Krimis/Thriller
+
+----
+
+Description: Teetee ist verschwunden! Den Kindern der Klasse 4a fehlt die nette alte Dame, die zu ihrem Viertel einfach dazugehört. Genau wie ihre beinah magische Handtasche, aus der sie immer genau das zieht, was jemand gerade gebrauchen könnte.Die Erwachsenen scheint es nicht zu kümmern, dass Teetee nicht mehr da ist. Denn nicht allen gefällt, was sie tut. Doch die Kinder wissen, dass jedes Viertel jemanden braucht, der wirklich zuhört und sich kümmert - und Wünsche erfüllt, von denen man selbst noch gar nichts ahnte. In ihrer neu gegründeten Kommandozentrale in Herrn Mansurs Laden schmieden sie einen Plan. Mit detektivischem Gespür, Pistazien, Pfefferminztee und guten Freunden werden sie das Rätsel um Teetees Verschwinden schon knacken! Parole: Teetee!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002774367/63715/10002/-3/Buecher_Kinder--und-Jugend/Antje-Herden/Parole-Teetee/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Cover:
+
+- parole-teetee_antje-herden.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

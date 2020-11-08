@@ -18,11 +18,29 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-04-25
 
 ----
 
+Books:
+
+- buecher/ein-haufen-aerger
+
+----
+
 Conclusion-wanted: false
+
+----
+
+Seotitle: Ein Haufen Ärger
+
+----
+
+Seodescription: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
 
 ----
 
@@ -106,14 +124,4 @@ Topics: Tiere, Freundschaft
 
 ----
 
-Cover:
-
-- ein-haufen-aerger_sabine-ludwig.jpg
-
-----
-
-Seotitle: Ein Haufen Ärger
-
-----
-
-Seodescription: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
+Cover: - ein-haufen-aerger_sabine-ludwig.jpg

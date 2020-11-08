@@ -10,7 +10,11 @@ Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die g
 
 ----
 
-Conclusion:
+Conclusion: 
+
+----
+
+Builder: 
 
 ----
 
@@ -26,15 +30,15 @@ Hasaward: false
 
 ----
 
-Award:
+Award: 
 
 ----
 
-Awardedition:
+Awardedition: 
 
 ----
 
-Leselink:
+Leselink: 
 
 ----
 
@@ -54,7 +58,7 @@ Book-title: Ein Sommer in Sommerby
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -66,15 +70,23 @@ Illustrator: Verena Körting
 
 ----
 
-Translator:
+Narrator: 
 
 ----
 
-Participants:
+Translator: 
+
+----
+
+Participants: 
 
 ----
 
 Page-count: 320
+
+----
+
+Duration: 
 
 ----
 
@@ -105,6 +117,16 @@ Topics: Abenteuer, Ferien, Sommer
 Cover:
 
 - ein-sommer-in-sommerby_kirsten-boie.jpg
+
+----
+
+Books:
+
+- buecher/ein-sommer-in-sommerby
+
+----
+
+Isaudiobook: false
 
 ----
 

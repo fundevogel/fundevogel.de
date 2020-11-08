@@ -1,0 +1,104 @@
+Title: Wer fragt schon einen Kater?
+
+----
+
+Isbn: 978-3-7348-4114-9
+
+----
+
+Book-title: Kater Aristoteles - Wer fragt schon einen Kater?
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Annette Herzog
+
+----
+
+Illustrator: Pe Grigo
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 128
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Magellan
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 12,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Freundschaft, Katzen
+
+----
+
+Description: Aristoteles ist ein bildhübscher Kater im besten Alter - findet er zumindest. Und Anna und ihre Familie, bei denen er wohnt, die finden das auch. Jedenfalls dachte Aristoteles das bis er zufällig mitbekommt, dass Anna sich einen Hund wünscht. Einen Hund?!? Welches vernünftige achtjährige Mädchen wünscht sich denn einen Kläffer? Aristoteles ist sofort klar: Alles lässt er nicht mit sich machen. Beleidigt läuft er weg, denn er will lieber ein Straßenkater werden, als seine Familie mit einem Hund zu teilen. Oh, hätte er doch nur früher gewusst, was da auf ihn zukommt!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000230772/63715/10002/-3/Buecher_Kinder--und-Jugend/Annette-Herzog/Kater-Aristoteles---Wer-fragt-schon-einen-Kater
+
+----
+
+Cover:
+
+- >
+  kater-aristoteles-wer-fragt-schon-einen-kater_annette-herzog.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-kinderbuch-ueber-einen-eitlen-kater
