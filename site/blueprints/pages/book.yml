@@ -4,6 +4,16 @@ title:
 
 options: options/article
 
+status:
+  draft:
+      label:
+        de: Entwurf
+        en: Draft
+  unlisted:
+    label:
+      de: Öffentlich
+      en: Published
+
 addFields:
   title:
     label: "title"
