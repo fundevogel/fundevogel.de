@@ -20,10 +20,15 @@ return [
             'page_count' => $data['Seitenzahl'],
             'price' => $data['Preis'],
             'binding' => $data['Einband'],
-            'categories' => $data['Kategorien'],
+            'description' => $data['Inhaltsbeschreibung'],
             'topics' => $data['Schlagworte'],
+            'isAudiobook' => false,
             'shop' => rtrim(getShopLink($isbn), '01234567890/'),
         ];
+
+        if (Str::contains($data['Untertitel'], ' Min.')) {
+            $dataArray['isAudiobook'] = true;
+        }
 
         $page->updateBook($dataArray);
 

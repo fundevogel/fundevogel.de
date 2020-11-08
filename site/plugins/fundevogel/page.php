@@ -55,22 +55,43 @@ return [
     'updateBook' => function (array $dataArray) {
         $updateArray = [];
 
+        # These fields may be updated
+        $refresh = [
+            'isAudiobook',
+        ];
+
         foreach ($dataArray as $key => $value) {
-            if ($this->$key()->isNotEmpty()) {
+            # Don't update ..
+            # (1) .. fields that are filled and not explicitly eligible for refreshing
+            if ($this->$key()->isNotEmpty() && !in_array($key, $refresh)) {
                 continue;
             }
 
-            # If two out of three fields are filled, and one of them is `author`,
-            # don't fill `participants` again, as we did it before already
+            # (2) .. `book_subtitle` if the `author` field is filled
+            $hasAuthor = $this->author()->isNotEmpty();
+
+            if ($key === 'book_subtitle' && $hasAuthor) {
+                continue;
+            }
+
+            # (3) .. `participants` if the `author` field and either
+            # `illustrator`, `translator` or `narrator` are filled
+            $hasIllustrator = $this->illustrator()->isNotEmpty();
+            $hasTranslator = $this->translator()->isNotEmpty();
+            $hasNarrator = $this->narrator()->isNotEmpty();
+
             if ($key === 'participants') {
-                if (($this->author()->isNotEmpty() && $this->illustrator()->isNotEmpty()) || ($this->author()->isNotEmpty() && $this->translator()->isNotEmpty())) {
+                if (($hasAuthor && $hasIllustrator) || ($hasAuthor && $hasTranslator) || ($hasAuthor && $hasNarrator)) {
                     continue;
                 }
             }
 
-            $updateArray = A::update($updateArray, [
-                $key => $value
-            ]);
+            # (4) .. `page_count` if the book is an audiobook
+            if ($key === 'page_count' && $dataArray['isAudiobook'] === true) {
+                continue;
+            }
+
+            $updateArray[$key] = $value;
         }
 
         $this->update($updateArray);
