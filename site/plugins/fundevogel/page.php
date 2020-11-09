@@ -5,8 +5,18 @@ return [
         return $this->cover()->isNotEmpty();
     },
     'getCover' => function () {
-        $cover = $this->hasCover()
-            ? $this->cover()->toFile()
+        $page = $this;
+
+        if ($this->intendedTemplate() == 'lesetipps.article') {
+            if ($this->books()->isEmpty()) {
+                return site()->fallback()->toFile();
+            }
+
+            $page = $this->books()->toPages()->first();
+        }
+
+        $cover = $page->hasCover()
+            ? $page->cover()->toFile()
             : site()->fallback()->toFile()
         ;
 
