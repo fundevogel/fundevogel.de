@@ -14,26 +14,6 @@ status:
       de: Öffentlich
       en: Published
 
-addFields:
-  title:
-    label: "title"
-    type: text
-    required: true
-    icon: title
-
-  slug:
-    label: "slug"
-    type: text
-    required: true
-    counter: false
-    icon: url
-
-  isbn:
-    label: ISBN
-    type: text
-    icon: book
-    required: true
-
 tabs:
   # Bibliographic details
   tab_book:
