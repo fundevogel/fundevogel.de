@@ -29,13 +29,11 @@ return function ($kirby, $page) {
 
     if ($category = param('Kategorie')) {
         // Listing by category
-        $perPage = 2;
-        $lesetipps = $lesetipps->filterBy('categories', rawurldecode($category), ',');
+        $lesetipps = $lesetipps->filterBooks('categories', rawurldecode($category));
         $parameter = 'Kategorie';
     } elseif ($topic = param('Thema')) {
         // Listing by tag
-        $perPage = 2;
-        $lesetipps = $lesetipps->filterBy('topics', rawurldecode($topic), ',');
+        $lesetipps = $lesetipps->filterBooks('topics', rawurldecode($topic));
         $parameter = 'Thema';
     }
 
