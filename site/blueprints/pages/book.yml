@@ -4,15 +4,7 @@ title:
 
 options: options/article
 
-status:
-  draft:
-      label:
-        de: Entwurf
-        en: Draft
-  unlisted:
-    label:
-      de: Öffentlich
-      en: Published
+num: 0
 
 tabs:
   # Bibliographic details
@@ -70,7 +62,7 @@ tabs:
                 data : '{{ page.id }}'
                 width: 1/4
 
-              step_three:
+              step_two:
                 label:
                   de: Angaben zum Buch prüfen
                   en: Edit book details

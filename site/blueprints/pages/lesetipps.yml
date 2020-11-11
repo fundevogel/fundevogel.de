@@ -17,12 +17,23 @@ tabs:
             image:
               query: page.getCover
 
-      right:
-        sections:
           unlisted:
             template: lesetipps.article
             image:
               query: page.getCover
+
+      right:
+        sections:
+          info:
+            text:
+              de: |
+                Um einen **neuen Lesetipp** anzulegen, wähle links "Hinzufügen", gib den Namen des Lesetipps an und bestätige mit "Entwurf anlegen".
+
+                **Hinweis:** Danach muss der Lesetipp noch "veröffentlicht" werden: Klicke einfach unter der Überschrift des Beitrags auf "Entwurf" und ändere den Status auf "Öffentlich".
+              en: |
+                Adding a **new recommendation** is pretty simple, just choose "Add" on the left side, enter the title of the recommendation and hit "Create draft".
+
+                **Note:** After that the recommendation still has to be "published". In order to do that, click on "Draft" (below the recommendation's title) and change the status to "Published".
 
       full:
         sections:

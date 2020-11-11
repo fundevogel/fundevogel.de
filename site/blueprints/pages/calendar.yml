@@ -12,11 +12,8 @@ tabs:
       left:
         sections:
           drafts:
-            create: calendar.event
             template: calendar.event
 
-      right:
-        sections:
           unlisted:
             template: calendar.event
 

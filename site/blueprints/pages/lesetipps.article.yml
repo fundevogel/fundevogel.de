@@ -52,5 +52,8 @@ tabs:
 
       sidebar_files: false
 
+  # Books
+  tab_books: tabs/books
+
   # Metadata
   tab_seo: tabs/seo

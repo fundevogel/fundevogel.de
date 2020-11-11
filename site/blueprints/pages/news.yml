@@ -14,8 +14,6 @@ tabs:
           drafts:
             template: news.article
 
-      right:
-        sections:
           unlisted:
             template: news.article
 
