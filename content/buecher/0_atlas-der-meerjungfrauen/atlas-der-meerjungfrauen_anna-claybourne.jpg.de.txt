@@ -1,0 +1,21 @@
+Titleattribute: "Atlas der Meerjungfrauen" von Anna Claybourne
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Atlas der Meerjungfrauen" von Anna Claybourne
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
