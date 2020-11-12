@@ -19,4 +19,12 @@ return [
 
         return preg_replace($from, $to, $text);
     },
+    'page.create:after' => function ($page) {
+        if ($page->intendedTemplate() == 'book') {
+            $page->changeStatus('listed');
+
+            janitor('downloadCover', $page, $page->id());
+            janitor('downloadCover', $page, $page->id());
+        }
+    }
 ];

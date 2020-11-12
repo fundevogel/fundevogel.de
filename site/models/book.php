@@ -77,9 +77,8 @@ class BookPage extends Page {
         }
 
         return parent::create(array_merge($props, [
-            'slug' => $isbn,
             'content' => $dataArray,
-            'status' => 'listed',
+            'slug' => Str::slug($data['Titel']),
         ]));
     }
 }
