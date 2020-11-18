@@ -9,7 +9,7 @@
                     <?php if ($category->isOpen()) : ?>
                     <div class="absolute inset-0 bg-orange-medium rounded-lg opacity-50"></div>
                     <?php endif ?>
-                    <?= $category->getCover()->createImage('rounded-lg', 'assortment.navigation') ?>
+                    <?= $category->getCover()->createImage('rounded-lg', 'assortment.navigation', false, true) ?>
                     <figcaption class="sash-caption sketch<?php e($category->isOpen(), ' bg-orange-medium',  ' bg-red-light group-hover:bg-red-medium') ?>"><?= $category->title()->html() ?></figcaption>
                 <?php e(!$category->isOpen(), '</a>') ?>
             </figure>
