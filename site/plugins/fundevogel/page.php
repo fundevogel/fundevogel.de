@@ -104,6 +104,12 @@ return [
             $updateArray[$key] = $value;
         }
 
-        $this->update($updateArray);
+        try {
+            $this->update($updateArray);
+
+            return true;
+        } catch (\Exception $e) {}
+
+        return false;
     },
 ];
