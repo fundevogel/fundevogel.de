@@ -65,6 +65,17 @@ function loadBook (string $isbn, bool $exportOnly = true)
                 ]);
             }
 
+            # Extended dataset: ebook
+            if ($book->isEbook()) {
+                $data = A::update($data, [
+                    'devices'    => $book->devices(),
+                    'print'      => $book->print(),
+                    'fileSize'   => $book->fileSize(),
+                    'fileFormat' => $book->fileFormat(),
+                    'drm'        => $book->drm(),
+                ]);
+            }
+
             return $data;
         }
     } catch (\Exception $e) {
