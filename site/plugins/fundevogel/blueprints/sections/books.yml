@@ -1,0 +1,20 @@
+headline:
+  de: Alle Bücher
+  en: All books
+type: pages
+parent: site.find('buecher')
+template:
+  - book
+  - book.default
+  - book.audio
+  - book.ebook
+sortBy: date desc
+text: "{{ page.book_title }}"
+info: "{{ page.author }}"
+layout: cards
+image:
+  ratio: 3/4
+  cover: true
+empty:
+  de: Keine Bücher vorhanden
+  en: No books available
