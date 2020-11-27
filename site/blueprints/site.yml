@@ -70,6 +70,10 @@ tabs:
               - contact
             sortable: false
 
+  # Books
+  books: tabs/books
+
+  # Settings
   settings:
     icon: settings
     preset: page
