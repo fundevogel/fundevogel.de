@@ -4,6 +4,7 @@ use PHPCBIS\PHPCBIS;
 use GuzzleHttp\Client;
 use GuzzleHttp\TransferStats;
 
+
 function pcbis()
 {
     # Initializing PHPCBIS object
@@ -12,6 +13,7 @@ function pcbis()
 
     return new PHPCBIS($login);
 }
+
 
 function loadBook (string $isbn, bool $exportOnly = true)
 {
@@ -22,25 +24,48 @@ function loadBook (string $isbn, bool $exportOnly = true)
         $book = $object->load($isbn);
 
         if ($exportOnly) {
-            return [
+            # Basic dataset
+            $data = [
+                'isbn'          => $book->isbn(),
                 'title'         => $book->title(),
                 'book_title'    => $book->title(),
                 'book_subtitle' => $book->subtitle(),
-                'isbn'          => $book->isbn(),
                 'description'   => $book->description(),
-                'author'        => $book->author(),
-                'illustrator'   => $book->illustrator(),
-                'translator'    => $book->translator(),
-                'publisher'     => $book->publisher(),
-                'age'           => $book->age(),
-                'page_count'    => $book->pageCount(),
                 'price'         => $book->retailPrice(),
-                'binding'       => $book->binding(),
+                'year'          => $book->releaseYear(),
+                'age'           => $book->age(),
                 'categories'    => $book->categories(),
                 'topics'        => $book->topics(),
-                'isAudiobook'   => $book->isAudiobook(),
-                'shop'          => rtrim(getShopLink($isbn), '01234567890/'),
+                'author'        => $book->author(),
+                'illustrator'   => $book->illustrator(),
+                'drawer'        => $book->drawer(),
+                'photographer'  => $book->photographer(),
+                'translator'    => $book->translator(),
+                'editor'        => $book->editor(),
+                'participant'   => $book->participant(),
             ];
+
+            # Extended dataset: book
+            if ($book->isBook()) {
+                $data = A::update($data, [
+                    'binding'    => $book->binding(),
+                    'page_count' => $book->pageCount(),
+                    'publisher'  => $book->publisher(),
+                ]);
+            }
+
+            # Extended dataset: audiobook
+            if ($book->isAudiobook()) {
+                $data = A::update($data, [
+                    'publisher' => $book->publisher(),
+                    'duration'  => $book->duration(),
+                    'narrator'  => $book->narrator(),
+                    'director'  => $book->director(),
+                    'producer'  => $book->producer(),
+                ]);
+            }
+
+            return $data;
         }
     } catch (\Exception $e) {
         return [];
@@ -48,6 +73,7 @@ function loadBook (string $isbn, bool $exportOnly = true)
 
     return $book;
 }
+
 
 function getShopLink ($isbn): string
 {
@@ -85,6 +111,7 @@ function getShopLink ($isbn): string
     return (string) $endpoint;
 }
 
+
 function getLangVars ($language = 'de')
 {
     $translations = Yaml::decode(F::read(
@@ -93,6 +120,7 @@ function getLangVars ($language = 'de')
 
     return $translations;
 }
+
 
 function useSVG ($title, $classes = '', $file = '', $customAttribute = '')
 {

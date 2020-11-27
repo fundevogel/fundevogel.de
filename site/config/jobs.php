@@ -1,7 +1,5 @@
 <?php
 
-use Biblys\Isbn\Isbn;
-
 return [
     'loadBook' => function ($page, $data) {
         if ($page === null) {
@@ -9,21 +7,23 @@ return [
         }
 
         # API call
-        $isbn = new Isbn($page->isbn()->value());
+        $isbn = $page->isbn()->value();
 
         try {
-            $isbn->validate();
-            $isbn = $isbn->format("ISBN-13");
+            # Fetch information from API
+            $data = loadBook($isbn);
         } catch(\Exception $e) {
             return [
                 'status' => 404,
-                'label' => 'Ungültige ISBN!',
+                'label' => $e,
                 'reload' => false,
             ];
         }
 
-        # Fetch information from API
-        $data = loadBook($isbn);
+        # Don't fill shop URL again - save requests
+        if ($page->shop()->isEmpty()) {
+            $data = A::update($data, ['shop' => rtrim(getShopLink($isbn), '01234567890/')]);
+        }
 
         $success = $page->updateBook($data);
 

@@ -4,7 +4,6 @@ headline:
 type: pages
 parent: site.find('buecher')
 template:
-  - book
   - book.default
   - book.audio
   - book.ebook

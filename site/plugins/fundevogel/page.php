@@ -62,15 +62,13 @@ return [
 
         return $link;
     },
-    'updateBook' => function (array $dataArray) {
+    'updateBook' => function (array $data) {
         $updateArray = [];
 
         # These fields may be updated
-        $refresh = [
-            'isAudiobook',
-        ];
+        $refresh = [];
 
-        foreach ($dataArray as $key => $value) {
+        foreach ($data as $key => $value) {
             # Don't update ..
             # (1) .. fields that are filled and not explicitly eligible for refreshing
             if ($this->$key()->isNotEmpty() && !in_array($key, $refresh)) {
@@ -81,23 +79,6 @@ return [
             $hasAuthor = $this->author()->isNotEmpty();
 
             if ($key === 'book_subtitle' && $hasAuthor) {
-                continue;
-            }
-
-            # (3) .. `participants` if the `author` field and either
-            # `illustrator`, `translator` or `narrator` are filled
-            $hasIllustrator = $this->illustrator()->isNotEmpty();
-            $hasTranslator = $this->translator()->isNotEmpty();
-            $hasNarrator = $this->narrator()->isNotEmpty();
-
-            if ($key === 'participants') {
-                if (($hasAuthor && $hasIllustrator) || ($hasAuthor && $hasTranslator) || ($hasAuthor && $hasNarrator)) {
-                    continue;
-                }
-            }
-
-            # (4) .. `page_count` if the book is an audiobook
-            if ($key === 'page_count' && $dataArray['isAudiobook'] === true) {
                 continue;
             }
 

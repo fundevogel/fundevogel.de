@@ -1,0 +1,152 @@
+Title: Alle Welt
+
+----
+
+Isbn: 978-3-89565-370-4
+
+----
+
+Book-title: Alle Welt
+
+----
+
+Book-subtitle: Das Landkartenbuch
+
+----
+
+Author: Aleksandra Mizielinska; Daniel Mizielinski
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Thomas Weiler
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Page-count: 152
+
+----
+
+Price: 34,00
+
+----
+
+Topics: Karten (Landkarten), Welt
+
+----
+
+Description: Es gibt viel zu entdecken: was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Was ist das Nationalgericht von Chile? Welche Pflanzen wachsen in Marokko? Was sind die Sehenswürdigkeiten von Finnland? Welchen Sport treiben Japaner? Welcher Tanz stammt aus Österreich, welches Produkt aus der Schweiz?
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000674121/63715/10002/-3/Buecher_Kinder--und-Jugend/Aleksandra-Mizielinska/Alle-Welt/4099276460822241240/%204099276460822241224/%
+
+----
+
+Year: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  alle-welt_aleksandra-mizielinska-daniel-mizielinski.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Narrator: 
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: 
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 
