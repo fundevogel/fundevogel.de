@@ -13,19 +13,40 @@ function pcbis()
     return new PHPCBIS($login);
 }
 
-function loadBook (string $isbn)
+function loadBook (string $isbn, bool $exportOnly = true)
 {
     $object = pcbis();
     $object->setCachePath(kirby()->root('cache') . '/books');
 
-    $dataRaw = $object->loadBook($isbn);
+    try {
+        $book = $object->load($isbn);
 
-    # If API call was unsuccessful ..
-    if ($dataRaw == false) {
-        return false;
+        if ($exportOnly) {
+            return [
+                'title'         => $book->title(),
+                'book_title'    => $book->title(),
+                'book_subtitle' => $book->subtitle(),
+                'isbn'          => $book->isbn(),
+                'description'   => $book->description(),
+                'author'        => $book->author(),
+                'illustrator'   => $book->illustrator(),
+                'translator'    => $book->translator(),
+                'publisher'     => $book->publisher(),
+                'age'           => $book->age(),
+                'page_count'    => $book->pageCount(),
+                'price'         => $book->retailPrice(),
+                'binding'       => $book->binding(),
+                'categories'    => $book->categories(),
+                'topics'        => $book->topics(),
+                'isAudiobook'   => $book->isAudiobook(),
+                'shop'          => rtrim(getShopLink($isbn), '01234567890/'),
+            ];
+        }
+    } catch (\Exception $e) {
+        return [];
     }
 
-    return $object->processData($dataRaw);
+    return $book;
 }
 
 function getShopLink ($isbn): string

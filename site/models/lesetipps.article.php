@@ -28,39 +28,17 @@ class LesetippsArticlePage extends Page {
         # Fetch information from API
         $data = loadBook($isbn);
 
-        $dataArray = [
-            'title' => $data['Titel'],
-            'book_title' => $data['Titel'],
-            'book_subtitle' => $data['Untertitel'],
-            'isbn' => $props['slug'],
-            'author' => $data['AutorIn'],
-            'participants' => $data['Mitwirkende'],
-            'publisher' => $data['Verlag'],
-            'age' => $data['Altersempfehlung'],
-            'page_count' => $data['Seitenzahl'],
-            'price' => $data['Preis'],
-            'binding' => $data['Einband'],
-            'description' => $data['Inhaltsbeschreibung'],
-            'topics' => $data['Schlagworte'],
-            'isAudiobook' => false,
-            'shop' => rtrim(getShopLink($isbn), '01234567890/'),
-        ];
-
-        if (Str::contains($data['Untertitel'], ' Min.')) {
-            $dataArray['isAudiobook'] = true;
-        }
-
         $book = page('buecher')->createChild([
-            'content' => $dataArray,
+            'content' => $data,
             'template' => 'book',
         ]);
 
         return parent::create(array_merge($props, [
             'content' => [
-                'title' => $data['Titel'],
+                'title' => $data['title'],
                 'books' => Data::encode($book->id(), 'yaml'),
             ],
-            'slug' => Str::slug($data['Titel']),
+            'slug' => Str::slug($data['title']),
         ]));
     }
 }

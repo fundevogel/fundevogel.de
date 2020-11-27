@@ -22,29 +22,10 @@ return [
             ];
         }
 
+        # Fetch information from API
         $data = loadBook($isbn);
 
-        $dataArray = [
-            'book_title' => $data['Titel'],
-            'book_subtitle' => $data['Untertitel'],
-            'author' => $data['AutorIn'],
-            'participants' => $data['Mitwirkende'],
-            'publisher' => $data['Verlag'],
-            'age' => $data['Altersempfehlung'],
-            'page_count' => $data['Seitenzahl'],
-            'price' => $data['Preis'],
-            'binding' => $data['Einband'],
-            'description' => $data['Inhaltsbeschreibung'],
-            'topics' => $data['Schlagworte'],
-            'isAudiobook' => false,
-            'shop' => rtrim(getShopLink($isbn), '01234567890/'),
-        ];
-
-        if (Str::contains($data['Untertitel'], ' Min.')) {
-            $dataArray['isAudiobook'] = true;
-        }
-
-        $success = $page->updateBook($dataArray);
+        $success = $page->updateBook($data);
 
         return [
             'status' => $success ? 200 : 404,
@@ -61,11 +42,12 @@ return [
         $fileName = implode('_', [Str::slug($page->book_title()), Str::slug($page->author())]);
 
         if (!file_exists($imagePath . '/' . $fileName . '.jpg')) {
-            # API call
-            $object = pcbis();
-            $object->setImagePath($imagePath);
             $isbn = $page->isbn()->value();
-            $download = $object->downloadCover($isbn, $fileName, true);
+
+            # API call
+            $book = loadBook($isbn, false);
+            $book->setImagePath($imagePath);
+            $download = $book->downloadCover($fileName, true);
 
             return [
                 'status' => $download ? 200 : 404,
