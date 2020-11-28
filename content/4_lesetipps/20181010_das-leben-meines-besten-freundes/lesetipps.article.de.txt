@@ -26,6 +26,10 @@ Insgesamt ein angenehm erfrischender Jugendroman zwischen Krimi und Freundschaft
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-10-10
 
 ----
@@ -78,6 +82,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -87,6 +95,10 @@ Participants:
 ----
 
 Page-count: 242
+
+----
+
+Duration: 
 
 ----
 
@@ -118,6 +130,16 @@ Cover:
 
 - >
   das-leben-meines-besten-freundes_judith-gridl.jpg
+
+----
+
+Books:
+
+- buecher/das-leben-meines-besten-freundes
+
+----
+
+Isaudiobook: false
 
 ----
 

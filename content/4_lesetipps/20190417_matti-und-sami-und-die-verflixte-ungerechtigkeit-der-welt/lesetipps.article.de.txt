@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-04-17
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Barbara Jung
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 150
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt_salah-naoura.jpg
+
+----
+
+Books:
+
+- >
+  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt
+
+----
+
+Isaudiobook: false
 
 ----
 

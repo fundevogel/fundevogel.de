@@ -21,6 +21,7 @@
         "php": ">=7.2.0",
         "getkirby/cms": "3.4.2",
         "afbora/kirby-minify-html": "1.2.0",
+        "biblys/isbn": "2.1.4",
         "bnomei/kirby3-fingerprint": "3.0.8",
         "bnomei/kirby3-janitor": "2.6.1",
         "bnomei/kirby3-security-headers": "2.3.1",

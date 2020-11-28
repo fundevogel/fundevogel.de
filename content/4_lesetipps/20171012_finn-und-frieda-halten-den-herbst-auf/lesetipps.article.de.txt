@@ -19,6 +19,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -71,6 +75,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -80,6 +88,10 @@ Participants:
 ----
 
 Page-count: 48
+
+----
+
+Duration: 
 
 ----
 
@@ -111,6 +123,17 @@ Cover:
 
 - >
   finn-und-frieda-halten-den-herbst-auf_martin-klein-kerstin-meyer.jpg
+
+----
+
+Books:
+
+- >
+  buecher/finn-und-frieda-halten-den-herbst-auf
+
+----
+
+Isaudiobook: false
 
 ----
 

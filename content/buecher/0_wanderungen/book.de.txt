@@ -1,0 +1,103 @@
+Title: Wanderungen
+
+----
+
+Isbn: 978-3-7373-5599-5
+
+----
+
+Book-title: Wanderungen
+
+----
+
+Book-subtitle: Die unglaublichen Reisen der Tiere
+
+----
+
+Author: Mike Unwin
+
+----
+
+Illustrator: Jenni Desmond
+
+----
+
+Narrator: 
+
+----
+
+Translator: Stephanie Menge
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 16,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Tierwanderungen
+
+----
+
+Description: Spektakuläre Tierwanderungen!. Viele Tiere machen sich Jahr für Jahr auf eine unglaublich lange und anstrengende Reise. Um zu überleben, durchqueren sie unseren Planeten bei Wind und Wetter und müssen dabei ihren hungrigen Feinden, manchmal auch den Menschen, aus dem Weg gehen. Sie überqueren Gebirge und Kontinente, wandern durch Wüsten und schwimmen durch die Ozeane dieser Welt. Jedes Tier hat seine ganz eigene und besondere Reisegeschichte. Der Kaiserpinguin watschelt bis zu 100 Kilometer, um im Polarwinter ins Inland zu gelangen. Die Schwalben legen sogar 10.000 Kilometer zurück, um ausreichend Nahrung zu finden. Und große Elefantenherden machen sich alle Jahre wieder auf den Weg zu neuen Wasserstellen.Dieses besondere Reisetagebuch erzählt von 20 verschiedenen Tieren jeglicher Art und Größe.Ein besonderes Wissensbuch mit liebevoll erzählten Tierportraits, farbenfroh und warm illustriert.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001045086/63715/10002/-3/Buecher_Sachbuecher/Mike-Unwin/Wanderungen
+
+----
+
+Cover:
+
+- wanderungen_mike-unwin.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: März 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-maerz-fuer-sachbuch-wanderungen/

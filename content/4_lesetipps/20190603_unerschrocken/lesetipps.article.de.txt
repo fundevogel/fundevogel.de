@@ -22,6 +22,10 @@ Es handelt sich bei den Darstellungen der Lebensgeschichten nicht um historisch 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-06-03
 
 ----
@@ -74,6 +78,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Heike Drescher
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 144
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Frau, Emanzipation
 Cover:
 
 - unerschrocken_penelope-bagieu.jpg
+
+----
+
+Books:
+
+- buecher/unerschrocken
+
+----
+
+Isaudiobook: false
 
 ----
 

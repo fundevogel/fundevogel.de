@@ -28,6 +28,10 @@ So müssen Bilderbücher sein! Vordergründig illustrieren sie zumeist eine Gesc
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-12-10
 
 ----
@@ -80,6 +84,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -89,6 +97,10 @@ Participants:
 ----
 
 Page-count: 28
+
+----
+
+Duration: 
 
 ----
 
@@ -119,6 +131,16 @@ Topics: Denkaufgaben, Wimmelbilder
 Cover:
 
 - passt-nicht_mieke-scheier.jpg
+
+----
+
+Books:
+
+- buecher/passt-nicht
+
+----
+
+Isaudiobook: false
 
 ----
 

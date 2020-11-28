@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-03-04
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Regina Kehn
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 208
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   rodrigo-raubein-und-knirps-sein-knappe_michael-ende-wieland-freund.jpg
+
+----
+
+Books:
+
+- >
+  buecher/rodrigo-raubein-und-knirps-sein-knappe
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -1,0 +1,103 @@
+Title: Turing
+
+----
+
+Isbn: 978-3-945034-55-2
+
+----
+
+Book-title: Turing
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Robert Deutsch
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 192
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: avant-verlag
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 29,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Homosexualität, Alan Turing
+
+----
+
+Description: Alan Turing zählt zu den Erfindern des modernen Computers und gilt als einer der wichtigsten Wissenschaftler des 20. Jahrhunderts, dessen Beiträge zur Informatik bis heute von unschätzbarem Wert sind. Doch wer war Turing wirklich? Wie lebte und arbeitete er, und was führte zu seinem Suizid mit gerade einmal 41 Jahren? Turing von Robert Deutsch beleuchtet auf einfühlsame Weise ein außergewöhnliches Leben, das sich zwischen königlichem Ritterschlag und versteckt ausgelebter Homosexualität, zwischen Erfindergeist und Depression bewegte.Der aus Leipzig stammende Autor zeichnet in seinem bisweilen fast kubistisch anmutenden Stil das Portrait eines Menschen, dessen sympathisch-naive Verschrobenheit auf die unerbittliche Realität im England der Nachkriegszeit trifft.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853797906/63715/10002/-3/Buecher_Biografien-und-Memoiren/Robert-Deutsch/Turing
+
+----
+
+Cover:
+
+- turing_robert-deutsch.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2017
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-fuer-das-jugendbuch-turing/

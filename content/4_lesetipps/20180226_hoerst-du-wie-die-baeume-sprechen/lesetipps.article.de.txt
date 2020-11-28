@@ -22,11 +22,30 @@ Auch Umweltschutz und Nachhaltigkeit sowie biochemische Vorgänge sind Gegenstan
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-02-26
 
 ----
 
+Books:
+
+- >
+  buecher/hoerst-du-wie-die-baeume-sprechen
+
+----
+
 Conclusion-wanted: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -114,11 +133,3 @@ Cover:
 
 - >
   hoerst-du-wie-die-baeume-sprechen_peter-wohlleben.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

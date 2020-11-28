@@ -1,0 +1,103 @@
+Title: Lauf um dein Leben!
+
+----
+
+Isbn: 978-3-446-26217-1
+
+----
+
+Book-title: Lauf um dein Leben!
+
+----
+
+Book-subtitle: Die Weltreise der Sneakers
+
+----
+
+Author: Wolfgang Korn
+
+----
+
+Illustrator: Birgit Jansen
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 232
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 13 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Globalisierung, Arbeitswelt, Kapitalismus
+
+----
+
+Description: Berlin, China, Äthiopien - Wolfgang Korn über die Weltreise der Sneakers rund um den Globus. Für alle, die wissen wollen, wie Welthandel funktioniert
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001490489/63715/10002/-3/Buecher_Kinder--und-Jugend/Wolfgang-Korn/Lauf-um-dein-Leben
+
+----
+
+Cover:
+
+- lauf-um-dein-leben_wolfgang-korn.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: Heinrich-Wolgast-Preis
+
+----
+
+Awardedition: 2019
+
+----
+
+Leselink: https://www.gew.de/presse/pressemitteilungen/detailseite/neuigkeiten/gew-wolfgang-korns-lauf-um-dein-leben-erhaelt-den-heinrich-wolgast-preis

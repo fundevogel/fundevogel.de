@@ -1,0 +1,103 @@
+Title: Unerschrocken
+
+----
+
+Isbn: 978-3-95640-129-9
+
+----
+
+Book-title: Unerschrocken
+
+----
+
+Book-subtitle: Fünfzehn Porträts außergewöhnlicher Frauen
+
+----
+
+Author: Pénélope Bagieu
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Heike Drescher
+
+----
+
+Participants: 
+
+----
+
+Page-count: 144
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 24,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Frau, Emanzipation
+
+----
+
+Description: Josephine Baker brachte tanzend den Jazz und Charleston nach Europa und engagierte sich für die Rechte von Schwarzen. Tove Jansson, Schöpferin der Mumins, lebte offen die Liebe zu ihrer Lebenspartnerin. Und die libanesische Bürgerrechtlerin Leymah Gbowee setzt sich in gewaltfreiem Kampf für die Sicherheit von Frauen ein. Unerschrocken schreiten diese eigensinnigen Frauen durchs Leben. Vorreiterinnen, Querdenkerinnen und jede eine Heldin auf ihre ganz eigene Art. Ob Schamanin oder Entdeckerin, Leuchtturmwärterin oder gefeierte Leinwandhexe - diese Frauen haben ihre Bestimmung gefunden.Mit Humor und Finesse porträtiert Pénélope Bagieu fünfzehn außergewöhnliche Persönlichkeiten, die den gesellschaftlichen Zwängen ihrer Zeit trotzten, um das Leben ihrer Wahl zu führen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000000222936/63715/10002/-3/Buecher_Biografien-und-Memoiren/Pnlope-Bagieu/Unerschrocken
+
+----
+
+Cover:
+
+- unerschrocken_penelope-bagieu.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juni-fuer-graphic-novel-ueber-besondere-frauen

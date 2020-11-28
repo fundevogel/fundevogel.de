@@ -20,11 +20,31 @@ Conclusion: Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, d
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-10-26
 
 ----
 
+Books:
+
+- buecher/we-all-looked-up
+- buecher/28-tage-lang
+- buecher/jenseits-der-blauen-grenze
+
+----
+
 Conclusion-wanted: true
+
+----
+
+Seotitle: We all looked up ... und andere Empfehlungen
+
+----
+
+Seodescription: In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
 
 ----
 
@@ -72,6 +92,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Henriette Zeltner
 
 ----
@@ -81,6 +105,10 @@ Participants:
 ----
 
 Page-count: 448
+
+----
+
+Duration: 
 
 ----
 
@@ -115,8 +143,4 @@ Cover:
 
 ----
 
-Seotitle: We all looked up ... und andere Empfehlungen
-
-----
-
-Seodescription: In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
+Isaudiobook: false

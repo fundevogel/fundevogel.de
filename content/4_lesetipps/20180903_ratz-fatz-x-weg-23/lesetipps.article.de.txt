@@ -25,6 +25,10 @@ Will der Rektor ihre Lügengeschichte anfangs noch aufdecken, lässt er sich bal
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-09-03
 
 ----
@@ -77,6 +81,10 @@ Illustrator: Maja Bohn
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -86,6 +94,10 @@ Participants:
 ----
 
 Page-count: 209
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Topics: Abenteuer, Putzen, Lügen, Schule
 Cover:
 
 - der-ratz-fatz-x-weg-23_salah-naoura.jpg
+
+----
+
+Books:
+
+- buecher/ratz-fatz-x-weg-23
+
+----
+
+Isaudiobook: false
 
 ----
 

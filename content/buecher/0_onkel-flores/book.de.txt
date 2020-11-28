@@ -1,0 +1,103 @@
+Title: Onkel Flores
+
+----
+
+Isbn: 978-3-905804-72-0
+
+----
+
+Book-title: Onkel Flores
+
+----
+
+Book-subtitle: Eine ziemlich wahre Geschichte aus Brasilien
+
+----
+
+Author: Eymard Toledo
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Baobab Books
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 17,90
+
+----
+
+Binding: Halbleinen
+
+----
+
+Topics: Brasilien, Globalisierung, Arbeitswelt
+
+----
+
+Description: Onkel Flores ist Schneider von Beruf und es gibt keinen besseren in der kleinen Stadt am Ufer des São Francisco. Sein Neffe Edinho verbringt viel Zeit bei ihm in der Werkstatt. Während des Zuschneidens und Nähens erzählt Onkel Flores gerne von früher - von jener Zeit, als Pinbauê noch ein Dorf war, die Fischer am Ende des Tages volle Netze hatten und die Frauen die Wäsche im klaren Wasser wuschen.Damals nähte Onkel Flores bunte Karnevalskostüme und schöne Sonntagskleider, heute sind es graue Arbeitsanzüge. Fast alle Bewohner arbeiten nun in der großen Fabrik und Pinbauê ist grau geworden. Als der Fabrikbesitzer beschließt, die Arbeitsanzüge im Ausland zu bestellen, bleiben die Aufträge für Onkel Flores aus.Doch dann hat Edinho eine zündende Idee, die Onkel Flores wieder zu Arbeit verhilft ... Bald schon stehen die Menschen bei Onkel Flores Schlange. Und das ist nicht die einzige Veränderung in Pinbauê! Manchmal braucht es wenig, um einen Wandel auszulösen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851008340/63715/10002/-3/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores
+
+----
+
+Cover:
+
+- onkel-flores_eymard-toledo.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

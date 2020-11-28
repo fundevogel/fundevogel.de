@@ -1,0 +1,103 @@
+Title: Ausflug zum Mond
+
+----
+
+Isbn: 978-3-89565-381-0
+
+----
+
+Book-title: Ausflug zum Mond
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: John Hare
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Mond, Zukunft, Weltall, Außerirdische, Schule
+
+----
+
+Description: Wie die Zeiten sich doch geändert haben: Ein Ausflug zum Mond ist kein Problem mehr! Aber was, wenn man dort vergessen wird?Schon auf dem Cover beginnt die Geschichte: Eine Gruppe Kinder besteigt einen Raumtransporter.Und dann heißt es Take off! Das Ziel ist schnell erreicht: Der Mond! Im Gänsemarsch stapfen alle los, doch einer bleibt zurück. In der Ferne leuchtet unsere Erde und er muss sie unbedingt malen. Die Gruppe ist jetzt natürlich längst über alle Berge und der Raumtransporter startet - ohne ihn!Wie es weitergeht und welche Rolle dabei seltsame Mondwesen spielen, will man nun unbedingt wissen - und dass es gut ausgeht, versteht sich von selbst! All das zeigt dieses textlose Bilderbuch. Dieser großartige Erstling des Grafikdesigners John Hare aus Missouri erscheint 50 Jahre, nachdem die Menschheit einen großen Schritt machte.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002021173/63715/10002/-3/Buecher_Kinder--und-Jugend/John-Hare/Ausflug-zum-Mond
+
+----
+
+Cover:
+
+- ausflug-zum-mond_john-hare.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-ausflug-zum-mond-ausgezeichnet

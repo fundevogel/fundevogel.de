@@ -1,0 +1,104 @@
+Title: Oskar – Ein Kater mit Charakter
+
+----
+
+Isbn: 978-3-423-64031-2
+
+----
+
+Book-title: Oskar - Ein Kater mit Charakter
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Hildegard Müller
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 80
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Katzen
+
+----
+
+Description: Zum Vor- und SelberlesenEs macht "klick". Oskar, ein stattlicher Kater, ist auf dem Foto festgehalten. Damit wollen die Leute vom Tierheim ein neues Zuhause für ihn suchen. Oskar ist TIER DER WOCHE. Ob das helfen wird? Im Moment erinnert er sich lieber an seine Zeit mit Knut, dem Holzarbeiter, der ihn einst im Wald fand. Oskar denkt daran, wie er als König der Gasse herumstreunte und wie er Freundschaft mit Hugo, dem Hund, schloss. Beide kamen sogar in die Zeitung. Sie waren Helden! Und nun ist Oskar wieder in der Zeitung. Ob ihm die Frau mit den freundlichen Augen und den Fischleckerli ein neues Zuhause schenken wird? Vielleicht sucht sie ja einen Kater mit Charakter!.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000206926/63715/10002/-3/Buecher_Kinder--und-Jugend/Hildegard-Mueller/Oskar---Ein-Kater-mit-Charakter
+
+----
+
+Cover:
+
+- >
+  oskar-ein-kater-mit-charakter_hildegard-mueller.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

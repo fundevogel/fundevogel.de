@@ -1,0 +1,103 @@
+Title: Dirk und Ich
+
+----
+
+Isbn: 978-3-551-55365-2
+
+----
+
+Book-title: Dirk und ich
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Andreas Steinhöfel
+
+----
+
+Illustrator: Peter Schössow
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 192
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Geschwister, Freundschaft
+
+----
+
+Description: Wo die Brüder Andreas und Dirk auftauchen, ist das Chaos vorprogrammiert. Dabei können sie meistens gar nichts dafür! Ob als Spaghettimonster auf dem Kindergeburtstag, als Nikoläuse im Altenheim oder als spektakuläre Unfallfahrer mit dem Rodelschlitten - immer geht so ziemlich alles schief, was schiefgehen kann. Aber dafür gibt es immer viel zu lachen. Und jetzt kommt auch noch Babybruder Björn dazu - mit dem müssen sie gleich mal eine Weltraumexpedition starten!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851006128/63715/10002/-3/Buecher_Kinder--und-Jugend/Andreas-Steinhoefel/Dirk-und-ich-Jubilaeumsausgabe
+
+----
+
+Cover:
+
+- dirk-und-ich_andreas-steinhoefel.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

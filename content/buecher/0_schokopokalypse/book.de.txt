@@ -1,0 +1,103 @@
+Title: Schokopokalypse
+
+----
+
+Isbn: 978-3-551-52094-4
+
+----
+
+Book-title: Schokopokalypse
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Chris Callaghan
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Britt Somann-Jung
+
+----
+
+Participants: 
+
+----
+
+Page-count: 192
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 12,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Schokolade
+
+----
+
+Description: Jelly liebt Schokolade. So wie ihre Oma, ihre Eltern und überhaupt jeder in Mampfton. Schließlich ist die kleine Stadt das Zentrum der Schokoladenherstellung. Doch dann kommt die Horrormeldung: Die Schokopokalypse steht bevor! In wenigen Tagen soll Schluss sein mit Schokodokis und all den anderen Köstlichkeiten. Jelly kann das einfach nicht glauben. Und obwohl sich alle schokopokalyptischen Vorzeichen bewahrheiten, hat sie einen anderen Verdacht. Dass Geschäftsmann Garibaldi und der dubiose Dave irgendwas im Schilde führen .... Warmherzig, originell, verrückt - eine moderne Roald-Dahl-Geschichte.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000180516/63715/10002/-3/Buecher_Kinder--und-Jugend/Chris-Callaghan/Schokopokalypse
+
+----
+
+Cover:
+
+- schokopokalypse_chris-callaghan.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

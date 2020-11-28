@@ -26,6 +26,10 @@ Davon abgesehen, liest man mit diesem Roman eine einfühlsam erzählte Fluchtges
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-06-01
 
 ----
@@ -78,6 +82,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Martina Tichy
 
 ----
@@ -87,6 +95,10 @@ Participants:
 ----
 
 Page-count: 320
+
+----
+
+Duration: 
 
 ----
 
@@ -117,6 +129,16 @@ Topics: Bürgerkrieg, Flucht, Boatpeople, Angst
 Cover:
 
 - jenseits-des-meeres_jon-walter.jpg
+
+----
+
+Books:
+
+- buecher/jenseits-des-meeres
+
+----
+
+Isaudiobook: false
 
 ----
 

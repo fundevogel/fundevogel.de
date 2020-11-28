@@ -1,0 +1,104 @@
+Title: Keiner hält Don Carlo auf
+
+----
+
+Isbn: 978-3-522-18395-6
+
+----
+
+Book-title: Keiner hält Don Carlo auf
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Oliver Scherz
+
+----
+
+Illustrator: Peter Schössow
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 112
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Thienemann Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 9,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Italien
+
+----
+
+Description: Bewegendes Roadmovie von Besteller-Autor Oliver Scherz. Für Mädchen und Jungen ab 8 Jahren.. Lange, sehr lange schon wartet Carlo schon auf seinen italienischen Papa. Immer wieder vertröstet er Carlo, dass er ihn besuchen kommt. Aber er kommt einfach nicht. Also macht Carlo sich auf den Weg zu ihm nach Palermo. Ganz allein, im Nachtzug, im Taxi und mit der Fähre. Ohne Fahrkarte oder festen Plan. Dabei erlebt er so manches Abenteuer und lernt außergewöhnliche Menschen kennen. Bis er endlich vor der Tür seines Vaters steht....
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848873279/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Keiner-haelt-Don-Carlo-auf
+
+----
+
+Cover:
+
+- >
+  keiner-haelt-don-carlo-auf_oliver-scherz.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

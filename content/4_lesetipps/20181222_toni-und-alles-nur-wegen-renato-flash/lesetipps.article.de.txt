@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-12-22
 
 ----
@@ -70,6 +74,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 67
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   toni-und-alles-nur-wegen-renato-flash_philip-waechter.jpg
+
+----
+
+Books:
+
+- >
+  buecher/toni-und-alles-nur-wegen-renato-flash
+
+----
+
+Isaudiobook: false
 
 ----
 

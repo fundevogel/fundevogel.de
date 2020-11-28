@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-07-12
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Jan Birck
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 128
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,16 @@ Cover:
 
 - >
   flaetscher-die-sache-stinkt_antje-szillat.jpg
+
+----
+
+Books:
+
+- buecher/flaetscher-die-sache-stinkt
+
+----
+
+Isaudiobook: false
 
 ----
 

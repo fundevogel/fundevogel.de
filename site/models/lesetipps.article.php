@@ -1,15 +1,38 @@
 <?php
 
+use Biblys\Isbn\Isbn;
+
 class LesetippsArticlePage extends Page {
-    public static function hookPageCreate($page) {
-        # TODO: Replace with janitor task `loadBook` (they are practically the same)
-        # API call
-        $isbn = $page->isbn()->value();
+    public function getBookCover(string $classes = '') {
+        $book = $this->books()->toPages()->first();
+
+        return $book->getBookCover($classes);
+    }
+
+    public function getAward() {
+        $book = $this->books()->toPages()->first();
+
+        return $book->getAward();
+    }
+
+    public static function create(array $props) {
+        $isbn = new Isbn($props['content']['title']);
+
+        try {
+            $isbn->validate();
+            $isbn = $isbn->format("ISBN-13");
+        } catch(\Exception $e) {
+            return parent::create($props);
+        }
+
+        # Fetch information from API
         $data = loadBook($isbn);
 
         $dataArray = [
+            'title' => $data['Titel'],
             'book_title' => $data['Titel'],
             'book_subtitle' => $data['Untertitel'],
+            'isbn' => $props['slug'],
             'author' => $data['AutorIn'],
             'participants' => $data['Mitwirkende'],
             'publisher' => $data['Verlag'],
@@ -17,55 +40,27 @@ class LesetippsArticlePage extends Page {
             'page_count' => $data['Seitenzahl'],
             'price' => $data['Preis'],
             'binding' => $data['Einband'],
-            'categories' => $data['Kategorien'],
+            'description' => $data['Inhaltsbeschreibung'],
             'topics' => $data['Schlagworte'],
+            'isAudiobook' => false,
             'shop' => rtrim(getShopLink($isbn), '01234567890/'),
         ];
 
-        $page->updateBook($dataArray);
-
-        try {
-            $page->changeSlug(Str::slug($data['Titel']));
-        } catch (Kirby\Exception\DuplicateException $e) {
-            $page->delete(true);
-        } catch (Exception $e) {}
-    }
-
-    public function getBookCover(string $classes = '') {
-        $image = $this->getCover();
-
-        $preset = $image->orientation() === 'portrait'
-            ? 'lesetipps.article.cover-normal'
-            : 'lesetipps.article.cover-square'
-        ;
-
-        return $image->createImage($classes, $preset);
-    }
-
-    public function getAward() {
-        $award = '';
-
-        if (Str::contains(Str::slug($this->award()), 'lesepeter')) {
-            $award = 'lesepeter';
+        if (Str::contains($data['Untertitel'], ' Min.')) {
+            $dataArray['isAudiobook'] = true;
         }
 
-        if (Str::contains(Str::slug($this->award()), 'wolgast')) {
-            $award = 'wolgast';
-        }
+        $book = page('buecher')->createChild([
+            'content' => $dataArray,
+            'template' => 'book',
+        ]);
 
-        if ($award === '') {
-            return [];
-        }
-
-        $array = site()->awards()
-                       ->toStructure()
-                       ->filterBy('identifier', $award)
-                       ->first()
-                       ->toArray();
-
-        $array['awardlink'] = $this->leselink()->toUrl();
-        $array['awardtitle'] = $this->award()->value() . ' ' . $this->awardEdition()->value();
-
-        return $array;
+        return parent::create(array_merge($props, [
+            'content' => [
+                'title' => $data['Titel'],
+                'books' => Data::encode($book->id(), 'yaml'),
+            ],
+            'slug' => Str::slug($data['Titel']),
+        ]));
     }
 }

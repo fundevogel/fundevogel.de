@@ -24,6 +24,10 @@ Die Illustrationen greifen Teile der Handlung auf und stellen diese überspitzt 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-04-30
 
 ----
@@ -76,6 +80,10 @@ Illustrator: Pe Grigo
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 128
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Cover:
 
 - >
   kater-aristoteles-wer-fragt-schon-einen-kater_annette-herzog.jpg
+
+----
+
+Books:
+
+- buecher/wer-fragt-schon-einen-kater
+
+----
+
+Isaudiobook: false
 
 ----
 

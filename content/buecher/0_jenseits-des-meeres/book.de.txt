@@ -1,0 +1,103 @@
+Title: Jenseits des Meeres
+
+----
+
+Isbn: 978-3-551-56017-9
+
+----
+
+Book-title: Jenseits des Meeres
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Jon Walter
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Martina Tichy
+
+----
+
+Participants: 
+
+----
+
+Page-count: 320
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 17,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Bürgerkrieg, Flucht, Boatpeople, Angst
+
+----
+
+Description: Ein Land im Bürgerkrieg. Eine Hafenstadt in Flammen. Nur ein einziges Schiff nimmt noch Flüchtlinge auf. Doch der Preis für die Überfahrt ist für die meisten viel zu hoch.Wie sollen Malik und sein Opa an Bord kommen? Und wird Maliks Mutter es rechtzeitig zu ihnen schaffen? Malik muss all seinen Mut zusammennehmen, damit ihm die Flucht gelingt. Sein Erfindungsreichtum, eine streunende Katze und Opas besonderer Zaubertrick sorgen dafür, dass er dabei nie die Hoffnung verliert.Ein erstaunliches und zutiefst menschliches Debüt über Krieg und Hoffnung, Flucht und Heimat - erzählt durch die Augen eines Jungen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848883651/63715/10002/-3/Buecher_Kinder--und-Jugend/Jon-Walter/Jenseits-des-Meeres
+
+----
+
+Cover:
+
+- jenseits-des-meeres_jon-walter.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201606.html

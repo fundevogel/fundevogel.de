@@ -22,6 +22,10 @@ Es ist eine bittere Hoffnung, die gerade wegen ihrer grotesken Einzigartigkeit e
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-12-03
 
 ----
@@ -74,6 +78,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Eike Schönfeld
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 32
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Büro, Ruhestand, Arbeitswelt, Diskriminierung
 Cover:
 
 - zikade_shaun-tan.jpg
+
+----
+
+Books:
+
+- buecher/zikade
+
+----
+
+Isaudiobook: false
 
 ----
 

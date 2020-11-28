@@ -11,5 +11,14 @@ return [
                 return $page;
             }
         });
-    }
+    },
+    'filterBooks' => function ($field, $value) {
+        return $this->filter(function ($page) use ($field, $value) {
+            $books = $page->books()->toPages()->filterBy($field, $value, ',');
+
+            if ($books->isNotEmpty()) {
+                return $page;
+            }
+        });
+    },
 ];

@@ -22,7 +22,17 @@ Antoine entwickelt sich zum Beispiel auch in seiner Rolle als großer Bruder wei
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-06-02
+
+----
+
+Books:
+
+- buecher/eine-schwester
 
 ----
 
@@ -47,6 +57,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/graphic-novel-ein
 ----
 
 Isaward: true
+
+----
+
+Seotitle: Eine Schwester
+
+----
+
+Seodescription: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
 
 ----
 
@@ -110,14 +128,4 @@ Topics: Coming of Age / Erwachsenwerden
 
 ----
 
-Cover:
-
-- eine-schwester_bastien-vives.jpg
-
-----
-
-Seotitle: Eine Schwester
-
-----
-
-Seodescription: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
+Cover: - eine-schwester_bastien-vives.jpg

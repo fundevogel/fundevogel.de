@@ -1,0 +1,103 @@
+Title: Ein Haufen Ärger
+
+----
+
+Isbn: 978-3-596-80479-5
+
+----
+
+Book-title: Ein Haufen Ärger
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Sabine Ludwig
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 92
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Fischer Schatzinsel Verlag
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Price: 7,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Tiere, Freundschaft
+
+----
+
+Description: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1602296/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Ludwig/Ein-Haufen-aerger
+
+----
+
+Cover:
+
+- ein-haufen-arger_sabine-ludwig.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

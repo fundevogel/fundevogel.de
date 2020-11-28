@@ -1,0 +1,103 @@
+Title: Bestimmt wird alles gut
+
+----
+
+Isbn: 978-3-95470-134-6
+
+----
+
+Book-title: Bestimmt wird alles gut
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Kirsten Boie
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Mahmoud Hassanein
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 9,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Arabisch, Flucht, Bilingual, Syrien, Bürgerkrieg
+
+----
+
+Description: Früher haben Rahaf und Hassan in der syrischen Stadt Homs gewohnt und es schön gehabt. Aber dann kamen immer öfter die Flugzeuge und man musste immerzu Angst haben. Da haben die Eltern beschlossen wegzugehen in ein anderes Land. Wie sie über Ägypten in einem viel zu kleinen Schiff nach Italien gereist sind und von dort weiter nach Deutschland - das alles hat sich Kirsten Boie von Rahaf und Hassan erzählen lassen und erzählt es uns weiter. Auch von einer schimpfenden Frau im Zug und einem freundlichen Schaffner. Und von Emma, die in der neuen Schule Rahafs Freundin wird.Wir bringen diese bewegende Geschichte zweisprachig heraus, damit viele Flüchtlingskinder sie in ihrer Sprache lesen können. Außerdem hilft ein kleiner Sprachführer im Anhang beim Deutsch- und Arabisch-Lernen. Jan Bircks Bilder begleiten den knappen Text auf eindrückliche und warmherzige Weise.. Ein schweres und brisantes Thema, eine wohltuende Geschichte, ein schönes Buch
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851200151/63715/10002/-3/Buecher_Kinder--und-Jugend/Kirsten-Boie/Bestimmt-wird-alles-gut
+
+----
+
+Cover:
+
+- bestimmt-wird-alles-gut_kirsten-boie.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201605.html

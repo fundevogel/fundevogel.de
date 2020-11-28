@@ -23,6 +23,10 @@ Alle in dem Band versammelten Geschichten befördern nicht nur inhaltlich, sonde
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-05-01
 
 ----
@@ -75,6 +79,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Christian Golusda
 
 ----
@@ -84,6 +92,10 @@ Participants:
 ----
 
 Page-count: 56
+
+----
+
+Duration: 
 
 ----
 
@@ -115,6 +127,17 @@ Cover:
 
 - >
   ein-teich-voll-mit-tinte_annie-m-g-schmidt-sieb-posthuma.jpg
+
+----
+
+Books:
+
+- >
+  buecher/ein-teich-voll-mit-tinte-reimgeschichten
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -20,6 +20,10 @@ Conclusion: Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-05-13
 
 ----
@@ -72,6 +76,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 336
+
+----
+
+Duration: 
 
 ----
 
@@ -111,6 +123,16 @@ Topics: Juden, Geschichte, Mittelalter
 Cover:
 
 - dunkles-gold_mirjam-pressler.jpg
+
+----
+
+Books:
+
+- buecher/dunkles-gold
+
+----
+
+Isaudiobook: false
 
 ----
 

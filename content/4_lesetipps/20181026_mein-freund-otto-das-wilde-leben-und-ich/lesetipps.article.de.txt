@@ -22,6 +22,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-10-26
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Barbara Jung
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 184
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,17 @@ Cover:
 
 - >
   mein-freund-otto-das-wilde-leben-und-ich_silke-lambeck.jpg
+
+----
+
+Books:
+
+- >
+  buecher/mein-freund-otto-das-wilde-leben-und-ich
+
+----
+
+Isaudiobook: false
 
 ----
 

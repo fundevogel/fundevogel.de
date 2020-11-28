@@ -1,0 +1,103 @@
+Title: Freiburg wimmelt
+
+----
+
+Isbn: 978-3-8425-2043-1
+
+----
+
+Book-title: Freiburg wimmelt
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Steph Burlefinger
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 16
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Silberburg-Verlag
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 14,90
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freiburg, Wimmelbilder
+
+----
+
+Description: Die fröhliche Landfrau Adelheid und ihre Kuh Lizzy machen einen Stadtbummel. Sie kühlen ihre Füße im Bächle und schlecken ein Eis am Augustinerplatz. Ein Museumsbesuch gehört für sie genauso zu einem Tag in Freiburg wie das Erkunden der farbenfrohen Marktstände auf dem Münsterplatz.Hundert Meter höher, auf dem Münsterturm, lebt Sepp, der Wasserspeier. Seine größte Freude ist es, den Leuten von oben auf den Kopf zu spucken. Sepp hockt auch gerne auf den Dächern des Zelt-Musik-Festes und lauscht seiner Freundin, der Akkordeonspielerin. Das Bobbele mit seiner rot-weiß gestreiften Zipfelmütze ist ein Freiburger Original. Im Winter schlendert es über den weihnachtlichen Rathausplatz und mampft gebrannte Mandeln. Im Sommer füttert es die Enten am Seepark. Außerdem streicht ein Fuchs durch die Stadt. Will er die Enten jagen oder Gänse stehlen? Nein! Dieser Fuchs ist fußballverrückt und sucht das Freiburger Schwarzwald-Stadion. Dort spielen die Fußballkinder des Füchsleclubs gegen einen auswärtigen Verein.Im wimmeligen Freiburg ist noch viel mehr los: Eine Gruppe Akrobaten zieht überall Zuschauer auf sich. Kinder, Mamas, Papas, Omas, Opas und andere Leute sind im Städtle unterwegs. Unzählige Details hat Steph Burlefinger in ihr Wimmel-Bilderbuch eingearbeitet. Kindern wie Erwachsenen macht es einen Riesenspaß, alles zu entdecken und dabei Freiburg auf neue Weise kennenzulernen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000309416/63715/10002/-3/Buecher_Bilderbuecher/Steph-Burlefinger/Freiburg-wimmelt
+
+----
+
+Cover:
+
+- freiburg-wimmelt_steph-burlefinger.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

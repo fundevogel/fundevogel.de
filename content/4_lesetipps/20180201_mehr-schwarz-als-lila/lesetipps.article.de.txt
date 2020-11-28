@@ -26,6 +26,10 @@ Aber Alex geht es nicht um Erinnerungskultur. Sie verspielt auf der Gedenkstätt
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-02-01
 
 ----
@@ -78,6 +82,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -87,6 +95,10 @@ Participants:
 ----
 
 Page-count: 256
+
+----
+
+Duration: 
 
 ----
 
@@ -117,6 +129,16 @@ Topics: Coming of Age / Erwachsenwerden, Erste Liebe, Freundschaft
 Cover:
 
 - mehr-schwarz-als-lila_lena-gorelik.jpg
+
+----
+
+Books:
+
+- buecher/mehr-schwarz-als-lila
+
+----
+
+Isaudiobook: false
 
 ----
 

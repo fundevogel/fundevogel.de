@@ -1,0 +1,103 @@
+Title: Löwen zählen
+
+----
+
+Isbn: 978-3-7725-2790-6
+
+----
+
+Book-title: Löwen zählen
+
+----
+
+Book-subtitle: Tiere der Wildnis ganz nah
+
+----
+
+Author: Katie Cotton
+
+----
+
+Illustrator: Stephen Walton
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Freies Geistesleben
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 19,90
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Tiere, Tierschutz
+
+----
+
+Description: Wer hat schon einmal einen Löwen von so Nahem gesehen? Oder gar zwei Gorillas, fünf Elefanten, acht Schildkröten, zehn Zebras? In diesem Buch ist jedes Bild - fotografisch fein in Kohle gezeichnet von Stephen Walton - ein Erlebnis, das uns zu Tieren der Wildnis wirklich in Beziehung bringt. Ihr Wesen und ihre Lebensweise vergegenwärtigt Katie Cotton in kleinen poetischen Porträts, die durch sachliche Informationen über jede Tierart ergänzt werden. Auch die Angabe des Schutzstatus fehlt dabei nicht. Denn zwar gibt es noch - was für ein Glück! - mehr als nur einen Löwen in freier Wildbahn. Aber wir Erwachsene haben allen Anlass, den Bestand der Löwen zu zählen, und erst recht den der Gorillas.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851054993/63715/10002/-3/Buecher_Kinder--und-Jugend/Katie-Cotton/Loewen-zaehlen
+
+----
+
+Cover:
+
+- loewen-zaehlen_katie-cotton.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2016
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-das-bilderbuch-loewen-zaehlen

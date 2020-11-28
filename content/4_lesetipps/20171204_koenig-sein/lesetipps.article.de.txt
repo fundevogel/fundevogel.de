@@ -25,6 +25,10 @@ Eindeutig ist dies ein Bilderbuch für Kinder ab Kindergartenalter, denn der Weg
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-12-04
 
 ----
@@ -77,6 +81,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Alexander Potyka
 
 ----
@@ -86,6 +94,10 @@ Participants:
 ----
 
 Page-count: 40
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Topics: Macht, Tiere
 Cover:
 
 - koenig-sein_mario-ramos.jpg
+
+----
+
+Books:
+
+- buecher/koenig-sein
+
+----
+
+Isaudiobook: false
 
 ----
 

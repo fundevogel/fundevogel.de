@@ -1,0 +1,108 @@
+Title: Atlas der Meerjungfrauen
+
+----
+
+Slug: atlas-der-meerjungfrauen
+
+----
+
+Isbn: 978-3-96244-115-9
+
+----
+
+Book-title: Atlas der Meerjungfrauen
+
+----
+
+Book-subtitle: Wasserwesen aus aller Welt
+
+----
+
+Author: Anna Claybourne
+
+----
+
+Illustrator: Miren Asiain Lora
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Laurence King Verlag GmbH
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Fabelwesen, Meerjungfrau, Meer, Mythologie
+
+----
+
+Description: Dieser ultimative Meerjungfrauen-Führer erzählt Ihnen und Ihren Kindern Geschichten von den geheimnisvollen Meereswesen aus der ganzen Welt. Erfahren Sie alles über die wunderschönen Selkies in den schottischen Meeren, über die in Brasilien lebende Sirene Uiara, die Reisende betört, und über die Ningyo aus Japan, die zwar ewiges Leben schenken kann, aber auch Stürme und Unglück hervorruft. Dieses wunderschöne Buch vereint sowohl Meereswesen-Fakten als auch kurze Nach-erzählungen einiger der magischsten und verführerischsten traditionellen Märchen über die Bewohner der Weltmeere. Kleine Meerjungfrauen werden begeistert sein!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002835164/63715/10002/-3/Buecher_Kinder--und-Jugend/Anna-Claybourne/Atlas-der-Meerjungfrauen/4099276460822241240/%204099276460822241224/%
+
+----
+
+Cover:
+
+- >
+  atlas-der-meerjungfrauen_anna-claybourne.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/atlas-der-meerjungfrauen-mit-lesepeter-november-ausgezeichnet

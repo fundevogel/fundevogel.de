@@ -14,7 +14,11 @@ Verdict: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung un
 
 ----
 
-Conclusion:
+Conclusion: 
+
+----
+
+Builder: 
 
 ----
 
@@ -22,7 +26,22 @@ Date: 2019-02-05
 
 ----
 
+Books:
+
+- >
+  buecher/ueber-die-berge-und-ueber-das-meer
+
+----
+
 Conclusion-wanted: false
+
+----
+
+Seotitle: Über die Berge und über das Meer
+
+----
+
+Seodescription: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung und Freiheitskampf, von Angst und Mut und Liebe. Und es ist eine Heldengeschichte. Wie viele gute Heldengeschichten ist sie ein bisschen erfunden und ein bisschen wahr. Tarek und Soraya erleben auf ihrer Flucht so viel, wie andere in ihrem ganzen Leben nicht ­- und sie schaffen mehr, als sie sich jemals vorstellen konnten.
 
 ----
 
@@ -30,15 +49,15 @@ Hasaward: false
 
 ----
 
-Award:
+Award: 
 
 ----
 
-Awardedition:
+Awardedition: 
 
 ----
 
-Leselink:
+Leselink: 
 
 ----
 
@@ -58,7 +77,7 @@ Book-title: Über die Berge und über das Meer
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -66,15 +85,15 @@ Author: Dirk Reinhardt
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -110,11 +129,3 @@ Cover:
 
 - >
   ueber-die-berge-und-ueber-das-meer_dirk-reinhardt.jpg
-
-----
-
-Seotitle: Über die Berge und über das Meer
-
-----
-
-Seodescription: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung und Freiheitskampf, von Angst und Mut und Liebe. Und es ist eine Heldengeschichte. Wie viele gute Heldengeschichten ist sie ein bisschen erfunden und ein bisschen wahr. Tarek und Soraya erleben auf ihrer Flucht so viel, wie andere in ihrem ganzen Leben nicht ­- und sie schaffen mehr, als sie sich jemals vorstellen konnten.

@@ -1,0 +1,103 @@
+Title: Die wilde Sophie
+
+----
+
+Isbn: 978-3-257-01199-9
+
+----
+
+Book-title: Die wilde Sophie
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Lukas Hartmann
+
+----
+
+Illustrator: Susann Opel-Götz
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 256
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Diogenes
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Gefahr, Schloss
+
+----
+
+Description: Damit ihm bloß nichts zustößt, umgibt König Ferdinand seinen Sohn Jan mit einem ganzen Heer von Aufpassern, vom Nebenhergeher über den Insektenjäger bis zum Kleideranwärmer und Lebertranverwalter. Kein Wunder, dass Jan ein schüchternes und blasses Kerlchen bleibt. Bis er die wilde Sophie kennenlernt, die all die Dinge tut, die ihm verboten sind, und so ganz anders lebt als er - wild und gefährlich!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000223333/63715/10002/-3/Buecher_Kinder--und-Jugend/Lukas-Hartmann/Die-wilde-Sophie
+
+----
+
+Cover:
+
+- die-wilde-sophie_lukas-hartmann.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

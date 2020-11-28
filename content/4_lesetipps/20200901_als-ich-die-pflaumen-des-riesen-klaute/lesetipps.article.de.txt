@@ -36,6 +36,13 @@ Date: 2020-09-01
 
 ----
 
+Books:
+
+- >
+  buecher/als-ich-die-pflaumen-des-riesen-klaute
+
+----
+
 Conclusion-wanted: true
 
 ----
@@ -57,6 +64,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-septemb
 ----
 
 Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -136,11 +151,3 @@ Cover:
 ----
 
 Isaudiobook: false
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

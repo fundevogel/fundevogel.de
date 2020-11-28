@@ -1,0 +1,103 @@
+Title: Zikade
+
+----
+
+Isbn: 978-3-8489-0163-0
+
+----
+
+Book-title: Zikade
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Shaun Tan
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Eike Schönfeld
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Aladin
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 17,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Büro, Ruhestand, Arbeitswelt, Diskriminierung
+
+----
+
+Description: Ein neues geniales Bilderbuch des australischen Ausnahme-Künstlers Shaun Tan für Kinder und Erwachsene.. Zikade lebt in einer sehr grauen Welt. Er ist Büroangestellter, seit siebzehn Jahren schon. Sein Arbeitsplatz: Eine Bürozelle im Großraumbüro. Seine Wohnung: Eine Nische in der Mauerritze. Nie hat er auch nur einen einzigen Fehler gemacht, er war nie auch nur einen Tag lang krank. Dennoch wird Zikade mit Verachtung behandelt und von seinen menschlichen Kollegen schikaniert. Am letzten Tag vor dem Ruhestand kein Danke, kein Abschied. Zikade steigt eine Treppe hoch zum Dach des Gebäudes. Was dann passiert, ist unglaublich: Zikade schlüpft und heraus kommt ein leuchtendes Insekt, das nach Hause in den Urwald fliegt. Der Gedanke an die Menschen löst ein nie enden wollendes Lachen aus.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001941326/63715/10002/-3/weitere-Kategorien_Humor-und-Comedy/Shaun-Tan/Zikade
+
+----
+
+Cover:
+
+- zikade_shaun-tan.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezember-fuer-bilderbuch-zikade/

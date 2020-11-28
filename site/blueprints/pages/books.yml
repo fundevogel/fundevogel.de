@@ -5,28 +5,5 @@ title:
 options: options/default
 
 tabs:
-  # Lesetipps
-  tab_articles:
-    extends: tabs/articles
-
-    columns:
-      left:
-        width: 1/1
-        sections:
-          drafts:
-            template: book
-            info: "{{ page.author }}"
-            image:
-              query: page.getCover
-
-      right: false
-
-      full:
-        sections:
-          listed:
-            status: unlisted
-            template: book
-            text: "{{ page.book_title }}"
-            info: "{{ page.author }}"
-            image:
-              query: page.getCover
+  # Books
+  tab_books: tabs/books

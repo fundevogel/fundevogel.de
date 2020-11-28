@@ -26,6 +26,10 @@ Eisbjörn ist nicht nur ein Sympathieträger, sondern er kann durchaus als Vorbi
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-04-03
 
 ----
@@ -78,6 +82,10 @@ Illustrator: Lev Kaplan
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -87,6 +95,10 @@ Participants:
 ----
 
 Page-count: 32
+
+----
+
+Duration: 
 
 ----
 
@@ -117,6 +129,16 @@ Topics: Abenteuer, Mut, Meer
 Cover:
 
 - eisbjoern_max-kaplan.jpg
+
+----
+
+Books:
+
+- buecher/eisbjoern
+
+----
+
+Isaudiobook: false
 
 ----
 

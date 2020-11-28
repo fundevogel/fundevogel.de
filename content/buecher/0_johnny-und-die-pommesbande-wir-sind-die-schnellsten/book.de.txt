@@ -1,0 +1,104 @@
+Title: Johnny und die Pommesbande - Wir sind die Schnellsten
+
+----
+
+Isbn: 978-3-7915-0026-3
+
+----
+
+Book-title: Johnny und die Pommesbande
+
+----
+
+Book-subtitle: Wir sind die Schnellsten
+
+----
+
+Author: Simone Buchholz
+
+----
+
+Illustrator: Horst Klein
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 160
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Dressler Verlag GmbH
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 12,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Krimis/Thriller
+
+----
+
+Description: Johnny wohnt am Hafen und da ist auch das Revier seiner Bande. Mit dem Pommeswagen von Kirsche und dem besten Versteck der Welt, unter der Kirche von Pfarrer Löwenbein. Aber, ist das nicht ein bisschen langweilig? Immer nur am Hafen? Vielleicht ist es Zeit für was Neues und ein echtes Abenteuer! Und eh sie sich's versehen, weht der Pommesbande ein ganz schön steife Brise um die Nase.Eine aufregende Bandengeschichte über die cleversten Spürnasen seit "Emil und die Detektive" von Krimiautorin Simone Buchholz.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000556985/63715/10002/-3/Buecher_Abenteuer/Simone-Buchholz/Johnny-und-die-Pommesbande
+
+----
+
+Cover:
+
+- >
+  johnny-und-die-pommesbande-wir-sind-die-schnellsten_simone-buchholz.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

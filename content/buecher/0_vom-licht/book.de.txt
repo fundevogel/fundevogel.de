@@ -1,0 +1,103 @@
+Title: Vom Licht
+
+----
+
+Isbn: 978-3-944035-77-2
+
+----
+
+Book-title: Vom Licht
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Anselm Neft
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 256
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Satyr Verlag
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 19,90
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Christentum, Emanzipation, Familie
+
+----
+
+Description: Aussteigerroman, radikale Reflexion und verstörende Familiengeschichte: "Vom Licht" ist eine literarische Herausforderung, die lange nachwirkt. In seinem neuen Roman gewährt Anselm Neft einen tiefen Einblick in fundamentalistisches Denken und den radikalen Kern des Christentums. Brisanter Stoff und exzellente Prosa.. Adam ist 21 und ganz allein. In der Dachkammer eines entlegenen und verwilderten Selbstversorgerhofes im österreichischen Voralpenland schreibt er über sein bisheriges Leben: das abgeschottete Landleben ohne Schulbesuch, die religiöse Heimerziehung durch seine Zieheltern und seine innig geliebte, drei Jahre ältere Stiefschwester Manda.Durch seine Notizen versucht Adam zu verstehen, was mit seiner Familie geschehen ist, wie er der wurde, der er ist, und was er tun kann, um trotzdem weiterzuleben.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852278931/63715/10002/-3/Buecher_Romane/Anselm-Neft/Vom-Licht
+
+----
+
+Cover:
+
+- vom-licht_anselm-neft.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-vom-licht-mit-lesepeter-juni-ausgezeichnet

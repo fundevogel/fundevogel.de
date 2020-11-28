@@ -1,0 +1,103 @@
+Title: Dunkles Gold
+
+----
+
+Isbn: 978-3-407-81238-4
+
+----
+
+Book-title: Dunkles Gold
+
+----
+
+Book-subtitle: Roman
+
+----
+
+Author: Mirjam Pressler
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 336
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 17,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Juden, Geschichte, Mittelalter
+
+----
+
+Description: Laura lässt das Geheimnis, das den mittelalterlichen jüdischen Schatz von Erfurt umgibt, nicht mehr los. Sie taucht ein in das Schicksal von Rachel und Joschua, die 1349 zusammen mit ihrem Vater alles zurücklassen und vor dem Pestpogrom fliehen mussten. Vielleicht ist es diese Geschichte, weshalb Laura gerade jetzt Alexej begegnet, der lieber verschweigen möchte, dass er Jude ist. Allmählich versteht Laura, in wie viele Fettnäpfchen man treten kann, wenn man sich in einen Juden verliebt, und was es heute bedeutet, jüdisch zu sein."Dunkles Gold" ist ein aufwühlender Roman von großer Wahrhaftigkeit über jüdische Identität und Antisemitismus, Liebe und Hoffnung, von einer großen Erzählerin.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626288/63715/10002/-3/Buecher_Kinder--und-Jugend/Mirjam-Pressler/Dunkles-Gold
+
+----
+
+Cover:
+
+- dunkles-gold_mirjam-pressler.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

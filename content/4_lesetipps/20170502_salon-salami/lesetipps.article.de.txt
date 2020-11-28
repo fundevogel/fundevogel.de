@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-05-02
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Barbara Jung
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 160
+
+----
+
+Duration: 
 
 ----
 
@@ -109,6 +121,16 @@ Topics: Abenteuer, Familie
 Cover:
 
 - salon-salami_benjamin-tienti.jpg
+
+----
+
+Books:
+
+- buecher/salon-salami
+
+----
+
+Isaudiobook: false
 
 ----
 

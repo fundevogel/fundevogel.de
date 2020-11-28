@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-10-12
 
 ----
@@ -70,6 +74,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 240
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,16 @@ Cover:
 
 - >
   songe-a-la-douceur_clementine-beauvais.jpg
+
+----
+
+Books:
+
+- buecher/songe-a-la-douceur
+
+----
+
+Isaudiobook: false
 
 ----
 

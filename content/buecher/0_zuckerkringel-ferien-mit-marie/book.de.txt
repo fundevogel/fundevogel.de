@@ -1,0 +1,104 @@
+Title: Zuckerkringel-Ferien mit Marie
+
+----
+
+Isbn: 978-3-423-76174-1
+
+----
+
+Book-title: Zuckerkringel-Ferien mit Marie
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Beate Dölling & Didier Laget
+
+----
+
+Illustrator: Joëlle Tourlonias
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 160
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 10,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Erste Liebe, Ferien, Abenteuer, Meer
+
+----
+
+Description: Frankreich, Ferien, der erste Tag am Meer ... Als die 10-jährige Französin Marie vor ihm steht, trifft es den gleichaltrigen Max mitten ins Herz.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853500835/63715/10002/-3/Buecher_Kinder--und-Jugend/Beate-Doelling/Zuckerkringel-Ferien-mit-Marie
+
+----
+
+Cover:
+
+- >
+  zuckerkringel-ferien-mit-marie_beate-doelling-didier-laget.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

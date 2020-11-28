@@ -20,6 +20,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-04-18
 
 ----
@@ -72,6 +76,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -81,6 +89,10 @@ Participants: Maximilian Meinzold
 ----
 
 Page-count: 304
+
+----
+
+Duration: 
 
 ----
 
@@ -112,6 +124,16 @@ Cover:
 
 - >
   maggie-und-die-stadt-der-diebe_patrick-hertweck.jpg
+
+----
+
+Books:
+
+- buecher/maggie-und-die-stadt-der-diebe
+
+----
+
+Isaudiobook: false
 
 ----
 

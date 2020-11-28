@@ -14,6 +14,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-01-12
 
 ----
@@ -66,6 +70,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -75,6 +83,10 @@ Participants:
 ----
 
 Page-count: 208
+
+----
+
+Duration: 
 
 ----
 
@@ -106,6 +118,17 @@ Cover:
 
 - >
   die-muskeltiere-einer-fuer-alle-alle-fuer-einen_ute-krause.jpg
+
+----
+
+Books:
+
+- >
+  buecher/die-muskeltiere-einer-fuer-alle-alle-fuer-einen
+
+----
+
+Isaudiobook: false
 
 ----
 

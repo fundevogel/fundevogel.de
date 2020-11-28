@@ -18,6 +18,10 @@ Conclusion: Noch dazu gehen merkwürdige Dinge vor sich: In die Werkstatt von Ad
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-09-07
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Almud Kunert
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 153
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   die-zeitdetektive-das-wunder-von-bern_fabian-lenk.jpg
+
+----
+
+Books:
+
+- >
+  buecher/die-zeitdetektive-das-wunder-von-bern
+
+----
+
+Isaudiobook: false
 
 ----
 

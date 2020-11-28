@@ -23,6 +23,10 @@ Die Graphic Novel eignet sich zur Unterhaltung ebenso wie für den Literaturunte
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-05-02
 
 ----
@@ -75,6 +79,10 @@ Illustrator: Rasmus Bregnhøi
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Franziska Gehm
 
 ----
@@ -84,6 +92,10 @@ Participants:
 ----
 
 Page-count: 104
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,17 @@ Topics: Erste Liebe, Freundschaft
 Cover:
 
 - mira_sabine-lemire.jpg
+
+----
+
+Books:
+
+- >
+  buecher/mira-freunde-verliebt-ein-jahr-meines-lebens
+
+----
+
+Isaudiobook: false
 
 ----
 

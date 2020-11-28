@@ -24,6 +24,10 @@ Die intertextuellen Bezüge zu Lewis Carrolls "Alice im Wunderland" sind nicht n
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-10-11
 
 ----
@@ -76,6 +80,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 208
+
+----
+
+Duration: 
 
 ----
 
@@ -115,6 +127,16 @@ Topics: Gewalt an Frauen, Coming of Age / Erwachsenwerden
 Cover:
 
 - hinter-glas_julya-rabinowich.jpg
+
+----
+
+Books:
+
+- buecher/hinter-glas
+
+----
+
+Isaudiobook: false
 
 ----
 

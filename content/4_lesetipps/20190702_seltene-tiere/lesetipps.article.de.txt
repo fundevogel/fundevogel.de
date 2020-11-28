@@ -23,6 +23,10 @@ Der Autor Martin Jenkins versteht auf besondere Weise Fakten in historische Hint
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-07-02
 
 ----
@@ -75,6 +79,10 @@ Illustrator: Tom Frost
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Ebi Naumann
 
 ----
@@ -84,6 +92,10 @@ Participants:
 ----
 
 Page-count: 64
+
+----
+
+Duration: 
 
 ----
 
@@ -114,6 +126,16 @@ Topics: Tiere, Tierschutz, Bedrohte Arten
 Cover:
 
 - seltene-tiere_martin-jenkins.jpg
+
+----
+
+Books:
+
+- buecher/seltene-tiere
+
+----
+
+Isaudiobook: false
 
 ----
 

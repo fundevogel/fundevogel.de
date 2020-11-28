@@ -1,0 +1,104 @@
+Title: Artus - König auf Camelot
+
+----
+
+Isbn: 978-3-8369-5613-0
+
+----
+
+Book-title: Artus
+
+----
+
+Book-subtitle: König auf Camelot
+
+----
+
+Author: Ilka Sokolowski
+
+----
+
+Illustrator: Helmut Dohle
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 64
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 16,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Artussage
+
+----
+
+Description: Wie ein Lauffeuer verbreitet sich die Nachricht, dass ein Stein mit einem riesigen Schwert darin in der Nähe des Turnierplatzes aufgetaucht ist. Die Inschrift darauf verheißt einen neuen König für Britannien. Als ausgerechnet der fünfzehnjährige Artus das Schwert aus dem Stein ziehen kann, ist die Enttäuschung groß: Wie soll ein Kind das zerstrittene Land vereinen? Aber Artus beweist schon bald, dass es seine Bestimmung ist, Britanniens König zu sein, und mit Hilfe des Zauberers Merlin stellt er sich allen Widrigkeiten entgegen. Die unsterbliche Geschichte um Liebe und Verrat, Intrigen und Macht und die Suche nach dem Heiligen Gral packend nacherzählt und fantastisch illustriert.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001646940/63715/10002/-3/Buecher_Kinder--und-Jugend/Ilka-Sokolowski/Artus
+
+----
+
+Cover:
+
+- >
+  artus-koenig-auf-camelot_ilka-sokolowski.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

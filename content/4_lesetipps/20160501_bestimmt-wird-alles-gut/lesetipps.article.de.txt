@@ -30,6 +30,10 @@ Das Buch ist für Kinder ab einem Alter von 6 Jahren und insbesondere im Grundsc
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-05-01
 
 ----
@@ -82,6 +86,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Mahmoud Hassanein
 
 ----
@@ -91,6 +99,10 @@ Participants:
 ----
 
 Page-count: 48
+
+----
+
+Duration: 
 
 ----
 
@@ -121,6 +133,16 @@ Topics: Arabisch, Flucht, Bilingual, Syrien, Bürgerkrieg
 Cover:
 
 - bestimmt-wird-alles-gut_kirsten-boie.jpg
+
+----
+
+Books:
+
+- buecher/bestimmt-wird-alles-gut
+
+----
+
+Isaudiobook: false
 
 ----
 

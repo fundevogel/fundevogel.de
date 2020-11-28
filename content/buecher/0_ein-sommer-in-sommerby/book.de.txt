@@ -1,0 +1,103 @@
+Title: Ein Sommer in Sommerby
+
+----
+
+Isbn: 978-3-7891-0883-9
+
+----
+
+Book-title: Ein Sommer in Sommerby
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Kirsten Boie
+
+----
+
+Illustrator: Verena Körting
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 320
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 14,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Ferien, Sommer
+
+----
+
+Description: Mit Kirsten Boie aufs Land und mitten hinein ins Abenteuer: Die zwölfjährige Martha und ihre jüngeren Brüder Mats und Mikkel müssen die Ferien bei ihrer Oma auf dem Land verbringen. Und diese Oma ist ein bisschen seltsam: Sie wohnt allein in einem abgelegenen Haus, verkauft selbstgemachte Marmelade, hat kein Telefon und erst recht kein Internet. Aber Hühner, ein Motorboot und ein Gewehr, mit dem sie ungebetene Gäste verjagt. Als die Idylle bedroht wird, halten die Stadtkinder und ihre Oma zusammen und erkennen, worauf es im Leben wirklich ankommt.Kirsten Boies neue, warmherzige Geschichte über Freundschaft und Miteinander ist ein Plädoyer für mehr Achtsamkeit im Umgang mit der Natur.www.sommerby.de
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000000556998/63715/10002/-3/Buecher_Abenteuer/Kirsten-Boie/Ein-Sommer-in-Sommerby
+
+----
+
+Cover:
+
+- ein-sommer-in-sommerby_kirsten-boie.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

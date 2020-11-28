@@ -14,6 +14,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-07-26
 
 ----
@@ -66,6 +70,10 @@ Illustrator: Horst Klein
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -75,6 +83,10 @@ Participants:
 ----
 
 Page-count: 160
+
+----
+
+Duration: 
 
 ----
 
@@ -106,6 +118,17 @@ Cover:
 
 - >
   johnny-und-die-pommesbande-wir-sind-die-schnellsten_simone-buchholz.jpg
+
+----
+
+Books:
+
+- >
+  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten
+
+----
+
+Isaudiobook: false
 
 ----
 

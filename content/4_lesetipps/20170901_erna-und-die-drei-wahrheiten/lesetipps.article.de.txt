@@ -24,6 +24,10 @@ Ernas Leidenschaft für besondere Wörter inspiriert, sich mit unbekannten Worte
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-09-01
 
 ----
@@ -76,6 +80,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -85,6 +93,10 @@ Participants:
 ----
 
 Page-count: 240
+
+----
+
+Duration: 
 
 ----
 
@@ -116,6 +128,16 @@ Cover:
 
 - >
   erna-und-die-drei-wahrheiten_anke-stelling.jpg
+
+----
+
+Books:
+
+- buecher/erna-und-die-drei-wahrheiten
+
+----
+
+Isaudiobook: false
 
 ----
 

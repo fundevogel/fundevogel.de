@@ -1,0 +1,104 @@
+Title: 101 Dinge, die du tun musst, bevor du erwachsen bist
+
+----
+
+Isbn: 978-3-7373-7170-4
+
+----
+
+Book-title: 101 Dinge, die du tun musst, bevor du erwachsen bist
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Laura Dower
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Cordula Borawski
+
+----
+
+Participants: 
+
+----
+
+Page-count: 144
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Fischer Meyers
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 9,99
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Rezepte, Experimente, Basteln
+
+----
+
+Description: 101 kreative Ideen zum Basteln, Knobeln, Üben und Ausprobieren. In diesem Buch stecken viele originelle Aktivitäten, die richtig Spaß machen: Eiscreme in 10 Minuten herstellen, einen eigenen Superhelden erfinden, clever lernen, das Wetter vorherzusagen und weitere 98 herausfordernde Ideen. Auf jeder Seite kann der Alltagsheld ein Kästchen zu dem bestandenen Abenteuer abhaken und mit dem Datum versehen. Eine kunterbunte Mischung aus Animation, Kreativität, Wissen - garantiert gut gegen Langeweile!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848897290/63715/10002/-3/Buecher_Sachbuecher/Laura-Dower/101-Dinge-die-du-tun-musst-bevor-du-erwachsen-bist
+
+----
+
+Cover:
+
+- >
+  dinge-die-du-tun-musst-bevor-du-erwachsen-bist_laura-dower.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

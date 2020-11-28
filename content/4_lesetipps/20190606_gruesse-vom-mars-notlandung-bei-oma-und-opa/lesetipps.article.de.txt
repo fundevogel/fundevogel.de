@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-06-06
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Teresa Holtmann
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 176
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   gruesse-vom-mars-notlandung-bei-oma-und-opa_thomas-moeller-sebastian-grusnick.jpg
+
+----
+
+Books:
+
+- >
+  buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa
+
+----
+
+Isaudiobook: false
 
 ----
 

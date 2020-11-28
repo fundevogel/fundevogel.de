@@ -18,7 +18,17 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-01-07
+
+----
+
+Books:
+
+- buecher/klimahelden
 
 ----
 
@@ -43,6 +53,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Klimahelden
+
+----
+
+Seodescription: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
 
 ----
 
@@ -106,14 +124,4 @@ Topics: Umweltschutz, Klimawandel
 
 ----
 
-Cover:
-
-- klimahelden_hanna-schott.jpg
-
-----
-
-Seotitle: Klimahelden
-
-----
-
-Seodescription: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
+Cover: - klimahelden_hanna-schott.jpg

@@ -1,0 +1,104 @@
+Title: Unter meinen Füßen
+
+----
+
+Isbn: 978-3-7913-7340-9
+
+----
+
+Book-title: Unter meinen Füßen
+
+----
+
+Book-subtitle: Die Reise zum Mittelpunkt der Erde
+
+----
+
+Author: Charlotte Guillain
+
+----
+
+Illustrator: Yuval Zommer
+
+----
+
+Narrator: 
+
+----
+
+Translator: Ute Löwenberg
+
+----
+
+Participants: 
+
+----
+
+Page-count: 22
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Prestel
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Erde, Geologie
+
+----
+
+Description: Das Mega-Leporello-Wendebilderbuch mit 2,5 Metern Spannweite.. Komm mit auf eine Reise durch die Schichten der Erde zum Erdmittelpunkt und wieder zurück an die Oberfläche! Du wirst unterwegs die erstaunlichsten und interessantesten Dinge sehen! Dieses fast endlose Leporellobilderbuch lenkt den Blick auf das, worüber wir meist achtlos laufen: den Boden unter unseren Füßen. Was ist eigentlich unter der Oberfläche unserer Straßen, Wiesen und Felder? Wasserrohre, Kabelschächte, Abwasserröhren, Humusschichten mit vielen Insekten, Flussläufe ... Tiefer und tiefer geht es hinein in die Unterwelt durch Gesteine, Mineralien und Magma bis zum glutheißen Erdkern - und wieder zurück. Von der Deutschen Akademie für Kinder- und Jugendliteratur empfohlen als Umwelttipp des Monats September 2018. Leipziger Lesekompass 2019 in der Kategorie 6 bis 10 Jahre..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000661351/63715/10002/-3/Buecher_Sachbuecher/Charlotte-Guillain/Unter-meinen-Fuessen
+
+----
+
+Cover:
+
+- >
+  unter-meinen-fuessen_charlotte-guillain.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-november-fuer-unter-meinen-fuessen

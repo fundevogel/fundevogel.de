@@ -1,0 +1,103 @@
+Title: Esperanza
+
+----
+
+Isbn: 978-3-8369-5990-2
+
+----
+
+Book-title: Esperanza
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Jakob Wegelius
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Gabriele Haefs
+
+----
+
+Participants: 
+
+----
+
+Page-count: 144
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: Halidon ist Akrobat. Er radelt auf einem Einrad und jongliert mit silbernen Bällen. Nachmittags tritt er auf dem Rathausplatz auf und abends trifft er seinen Freund, den Kapitän. Doch eines Tages ist der Kapitän nicht zu Hause. Wenn er nun ohne Halidon mit einem Schiff - vielleicht der Esperanza - in warme Länder gesegelt ist? Davon hatte er oft geträumt und gesagt: "Wir müssen etwas aus unseren Träumen machen."Halidon macht sich auf die Suche. Unterwegs begegnet er einem kleinen Hund, der ihm überallhin folgt. Am Ende der Nacht finden sie den Kapitän und der kleine Hund bekommt nicht nur ein neues Zuhause, sondern auch einen Namen: Esperanza. Die Geschichte einer besonderen Freundschaft - warm, poetisch und traurigschön.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000127166/63715/10002/-3/Buecher_Kinder--und-Jugend/Jakob-Wegelius/Esperanza
+
+----
+
+Cover:
+
+- esperanza_jakob-wegelius.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

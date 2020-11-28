@@ -1,0 +1,104 @@
+Title: Hartgekochte Fakten über Eier
+
+----
+
+Isbn: 978-3-8489-0168-5
+
+----
+
+Book-title: Hartgekochte Fakten über Eier
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Lena Sjöberg
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Gesa Kunter
+
+----
+
+Participants: 
+
+----
+
+Page-count: 48
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Aladin
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Ostern, Experimente, Tiere, Rezepte, Basteln, Eier
+
+----
+
+Description: Alles, was du schon immer über das Ei wissen wolltest: Ein künstlerisches Sachbilderbuch im angesagten Retro-Stil. Für Kleine und Große ab 5 Jahren.. Ist es wahr, dass Forscher Eier im Weltraum entdeckt haben und dass es Tiere gibt, die eckige Eier legen? Wie lange hat es gedauert, bis ein Dinosaurier-Junges aus dem Ei geschlüpft ist und wie kommt es, dass das Ei an Ostern so eine große Rolle spielt?. Nicht nur zu Ostern eine tolle Geschenkidee!
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002486348/63715/10002/-3/Buecher_Kinder--und-Jugend/Lena-Sjoeberg/Hartgekochte-Fakten-ueber-Eier
+
+----
+
+Cover:
+
+- >
+  hartgekochte-fakten-ueber-eier_lena-sjoeberg.jpg
+
+----
+
+Categories: Sachbuch, Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/sachbuch-hartgekochte-fakten-ueber-eier-ausgezeichnet

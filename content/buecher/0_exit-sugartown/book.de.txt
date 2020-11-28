@@ -1,0 +1,103 @@
+Title: Exit Sugartown
+
+----
+
+Isbn: 978-3-7915-0007-2
+
+----
+
+Book-title: Exit Sugartown
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Martin Petersen
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Friederike Buchinger
+
+----
+
+Participants: 
+
+----
+
+Page-count: 288
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Dressler Verlag GmbH
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 14,99
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Schlepper, Flucht
+
+----
+
+Description: Eine Geschichte, wie sie jeden Tag auf der ganzen Welt geschieht: Die 17-jährige Dawn wächst mit ihren Eltern und ihrem jüngeren Bruder Charlie in Sugartown auf. Ihr Vater findet immer seltener Arbeit, kommt dafür immer öfter betrunken nach Hause. Ihre Mutter näht zum minimalen Lohn. Als Dawn 16 ist, stirbt ihre Mutter. Doch schliesslich muss auch ihr kleiner Bruder den Schulbesuch gegen die Arbeit in einer Ziegelei intauschen. Da lernt sie zwei junge Männer kennen, die von den guten Verdienstchancen der "Weissen Welt" erzählen. Dawn trifft einen schicksalsschweren Entschluss. Um ihrer Familie, allen voran Charlie, zu helfen, lässt sie sich auf eine Schlepperbande ein: der Anfang einer gnadenlosen Flucht."Exit Sugartown" von Martin Petersen ist ein Buch, das uns alle betrifft.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851364875/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Martin-Petersen/Exit-Sugartown
+
+----
+
+Cover:
+
+- exit-sugartown_martin-petersen.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: Heinrich-Wolgast-Preis
+
+----
+
+Awardedition: 2017
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-preis-fuer-exit-sugartown

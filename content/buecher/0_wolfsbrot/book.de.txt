@@ -1,0 +1,103 @@
+Title: Wolfsbrot
+
+----
+
+Isbn: 978-3-942795-52-4
+
+----
+
+Book-title: Wolfsbrot
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Kilian Leypold
+
+----
+
+Illustrator: Ulrike Möltgen
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Kunstanstifter Verlag
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 24,00
+
+----
+
+Binding: Leinen
+
+----
+
+Topics: Angst
+
+----
+
+Description: Noch vor Anbruch der Morgendämmerung muss er sich auf den weiten Weg in die Schule machen. Es ist ein bitterkalter Nachkriegswinter, und der Wald liegt dunkel und bedrohlich vor ihm. Wie gut, dass ihm seine Mutter - zum Trost und trotz aller Entbehrungen - eine köstliche Wegzehrung eingepackt hat.. Unterwegs trifft er auf zwei unheimliche Gestalten, die unterschiedlicher kaum sein könnten, in ihrer Versehrtheit einander jedoch ähneln. Was führen sie im Schilde? Kann er ihnen entkommen? Fasziniert und verängstigt zugleich, tut er instinktiv genau das Richtige, um seine Haut zu retten. Mehr noch, er handelt zutiefst menschlich - und wächst dabei über sich selbst hinaus.. Mit einem feinen Gespür für kindliche Gefühlswelten zeigen Ulrike Möltgen und Kilian Leypold, wie Phantasie und Realität ineinanderfließen, wenn es darum geht, den eigenen Ängsten zu begegnen.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853934953/63715/10002/-3/Buecher_Bilderbuecher/Kilian-Leypold/Wolfsbrot
+
+----
+
+Cover:
+
+- wolfsbrot_kilian-leypold.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201708.html

@@ -30,7 +30,17 @@ Angie Thomas bezeichnet ihren Roman als einen Liebesbrief an alle schwarzen Mäd
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-02-03
+
+----
+
+Books:
+
+- buecher/on-the-come-up
 
 ----
 
@@ -55,6 +65,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-on-the
 ----
 
 Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -118,14 +136,4 @@ Topics: Jugendkultur, HipHop / Rap, Gerechtigkeit, Diskriminierung
 
 ----
 
-Cover:
-
-- on-the-come-up_angie-thomas.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
+Cover: - on-the-come-up_angie-thomas.jpg

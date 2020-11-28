@@ -26,6 +26,13 @@ Date: 2020-10-02
 
 ----
 
+Books:
+
+- >
+  buecher/ozeane-die-wunderbare-welt-der-meere
+
+----
+
 Conclusion-wanted: false
 
 ----
@@ -47,6 +54,21 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Ozeane - Die wunderbare Welt der Meere
+
+----
+
+Seodescription:
+
+Wusstest du, dass es ganz tief auf Meeresgrund „rauchende Riesen“ gibt, vulkanartige Schlote, in denen Riesenwürmer und Seespinnen leben? Oder dass in der Tiefsee lebende Quallen, wenn sie auf Nahrungssuche sind, auf den Leuchtorganen ihrer unzähligen, giftigen Tentakeln ein wahres Feuerwerk entzünden? Wie tarnt sich ein Vampirtintenfisch? Und wie genau hängt Ebbe und Flut eigentlich mit dem Mond zusammen?
+
+Das Sachbuch im wunderschönen Großformat zeigt uns die faszinierende Welt der Meere und erklärt auf anschauliche Art und Weise allerlei Wissenswertes: Von der Entstehung einer Welle, dem Kreislauf des Wasser bis zum Leben in den Korallenriffen. Das Besondere an dem Buch ist aber, dass sich neben den informativen Texten zahlreiche Klappen, filigrane Scherenschnitte, bunte Illustrationen und aufklappbare Seiten zum dahinter Schauen und Entdecken befinden. So wird das Lesen und Durchblättern zu einem richtigen Erlebnis!
+
+Für Kinder ab 8 Jahren und für all diejenigen, die in die wunderbare Welt des Ozeans abtauchen wollen.
+Gerstenberg Verlag
 
 ----
 
@@ -118,25 +140,8 @@ Topics: Meer
 
 ----
 
-Cover:
-
-- ozeane_emmanuelle-grundmann.jpg
+Cover: - ozeane_emmanuelle-grundmann.jpg
 
 ----
 
 Isaudiobook: false
-
-----
-
-Seotitle: Ozeane - Die wunderbare Welt der Meere
-
-----
-
-Seodescription:
-
-Wusstest du, dass es ganz tief auf Meeresgrund „rauchende Riesen“ gibt, vulkanartige Schlote, in denen Riesenwürmer und Seespinnen leben? Oder dass in der Tiefsee lebende Quallen, wenn sie auf Nahrungssuche sind, auf den Leuchtorganen ihrer unzähligen, giftigen Tentakeln ein wahres Feuerwerk entzünden? Wie tarnt sich ein Vampirtintenfisch? Und wie genau hängt Ebbe und Flut eigentlich mit dem Mond zusammen?
-
-Das Sachbuch im wunderschönen Großformat zeigt uns die faszinierende Welt der Meere und erklärt auf anschauliche Art und Weise allerlei Wissenswertes: Von der Entstehung einer Welle, dem Kreislauf des Wasser bis zum Leben in den Korallenriffen. Das Besondere an dem Buch ist aber, dass sich neben den informativen Texten zahlreiche Klappen, filigrane Scherenschnitte, bunte Illustrationen und aufklappbare Seiten zum dahinter Schauen und Entdecken befinden. So wird das Lesen und Durchblättern zu einem richtigen Erlebnis!
-
-Für Kinder ab 8 Jahren und für all diejenigen, die in die wunderbare Welt des Ozeans abtauchen wollen.
-Gerstenberg Verlag

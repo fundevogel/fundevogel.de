@@ -1,0 +1,103 @@
+Title: Der Marienkäfer
+
+----
+
+Isbn: 978-3-407-82156-0
+
+----
+
+Book-title: Der Marienkäfer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Bernadette Gervais
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Tobias Scheffel
+
+----
+
+Participants: 
+
+----
+
+Page-count: 24
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Marienkäfer, Ausklappbar
+
+----
+
+Description: Wie durch eine Lupe geschaut, bringt Bernadette Gervais ein kleines Insekt ganz groß heraus - den Marienkäfer! Was sonst im Verborgenen liegt, machen die Klappen begreifbar: die zarten Flügel unter dem Marienkäferpanzer, die Eier an den Blattunterseiten, die Überwinterung am Baumstamm, zwischen Holz und Rinde. Durch die klaren Formen, warmen Farben und einfachen Texte werden schon ganz kleine Kinder dazu eingeladen, die Wunder der Natur zu entdecken.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853480035/63715/10002/-3/Buecher_Bilderbuecher/Bernadette-Gervais/Der-Marienkaefer
+
+----
+
+Cover:
+
+- der-marienkaefer_bernadette-gervais.jpg
+
+----
+
+Categories: Sachbuch, Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201707.html

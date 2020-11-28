@@ -14,6 +14,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-12-01
 
 ----
@@ -66,6 +70,10 @@ Illustrator: Barbara Scholz
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -75,6 +83,10 @@ Participants:
 ----
 
 Page-count: 272
+
+----
+
+Duration: 
 
 ----
 
@@ -106,6 +118,17 @@ Cover:
 
 - >
   13-weihnachtstrolle-machen-aerger_sabine-staeding.jpg
+
+----
+
+Books:
+
+- >
+  buecher/13-weihnachtstrolle-machen-aerger
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -1,5 +1,7 @@
 <?php
 
+use Biblys\Isbn\Isbn;
+
 return [
     'loadBook' => function ($page, $data) {
         if ($page === null) {
@@ -7,7 +9,19 @@ return [
         }
 
         # API call
-        $isbn = $page->isbn()->value();
+        $isbn = new Isbn($page->isbn()->value());
+
+        try {
+            $isbn->validate();
+            $isbn = $isbn->format("ISBN-13");
+        } catch(\Exception $e) {
+            return [
+                'status' => 404,
+                'label' => 'Ungültige ISBN!',
+                'reload' => false,
+            ];
+        }
+
         $data = loadBook($isbn);
 
         $dataArray = [
@@ -30,12 +44,12 @@ return [
             $dataArray['isAudiobook'] = true;
         }
 
-        $page->updateBook($dataArray);
+        $success = $page->updateBook($dataArray);
 
         return [
-            'status' => 200,
-            'label' => 'Update erfolgreich!',
-            'reload' => true,
+            'status' => $success ? 200 : 404,
+            'label' => $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
+            'reload' => $success,
         ];
     },
     'downloadCover' => function ($page, $data) {
@@ -56,7 +70,7 @@ return [
             return [
                 'status' => $download ? 200 : 404,
                 'label' => $download ? 'Download erfolgreich!' : 'Download fehlgeschlagen',
-                'reload' => $download ? true : false,
+                'reload' => $download,
             ];
         }
 
@@ -69,20 +83,20 @@ return [
             ]);
 
             $page->update([
-                'cover' => $fileName . '.jpg',
+                'cover' => Data::encode($fileName . '.jpg', 'yaml'),
             ]);
+
+            return [
+                'status' => 200,
+                'label' => 'Update erfolgreich!',
+                'reload' => true,
+            ];
         } catch (Exception $e) {
             return [
                 'status' => 404,
                 'label' => 'Mistikus totalus!',
             ];
         }
-
-        return [
-            'status' => 200,
-            'label' => 'Update erfolgreich!',
-            'reload' => true,
-        ];
     },
     'createMetadata' => function ($page, $data) {
         # Check if PDF file exists

@@ -1,0 +1,104 @@
+Title: Der Katze ist es ganz egal
+
+----
+
+Isbn: 978-3-95470-231-2
+
+----
+
+Book-title: Der Katze ist es ganz egal
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Franz Orghandl
+
+----
+
+Illustrator: Theresa Strozyk
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 104
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 13,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Freundschaft, Transsexualität
+
+----
+
+Description: "Ich bin nicht anders als früher, außer, dass ich einer Verwechslung auf die Spur gekommen bin.". Leo hat einen schönen neuen Namen: Jennifer. Woher sie ihren echten Namen kennt, weiß Jennifer selbst nicht. Aber sie ist sehr froh, eines Tages endlich mit ihm aufgewacht zu sein. Wie mit etwas, mit dem man besser atmen kann.Nur die Erwachsenen kapieren es erst mal nicht. Die glauben tatsächlich immer noch, sie wäre Leo, ein Bub. So ein Unsinn, finden der dicke Gabriel, Anne und Stella. Als weltbeste Freunde und treue Begleiterinnen beim Kaugummikauen, Schuleschwänzen, Kleiderprobieren und Sichselbstfinden sehen sie das Ganze nämlich genau wie die Katze. Die ist weder froh noch traurig über Leos neuen Namen. Er ist ihr ganz egal.Herzhaft und in heiterem Ton, gar nicht als Problemgeschichte, erzählt die Wiener Autorin Franz Orghandl vom Transgender-Kind Jennifer. Das Thema begegnet Kindern heute immer öfter in ihrem Umfeld. Jennifers Erfahrungen damit machen klar, was im Leben wirklich zählt.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002483930/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Orghandl/Der-Katze-ist-es-ganz-egal
+
+----
+
+Cover:
+
+- >
+  der-katze-ist-es-ganz-egal_franz-orghandl.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

@@ -1,0 +1,104 @@
+Title: Die magische Zahnspange
+
+----
+
+Isbn: 978-3-257-01236-1
+
+----
+
+Book-title: Die magische Zahnspange
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Lukas Hartmann
+
+----
+
+Illustrator: Julia Dürr
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 240
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Diogenes
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Magie, Zahnspangen
+
+----
+
+Description: Wer wünschte sich nicht, endlich gut in der Schule zu sein? Zu wissen, wie die Hauptstadt von Madagaskar heißt, wie viel Kilo ein Flusspferd auf die Waage bringt und wie viel Gramm ein Regenwurm. Ein bisschen merkwürdig ist es allerdings schon, dass der schüchterne Tobi plötzlich alle Antworten kennt, seit er eine Zahnspange trägt. Die Mitschüler, erst baff vor Bewunderung, werden misstrauisch, und auch Tobi ist das Ganze allmählich unheimlich.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001002694/63715/10002/-3/Buecher_Abenteuer/Lukas-Hartmann/Die-magische-Zahnspange
+
+----
+
+Cover:
+
+- >
+  die-magische-zahnspange_lukas-hartmann.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

@@ -1,0 +1,103 @@
+Title: Stadt am Meer
+
+----
+
+Isbn: 978-3-8489-0144-9
+
+----
+
+Book-title: Stadt am Meer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Joanne Schwartz
+
+----
+
+Illustrator: Sydney Smith
+
+----
+
+Narrator: 
+
+----
+
+Translator: Bernadette Ott
+
+----
+
+Participants: 
+
+----
+
+Page-count: 52
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Aladin
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 18,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Leben, Meer
+
+----
+
+Description: ?Ein Junge wird vom Rauschen der Wellen geweckt, er tobt durch Wiesen und Felder und kehrt bei Anbruch der Dämmerung zum Abendbrot nach Hause zurück. Und während das Leben an der Küste seinen sonnigen Lauf nimmt, schuftet der Vater des Jungen tief unter dem Meer in der Dunkelheit der Kohleminen.Sydney Smiths atemberaubende Bilder voller Licht und Joanne Schwartz' sanfte Worte öffnen unsere Augen für Lebenswege, die ganze Landstriche überall auf der Welt geprägt haben.?
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000673990/63715/10002/-3/Buecher_Bilderbuecher/Joanne-Schwartz/Stadt-am-Meer
+
+----
+
+Cover:
+
+- stadt-am-meer_joanne-schwartz.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/stadt-am-meer-bekommt-lesepeter-august

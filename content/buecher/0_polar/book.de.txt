@@ -1,0 +1,103 @@
+Title: Polar
+
+----
+
+Isbn: 978-3-7373-5433-2
+
+----
+
+Book-title: Polar
+
+----
+
+Book-subtitle: Ein Photicular Buch
+
+----
+
+Author: Dan Kainen & Carol Kaufmann
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Cornelia Panzacchi
+
+----
+
+Participants: 
+
+----
+
+Page-count: 32
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Price: 24,99
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Nordpol, Tiere
+
+----
+
+Description: ERLEBE DIE POLARGEBIETE UND IHRE TIERE ZUM GREIFEN NAH!Ein neues magisches Buch für die ganze Familie!. Pinguin, Eisbär, Walross, Schnee-Eule, Husky, Belugawal, Rentier und sogar ein Nordlicht werden lebendig und bewegen sich so naturgetreu, als würde man selbst vor ihnen stehen. Für den Photicular®-Effekt werden Folien in die Buchseiten integriert, die auf Basis von originalen Vierfarbfilmen hergestellt wurden. So bewegen sich die Tiere der Polarwelt auf jeder Seite, als würde man einen (2D-)Film sehen. Das Resultat ist atemberaubend!. Acht Bewegtbilder nehmen den Betrachter mit auf eine Reise ins ewige Eis - in Antarktis und Arktis.. Atemberaubend und bestechend klar wie ein Tag in der Arktis ist POLAR ein engagiertes Plädoyer für den Schutz der Pole und seiner Tierwelt. POLAR - kein Buch wie jedes andere.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851966301/63715/10002/-3/Buecher_Sachbuecher/Dan-Kainen/Polar
+
+----
+
+Cover:
+
+- polar_dan-kainen-carol-kaufmann.jpg
+
+----
+
+Categories: Sachbuch, Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: März 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201703.html

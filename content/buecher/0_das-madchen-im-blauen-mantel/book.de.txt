@@ -1,0 +1,104 @@
+Title: Das Mädchen im blauen Mantel
+
+----
+
+Isbn: 978-3-570-16532-4
+
+----
+
+Book-title: Das Mädchen im blauen Mantel
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Monica Hesse
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Cornelia Stoll
+
+----
+
+Participants: 
+
+----
+
+Page-count: 379
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Price: 16,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Amsterdam, Geschichte, Erste Liebe, Juden, Nationalsozialismus
+
+----
+
+Description: Schuld und Verrat, Mut und Widerstand. Amsterdam ist von den Nazis besetzt. Hanneke verbringt ihre Tage damit, Schwarzmarktgüter zu beschaffen, ihre Abende damit, ihren besorgten Eltern genau das zu verheimlichen, und jede wache Minute damit, um ihren Freund zu trauern, der an der Front gefallen ist. Ihre illegalen Geschäfte betrachtet sie als kleinen Akt der Rebellion. Aber eines Tages erhält sie einen sehr ungewöhnlichen Auftrag. Eine ihrer Kundinnen bittet sie, ein Mädchen zu finden. Ein jüdisches Mädchen, das aus dem Geheimversteck in ihrem Haus verschwunden ist. Auf der Suche nach diesem Mädchen gerät Hanneke in ein Netz aus Lügen, Rätseln und Geheimnissen..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000487488/63715/10002/-3/Buecher_Kinder--und-Jugend/Monica-Hesse/Das-Maedchen-im-blauen-Mantel
+
+----
+
+Cover:
+
+- >
+  das-madchen-im-blauen-mantel_monica-hesse.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

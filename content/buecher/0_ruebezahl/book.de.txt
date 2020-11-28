@@ -1,0 +1,103 @@
+Title: Rübezahl
+
+----
+
+Isbn: 978-3-942929-67-7
+
+----
+
+Book-title: Rübezahl
+
+----
+
+Book-subtitle: für die Jugend neu erzählt
+
+----
+
+Author: Thomas Bachmann
+
+----
+
+Illustrator: Hetty Krist
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 110
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Lychatz Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Rübezahl, Riesen, Märchen
+
+----
+
+Description: Thomas Bachmann versteht es vollendet, spannend und zärtlich die alten Texte jugendgerecht in die heutige Sprache umzusetzen. Er wird zum erzählenden Wanderer. Rübezahl erscheint wunderlich, würdig, sanftmütig, witzig - aber auch derb und traurig. Ebenso geben die für dieses Buch geschaffenen Illustrationen von Hetty Krist das Geschehen frech und liebevoll zugleich wieder.Spannende Geschichten für Leser und Vorleser von 5 bis 100 Jahre
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000001486061/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Bachmann/Ruebezahl
+
+----
+
+Cover:
+
+- ruebezahl_thomas-bachmann.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2019
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201901.html

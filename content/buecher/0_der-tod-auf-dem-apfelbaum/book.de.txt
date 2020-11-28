@@ -1,0 +1,104 @@
+Title: Der Tod auf dem Apfelbaum
+
+----
+
+Isbn: 978-3-7152-0701-8
+
+----
+
+Book-title: Der Tod auf dem Apfelbaum
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Kathrin Schärer
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 36
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Tod
+
+----
+
+Description: Ein gutes Leben braucht sein EndeEin alter Fuchs fängt ein Zauberwiesel. Er lässt es wieder frei, weil es ihm verspricht, dass ab sofort jeder Apfeldieb auf seinem Baum kleben bleibt - für immer und ewig. Von da an kann er ungestört sein Obst genießen ... bis sein Tod kommt, ihn zu holen.Der Fuchs will noch nicht sterben. Er bittet den Tod, ihm einen letzten Apfel zu pflücken: Jetzt sitzt der Tod auf dem Baum fest, und der Fuchs triumphiert. Aber er wird älter. Seine Frau stirbt, die Kinder werden alt, und er gehört nirgends mehr dazu.Soll das endlos so weitergehen?Schließlich bittet er den Tod, zu ihm herunterzusteigen und ihn mitzunehmen.Kathrin Schärer greift ein altes Märchenmotiv auf.Sachte und mit Schalk erzählt sie davon, dass der Tod zum Leben gehört.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848961165/63715/10002/-3/Buecher_Kinder--und-Jugend/Kathrin-Schaerer/Der-Tod-auf-dem-Apfelbaum
+
+----
+
+Cover:
+
+- >
+  der-tod-auf-dem-apfelbaum_kathrin-schaerer.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201604.html

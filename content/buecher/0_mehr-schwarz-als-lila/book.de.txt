@@ -1,0 +1,103 @@
+Title: Mehr Schwarz als Lila
+
+----
+
+Isbn: 978-3-87134-175-5
+
+----
+
+Book-title: Mehr Schwarz als Lila
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Lena Gorelik
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 256
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Rowohlt, Berlin
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 19,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Coming of Age / Erwachsenwerden, Erste Liebe, Freundschaft
+
+----
+
+Description: Mit siebzehn ist das Leben kompliziert. Alex trägt lieber Schwarz als Lila, ihr Vater schweigt die meiste Zeit, und ein Papagei soll ihr die Mutter ersetzen. Die besondere Freundschaft mit Paul und Ratte ist das, was Alex an ihrem Leben liebt. Die gefühlte Eintönigkeit lassen die drei in Mutspielen hinter sich, bei denen es keine Grenzen gibt. Und dann taucht Johnny Spitzing auf, der junge Referendar, den sogar Alex gut findet. Auf der Klassenfahrt nach Polen jedoch macht Johnny ihr klar, dass sie nur seine Schülerin ist; Ratte, die sich verliebt hat, entfernt sich; und ihr bleibt nur noch Paul, den Alex, von tausend Gefühlen überrannt, küsst - am unpassendsten Ort der Welt, in Auschwitz. Jemand fotografiert, das Bild geistert durchs Netz, und plötzlich reden alle über Alex und die Jugend von heute, der Papagei entfliegt, Paul verschwindet, und Alex erkennt: "Das ist jetzt mein Film, und das Leben muss ich ganz alleine steuern."Lena Gorelik erzählt von einer überforderten Siebzehnjährigen, die der Welt mit Witz und einer Spur notwendigem Stolz gegenübertritt. Wie nebenher wirft sie Fragen auf - wie kann man Erinnerung vermitteln, wie frei kann man sein? Vor allem aber geht es ums Erwachsenwerden und um die Bilder, die wir von uns selbst und anderen haben. Ein packender, jugendlich glühender Roman für jüngere wie für erwachsene Leser.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853583833/63715/10002/-3/Buecher_Kinder--und-Jugend/Lena-Gorelik/Mehr-Schwarz-als-Lila
+
+----
+
+Cover:
+
+- mehr-schwarz-als-lila_lena-gorelik.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/mehr-schwarz-als-lila-bekommt-lesepeter-februar

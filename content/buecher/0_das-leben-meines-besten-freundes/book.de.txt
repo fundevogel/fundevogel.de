@@ -1,0 +1,104 @@
+Title: Das Leben meines besten Freundes
+
+----
+
+Isbn: 978-3-95728-063-3
+
+----
+
+Book-title: Das Leben meines besten Freundes
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Judith Gridl
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 242
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Chancengleichheit, Coming of Age / Erwachsenwerden, Erste Liebe, Freundschaft
+
+----
+
+Description: Samir und Jacob sehen sich zum Verwechseln ähnlich - stammen aber aus ganz unterschiedlichen Welten. In Samirs rauem Umfeld zählt allein das Faustrecht, während Jacob überbehütet aufwächst. Als Jacob auf ein Elite-Internat geschickt werden soll, aber viel lieber bei seiner ersten Liebe Fine bleiben will, bietet sich für beide die Gelegenheit, ihre Welten zu tauschen. Während Samir vom Internat aus seinen von einem arabischen Clan verschleppten Vater sucht, nimmt Jacob endlich sein Leben in die Hand und kommt auch selbst der Lösung des Falls näher.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000217107/63715/10002/-3/Buecher_Kinder--und-Jugend/Judith-Gridl/Das-Leben-meines-besten-Freundes
+
+----
+
+Cover:
+
+- >
+  das-leben-meines-besten-freundes_judith-gridl.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2018
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201810.html

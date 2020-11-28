@@ -1,0 +1,104 @@
+Title: Siri und die Eismeerpiraten
+
+----
+
+Isbn: 978-3-8369-5920-9
+
+----
+
+Book-title: Siri und die Eismeerpiraten
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Frida Nilsson
+
+----
+
+Illustrator: Torben Kuhlmann
+
+----
+
+Narrator: 
+
+----
+
+Translator: Friederike Buchinger
+
+----
+
+Participants: 
+
+----
+
+Page-count: 376
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: "Weißhaupt hat meine Schwester geraubt! Wir müssen sie zurückholen!" Aber niemand hat den Mut, sich dem gefährlichsten Mann des ganzen Eismeers, Piratenkapitän Weißhaupt, entgegenzustellen. Die gefangenen Kinder lässt er in seiner Diamantenmine schuften, bis sie an der harten Arbeit zugrunde gehen. Siri wagt, was kein Erwachsener sich traut: Sie fährt ihrer Schwester Miki hinterher. Ihre Fahrt führt sie über das schier unendliche Eismeer mit seinen zahlreichen kleinen und großen Inseln, sie findet Verbündete und macht sich neue Feinde. Sie besiegt ihre Angst und schafft, was unmöglich scheint ...Eine geradezu klassisch anmutende Abenteuergeschichte über die Kraft der Freundschaft und Geschwisterliebe, Angst und Mut. Spannend bis zur letzten Seite, mitreißend und berührend.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000125904/63715/10002/-3/Buecher_Kinder--und-Jugend/Frida-Nilsson/Siri-und-die-Eismeerpiraten
+
+----
+
+Cover:
+
+- >
+  siri-und-die-eismeerpiraten_frida-nilsson.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

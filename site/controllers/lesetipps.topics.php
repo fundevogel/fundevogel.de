@@ -1,9 +1,8 @@
 <?php
 
 return function ($page) {
-    $allTopics = page('lesetipps')
+    $allTopics = page('buecher')
         ->children()
-        ->listed()
         ->pluck('topics', ',')
     ;
 

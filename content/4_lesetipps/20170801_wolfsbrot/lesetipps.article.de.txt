@@ -28,6 +28,10 @@ Ein sehr beeindruckendes Buch, das Sonja Müller-Späth als Gesamtkunstwerk konz
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-08-01
 
 ----
@@ -80,6 +84,10 @@ Illustrator: Ulrike Möltgen
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -89,6 +97,10 @@ Participants:
 ----
 
 Page-count: 32
+
+----
+
+Duration: 
 
 ----
 
@@ -119,6 +131,16 @@ Topics: Angst
 Cover:
 
 - wolfsbrot_kilian-leypold.jpg
+
+----
+
+Books:
+
+- buecher/wolfsbrot
+
+----
+
+Isaudiobook: false
 
 ----
 

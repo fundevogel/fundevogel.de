@@ -22,11 +22,17 @@ Die besondere Leistung der beiden Künstlerinnen Susanna Mattiangli und Vessela 
 
 ----
 
-Builder:
+Builder: 
 
 ----
 
 Date: 2020-08-10
+
+----
+
+Books:
+
+- buecher/ein-strandtag
 
 ----
 
@@ -54,6 +60,14 @@ Isaward: true
 
 ----
 
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
 Isbn: 978-3-95939-076-7
 
 ----
@@ -66,7 +80,7 @@ Book-title: Ein Strandtag
 
 ----
 
-Book-subtitle:
+Book-subtitle: 
 
 ----
 
@@ -78,7 +92,7 @@ Illustrator: Susanna Mattiangeli
 
 ----
 
-Narrator:
+Narrator: 
 
 ----
 
@@ -86,7 +100,7 @@ Translator: Lucia Zamolo
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -94,7 +108,7 @@ Page-count: 36
 
 ----
 
-Duration:
+Duration: 
 
 ----
 
@@ -122,18 +136,8 @@ Topics: Sommer, Strand, Diversität
 
 ----
 
-Cover:
-
-- ein-strandtag_vessela-nikolova.jpg
+Cover: - ein-strandtag_vessela-nikolova.jpg
 
 ----
 
 Isaudiobook: false
-
-----
-
-Seotitle:
-
-----
-
-Seodescription:

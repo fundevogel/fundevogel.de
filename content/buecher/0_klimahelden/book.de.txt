@@ -1,0 +1,103 @@
+Title: Klimahelden
+
+----
+
+Isbn: 978-3-86256-098-1
+
+----
+
+Book-title: Klimahelden
+
+----
+
+Book-subtitle: Von Goldsammlerinnen und Meeresputzern
+
+----
+
+Author: Hanna Schott
+
+----
+
+Illustrator: Volker Konrad
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 124
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Neufeld Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Price: 12,90
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Umweltschutz, Klimawandel
+
+----
+
+Description: Nichts ist cooler, als die Welt zu retten!. Die Erde ist unser Heimatplanet. Sie ist unglaublich schön und bietet uns Menschen alles, was wir zum Leben brauchen. Aber: In letzter Zeit scheint sie Fieber zu haben. Und manchmal kriegt sie schlecht Luft.. Was Kinder tun können und was sie überall auf der Welt schon tun, um eine gesunde Umwelt zu bewahren und den Klimawandel zu bremsen, zeigt dieses Buch voller überraschender Geschichten und spannender Ideen.. Hanna Schott erzählt vom Baum-Pflanzer Felix Finkbeiner. Von den Essensrettern Oskar und Matilde aus Norwegen. Von Isabel und Melati und ihrem erfolgreichen Kampf gegen Plastikmüll. Und von vielen Klimahelden, die "ganz normale" Kinder sind.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
+
+----
+
+Cover:
+
+- klimahelden_hanna-schott.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

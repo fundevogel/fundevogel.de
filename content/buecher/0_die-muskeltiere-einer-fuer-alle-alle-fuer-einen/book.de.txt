@@ -1,0 +1,104 @@
+Title: Die Muskeltiere. Einer für alle, alle für einen
+
+----
+
+Isbn: 978-3-570-15903-3
+
+----
+
+Book-title: Die Muskeltiere
+
+----
+
+Book-subtitle: Einer für alle, alle für einen
+
+----
+
+Author: Ute Krause
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 208
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 15,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Musketiere, Mäuse
+
+----
+
+Description: Ein großes Abenteuer mit wagemutigen Helden - nichts für Angsthasen mit Käsefüßen. Klink, klink, klonk! Während der Hamster Bertram von Backenbart etwas gelangweilt in seinem goldenen Käfig auf der Terrasse einer noblen Hamburger Penthousewohnung sitzt, fallen zwei Mäuse und eine weiße Ratte von der Dachrinne in sein Zuhause. Als die drei sich als Picandou C. Saint Albray, Pomme de Terre und Gruyère vorstellen, ist der Hamster begeistert! Die französischen Namen erinnern ihn an die von ihm heißgeliebten Geschichten über die "Muskeltiere", die er von den Hörspiel-CDs seines Besitzers kennt. Und als Hamster Bertram erfährt, dass Gruyère ihr Gedächtnis verloren hat, ist er wild entschlossen, seinen neuen Freunden zu helfen und aufregende Muskeltier-Abenteuer zu erleben ....
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845218677/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
+
+----
+
+Cover:
+
+- >
+  die-muskeltiere-einer-fuer-alle-alle-fuer-einen_ute-krause.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

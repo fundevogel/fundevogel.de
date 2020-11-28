@@ -1,0 +1,103 @@
+Title: Dunkelgrün wie das Meer
+
+----
+
+Isbn: 978-3-423-64020-6
+
+----
+
+Book-title: Dunkelgrün wie das Meer
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Ute Wegmann
+
+----
+
+Illustrator: Birgit Schössow
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 80
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Ferien
+
+----
+
+Description: Zum Vor- und SelberlesenEndlich Ferien mit den Eltern im Schiffhaus am Meer. Aber irgendwie ist diesmal von Anfang an der Wurm drin. Linns Mama und Papa haben Knatsch, weil Papa noch mal zurück in die Stadt muss, und deshalb ist Mama total sauer. Das reicht ja schon, um einem die Urlaubslaune zu verderben. Aber weil das wohl immer noch nicht genug Mist ist, selbst wenn man erst neun Jahre alt ist, hat auch noch Linns Lieblingsurlaubsfreundin Smilla ein fremdes Mädchen mit ans Meer genommen. Was ist los? Wieso merkt denn niemand, wie allein Linn sich fühlt? Wieso will keiner wissen, wie es ihr geht? Vielleicht braucht es manchmal Blitz, Donner und Hagelschlag, damit die Luft wieder klar wird und man sich besser erkennen kann.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460850903544/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Wegmann/Dunkelgruen-wie-das-Meer
+
+----
+
+Cover:
+
+- dunkelgruen-wie-das-meer_ute-wegmann.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: September 2016
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-das-kinderbuch-dunkelgruen-wie-das-meer/

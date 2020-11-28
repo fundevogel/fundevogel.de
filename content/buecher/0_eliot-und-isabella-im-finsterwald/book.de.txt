@@ -1,0 +1,104 @@
+Title: Eliot und Isabella im Finsterwald
+
+----
+
+Isbn: 978-3-407-82161-4
+
+----
+
+Book-title: Eliot und Isabella im Finsterwald
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Ingo Siegner
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 136
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 12,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Abenteuer, Freundschaft, Erstlesebuch
+
+----
+
+Description: Hand aufs Herz, Pfote in die Höhe, dreimal gespuckt und heilig geschworen: Endlich erscheint der 4. Band der beiden Rattenkinder Eliot und Isabella: Zum Verlieben und Vorlesen schön!. Au Backe! Eliot und seine Freundin Isabella wollen Opa Pucki zum Waldfest abholen, doch die Hütte ist leer. Da es oberverdächtig nach Bockwurst riecht, ist die Sache ja wohl klar - der Opa wurde von Bocky und seiner Rüpelbande entführt. Eliot und Isabella folgen der Spur durch den tiefen, finsteren Wald, wo für Rattenkinder viele Gefahren lauern. Aber immer wenn es brenzlig wird, hat Eliot ziemlich gute Ideen. So können sie nicht nur Opa Pucki befreien, sondern auch noch die Sache mit dem Schatz klären.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851907197/63715/10002/-3/Buecher_Abenteuer/Ingo-Siegner/Eliot-und-Isabella-im-Finsterwald
+
+----
+
+Cover:
+
+- >
+  eliot-und-isabella-im-finsterwald_ingo-siegner.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

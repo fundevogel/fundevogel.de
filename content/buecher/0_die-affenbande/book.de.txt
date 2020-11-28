@@ -1,0 +1,103 @@
+Title: Die Affenbande
+
+----
+
+Isbn: 978-3-86873-912-1
+
+----
+
+Book-title: Die Affenbande
+
+----
+
+Book-subtitle: Alles über Mandrill, Gibbon, Schimpanse und Co.
+
+----
+
+Author: Owen Davey
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Gundula Müller-Wallraf
+
+----
+
+Participants: 
+
+----
+
+Page-count: 40
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 14,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Affen
+
+----
+
+Description: Eine aufregende und brillant illustrierte Expedition in die faszinierende Welt der Affen. Die schnellsten, lautesten und klügsten Affen und ihr Verhalten, kurzweilig beschrieben in humorvoll-informativen Texten. Hergestellt mit dem Siegel der Rainforest Alliance für die nachhaltige Nutzung von Wäldern.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851055860/63715/10002/-3/Buecher_Sachbuecher/Owen-Davey/Die-Affenbande
+
+----
+
+Cover:
+
+- die-affenbande_owen-davey.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2016
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201607.html

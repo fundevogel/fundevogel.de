@@ -18,7 +18,17 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2020-04-07
+
+----
+
+Books:
+
+- buecher/der-katze-ist-es-ganz-egal
 
 ----
 
@@ -43,6 +53,14 @@ Leselink:
 ----
 
 Isaward: false
+
+----
+
+Seotitle: Der Katze ist es ganz egal
+
+----
+
+Seodescription: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf …
 
 ----
 
@@ -110,11 +128,3 @@ Cover:
 
 - >
   der-katze-ist-es-ganz-egal_franz-orghandl.jpg
-
-----
-
-Seotitle: Der Katze ist es ganz egal
-
-----
-
-Seodescription: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf …

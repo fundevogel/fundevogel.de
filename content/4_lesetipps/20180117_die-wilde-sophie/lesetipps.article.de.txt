@@ -18,6 +18,10 @@ Conclusion:
 
 ----
 
+Builder: 
+
+----
+
 Date: 2018-01-17
 
 ----
@@ -70,6 +74,10 @@ Illustrator: Susann Opel-Götz
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -79,6 +87,10 @@ Participants:
 ----
 
 Page-count: 256
+
+----
+
+Duration: 
 
 ----
 
@@ -109,6 +121,16 @@ Topics: Abenteuer, Gefahr, Schloss
 Cover:
 
 - die-wilde-sophie_lukas-hartmann.jpg
+
+----
+
+Books:
+
+- buecher/die-wilde-sophie
+
+----
+
+Isaudiobook: false
 
 ----
 

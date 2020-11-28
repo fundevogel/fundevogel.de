@@ -5,7 +5,14 @@
 # Loop over relevant directories
 for dir in content \
            public \
-           site \
+           site/blueprints \
+           site/config \
+           site/controllers \
+           site/languages \
+           site/models \
+           site/plugins/fundevogel \
+           site/snippets \
+           site/templates \
            source
 do
     # Directories

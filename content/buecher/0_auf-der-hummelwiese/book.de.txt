@@ -1,0 +1,103 @@
+Title: Auf der Hummelwiese
+
+----
+
+Isbn: 978-3-7373-5528-5
+
+----
+
+Book-title: Auf der Hummelwiese
+
+----
+
+Book-subtitle: Das große Herbarium
+
+----
+
+Author: Stefan Casta
+
+----
+
+Illustrator: Maj Fagerberg
+
+----
+
+Narrator: 
+
+----
+
+Translator: Angelika Kutsch
+
+----
+
+Participants: 
+
+----
+
+Page-count: 86
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Blumen, Herbarium, Insekten
+
+----
+
+Description: Wo Hummeln summen und Glockenblumen leuchten - Blumen und Pflanzen in Wald und Wiese. Dieses einzigartige Album fühlt sich wie ein Spaziergang über eine kunterbunte Blumenwiese an. Vorbei an fröhlichen Schneeglöckchen, sonnengelben Himmelschlüsseln, leuchtend blauen Glockenblumen, duftenden Wicken und prächtigen Sonnenröschen, durch Frühling, Sommer und Herbst. Nostalgisch anmutende, so zarte wie naturalistische Aquarellillustrationen und fundierte Texte erlauben es uns, Blumen und Pflanzen zu entdecken, zu erkennen und zu bestimmen. Der hintere Buchdeckel bietet mit einer verstärkten Pappseite Raum zum Trocknen und Pressen der gesammelten Blütenschätze. Spezielle, mit Pergaminpapier bedeckte Seiten bieten Platz zum Einkleben der getrockneten Blumen.. Ein wunderbares Geschenk für alle, die unsere heimische Blumenwelt lieben. Und ein Erinnerungsalbum für das ganze Leben.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000592602/63715/10002/-3/Buecher_Kinder--und-Jugend/Stefan-Casta/Auf-der-Hummelwiese
+
+----
+
+Cover:
+
+- auf-der-hummelwiese_stefan-casta.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2018
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fuer-sachbuch-ueber-wald-und-wiesenblumen

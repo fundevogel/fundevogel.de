@@ -14,7 +14,11 @@ Verdict: Das erste Band der Abenteuer von Finn und Jola. Spannend und witzig erz
 
 ----
 
-Conclusion:
+Conclusion: 
+
+----
+
+Builder: 
 
 ----
 
@@ -30,15 +34,15 @@ Hasaward: false
 
 ----
 
-Award:
+Award: 
 
 ----
 
-Awardedition:
+Awardedition: 
 
 ----
 
-Leselink:
+Leselink: 
 
 ----
 
@@ -66,19 +70,27 @@ Author: Martin Muser
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
-Translator:
+Narrator: 
 
 ----
 
-Participants:
+Translator: 
+
+----
+
+Participants: 
 
 ----
 
 Page-count: 176
+
+----
+
+Duration: 
 
 ----
 
@@ -110,6 +122,17 @@ Cover:
 
 - >
   kannawoniwasein-manchmal-muss-man-einfach-verduften_martin-muser.jpg
+
+----
+
+Books:
+
+- >
+  buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften
+
+----
+
+Isaudiobook: false
 
 ----
 

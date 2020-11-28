@@ -20,6 +20,10 @@ Conclusion: Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, 
 
 ----
 
+Builder: 
+
+----
+
 Date: 2019-05-27
 
 ----
@@ -72,6 +76,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Cornelia Stoll
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 379
+
+----
+
+Duration: 
 
 ----
 
@@ -112,6 +124,16 @@ Cover:
 
 - >
   das-madchen-im-blauen-mantel_monica-hesse.jpg
+
+----
+
+Books:
+
+- buecher/das-madchen-im-blauen-mantel
+
+----
+
+Isaudiobook: false
 
 ----
 

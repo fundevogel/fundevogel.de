@@ -32,6 +32,12 @@ Date: 2020-11-02
 
 ----
 
+Books:
+
+- buecher/uncover-die-trollfabrik
+
+----
+
 Conclusion-wanted: true
 
 ----
@@ -53,6 +59,14 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober
 ----
 
 Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
@@ -132,11 +146,3 @@ Cover:
 ----
 
 Isaudiobook: false
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

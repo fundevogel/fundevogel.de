@@ -1,0 +1,104 @@
+Title: Ein Teich voll mit Tinte
+
+----
+
+Isbn: 978-3-89565-324-7
+
+----
+
+Book-title: Ein Teich voll mit Tinte
+
+----
+
+Book-subtitle: Reimgeschichten
+
+----
+
+Author: Annie M. G. Schmidt & Sieb Posthuma
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: Christian Golusda
+
+----
+
+Participants: 
+
+----
+
+Page-count: 56
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Price: 15,95
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Kunst, Lyrik, Reime
+
+----
+
+Description: "Ich kenn einen Mann, der Märchen ersinnt und schon ganz früh morgens zu schreiben beginnt. Er schreibt Märchen von Hexen, von Elfen und Feen von sechs Uhr fünfzehn bis dreizehn Uhr zehn.". Diese Gedichte erzählen Geschichten. Drum nennen wir sie Reimgeschichten. Da geht es zum Beispiel um Heinrich Hahn aus Limburg/Lahn. Der vergaß den Wasserhahn... Oder um Isabella Caramella, die hat ein Krokodil: Karl-Klaus! Das frisst lästige Besucher auf ... Oder Tante Lil aus Amsterdam, auf deren Kanapee ein Hirsch sitzt, mitsamt Geweih!Solche Gedichtgeschichten bereiten Freude - beim Vorlesen und beim Zuhören. In den Niederlanden sind sie Klassiker, bei uns dürfen sie noch entdeckt werden.Sieb Posthumas Bilder fügen den Texten eine versponnene, leicht nostalgische Note hinzu und machen aus der Sammlung auch noch einen Augenschmaus.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851926692/63715/10002/-3/Buecher_Kinder--und-Jugend/Annie-M-G-Schmidt/Ein-Teich-voll-mit-Tinte
+
+----
+
+Cover:
+
+- >
+  ein-teich-voll-mit-tinte_annie-m-g-schmidt-sieb-posthuma.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Mai 2017
+
+----
+
+Leselink: https://www.ajum.de/html/Lesepeter/201705.html

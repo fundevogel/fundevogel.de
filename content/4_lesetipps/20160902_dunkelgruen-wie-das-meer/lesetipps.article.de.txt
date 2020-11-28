@@ -22,6 +22,10 @@ Mit seinen etwas dickeren Seiten und einem gewellten, kräftigen Vorsatzpapier i
 
 ----
 
+Builder: 
+
+----
+
 Date: 2016-09-02
 
 ----
@@ -74,6 +78,10 @@ Illustrator: Birgit Schössow
 
 ----
 
+Narrator: 
+
+----
+
 Translator: 
 
 ----
@@ -83,6 +91,10 @@ Participants:
 ----
 
 Page-count: 80
+
+----
+
+Duration: 
 
 ----
 
@@ -113,6 +125,16 @@ Topics: Ferien
 Cover:
 
 - dunkelgruen-wie-das-meer_ute-wegmann.jpg
+
+----
+
+Books:
+
+- buecher/dunkelgruen-wie-das-meer
+
+----
+
+Isaudiobook: false
 
 ----
 

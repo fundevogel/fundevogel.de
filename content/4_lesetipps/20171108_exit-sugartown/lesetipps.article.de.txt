@@ -234,6 +234,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Friederike Buchinger
 
 ----
@@ -243,6 +247,10 @@ Participants:
 ----
 
 Page-count: 288
+
+----
+
+Duration: 
 
 ----
 
@@ -273,6 +281,16 @@ Topics: Schlepper, Flucht
 Cover:
 
 - exit-sugartown_martin-petersen.jpg
+
+----
+
+Books:
+
+- buecher/exit-sugartown
+
+----
+
+Isaudiobook: false
 
 ----
 

@@ -1,0 +1,107 @@
+Title: 28 Tage lang
+
+----
+
+Slug: 28-tage-lang
+
+----
+
+Isbn: 978-3-499-26663-8
+
+----
+
+Book-title: 28 Tage lang
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: David Safier
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 416
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Rowohlt TB.
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Price: 10,00
+
+----
+
+Binding: kartoniert
+
+----
+
+Topics: Buxtehuder Bulle, Warschau (Getto), Widerstand (Nationalsozialismus)
+
+----
+
+Description: 28 Tage ...... um ein ganzes Leben zu leben, um die wahre Liebe zu finden, um eine Legende zu werden.Warschau 1943: Die sechzehnjährige Mira schmuggelt Lebensmittel, um im Warschauer Ghetto zu überleben. Als sie erfährt, dass die gesamte Ghettobevölkerung umgebracht werden soll, schließt sich Mira dem Widerstand an. Der kann der übermächtigen SS länger trotzen als vermutet. Viel länger. 28 Tage lang.28 Tage, in denen Mira Momente von Verrat, Leid und Glück erlebt.28 Tage, in denen sie sich entscheiden muss, wem ihr Herz gehört.28 Tage, um ein ganzes Leben zu leben.28 Tage, um eine Legende zu werden.
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846234909/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/David-Safier/28-Tage-lang/4099276460822241510/%204099276460822241500/%
+
+----
+
+Cover:
+
+- 28-tage-lang_david-safier.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

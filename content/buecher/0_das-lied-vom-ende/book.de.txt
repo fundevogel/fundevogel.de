@@ -1,0 +1,103 @@
+Title: Das Lied vom Ende
+
+----
+
+Isbn: 978-3-944122-36-6
+
+----
+
+Book-title: Das Lied vom Ende
+
+----
+
+Book-subtitle: 
+
+----
+
+Author: Christoph Jehlicka
+
+----
+
+Illustrator: 
+
+----
+
+Narrator: 
+
+----
+
+Translator: 
+
+----
+
+Participants: 
+
+----
+
+Page-count: 256
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Publisher: Open House
+
+----
+
+Age: ab 15 Jahren
+
+----
+
+Price: 22,00
+
+----
+
+Binding: gebunden
+
+----
+
+Topics: Coming of Age / Erwachsenwerden, Ehe, Familie
+
+----
+
+Description: Um 2010, in einer norddeutschen Kleinstadt. Ein Mann tötet sich und seine Familie. Eine ganze Gegend ist erschüttert und fragt sich, wie es dazu kommen konnte. Und im Reihenhaus von Familie Schult gerät das Leben aus den Fugen.. Sehr unterschiedlich begegnen die vier Familienmitglieder, die Söhne Ben und Niko, Mutter Ursula und Vater Frank, den Schicksalsschlägen und hausgemachten Problemen: Weltflucht, Drogen, schwarzer Humor, abstruser Aktionismus - und schließlich auch echte Opferbereitschaft.. "Das Lied vom Ende", Christoph Jehlickas Debüt, ist ein Familienroman voller Tempo und Perspektivwechsel. Eine Kreuzung aus Coming-of-Age-Story und Ehedrama. Ein vielschichtiges, tragikomisches Buch über die Abenteuer des Zusammenlebens.. "... mit Jehlickas Erstling hat man einen Glücksgriff getan. Denn das Buch bringt alles mit, was ein Publikumsliebling erfordert: Spannung, Witz, Einfühlung und jene gewisse Grausamkeit gegenüber den Figuren, die ein Roman braucht, um mehr zu sein als bloße Unterhaltungslektüre."- Frankfurter Allgemeine Zeitung. Ein neuer spannender Autor: Mit seinem Roman "Das Lied vom Ende" glückt dem jungen Hamburger Schriftsteller Christoph Jehlicka ein starkes Debüt. ... Was er dabei zutage fördert, sind die Stör- und Stottergeräusche jäh aus dem Takt geratener Herzen. Sie liefern den Soundtrack zu seinem Generationenroman, der nicht zuletzt durch seinen gekonnten Mix aus lakonischer Schreibe und messerscharfer Psychologie besticht. ... Seine Sprache ist zupackend und direkt - hier ist ein neuer spannender Autor zu entdecken!- SPIEGEL ONLINE
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/Product/3000000822637/63715/10002/-3/Buecher_Romane/Christoph-Jehlicka/Das-Lied-vom-Ende
+
+----
+
+Cover:
+
+- das-lied-vom-ende_christoph-jehlicka.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2019
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-februar-fuer-das-lied-vom-ende

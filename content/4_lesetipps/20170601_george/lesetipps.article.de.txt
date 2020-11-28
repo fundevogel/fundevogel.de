@@ -20,6 +20,10 @@ Wenn Alex Gino zugibt, dass er aus eigener Erfahrung weiß, dass "transgender Ki
 
 ----
 
+Builder: 
+
+----
+
 Date: 2017-06-01
 
 ----
@@ -72,6 +76,10 @@ Illustrator:
 
 ----
 
+Narrator: 
+
+----
+
 Translator: Alexandra Ernst
 
 ----
@@ -81,6 +89,10 @@ Participants:
 ----
 
 Page-count: 208
+
+----
+
+Duration: 
 
 ----
 
@@ -111,6 +123,16 @@ Topics: Freundschaft, Mobbing, Transsexualität
 Cover:
 
 - george_alex-gino.jpg
+
+----
+
+Books:
+
+- buecher/george
+
+----
+
+Isaudiobook: false
 
 ----
 
