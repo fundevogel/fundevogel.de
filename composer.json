@@ -25,7 +25,7 @@
         "bnomei/kirby3-janitor": "2.6.1",
         "bnomei/kirby3-security-headers": "2.3.1",
         "distantnative/retour-for-kirby": "2.3.2",
-        "fundevogel/php-pcbis": "2.0.0-beta.1",
+        "fundevogel/php-pcbis": "2.0.0-beta.2",
         "fundevogel/kirby3-colorist": "1.8.0",
         "fundevogel/kirby3-donuts": "1.2.0",
         "guzzlehttp/guzzle": "7.2.0",

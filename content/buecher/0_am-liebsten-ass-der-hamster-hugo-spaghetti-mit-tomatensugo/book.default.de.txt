@@ -1,0 +1,156 @@
+Title: Am liebsten aß der Hamster Hugo Spaghetti mit Tomatensugo
+
+----
+
+Isbn: 978-3-446-26055-9
+
+----
+
+Book-title: Am liebsten aß der Hamster Hugo Spaghetti mit Tomatensugo
+
+----
+
+Book-subtitle: Tiergedichte
+
+----
+
+Author: Franz Hohler
+
+----
+
+Illustrator: Kathrin Schärer
+
+----
+
+Translator: 
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Page-count: 64
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Kinderreime / Kinderverse / Abzählreime, Tiere
+
+----
+
+Description: Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000985578/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Hohler/Am-liebsten-ass-der-Hamster-Hugo-Spaghetti-mit-Tomatensugo
+
+----
+
+Year: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo_franz-hohler.jpg
+
+----
+
+Categories: Gedichtband
+
+----
+
+Isseries: false
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Narrator: 
+
+----
+
+Duration: 
+
+----
+
+Isaudiobook: false
+
+----
+
+Text: 
+
+----
+
+Verdict: 
+
+----
+
+Conclusion: 
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-11-06
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seodescription: 
+
+----
+
+Participant: 
