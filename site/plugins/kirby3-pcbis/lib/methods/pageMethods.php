@@ -33,11 +33,10 @@ return [
 
         return false;
     },
-    'updateBook' => function (array $data) {
-        $updateArray = [];
+    'updateBook' => function (bool $forceRefresh = false, array $refresh = []) {
+        $data = loadBook($this->isbn()->value(), $forceRefresh);
 
-        # These fields may be updated
-        $refresh = [];
+        $updateArray = [];
 
         foreach ($data as $key => $value) {
             # Don't update ..
@@ -54,6 +53,11 @@ return [
             }
 
             $updateArray[$key] = $value;
+        }
+
+        # Only request shop URL if its field is currently empty
+        if ($this->shop()->isEmpty() && !in_array('shop', $refresh)) {
+            $updateArray['shop'] = getShopLink($this->isbn()->value());
         }
 
         try {

@@ -6,30 +6,11 @@ return [
             $page = site()->index(true)->findByID($data);
         }
 
-        # API call
-        $isbn = $page->isbn()->value();
-
-        try {
-            # Fetch information from API
-            $data = loadBook($isbn);
-        } catch(\Exception $e) {
-            return [
-                'status' => 404,
-                'label' => $e,
-                'reload' => false,
-            ];
-        }
-
-        # Don't fill shop URL again - save requests
-        if ($page->shop()->isEmpty()) {
-            $data = A::update($data, ['shop' => rtrim(getShopLink($isbn), '01234567890/')]);
-        }
-
-        $success = $page->updateBook($data);
+        $success = $page->updateBook();
 
         return [
             'status' => $success ? 200 : 404,
-            'label' => $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
+            'label'  => $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
             'reload' => $success,
         ];
     },
@@ -38,47 +19,41 @@ return [
             $page = site()->index(true)->findByID($data);
         }
 
-        $imagePath = kirby()->root('content') . '/' . $page->diruri();
-        $fileName = implode('_', [Str::slug($page->book_title()), Str::slug($page->author())]);
+        $file = new File([
+            'parent' => $page,
+            'filename' => Str::slug($page->book_title()) . '_' . Str::slug($page->author()) . '.jpg',
+        ]);
 
-        if (!file_exists($imagePath . '/' . $fileName . '.jpg')) {
-            $isbn = $page->isbn()->value();
-
-            # API call
-            $book = loadBook($isbn, false);
-            $book->setImagePath($imagePath);
-            $download = $book->downloadCover($fileName, true);
-
-            return [
-                'status' => $download ? 200 : 404,
-                'label' => $download ? 'Download erfolgreich!' : 'Download fehlgeschlagen',
-                'reload' => $download,
-            ];
+        if (!$file->exists()) {
+            $book = $page->toBook();
+            $book->setImagePath($page->root());
+            $download = $book->downloadCover($file->name(), true);
         }
 
         try {
-            $page->image($fileName . '.jpg')->update([
-                'titleAttribute' => '"' . $page->book_title() . '" von ' . $page->author(),
+            $file->update([
+                'titleAttribute' => '"' . $book->title() . '" von ' . $book->author(),
                 'source' => 'Deutsche Nationalbibliothek',
-                'altAttribute' => 'Cover des Buches "' . $page->book_title() . '" von ' . $page->author(),
+                'altAttribute' => 'Cover des Buches "' . $book->title() . '" von ' . $book->author(),
                 'template' => 'image',
             ]);
 
             $page->update([
-                'cover' => Data::encode($fileName . '.jpg', 'yaml'),
+                'cover' => Data::encode($file->filename(), 'yaml'),
             ]);
-
-            return [
-                'status' => 200,
-                'label' => 'Update erfolgreich!',
-                'reload' => true,
-            ];
         } catch (Exception $e) {
             return [
                 'status' => 404,
-                'label' => 'Mistikus totalus!',
+                'label' => $e,
+                'reload' => false,
             ];
         }
+
+        return [
+            'status' => 200,
+            'label' => 'Update erfolgreich!',
+            'reload' => true,
+        ];
     },
     'createMetadata' => function ($page, $data) {
         # Check if PDF file exists
