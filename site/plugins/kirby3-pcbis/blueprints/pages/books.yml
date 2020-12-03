@@ -2,8 +2,6 @@ title:
   de: Alle Bücher
   en: All books
 
-options: options/default
-
 tabs:
   # Books
   tab_books: tabs/books

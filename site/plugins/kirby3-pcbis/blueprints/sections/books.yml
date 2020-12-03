@@ -5,8 +5,8 @@ type: pages
 parent: site.find('buecher')
 template:
   - book.default
-  - book.audio
   - book.ebook
+  - book.audio
 sortBy: date desc
 text: "{{ page.book_title }}"
 info: "{{ page.author }}"

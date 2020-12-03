@@ -1,0 +1,37 @@
+type: group
+fields:
+  topics:
+    label:
+      de: Themen
+      en: Topics
+    type: tags
+    options: query
+    query: page.parent.children.pluck('topics', ',', true)
+
+  description:
+    label:
+      de: Beschreibung
+      en: Description
+    type: markdown
+
+  shop:
+    label: Shop (URL)
+    type: url
+    width: 3/4
+    help:
+      de: Ein Buch kann zwar im Shop gelistet, aktuell aber nicht verfügbar sein!
+      en: Sometimes a book is listed in the shop, but not available for delivery!
+
+  isAvailable:
+    label:
+      de: Verfügbar?
+      en: Available?
+    type: toggle
+    width: 1/4
+    text:
+      -
+        de: Nein
+        en: No
+      -
+        de: Ja
+        en: Yes

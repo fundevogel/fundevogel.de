@@ -1,0 +1,62 @@
+type: fields
+fields:
+  step_one:
+    label:
+      de: ISBN eintragen & Datensatz herunterladen
+      en: Insert ISBN & download dataset
+    type: headline
+
+  isbn:
+    label: ISBN
+    type: text
+    width: 1/4
+
+  info:
+    label:
+      de: "Hinweis:"
+      en: "Please note:"
+    type: info
+    width: 3/4
+    text:
+      de: Nach dem Eintragen der ISBN muss die Seite gespeichert werden!
+      en: After inserting the ISBN you have to save the page!
+
+  load_book:
+    type: janitor
+    label:
+      de: Buchtitel laden
+      en: Retrieve data
+    progress: Download ..
+    job: loadBook
+    data : '{{ page.id }}'
+    width: 1/4
+
+  download_cover:
+    type: janitor
+    label:
+      de: Cover erstellen
+      en: Download cover
+    progress: Download ..
+    job: downloadCover
+    data : '{{ page.id }}'
+    width: 1/4
+
+  step_two:
+    label:
+      de: Angaben prüfen
+      en: Check details
+    type: headline
+
+  book_title:
+    label:
+      de: Titel
+      en: Title
+    type: text
+    width: 1/2
+
+  book_subtitle:
+    label:
+      de: Untertitel
+      en: Subtitle
+    type: text
+    width: 1/2

@@ -12,6 +12,7 @@ class BookPage extends Page {
         return $image->createImage($classes, $preset);
     }
 
+
     public function getAward() {
         $award = '';
 
@@ -39,6 +40,7 @@ class BookPage extends Page {
         return $array;
     }
 
+
     public static function create(array $props) {
         $isbn = $props['content']['title'];
 
@@ -49,9 +51,24 @@ class BookPage extends Page {
             return parent::create($props);
         }
 
+        # With content creators, you never know ..
+        $template = 'book.default';
+
+        if ($data['type'] == 'Hörbuch') {
+            $template = 'book.audio';
+        }
+
+        if ($data['type'] == 'ePublikation') {
+            $template = 'book.ebook';
+        }
+
+        # Not needed when updating page
+        unset($data['type']);
+
         return parent::create(array_merge($props, [
             'content' => $data,
             'slug' => Str::slug($data['title']),
+            'template' => $template,
         ]));
     }
 }

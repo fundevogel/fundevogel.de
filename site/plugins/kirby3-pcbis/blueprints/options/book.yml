@@ -1,0 +1,8 @@
+changeSlug: true
+changeStatus: true
+changeTemplate: true
+changeTitle: true
+delete: true
+preview: true
+read: true
+update: true

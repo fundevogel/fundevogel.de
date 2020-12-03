@@ -1,0 +1,150 @@
+title:
+  de: Buch
+  en: Book
+
+options: options/book
+
+num: 0
+
+tabs:
+  # Bibliographic details
+  tab_book:
+    icon: book
+    label:
+      de: Bibliographie
+      en: Bibliography
+
+    columns:
+      main:
+        width: 3/4
+        sections:
+          shared: sections/shared
+
+          specifics:
+            type: fields
+            fields:
+              author:
+                label:
+                  de: AutorIn
+                  en: Author
+                type: text
+                width: 1/3
+
+              illustrator:
+                label:
+                  de: IllustratorIn
+                  en: Illustrator
+                type: text
+                width: 1/3
+
+              translator:
+                label:
+                  de: ÜbersetzerIn
+                  en: Translator
+                type: text
+                width: 1/3
+
+              publisher:
+                label:
+                  de: Name des Verlags
+                  en: Publishing company
+                type: text
+                width: 2/4
+
+              age:
+                label:
+                  de: Altersempfehlung
+                  en: Age rating
+                type: text
+                width: 1/4
+
+              antolin:
+                label: Antolin
+                type: text
+                width: 1/4
+
+              year:
+                label:
+                  de: Jahr
+                  en: Year
+                type: text
+                width: 1/4
+
+              binding:
+                label:
+                  de: Einband
+                  en: Binding
+                type: text
+                width: 1/4
+
+              page_count:
+                label:
+                  de: Seitenzahl
+                  en: Page count
+                type: text
+                width: 1/4
+
+              price:
+                label:
+                  de: Preis (in €)
+                  en: Price (in €)
+                type: text
+                width: 1/4
+
+              shared: fields/shared
+
+              drawer:
+                label:
+                  de: ZeichnerIn
+                  en: Drawer
+                type: text
+                width: 1/4
+
+              photographer:
+                label:
+                  de: PhotographIn
+                  en: Photographer
+                type: text
+                width: 1/4
+
+              editor:
+                label:
+                  de: HerausgeberIn
+                  en: Editor
+                type: text
+                width: 1/4
+
+              participants:
+                label:
+                  de: Mitwirkende
+                  en: Participants
+                type: text
+                width: 1/4
+
+      side:
+        width: 1/4
+        sections:
+          sidebar_fields: sections/sidebar
+
+
+  # Further details
+  # tab_about:
+  #   icon: text
+  #   label:
+  #     de: Weitere Angaben
+  #     en: Further details
+
+  #   columns:
+  #     main:
+  #       width: 3/4
+  #       sections:
+  #         more_main:
+  #           type: fields
+  #           fields:
+
+  #     side:
+  #       width: 1/4
+  #       sections:
+  #         more_side:
+  #           type: fields
+  #           fields:
