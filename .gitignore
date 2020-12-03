@@ -22,6 +22,7 @@
 # ---------------
 /site/plugins/*
 !/site/plugins/fundevogel
+!/site/plugins/kirby3-pcbis
 
 # Toolset
 # ---------------

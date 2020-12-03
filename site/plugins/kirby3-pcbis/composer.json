@@ -1,0 +1,42 @@
+{
+    "name": "fundevogel/kirby3-pcbis",
+    "description": "Kirby v3 toolbox for bookstores, powered by php-pcbis",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "version": "0.1.0",
+    "keywords": ["kirby3", "knv", "pcbis"],
+    "homepage": "https://github.com/Fundevogel/kirby3-pcbis#readme",
+    "authors": [
+        {
+            "name": "S1SYPHOS",
+            "email": "hello@twobrain.io",
+            "homepage": "https://twobrain.io"
+        }
+    ],
+    "support": {
+        "email": "support@twobrain.io",
+        "forum": "https://forum.getkirby.com",
+        "source": "https://github.com/Fundevogel/kirby3-pcbis",
+        "issues": "https://github.com/Fundevogel/kirby3-pcbis/issues"
+    },
+    "scripts": {
+        "cs-dry": "php-cs-fixer fix --dry-run --diff",
+        "cs-fix": "php-cs-fixer fix",
+        "test": "phpunit"
+    },
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.14",
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fundevogel\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
