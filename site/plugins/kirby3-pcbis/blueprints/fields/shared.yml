@@ -14,20 +14,12 @@ fields:
       en: Description
     type: markdown
 
-  shop:
-    label: Shop (URL)
-    type: url
-    width: 3/4
-    help:
-      de: Ein Buch kann zwar im Shop gelistet, aktuell aber nicht verfügbar sein!
-      en: Sometimes a book is listed in the shop, but not available for delivery!
-
   isAvailable:
     label:
       de: Verfügbar?
       en: Available?
     type: toggle
-    width: 1/4
+    width: 1/6
     text:
       -
         de: Nein
@@ -35,3 +27,24 @@ fields:
       -
         de: Ja
         en: Yes
+
+  olaCode:
+    label:
+      de: Meldenummer
+      en: Status code
+    type: text
+    disabled: true
+    width: 1/6
+
+  olaMessage:
+    label: OLA
+    type: text
+    disabled: true
+    width: 4/6
+
+  shop:
+    label: Shop (URL)
+    type: url
+    help:
+      de: Ein Buch kann zwar im Shop gelistet, aktuell aber nicht verfügbar sein!
+      en: Sometimes a book is listed in the shop, but not available for delivery!

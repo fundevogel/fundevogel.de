@@ -1,11 +1,26 @@
 <?php
 
 return [
+    'ola' => function ($page, $data) {
+        if ($page === null) {
+            $page = site()->index(true)->findByID($data);
+        }
+
+        # Update page
+        $success = $page->updateOla();
+
+        return [
+            'status' => (bool) $success ? 200 : 404,
+            'label'  => (bool) $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
+            'reload' => (bool) $success,
+        ];
+    },
     'loadBook' => function ($page, $data) {
         if ($page === null) {
             $page = site()->index(true)->findByID($data);
         }
 
+        # Update page
         $success = $page->updateBook();
 
         return [

@@ -41,6 +41,16 @@ fields:
     data : '{{ page.id }}'
     width: 1/4
 
+  ola:
+    type: janitor
+    label:
+      de: OLA abfragen
+      en: Request OLA
+    progress: Abfrage läuft ..
+    job: ola
+    data : '{{ page.id }}'
+    width: 1/4
+
   step_two:
     label:
       de: Angaben prüfen

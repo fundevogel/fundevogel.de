@@ -33,9 +33,14 @@ return [
 
         return false;
     },
+    'toBook' => function (bool $forceRefresh = false) {
+        return pcbis()->load($this->isbn()->value(), $forceRefresh);
+    },
     'updateBook' => function (bool $forceRefresh = false, array $refresh = []) {
+        # Load data
         $data = loadBook($this->isbn()->value(), $forceRefresh);
 
+        # Build update array from fetched data
         $updateArray = [];
 
         foreach ($data as $key => $value) {
@@ -68,10 +73,30 @@ return [
 
         return false;
     },
-    'toBook' => function (bool $forceRefresh = false) {
-        return pcbis()->load($this->isbn()->value(), $forceRefresh);
-    },
-    'ola' => function (int $quantity = 1) {
+    'toOla' => function (int $quantity = 1) {
         return pcbis()->ola($this->isbn()->value(), $quantity);
+    },
+    'updateOla' => function (int $quantity = 1) {
+        # Request OLA
+        $ola = pcbis()->ola($this->isbn()->value(), $quantity);
+
+        # Build update array from OLA request
+        $updateArray = ['isAvailable' => $ola->isAvailable()];
+
+        if ($ola->hasStatusCode()) {
+            $updateArray['olaCode'] = $ola->statusCode();
+        }
+
+        if ($ola->hasStatusMessage()) {
+            $updateArray['olaMessage'] = $ola->statusMessage();
+        }
+
+        try {
+            $this->update($updateArray);
+
+            return true;
+        } catch (\Exception $e) {}
+
+        return false;
     },
 ];
