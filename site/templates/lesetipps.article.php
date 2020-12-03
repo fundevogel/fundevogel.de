@@ -138,7 +138,7 @@
                             <?php endif ?>
                         </div>
                         <div class="mt-12 xs:mt-0 flex-none">
-                            <?php if ($page->shop()->isNotEmpty()) : ?>
+                            <?php if ($page->shop()->isNotEmpty() && $page->isAvailable()->bool()) : ?>
                             <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->shop() ?>" target="_blank">
                                 <span class="sketch text-2xl select-none"><?= t('Zum Shop') ?> !</span>
                             </a>
