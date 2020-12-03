@@ -26,7 +26,6 @@ $block = [
 
 # Loop through them
 foreach ($pages as $page) {
-    # Load book data
     if (in_array($page->uid(), $block)) {
         continue;
     }
@@ -34,6 +33,7 @@ foreach ($pages as $page) {
     echo $page->uid();
 
     try {
+        # Authenticate as almighty & update book data
         $kirby->impersonate('kirby');
         $page->updateBook(true, ['shop']);
 
