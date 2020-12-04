@@ -1,18 +1,41 @@
 <?php
 
 return [
+    'upgradeBook' => function ($page, $data) {
+        if ($page === null) {
+            $page = site()->index(true)->findByID($data);
+        }
+
+        $success = false;
+
+        try {
+            $success = $page->upgradeBook();
+        } catch (Exception $e) {
+            return [
+                'status' => 404,
+                'label'  => $e->getMessage(),
+                'reload' => false,
+            ];
+        }
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label'  => $success ? 'Upgrade erfolgreich!' : 'Upgrade fehlgeschlagen!',
+            'reload' => $success,
+        ];
+    },
     'ola' => function ($page, $data) {
         if ($page === null) {
             $page = site()->index(true)->findByID($data);
         }
 
         # Update page
-        $success = $page->updateOla();
+        $success = (bool) $page->updateOla();
 
         return [
-            'status' => (bool) $success ? 200 : 404,
-            'label'  => (bool) $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
-            'reload' => (bool) $success,
+            'status' => $success ? 200 : 404,
+            'label'  => $success ? 'Update erfolgreich!' : 'Update fehlgeschlagen!',
+            'reload' => $success,
         ];
     },
     'loadBook' => function ($page, $data) {

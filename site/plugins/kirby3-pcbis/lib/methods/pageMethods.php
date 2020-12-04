@@ -99,4 +99,25 @@ return [
 
         return false;
     },
+    'upgradeBook' => function () {
+        $book = $this->toBook();
+
+        if (!$book->hasUpgrade()) {
+            throw new Exception('Upgrade nicht erforderlich!');
+        }
+
+        $book = $book->upgrade();
+
+        try {
+            $this->update([
+                'isbn' => $book->isbn(),
+                'year' => $book->releaseYear(),
+                'shop' => getShopLink($book->isbn()),
+            ]);
+
+            return true;
+        } catch (\Exception $e) {}
+
+        return false;
+    },
 ];

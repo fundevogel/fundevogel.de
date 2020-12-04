@@ -10,6 +10,7 @@ fields:
     label: ISBN
     type: text
     width: 1/4
+    translate: false
 
   info:
     label:
@@ -21,7 +22,7 @@ fields:
       de: Nach dem Eintragen der ISBN muss die Seite gespeichert werden!
       en: After inserting the ISBN you have to save the page!
 
-  load_book:
+  updateBook:
     type: janitor
     label:
       de: Buchtitel laden
@@ -31,7 +32,7 @@ fields:
     data : '{{ page.id }}'
     width: 1/4
 
-  download_cover:
+  downloadCover:
     type: janitor
     label:
       de: Cover erstellen
@@ -48,6 +49,14 @@ fields:
       en: Request OLA
     progress: Abfrage läuft ..
     job: ola
+    data : '{{ page.id }}'
+    width: 1/4
+
+  upgradeBook:
+    type: janitor
+    label: Upgrade starten
+    progress: Upgrade läuft ..
+    job: upgradeBook
     data : '{{ page.id }}'
     width: 1/4
 
