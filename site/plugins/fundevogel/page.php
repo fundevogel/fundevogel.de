@@ -20,6 +20,10 @@ return [
             : site()->fallback()->toFile()
         ;
 
+        if (!$page->cover()->exists()) {
+            $cover = $page->images()->first();
+        }
+
         return $cover;
     },
     'moreLink' => function($classes = '') {
