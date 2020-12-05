@@ -58,7 +58,7 @@ return [
 
         $file = new File([
             'parent' => $page,
-            'filename' => Str::slug($page->book_title()) . '_' . Str::slug($page->author()) . '.jpg',
+            'filename' => Str::slug($page->title()) . '_' . Str::slug($page->author()) . '.jpg',
         ]);
 
         if (!$file->exists()) {

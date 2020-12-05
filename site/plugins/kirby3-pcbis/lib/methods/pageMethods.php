@@ -50,7 +50,7 @@ return [
                 continue;
             }
 
-            # (2) .. `book_subtitle` if the `author` field is filled
+            # (2) .. `subtitle` if the `author` field is filled
             $hasAuthor = $this->author()->isNotEmpty();
 
             if ($key === 'subtitle' && $hasAuthor) {

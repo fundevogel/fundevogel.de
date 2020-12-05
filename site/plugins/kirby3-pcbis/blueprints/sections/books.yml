@@ -8,7 +8,7 @@ template:
   - book.default
   - book.ebook
 sortBy: date desc
-text: "{{ page.book_title }}"
+text: "{{ page.title }}"
 info: "{{ page.author }}"
 layout: cards
 image:

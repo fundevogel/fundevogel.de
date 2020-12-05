@@ -30,7 +30,7 @@
                     $book = $favorite->book()->toPage();
                     $title = $favorite->title()->isNotEmpty()
                         ? $favorite->title()->html()
-                        : $book->book_title()->html()
+                        : $book->title()->html()
                     ;
 
                     $text = $favorite->text()->isNotEmpty()
@@ -86,7 +86,7 @@
                     $book = $favorite->book()->toPage();
                     $title = $favorite->title()->isNotEmpty()
                         ? $favorite->title()->html()
-                        : $book->book_title()->html()
+                        : $book->title()->html()
                     ;
                 ?>
                 <span
