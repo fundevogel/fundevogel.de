@@ -66,16 +66,8 @@ fields:
       en: Check details
     type: headline
 
-  book_title:
-    label:
-      de: Titel
-      en: Title
-    type: text
-    width: 1/2
-
-  book_subtitle:
+  subtitle:
     label:
       de: Untertitel
       en: Subtitle
     type: text
-    width: 1/2

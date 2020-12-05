@@ -53,7 +53,7 @@ return [
             # (2) .. `book_subtitle` if the `author` field is filled
             $hasAuthor = $this->author()->isNotEmpty();
 
-            if ($key === 'book_subtitle' && $hasAuthor) {
+            if ($key === 'subtitle' && $hasAuthor) {
                 continue;
             }
 
@@ -110,11 +110,11 @@ return [
 
         try {
             $this->update([
-                'isbn'       => $book->isbn(),
-                'year'       => $book->releaseYear(),
-                'olaCode'    => $book->statusCode(),
-                'olaMessage' => $book->statusMessage(),
-                'shop'       => getShopLink($book->isbn()),
+                'isbn'        => $book->isbn(),
+                'releaseYear' => $book->releaseYear(),
+                'olaCode'     => $book->statusCode(),
+                'olaMessage'  => $book->statusMessage(),
+                'shop'        => getShopLink($book->isbn()),
             ]);
 
             return true;

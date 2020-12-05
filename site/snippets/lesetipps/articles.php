@@ -4,13 +4,13 @@
 ?>
 <article class="flex flex-col md:flex-row">
     <div class="flex-none flex justify-center items-center">
-        <a class="<?php e($lesetipp->hasAward()->bool(), 'mb-16 ', 'mb-8 ') ?>md:mb-0 rounded-lg group overflow-hidden" href="<?= $lesetipp->url() ?>">
+        <a class="<?php e($lesetipp->hasAward(), 'mb-16 ', 'mb-8 ') ?>md:mb-0 rounded-lg group overflow-hidden" href="<?= $lesetipp->url() ?>">
             <?= $lesetipp->getBookCover('rounded-lg transition-transform duration-350 transform group-hover:scale-110') ?>
         </a>
     </div>
     <div class="md:ml-10 flex-1 flex flex-col justify-center relative">
         <?php
-            if ($lesetipp->hasAward()->bool()) :
+            if ($lesetipp->hasAward()) :
             $award = $lesetipp->getAward();
         ?>
         <?= useSVG($award['awardtitle'], 'js-tippy w-auto h-16 hidden md:block absolute -right-5 top-0', $award['identifier']) ?>

@@ -27,7 +27,4 @@ Kirby::plugin('fundevogel/kirby3-pcbis', [
         'book.default' => 'BookPage',
         'book.ebook' => 'BookPage',
     ],
-    'snippets' => [
-        'webPicture' => __DIR__ . '/snippets/webPicture.php',
-    ],
 ]);

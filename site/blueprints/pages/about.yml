@@ -46,7 +46,6 @@ tabs:
           en: Subpages
         create: false
         layout: list
-        image: page.getCover
 
   # Metadata
   tab_seo: tabs/seo

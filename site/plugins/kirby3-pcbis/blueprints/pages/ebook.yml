@@ -59,7 +59,7 @@ tabs:
                 type: text
                 width: 1/4
 
-              year:
+              releaseYear:
                 label:
                   de: Jahr
                   en: Year
@@ -73,7 +73,7 @@ tabs:
                 type: text
                 width: 1/4
 
-              page_count:
+              pageCount:
                 label:
                   de: Seitenzahl
                   en: Page count

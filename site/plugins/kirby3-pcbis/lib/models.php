@@ -16,11 +16,11 @@ class BookPage extends Page {
     public function getAward() {
         $award = '';
 
-        if (Str::contains(Str::slug($this->award()), 'lesepeter')) {
+        if (Str::contains(Str::lower($this->award()), 'lesepeter')) {
             $award = 'lesepeter';
         }
 
-        if (Str::contains(Str::slug($this->award()), 'wolgast')) {
+        if (Str::contains(Str::lower($this->award()), 'wolgast')) {
             $award = 'wolgast';
         }
 

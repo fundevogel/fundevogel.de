@@ -63,7 +63,7 @@ tabs:
                 type: text
                 width: 1/4
 
-              year:
+              releaseYear:
                 label:
                   de: Jahr
                   en: Year

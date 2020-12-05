@@ -39,8 +39,6 @@ tabs:
         sections:
           listed:
             template: lesetipps.article
-            text: "{{ page.author }}: {{ page.book_title }}"
-            info: "{{ page.date.toDate('d.m.Y') }}"
             image:
               query: page.getCover
 
@@ -69,7 +67,6 @@ tabs:
             create: false
             size: small
             image:
-              query: page.getCover
               ratio: 3/2
 
       column_sidebar:

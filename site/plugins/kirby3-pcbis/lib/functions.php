@@ -22,36 +22,35 @@ function loadBook(string $isbn)
 
         # Basic dataset
         $data = [
-            'type'          => $book->type(),
-            'isbn'          => $book->isbn(),
-            'title'         => $book->title(),
-            'book_title'    => $book->title(),
-            'book_subtitle' => $book->subtitle(),
-            'description'   => $book->description(),
-            'price'         => $book->retailPrice(),
-            'year'          => $book->releaseYear(),
-            'age'           => $book->age(),
-            'categories'    => $book->categories(),
-            'topics'        => $book->topics(),
-            'publisher'     => $book->publisher(),
-            'isSeries'      => $book->isSeries(),
-            'series'        => $book->series(),
-            'volume'        => $book->volume(),
-            'author'        => $book->author(),
-            'illustrator'   => $book->illustrator(),
-            'drawer'        => $book->drawer(),
-            'photographer'  => $book->photographer(),
-            'translator'    => $book->translator(),
-            'editor'        => $book->editor(),
-            'participant'   => $book->participant(),
+            'type'         => $book->type(),
+            'isbn'         => $book->isbn(),
+            'title'        => $book->title(),
+            'subtitle'     => $book->subtitle(),
+            'description'  => $book->description(),
+            'price'        => $book->retailPrice(),
+            'releaseYear'  => $book->releaseYear(),
+            'age'          => $book->age(),
+            'categories'   => $book->categories(),
+            'topics'       => $book->topics(),
+            'publisher'    => $book->publisher(),
+            'isSeries'     => $book->isSeries(),
+            'series'       => $book->series(),
+            'volume'       => $book->volume(),
+            'author'       => $book->author(),
+            'illustrator'  => $book->illustrator(),
+            'drawer'       => $book->drawer(),
+            'photographer' => $book->photographer(),
+            'translator'   => $book->translator(),
+            'editor'       => $book->editor(),
+            'participant'  => $book->participant(),
         ];
 
         # Extended dataset: book
         if ($book->isBook()) {
             $data = A::update($data, [
-                'binding'    => $book->binding(),
-                'page_count' => $book->pageCount(),
-                'antolin'    => $book->antolin(),
+                'binding'   => $book->binding(),
+                'pageCount' => $book->pageCount(),
+                'antolin'   => $book->antolin(),
             ]);
         }
 
