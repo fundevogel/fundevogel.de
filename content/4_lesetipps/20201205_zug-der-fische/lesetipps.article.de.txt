@@ -1,0 +1,59 @@
+Title: Zug der Fische
+
+----
+
+Text:
+
+Blaue Fische schwimmen in einem Bergfluss am Rand der ukrainischen Karpaten, der für Marika, die Protagonistin der Erzählung, zur Heimat gehört. Während ihre Mutter seit nun mehr als drei Jahren in Italien arbeitet, um für die Familie Geld zu verdienen, lebt das Mädchen mit ihrer Großmutter allein in den recht bescheidenen Verhältnissen der dortigen ländlichen Umgebung. Marika ist eines der vielen hunderttausend osteuropäischen Kinder, das aufgrund der Arbeitsemigration der Eltern nach Westeuropa ohne diese aufwachsen muss.
+
+### Armut aus kindlicher Perspektive
+Die Rahmenhandlung der Narration bildet titelgebend der Zug der Fische, der an dem geschilderten Wintertag für die Protagonistin außergewöhnlich erscheint. In einer Rückblende berichtet der personale Erzähler von Marikas Jahr, so dass sich die Lebensverhältnisse des Mädchens erst nach und nach für den Rezipierenden offenbaren. Im Sommer sammelt das Mädchen Blaubeeren, die sie selbstständig in der Stadt verkauft, während sie im Herbst, wenn der Regen durch die Dachschindeln tropft, ihre Großmutter bestmöglich unterstützt.
+
+In der Erzählung werden einerseits die positiven Aspekte in Marikas Leben, etwa der Gemeinschaftssinn und die religiöse Verbundenheit der dortigen Bewohnerinnen und Bewohner, anhand von alltäglichen Situationen geschildert. Aber auch die negativen Aspekte wie die Armut der Menschen werden aus einer kindlichen Perspektive angesprochen. Überall in ihrem Alltag begegnet Marika der Sehnsucht nach ihrer Mutter – im Blau der Fische, die sie an die Briefmarken aus Italien erinnern, in der Geschichte vom Waisen Harry Potter, von dem ihr die Lehrerin erzählt hat, oder in den Briefen der Mutter selbst, die sie nur zum Geburtstag oder Weihnachten erhält und die ihr größter Schatz sind.
+
+----
+
+Verdict: Marika vermisst ihre Mutter, die in Westeuropa arbeitet, um ihrer Familie in der Ukraine den Lebensunterhalt zu finanzieren. Die Sehnsucht des Mädchens zeigt sich eindrücklich im poetischen Text und in den feinsinnigen Illustrationen. Als beispielhaftes Einzelschicksal dieser sogenannten Eurowaisen – einem realen Problem unserer Gegenwart – schildert das Bilderbuch "Zug der Fische" auf beeindruckende Weise in Wort und Bild den Alltag der Heranwachsenden und vor allem den Wunsch nach einer intakten Familie.
+
+----
+
+Conclusion:
+
+### Einordnendes Nachwort
+Zum Weihnachtsfest der erzählten Gegenwart trifft Marika auf eine Gruppe von Kindern aus der Nachbarschaft, die alle ein ähnliches Schicksal teilen. Iwan, der Älteste, leitet sie an, auf einen 100-Dollar-Schein den Wunsch „Komm zurück“ zu schreiben. Danach übergeben sie die blauglänzenden Scheine dem Fluss, wo sie zu einem der vielen Fische werden und die Hoffnung in sich tragen, die Eltern zurückzubringen.
+
+Das Buch endet mit einem einordnenden Nachwort zum Thema der Eurowaisen vom Journalisten Keno Verseck, der für den „Spiegel“ und die Deutsche Welle publiziert. Er liefert dabei gesellschaftspolitische Hintergründe und fordert Aufmerksamkeit für diese aktuelle Thematik. Erntehelferinnen und -helfer, Schlachterinnen und Schlachter, Putz- und Pflegekräfte kommen nach Deutschland und arbeiten in Berufen, die für die Einheimischen wenig lukrativ erscheinen. Ihre Kinder müssen sie dabei zurücklassen.
+
+In einer einfachen und doch poetischen Sprache bietet der Text von Yaroslava Black detaillierte und bildhafte Beschreibungen der Lebenswelt Marikas. Die Illustrationen von Ulrike Jänichen komplementieren diese und zeichnen sich besonders durch ihre zurückhaltenden grafischen Buntstiftzeichnungen aus. Die Größendarstellungen der einzelnen Objekte entsprechen dabei der Bedeutungsperspektive und werden gemäß ihrer Wichtigkeit für die Protagonistin zueinander in Beziehung gesetzt. Diese taucht in jeder Szene auf und hebt sich oft durch ihre rote Kleidung kontrastvoll von der sonst harmonischen Farbgebung der Umgebung in Grün-, Blau- und Brauntönen ab.
+
+Die Bilder bieten nicht nur eine Veranschaulichung der ukrainisch-ländlichen Alltagskultur, indem sie die Architektur auf dem Land mit den einfachen Höfen, Kapellen und Kirchen zeigen, sondern sie erweitern den Text auch mit symbolischen Elementen um weitere Bedeutungsebenen. Die vielen Details der Bilder zeigen neben Hochzeitsfotos und Katzenbildern im Haus der Großmutter auch die westlichen Einflüsse auf die Gegend. So werden auf dem Markt auf Bananen-Kisten Waldbeeren verkauft, während über den Köpfen eine Sprite-Werbung prangt.
+
+----
+
+Builder: 
+
+----
+
+Date: 2020-12-05
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Isaward: true
+
+----
+
+Books:
+
+- buecher/zug-der-fische
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
