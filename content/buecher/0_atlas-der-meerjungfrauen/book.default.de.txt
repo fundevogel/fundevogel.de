@@ -74,7 +74,7 @@ Olamessage:
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002835164/63715/10002/-3/Buecher_Kinder--und-Jugend/Anna-Claybourne/Atlas-der-Meerjungfrauen/4099276460822241240/%204099276460822241224/%
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002835164/63715/10002/-3/Buecher_Kinder--und-Jugend/Anna-Claybourne/Atlas-der-Meerjungfrauen
 
 ----
 

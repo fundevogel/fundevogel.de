@@ -70,7 +70,7 @@ Olamessage:
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/631976/63715/10002/-3/Buecher_Abenteuer/Cornelia-Funke/Herr-der-Diebe/4099276460822241510/%204099276460822241500/%
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/631976/63715/10002/-3/Buecher_Abenteuer/Cornelia-Funke/Herr-der-Diebe
 
 ----
 

@@ -70,7 +70,7 @@ Olamessage:
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838809406/63715/10002/-3/Buecher_Kinder--und-Jugend/Lorenz-Pauli/Pippilothek/4099276460822241241/%204099276460822241224/%
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838809406/63715/10002/-3/Buecher_Kinder--und-Jugend/Lorenz-Pauli/Pippilothek
 
 ----
 

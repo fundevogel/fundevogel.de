@@ -70,7 +70,7 @@ Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838828108/63715/10002/-3/Buecher_Kinder--und-Jugend//Wo-kommen-die-Worte-her/4099276460822241246/%204099276460822241224/%
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838828108/63715/10002/-3/Buecher_Kinder--und-Jugend//Wo-kommen-die-Worte-her
 
 ----
 

@@ -70,7 +70,7 @@ Olamessage:
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002532723/63715/10002/-3/Buecher_Bilderbuecher/Josef-Guggenmos/Ein-Riese-warf-einen-Stein/4099276460822241241/%204099276460822241224/%
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002532723/63715/10002/-3/Buecher_Bilderbuecher/Josef-Guggenmos/Ein-Riese-warf-einen-Stein
 
 ----
 
