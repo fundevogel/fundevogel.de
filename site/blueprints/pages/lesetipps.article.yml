@@ -43,6 +43,19 @@ tabs:
               de: Zusammenfassung?
               en: Conclusion?
 
+          isAward:
+            extends: fields/toggle
+            label:
+              de: Rezension
+              en: Review
+            text:
+              de:
+                - FV
+                - Extern
+              en:
+                - FV
+                - External
+
           books:
             label:
               de: Buch / Bücher

@@ -9,6 +9,12 @@ class LesetippsArticlePage extends Page {
         return $book->getBookCover($classes);
     }
 
+    public function hasAward() {
+        $book = $this->books()->toPages()->first();
+
+        return $book->hasAward()->bool();
+    }
+
     public function getAward() {
         $book = $this->books()->toPages()->first();
 
@@ -19,18 +25,30 @@ class LesetippsArticlePage extends Page {
         $isbn = new Isbn($props['content']['title']);
 
         try {
+            # Check if valid ISBN was provided
             $isbn->validate();
             $isbn = $isbn->format("ISBN-13");
+
+            # Fetch information from API
+            $data = loadBook($isbn);
         } catch(\Exception $e) {
             return parent::create($props);
         }
 
-        # Fetch information from API
-        $data = loadBook($isbn);
+        # With content creators, you never know ..
+        $template = 'book.default';
+
+        if ($data['type'] == 'Hörbuch') {
+            $template = 'book.audio';
+        }
+
+        if ($data['type'] == 'ePublikation') {
+            $template = 'book.ebook';
+        }
 
         $book = page('buecher')->createChild([
             'content' => $data,
-            'template' => 'book',
+            'template' => $template,
         ]);
 
         return parent::create(array_merge($props, [

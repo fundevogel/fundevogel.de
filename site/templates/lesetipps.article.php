@@ -3,18 +3,28 @@
 <header class="container">
     <time datetime="<?= $page->date()->toDate('Y-m-d') ?>"><?= $page->date()->toDate('d.m.Y') ?></time>
     <h2><?= $page->title()->html() ?></h2>
-    <?php if ($page->hasAward()->bool()) snippet('lesetipps/award.intro') ?>
+    <?php if ($page->hasAward()) snippet('lesetipps/award.intro') ?>
     <?= $page->text()->kt() ?>
 </header>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top') ?>
     <div class="pt-12 pb-8 bg-orange-light">
+        <?php
+            foreach ($books as $book) :
+
+            $age_list = explode(' ', $book->age());
+            $period = array_pop($age_list);
+            $age = implode(' ', $age_list);
+
+            $categories = $book->categories()->split();
+            $topics = $book->topics()->split();
+        ?>
         <div class="container lg:px-8 xl:px-12">
             <div class="flex flex-col lg:flex-row">
                 <div class="flex-none flex justify-center">
                     <div class="flex items-center mb-6 lg:mb-0">
                         <div class="group relative">
-                            <?= $page->getBookCover('rounded-lg') ?>
+                            <?= $book->getBookCover('rounded-lg') ?>
                             <div class="inset-0 w-full h-full absolute opacity-0 group-hover:opacity-100 rounded-lg bg-orange-medium text-shadow cursor-context-menu transition-all spread-out">
                                 <div class="pt-8 px-4">
                                     <div class="lesetipp-overlay-section">
@@ -62,35 +72,35 @@
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('AutorIn'), 'js-tippy lesetipp-icon', 'bulb') ?>
                                 <span class="ml-4">
-                                    <?= $page->author()->html() ?>
+                                    <?= $book->author()->html() ?>
                                 </span>
                             </div>
-                            <?php if ($page->illustrator()->isNotEmpty()) : ?>
+                            <?php if ($book->illustrator()->isNotEmpty()) : ?>
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('IllustratorIn'), 'js-tippy lesetipp-icon', 'palette') ?>
                                 <span class="ml-4">
-                                    <?= $page->illustrator()->html() ?>
+                                    <?= $book->illustrator()->html() ?>
                                 </span>
                             </div>
-                            <?php elseif ($page->narrator()->isNotEmpty()) : ?>
+                            <?php elseif ($book->narrator()->isNotEmpty()) : ?>
                                 <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('SprecherIn'), 'js-tippy lesetipp-icon', 'microphone') ?>
                                 <span class="ml-4">
-                                    <?= $page->narrator()->html() ?>
+                                    <?= $book->narrator()->html() ?>
                                 </span>
                             </div>
-                            <?php elseif ($page->translator()->isNotEmpty()) : ?>
+                            <?php elseif ($book->translator()->isNotEmpty()) : ?>
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('ÜbersetzerIn'), 'js-tippy lesetipp-icon', 'globe') ?>
                                 <span class="ml-4">
-                                    <?= $page->translator()->html() ?>
+                                    <?= $book->translator()->html() ?>
                                 </span>
                             </div>
-                            <?php elseif ($page->participants()->isNotEmpty()) : ?>
+                            <?php elseif ($book->participants()->isNotEmpty()) : ?>
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('Mitwirkende'), 'js-tippy lesetipp-icon', 'heart') ?>
                                 <span class="ml-4">
-                                    <?= $page->participants()->html() ?>
+                                    <?= $book->participants()->html() ?>
                                 </span>
                             </div>
                             <?php endif ?>
@@ -99,13 +109,13 @@
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG(t('Verlag'), 'js-tippy lesetipp-icon', 'truck', 'data-tippy-placement="bottom"') ?>
                                 <span class="ml-4">
-                                    <?= $page->publisher()->html() ?>
+                                    <?= $book->publisher()->html() ?>
                                 </span>
                             </div>
                             <div class="mb-4 flex-1 flex items-center">
                                 <?= useSVG('ISBN', 'js-tippy lesetipp-icon', 'book-open', 'data-tippy-placement="bottom"') ?>
                                 <span class="ml-4">
-                                    <?= $page->isbn()->html() ?>
+                                    <?= $book->isbn()->html() ?>
                                 </span>
                             </div>
                         </div>
@@ -118,27 +128,27 @@
                                 <span class="block text-sm sm:text-lg"><?= $period ?></span>
                             </div>
                             <?php endif ?>
-                            <?php if ($page->page_count()->isNotEmpty()) : ?>
+                            <?php if ($book->pageCount()->isNotEmpty()) : ?>
                             <div class="mr-6 md:mr-8 text-center leading-tight">
-                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->page_count()->htm() ?></span>
+                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $book->pageCount()->htm() ?></span>
                                 <span class="block text-sm sm:text-lg"><?= t('Seiten') ?></span>
                             </div>
                             <?php endif ?>
-                            <?php if ($page->duration()->isNotEmpty()) : ?>
+                            <?php if ($book->duration()->isNotEmpty()) : ?>
                             <div class="mr-6 md:mr-8 text-center leading-tight">
-                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->duration()->htm() ?></span>
+                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $book->duration()->htm() ?></span>
                                 <span class="block text-sm sm:text-lg"><?= t('Minuten') ?></span>
                             </div>
                             <?php endif ?>
-                            <?php if ($page->price()->isNotEmpty()) : ?>
+                            <?php if ($book->price()->isNotEmpty()) : ?>
                             <div class="mr-6 md:mr-8 text-center leading-tight">
-                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $page->price()->html() ?> €</span>
+                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $book->price()->html() ?> €</span>
                                 <span class="block text-sm sm:text-lg"><?= t('Ladenpreis') ?></span>
                             </div>
                             <?php endif ?>
                         </div>
                         <div class="mt-12 xs:mt-0 flex-none">
-                            <?php if ($page->shop()->isNotEmpty() && $page->isAvailable()->bool()) : ?>
+                            <?php if ($book->shop()->isNotEmpty() && $book->isAvailable()->bool()) : ?>
                             <a class="py-3 px-5 sm:py-4 sm:px-6 rounded-full text-white text-shadow bg-red-light hover:bg-red-medium transition-all" href="<?= $page->shop() ?>" target="_blank">
                                 <span class="sketch text-2xl select-none"><?= t('Zum Shop') ?> !</span>
                             </a>
@@ -148,11 +158,11 @@
                             </a>
                             <?php endif ?>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
+        <?php endforeach ?>
     </div>
     <?= useSeparator('orange-light', 'bottom') ?>
 </aside>
