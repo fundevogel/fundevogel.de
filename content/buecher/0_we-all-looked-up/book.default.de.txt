@@ -6,11 +6,7 @@ Isbn: 978-3-570-40342-6
 
 ----
 
-Book-title: We All Looked Up
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Henriette Zeltner
-
-----
-
-Participants: 
-
-----
-
-Page-count: 448
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 12,99
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 448
+
+----
+
+Price: 12,99
 
 ----
 
@@ -70,11 +58,41 @@ Description: Was wäre, wenn ein riesiger Asteroid durchs All Richtung Erde trud
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460850965849/63715/10002/-3/Buecher_Kinder--und-Jugend/Tommy-Wallach/We-All-Looked-Up
 
 ----
 
-Cover: - we-all-looked-up_tommy-wallach.jpg
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- we-all-looked-up_tommy-wallach.jpg
 
 ----
 
@@ -83,6 +101,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 

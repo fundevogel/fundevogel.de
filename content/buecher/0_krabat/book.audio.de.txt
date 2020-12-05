@@ -1,0 +1,147 @@
+Title: Krabat
+
+----
+
+Isbn: 978-3-7456-0167-1
+
+----
+
+Subtitle: 
+
+----
+
+Author: Otfried Preußler
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: Silberfisch
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Duration: 210
+
+----
+
+Releaseyear: 2020
+
+----
+
+Narrator: Otfried Preußler
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Magie
+
+----
+
+Description:
+
+Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
+
+Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002560564/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Otfried-Preussler/Krabat---Die-Autorenlesung-3-Audio-CD
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- krabat_otfried-preussler.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 
+
+----
+
+Composer: 

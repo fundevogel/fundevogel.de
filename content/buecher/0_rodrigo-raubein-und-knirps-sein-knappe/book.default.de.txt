@@ -6,11 +6,7 @@ Isbn: 978-3-522-18500-4
 
 ----
 
-Book-title: Rodrigo Raubein und Knirps, sein Knappe
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Regina Kehn
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 208
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 17,00
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 208
+
+----
+
+Price: 17,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Knirps ist überzeugt, dass ein echter Raubritter in ihm steckt. De
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/product/3000001482806/Buecher_Kinder--und-Jugend/Michael-Ende/Rodrigo-Raubein-und-Knirps-sein-Knappe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

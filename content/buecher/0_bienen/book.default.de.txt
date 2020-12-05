@@ -6,11 +6,7 @@ Isbn: 978-3-8369-5915-5
 
 ----
 
-Book-title: Bienen
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Wojciech Grajkowski
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Thomas Weiler
-
-----
-
-Participants: 
-
-----
-
-Page-count: 80
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 24,95
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 80
+
+----
+
+Price: 24,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Willkommen im Reich der Bienen! Hier können wir die fleißigen Ins
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851994606/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Piotr-Socha/Bienen/4099276460822241240/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Sachbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -104,32 +128,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: Wojciech Grajkowski

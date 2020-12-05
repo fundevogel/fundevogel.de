@@ -6,11 +6,7 @@ Isbn: 978-3-7348-4053-1
 
 ----
 
-Book-title: Emil und die Prinzessin aus dem Nachbarhaus
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Anke Kuhl
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Meike Blatzheim
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 13,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 13,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Emil ist neun Jahre alt und war bis zu diesem besonderen Montag ein
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002111350/63715/10002/-3/Buecher_Kinder--und-Jugend/Marianne-Kaurin/Emil-und-die-Prinzessin-aus-dem-Nachbarhaus
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

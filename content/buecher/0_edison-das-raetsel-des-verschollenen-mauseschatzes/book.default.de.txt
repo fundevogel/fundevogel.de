@@ -6,11 +6,7 @@ Isbn: 978-3-314-10447-3
 
 ----
 
-Book-title: Edison
-
-----
-
-Book-subtitle: Das Rätsel des verschollenen Mauseschatzes
+Subtitle: Das Rätsel des verschollenen Mauseschatzes
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 112
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 22,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 112
+
+----
+
+Price: 22,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Auf der Suche nach einem lange verschollenen Schatz wagen zwei Mäu
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001133024/63715/10002/-3/Buecher_Kinder--und-Jugend/Torben-Kuhlmann/Edison
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Mäuseabenteuer
+
+----
+
+Volume: .3
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

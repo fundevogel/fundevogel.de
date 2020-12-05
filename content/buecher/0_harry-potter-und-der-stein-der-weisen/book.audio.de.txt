@@ -1,0 +1,144 @@
+Title: Harry Potter und der Stein der Weisen
+
+----
+
+Isbn: 978-3-86717-351-3
+
+----
+
+Subtitle: 
+
+----
+
+Author: J. K. Rowling
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: DHV Der HörVerlag
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Duration: 576
+
+----
+
+Releaseyear: 2008
+
+----
+
+Narrator: Rufus Beck
+
+----
+
+Price: 29,95
+
+----
+
+Topics: Abenteuer, Magie, Zauberer, Zauberschule
+
+----
+
+Description: Harry Potter hat sich bisher für einen ganz normalen Jungen gehalten. Er hat sich getäuscht! Er ist ein Zauberer, in den die magische Welt große Hoffnungen setzt. Er muss die Zauberei von der Pike auf lernen, viele Abenteuer bestehen und er gewinnt vor allem gute Freunde. So ganz nebenbei rettet er die Welt der guten Zauberer und Hexen vor dem Untergang, aber das ist fast schon selbstverständlich.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 80
+
+----
+
+Olamessage: Fehlt, da der Verlag/Lieferant derzeit nicht liefern kann
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1434493/63715/10002/-3/weitere-Kategorien_Hoerbuecher/J-K-Rowling/Harry-Potter-und-der-Stein-der-Weisen-9-Audio-CDs
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  harry-potter-und-der-stein-der-weisen_j-k-rowling.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Harry Potter
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 
+
+----
+
+Composer: 

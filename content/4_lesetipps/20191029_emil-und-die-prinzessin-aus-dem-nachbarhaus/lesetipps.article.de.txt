@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-7348-4053-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002111350/63715/10002/-3/Buecher_Kinder--und-Jugend/Marianne-Kaurin/Emil-und-die-Prinzessin-aus-dem-Nachbarhaus
-
-----
-
-Book-title: Emil und die Prinzessin aus dem Nachbarhaus
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Marianne Kaurin
-
-----
-
-Illustrator: Anke Kuhl
-
-----
-
-Narrator: 
-
-----
-
-Translator: Meike Blatzheim
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Publisher: Magellan
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 13,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Freundschaft, Junge, Schule
-
-----
-
-Cover:
-
-- >
-  emil-und-die-prinzessin-aus-dem-nachbarhaus_marianne-kaurin.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-522-45902-0
 
 ----
 
-Book-title: Seltene Tiere
-
-----
-
-Book-subtitle: Ein Atlas der bedrohten Arten
+Subtitle: Ein Atlas der bedrohten Arten
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Tom Frost
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Ebi Naumann
-
-----
-
-Participants: 
-
-----
-
-Page-count: 64
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 20,00
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 20,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Unbedingt schützenswert! Großformatiges Bilderbuch für Groß und
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001482258/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Jenkins/Seltene-Tiere
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: First Class Post
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Juli 2019
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fuer-das-sachbuch-seltene-tiere
+
+----
+
+Participant: 

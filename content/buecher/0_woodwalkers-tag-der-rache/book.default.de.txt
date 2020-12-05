@@ -2,15 +2,11 @@ Title: Woodwalkers - Tag der Rache
 
 ----
 
-Isbn: 978-3-401-60397-1
+Isbn: 978-3-401-60611-8
 
 ----
 
-Book-title: Woodwalkers - Tag der Rache
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Claudia Carls
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 368
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 14,00
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 368
+
+----
+
+Price: 14,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Es ist so weit! In den Rocky Mountains ist Sommer und für Carag un
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/product/3000001431761/Buecher_Fantasy/Katja-Brandis/Woodwalkers---Tag-der-Rache
+Isavailable: false
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003038660/63715/10002/-3/Buecher_Kinder--und-Jugend/Katja-Brandis/Woodwalkers---Tag-der-Rache
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Woodwalkers
+
+----
+
+Volume: .6
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

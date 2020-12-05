@@ -6,11 +6,7 @@ Isbn: 978-3-446-26821-0
 
 ----
 
-Book-title: Malamander - Die Geheimnisse von Eerie-on-Sea
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Claudia Max
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 17,00
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 17,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Herbie, Violet und Hakenhand - Thomas Taylor erzählt ein rasantes 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000002809340/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Taylor/Malamander---Die-Geheimnisse-von-Eerie-on-Sea
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

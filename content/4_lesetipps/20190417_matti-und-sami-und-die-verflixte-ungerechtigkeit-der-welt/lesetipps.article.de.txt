@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-407-81231-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626752/63715/10002/-3/Buecher_Kinder--und-Jugend/Salah-Naoura/Matti-und-Sami-und-die-verflixte-Ungerechtigkeit-der-Welt
-
-----
-
-Book-title: Matti und Sami und die verflixte Ungerechtigkeit der Welt
-
-----
-
-Book-subtitle: Roman für Kinder
-
-----
-
-Author: Salah Naoura
-
-----
-
-Illustrator: Barbara Jung
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 150
-
-----
-
-Duration: 
-
-----
-
-Publisher: Beltz
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 12,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Finnland, Gerechtigkeit
-
-----
-
-Cover:
-
-- >
-  matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt_salah-naoura.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt
-
-----
-
-Isaudiobook: false
 
 ----
 

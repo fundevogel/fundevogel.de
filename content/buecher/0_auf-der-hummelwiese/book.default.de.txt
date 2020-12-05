@@ -6,11 +6,7 @@ Isbn: 978-3-7373-5528-5
 
 ----
 
-Book-title: Auf der Hummelwiese
-
-----
-
-Book-subtitle: Das große Herbarium
+Subtitle: Das große Herbarium
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Maj Fagerberg
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Angelika Kutsch
-
-----
-
-Participants: 
-
-----
-
-Page-count: 86
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 22,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 86
+
+----
+
+Price: 22,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wo Hummeln summen und Glockenblumen leuchten - Blumen und Pflanzen 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000592602/63715/10002/-3/Buecher_Kinder--und-Jugend/Stefan-Casta/Auf-der-Hummelwiese
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Juli 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fuer-sachbuch-ueber-wald-und-wiesenblumen
+
+----
+
+Participant: 

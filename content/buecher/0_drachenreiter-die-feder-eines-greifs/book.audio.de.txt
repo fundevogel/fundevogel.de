@@ -6,11 +6,7 @@ Isbn: 978-3-8373-0979-9
 
 ----
 
-Book-title: Drachenreiter - Die Feder eines Greifs
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -18,11 +14,11 @@ Author: Cornelia Funke
 
 ----
 
-Narrator: Rainer Strecker
+Director: 
 
 ----
 
-Director: 
+Producer: 
 
 ----
 
@@ -38,6 +34,14 @@ Duration: 600
 
 ----
 
+Releaseyear: 2016
+
+----
+
+Narrator: Rainer Strecker
+
+----
+
 Price: 24,99
 
 ----
@@ -50,11 +54,27 @@ Description: Fesselnde Fortsetzung des Drachenreiters: Drei Jahre nach ihrem Sie
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/4099276460852371958/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Cornelia-Funke/Drachenreiter---Die-Feder-eines-Greifs-Audio-CDs
 
 ----
 
-Year: 2016
+Translator: 
+
+----
+
+Editor: 
 
 ----
 
@@ -67,18 +87,6 @@ Drawer:
 ----
 
 Photographer: 
-
-----
-
-Translator: 
-
-----
-
-Editor: 
-
-----
-
-Producer: 
 
 ----
 
@@ -101,6 +109,14 @@ Isseries: false
 
 ----
 
+Series: Drachenreiter
+
+----
+
+Volume: 2
+
+----
+
 Hasaward: false
 
 ----
@@ -117,16 +133,8 @@ Leselink:
 
 ----
 
-Page-count: 
-
-----
-
-Isaudiobook: true
-
-----
-
-Binding: CD
-
-----
-
 Participant: 
+
+----
+
+Composer: German Wahnsinn

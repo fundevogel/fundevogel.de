@@ -34,98 +34,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Januar 2017
-
-----
-
-Leselink: https://www.ajum.de/html/Lesepeter/201701.html
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-7891-3338-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851356344/63715/10002/-3/Buecher_Kinder--und-Jugend/Lisa-Marie-Dickreiter/Max-und-die-Wilde-Sieben---Die-Drachenbande
-
-----
-
-Book-title: Max und die Wilde Sieben - Die Drachenbande
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Lisa-Marie Dickreiter & Winfried Oelsner
-
-----
-
-Illustrator: Ute Krause
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 240
-
-----
-
-Duration: 
-
-----
-
-Publisher: Oetinger
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 12,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Krimis/Thriller
-
-----
-
-Cover:
-
-- >
-  max-und-die-wilde-sieben-die-drachenbande_lisa-marie-dickreiter-winfried-oelsner.jpg
 
 ----
 
@@ -133,10 +42,6 @@ Books:
 
 - >
   buecher/max-und-die-wilde-sieben-die-drachenbande
-
-----
-
-Isaudiobook: false
 
 ----
 

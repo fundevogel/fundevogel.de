@@ -6,11 +6,7 @@ Isbn: 978-3-551-17061-3
 
 ----
 
-Book-title: Ich mag ... schaukeln, malen, Fußball, Krach
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 98
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 12,99
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: Pappband
+
+----
+
+Pagecount: 98
+
+----
+
+Price: 12,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Was magst du? Was mag ich? Diese Fragen drängen sich immer wieder 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851007401/63715/10002/-3/Buecher_Kinder--und-Jugend/Constanze-von-Kitzing/Ich-mag--schaukeln-malen-Fussball-Krach
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Die Großen Kleinen
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

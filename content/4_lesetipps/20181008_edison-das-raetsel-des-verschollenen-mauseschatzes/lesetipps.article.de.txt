@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-314-10447-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001133024/63715/10002/-3/Buecher_Kinder--und-Jugend/Torben-Kuhlmann/Edison
-
-----
-
-Book-title: Edison
-
-----
-
-Book-subtitle: Das Rätsel des verschollenen Mauseschatzes
-
-----
-
-Author: Torben Kuhlmann
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 112
-
-----
-
-Duration: 
-
-----
-
-Publisher: NordSüd Verlag
-
-----
-
-Age: ab 5 Jahren
-
-----
-
-Price: 22,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Bilderbuch
-
-----
-
-Topics: Abenteuer, Schatzsuche, Unterwasserwelt, Mäuse
-
-----
-
-Cover:
-
-- >
-  edison-das-raetsel-des-verschollenen-mauseschatzes_torben-kuhlmann.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/edison-das-raetsel-des-verschollenen-mauseschatzes
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -35,98 +35,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Mai 2017
-
-----
-
-Leselink: https://www.ajum.de/html/Lesepeter/201705.html
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-89565-324-7
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851926692/63715/10002/-3/Buecher_Kinder--und-Jugend/Annie-M-G-Schmidt/Ein-Teich-voll-mit-Tinte
-
-----
-
-Book-title: Ein Teich voll mit Tinte
-
-----
-
-Book-subtitle: Reimgeschichten
-
-----
-
-Author: Annie M. G. Schmidt & Sieb Posthuma
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Christian Golusda
-
-----
-
-Participants: 
-
-----
-
-Page-count: 56
-
-----
-
-Duration: 
-
-----
-
-Publisher: Moritz
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 15,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Gedichtband
-
-----
-
-Topics: Kunst, Lyrik, Reime
-
-----
-
-Cover:
-
-- >
-  ein-teich-voll-mit-tinte_annie-m-g-schmidt-sieb-posthuma.jpg
 
 ----
 
@@ -134,10 +43,6 @@ Books:
 
 - >
   buecher/ein-teich-voll-mit-tinte-reimgeschichten
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-864-29367-2
 
 ----
 
-Book-title: Das U-Boot auf dem Berg
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Regina Kehn
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 192
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 13,00
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 192
+
+----
+
+Price: 13,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Vorsicht Ansteckungsgefahr?Den Tag, an dem sein Onkel Christoph "vo
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853507847/63715/10002/-3/Buecher_Kinder--und-Jugend/Ulrich-Fasshauer/Das-U-Boot-auf-dem-Berg
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,143 @@
+Title: Der kleine Ritter Trenk
+
+----
+
+Isbn: 978-3-8337-1630-0
+
+----
+
+Subtitle: 
+
+----
+
+Author: Kirsten Boie
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: Jumbo Neue Medien
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Duration: 295
+
+----
+
+Releaseyear: 2006
+
+----
+
+Narrator: Karl Menrad
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Hörbuch
+
+----
+
+Description: “Ich geh in die Stadt!”, sagt der kleine Bauernjunge Trenk zu seiner Schwester Mia-Mina und macht sich heimlich mit seinem treuen Ferkelchen auf den Weg. Und weil Trenk so schlau und mutig ist, wird er schon bald zum tapferen Ritterlehrling. Er schließt Freundschaft mit einer lustigen Gauklertruppe und dem kleinen Ritterfräulein Thekla, trifft auf wilde Räuber und gütige Fürsten und macht im düsteren Wald die ungewöhnliche Bekanntschaft mit einem ganz besonderen Drachen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/262482/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Kirsten-Boie/Der-kleine-Ritter-Trenk-4-Audio-CDs
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- der-kleine-ritter-trenk_kirsten-boie.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Der kleine Ritter Trenk
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 
+
+----
+
+Composer: 

@@ -30,33 +30,17 @@ Date: 2020-08-10
 
 ----
 
-Books:
-
-- buecher/ein-strandtag
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: August 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-fuer-das-bilderbuchbuch-ein-strandtag
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/ein-strandtag
 
 ----
 
@@ -65,79 +49,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-95939-076-7
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/Product/3000002542569/63715/10002/-3/Buecher_Bilderbuecher/Vessela-Nikolova/Ein-Strandtag
-
-----
-
-Book-title: Ein Strandtag
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Vessela Nikolova
-
-----
-
-Illustrator: Susanna Mattiangeli
-
-----
-
-Narrator: 
-
-----
-
-Translator: Lucia Zamolo
-
-----
-
-Participants: 
-
-----
-
-Page-count: 36
-
-----
-
-Duration: 
-
-----
-
-Publisher: Bohem Press
-
-----
-
-Age: ab 3 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Bilderbuch
-
-----
-
-Topics: Sommer, Strand, Diversität
-
-----
-
-Cover: - ein-strandtag_vessela-nikolova.jpg
-
-----
-
-Isaudiobook: false

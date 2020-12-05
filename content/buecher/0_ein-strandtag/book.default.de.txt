@@ -6,11 +6,7 @@ Isbn: 978-3-95939-076-7
 
 ----
 
-Book-title: Ein Strandtag
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Susanna Mattiangeli
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Lucia Zamolo
-
-----
-
-Participants: 
-
-----
-
-Page-count: 36
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 36
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Ein Tag am Strand!. Oder auch: Eine ganz reizende "Gebrauchsanweisu
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000002542569/63715/10002/-3/Buecher_Bilderbuecher/Vessela-Nikolova/Ein-Strandtag
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: August 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-fuer-das-bilderbuchbuch-ein-strandtag
+
+----
+
+Participant: 

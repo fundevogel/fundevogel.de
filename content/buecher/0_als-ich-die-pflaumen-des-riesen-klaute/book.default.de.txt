@@ -6,11 +6,7 @@ Isbn: 978-3-8251-5222-2
 
 ----
 
-Book-title: Als ich die Pflaumen des Riesen klaute
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Regina Kehn
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Birgitta Kicherer
-
-----
-
-Participants: 
-
-----
-
-Page-count: 96
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 16,00
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 16,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Nicht weit von Ulfs Haus wohnt ein Riese namens Oskarsson - die unh
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000002605088/63715/10002/-3/Buecher_Abenteuer/Ulf-Stark/Als-ich-die-Pflaumen-des-Riesen-klaute
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,11 @@ Awardedition: September 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-september-fuer-das-kidnerbuch-als-ich-die-pflaumen-des-riesen-klaute
+
+----
+
+Participant: 
+
+----
+
+Type: Hardcover

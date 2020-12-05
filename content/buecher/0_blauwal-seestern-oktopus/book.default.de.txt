@@ -6,11 +6,7 @@ Isbn: 978-3-8369-6029-8
 
 ----
 
-Book-title: Blauwal, Seestern, Oktopus
-
-----
-
-Book-subtitle: Die Welt der Meere
+Subtitle: Die Welt der Meere
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Emmanuelle Tchoukriel
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Cornelia Panzacchi
-
-----
-
-Participants: 
-
-----
-
-Page-count: 72
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,7 +30,11 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
 
 ----
 
@@ -62,15 +42,51 @@ Binding: gebunden
 
 ----
 
+Pagecount: 72
+
+----
+
+Price: 15,00
+
+----
+
 Topics: Unterwasserwelt
 
 ----
 
-Description: Die lebendigen, fein gezeichneten Illustrationen der Sachbuchreihe von Virginie Aladjidi und Emmanuelle Tchoukriel, mit dem Charme historischer Bildtafeln, bilden die ganze Vielfalt unserer Tier- und Pflanzenarten ab - von der Tiefe der Weltmeere bis zu den höchsten Bergen, immer begleitet von prägnanten Texten entstehen so Bücher zum Lesen und Entdecken!
+Description: In diesem detailreich illustrierten Sachbuch nehmen uns Virginie Aladjidi und Emmanuelle Tchoukriel mit auf Entdeckungsreise in die Welt der Ozeane. Uns erwarten die erstaunlichsten Lebewesen über und unter Wasser: Wir lernen den Pottwal, das größte Raubtier der Erde, ebenso kennen wie seine Lieblingsbeute, den Riesenkalmar. Wir erfahren, warum der Einsiedlerkrebs sein Haus wechselt und wieso der Riesenmanta Loopings schwimmt.Die lebendigen, fein gezeichneten Illustrationen mit dem Charme historischer Bildtafeln bilden die ganze Vielfalt von über 100 Tier- und Pflanzenarten der Weltmeere ab - begleitet von prägnanten Texten zu den einzelnen Meeresbewohnern. Ein liebevoll gestaltetes Buch zum Lesen und Entdecken!
 
 ----
 
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002552605/63715/10002/-3/Buecher_Sachbuecher/Virginie-Aladjidi/Blauwal-Seestern-Oktopus/4099276460822241240/%204099276460822241224/%
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002552605/63715/10002/-3/Buecher_Sachbuecher/Virginie-Aladjidi/Blauwal-Seestern-Oktopus
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Sachbuch
 ----
 
 Isseries: true
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,12 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 
+
+----
+
+Type: Hardcover

@@ -6,11 +6,7 @@ Isbn: 978-3-570-17447-0
 
 ----
 
-Book-title: Timeless - Retter der verlorenen Zeit
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Tanja Ohlsen
-
-----
-
-Participants: 
-
-----
-
-Page-count: 624
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 19,99
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 624
+
+----
+
+Price: 19,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Dein Eintritt in eine neue Welt - Sei dabei, bevor die Zeit abläuf
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000186312/63715/10002/-3/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Timeless
+
+----
+
+Volume: Bd.1
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

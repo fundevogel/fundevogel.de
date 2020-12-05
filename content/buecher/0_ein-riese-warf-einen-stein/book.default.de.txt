@@ -6,11 +6,7 @@ Isbn: 978-3-407-75471-4
 
 ----
 
-Book-title: Ein Riese warf einen Stein
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Sabine Kranz
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 30
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 30
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - f
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002532723/63715/10002/-3/Buecher_Bilderbuecher/Josef-Guggenmos/Ein-Riese-warf-einen-Stein/4099276460822241241/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Gedichtband
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

@@ -41,6 +41,10 @@ Conclusion-wanted: true
 
 ----
 
+Isaward: true
+
+----
+
 Books:
 
 - buecher/atlas-der-meerjungfrauen
@@ -52,102 +56,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: November 2020
-
-----
-
-Leselink: 
-
-----
-
-Isaward: true
-
-----
-
-Isbn: 978-3-96244-115-9
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002835164/63715/10002/-3/Buecher_Kinder--und-Jugend/Anna-Claybourne/Atlas-der-Meerjungfrauen/4099276460822241240/%204099276460822241224/%
-
-----
-
-Book-title: Atlas der Meerjungfrauen
-
-----
-
-Book-subtitle: Wasserwesen aus aller Welt
-
-----
-
-Author: Anna Claybourne
-
-----
-
-Illustrator: Miren Asiain Lora
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Duration: 
-
-----
-
-Publisher: Laurence King Verlag GmbH
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 18,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Fabelwesen, Meerjungfrau, Mythologie, Meer
-
-----
-
-Cover:
-
-- >
-  atlas-der-meerjungfrauen_anna-claybourne.jpg
-
-----
-
-Isaudiobook: false

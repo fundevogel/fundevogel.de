@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-7891-2033-6
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851356366/63715/10002/-3/Buecher_Kinder--und-Jugend/Kirsten-Boie/Thabo-Detektiv--Gentleman---Der-Nashorn-Fall
-
-----
-
-Book-title: Thabo, Detektiv & Gentleman - Der Nashorn-Fall
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Kirsten Boie
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 304
-
-----
-
-Duration: 
-
-----
-
-Publisher: Oetinger
-
-----
-
-Age: ab 10 Jahren
-
-----
-
-Price: 13,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Afrika, Krimis/Thriller
-
-----
-
-Cover:
-
-- >
-  thabo-detektiv-und-gentleman-der-nashorn-fall_kirsten-boie.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/thabo-detektiv-und-gentleman-der-nashorn-fall
-
-----
-
-Isaudiobook: false
 
 ----
 

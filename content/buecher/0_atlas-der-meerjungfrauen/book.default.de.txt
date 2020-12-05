@@ -10,11 +10,7 @@ Isbn: 978-3-96244-115-9
 
 ----
 
-Book-title: Atlas der Meerjungfrauen
-
-----
-
-Book-subtitle: Wasserwesen aus aller Welt
+Subtitle: Wasserwesen aus aller Welt
 
 ----
 
@@ -26,27 +22,7 @@ Illustrator: Miren Asiain Lora
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -58,11 +34,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 18,00
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 48
+
+----
+
+Price: 18,00
 
 ----
 
@@ -74,7 +62,35 @@ Description: Dieser ultimative Meerjungfrauen-Führer erzählt Ihnen und Ihren K
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002835164/63715/10002/-3/Buecher_Kinder--und-Jugend/Anna-Claybourne/Atlas-der-Meerjungfrauen/4099276460822241240/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -93,6 +109,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -106,3 +130,7 @@ Awardedition: November 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/atlas-der-meerjungfrauen-mit-lesepeter-november-ausgezeichnet
+
+----
+
+Participant: 

@@ -22,33 +22,17 @@ Date: 2020-06-08
 
 ----
 
-Books:
-
-- buecher/der-junge-aus-der-letzten-reihe
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/der-junge-aus-der-letzten-reihe
 
 ----
 
@@ -57,70 +41,3 @@ Seotitle: Der Junge aus der letzten Reihe
 ----
 
 Seodescription: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
-
-----
-
-Isbn: 978-3-85535-630-0
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/Product/3000002539621/63715/10002/-3/Buecher_Kinder--und-Jugend/Onjali-Q-Raf/Der-Junge-aus-der-letzten-Reihe
-
-----
-
-Book-title: Der Junge aus der letzten Reihe
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Onjali Q. Raúf
-
-----
-
-Illustrator: Pippa Curnick
-
-----
-
-Translator: Katharina Naumann
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Publisher: Atrium Verlag
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Freundschaft, Flucht
-
-----
-
-Cover:
-
-- >
-  der-junge-aus-der-letzten-reihe_onjali-q-rauf.jpg

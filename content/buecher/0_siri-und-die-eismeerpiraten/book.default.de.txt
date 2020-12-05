@@ -6,11 +6,7 @@ Isbn: 978-3-8369-5920-9
 
 ----
 
-Book-title: Siri und die Eismeerpiraten
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Torben Kuhlmann
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Friederike Buchinger
-
-----
-
-Participants: 
-
-----
-
-Page-count: 376
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 14,95
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 376
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: "Weißhaupt hat meine Schwester geraubt! Wir müssen sie zurückhol
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000125904/63715/10002/-3/Buecher_Kinder--und-Jugend/Frida-Nilsson/Siri-und-die-Eismeerpiraten
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

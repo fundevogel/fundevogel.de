@@ -6,11 +6,7 @@ Isbn: 978-3-7891-6172-8
 
 ----
 
-Book-title: Ein Feuerwerk für den Fuchs
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Angelika Kutsch
-
-----
-
-Participants: 
-
-----
-
-Page-count: 28
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 14,00
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 1987
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 28
+
+----
+
+Price: 14,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1060768/63715/10002/-3/Buecher_Bilderbuecher/Sven-Nordqvist/Ein-Feuerwerk-fuer-den-Fuchs/4099276460822241241/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Bilderbuch
 ----
 
 Isseries: true
+
+----
+
+Series: Pettersson und Findus
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

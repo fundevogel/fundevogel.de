@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-341-482434-9
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851940704/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Staeding/13-Weihnachtstrolle-machen-aerger
-
-----
-
-Book-title: 13 Weihnachtstrolle machen Ärger
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Sabine Städing
-
-----
-
-Illustrator: Barbara Scholz
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 272
-
-----
-
-Duration: 
-
-----
-
-Publisher: Boje Verlag
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 13,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Weihnachten, Fantasy, Abenteuer
-
-----
-
-Cover:
-
-- >
-  13-weihnachtstrolle-machen-aerger_sabine-staeding.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/13-weihnachtstrolle-machen-aerger
-
-----
-
-Isaudiobook: false
 
 ----
 

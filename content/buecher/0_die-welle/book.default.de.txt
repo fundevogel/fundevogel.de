@@ -6,11 +6,7 @@ Isbn: 978-3-473-58008-8
 
 ----
 
-Book-title: Die Welle
-
-----
-
-Book-subtitle: Bericht über einen Unterrichtsversuch, der zu weit ging.
+Subtitle: Bericht über einen Unterrichtsversuch, der zu weit ging.
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Hans-Georg Noack
-
-----
-
-Participants: 
-
-----
-
-Page-count: 186
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 8,99
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 186
+
+----
+
+Price: 8,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Ein junger Lehrer entschließt sich zu einem ungewöhnlichen Experi
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1423681/63715/10002/-3/Buecher_Kinder--und-Jugend/Morton-Rhue/Die-Welle
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: false
+
+----
+
+Series: Reality
+
+----
+
+Volume: 58008
 
 ----
 
@@ -104,12 +128,4 @@ Leselink:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Seodescription: 
+Participant: 

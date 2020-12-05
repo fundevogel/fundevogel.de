@@ -22,34 +22,18 @@ Date: 2020-01-31
 
 ----
 
-Books:
-
-- >
-  buecher/warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: März 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/johan-olsens-sachbuch-warum-gibt-es-uns-ausgezeichnet
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- >
+  buecher/warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir
 
 ----
 
@@ -58,70 +42,3 @@ Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
 ----
 
 Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …
-
-----
-
-Isbn: 978-3-407-75468-4
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/product/3000002025954/Buecher_Sachbuecher/Johan-Olsen/Warum-gibt-es-uns
-
-----
-
-Book-title: Warum gibt es uns?
-
-----
-
-Book-subtitle: Die Entwicklung des Lebens vom Urknall bis zu dir
-
-----
-
-Author: Johan Olsen
-
-----
-
-Illustrator: Lara Paulussen
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 138
-
-----
-
-Publisher: Beltz
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 16,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Naturwissenschaft, Weltall, Urknall, Evolution, Quantenmechanik
-
-----
-
-Cover:
-
-- >
-  warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir_johan-olsen.jpg

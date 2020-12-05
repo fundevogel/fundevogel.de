@@ -1,0 +1,132 @@
+Title: Kleeblattsommer
+
+----
+
+Isbn: 978-3-8369-5945-2
+
+----
+
+Subtitle: 
+
+----
+
+Author: Christian Wiik Gjerde
+
+----
+
+Illustrator: Anke Kuhl
+
+----
+
+Translator: Maike Dörries
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 336
+
+----
+
+Price: 14,95
+
+----
+
+Topics: Freundschaft, Sommer
+
+----
+
+Description: Alvar und Jens sind Nachbarn und beste Freunde. Sie leben auf einer kleinen Insel im Fjord. Zusammen suchen sie nach vierblättrigen Kleeblättern, streifen durch den Trollwald, sitzen in ihrem gemütlichen Baumhaus oder helfen ihrer Freudin Gulla in deren Kramladen. Alvar, der an einem Schalttag geboren ist, hat die verrücktesten Ideen. Er er findet neue Wörter, trinkt nur aus Stöckelgläsern, feiert Ungeburtstag und gründet einen Heulklub. Doch dann zieht der coole Magnus in das benachbarte Krähenschloss ein. Er trägt eine Lederjacke und Gel im Haar und ist wie Jens ein begeisterter Fußballer. Magnus findet Alvar kindisch und schon bald ist nichts mehr so, wie es war ...Eine urkomische und zugleich berührende Sommergeschichte über Freundschaft und Eifersucht, Streit und Versöhnung - voller liebenswerter und schräger Charaktere.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001646883/63715/10002/-3/Buecher_Kinder--und-Jugend/Christian-Wiik-Gjerde/Kleeblattsommer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  kleeblattsommer_christian-wiik-gjerde.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -6,11 +6,7 @@ Isbn: 978-3-7795-0522-8
 
 ----
 
-Book-title: 33 Bogen und ein Teehaus
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Mehrdad Zaeri-Esfahani
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 148
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 14,90
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 148
+
+----
+
+Price: 14,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Die kleine Mehrnousch, Tochter eines Chirurgen, erlebt mit ihren dr
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851008227/63715/10002/-3/Buecher_Kinder--und-Jugend/Mehrnousch-Zaeri-Esfahani/33-Bogen-und-ein-Teehaus
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,11 @@ Awardedition: Februar 2017
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201702.html
+
+----
+
+Participant: Illustrationen von Mehrdad Zaeri-Esfahani
+
+----
+
+Type: Hardcover

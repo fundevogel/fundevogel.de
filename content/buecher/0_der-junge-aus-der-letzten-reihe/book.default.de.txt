@@ -6,11 +6,7 @@ Isbn: 978-3-85535-630-0
 
 ----
 
-Book-title: Der Junge aus der letzten Reihe
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Pippa Curnick
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Katharina Naumann
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: In der letzten Reihe unseres Klassenzimmers gab es immer einen leer
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000002539621/63715/10002/-3/Buecher_Kinder--und-Jugend/Onjali-Q-Raf/Der-Junge-aus-der-letzten-Reihe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

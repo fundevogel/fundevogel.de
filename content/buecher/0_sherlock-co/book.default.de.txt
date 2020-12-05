@@ -6,11 +6,7 @@ Isbn: 978-3-505-13973-4
 
 ----
 
-Book-title: Die Schule der Detektive - Sherlock & Co jagen den Museumsräuber
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Leena Flegler
-
-----
-
-Participants: 
-
-----
-
-Page-count: 192
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 10,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 192
+
+----
+
+Price: 10,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Spannende Abenteuer, waghalsige Unternehmungen, verrückte Einfäll
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: http://shop.fundevogel.de/product/4099276460853500893/Buecher_Kinder--und-Jugend/Sam-Hearn/Die-Schule-der-Detektive---Sherlock--Co-jagen-den-Museumsraeuber
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Die Schule der Detektive
+
+----
+
+Volume: Bd.1
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

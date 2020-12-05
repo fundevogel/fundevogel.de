@@ -6,11 +6,7 @@ Isbn: 978-3-8369-4285-0
 
 ----
 
-Book-title: Dunkel war's, der Mond schien helle
-
-----
-
-Book-subtitle: Verse, Reime und Gedichte
+Subtitle: Verse, Reime und Gedichte
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Rotraut Susanne Berner
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 152
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 24,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2015
 
 ----
 
 Binding: Halbleinen
+
+----
+
+Pagecount: 152
+
+----
+
+Price: 24,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460849217808/63715/10002/-3/Buecher_Kinder--und-Jugend//Dunkel-wars-der-Mond-schien-helle/4099276460822241246/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: Edmund Jacoby
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Gedichtband
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

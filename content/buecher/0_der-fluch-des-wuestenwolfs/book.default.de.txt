@@ -6,11 +6,7 @@ Isbn: 978-3-8251-7965-6
 
 ----
 
-Book-title: Der Fluch des Wüstenwolfs
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Carl Hollander
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Eva Schweikart
-
-----
-
-Participants: 
-
-----
-
-Page-count: 189
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 17,00
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: Halbleinen
+
+----
+
+Pagecount: 189
+
+----
+
+Price: 17,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Alle dreizehn Jahre, wenn sich Jupiter und Saturn am Himmel treffen
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851044509/63715/10002/-3/Buecher_Fantasy/Paul-Biegel/Der-Fluch-des-Wuestenwolfs
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

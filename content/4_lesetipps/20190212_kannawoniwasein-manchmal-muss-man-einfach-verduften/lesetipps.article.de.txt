@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-551-55375-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/Product/3000000666236/63715/10002/-3/Buecher_Abenteuer/Martin-Muser/Kannawoniwasein
-
-----
-
-Book-title: Kannawoniwasein!
-
-----
-
-Book-subtitle: Manchmal muss man einfach verduften
-
-----
-
-Author: Martin Muser
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 176
-
-----
-
-Duration: 
-
-----
-
-Publisher: Carlsen
-
-----
-
-Age: ab 10 Jahren
-
-----
-
-Price: 12,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Detektiv, Freundschaft, Reise
-
-----
-
-Cover:
-
-- >
-  kannawoniwasein-manchmal-muss-man-einfach-verduften_martin-muser.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften
-
-----
-
-Isaudiobook: false
 
 ----
 

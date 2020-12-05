@@ -6,11 +6,7 @@ Isbn: 978-3-86256-098-1
 
 ----
 
-Book-title: Klimahelden
-
-----
-
-Book-subtitle: Von Goldsammlerinnen und Meeresputzern
+Subtitle: Von Goldsammlerinnen und Meeresputzern
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Volker Konrad
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 124
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 12,90
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 124
+
+----
+
+Price: 12,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Nichts ist cooler, als die Welt zu retten!. Die Erde ist unser Heim
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

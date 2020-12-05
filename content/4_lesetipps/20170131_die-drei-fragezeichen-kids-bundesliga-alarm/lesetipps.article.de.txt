@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-440-15037-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851060360/63715/10002/-3/Buecher_Krimi/Boris-Pfeiffer/Die-drei--Kids---Bundesliga-Alarm
-
-----
-
-Book-title: Die drei ??? Kids - Bundesliga-Alarm
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Boris Pfeiffer
-
-----
-
-Illustrator: Jan Saße
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 216
-
-----
-
-Duration: 
-
-----
-
-Publisher: Kosmos
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 9,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Krimis/Thriller, Fußball, Detektiv
-
-----
-
-Cover:
-
-- >
-  die-drei-fragezeichen-kids-bundesliga-alarm_boris-pfeiffer.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/die-drei-fragezeichen-kids-bundesliga-alarm
-
-----
-
-Isaudiobook: false
 
 ----
 

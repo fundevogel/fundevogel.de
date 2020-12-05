@@ -6,11 +6,7 @@ Isbn: 978-3-328-60123-4
 
 ----
 
-Book-title: Die Stadt der Träumenden Bücher
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 480
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age:
 
 ----
 
-Price: 28,00
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 480
+
+----
+
+Price: 28,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Als der Pate des jungen Dichters Hildegunst von Mythenmetz stirbt, 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002323744/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Walter-Moers/Die-Stadt-der-Traeumenden-Buecher
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: true
+
+----
+
+Series: Zamonien
+
+----
+
+Volume: 4
 
 ----
 
@@ -105,12 +129,4 @@ Leselink:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Seodescription: 
+Participant: 

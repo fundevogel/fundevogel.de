@@ -31,98 +31,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 9783-8642-9395-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000198028/63715/10002/-3/Buecher_Kinder--und-Jugend/Martin-Klein/Finn-und-Frieda-halten-den-Herbst-auf
-
-----
-
-Book-title: Finn und Frieda halten den Herbst auf
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Martin Klein & Kerstin Meyer
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Duration: 
-
-----
-
-Publisher: Tulipan
-
-----
-
-Age: ab 7 Jahren
-
-----
-
-Price: 8,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Erstlesebuch, Herbst
-
-----
-
-Cover:
-
-- >
-  finn-und-frieda-halten-den-herbst-auf_martin-klein-kerstin-meyer.jpg
 
 ----
 
@@ -130,10 +39,6 @@ Books:
 
 - >
   buecher/finn-und-frieda-halten-den-herbst-auf
-
-----
-
-Isaudiobook: false
 
 ----
 

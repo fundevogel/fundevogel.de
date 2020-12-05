@@ -6,11 +6,7 @@ Isbn: 978-3-423-76174-1
 
 ----
 
-Book-title: Zuckerkringel-Ferien mit Marie
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Joëlle Tourlonias
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 10,95
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 10,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Frankreich, Ferien, der erste Tag am Meer ... Als die 10-jährige F
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853500835/63715/10002/-3/Buecher_Kinder--und-Jugend/Beate-Doelling/Zuckerkringel-Ferien-mit-Marie
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: dtv Junior
+
+----
+
+Volume: Bd.76174
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

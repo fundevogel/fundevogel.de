@@ -6,11 +6,7 @@ Isbn: 978-3-522-20255-8
 
 ----
 
-Book-title: Momo
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 304
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 304
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großsta
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000995291/63715/10002/-3/Buecher_Abenteuer/Michael-Ende/Momo
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -108,36 +132,8 @@ Details:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
+
+----
+
+Participant: 

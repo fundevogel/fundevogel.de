@@ -30,33 +30,17 @@ Date: 2020-06-02
 
 ----
 
-Books:
-
-- buecher/eine-schwester
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Juni 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/graphic-novel-eine-schwester-ausgezeichnet
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/eine-schwester
 
 ----
 
@@ -65,67 +49,3 @@ Seotitle: Eine Schwester
 ----
 
 Seodescription: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
-
-----
-
-Isbn: 978-3-95640-144-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000691049/63715/10002/-3/Buecher/Bastien-Vivs/Eine-Schwester
-
-----
-
-Book-title: Eine Schwester
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Bastien Vivès
-
-----
-
-Illustrator: 
-
-----
-
-Translator: Heike Drescher
-
-----
-
-Participants: 
-
-----
-
-Page-count: 216
-
-----
-
-Publisher: Reprodukt
-
-----
-
-Age: ab 16 Jahren
-
-----
-
-Price: 24,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Graphic Novel
-
-----
-
-Topics: Coming of Age / Erwachsenwerden
-
-----
-
-Cover: - eine-schwester_bastien-vives.jpg

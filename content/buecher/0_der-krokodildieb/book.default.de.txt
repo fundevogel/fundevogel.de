@@ -6,11 +6,7 @@ Isbn: 9783-4078-2109-6
 
 ----
 
-Book-title: Der Krokodildieb
-
-----
-
-Book-subtitle: Roman mit Bildern. Nominiert für den Deutschen Jugendliteraturpreis 2017, Kategorie Kinderbuch
+Subtitle: Roman mit Bildern. Nominiert für den Deutschen Jugendliteraturpreis 2017, Kategorie Kinderbuch
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Christoffer Grav
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Maike Dörries
-
-----
-
-Participants: 
-
-----
-
-Page-count: 122
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 122
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Der 9-jährige Odd hat vor ziemlich vielen Dingen Angst, dem Sportu
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851006974/63715/10002/-3/Buecher_Kinder--und-Jugend/Taran-Bjrnstad/Der-Krokodildieb
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 

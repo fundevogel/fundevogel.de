@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-95470-186-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000644450/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Engelhardt/Im-Gefaengnis
-
-----
-
-Book-title: Im Gefängnis
-
-----
-
-Book-subtitle: Ein Kinderbuch über das Leben hinter Gittern
-
-----
-
-Author: Thomas Engelhardt
-
-----
-
-Illustrator: Susann Hesselbarth
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 96
-
-----
-
-Duration: 
-
-----
-
-Publisher: Klett Kinderbuch Verlag
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 14,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Gefängnis, Vater
-
-----
-
-Cover:
-
-- >
-  im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern_thomas-engelhardt.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-570-15903-3
 
 ----
 
-Book-title: Die Muskeltiere
-
-----
-
-Book-subtitle: Einer für alle, alle für einen
+Subtitle: Einer für alle, alle für einen
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 208
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2014
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 208
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Ein großes Abenteuer mit wagemutigen Helden - nichts für Angsthas
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845218677/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Die Muskeltiere
+
+----
+
+Volume: Bd.1
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

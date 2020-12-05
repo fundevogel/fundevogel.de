@@ -6,11 +6,7 @@ Isbn: 978-3-95470-189-6
 
 ----
 
-Book-title: Mira
-
-----
-
-Book-subtitle: #freunde #verliebt #einjahrmeineslebens
+Subtitle: #freunde #verliebt #einjahrmeineslebens
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Rasmus Bregnhøi
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Franziska Gehm
-
-----
-
-Participants: 
-
-----
-
-Page-count: 104
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 104
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Was soll Mira nur tun? Ihre beste Freundin Jette hat mit der coolen
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000984392/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Lemire/Mira
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Mira
+
+----
+
+Volume: 1
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Mai 2019
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-mira-freunde-verliebt-einjahrmeineslebens
+
+----
+
+Participant: 

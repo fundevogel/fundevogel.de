@@ -6,11 +6,7 @@ Isbn: 978-3-257-01199-9
 
 ----
 
-Book-title: Die wilde Sophie
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Susann Opel-Götz
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 256
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 16,00
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 256
+
+----
+
+Price: 16,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Damit ihm bloß nichts zustößt, umgibt König Ferdinand seinen So
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000223333/63715/10002/-3/Buecher_Kinder--und-Jugend/Lukas-Hartmann/Die-wilde-Sophie
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

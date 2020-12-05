@@ -32,33 +32,17 @@ Date: 2020-11-02
 
 ----
 
-Books:
-
-- buecher/uncover-die-trollfabrik
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Oktober 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-2020-fuer-das-jugendbuch-uncover
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/uncover-die-trollfabrik
 
 ----
 
@@ -67,82 +51,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-7432-0182-8
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002572106/63715/10002/-3/Buecher_Kinder--und-Jugend/Manfred-Theisen/Uncover---Die-Trollfabrik/4099276460822241243/%204099276460822241224/%
-
-----
-
-Book-title: Uncover - Die Trollfabrik
-
-----
-
-Book-subtitle: Ein Thriller über Fake News, Trolls und populistische Propaganda
-
-----
-
-Author: Manfred Theisen
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 400
-
-----
-
-Duration: 
-
-----
-
-Publisher: Loewe Verlag
-
-----
-
-Age: ab 14 Jahren
-
-----
-
-Price: 14,95
-
-----
-
-Binding: kartoniert
-
-----
-
-Categories: Jugendbuch
-
-----
-
-Topics: Fake News / Falschmeldung, Krimis/Thriller, Social Media, Propaganda, Wahrheit
-
-----
-
-Cover:
-
-- >
-  uncover-die-trollfabrik_manfred-theisen.jpg
-
-----
-
-Isaudiobook: false

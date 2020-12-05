@@ -35,97 +35,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Mai 2019
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-mira-freunde-verliebt-einjahrmeineslebens
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-95470-189-6
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000984392/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Lemire/Mira
-
-----
-
-Book-title: Mira
-
-----
-
-Book-subtitle: #freunde #verliebt #einjahrmeineslebens
-
-----
-
-Author: Sabine Lemire
-
-----
-
-Illustrator: Rasmus Bregnhøi
-
-----
-
-Narrator: 
-
-----
-
-Translator: Franziska Gehm
-
-----
-
-Participants: 
-
-----
-
-Page-count: 104
-
-----
-
-Duration: 
-
-----
-
-Publisher: Klett Kinderbuch Verlag
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Erste Liebe, Freundschaft
-
-----
-
-Cover:
-
-- mira_sabine-lemire.jpg
 
 ----
 
@@ -133,10 +43,6 @@ Books:
 
 - >
   buecher/mira-freunde-verliebt-ein-jahr-meines-lebens
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-7373-5471-4
 
 ----
 
-Book-title: Der Dominoeffekt
-
-----
-
-Book-subtitle: oder Die unsichtbaren Fäden der Natur
+Subtitle: oder Die unsichtbaren Fäden der Natur
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Serena Viola
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Ulrike Schimming
-
-----
-
-Participants: 
-
-----
-
-Page-count: 136
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 19,99
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 136
+
+----
+
+Price: 19,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: AUSGEZEICHNET MIT DEM DEUTSCHEN JUGENDLITERATURPREIS 2018 (Kategori
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853438486/63715/10002/-3/Buecher_Sachbuecher/Gianumberto-Accinelli/Der-Dominoeffekt
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: November 2017
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-der-dominoeffekt-oder-die-unsichtbaren-faeden-der-natur
+
+----
+
+Participant: 

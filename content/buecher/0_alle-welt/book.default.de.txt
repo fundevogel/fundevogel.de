@@ -6,11 +6,7 @@ Isbn: 978-3-89565-370-4
 
 ----
 
-Book-title: Alle Welt
-
-----
-
-Book-subtitle: Das Landkartenbuch
+Subtitle: Das Landkartenbuch
 
 ----
 
@@ -34,7 +30,19 @@ Age: ab 6 Jahren
 
 ----
 
-Page-count: 152
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 152
 
 ----
 
@@ -50,15 +58,19 @@ Description: Es gibt viel zu entdecken: was auf Kuba getanzt, in der Ukraine ab-
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000674121/63715/10002/-3/Buecher_Kinder--und-Jugend/Aleksandra-Mizielinska/Alle-Welt/4099276460822241240/%204099276460822241224/%
-
-----
-
-Year: 2019
-
-----
-
-Binding: gebunden
 
 ----
 
@@ -93,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -109,44 +129,12 @@ Leselink:
 
 ----
 
-Narrator: 
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: 
-
-----
-
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 
+
+----
+
+Type: Hardcover

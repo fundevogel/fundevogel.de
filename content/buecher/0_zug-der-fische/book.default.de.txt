@@ -1,0 +1,135 @@
+Title: Zug der Fische
+
+----
+
+Isbn: 978-3-551-51197-3
+
+----
+
+Subtitle: 
+
+----
+
+Author: Yaroslava Black
+
+----
+
+Illustrator: Ulrike Jänichen
+
+----
+
+Translator: 
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Kindheit, Ukraine
+
+----
+
+Description: Ausgezeichnet mit dem Hamburger Bilderbuchpreis
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002937184/63715/10002/-3/Buecher_Bilderbuecher/Yaroslava-Black/Zug-der-Fische
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- zug-der-fische_yaroslava-black.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2020
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezember-geht-an-bilderbuch-zug-der-fische
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

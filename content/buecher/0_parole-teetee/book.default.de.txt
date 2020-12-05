@@ -6,11 +6,7 @@ Isbn: 978-3-86429-483-9
 
 ----
 
-Book-title: Parole Teetee
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Maja Bohn
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 224
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 13
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: Gebunden
+
+----
+
+Pagecount: 224
+
+----
+
+Price: 13
 
 ----
 
@@ -70,7 +58,35 @@ Description: Teetee ist verschwunden! Den Kindern der Klasse 4a fehlt die nette 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002774367/63715/10002/-3/Buecher_Kinder--und-Jugend/Antje-Herden/Parole-Teetee/4099276460822241237/4099276460822241224/4099276460822241224
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

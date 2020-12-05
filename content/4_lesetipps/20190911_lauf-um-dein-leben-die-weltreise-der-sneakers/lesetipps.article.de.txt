@@ -35,8 +35,7 @@ Builder:
   books:
     - 
       isbn: 978-3-95640-129-9
-      book_cover:
-        - unerschrocken_penelope-bagieu.jpg
+      book_cover: [ ]
       book_title: Unerschrocken
       book_subtitle: >
         Fünfzehn Porträts außergewöhnlicher
@@ -47,9 +46,7 @@ Builder:
         einzelnen Biografien macht den besonderen Reiz dieser Sammlung aus.
     - 
       isbn: 978-3-551-55685-1
-      book_cover:
-        - >
-          zusammen-sind-wir-helden_jeff-zentner.jpg
+      book_cover: [ ]
       book_title: Zusammen sind wir Helden
       book_subtitle: ""
       author: Jeff Zentner
@@ -76,25 +73,21 @@ Builder:
         nachhaltig fasziniert.
     - 
       isbn: 978-3-7855-8911-3
-      book_cover:
-        - >
-          17-erkenntnisse-ueber-leander-blum_irmgard-kramer.jpg
+      book_cover: [ ]
       book_title: 17 Erkenntnisse über Leander Blum
       book_subtitle: ""
       author: Irmgard Kramer
       text: 'Leander und Jonas verbindet die Leidenschaft zum Malen und Sprayen. Unter dem Namen Blux sind die beiden Jungen nachts in der Stadt unterwegs, auf der Suche nach der perfekten Wand für ihr Masterpiece und dem nächsten Adrenalinkick. Die Romanhandlung wird humorvoll, leidenschaftlich und sehr emotional in zwei Erzählperspektiven und Zeitebenen erzählt, die sich zunehmend miteinander verbinden und so die Geschehnisse Stück für Stück wie ein Puzzle zusammensetzen. Düstere Vorahnungen erzeugen dabei eine Spannung, der man sich kaum entziehen kann. Mit einer ausbalancierten Mischung aus träumerischen und turbulenten Passagen eröffnet diese Geschichte ihren  Leser*innen Einblicke in die Welt der Kunst und Streetart.'
     - 
       isbn: 978-3-551-73428-0
-      book_cover:
-        - leichte-beute_miquelanxo-prado.jpg
+      book_cover: [ ]
       book_title: Leichte Beute
       book_subtitle: ""
       author: Miquelanxo Prado
       text: 'Der grafische Roman führt in das von der Finanzkrise gebeutelte Spanien. Eine Mordserie erschüttert die Stadt. Auffällig dabei: Alle Opfer arbeiteten für nationale Finanzinstitute. Die Lesenden begleiten die Komissar*innen Tabares und Sotillo bei der Aufklärung der Morde, welche die beiden schließlich in ein Seniorenheim führt. Prado richtet seinen Blick auf die zivilen Opfer der Finanzkrise, die nicht selten um ihre Lebensleistung betrogen und in Verzweiflung und Verbitterung zurückgelassen wurden. Kohle- und Bleistiftzeichnungen verwischen dabei jede Schwarz-Weiß-Logik zu Grauschattierungen, die darauf hindeuten, dass eine moralische Bewertung der Handlung nur schwer zu leisten ist.'
     - 
       isbn: 978-3-7725-2886-6
-      book_cover:
-        - der-wundergarten_barb-rosenstock.jpg
+      book_cover: [ ]
       book_title: Der Wundergarten
       book_subtitle: Nek Chand baut sein geheimes Reich
       author: Barb Rosenstock
@@ -122,9 +115,7 @@ Builder:
   books:
     - 
       isbn: 978-3-95470-186-5
-      book_cover:
-        - >
-          im-gefaengnis_thomas-engelhardt-monika-osberghaus.jpg
+      book_cover: [ ]
       book_title: Im Gefängnis
       book_subtitle: >
         Ein Kinderbuch über das Leben hinter
@@ -152,8 +143,7 @@ Builder:
         Gefängnisaufenthalt.
     - 
       isbn: 978-3-407-75425-7
-      book_cover:
-        - toni_philip-waechter.jpg
+      book_cover: [ ]
       book_title: Toni
       book_subtitle: Und alles nur wegen Renato Flash
       author: Philip Waechter
@@ -163,9 +153,7 @@ Builder:
         In grafisch und sprachlich reduzierter Form, mit klarer Linienführung sowie markant farblicher Akzentuierung erzählt dieser Comic sehr humorvoll von den Tücken des Geldverdienens, von vorweihnachtlicher Konsumkritik und davon, wie wichtig gute Freunde sind.
     - 
       isbn: 978-3-8369-5978-0
-      book_cover:
-        - >
-          der-tag-an-dem-ich-vom-baum-fiel-und-unser-hotel-rettete_enne-koens.jpg
+      book_cover: [ ]
       book_title: >
         Der Tag, an dem ich vom Baum fiel und
         unser Hotel rettete
@@ -193,8 +181,7 @@ Builder:
         und skurrilen Einfällen.
     - 
       isbn: 978-3-446-26047-4
-      book_cover:
-        - short_holly-goldberg-sloan.jpg
+      book_cover: [ ]
       book_title: Short
       book_subtitle: ""
       author: Holly Goldberg Sloan
@@ -219,8 +206,7 @@ Builder:
         Sogkraft entwickelt.
     - 
       isbn: 978-3-00-057198-5
-      book_cover:
-        - klappe-cut-hurra_henrik-hitzbleck.jpg
+      book_cover: [ ]
       book_title: Klappe, Cut, Hurra
       book_subtitle: Aufregende Drehtage in Berlin
       author: Henrik Hitzbleck
@@ -287,97 +273,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: Heinrich-Wolgast-Preis
-
-----
-
-Awardedition: 2019
-
-----
-
-Leselink: https://www.gew.de/presse/pressemitteilungen/detailseite/neuigkeiten/gew-wolfgang-korns-lauf-um-dein-leben-erhaelt-den-heinrich-wolgast-preis
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-446-26217-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001490489/63715/10002/-3/Buecher_Kinder--und-Jugend/Wolfgang-Korn/Lauf-um-dein-Leben
-
-----
-
-Book-title: Lauf um dein Leben!
-
-----
-
-Book-subtitle: Die Weltreise der Sneakers
-
-----
-
-Author: Wolfgang Korn
-
-----
-
-Illustrator: Birgit Jansen
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 232
-
-----
-
-Duration: 
-
-----
-
-Publisher: Hanser
-
-----
-
-Age: ab 13 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Globalisierung, Arbeitswelt, Kapitalismus
-
-----
-
-Cover:
-
-- lauf-um-dein-leben_wolfgang-korn.jpg
 
 ----
 
@@ -385,10 +281,6 @@ Books:
 
 - >
   buecher/lauf-um-dein-leben-die-weltreise-der-sneakers
-
-----
-
-Isaudiobook: false
 
 ----
 

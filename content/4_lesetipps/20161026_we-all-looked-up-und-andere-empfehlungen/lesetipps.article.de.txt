@@ -28,6 +28,14 @@ Date: 2016-10-26
 
 ----
 
+Conclusion-wanted: true
+
+----
+
+Isaward: false
+
+----
+
 Books:
 
 - buecher/we-all-looked-up
@@ -36,111 +44,8 @@ Books:
 
 ----
 
-Conclusion-wanted: true
-
-----
-
 Seotitle: We all looked up ... und andere Empfehlungen
 
 ----
 
 Seodescription: In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
-
-----
-
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
-Isaward: false
-
-----
-
-Isbn: 978-3-570-40342-6
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460850965849/63715/10002/-3/Buecher_Kinder--und-Jugend/Tommy-Wallach/We-All-Looked-Up
-
-----
-
-Book-title: We All Looked Up
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Tommy Wallach
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Henriette Zeltner
-
-----
-
-Participants: 
-
-----
-
-Page-count: 448
-
-----
-
-Duration: 
-
-----
-
-Publisher: cbt
-
-----
-
-Age: ab 12 Jahren
-
-----
-
-Price: 12,99
-
-----
-
-Binding: kartoniert
-
-----
-
-Categories: Jugendbuch
-
-----
-
-Topics: Coming of Age / Erwachsenwerden
-
-----
-
-Cover:
-
-- >
-  we-all-looked-up-und-andere-empfehlungen_tommy-wallach.jpg
-
-----
-
-Isaudiobook: false

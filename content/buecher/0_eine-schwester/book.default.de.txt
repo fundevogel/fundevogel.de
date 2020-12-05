@@ -6,11 +6,7 @@ Isbn: 978-3-95640-144-2
 
 ----
 
-Book-title: Eine Schwester
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Heike Drescher
-
-----
-
-Participants: 
-
-----
-
-Page-count: 216
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 16 Jahren
 
 ----
 
-Price: 24,00
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 216
+
+----
+
+Price: 24,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Für einen 13-Jährigen ist Antoine noch recht kindlich und verträ
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000691049/63715/10002/-3/Buecher/Bastien-Vivs/Eine-Schwester
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Juni 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/graphic-novel-eine-schwester-ausgezeichnet
+
+----
+
+Participant: 

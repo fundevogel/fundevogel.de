@@ -6,11 +6,7 @@ Isbn: 978-3-7915-0457-5
 
 ----
 
-Book-title: Herr der Diebe
-
-----
-
-Book-subtitle: Ausgezeichnet mit dem Corine - Internationaler Buchpreis, Kategorie Kinder- und Jugendbuch 2003, dem Evangelischen Buchpreis, Kategorie Kinderbuch, 2002, dem Zürcher Kinderbuchpreis 'La vache qui lit' 20
+Subtitle: Ausgezeichnet mit dem Corine - Internationaler Buchpreis, Kategorie Kinder- und Jugendbuch 2003, dem Evangelischen Buchpreis, Kategorie Kinderbuch, 2002, dem Zürcher Kinderbuchpreis 'La vache qui lit' 20
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 391
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 17,90
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2000
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 391
+
+----
+
+Price: 17,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Im winterlichen Venedig treibt eine Kinderbande ihr Unwesen. Sie wi
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/631976/63715/10002/-3/Buecher_Abenteuer/Cornelia-Funke/Herr-der-Diebe/4099276460822241510/%204099276460822241500/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -104,12 +128,4 @@ Leselink:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Seodescription: 
+Participant: 

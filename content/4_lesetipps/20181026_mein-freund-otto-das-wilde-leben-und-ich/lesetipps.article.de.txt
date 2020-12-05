@@ -34,98 +34,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-8369-5625-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001057129/63715/10002/-3/Buecher_Kinder--und-Jugend/Silke-Lambeck/Mein-Freund-Otto-das-wilde-Leben-und-ich
-
-----
-
-Book-title: Mein Freund Otto, das wilde Leben und ich
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Silke Lambeck
-
-----
-
-Illustrator: Barbara Jung
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 184
-
-----
-
-Duration: 
-
-----
-
-Publisher: Gerstenberg Verlag
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 12,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Berlin, Freundschaft
-
-----
-
-Cover:
-
-- >
-  mein-freund-otto-das-wilde-leben-und-ich_silke-lambeck.jpg
 
 ----
 
@@ -133,10 +42,6 @@ Books:
 
 - >
   buecher/mein-freund-otto-das-wilde-leben-und-ich
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-570-16532-4
 
 ----
 
-Book-title: Das Mädchen im blauen Mantel
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Cornelia Stoll
-
-----
-
-Participants: 
-
-----
-
-Page-count: 379
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 16,00
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 379
+
+----
+
+Price: 16,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Schuld und Verrat, Mut und Widerstand. Amsterdam ist von den Nazis 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000487488/63715/10002/-3/Buecher_Kinder--und-Jugend/Monica-Hesse/Das-Maedchen-im-blauen-Mantel
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

@@ -26,33 +26,17 @@ Date: 2020-09-23
 
 ----
 
-Books:
-
-- buecher/parole-teetee
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/parole-teetee
 
 ----
 
@@ -67,79 +51,3 @@ zurückzubringen?
 
 „Parole Teetee“ ist eine ehrliche, vielseitige Geschichte über Freundschaft, Gerechtigkeit und den Zusammenhalt, der eine Nachbarschaft lebendig macht.
 Für Jungen und Mädchen ab 9 Jahren!
-
-----
-
-Isbn: 978-3-86429-483-9
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002774367/63715/10002/-3/Buecher_Kinder--und-Jugend/Antje-Herden/Parole-Teetee/4099276460822241237/4099276460822241224/4099276460822241224
-
-----
-
-Book-title: Parole Teetee
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Antje Herden
-
-----
-
-Illustrator: Maja Bohn
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 224
-
-----
-
-Duration: 
-
-----
-
-Publisher: Tulipan
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 13
-
-----
-
-Binding: Gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Engagement, Detektiv, Krimis/Thriller
-
-----
-
-Cover: - parole-teetee_antje-herden.jpg
-
-----
-
-Isaudiobook: false

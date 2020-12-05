@@ -6,11 +6,7 @@ Isbn: 978-3-7152-0749-0
 
 ----
 
-Book-title: Wundertier Schwamm
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 40
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 14,95
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Urige Lebensformen, unbekannte Welten.. Das gab es noch nie! - Ein 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001629029/63715/10002/-3/Buecher_Kinder--und-Jugend/Ninon-Ammann/Wundertier-Schwamm
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Atlantis-Thema
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: November 2019
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-monats-november-geht-an-das-sachbuch-wundertier-schwamm
+
+----
+
+Participant: 

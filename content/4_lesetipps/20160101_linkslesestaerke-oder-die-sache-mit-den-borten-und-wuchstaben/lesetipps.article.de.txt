@@ -44,98 +44,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Januar 2016
-
-----
-
-Leselink: https://www.ajum.de/html/Lesepeter/201601.html
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-570-16339-9
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846317254/63715/10002/-3/Buecher_Kinder--und-Jugend/Anja-Janotta/Linkslesestaerke-oder-Die-Sache-mit-den-Borten-und-Wuchstaben
-
-----
-
-Book-title: Linkslesestärke oder Die Sache mit den Borten und Wuchstaben
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Anja Janotta
-
-----
-
-Illustrator: Stefanie Jeschke
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 240
-
-----
-
-Duration: 
-
-----
-
-Publisher: cbj
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 12,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Namen, Schule, Mobbing, Legasthenie
-
-----
-
-Cover:
-
-- >
-  linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben_anja-janotta.jpg
 
 ----
 
@@ -143,10 +52,6 @@ Books:
 
 - >
   buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben
-
-----
-
-Isaudiobook: false
 
 ----
 

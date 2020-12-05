@@ -6,11 +6,7 @@ Isbn: 978-3570175668
 
 ----
 
-Book-title: Der kleine Drache Kokosnuss
-
-----
-
-Book-subtitle: Seine ersten Abenteuer
+Subtitle: Seine ersten Abenteuer
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 112
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 14,99
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 112
+
+----
+
+Price: 14,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Kokosnuss ist ein mutiger und vor allem neugieriger kleiner Feuerdr
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000472885/63715/10002/-3/Buecher_Kinder--und-Jugend/Ingo-Siegner/Der-kleine-Drache-Kokosnuss---Seine-ersten-Abenteuer/4099276460822241242/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: true
+
+----
+
+Series: Der kleine Drache Kokosnuss
+
+----
+
+Volume: 1
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

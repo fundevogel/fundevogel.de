@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-570-15903-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845218677/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Krause/Die-Muskeltiere-Einer-fuer-alle---alle-fuer-einen
-
-----
-
-Book-title: Die Muskeltiere
-
-----
-
-Book-subtitle: Einer für alle, alle für einen
-
-----
-
-Author: Ute Krause
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 208
-
-----
-
-Duration: 
-
-----
-
-Publisher: cbj
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Musketiere, Mäuse
-
-----
-
-Cover:
-
-- >
-  die-muskeltiere-einer-fuer-alle-alle-fuer-einen_ute-krause.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/die-muskeltiere-einer-fuer-alle-alle-fuer-einen
-
-----
-
-Isaudiobook: false
 
 ----
 

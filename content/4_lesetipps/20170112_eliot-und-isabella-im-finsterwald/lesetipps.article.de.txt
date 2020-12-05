@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-407-82161-4
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851907197/63715/10002/-3/Buecher_Abenteuer/Ingo-Siegner/Eliot-und-Isabella-im-Finsterwald
-
-----
-
-Book-title: Eliot und Isabella im Finsterwald
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Ingo Siegner
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 136
-
-----
-
-Duration: 
-
-----
-
-Publisher: Beltz
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 12,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch, Vorlesebuch
-
-----
-
-Topics: Abenteuer, Freundschaft, Erstlesebuch
-
-----
-
-Cover:
-
-- >
-  eliot-und-isabella-im-finsterwald_ingo-siegner.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/eliot-und-isabella-im-finsterwald
-
-----
-
-Isaudiobook: false
 
 ----
 

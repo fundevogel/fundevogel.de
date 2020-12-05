@@ -6,11 +6,7 @@ Isbn: 978-3-551-56017-9
 
 ----
 
-Book-title: Jenseits des Meeres
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Martina Tichy
-
-----
-
-Participants: 
-
-----
-
-Page-count: 320
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 17,99
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2015
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 320
+
+----
+
+Price: 17,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Ein Land im Bürgerkrieg. Eine Hafenstadt in Flammen. Nur ein einzi
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848883651/63715/10002/-3/Buecher_Kinder--und-Jugend/Jon-Walter/Jenseits-des-Meeres
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Juni 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201606.html
+
+----
+
+Participant: 

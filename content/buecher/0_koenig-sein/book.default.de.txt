@@ -6,11 +6,7 @@ Isbn: 978-3-85452-199-0
 
 ----
 
-Book-title: König sein
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Alexander Potyka
-
-----
-
-Participants: 
-
-----
-
-Page-count: 40
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 17,00
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 17,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Löwe Leo, König der Tiere, erlässt seit Neuestem Gesetze, wie es
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000198247/63715/10002/-3/Buecher_Bilderbuecher/Mario-Ramos/Koenig-sein
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Dezember 2017
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezember-fuer-das-bilderbuch-koenig-sein
+
+----
+
+Participant: 

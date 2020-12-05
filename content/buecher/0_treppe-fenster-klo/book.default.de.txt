@@ -6,11 +6,7 @@ Isbn: 978-3-89565-217-2
 
 ----
 
-Book-title: Treppe, Fenster, Klo
-
-----
-
-Book-subtitle: Die ungewöhnlichsten Häuser der Welt
+Subtitle: Die ungewöhnlichsten Häuser der Welt
 
 ----
 
@@ -18,11 +14,11 @@ Author: Aleksandra Machowiak; Daniel Mizielinski
 
 ----
 
-Translator: Dorota Stroinska
+Illustrator: 
 
 ----
 
-Page-count: 155
+Translator: Dorota Stroinska
 
 ----
 
@@ -34,7 +30,11 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 19,95
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
@@ -42,43 +42,51 @@ Binding: gebunden
 
 ----
 
-Categories: 
+Pagecount: 155
 
 ----
 
-Topics: 
+Price: 19,95
 
 ----
 
-Text: 
+Topics: Architektur (Bau), Haus
 
 ----
 
-Verdict: 
+Description: Von Leipzig bis Tokio:35 Beispiele höchst ungewöhnlichen Häuserbauens.Das erste Buch über zeitgenössische Architektur für KinderÜberall auf der Welt haben Architekten ungewöhnliche Häuser gebaut: Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser ...Dieses Buch stellt 35 von ihnen vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile.Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind. Baumaterialien, Lage und Entstehungsjahr jedes Hauses - die Mehrzahl stammt aus den letzten zehn Jahren - werden beschrieben. So ist ein kurzweiliges Buch gelungen, das Kindern auf spielerisch ungemein anregende Weise Einblicke in die zeitgenössische Architektur gibt.
 
 ----
 
-Conclusion: 
+Isavailable: true
 
 ----
 
-Builder: 
+Olacode: 15
 
 ----
 
-Date: 2020-11-06
+Olamessage: Fehlt kurzfristig am Lager
 
 ----
 
-Conclusion-wanted: false
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/778388/63715/10002/-3/Buecher_Sachbuecher/Aleksandra-Machowiak/Treppe-Fenster-Klo/4099276460822241240/%204099276460822241224/%
 
 ----
 
-Hasaward: false
+Drawer: 
 
 ----
 
-Isaward: false
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,8 +94,40 @@ Cover:
 
 ----
 
-Isaudiobook: false
+Categories: Sachbuch
 
 ----
 
-Seodescription: 
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 

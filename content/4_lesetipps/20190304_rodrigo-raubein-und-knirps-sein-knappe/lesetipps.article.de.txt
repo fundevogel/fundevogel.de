@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-522-18500-4
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/product/3000001482806/Buecher_Kinder--und-Jugend/Michael-Ende/Rodrigo-Raubein-und-Knirps-sein-Knappe
-
-----
-
-Book-title: Rodrigo Raubein und Knirps, sein Knappe
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Michael Ende & Wieland Freund
-
-----
-
-Illustrator: Regina Kehn
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 208
-
-----
-
-Duration: 
-
-----
-
-Publisher: Thienemann Verlag
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 17,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch, Vorlesebuch
-
-----
-
-Topics: Abenteuer, Ritter
-
-----
-
-Cover:
-
-- >
-  rodrigo-raubein-und-knirps-sein-knappe_michael-ende-wieland-freund.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/rodrigo-raubein-und-knirps-sein-knappe
-
-----
-
-Isaudiobook: false
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-407-75425-7
 
 ----
 
-Book-title: Toni
-
-----
-
-Book-subtitle: Und alles nur wegen Renato Flash
+Subtitle: Und alles nur wegen Renato Flash
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 67
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 14,95
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: Pappband
+
+----
+
+Pagecount: 67
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Toni ist leidenschaftlicher Fußballer, Fußball ist das Größte! 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001023395/63715/10002/-3/Buecher_Kinder--und-Jugend/Philip-Waechter/Toni
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

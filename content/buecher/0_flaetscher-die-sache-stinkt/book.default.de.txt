@@ -6,11 +6,7 @@ Isbn: 978-3-423-76156-7
 
 ----
 
-Book-title: Flätscher - Die Sache stinkt!
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Jan Birck
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 10,95
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 10,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wer braucht hier einen Plan? Wir haben Flätscher!Flätscher, cools
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/product/4099276460851913174/Buecher_Kinder--und-Jugend/Antje-Szillat/Flaetscher---Die-Sache-stinkt
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: dtv Junior
+
+----
+
+Volume: 1
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

@@ -6,11 +6,7 @@ Isbn: 978-3-551-52094-4
 
 ----
 
-Book-title: Schokopokalypse
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Britt Somann-Jung
-
-----
-
-Participants: 
-
-----
-
-Page-count: 192
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 12,99
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 192
+
+----
+
+Price: 12,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Jelly liebt Schokolade. So wie ihre Oma, ihre Eltern und überhaupt
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000180516/63715/10002/-3/Buecher_Kinder--und-Jugend/Chris-Callaghan/Schokopokalypse
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

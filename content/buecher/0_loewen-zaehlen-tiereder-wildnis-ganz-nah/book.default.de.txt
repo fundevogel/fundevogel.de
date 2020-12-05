@@ -6,11 +6,7 @@ Isbn: 978-3-7725-2790-6
 
 ----
 
-Book-title: Löwen zählen
-
-----
-
-Book-subtitle: Tiere der Wildnis ganz nah
+Subtitle: Tiere der Wildnis ganz nah
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Stephen Walton
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 19,90
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 19,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wer hat schon einmal einen Löwen von so Nahem gesehen? Oder gar zw
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 12
+
+----
+
+Olamessage: Nachdruck/wird nachproduziert. Folgt laut Verlag/Lieferant .../...
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851054993/63715/10002/-3/Buecher_Kinder--und-Jugend/Katie-Cotton/Loewen-zaehlen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: August 2016
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-das-bilderbuch-loewen-zaehlen
+
+----
+
+Participant: Illustrationen von Stephen Walton

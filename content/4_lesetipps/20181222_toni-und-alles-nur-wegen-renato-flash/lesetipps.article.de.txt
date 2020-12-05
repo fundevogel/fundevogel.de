@@ -30,98 +30,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-407-75425-7
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001023395/63715/10002/-3/Buecher_Kinder--und-Jugend/Philip-Waechter/Toni
-
-----
-
-Book-title: Toni
-
-----
-
-Book-subtitle: Und alles nur wegen Renato Flash
-
-----
-
-Author: Philip Waechter
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 67
-
-----
-
-Duration: 
-
-----
-
-Publisher: Beltz
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 14,95
-
-----
-
-Binding: Pappband
-
-----
-
-Categories: Graphic Novel
-
-----
-
-Topics: Fußball
-
-----
-
-Cover:
-
-- >
-  toni-und-alles-nur-wegen-renato-flash_philip-waechter.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/toni-und-alles-nur-wegen-renato-flash
-
-----
-
-Isaudiobook: false
 
 ----
 

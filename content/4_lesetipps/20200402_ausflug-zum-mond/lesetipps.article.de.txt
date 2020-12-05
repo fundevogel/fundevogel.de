@@ -34,33 +34,17 @@ Date: 2020-04-02
 
 ----
 
-Books:
-
-- buecher/ausflug-zum-mond
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: April 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-ausflug-zum-mond-ausgezeichnet
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/ausflug-zum-mond
 
 ----
 
@@ -69,67 +53,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-89565-381-0
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002021173/63715/10002/-3/Buecher_Kinder--und-Jugend/John-Hare/Ausflug-zum-Mond
-
-----
-
-Book-title: Ausflug zum Mond
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: John Hare
-
-----
-
-Illustrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Publisher: Moritz
-
-----
-
-Age: ab 4 Jahren
-
-----
-
-Price: 14,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Bilderbuch
-
-----
-
-Topics: Mond, Zukunft, Weltall, Außerirdische, Schule
-
-----
-
-Cover: - ausflug-zum-mond_john-hare.jpg

@@ -6,11 +6,7 @@ Isbn: 978-3-942929-67-7
 
 ----
 
-Book-title: Rübezahl
-
-----
-
-Book-subtitle: für die Jugend neu erzählt
+Subtitle: für die Jugend neu erzählt
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Hetty Krist
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 110
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 110
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Thomas Bachmann versteht es vollendet, spannend und zärtlich die a
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000001486061/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Bachmann/Ruebezahl
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Januar 2019
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201901.html
+
+----
+
+Participant: 

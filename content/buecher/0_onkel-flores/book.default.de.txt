@@ -6,11 +6,7 @@ Isbn: 978-3-905804-72-0
 
 ----
 
-Book-title: Onkel Flores
-
-----
-
-Book-subtitle: Eine ziemlich wahre Geschichte aus Brasilien
+Subtitle: Eine ziemlich wahre Geschichte aus Brasilien
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 17,90
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: Halbleinen
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 17,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Onkel Flores ist Schneider von Beruf und es gibt keinen besseren in
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851008340/63715/10002/-3/Buecher_Bilderbuecher/Eymard-Toledo/Onkel-Flores
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

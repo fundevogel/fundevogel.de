@@ -6,11 +6,7 @@ Isbn: 978-3-89565-324-7
 
 ----
 
-Book-title: Ein Teich voll mit Tinte
-
-----
-
-Book-subtitle: Reimgeschichten
+Subtitle: Reimgeschichten
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Christian Golusda
-
-----
-
-Participants: 
-
-----
-
-Page-count: 56
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 15,95
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 56
+
+----
+
+Price: 15,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: "Ich kenn einen Mann, der Märchen ersinnt und schon ganz früh mor
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851926692/63715/10002/-3/Buecher_Kinder--und-Jugend/Annie-M-G-Schmidt/Ein-Teich-voll-mit-Tinte
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: Mai 2017
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201705.html
+
+----
+
+Participant: 

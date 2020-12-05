@@ -35,97 +35,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: August 2016
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-das-bilderbuch-loewen-zaehlen
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-7725-2790-6
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851054993/63715/10002/-3/Buecher_Kinder--und-Jugend/Katie-Cotton/Loewen-zaehlen
-
-----
-
-Book-title: Löwen zählen
-
-----
-
-Book-subtitle: Tiere der Wildnis ganz nah
-
-----
-
-Author: Katie Cotton
-
-----
-
-Illustrator: Stephen Walton
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Publisher: Freies Geistesleben
-
-----
-
-Age: ab 3 Jahren
-
-----
-
-Price: 19,90
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Tiere, Tierschutz
-
-----
-
-Cover:
-
-- loewen-zaehlen_katie-cotton.jpg
 
 ----
 
@@ -133,10 +43,6 @@ Books:
 
 - >
   buecher/loewen-zaehlen-tiereder-wildnis-ganz-nah
-
-----
-
-Isaudiobook: false
 
 ----
 

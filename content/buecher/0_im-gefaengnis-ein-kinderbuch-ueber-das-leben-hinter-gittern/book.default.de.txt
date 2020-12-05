@@ -6,11 +6,7 @@ Isbn: 978-3-95470-186-5
 
 ----
 
-Book-title: Im Gefängnis
-
-----
-
-Book-subtitle: Ein Kinderbuch über das Leben hinter Gittern
+Subtitle: Ein Kinderbuch über das Leben hinter Gittern
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Susann Hesselbarth
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 96
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 14,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 14,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Sinas Papa muss ins Gefängnis. Er hat etwas Schlimmes getan und mu
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000644450/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Engelhardt/Im-Gefaengnis
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

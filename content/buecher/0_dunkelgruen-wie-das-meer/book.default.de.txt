@@ -6,11 +6,7 @@ Isbn: 978-3-423-64020-6
 
 ----
 
-Book-title: Dunkelgrün wie das Meer
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Birgit Schössow
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 80
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 80
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Zum Vor- und SelberlesenEndlich Ferien mit den Eltern im Schiffhaus
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460850903544/63715/10002/-3/Buecher_Kinder--und-Jugend/Ute-Wegmann/Dunkelgruen-wie-das-Meer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Reihe Hanser
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: September 2016
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-das-kinderbuch-dunkelgruen-wie-das-meer/
+
+----
+
+Participant: 

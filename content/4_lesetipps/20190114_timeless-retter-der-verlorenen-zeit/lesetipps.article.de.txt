@@ -37,98 +37,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-570-17447-0
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000186312/63715/10002/-3/Buecher_Kinder--und-Jugend/Armand-Baltazar/Timeless---Retter-der-verlorenen-Zeit
-
-----
-
-Book-title: Timeless - Retter der verlorenen Zeit
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Armand Baltazar
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Tanja Ohlsen
-
-----
-
-Participants: 
-
-----
-
-Page-count: 624
-
-----
-
-Duration: 
-
-----
-
-Publisher: cbj
-
-----
-
-Age: ab 12 Jahren
-
-----
-
-Price: 19,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Roman
-
-----
-
-Topics: Fantasy, Science-Fiction, Abenteuer
-
-----
-
-Cover:
-
-- >
-  timeless-retter-der-verlorenen-zeit_armand-baltazar.jpg
 
 ----
 
@@ -136,10 +45,6 @@ Books:
 
 - >
   buecher/timeless-retter-der-verlorenen-zeit
-
-----
-
-Isaudiobook: false
 
 ----
 

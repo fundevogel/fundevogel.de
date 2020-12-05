@@ -6,11 +6,7 @@ Isbn: 978-3-551-51943-6
 
 ----
 
-Book-title: Komm mit, Lulu!
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Anna Taube
-
-----
-
-Participants: 
-
-----
-
-Page-count: 76
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 76
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Marianne Dubuc ist mit diesem Bilderbuch eine besonders poetische F
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001695824/63715/10002/-3/Buecher_Bilderbuecher/Marianne-Dubuc/Komm-mit-Lulu
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: August 2019
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-fuer-das-bilderbuch-komm-mit-lulu
+
+----
+
+Participant: 

@@ -26,13 +26,17 @@ Date: 2016-04-25
 
 ----
 
-Books:
-
-- buecher/ein-haufen-aerger
+Conclusion-wanted: false
 
 ----
 
-Conclusion-wanted: false
+Isaward: false
+
+----
+
+Books:
+
+- buecher/ein-haufen-aerger
 
 ----
 
@@ -41,87 +45,3 @@ Seotitle: Ein Haufen Ärger
 ----
 
 Seodescription: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
-
-----
-
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
-Isaward: false
-
-----
-
-Isbn: 978-3-596-80479-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1602296/63715/10002/-3/Buecher_Kinder--und-Jugend/Sabine-Ludwig/Ein-Haufen-aerger
-
-----
-
-Book-title: Ein Haufen Ärger
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Sabine Ludwig
-
-----
-
-Illustrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 92
-
-----
-
-Publisher: Fischer Schatzinsel Verlag
-
-----
-
-Age: ab 11 Jahren
-
-----
-
-Price: 7,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Tiere, Freundschaft
-
-----
-
-Cover: - ein-haufen-aerger_sabine-ludwig.jpg

@@ -6,11 +6,7 @@ Isbn: 978-3-7373-5433-2
 
 ----
 
-Book-title: Polar
-
-----
-
-Book-subtitle: Ein Photicular Buch
+Subtitle: Ein Photicular Buch
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Cornelia Panzacchi
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 24,99
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 24,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: ERLEBE DIE POLARGEBIETE UND IHRE TIERE ZUM GREIFEN NAH!Ein neues ma
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851966301/63715/10002/-3/Buecher_Sachbuecher/Dan-Kainen/Polar
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: März 2017
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201703.html
+
+----
+
+Participant: 

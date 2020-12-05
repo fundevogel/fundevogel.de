@@ -6,11 +6,7 @@ Isbn: 978-3-446-24744-4
 
 ----
 
-Book-title: Idiotensicher
-
-----
-
-Book-subtitle: Roman
+Subtitle: Roman
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 192
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 14,90
+Antolin: 
+
+----
+
+Releaseyear: 2015
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 192
+
+----
+
+Price: 14,90
 
 ----
 
@@ -70,7 +58,35 @@ Description: Moki ist ein Freak, anders als die anderen, unnahbar und voller ver
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846328230/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Pope/Idiotensicher
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Februar 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201602.html
+
+----
+
+Participant: 

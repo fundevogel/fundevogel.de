@@ -6,11 +6,7 @@ Isbn: 978-3-551-55375-1
 
 ----
 
-Book-title: Kannawoniwasein!
-
-----
-
-Book-subtitle: Manchmal muss man einfach verduften
+Subtitle: Manchmal muss man einfach verduften
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 176
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 12,00
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 176
+
+----
+
+Price: 12,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Kannawoniwasein! Da fährt Finn zum ersten Mal alleine mit dem Zug 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000000666236/63715/10002/-3/Buecher_Abenteuer/Martin-Muser/Kannawoniwasein
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

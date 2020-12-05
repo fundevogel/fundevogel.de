@@ -6,11 +6,7 @@ Isbn: 978-3-570-16548-5
 
 ----
 
-Book-title: On The Come Up
-
-----
-
-Book-subtitle: Sie hat einen Traum. Und niemand kann sie aufhalten
+Subtitle: Sie hat einen Traum. Und niemand kann sie aufhalten
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Henriette Zeltner
-
-----
-
-Participants: 
-
-----
-
-Page-count: 512
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 18,00
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 512
+
+----
+
+Price: 18,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Jeder hat ein Recht auf Redefreiheit - aber nicht jeder wird gehör
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000001549652/63715/10002/-3/Buecher_Kinder--und-Jugend/Angie-Thomas/On-The-Come-Up
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Februar 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/jugendbuch-on-the-come-up-mit-lesepeter-geehrt
+
+----
+
+Participant: 

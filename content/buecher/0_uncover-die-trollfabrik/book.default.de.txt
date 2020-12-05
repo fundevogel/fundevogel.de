@@ -6,11 +6,7 @@ Isbn: 978-3-7432-0182-8
 
 ----
 
-Book-title: Uncover - Die Trollfabrik
-
-----
-
-Book-subtitle: Ein Thriller über Fake News, Trolls und populistische Propaganda
+Subtitle: Ein Thriller über Fake News, Trolls und populistische Propaganda
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 400
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 14,95
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 400
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Fake News. Alternative Fakten. Lügenpresse. Auf seinem YouTube-Kan
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002572106/63715/10002/-3/Buecher_Kinder--und-Jugend/Manfred-Theisen/Uncover---Die-Trollfabrik/4099276460822241243/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: Oktober 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-2020-fuer-das-jugendbuch-uncover
+
+----
+
+Participant: 

@@ -1,0 +1,144 @@
+Title: Der Räuber Hotzenplotz
+
+----
+
+Isbn: 978-3-7456-0164-0
+
+----
+
+Subtitle: 
+
+----
+
+Author: Otfried Preußler
+
+----
+
+Director: Frank Gustavus
+
+----
+
+Producer: 
+
+----
+
+Publisher: Silberfisch
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Duration: 150
+
+----
+
+Releaseyear: 2020
+
+----
+
+Narrator: Charly Hübner; Felix von Manteuffel; Tim Kreuer; Julian Greis; Hedi Kriegeskotte; Till Huster
+
+----
+
+Price: 13,00
+
+----
+
+Topics: 
+
+----
+
+Description: Schlipperdibix! Neues Hörspiel mit Charly Hübner, Felix von Manteuffel, Hedi Kriegeskotte u.v.m.Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel."Der Räuber Hotzenplotz": Kasperl und Seppel machen sich auf, den wilden Räuber zu fangen, der Großmutters Kaffeemühle gestohlen hat. Dummerweise landen sie dabei in Hotzenplotz' Falle ...
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002560605/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Otfried-Preussler/Der-Raeuber-Hotzenplotz---Das-Hoerspiel-2-Audio-CD
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-raeuber-hotzenplotz_otfried-preussler.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: Frank Gustavus
+
+----
+
+Composer: 

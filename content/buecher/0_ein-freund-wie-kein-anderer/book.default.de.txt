@@ -6,11 +6,7 @@ Isbn: 978-3-522-18457-1
 
 ----
 
-Book-title: Ein Freund wie kein anderer
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Barbara Scholz
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 14,00
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 14,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Erdhörnchen Habbi ist mit einem Wolf zusammengeprallt, dem größt
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000614598/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Ein-Freund-wie-kein-anderer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: true
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

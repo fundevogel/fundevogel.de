@@ -6,11 +6,7 @@ Isbn: 978-3-407-82156-0
 
 ----
 
-Book-title: Der Marienkäfer
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Tobias Scheffel
-
-----
-
-Participants: 
-
-----
-
-Page-count: 24
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 24
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wie durch eine Lupe geschaut, bringt Bernadette Gervais ein kleines
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853480035/63715/10002/-3/Buecher_Bilderbuecher/Bernadette-Gervais/Der-Marienkaefer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Juli 2017
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201707.html
+
+----
+
+Participant: 

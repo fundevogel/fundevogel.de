@@ -6,11 +6,7 @@ Isbn: 978-3-89565-381-0
 
 ----
 
-Book-title: Ausflug zum Mond
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 14,00
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 48
+
+----
+
+Price: 14,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wie die Zeiten sich doch geändert haben: Ein Ausflug zum Mond ist 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002021173/63715/10002/-3/Buecher_Kinder--und-Jugend/John-Hare/Ausflug-zum-Mond
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: April 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-ausflug-zum-mond-ausgezeichnet
+
+----
+
+Participant: 

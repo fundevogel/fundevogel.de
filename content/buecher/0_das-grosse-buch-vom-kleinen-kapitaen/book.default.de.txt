@@ -6,11 +6,7 @@ Isbn: 978-3-8251-7800-0
 
 ----
 
-Book-title: Das grosse Buch vom kleinen Kapitän
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Carl Hollander
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Frank Berger
-
-----
-
-Participants: 
-
-----
-
-Page-count: 395
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 18,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 395
+
+----
+
+Price: 18,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Der kleine Kapitän und seine Freunde Martinka, Tonne und Heini Has
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460824723547/63715/10002/-3/Buecher_Abenteuer/Paul-Biegel/Das-grosse-Buch-vom-kleinen-Kapitaen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

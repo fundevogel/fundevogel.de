@@ -30,98 +30,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-473-36966-9
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460842683841/63715/10002/-3/Buecher_Abenteuer/Fabian-Lenk/Die-Zeitdetektive---Das-Wunder-von-Bern
-
-----
-
-Book-title: Die Zeitdetektive - Das Wunder von Bern
-
-----
-
-Book-subtitle: Ein Krimi zur Fußballweltmeisterschaft 1954
-
-----
-
-Author: Fabian Lenk
-
-----
-
-Illustrator: Almud Kunert
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 153
-
-----
-
-Duration: 
-
-----
-
-Publisher: Ravensburger Buchverlag
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 8,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Fußball, Zeitreise, Krimis/Thriller
-
-----
-
-Cover:
-
-- >
-  die-zeitdetektive-das-wunder-von-bern_fabian-lenk.jpg
 
 ----
 
@@ -129,10 +38,6 @@ Books:
 
 - >
   buecher/die-zeitdetektive-das-wunder-von-bern
-
-----
-
-Isaudiobook: false
 
 ----
 

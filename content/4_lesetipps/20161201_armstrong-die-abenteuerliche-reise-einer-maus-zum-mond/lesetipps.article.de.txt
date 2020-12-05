@@ -40,97 +40,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Dezember 2016
-
-----
-
-Leselink: https://www.ajum.de/html/Lesepeter/201612.html
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-314-10348-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852058032/63715/10002/-3/Buecher_Abenteuer/Torben-Kuhlmann/Armstrong
-
-----
-
-Book-title: Armstrong
-
-----
-
-Book-subtitle: Die abenteuerliche Reise einer Maus zum Mond
-
-----
-
-Author: Torben Kuhlmann
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Publisher: NordSüd Verlag
-
-----
-
-Age: ab 4 Jahren
-
-----
-
-Price: 22,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Bilderbuch
-
-----
-
-Topics: Abenteuer, Raumfahrt, Weltall, Mäuse
-
-----
-
-Cover:
-
-- armstrong_torben-kuhlmann.jpg
 
 ----
 
@@ -138,10 +48,6 @@ Books:
 
 - >
   buecher/armstrong-die-abenteuerliche-reise-einer-maus-zum-mond
-
-----
-
-Isaudiobook: false
 
 ----
 

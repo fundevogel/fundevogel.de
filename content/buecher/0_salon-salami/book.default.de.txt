@@ -6,11 +6,7 @@ Isbn: 978-3-7915-0047-8
 
 ----
 
-Book-title: Salon Salami
-
-----
-
-Book-subtitle: Einer ist immer besonders
+Subtitle: Einer ist immer besonders
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Barbara Jung
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 12,99
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 12,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Tja, manchmal ist das Leben etwas bunter: Hani Salmani (nein, nicht
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853611539/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Benjamin-Tienti/Salon-Salami-Einer-ist-immer-besonders
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

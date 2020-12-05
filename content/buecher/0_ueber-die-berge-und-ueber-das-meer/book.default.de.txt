@@ -6,11 +6,7 @@ Isbn: 978-3-8369-5676-5
 
 ----
 
-Book-title: Über die Berge und über das Meer
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 272
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 12 Jahren
 
 ----
 
-Price: 14,95
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 272
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Som
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001645823/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/ueber-die-Berge-und-ueber-das-Meer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,12 +129,4 @@ Leselink:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Seodescription: 
+Participant: 

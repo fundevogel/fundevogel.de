@@ -6,11 +6,7 @@ Isbn: 978-3-7915-0007-2
 
 ----
 
-Book-title: Exit Sugartown
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Friederike Buchinger
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 14,99
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 14,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Eine Geschichte, wie sie jeden Tag auf der ganzen Welt geschieht: D
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 19
+
+----
+
+Olamessage: Ladenpreis aufgehoben. Führen wir nicht mehr
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851364875/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Martin-Petersen/Exit-Sugartown
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: 2017
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-preis-fuer-exit-sugartown
+
+----
+
+Participant: 

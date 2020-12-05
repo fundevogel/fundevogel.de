@@ -1,0 +1,144 @@
+Title: Die Abenteuer des Huckleberry Finn
+
+----
+
+Isbn: 978-3-89940-559-0
+
+----
+
+Subtitle: 
+
+----
+
+Author: Mark Twain
+
+----
+
+Director: Robert Schoen
+
+----
+
+Producer: 
+
+----
+
+Publisher: DHV Der HörVerlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Duration: 99
+
+----
+
+Releaseyear: 2015
+
+----
+
+Narrator: Martin Semmelrogge; Marc Hosemann; Tommi Piper
+
+----
+
+Price: 12,95
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: Das Leben ist leicht, solange man auf einer Flussinsel liegt, Fische grillt, Pfeife raucht und sich Geschichten erzählt. Aber das angenehme Leben von Huckleberry Finn und dem geflohenen Sklaven Jim hat ein Ende, als sie zwei Hochstaplern begegnen. Können sie dem “Herzog” und dem “König” das betrügerische Handwerk legen?
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/2020558/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Mark-Twain/Die-Abenteuer-des-Huckleberry-Finn-Audio-CD
+
+----
+
+Translator: Sybil Gräfin Schönfeldt
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-abenteuer-des-huckleberry-finn_mark-twain.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 
+
+----
+
+Composer: 

@@ -6,11 +6,7 @@ Isbn: 978-3-499-21184-3
 
 ----
 
-Book-title: Danny oder Die Fasanenjagd
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Quentin Blake
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Sybil Gräfin Schönfeldt
-
-----
-
-Participants: 
-
-----
-
-Page-count: 218
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 11 Jahren
 
 ----
 
-Price: 8,99
+Antolin: 
+
+----
+
+Releaseyear: 2015
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 218
+
+----
+
+Price: 8,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Dannys Vater ist Automechaniker und ... Wilddieb! Als Danny das erf
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/414874/63715/10002/-3/Buecher_Kinder--und-Jugend/Roald-Dahl/Danny-oder-Die-Fasanenjagd
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: rororo Rotfuchs
+
+----
+
+Volume: Nr.21184
+
+----
+
 Hasaward: false
 
 ----
@@ -101,3 +125,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

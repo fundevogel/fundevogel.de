@@ -26,33 +26,17 @@ Date: 2020-05-04
 
 ----
 
-Books:
-
-- buecher/hallo-herr-eisbaer
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Mai 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-herr-eisbaer-ausgezeichnet
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/hallo-herr-eisbaer
 
 ----
 
@@ -61,67 +45,3 @@ Seotitle: Hallo, Herr Eisbär!
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-407-81232-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626266/63715/10002/-3/Buecher_Kinder--und-Jugend/Maria-Farrer/Hallo-Herr-Eisbaer
-
-----
-
-Book-title: Hallo, Herr Eisbär!
-
-----
-
-Book-subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
-
-----
-
-Author: Maria Farrer
-
-----
-
-Illustrator: Daniel Rieley
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 220
-
-----
-
-Publisher: Beltz
-
-----
-
-Age: ab 7 Jahren
-
-----
-
-Price: 12,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Geschwister, Autismus, Schattenkinder
-
-----
-
-Cover: - hallo-herr-eisbaer_maria-farrer.jpg

@@ -1,0 +1,144 @@
+Title: Die Känguruh-Chroniken
+
+----
+
+Isbn: 978-3-86909-108-2
+
+----
+
+Subtitle: 
+
+----
+
+Author: Marc-Uwe Kling
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: Downtown
+
+----
+
+Age: 
+
+----
+
+Duration: 291
+
+----
+
+Releaseyear: 2012
+
+----
+
+Narrator: 
+
+----
+
+Price: 14,99
+
+----
+
+Topics: Känguru
+
+----
+
+Description: Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840821296/63715/10002/-3/weitere-Kategorien_Humor-und-Comedy/Marc-Uwe-Kling/Die-Kaenguru-Chroniken-4-Audio-CDs
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-kaenguruh-chroniken_marc-uwe-kling.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Känguru-Chroniken
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Isaward: false
+
+----
+
+Participant: 
+
+----
+
+Composer: 

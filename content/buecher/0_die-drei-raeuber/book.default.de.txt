@@ -6,11 +6,7 @@ Isbn: 978-3-257-00502-8
 
 ----
 
-Book-title: Die drei Räuber
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Tilde Michels
-
-----
-
-Participants: 
-
-----
-
-Page-count: 40
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 20,00
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2007
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 20,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Die drei Räuber überfallen Kutschen und berauben die Reisenden. W
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/2074667/63715/10002/-3/Buecher_Bilderbuecher/Tomi-Ungerer/Die-drei-Raeuber/4099276460822241241/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Bilderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -104,32 +128,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

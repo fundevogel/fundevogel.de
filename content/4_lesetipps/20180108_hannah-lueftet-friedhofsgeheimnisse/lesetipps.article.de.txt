@@ -34,98 +34,7 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Januar 2018
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-januar-fuer-kinderbuch-zum-thema-tod
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-466-37164-8
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852027130/63715/10002/-3/Buecher_Kinder--und-Jugend/Diana-Hillebrand/Hannah-lueftet-Friedhofsgeheimnisse
-
-----
-
-Book-title: Hannah lüftet Friedhofsgeheimnisse
-
-----
-
-Book-subtitle: Eine Geschichte über den Tod und was danach kommt
-
-----
-
-Author: Diana Hillebrand
-
-----
-
-Illustrator: Stefanie Duckstein
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Publisher: Kösel
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 16,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Tod, Beerdigung, Friedhof
-
-----
-
-Cover:
-
-- >
-  hannah-lueftet-friedhofsgeheimnisse_diana-hillebrand.jpg
 
 ----
 
@@ -133,10 +42,6 @@ Books:
 
 - >
   buecher/hannah-lueftet-friedhofsgeheimnisse
-
-----
-
-Isaudiobook: false
 
 ----
 

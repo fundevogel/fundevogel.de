@@ -6,11 +6,7 @@ Isbn: 978-3-95728-063-3
 
 ----
 
-Book-title: Das Leben meines besten Freundes
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 242
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 14,95
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 242
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Samir und Jacob sehen sich zum Verwechseln ähnlich - stammen aber 
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 19
+
+----
+
+Olamessage: Ladenpreis aufgehoben. Führen wir nicht mehr
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000217107/63715/10002/-3/Buecher_Kinder--und-Jugend/Judith-Gridl/Das-Leben-meines-besten-Freundes
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: Oktober 2018
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201810.html
+
+----
+
+Participant: 

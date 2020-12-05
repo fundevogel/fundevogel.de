@@ -22,33 +22,17 @@ Date: 2020-07-07
 
 ----
 
-Books:
-
-- buecher/limonade-im-kirschbaum
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/limonade-im-kirschbaum
 
 ----
 
@@ -57,67 +41,3 @@ Seotitle: Limonade im Kirschbaum
 ----
 
 Seodescription: Eine Geschichte, die spannend und leichtfüßig erzählt ist.
-
-----
-
-Isbn: 978-3-8369-6023-6
-
-----
-
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/3000002551839/63715/10002/-3/Buecher_Kinder--und-Jugend/Gerda-Raidt/Limonade-im-Kirschbaum
-
-----
-
-Book-title: Limonade im Kirschbaum
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Gerda Raidt
-
-----
-
-Illustrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 144
-
-----
-
-Publisher: Gerstenberg Verlag
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 13,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Garten, Sommer, Familie
-
-----
-
-Cover: - limonade-im-kirschbaum_gerda-raidt.jpg

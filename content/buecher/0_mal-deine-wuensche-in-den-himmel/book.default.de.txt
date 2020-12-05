@@ -6,11 +6,7 @@ Isbn: 978-3-7913-7103-0
 
 ----
 
-Book-title: Mal deine Wünsche in den Himmel
-
-----
-
-Book-subtitle: Kunst und Gedichte für Kinder und Erwachsene
+Subtitle: Kunst und Gedichte für Kinder und Erwachsene
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 19,99
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 19,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowi
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 99
+
+----
+
+Olamessage: Titel hat Nachfolgetitel/-auflage
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840360338/63715/10002/-3/weitere-Kategorien_Architektur-und-Kunst//Mal-deine-Wuensche-in-den-Himmel
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Gedichtband
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,4 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
-
-----
-
-Seodescription: 

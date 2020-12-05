@@ -30,13 +30,17 @@ Date: 2016-03-01
 
 ----
 
-Books:
-
-- buecher/die-zauberfloete
+Conclusion-wanted: true
 
 ----
 
-Conclusion-wanted: true
+Isaward: true
+
+----
+
+Books:
+
+- buecher/die-zauberfloete
 
 ----
 
@@ -45,90 +49,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: März 2016
-
-----
-
-Leselink: https://www.ajum.de/html/Lesepeter/201603.html
-
-----
-
-Isaward: true
-
-----
-
-Isbn: 978-3-7607-9995-7
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848818213/63715/10002/-3/Buecher_Bilderbuecher/Ludvik-Glazer-Naud/Die-Zauberfloete-m-Audio-CD
-
-----
-
-Book-title: Die Zauberflöte
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Ingrid Leser-Matthesius
-
-----
-
-Illustrator: Ludvik Glazer-Naudé
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Publisher: ars edition
-
-----
-
-Age: ab 4 Jahren
-
-----
-
-Price: 19,99
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch, Hörbuch
-
-----
-
-Topics: Mozart, Musik, Oper
-
-----
-
-Cover:
-
-- >
-  die-zauberfloete_ingrid-leser-matthesius.jpg

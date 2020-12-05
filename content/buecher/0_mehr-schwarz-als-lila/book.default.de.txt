@@ -6,11 +6,7 @@ Isbn: 978-3-87134-175-5
 
 ----
 
-Book-title: Mehr Schwarz als Lila
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 256
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 14 Jahren
 
 ----
 
-Price: 19,95
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 256
+
+----
+
+Price: 19,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Mit siebzehn ist das Leben kompliziert. Alex trägt lieber Schwarz 
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853583833/63715/10002/-3/Buecher_Kinder--und-Jugend/Lena-Gorelik/Mehr-Schwarz-als-Lila
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Februar 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/mehr-schwarz-als-lila-bekommt-lesepeter-februar
+
+----
+
+Participant: 

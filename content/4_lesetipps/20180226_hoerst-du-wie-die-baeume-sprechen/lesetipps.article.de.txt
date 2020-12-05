@@ -30,14 +30,18 @@ Date: 2018-02-26
 
 ----
 
+Conclusion-wanted: true
+
+----
+
+Isaward: true
+
+----
+
 Books:
 
 - >
   buecher/hoerst-du-wie-die-baeume-sprechen
-
-----
-
-Conclusion-wanted: true
 
 ----
 
@@ -46,90 +50,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: März 2018
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-maerz-geht-an-sachbuch-zum-thema-wald
-
-----
-
-Isaward: true
-
-----
-
-Isbn: 978-3-7891-0822-8
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000211303/63715/10002/-3/Buecher_Sachbuecher/Peter-Wohlleben/Hoerst-du-wie-die-Baeume-sprechen
-
-----
-
-Book-title: Hörst du, wie die Bäume sprechen?
-
-----
-
-Book-subtitle: Eine kleine Entdeckungsreise durch den Wald
-
-----
-
-Author: Peter Wohlleben
-
-----
-
-Illustrator: Stefanie Reich; Dagmar Herrmann
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Publisher: Oetinger
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 18,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Sachbuch
-
-----
-
-Topics: Wald, Naturschutz
-
-----
-
-Cover:
-
-- >
-  hoerst-du-wie-die-baeume-sprechen_peter-wohlleben.jpg

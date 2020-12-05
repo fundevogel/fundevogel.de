@@ -6,11 +6,7 @@ Isbn: 978-3-446-26217-1
 
 ----
 
-Book-title: Lauf um dein Leben!
-
-----
-
-Book-subtitle: Die Weltreise der Sneakers
+Subtitle: Die Weltreise der Sneakers
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Birgit Jansen
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 232
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 13 Jahren
 
 ----
 
-Price: 15,00
+Antolin: 
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 232
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Berlin, China, Äthiopien - Wolfgang Korn über die Weltreise der S
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001490489/63715/10002/-3/Buecher_Kinder--und-Jugend/Wolfgang-Korn/Lauf-um-dein-Leben
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: 2019
 ----
 
 Leselink: https://www.gew.de/presse/pressemitteilungen/detailseite/neuigkeiten/gew-wolfgang-korns-lauf-um-dein-leben-erhaelt-den-heinrich-wolgast-preis
+
+----
+
+Participant: 

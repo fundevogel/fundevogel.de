@@ -6,11 +6,7 @@ Isbn: 978-3-407-79986-9
 
 ----
 
-Book-title: Wo kommen die Worte her
-
-----
-
-Book-subtitle: Neue Gedichte für Kinder und Erwachsene
+Subtitle: Neue Gedichte für Kinder und Erwachsene
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 262
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 24,95
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: Halbleinen
+
+----
+
+Pagecount: 262
+
+----
+
+Price: 24,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: “Sag, wo kommen die Worte her?” Diese Frage sandte Hans-Joachim
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838828108/63715/10002/-3/Buecher_Kinder--und-Jugend//Wo-kommen-die-Worte-her/4099276460822241246/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Gedichtband
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,4 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
-
-----
-
-Seodescription: 

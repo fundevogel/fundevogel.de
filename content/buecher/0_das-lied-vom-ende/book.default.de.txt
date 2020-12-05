@@ -6,11 +6,7 @@ Isbn: 978-3-944122-36-6
 
 ----
 
-Book-title: Das Lied vom Ende
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 256
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 15 Jahren
 
 ----
 
-Price: 22,00
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 256
+
+----
+
+Price: 22,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Um 2010, in einer norddeutschen Kleinstadt. Ein Mann tötet sich un
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000000822637/63715/10002/-3/Buecher_Romane/Christoph-Jehlicka/Das-Lied-vom-Ende
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Reihe 1
+
+----
+
+Volume: 14
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Februar 2019
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-februar-fuer-das-lied-vom-ende
+
+----
+
+Participant: 

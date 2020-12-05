@@ -26,33 +26,17 @@ Date: 2020-01-07
 
 ----
 
-Books:
-
-- buecher/klimahelden
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/klimahelden
 
 ----
 
@@ -61,67 +45,3 @@ Seotitle: Klimahelden
 ----
 
 Seodescription: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
-
-----
-
-Isbn: 978-3-86256-098-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001690268/63715/10002/-3/Buecher_Kinder--und-Jugend/Hanna-Schott/Klimahelden
-
-----
-
-Book-title: Klimahelden
-
-----
-
-Book-subtitle: Von Goldsammlerinnen und Meeresputzern
-
-----
-
-Author: Hanna Schott
-
-----
-
-Illustrator: Volker Konrad
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 124
-
-----
-
-Publisher: Neufeld Verlag
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 12,90
-
-----
-
-Binding: kartoniert
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Umweltschutz, Klimawandel
-
-----
-
-Cover: - klimahelden_hanna-schott.jpg

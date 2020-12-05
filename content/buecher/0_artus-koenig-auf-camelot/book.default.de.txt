@@ -6,11 +6,7 @@ Isbn: 978-3-8369-5613-0
 
 ----
 
-Book-title: Artus
-
-----
-
-Book-subtitle: König auf Camelot
+Subtitle: König auf Camelot
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Helmut Dohle
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 64
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 16,95
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 16,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wie ein Lauffeuer verbreitet sich die Nachricht, dass ein Stein mit
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/Product/3000001646940/63715/10002/-3/Buecher_Kinder--und-Jugend/Ilka-Sokolowski/Artus
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,11 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 
+
+----
+
+Type: Hardcover

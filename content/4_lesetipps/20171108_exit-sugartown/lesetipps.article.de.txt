@@ -27,18 +27,14 @@ Builder:
   books:
     - 
       isbn: 978-3-551-76307-5
-      book_cover:
-        - >
-          die-geheimnisse-von-schokolade_franckie-alarcon.jpg
+      book_cover: [ ]
       book_title: Die Geheimnisse von Schokolade
       book_subtitle: ""
       author: Franckie Alarcon
       text: 'Man sitzt in diesem Sachbuch nicht nur bei der Entstehung eines interessanten Comics in der ersten Reihe, es werden auch tiefe Einblicke in die Arbeitsabläufe zur Herstellung von Schokolade gewährt. Diese gelungene Mischung aus Sachcomic und Graphic Novel ist sehr reichhaltig und informativ, besonders hinsichtlich des Selbstverständ- nisses und der Arbeitsweise eines Chocolatiers. Die erzählte Handlung entwickelt sich in den hochfrequenten Bildpanels, die eine (dokumentar-)filmartige Atmosphäre erzeugen.'
     - 
       isbn: 978-3-551-56032-2
-      book_cover:
-        - >
-          barney-kettles-bewegte-bilder_kate-de-goldi.jpg
+      book_cover: [ ]
       book_title: Barney Kettles bewegte Bilder
       book_subtitle: ""
       author: Kate de Goldi
@@ -64,8 +60,7 @@ Builder:
         Witz.
     - 
       isbn: 978-3945-03442-2
-      book_cover:
-        - madgermanes_birgit-weyhe.jpg
+      book_cover: [ ]
       book_title: Madgermanes
       book_subtitle: ""
       author: Birgit Weyhe
@@ -90,17 +85,14 @@ Builder:
         Bundesrepublik.
     - 
       isbn: 978-3-03731-147-9
-      book_cover:
-        - >
-          die-eisenbahn-ueber-den-wolken_li-kunwu.jpg
+      book_cover: [ ]
       book_title: Die Eisenbahn über den Wolken
       book_subtitle: ""
       author: Li Kunwu
       text: 'Der historische Dokumentarcomic berichtet über den Bau der vietnamesisch-chinesischen Yunnan-Bahn Anfang des 20. Jahrhunderts: Eine technische Meisterleistung, die Mensch und Natur abgerungen werden musste: Grausame Zwangsarbeit und – selbst für damalige Verhältnisse – katastrophale Arbeitsbedingungen kosteten mehr als zehntausend Arbeitern das Leben. Insbesondere in der visuellen Darstellung seines dokumentarischen Gehaltes und der engen Verknüpfung von historischen und kulturellen Differenzen beeindruckt dieses Buch.'
     - 
       isbn: 978-3-905804-72-0
-      book_cover:
-        - onkel-flores_eymard-toledo.jpg
+      book_cover: [ ]
       book_title: Onkel Flores
       book_subtitle: >
         Eine ziemlich wahre Geschichte aus
@@ -109,8 +101,7 @@ Builder:
       text: 'Ungemein realistisch gestaltet, gleichsam ein wenig märchenhaft erzählend, entführt dieses Bilderbuch mit seinen Papier- und Stoffcollagen in die kleine Stadt Pinbauê (Brasilien): Umweltverschmutzung, Industrialisierung, das Aussterben traditioneller Berufe sowie Preis- und Lohndum- ping durch billigen Import werden am Existenzkampf eines Schneiders anschaulich dargestellt. Dank einer Idee seines Neffen gelingt Flores nicht nur die Erhaltung des eigenen Geschäftes, sondern er bringt auch wieder Farbe und etwas Glück in das Leben der Bewohner von Pinbauê.'
     - 
       isbn: 978-3-7152-0727-8
-      book_cover:
-        - geld-zu-verkaufen_lorenz-pauli.jpg
+      book_cover: [ ]
       book_title: Geld zu verkaufen!
       book_subtitle: ""
       author: Lorenz Pauli
@@ -119,16 +110,14 @@ Builder:
         begründen sich Werte? Warum brauchen wir überhaupt solche Vergleichsgrößen und wie gehen wir damit um? Lorenz Pauli thematisiert im vorliegenden Bilderbuch zentrale Fragen des Besitztums, die in einer kindlichen Spielsituation in verschiedenen Varianten durchgespielt und veranschaulicht werden. Konkret und dennoch verallgemeinerbar entstehen so Vorstellungen einer abstrakten Thematik; witzig vermittelt in den comicartig gezeichneten Illustrationen von Claudia de Weck.
     - 
       isbn: 978-3-86569-255-9
-      book_cover:
-        - schmutzige-fuesse_koldo-izagirre.jpg
+      book_cover: [ ]
       book_title: Schmutzige Füße
       book_subtitle: ""
       author: Koldo Izagirre
       text: 'Schmutzige Füße beobachtet die Menschen in der Telefonzelle, die ihre Lieben in der Ferne anrufen. Dabei ergeben sich oft zwei Realitäten: die eine, welche die Migranten ihren Verwandten berichten und die andere, in der sie offenkundig leben. Auch Schmutzige Füße lebt in verschiedenen Welten und würde gern jemandem davon berichten. Eine poetische Geschichte, die mit ihren vielschichtigen Collagen besonders die Widersprüche im Leben ihrer Handlungsträger eindrücklich in Szene setzt.'
     - 
       isbn: 978-3-7373-5427-1
-      book_cover:
-        - crenshaw_katherine-applegate.jpg
+      book_cover: [ ]
       book_title: Crenshaw
       book_subtitle: Einmal schwarzer Kater
       author: Katherine Applegate
@@ -153,17 +142,14 @@ Builder:
         an.
     - 
       isbn: 978-3-7373-5360-1
-      book_cover:
-        - bruder-wolf_carla-maia-de-almeida.jpg
+      book_cover: [ ]
       book_title: Bruder Wolf
       book_subtitle: ""
       author: Carla Maia de Almeida
       text: 'Sehr poetisch, anrührend und nach­denklich werden die Arbeitslosigkeit des Vaters, sozialer Abstieg, Anspruch und Wirklichkeit des männlichen Haupt­verdienermodells und nicht zuletzt die Zerrüttung einer Familie thematisiert. Im Zeitalter der Wirtschafts- und Finanzkrise(n) ist dieses illustrierte Kinderbuch, welches den Zusammenhang von Arbeitswelt und Privatleben eindrücklich und poetisch verfremdet herstellt, topaktuell. Meisterhafte Illustrationen vermitteln eine düstere, bedrückende Atmosphäre und machen das Buch zu einem traurig schönen Gesamtkunstwerk.'
     - 
       isbn: 978-3-946593-08-9
-      book_cover:
-        - >
-          ein-blick-in-die-deutsche-geschichte_jochen-oltmer-nikolaus-barbian.jpg
+      book_cover: [ ]
       book_title: Ein Blick in die deutsche Geschichte
       book_subtitle: 'Vom Ein- und Auswandern'
       author: 'Jochen Oltmer & Nikolaus Barbian'
@@ -190,107 +176,13 @@ Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: Heinrich-Wolgast-Preis
-
-----
-
-Awardedition: 2017
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-preis-fuer-exit-sugartown
-
-----
-
 Isaward: true
-
-----
-
-Isbn: 978-3-7915-0007-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851364875/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Martin-Petersen/Exit-Sugartown
-
-----
-
-Book-title: Exit Sugartown
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Martin Petersen
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Friederike Buchinger
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Publisher: Dressler Verlag GmbH
-
-----
-
-Age: ab 14 Jahren
-
-----
-
-Price: 14,99
-
-----
-
-Binding: kartoniert
-
-----
-
-Categories: Jugendbuch
-
-----
-
-Topics: Schlepper, Flucht
-
-----
-
-Cover:
-
-- exit-sugartown_martin-petersen.jpg
 
 ----
 
 Books:
 
 - buecher/exit-sugartown
-
-----
-
-Isaudiobook: false
 
 ----
 

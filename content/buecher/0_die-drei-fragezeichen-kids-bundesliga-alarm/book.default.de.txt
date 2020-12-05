@@ -6,11 +6,7 @@ Isbn: 978-3-440-15037-5
 
 ----
 
-Book-title: Die drei ??? Kids - Bundesliga-Alarm
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Jan Saße
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 216
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 9,99
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 216
+
+----
+
+Price: 9,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Justus, Peter und Bob machen gemeinsam mit Tante Mathilda und Onkel
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 99
+
+----
+
+Olamessage: Titel hat Nachfolgetitel/-auflage
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851060360/63715/10002/-3/Buecher_Krimi/Boris-Pfeiffer/Die-drei--Kids---Bundesliga-Alarm
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Die drei Fragezeichen-Kids
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

@@ -26,33 +26,17 @@ Date: 2020-03-14
 
 ----
 
-Books:
-
-- buecher/mitten-im-dschungel
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/mitten-im-dschungel
 
 ----
 
@@ -61,70 +45,3 @@ Seotitle: Mitten im Dschungel
 ----
 
 Seodescription: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich …
-
-----
-
-Isbn: 978-3-551-55480-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/product/3000001059911/Buecher_Abenteuer/Katherine-Rundell/Mitten-im-Dschungel
-
-----
-
-Book-title: Mitten im Dschungel
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Katherine Rundell
-
-----
-
-Illustrator: 
-
-----
-
-Translator: Henning Ahrens
-
-----
-
-Participants: 
-
-----
-
-Page-count: 304
-
-----
-
-Publisher: Carlsen
-
-----
-
-Age: ab 11 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Abenteuer, Amazonas, Freundschaft, Regenwald, Flugzeugabsturz
-
-----
-
-Cover:
-
-- >
-  mitten-im-dschungel_katherine-rundell.jpg

@@ -6,11 +6,7 @@ Isbn: 978-3-446-26055-9
 
 ----
 
-Book-title: Am liebsten aß der Hamster Hugo Spaghetti mit Tomatensugo
-
-----
-
-Book-subtitle: Tiergedichte
+Subtitle: Tiergedichte
 
 ----
 
@@ -34,7 +30,19 @@ Age: ab 5 Jahren
 
 ----
 
-Page-count: 64
+Antolin: 
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
 
 ----
 
@@ -50,15 +58,19 @@ Description: Kurze Geschichten, die gute Laune machen und von den Eigenarten und
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000985578/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Hohler/Am-liebsten-ass-der-Hamster-Hugo-Spaghetti-mit-Tomatensugo
-
-----
-
-Year: 2018
-
-----
-
-Binding: gebunden
 
 ----
 
@@ -93,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -109,48 +129,12 @@ Leselink:
 
 ----
 
-Narrator: 
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
-
-----
-
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 
 
 ----
 
-Participant: 
+Type: Hardcover

@@ -6,11 +6,7 @@ Isbn: 978-3-314-10348-3
 
 ----
 
-Book-title: Armstrong
-
-----
-
-Book-subtitle: Die abenteuerliche Reise einer Maus zum Mond
+Subtitle: Die abenteuerliche Reise einer Maus zum Mond
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 22,00
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 22,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Praise for Armstrong-The Adventurous Journey of a Mouse to the Moon
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852058032/63715/10002/-3/Buecher_Abenteuer/Torben-Kuhlmann/Armstrong
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: Mäuseabenteuer / Mouse Adventures / Lindbergh
+
+----
+
+Volume: 2
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,11 @@ Awardedition: Dezember 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201612.html
+
+----
+
+Participant: 
+
+----
+
+Type: Hardcover

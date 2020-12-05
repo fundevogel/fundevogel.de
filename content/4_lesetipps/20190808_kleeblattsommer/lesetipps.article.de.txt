@@ -1,4 +1,4 @@
-Title: Kleeblatsommer
+Title: Kleeblattsommer
 
 ----
 
@@ -14,11 +14,11 @@ Verdict: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Builder:
 
 ----
 
@@ -30,111 +30,17 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-8369-5945-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001646883/63715/10002/-3/Buecher_Kinder--und-Jugend/Christian-Wiik-Gjerde/Kleeblattsommer
-
-----
-
-Book-title: Kleeblattsommer
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Christian Wiik Gjerde
-
-----
-
-Illustrator: Anke Kuhl
-
-----
-
-Narrator: 
-
-----
-
-Translator: Maike Dörries
-
-----
-
-Participants: 
-
-----
-
-Page-count: 336
-
-----
-
-Duration: 
-
-----
-
-Publisher: Gerstenberg Verlag
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 14,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Freundschaft, Sommer
-
-----
-
-Cover:
-
-- kleeblatsommer_christian-wiik-gjerde.jpg
 
 ----
 
 Books:
 
-- buecher/kleeblatsommer
+- buecher/kleeblattsommer
 
 ----
 
-Isaudiobook: false
-
-----
-
-Seotitle: Kleeblatsommer
+Seotitle: Kleeblattsommer
 
 ----
 

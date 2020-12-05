@@ -6,11 +6,7 @@ Isbn: 978-3-7152-0701-8
 
 ----
 
-Book-title: Der Tod auf dem Apfelbaum
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 36
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 14,95
+Antolin: 
+
+----
+
+Releaseyear: 2015
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 36
+
+----
+
+Price: 14,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Ein gutes Leben braucht sein EndeEin alter Fuchs fängt ein Zauberw
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 80
+
+----
+
+Olamessage: Fehlt, da der Verlag/Lieferant derzeit nicht liefern kann
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848961165/63715/10002/-3/Buecher_Kinder--und-Jugend/Kathrin-Schaerer/Der-Tod-auf-dem-Apfelbaum
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: April 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201604.html
+
+----
+
+Participant: 

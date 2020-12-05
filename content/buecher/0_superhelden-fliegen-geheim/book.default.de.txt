@@ -6,11 +6,7 @@ Isbn: 978-3-401-06825-1
 
 ----
 
-Book-title: Superhelden fliegen geheim
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 168
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 9,99
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2013
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 168
+
+----
+
+Price: 9,99
 
 ----
 
@@ -70,7 +58,35 @@ Description: Auf den ersten Blick wirkt sie ja ganz normal, die Familie von Karl
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 12
+
+----
+
+Olamessage: Nachdruck/wird nachproduziert. Folgt laut Verlag/Lieferant .../...
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460841295620/63715/10002/-3/Buecher_Fantasy/Alice-Pantermueller/Superhelden-fliegen-geheim
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Superhelden
+
+----
+
+Volume: Bd.1
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

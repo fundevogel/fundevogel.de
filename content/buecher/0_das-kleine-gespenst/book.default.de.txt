@@ -6,11 +6,7 @@ Isbn: 978-3-522-11080-8
 
 ----
 
-Book-title: Das kleine Gespenst
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: F. J. Tripp
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 136
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 12,00
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2013
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 136
+
+----
+
+Price: 12,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Jede Nacht pünktlich zur Geisterstunde erwacht das kleine Gespenst
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1366131/63715/10002/-3/Buecher_Kinder--und-Jugend/Otfried-Preussler/Das-kleine-Gespenst
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -105,32 +129,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

@@ -6,11 +6,7 @@ Isbn: 978-3-7348-4114-9
 
 ----
 
-Book-title: Kater Aristoteles - Wer fragt schon einen Kater?
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Pe Grigo
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 12,00
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 12,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Aristoteles ist ein bildhübscher Kater im besten Alter - findet er
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000230772/63715/10002/-3/Buecher_Kinder--und-Jugend/Annette-Herzog/Kater-Aristoteles---Wer-fragt-schon-einen-Kater
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: Kater Aristoteles
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: Mai 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-fuer-kinderbuch-ueber-einen-eitlen-kater
+
+----
+
+Participant: 

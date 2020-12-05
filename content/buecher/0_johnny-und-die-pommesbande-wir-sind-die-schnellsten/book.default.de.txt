@@ -6,11 +6,7 @@ Isbn: 978-3-7915-0026-3
 
 ----
 
-Book-title: Johnny und die Pommesbande
-
-----
-
-Book-subtitle: Wir sind die Schnellsten
+Subtitle: Wir sind die Schnellsten
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Horst Klein
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 10 Jahren
 
 ----
 
-Price: 12,00
+Antolin: 
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 12,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Johnny wohnt am Hafen und da ist auch das Revier seiner Bande. Mit 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000556985/63715/10002/-3/Buecher_Abenteuer/Simone-Buchholz/Johnny-und-die-Pommesbande
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

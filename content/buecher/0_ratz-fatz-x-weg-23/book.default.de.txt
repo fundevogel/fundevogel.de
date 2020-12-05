@@ -6,11 +6,7 @@ Isbn: 978-3-407-82353-3
 
 ----
 
-Book-title: Der Ratz-Fatz-x-weg 23
-
-----
-
-Book-subtitle: Roman für Kinder
+Subtitle: Roman für Kinder
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Maja Bohn
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 209
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 209
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Seit Familie Pittel sich einen "Ratz-Fatz-x-weg 23" angeschafft hat
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000627869/63715/10002/-3/Buecher_Kinder--und-Jugend/Salah-Naoura/Der-Ratz-Fatz-x-weg-23
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: September 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-september-geht-an-das-kinderbuch-ratz-fatz-x-weg-23
+
+----
+
+Participant: 

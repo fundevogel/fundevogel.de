@@ -6,11 +6,7 @@ Isbn: 978-3-608-93981-1
 
 ----
 
-Book-title: Der Herr der Ringe - Die Gefährten
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Wolfgang Krege
-
-----
-
-Participants: 
-
-----
-
-Page-count: 608
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age:
 
 ----
 
-Price: 15,00
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 608
+
+----
+
+Price: 15,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Der Schauplatz des Herrn der Ringe ist Mittelerde, eine alternative
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840795464/63715/10002/-3/Buecher_Fantasy/John-R-R-Tolkien/Der-Herr-der-Ringe----Die-Gefaehrten-3-Teile-
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -86,6 +102,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: true
+
+----
+
+Series: Hobbit Presse
+
+----
+
+Volume: 1
 
 ----
 
@@ -105,12 +129,4 @@ Leselink:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-11-05
-
-----
-
-Seodescription: 
+Participant: 

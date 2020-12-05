@@ -6,11 +6,7 @@ Isbn: 978-3-941787-53-7
 
 ----
 
-Book-title: Vögel auf Weltreise
-
-----
-
-Book-subtitle: Alles über Zugvögel
+Subtitle: Alles über Zugvögel
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 56
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 9 Jahren
 
 ----
 
-Price: 18,00
+Antolin: 
+
+----
+
+Releaseyear: 2011
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 56
+
+----
+
+Price: 18,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Wussten Sie, dass Zugvögel selbst den Himalaya überqueren, wobei 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851171947/63715/10002/-3/Buecher_Sachbuecher/Fleur-Daugey/Voegel-auf-Weltreise
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: November 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201611.html
+
+----
+
+Participant: 

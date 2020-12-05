@@ -30,33 +30,17 @@ Date: 2020-01-05
 
 ----
 
-Books:
-
-- buecher/opa-und-die-nacht-der-woelfe
-
-----
-
 Conclusion-wanted: true
 
 ----
 
-Hasaward: true
-
-----
-
-Award: LesePeter
-
-----
-
-Awardedition: Januar 2020
-
-----
-
-Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-des-monats-januar-fuer-das-kinderbuch-opa-und-die-nacht-der-woelfe
-
-----
-
 Isaward: true
+
+----
+
+Books:
+
+- buecher/opa-und-die-nacht-der-woelfe
 
 ----
 
@@ -65,70 +49,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-7891-0954-6
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001933576/63715/10002/-3/Buecher_Kinder--und-Jugend/Nora-Alexander/Opa-und-die-Nacht-der-Woelfe
-
-----
-
-Book-title: Opa und die Nacht der Wölfe
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Nora Alexander
-
-----
-
-Illustrator: Julia Christians
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 208
-
-----
-
-Publisher: Oetinger
-
-----
-
-Age: ab 8 Jahren
-
-----
-
-Price: 14,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Demenz, Großeltern
-
-----
-
-Cover:
-
-- >
-  opa-und-die-nacht-der-woelfe_nora-alexander.jpg

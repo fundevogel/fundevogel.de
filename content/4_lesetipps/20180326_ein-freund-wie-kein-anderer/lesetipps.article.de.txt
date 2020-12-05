@@ -22,13 +22,17 @@ Date: 2018-03-26
 
 ----
 
-Books:
-
-- buecher/ein-freund-wie-kein-anderer
+Conclusion-wanted: false
 
 ----
 
-Conclusion-wanted: false
+Isaward: false
+
+----
+
+Books:
+
+- buecher/ein-freund-wie-kein-anderer
 
 ----
 
@@ -37,90 +41,3 @@ Seotitle: Ein Freund wie kein anderer
 ----
 
 Seodescription: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorurteile.
-
-----
-
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
-Isaward: false
-
-----
-
-Isbn: 978-3-522-18457-1
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000614598/63715/10002/-3/Buecher_Kinder--und-Jugend/Oliver-Scherz/Ein-Freund-wie-kein-anderer
-
-----
-
-Book-title: Ein Freund wie kein anderer
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Oliver Scherz
-
-----
-
-Illustrator: Barbara Scholz
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 128
-
-----
-
-Publisher: Thienemann Verlag
-
-----
-
-Age: ab 6 Jahren
-
-----
-
-Price: 14,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch, Vorlesebuch
-
-----
-
-Topics: Freundschaft
-
-----
-
-Cover:
-
-- >
-  ein-freund-wie-kein-anderer_oliver-scherz.jpg

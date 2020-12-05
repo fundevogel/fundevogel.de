@@ -6,11 +6,7 @@ Isbn: 978-2-84-865908-4
 
 ----
 
-Book-title: Songe à la douceur
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 240
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 13 Jahren
 
 ----
 
-Price: 22,80
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 240
+
+----
+
+Price: 22,80
 
 ----
 
@@ -70,7 +58,35 @@ Description: Keine Beschreibung vorhanden!
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 29
+
+----
+
+Olamessage: ISBN oder EAN unbekannt
+
+----
+
 Shop: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: EXPRIM'
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
 
 ----
@@ -102,3 +126,7 @@ Awardedition:
 ----
 
 Leselink: 
+
+----
+
+Participant: 

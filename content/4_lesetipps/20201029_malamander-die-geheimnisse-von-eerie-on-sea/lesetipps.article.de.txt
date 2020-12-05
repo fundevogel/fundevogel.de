@@ -30,34 +30,18 @@ Date: 2020-10-29
 
 ----
 
-Books:
-
-- >
-  buecher/malamander-die-geheimnisse-von-eerie-on-sea
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- >
+  buecher/malamander-die-geheimnisse-von-eerie-on-sea
 
 ----
 
@@ -66,85 +50,6 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Isbn: 978-3-446-26821-0
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/Product/3000002809340/63715/10002/-3/Buecher_Kinder--und-Jugend/Thomas-Taylor/Malamander---Die-Geheimnisse-von-Eerie-on-Sea
-
-----
-
-Book-title: Malamander - Die Geheimnisse von Eerie-on-Sea
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Thomas Taylor
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Claudia Max
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Publisher: Hanser
-
-----
-
-Age: ab 10 Jahren
-
-----
-
-Price: 17,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Jugendbuch
-
-----
-
-Topics: Abenteuer
-
-----
-
-Cover:
-
-- >
-  malamander-die-geheimnisse-von-eerie-on-sea_thomas-taylor.jpg
-
-----
-
-Isaudiobook: false
 
 ----
 

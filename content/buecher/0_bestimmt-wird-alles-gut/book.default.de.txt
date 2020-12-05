@@ -6,11 +6,7 @@ Isbn: 978-3-95470-134-6
 
 ----
 
-Book-title: Bestimmt wird alles gut
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Mahmoud Hassanein
-
-----
-
-Participants: 
-
-----
-
-Page-count: 48
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 9,95
+Antolin: 
+
+----
+
+Releaseyear: 2016
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 48
+
+----
+
+Price: 9,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Früher haben Rahaf und Hassan in der syrischen Stadt Homs gewohnt 
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851200151/63715/10002/-3/Buecher_Kinder--und-Jugend/Kirsten-Boie/Bestimmt-wird-alles-gut
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Mai 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201605.html
+
+----
+
+Participant: 

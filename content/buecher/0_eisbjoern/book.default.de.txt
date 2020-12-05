@@ -6,11 +6,7 @@ Isbn: 978-3-522-45846-7
 
 ----
 
-Book-title: Eisbjörn
-
-----
-
-Book-subtitle: Das unglaubliche Abenteuer eines tapferen Mäuserichs
+Subtitle: Das unglaubliche Abenteuer eines tapferen Mäuserichs
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Lev Kaplan
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 3 Jahren
 
 ----
 
-Price: 16,00
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 16,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Der Mäuserich Eisbjörn wird in einer stürmischen Herbstnacht vom
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000186026/63715/10002/-3/Buecher_Bilderbuecher/Max-Kaplan/Eisbjoern
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: April 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-mit-lesepeter-april-ausgezeichnet
+
+----
+
+Participant: 

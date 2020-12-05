@@ -6,11 +6,7 @@ Isbn: 978-3-407-76007-4
 
 ----
 
-Book-title: Frederick
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 31
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 4 Jahren
 
 ----
 
-Price: 6,50
+Antolin: 
+
+----
+
+Releaseyear: 2020
 
 ----
 
 Binding: kartoniert
+
+----
+
+Pagecount: 31
+
+----
+
+Price: 6,50
 
 ----
 
@@ -70,7 +58,35 @@ Description: “Macht die Augen zu”, sagte Frederick und kletterte auf einen g
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1555685/63715/10002/-3/Buecher_Bilderbuecher/Leo-Lionni/Frederick/4099276460822241241/%204099276460822241224/%
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Bilderbuch
 ----
 
 Isseries: false
+
+----
+
+Series: Minimax
+
+----
+
+Volume: 
 
 ----
 
@@ -104,32 +128,8 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
 
 ----
 
-Seodescription: 
+Participant: 

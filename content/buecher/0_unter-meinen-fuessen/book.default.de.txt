@@ -6,11 +6,7 @@ Isbn: 978-3-7913-7340-9
 
 ----
 
-Book-title: Unter meinen Füßen
-
-----
-
-Book-subtitle: Die Reise zum Mittelpunkt der Erde
+Subtitle: Die Reise zum Mittelpunkt der Erde
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Yuval Zommer
 
 ----
 
-Narrator: 
-
-----
-
 Translator: Ute Löwenberg
-
-----
-
-Participants: 
-
-----
-
-Page-count: 22
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 5 Jahren
 
 ----
 
-Price: 22,00
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2018
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 22
+
+----
+
+Price: 22,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Das Mega-Leporello-Wendebilderbuch mit 2,5 Metern Spannweite.. Komm
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000661351/63715/10002/-3/Buecher_Sachbuecher/Charlotte-Guillain/Unter-meinen-Fuessen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -89,6 +105,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -102,3 +126,7 @@ Awardedition: November 2018
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-november-fuer-unter-meinen-fuessen
+
+----
+
+Participant: 

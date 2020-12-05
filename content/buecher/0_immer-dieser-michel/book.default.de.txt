@@ -6,11 +6,7 @@ Isbn: 978-3-7891-2946-9
 
 ----
 
-Book-title: Immer dieser Michel
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 360
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 8 Jahren
 
 ----
 
-Price: 17,00
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 360
+
+----
+
+Price: 17,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf d
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1600121/63715/10002/-3/Buecher_Kinder--und-Jugend/Astrid-Lindgren/Immer-dieser-Michel-Gesamtausgabe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Kinderbuch
 ----
 
 Isseries: true
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 
@@ -104,32 +128,4 @@ Leselink:
 
 ----
 
-Text: 
-
-----
-
-Verdict: 
-
-----
-
-Conclusion: 
-
-----
-
-Builder: 
-
-----
-
-Date: 2020-11-06
-
-----
-
-Conclusion-wanted: false
-
-----
-
 Isaward: false
-
-----
-
-Seodescription: 

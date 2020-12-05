@@ -6,11 +6,7 @@ Isbn: 978-3-7348-5011-0
 
 ----
 
-Book-title: Die Quersumme von Liebe
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator:
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 288
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 15 Jahren
 
 ----
 
-Price: 16,95
+Antolin: 
+
+----
+
+Releaseyear: 
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 16,95
 
 ----
 
@@ -70,7 +58,35 @@ Description:
 
 ----
 
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460849048990/63715/10002/-3/Buecher_Kinder--und-Jugend/Katrin-Zipse/Die-Quersumme-von-Liebe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -85,6 +101,14 @@ Categories: Jugendbuch
 ----
 
 Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
 
 ----
 

@@ -6,11 +6,7 @@ Isbn: 978-3-407-81232-2
 
 ----
 
-Book-title: Hallo, Herr Eisbär!
-
-----
-
-Book-subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
+Subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Daniel Rieley
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 220
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 7 Jahren
 
 ----
 
-Price: 12,95
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2019
 
 ----
 
 Binding: gebunden
+
+----
+
+Pagecount: 220
+
+----
+
+Price: 12,95
 
 ----
 
@@ -70,7 +58,35 @@ Description: Arthur staunt nicht schlecht, als ein riesiger Eisbär mit stinkige
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001626266/63715/10002/-3/Buecher_Kinder--und-Jugend/Maria-Farrer/Hallo-Herr-Eisbaer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: Mai 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/kinderbuch-hallo-herr-eisbaer-ausgezeichnet
+
+----
+
+Participant: 

@@ -6,11 +6,7 @@ Isbn: 978-3-942795-52-4
 
 ----
 
-Book-title: Wolfsbrot
-
-----
-
-Book-subtitle: 
+Subtitle: 
 
 ----
 
@@ -22,27 +18,7 @@ Illustrator: Ulrike Möltgen
 
 ----
 
-Narrator: 
-
-----
-
 Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 32
-
-----
-
-Duration: 
-
-----
-
-Isaudiobook: false
 
 ----
 
@@ -54,11 +30,23 @@ Age: ab 6 Jahren
 
 ----
 
-Price: 24,00
+Antolin: 
+
+----
+
+Releaseyear: 2017
 
 ----
 
 Binding: Leinen
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 24,00
 
 ----
 
@@ -70,7 +58,35 @@ Description: Noch vor Anbruch der Morgendämmerung muss er sich auf den weiten W
 
 ----
 
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
 Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853934953/63715/10002/-3/Buecher_Bilderbuecher/Kilian-Leypold/Wolfsbrot
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -88,6 +104,14 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: true
 
 ----
@@ -101,3 +125,7 @@ Awardedition: August 2017
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201708.html
+
+----
+
+Participant: 

@@ -26,33 +26,17 @@ Date: 2020-04-07
 
 ----
 
-Books:
-
-- buecher/der-katze-ist-es-ganz-egal
-
-----
-
 Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
+
+----
+
+Books:
+
+- buecher/der-katze-ist-es-ganz-egal
 
 ----
 
@@ -61,70 +45,3 @@ Seotitle: Der Katze ist es ganz egal
 ----
 
 Seodescription: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf …
-
-----
-
-Isbn: 978-3-95470-231-2
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002483930/63715/10002/-3/Buecher_Kinder--und-Jugend/Franz-Orghandl/Der-Katze-ist-es-ganz-egal
-
-----
-
-Book-title: Der Katze ist es ganz egal
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Franz Orghandl
-
-----
-
-Illustrator: Theresa Strozyk
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 104
-
-----
-
-Publisher: Klett Kinderbuch Verlag
-
-----
-
-Age: ab 9 Jahren
-
-----
-
-Price: 13,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch
-
-----
-
-Topics: Freundschaft, Transsexualität
-
-----
-
-Cover:
-
-- >
-  der-katze-ist-es-ganz-egal_franz-orghandl.jpg

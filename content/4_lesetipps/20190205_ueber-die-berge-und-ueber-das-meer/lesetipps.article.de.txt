@@ -26,14 +26,18 @@ Date: 2019-02-05
 
 ----
 
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
 Books:
 
 - >
   buecher/ueber-die-berge-und-ueber-das-meer
-
-----
-
-Conclusion-wanted: false
 
 ----
 
@@ -42,90 +46,3 @@ Seotitle: Über die Berge und über das Meer
 ----
 
 Seodescription: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung und Freiheitskampf, von Angst und Mut und Liebe. Und es ist eine Heldengeschichte. Wie viele gute Heldengeschichten ist sie ein bisschen erfunden und ein bisschen wahr. Tarek und Soraya erleben auf ihrer Flucht so viel, wie andere in ihrem ganzen Leben nicht ­- und sie schaffen mehr, als sie sich jemals vorstellen konnten.
-
-----
-
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
-Isaward: false
-
-----
-
-Isbn: 978-3-8369-5676-5
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/Product/3000001645823/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/ueber-die-Berge-und-ueber-das-Meer
-
-----
-
-Book-title: Über die Berge und über das Meer
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Dirk Reinhardt
-
-----
-
-Illustrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 272
-
-----
-
-Publisher: Gerstenberg Verlag
-
-----
-
-Age: ab 12 Jahren
-
-----
-
-Price: 14,95
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Roman
-
-----
-
-Topics: Afghanistan, Taliban, Flucht
-
-----
-
-Cover:
-
-- >
-  ueber-die-berge-und-ueber-das-meer_dirk-reinhardt.jpg

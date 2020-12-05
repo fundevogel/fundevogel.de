@@ -26,98 +26,7 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
-
-----
-
-Isbn: 978-3-7915-0026-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000556985/63715/10002/-3/Buecher_Abenteuer/Simone-Buchholz/Johnny-und-die-Pommesbande
-
-----
-
-Book-title: Johnny und die Pommesbande
-
-----
-
-Book-subtitle: Wir sind die Schnellsten
-
-----
-
-Author: Simone Buchholz
-
-----
-
-Illustrator: Horst Klein
-
-----
-
-Narrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 160
-
-----
-
-Duration: 
-
-----
-
-Publisher: Dressler Verlag GmbH
-
-----
-
-Age: ab 10 Jahren
-
-----
-
-Price: 12,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Kinderbuch, Vorlesebuch
-
-----
-
-Topics: Abenteuer, Krimis/Thriller
-
-----
-
-Cover:
-
-- >
-  johnny-und-die-pommesbande-wir-sind-die-schnellsten_simone-buchholz.jpg
 
 ----
 
@@ -125,10 +34,6 @@ Books:
 
 - >
   buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten
-
-----
-
-Isaudiobook: false
 
 ----
 
