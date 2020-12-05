@@ -46,7 +46,6 @@ tabs:
             create: false
             size: small
             image:
-              query: page.getCover
               ratio: 3/2
 
       column_sidebar:
