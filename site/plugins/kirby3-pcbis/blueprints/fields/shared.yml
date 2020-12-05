@@ -19,6 +19,8 @@ fields:
       de: Verfügbar?
       en: Available?
     type: toggle
+    default: true
+    translate: false
     width: 1/6
     text:
       -

@@ -48,7 +48,7 @@ tabs:
               de: Buch / Bücher
               en: Book(s)
             type: pages
-            query: site.find('buecher').children.unlisted
+            query: site.find('buecher').children.listed
 
       sidebar_files: false
 

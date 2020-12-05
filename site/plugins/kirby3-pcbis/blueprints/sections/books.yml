@@ -4,9 +4,9 @@ headline:
 type: pages
 parent: site.find('buecher')
 template:
+  - book.audio
   - book.default
   - book.ebook
-  - book.audio
 sortBy: date desc
 text: "{{ page.book_title }}"
 info: "{{ page.author }}"

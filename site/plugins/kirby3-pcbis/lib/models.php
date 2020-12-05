@@ -62,9 +62,6 @@ class BookPage extends Page {
             $template = 'book.ebook';
         }
 
-        # Not needed when updating page
-        unset($data['type']);
-
         return parent::create(array_merge($props, [
             'content' => $data,
             'slug' => Str::slug($data['title']),

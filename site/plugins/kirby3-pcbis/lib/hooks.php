@@ -12,7 +12,6 @@ return [
             $page->changeStatus('listed');
 
             janitor('downloadCover', $page, $page->id());
-            janitor('downloadCover', $page, $page->id());
         }
     },
 ];
