@@ -18,11 +18,11 @@ Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsa
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

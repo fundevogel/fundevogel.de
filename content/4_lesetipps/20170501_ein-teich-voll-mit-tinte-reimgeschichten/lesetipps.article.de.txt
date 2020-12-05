@@ -11,7 +11,7 @@ Die raumgreifenden, meist farbintensiv kolorierten Federzeichnungen in einer Mis
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -23,7 +23,7 @@ Alle in dem Band versammelten Geschichten befördern nicht nur inhaltlich, sonde
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

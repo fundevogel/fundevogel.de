@@ -10,9 +10,9 @@
         </div>
     </div>
 </header>
-<?php if ($page->builder()->isNotEmpty()) : ?>
+<?php if ($page->blocks()->isNotEmpty()) : ?>
 <hr>
-<?php snippet('blocks') ?>
+<?= $page->blocks()->toBlocks() ?>
 <?php endif ?>
 <?php if ($favorites->isNotEmpty()) : ?>
 <aside class="wave">

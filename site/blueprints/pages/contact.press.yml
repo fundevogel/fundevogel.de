@@ -23,7 +23,7 @@ tabs:
           en: Press kit
         type: markdown
 
-      builder: fields/builder
+      blocks: fields/blocks
 
       grid: fields/gallery
 

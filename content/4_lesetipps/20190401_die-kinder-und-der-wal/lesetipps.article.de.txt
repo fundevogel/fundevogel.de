@@ -24,7 +24,7 @@ Das Herz geht einem über am Ende der Geschichte, und man muss danach erst einma
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

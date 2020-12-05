@@ -22,7 +22,7 @@ Die besondere Leistung der beiden Künstlerinnen Susanna Mattiangli und Vessela 
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

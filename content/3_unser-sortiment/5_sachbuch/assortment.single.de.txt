@@ -11,13 +11,13 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   person: ""
   book:
@@ -57,7 +57,7 @@ Favorites:
   price: 24,95
   binding: gebunden
   delimiter: null
-- 
+-
   title: ""
   person: ""
   book:
@@ -82,7 +82,7 @@ Favorites:
   price: 15,00
   binding: gebunden
   delimiter: null
-- 
+-
   title: ""
   person: Martin F.
   book:
@@ -124,7 +124,7 @@ Favorites:
   price: 18,00
   binding: gebunden
   delimiter: null
-- 
+-
   title: ""
   person: ""
   book:
@@ -149,7 +149,7 @@ Favorites:
   price: 19,95
   binding: gebunden
   delimiter: null
-- 
+-
   title: ""
   person: ""
   book:
@@ -176,7 +176,7 @@ Favorites:
   price: 34,00
   binding: gebunden
   delimiter: null
-- 
+-
   title: ""
   person: Sandra H.
   book:

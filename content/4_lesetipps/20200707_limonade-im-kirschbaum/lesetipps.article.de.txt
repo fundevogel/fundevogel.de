@@ -10,11 +10,11 @@ Verdict: Eine Geschichte, die spannend und leichtfüßig erzählt ist.
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

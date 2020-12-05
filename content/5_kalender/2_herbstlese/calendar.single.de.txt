@@ -15,7 +15,7 @@ Short: Dieser Abend im Herbst hat Tradition und ist für uns immer ein besondere
 
 ----
 
-Builder:
+Blocks:
 
 -
   heading: 'Beispiel: Letztes Jahr'

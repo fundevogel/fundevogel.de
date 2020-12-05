@@ -27,7 +27,7 @@ Die Geschichte wie die Bilder sind für Kinder ab 4 Jahren verständlich und nac
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -49,8 +49,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

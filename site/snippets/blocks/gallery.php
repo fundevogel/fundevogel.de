@@ -1,6 +1,6 @@
 <?php
-    if ($data->gallery()->isNotEmpty()) :
-    $gallery = $data->gallery()->toFiles();
+    if ($block->gallery()->isNotEmpty()) :
+    $gallery = $block->gallery()->toFiles();
 ?>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top-reversed') ?>
@@ -25,6 +25,6 @@
 </aside>
 <?php endif ?>
 
-<?php if ($data->horizontal_line()->bool()) : ?>
+<?php if ($block->horizontal_line()->bool()) : ?>
 <hr class="max-w-sm">
 <?php endif ?>

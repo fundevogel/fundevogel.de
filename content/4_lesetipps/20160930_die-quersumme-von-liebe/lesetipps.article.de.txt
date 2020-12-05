@@ -29,7 +29,7 @@ Vielmehr muss man konstatieren, dass es zwar zahlreiche Adoleszenzromane auf dem
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -51,8 +51,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

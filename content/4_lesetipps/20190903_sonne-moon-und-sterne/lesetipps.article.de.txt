@@ -18,7 +18,7 @@ Conclusion: Während alleinerziehende Mütter, zunehmend auch Väter, in Kinderr
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -40,8 +40,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

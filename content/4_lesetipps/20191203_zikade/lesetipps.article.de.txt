@@ -22,7 +22,7 @@ Es ist eine bittere Hoffnung, die gerade wegen ihrer grotesken Einzigartigkeit e
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

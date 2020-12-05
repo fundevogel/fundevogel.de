@@ -28,7 +28,7 @@ Dank gründlicher Recherche der Autorin, die selbst für mehrere Naturschutz-NGO
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -50,8 +50,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

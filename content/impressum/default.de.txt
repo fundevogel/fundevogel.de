@@ -2,7 +2,7 @@ Title: Impressum
 
 ----
 
-Builder:
+Blocks:
 
 -
   heading: Impressum

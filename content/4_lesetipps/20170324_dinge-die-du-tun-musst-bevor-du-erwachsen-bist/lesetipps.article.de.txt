@@ -10,11 +10,11 @@ Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalte
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

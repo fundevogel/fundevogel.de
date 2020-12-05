@@ -28,7 +28,7 @@ Nach "Ente, Tod und Tulpe" von Wolf Erlbruch ist dies das zweite Bilderbuch, das
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -50,8 +50,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

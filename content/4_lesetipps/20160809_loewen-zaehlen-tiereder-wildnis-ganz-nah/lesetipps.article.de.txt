@@ -23,7 +23,7 @@ Das Buch sprengt nicht nur die Genres von Sach- bis Bilderbuch, es lässt auch k
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -22,7 +22,7 @@ Die Sachinformationen rings um den Tod, seine Symbole, verschiedene Bestattungsm
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -45,8 +45,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

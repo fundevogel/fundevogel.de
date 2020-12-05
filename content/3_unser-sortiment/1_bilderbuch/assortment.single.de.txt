@@ -11,36 +11,7 @@ Im Mittelpunkt der ersten Lesejahre steht das Bilderbuch - denn "lesen" braucht 
 
 ----
 
-Builder:
-
-- 
-  heading: Bilderwelten zum Anfassen
-  show_columns: 'false'
-  horizontal_line: 'true'
-  text_full: |
-    ## Bilderwelten zum Anfassen
-    Auch gibt es bei uns eine tolle Auswahl an kurzen Bilderbuchgeschichten, bei denen schon die Kleinsten viel Spaß haben, beim gemeinsamen Betrachten und Lesen mitzumachen. Hier können sie zum Beispiel viele Tiere und Dinge aus ihrem Alltag (wieder)entdecken und kennenlernen, Tierstimmen und Geräusche nachahmen, den leicht verständlichen Reimen lauschen und vielleicht auch schon mitsprechen und sich in die schönen und bunten Bildwelten hineinträumen.
-    
-    Für Kindergartenkinder haben wir eine große Auswahl der allerschönsten Bilderbücher: So zauberhaft illustrierte Geschichten wie die vom "schlafenden Tiger" von Pamela Zagarenski und Mary Logue, spannende Wimmelbücher wie die von Rotraut Susanne Berner, die zum Entdecken und gemeinsamen Erzählen einladen, poetische Bilderbücher wie "Leben" von Cynthia Rylan und Brendan Wenzel, die zum gemeinsamen Träumen und Philosophieren anregen und jede Menge lustiger Geschichten wie "Ein Wolf im Nachthemd" von Mario Ramos oder "Superman im Supermarkt" von Arne Rautenberg und Eva Muggenthaler.
-  text_left: ""
-  text_right: ""
-  size: sm
-  _key: text
-  _uid: text_1593963248512_385
-- 
-  heading: Textlose Bilderbücher
-  show_columns: 'false'
-  horizontal_line: 'false'
-  text_full: |
-    ## Textlose Bilderbücher
-    Besonders Bilderbücher ohne Text eignen sich für Kinder aller Altersstufen, um in die atemberaubenden, detailreichen und künstlerisch anspruchsvollen Bildwelten einzutauchen und sich vielseitig – erzählend, phantasierend, schreibend, gestaltend – mit ihnen auseinanderzusetzen.
-    
-    Zu unseren Lieblingen gehören unter anderem die witzig turbulenten Bilderbücher "Die Torte ist weg!" von Thé Tjong-Khing und "Der Hühnerdieb" von Béatrice Rodriguez, genauso wie die fantastische Bilderbuch-Trilogie "Die Reise", "Die Suche" und "Die Rückkehr" von Aaron Becker und das liebevolle Einschlafbuch "Gute Nacht, Gorilla" von Peggy Rathman.
-  text_left: ""
-  text_right: ""
-  size: ""
-  _key: text
-  _uid: text_1593963299207_684
+Blocks: [{"content":{"heading":"Bilderwelten zum Anfassen","show_columns":"false","horizontal_line":"true","text_full":"## Bilderwelten zum Anfassen\nAuch gibt es bei uns eine tolle Auswahl an kurzen Bilderbuchgeschichten, bei denen schon die Kleinsten viel Spa\u00df haben, beim gemeinsamen Betrachten und Lesen mitzumachen. Hier k\u00f6nnen sie zum Beispiel viele Tiere und Dinge aus ihrem Alltag (wieder)entdecken und kennenlernen, Tierstimmen und Ger\u00e4usche nachahmen, den leicht verst\u00e4ndlichen Reimen lauschen und vielleicht auch schon mitsprechen und sich in die sch\u00f6nen und bunten Bildwelten hineintr\u00e4umen.\n\nF\u00fcr Kindergartenkinder haben wir eine gro\u00dfe Auswahl der allersch\u00f6nsten Bilderb\u00fccher: So zauberhaft illustrierte Geschichten wie die vom \"schlafenden Tiger\" von Pamela Zagarenski und Mary Logue, spannende Wimmelb\u00fccher wie die von Rotraut Susanne Berner, die zum Entdecken und gemeinsamen Erz\u00e4hlen einladen, poetische Bilderb\u00fccher wie \"Leben\" von Cynthia Rylan und Brendan Wenzel, die zum gemeinsamen Tr\u00e4umen und Philosophieren anregen und jede Menge lustiger Geschichten wie \"Ein Wolf im Nachthemd\" von Mario Ramos oder \"Superman im Supermarkt\" von Arne Rautenberg und Eva Muggenthaler.","text_left":"","text_right":""},"id":"a4fd229f-b43c-40e1-8df4-cb177384433c","isHidden":false,"type":"text"},{"content":{"heading":"Textlose Bilderb\u00fccher","show_columns":"false","horizontal_line":"false","text_full":"## Textlose Bilderb\u00fccher\nBesonders Bilderb\u00fccher ohne Text eignen sich f\u00fcr Kinder aller Altersstufen, um in die atemberaubenden, detailreichen und k\u00fcnstlerisch anspruchsvollen Bildwelten einzutauchen und sich vielseitig \u2013 erz\u00e4hlend, phantasierend, schreibend, gestaltend \u2013 mit ihnen auseinanderzusetzen.\n\nZu unseren Lieblingen geh\u00f6ren unter anderem die witzig turbulenten Bilderb\u00fccher \"Die Torte ist weg!\" von Th\u00e9 Tjong-Khing und \"Der H\u00fchnerdieb\" von B\u00e9atrice Rodriguez, genauso wie die fantastische Bilderbuch-Trilogie \"Die Reise\", \"Die Suche\" und \"Die R\u00fcckkehr\" von Aaron Becker und das liebevolle Einschlafbuch \"Gute Nacht, Gorilla\" von Peggy Rathman.","text_left":"","text_right":""},"id":"03f8705e-1a18-4a5f-9a83-ae08d1026701","isHidden":false,"type":"text"}]
 
 ----
 

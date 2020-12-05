@@ -10,11 +10,11 @@ Verdict: Ich mag ... das Buch!
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

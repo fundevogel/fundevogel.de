@@ -11,8 +11,8 @@
     </div>
 </header>
 <hr>
-<?php if ($page->builder()->isNotEmpty()) : ?>
-<?php snippet('blocks') ?>
+<?php if ($page->blocks()->isNotEmpty()) : ?>
+<?= $page->blocks()->toBlocks() ?>
 <hr class="max-w-sm">
 <?php endif ?>
 <section class="container leading-relaxed">

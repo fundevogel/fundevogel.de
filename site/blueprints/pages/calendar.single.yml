@@ -20,7 +20,7 @@ tabs:
             de: Erscheint auf der 'Kalender'-Seite.
             en: Displayed on 'calendar' page.
 
-        builder: fields/builder
+        blocks: fields/blocks
 
     sidebar:
       sidebar_fields:

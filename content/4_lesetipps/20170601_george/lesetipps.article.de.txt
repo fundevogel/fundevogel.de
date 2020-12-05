@@ -20,7 +20,7 @@ Wenn Alex Gino zugibt, dass er aus eigener Erfahrung weiß, dass "transgender Ki
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -42,8 +42,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

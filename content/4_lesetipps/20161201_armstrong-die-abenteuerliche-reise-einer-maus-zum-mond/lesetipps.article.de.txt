@@ -28,7 +28,7 @@ Die sehr sympathische kleine Maus mit dem starken Willen und ihr Erschaffer habe
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -51,8 +51,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

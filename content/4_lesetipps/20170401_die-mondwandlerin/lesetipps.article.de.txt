@@ -22,7 +22,7 @@ Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustr
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

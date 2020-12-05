@@ -24,7 +24,7 @@ Die intertextuellen Bezüge zu Lewis Carrolls "Alice im Wunderland" sind nicht n
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

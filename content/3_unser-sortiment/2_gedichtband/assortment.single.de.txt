@@ -18,9 +18,9 @@ Text:
 
 ----
 
-Builder:
+Blocks:
 
-- 
+-
   heading: Sprache wachsen sehen
   show_columns: 'false'
   horizontal_line: 'false'
@@ -36,7 +36,7 @@ Builder:
 
 Favorites:
 
-- 
+-
   title: ""
   person: ""
   book:
@@ -60,7 +60,7 @@ Favorites:
   age: ab 4 Jahren
   price: 12,95
   binding: gebunden
-- 
+-
   title: ""
   person: ""
   book:
@@ -86,7 +86,7 @@ Favorites:
   age: ab 6 Jahren
   price: 19,99
   binding: Halbleinen
-- 
+-
   title: ""
   person: ""
   book:
@@ -113,7 +113,7 @@ Favorites:
   age: ab 5 Jahren
   price: 14,00
   binding: gebunden
-- 
+-
   title: ""
   person: ""
   book:
@@ -138,7 +138,7 @@ Favorites:
   age: ab 4 Jahren
   price: 24,00
   binding: Halbleinen
-- 
+-
   title: ""
   person: Gedicht von Hugo Ramnek
   book:
@@ -169,7 +169,7 @@ Favorites:
   age: ab 3 Jahren
   price: 24,95
   binding: Halbleinen
-- 
+-
   title: ""
   person: Janina B.
   book:

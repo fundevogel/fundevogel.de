@@ -15,7 +15,7 @@ Short: Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für 
 
 ----
 
-Builder:
+Blocks:
 
 -
   heading: Aus der Region in die Welt

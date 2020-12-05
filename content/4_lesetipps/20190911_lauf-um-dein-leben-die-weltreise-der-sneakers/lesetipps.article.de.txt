@@ -23,17 +23,17 @@ Thematisch verbindet Wolfgang Korn verschiedene Themenfelder der globalisierten 
 
 ----
 
-Builder:
+Blocks:
 
-- 
+-
   heading: Nominierungen (1/2)
-  builder.downloadcover: null
+  blocks.downloadcover: null
   intro: >
     Neben dem Preisträger wurden weitere
     zehn Bücher verschiedener Gattungen und
     Altersstufen für den Preis nominiert.
   books:
-    - 
+    -
       isbn: 978-3-95640-129-9
       book_cover: [ ]
       book_title: Unerschrocken
@@ -44,7 +44,7 @@ Builder:
       text: |
         15 weibliche Persönlichkeiten und ihre herausragenden Leistungen werden in diesem Comic vorgestellt. Das Werk von Pénélope Bagieu überzeugt dabei besonders deshalb, weil es der Künstlerin gelungen ist, zentrale Schlüsselmomente aus dem Leben der porträtierten Frauen zu filtern und in je einem mehrseitigen Comic humorvoll aber sachbezogen abzubilden. Die gewählte Form erzeugt eine leichtfüßige Nähe bei gleichzeitig hohem Authentizitätsanspruch. Alles, was nicht genau belegt werden kann, sondern auf Vermutungen basiert, wird mit einem Augenzwinkern als Randnotiz präsentiert. Die breitgefächerte Auswahl und pointierte Präsentation der
         einzelnen Biografien macht den besonderen Reiz dieser Sammlung aus.
-    - 
+    -
       isbn: 978-3-551-55685-1
       book_cover: [ ]
       book_title: Zusammen sind wir Helden
@@ -71,21 +71,21 @@ Builder:
         befreien. Die personale Erzählweise
         erzeugt dabei eine Intensität, die
         nachhaltig fasziniert.
-    - 
+    -
       isbn: 978-3-7855-8911-3
       book_cover: [ ]
       book_title: 17 Erkenntnisse über Leander Blum
       book_subtitle: ""
       author: Irmgard Kramer
       text: 'Leander und Jonas verbindet die Leidenschaft zum Malen und Sprayen. Unter dem Namen Blux sind die beiden Jungen nachts in der Stadt unterwegs, auf der Suche nach der perfekten Wand für ihr Masterpiece und dem nächsten Adrenalinkick. Die Romanhandlung wird humorvoll, leidenschaftlich und sehr emotional in zwei Erzählperspektiven und Zeitebenen erzählt, die sich zunehmend miteinander verbinden und so die Geschehnisse Stück für Stück wie ein Puzzle zusammensetzen. Düstere Vorahnungen erzeugen dabei eine Spannung, der man sich kaum entziehen kann. Mit einer ausbalancierten Mischung aus träumerischen und turbulenten Passagen eröffnet diese Geschichte ihren  Leser*innen Einblicke in die Welt der Kunst und Streetart.'
-    - 
+    -
       isbn: 978-3-551-73428-0
       book_cover: [ ]
       book_title: Leichte Beute
       book_subtitle: ""
       author: Miquelanxo Prado
       text: 'Der grafische Roman führt in das von der Finanzkrise gebeutelte Spanien. Eine Mordserie erschüttert die Stadt. Auffällig dabei: Alle Opfer arbeiteten für nationale Finanzinstitute. Die Lesenden begleiten die Komissar*innen Tabares und Sotillo bei der Aufklärung der Morde, welche die beiden schließlich in ein Seniorenheim führt. Prado richtet seinen Blick auf die zivilen Opfer der Finanzkrise, die nicht selten um ihre Lebensleistung betrogen und in Verzweiflung und Verbitterung zurückgelassen wurden. Kohle- und Bleistiftzeichnungen verwischen dabei jede Schwarz-Weiß-Logik zu Grauschattierungen, die darauf hindeuten, dass eine moralische Bewertung der Handlung nur schwer zu leisten ist.'
-    - 
+    -
       isbn: 978-3-7725-2886-6
       book_cover: [ ]
       book_title: Der Wundergarten
@@ -96,24 +96,24 @@ Builder:
         hohen Wert selbständiger und schöpferischer Arbeit.
   _key: books
   _uid: books_1594714073714_368
-- 
+-
   heading: Zusammenfassung, Teil 1
   show_columns: 'false'
   horizontal_line: 'false'
   text_full: |
     Neben dieser ausgesprochen verbindlichen Themengestaltung überzeugt auch die sprachlich-ästhetische Darstellung im Buch. In Form von Tagebucheinträgen wird Werner Koschinski als sachlich-lakonischer Beobachter, aber nicht ohne Witz und Selbstironie in Szene gesetzt. Diese Form, die auch (vermeintliche) Zeiten und Orte der Handlung ausweist, erzeugt ein hohes Maß an Authentizitätsillusion, die der Geschichte zusätzlich Eindringlichkeit verleiht und angesichts der realen Problematik sehr angemessen wirkt. Gleichzeitig gelingt es Wolfgang Korn damit, über die Geschichte gleichzeitig wichtige Informationen zu vermitteln, ohne auf einen Spannungsaufbau zu verzichten. Zudem enthält der Text neben den Tagebucheinträgen vielfältige andere textuelle Einsprengsel: Informationskästen mit Hintergrundwissen, E-Mail-Korrespondenzen Koschinskis, kurze Exkurse zu historischen Bezügen, Notizen, etc. Nicht alle dieser Informationen sind stringent in die Handlungsentwicklung integriert, so dass über diese Vielfalt ein komplexes und ausgesprochen informatives Bild der vielfältigen kulturellen, ökonomischen und ökologischen Bezugsfelder der Handlung gezeichnet werden kann.
-    
+
     Nicht zuletzt die zumeist vigniettenartig eingefügten Bildelemente von Birgit Jansen prägen den besonderen Stil des Buches. In Grau- und Gelbtönen gehalten sind es grafische Zeichnungen, die über prägnante Konturlinien und monochrome Digitalkolorierungen naturalistische Szenen zeigen, die oft auf bekannte Bilder und Fotografien aus den jeweiligen Themenspektren Bezug nehmen, diese aber vorsichtig verfremden und fiktionalisieren. Diese visuellen Ergänzungen schaffen eine zusätzliche Sinnebene im Buch, die das Geschriebene noch einmal aufgreifend kommentiert und bestimmte Kernaussagen veranschaulicht und pointiert.
   text_left: ""
   text_right: ""
   _key: text
   _uid: text_1594714783573_368
-- 
+-
   heading: Nominierungen (2/2)
-  builder.downloadcover: null
+  blocks.downloadcover: null
   intro: ""
   books:
-    - 
+    -
       isbn: 978-3-95470-186-5
       book_cover: [ ]
       book_title: Im Gefängnis
@@ -141,7 +141,7 @@ Builder:
         Buch detaillierte und aufschlussreiche
         Informationen über einen
         Gefängnisaufenthalt.
-    - 
+    -
       isbn: 978-3-407-75425-7
       book_cover: [ ]
       book_title: Toni
@@ -149,9 +149,9 @@ Builder:
       author: Philip Waechter
       text: |
         Toni spielt leidenschaftlich gern Fußball und wünscht sich nichts sehnlicher als die neuen Renato Flash Fußballschuhe mit Blinkeffekt. Leider glaubt ihm seine Mutter nicht, dass er nur mit diesen Schuhen zum Superspieler werden kann. Also beschließt Toni, Geld zu verdienen, um sich diese Schuhe selbst zu kaufen; und er muss schnell feststellen, dass dies gar nicht so leicht ist.
-        
+
         In grafisch und sprachlich reduzierter Form, mit klarer Linienführung sowie markant farblicher Akzentuierung erzählt dieser Comic sehr humorvoll von den Tücken des Geldverdienens, von vorweihnachtlicher Konsumkritik und davon, wie wichtig gute Freunde sind.
-    - 
+    -
       isbn: 978-3-8369-5978-0
       book_cover: [ ]
       book_title: >
@@ -179,7 +179,7 @@ Builder:
         deren Auswirkungen auf den
         zwischenmenschlichen Bereich mit Humor
         und skurrilen Einfällen.
-    - 
+    -
       isbn: 978-3-446-26047-4
       book_cover: [ ]
       book_title: Short
@@ -204,7 +204,7 @@ Builder:
         authentisch wirken lässt, die aber
         gerade durch die Verfremdung eine enorme
         Sogkraft entwickelt.
-    - 
+    -
       isbn: 978-3-00-057198-5
       book_cover: [ ]
       book_title: Klappe, Cut, Hurra
@@ -233,7 +233,7 @@ Builder:
         Langeweile aufkommt.
   _key: books
   _uid: books_1594718223237_1213
-- 
+-
   heading: Zusammenfassung, Teil 2
   show_columns: 'false'
   horizontal_line: 'false'
@@ -284,8 +284,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

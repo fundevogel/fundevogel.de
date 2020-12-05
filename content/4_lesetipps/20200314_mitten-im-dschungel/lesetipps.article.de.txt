@@ -10,15 +10,15 @@ Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut un
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

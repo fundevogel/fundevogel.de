@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
 
-<?php snippet('blocks') ?>
+<?= $page->blocks()->toBlocks() ?>
 
 <?php snippet('footer') ?>

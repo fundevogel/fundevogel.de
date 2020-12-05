@@ -18,11 +18,11 @@ Verdict: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphä
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -45,11 +45,11 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 

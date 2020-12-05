@@ -14,7 +14,7 @@ Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher",
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -37,8 +37,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

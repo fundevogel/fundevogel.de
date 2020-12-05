@@ -11,7 +11,7 @@ tabs:
           label: Text
           type: markdown
 
-        builder: fields/builder
+        blocks: fields/blocks
 
     sidebar:
       sidebar_fields: sections/sidebar.cover

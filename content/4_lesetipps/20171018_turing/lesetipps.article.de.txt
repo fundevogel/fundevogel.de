@@ -24,7 +24,7 @@ Deutschs Graphic Novel ist ein herausragend berauschendes Bilderwerk über eine 
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

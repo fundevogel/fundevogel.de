@@ -1,7 +1,7 @@
 label:
   de: Offener Bereich
   en: Open area
-type: builder
+type: blocks
 fieldsets:
   info:
     name: Info-Box
@@ -59,13 +59,13 @@ fieldsets:
           en: Heading
         type: text
 
-      builder.downloadCover:
+      blocks.downloadCover:
         type: janitor
         label:
           de: Cover laden
           en: Download cover
         progress: Bitte warten ..
-        job: builder.downloadCover
+        job: blocks.downloadCover
 
       intro:
         label:

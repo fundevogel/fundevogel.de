@@ -22,7 +22,7 @@ Im Gewand einer humorvollen Detektivgeschichte wird ein relevantes Thema unserer
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -45,8 +45,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

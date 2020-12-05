@@ -19,7 +19,7 @@
     },
     "require": {
         "php": ">=7.2.0",
-        "getkirby/cms": "3.4.2",
+        "getkirby/cms": "3.5.0-rc.4",
         "afbora/kirby-minify-html": "1.2.0",
         "bnomei/kirby3-fingerprint": "3.0.8",
         "bnomei/kirby3-janitor": "2.6.1",
@@ -33,8 +33,7 @@
         "kschu91/largest-remainder-method": "0.1.0",
         "oblik/kirby-plurals": "1.0.0",
         "pedroborges/kirby-meta-tags": "2.0.2",
-        "steirico/kirby-plugin-custom-add-fields": "1.4.1",
-        "timoetting/kirby-builder": "2.0.15"
+        "steirico/kirby-plugin-custom-add-fields": "1.4.1"
     },
     "extra": {
         "kirby-cms-path": false

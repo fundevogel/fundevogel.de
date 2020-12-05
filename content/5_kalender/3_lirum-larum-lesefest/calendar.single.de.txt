@@ -13,7 +13,7 @@ Short: Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktob
 
 ----
 
-Builder:
+Blocks:
 
 -
   heading: 'Beispiel: Letztes Jahr'

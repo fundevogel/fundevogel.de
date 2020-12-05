@@ -23,7 +23,7 @@ Die Graphic Novel eignet sich zur Unterhaltung ebenso wie für den Literaturunte
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

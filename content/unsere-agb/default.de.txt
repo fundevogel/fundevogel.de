@@ -2,7 +2,7 @@ Title: Unsere AGB
 
 ----
 
-Builder:
+Blocks:
 
 -
   heading: AGB

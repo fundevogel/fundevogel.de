@@ -24,7 +24,7 @@ Neben der Haupthandlung entwirft Manfred Theisen einen interessanten Hauptcharak
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -11,13 +11,13 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   person: ""
   book:
@@ -59,7 +59,7 @@ Favorites:
   age: ab 6 Jahren
   price: 12,00
   binding: gebunden
-- 
+-
   title: ""
   person: Rüdiger B.
   book:
@@ -85,7 +85,7 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: gebunden
-- 
+-
   title: ""
   person: ""
   book:
@@ -125,7 +125,7 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
-- 
+-
   title: ""
   person: Frieda T.
   book:
@@ -164,7 +164,7 @@ Favorites:
   age: ab 6 Jahren
   price: 14,00
   binding: gebunden
-- 
+-
   title: ""
   person: Sandra H.
   book:
@@ -193,7 +193,7 @@ Favorites:
   age: ab 8 Jahren
   price: 17,00
   binding: gebunden
-- 
+-
   title: ""
   person: ""
   book:

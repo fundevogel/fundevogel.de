@@ -11,13 +11,13 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   person: Helena K.
   book:
@@ -46,14 +46,14 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: gebunden
-- 
+-
   title: ""
   person: Ips
   book:
     - buecher/grosser-tiger-und-christian
   quote: |
     Als Kind konnte ich mit Karl May überhaupt nichts anfangen. Statt dessen verschlang ich die Bücher von Fritz Mühlenweg. Erst viel später begriff ich, warum das so war. In seinen Büchern stimmt jede km Angabe. Hier spürst Du beim Lesen den Wüstensand zwischen den Zähnen. Hier bist Du wirklich mittendrin im Abenteuer. Christians Vater ist Arzt und praktiziert in China. Eines Tages wollen Christian und sein chinesischer Freund vor den Toren der Stadt einen Drachen steigen lassen. Ein Zug nähert sich und die Passagiere winken den Jungs zu. Vom fahrenden Zug aus lässt sich der Drache doch bestens steigen. Nur - der Zug hält erst hunderte von Kilometern weiter. Und so beginnt das spannende Abenteuer. Der Rückweg der beiden, die uns 752 Seiten lang mitnehmen auf ihre Reise, die uns u.a. mitten durch die Wüste Gobi und die asiatische Lebenswelt führt.
-    
+
     Einer der schönsten klassischen Abenteuerromane. Spannender geht‘s kaum. Lesen! Unbedingt! Und zwar am besten ungekürzt
   text: >
     Christian und sein chinesischer Freund
@@ -87,7 +87,7 @@ Favorites:
   age: ab 10 Jahren
   price: 15,95
   binding: kartoniert
-- 
+-
   title: ""
   person: Helena K.
   book:
@@ -135,7 +135,7 @@ Favorites:
   age: ""
   price: 28,00
   binding: gebunden
-- 
+-
   title: ""
   person: Sandra H.
   book:
@@ -170,7 +170,7 @@ Favorites:
   age: ab 10 Jahren
   price: 17,90
   binding: gebunden
-- 
+-
   title: Der Herr der Ringe
   person: Rüdiger B.
   book:
@@ -197,7 +197,7 @@ Favorites:
   age: ""
   price: 15,00
   binding: kartoniert
-- 
+-
   title: ""
   person: Lena M.
   book:
@@ -224,7 +224,7 @@ Favorites:
   age: ab 10 Jahren
   price: 8,99
   binding: kartoniert
-- 
+-
   title: ""
   person: Janina B.
   book:
@@ -255,7 +255,7 @@ Favorites:
   age: ab 12 Jahren
   price: 14,95
   binding: gebunden
-- 
+-
   title: ""
   person: Rüdiger B.
   book:

@@ -29,7 +29,7 @@ Der "Atlas der Meerjungfrauen" gibt einen Einblick in das fantastische Reich der
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -51,8 +51,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

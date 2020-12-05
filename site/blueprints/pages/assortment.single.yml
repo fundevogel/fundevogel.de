@@ -13,7 +13,7 @@ tabs:
         label: Text
         type: markdown
 
-      builder: fields/builder
+      blocks: fields/blocks
 
       favorites:
         label:

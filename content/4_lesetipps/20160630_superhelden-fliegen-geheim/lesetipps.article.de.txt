@@ -10,11 +10,11 @@ Verdict: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, 
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

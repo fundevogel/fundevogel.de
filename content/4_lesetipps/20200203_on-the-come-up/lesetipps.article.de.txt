@@ -30,7 +30,7 @@ Angie Thomas bezeichnet ihren Roman als einen Liebesbrief an alle schwarzen Mäd
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -52,8 +52,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

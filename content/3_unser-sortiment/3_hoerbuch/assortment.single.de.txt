@@ -12,9 +12,9 @@ Text:
 
 ----
 
-Builder:
+Blocks:
 
-- 
+-
   heading: Eine Reise für die Sinne
   show_columns: 'false'
   horizontal_line: 'false'
@@ -30,7 +30,7 @@ Builder:
 
 Favorites:
 
-- 
+-
   title: ""
   person: ""
   book:
@@ -54,7 +54,7 @@ Favorites:
   age: ab 5 Jahren
   price: 13,00
   binding: CD
-- 
+-
   title: ""
   person: Janina B.
   book:
@@ -71,7 +71,7 @@ Favorites:
     Stimme.
   text: |
     Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-    
+
     Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   isseries: 'false'
   more_options: 'true'
@@ -89,7 +89,7 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: CD
-- 
+-
   title: ""
   person: ""
   book:
@@ -113,7 +113,7 @@ Favorites:
   age: ""
   price: 14,99
   binding: CD
-- 
+-
   title: ""
   person: Helena K.
   book:
@@ -154,7 +154,7 @@ Favorites:
   age: ab 8 Jahren
   price: 12,95
   binding: CD
-- 
+-
   title: ""
   person: Frieda T.
   book:
@@ -191,7 +191,7 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: CD
-- 
+-
   title: Harry Potter
   person: Martin F.
   book:

@@ -22,7 +22,7 @@ Die kurzen, aber gut formulierten Texte ergeben zusammen mit den anschaulichen u
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

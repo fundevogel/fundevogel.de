@@ -24,7 +24,7 @@ So hat man hier ein Buch, das sich den Themen Freundschaft, Moral und Erwachsenw
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

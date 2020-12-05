@@ -24,7 +24,7 @@ Die Illustrationen greifen Teile der Handlung auf und stellen diese überspitzt 
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -46,8 +46,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

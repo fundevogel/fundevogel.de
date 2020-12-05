@@ -1,15 +1,15 @@
-<?php if ($data->books()->isNotEmpty()) : ?>
+<?php if ($block->books()->isNotEmpty()) : ?>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top') ?>
     <div class="inner">
         <div class="text-center">
-            <?= useSVG($data->heading()->html(), 'title-icon', 'star') ?>
+            <?= useSVG($block->heading()->html(), 'title-icon', 'star') ?>
         </div>
-        <h2 class="title"><?= $data->heading()->html() ?></h2>
+        <h2 class="title"><?= $block->heading()->html() ?></h2>
         <div class="js-slider mb-10 overflow-hidden">
             <div class="flex">
                 <?php
-                    foreach ($data->books()->toStructure() as $book) :
+                    foreach ($block->books()->toStructure() as $book) :
                     $bookTitle = $book->book_subtitle()->isNotEmpty()
                         ? $book->book_title()->html() . '. ' . $book->book_subtitle()->html()
                         : $book->book_title()->html()
@@ -54,7 +54,7 @@
                 ?>
             </div>
             <div class="js-controls mt-12 mb-px flex justify-center">
-                <?php foreach ($data->books()->toStructure() as $book) : ?>
+                <?php foreach ($block->books()->toStructure() as $book) : ?>
                 <span
                     class="js-tippy mx-1 inline-block w-4 h-4 bg-red-light hover:bg-red-medium rounded-full cursor-pointer transition-all"
                     title="<?= $book->book_title()->html() ?>"

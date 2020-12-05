@@ -10,11 +10,11 @@ Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache K
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

@@ -10,11 +10,11 @@ Verdict: Ein spannender Comic-Krimi aus der Schule!
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

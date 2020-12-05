@@ -29,7 +29,10 @@ tabs:
         when:
           conclusion_wanted: true
 
-      builder: fields/builder
+      blocks:
+        extends: fields/blocks
+        when:
+          isAward: true
 
     sidebar:
       sidebar_fields:

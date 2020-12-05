@@ -30,7 +30,7 @@ Das Buch ist für Kinder ab einem Alter von 6 Jahren und insbesondere im Grundsc
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -52,8 +52,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

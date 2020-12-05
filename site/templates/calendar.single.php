@@ -11,7 +11,7 @@
     </div>
 </header>
 <hr>
-<?php snippet('blocks') ?>
+<?= $page->blocks()->toBlocks() ?>
 <footer class="mt-16">
     <?php snippet('calendar/single.prevnext') ?>
 </footer>

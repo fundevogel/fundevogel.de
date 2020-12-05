@@ -30,7 +30,7 @@ Die Bilder bieten nicht nur eine Veranschaulichung der ukrainisch-ländlichen Al
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -52,8 +52,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

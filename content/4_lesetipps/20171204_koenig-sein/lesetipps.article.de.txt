@@ -25,7 +25,7 @@ Eindeutig ist dies ein Bilderbuch für Kinder ab Kindergartenalter, denn der Weg
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -47,8 +47,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

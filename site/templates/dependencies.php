@@ -149,8 +149,8 @@
     </div>
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
-<?php if ($page->builder()->isNotEmpty()) : ?>
-<?php snippet('blocks') ?>
+<?php if ($page->blocks()->isNotEmpty()) : ?>
+<?= $page->blocks()->toBlocks() ?>
 <?php endif ?>
 
 <?php snippet('footer') ?>

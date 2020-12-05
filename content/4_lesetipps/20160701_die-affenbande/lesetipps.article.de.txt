@@ -31,7 +31,7 @@ Owen Davey hat eine Fülle von Informationen gesammelt, viele interessante Theme
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -53,8 +53,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

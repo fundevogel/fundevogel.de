@@ -20,7 +20,7 @@ Durch diese Verbindung von Zugänglichkeit und Komplexität gestaltet sich der R
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -42,8 +42,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

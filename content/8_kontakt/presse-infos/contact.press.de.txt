@@ -34,33 +34,33 @@ Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer
 
 ----
 
-Builder:
+Blocks:
 
-- 
+-
   heading: Gegenwart
   show_columns: 'false'
   horizontal_line: 'true'
   text_full: |
     ### Bücher öffnen Welten - Welten öffnen dich
     Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Leseförderung mit vielfältigen Angeboten und Aktionen für Kindergärten und Schulen, anlässlich der Feierlichkeiten zum (link: kalender/welttag-des-buches text: Welttag des Buches) oder als (link: netzwerk text: Kooperationspartner) des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts "Fußball und Lesen".
-    
+
     Daneben veranstaltet der Fundevogel regelmäßig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkräftig an Planung und Durchführung des "(link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefestes)" der Stadt Freiburg, einem jährlich im Oktober stattfindenden Kinderliteraturfestival.
-    
+
     Ein besonderes Ereignis bildet die "(link: kalender/herbstlese text: HerbstLese)": in gemütlicher Atmosphäre stellen die MitarbeiterInnen der Buchhandlung ihre ganz persönlichen Lieblingsbücher aus der Flut herbstlicher Neuerscheinungen vor.
   text_left: ""
   text_right: ""
   _key: text
   _uid: text_1598944863065_231
-- 
+-
   heading: Zukunft
   show_columns: 'false'
   horizontal_line: 'false'
   text_full: |
     ### Gemeinsam in die Zukunft
     Zusammen mit seinen Kundinnen und Kunden, FreundInnen und Förderern soll der Fundevogel als Genossenschaft fortgeführt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:
-    
+
     Der besondere Geist des Ladens soll auch für zukünftige Generationen erhalten bleiben, während die digitale Transformation des Buchmarktes fortwährend neue Herausforderungen hervorbringt.
-    
+
     **Einer für alle und alle für einen** - wir freuen uns darauf!
   text_left: ""
   text_right: ""
@@ -87,11 +87,11 @@ Subtitle: Bilder zum Download
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 

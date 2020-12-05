@@ -10,7 +10,7 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -18,7 +18,7 @@ Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der j
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 

@@ -27,7 +27,7 @@ Wenn Adams Schwester mit ihrem Freund zusammenzieht, scheint der innerfamiliäre
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -49,8 +49,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

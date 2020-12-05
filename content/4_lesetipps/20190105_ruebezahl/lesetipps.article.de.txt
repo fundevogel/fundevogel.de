@@ -27,7 +27,7 @@ Während die zeitliche und räumliche Verortung der Sagen zumindest annähernd b
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -49,8 +49,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

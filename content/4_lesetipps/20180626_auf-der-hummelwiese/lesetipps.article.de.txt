@@ -22,7 +22,7 @@ Die einzigartige Aufmachung sowie das Verschmelzen von Text und Bildern machen d
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

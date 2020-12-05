@@ -25,7 +25,7 @@ Will der Rektor ihre Lügengeschichte anfangs noch aufdecken, lässt er sich bal
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -47,8 +47,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

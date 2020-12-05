@@ -28,7 +28,7 @@ So müssen Bilderbücher sein! Vordergründig illustrieren sie zumeist eine Gesc
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -50,8 +50,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

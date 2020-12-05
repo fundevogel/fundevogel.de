@@ -22,7 +22,7 @@ Mit seinen etwas dickeren Seiten und einem gewellten, kräftigen Vorsatzpapier i
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -44,8 +44,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

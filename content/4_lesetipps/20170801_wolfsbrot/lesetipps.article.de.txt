@@ -14,7 +14,7 @@ Wir sind in der Zeit nach einem Krieg, der Erzähler denkt zurück. Er selbst wa
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -28,7 +28,7 @@ Ein sehr beeindruckendes Buch, das Sonja Müller-Späth als Gesamtkunstwerk konz
 
 ----
 
-Builder: 
+Blocks:
 
 ----
 
@@ -50,8 +50,8 @@ Books:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
