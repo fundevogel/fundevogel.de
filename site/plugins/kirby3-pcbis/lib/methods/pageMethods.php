@@ -110,9 +110,11 @@ return [
 
         try {
             $this->update([
-                'isbn' => $book->isbn(),
-                'year' => $book->releaseYear(),
-                'shop' => getShopLink($book->isbn()),
+                'isbn'       => $book->isbn(),
+                'year'       => $book->releaseYear(),
+                'olaCode'    => $book->statusCode(),
+                'olaMessage' => $book->statusMessage(),
+                'shop'       => getShopLink($book->isbn()),
             ]);
 
             return true;

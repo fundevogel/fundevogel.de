@@ -6,10 +6,9 @@ return [
             $page = site()->index(true)->findByID($data);
         }
 
-        $success = false;
-
         try {
             $success = $page->upgradeBook();
+            $page->updateOla();
         } catch (Exception $e) {
             return [
                 'status' => 404,
