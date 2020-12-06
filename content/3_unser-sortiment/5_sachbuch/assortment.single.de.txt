@@ -11,17 +11,17 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
 Favorites:
 
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/bienen
+    - buecher/bienen-hardcover
   quote: ""
   text: >
     Willkommen im Reich der Bienen! Hier
@@ -57,11 +57,12 @@ Favorites:
   price: 24,95
   binding: gebunden
   delimiter: null
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/blauwal-seestern-oktopus
+    - >
+      buecher/blauwal-seestern-oktopus-hardcover
   quote: ""
   text: 'Die lebendigen, fein gezeichneten Illustrationen der Sachbuchreihe von Virginie Aladjidi und Emmanuelle Tchoukriel, mit dem Charme historischer Bildtafeln, bilden die ganze Vielfalt unserer Tier- und Pflanzenarten ab - von der Tiefe der Weltmeere bis zu den höchsten Bergen, immer begleitet von prägnanten Texten entstehen so Bücher zum Lesen und Entdecken!'
   isseries: 'true'
@@ -82,12 +83,12 @@ Favorites:
   price: 15,00
   binding: gebunden
   delimiter: null
--
+- 
   title: ""
   person: Martin F.
   book:
     - >
-      buecher/hoerst-du-wie-die-baeume-sprechen
+      buecher/hoerst-du-wie-die-baeume-sprechen-hardcover
   quote: 'Aktuell wie nie: Nachhaltigkeit und Umweltschutz, kindgerecht erläutert von einem, der sich auskennt.'
   text: >
     Haben Bäume eine eigene Sprache?
@@ -124,11 +125,11 @@ Favorites:
   price: 18,00
   binding: gebunden
   delimiter: null
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/treppe-fenster-klo
+    - buecher/treppe-fenster-klo-hardcover
   quote: ""
   text: "Dieses Buch stellt 35 Beispiele höchst ungewöhnlichen Häuserbauens vor. Sie stehen in Leipzig, Stuttgart oder Zürich, aber auch an der Côte d'Azur, in Kopenhagen, Tokio oder im Süden von Chile. Immer wird erklärt, warum sie so ungewöhnlich sind, was ihre Besonderheiten und wer ihre Architekten sind - Häuser, die mal wie Birnen aussehen und mal zum Zusammenschieben sind, Teehäuser hoch über dem Erdboden, aufblasbare Häuser, Igluhäuser .."
   isseries: 'false'
@@ -149,11 +150,11 @@ Favorites:
   price: 19,95
   binding: gebunden
   delimiter: null
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/alle-welt
+    - buecher/alle-welt-hardcover
   quote: ""
   text: 'Es gibt viel zu entdecken: was auf Kuba getanzt, in der Ukraine ab- und in Äthiopien angebaut, in Vietnam verspeist und in Ungarn erfolgreich gespielt wird. Was ist das Nationalgericht von Chile? Welche Pflanzen wachsen in Marokko? Was sind die Sehenswürdigkeiten von Finnland? Welchen Sport treiben Japaner? Welcher Tanz stammt aus Österreich, welches Produkt aus der Schweiz?'
   isseries: 'false'
@@ -176,11 +177,11 @@ Favorites:
   price: 34,00
   binding: gebunden
   delimiter: null
--
+- 
   title: ""
   person: Sandra H.
   book:
-    - buecher/warum-gibt-es-uns
+    - buecher/warum-gibt-es-uns-hardcover
   quote: >
     Spannend und anschaulich präsentiertes
     naturwissenschaftliches Fachwissen vom

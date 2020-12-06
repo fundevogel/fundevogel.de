@@ -21,7 +21,7 @@ Favorites:
   title: ""
   person: Frieda T.
   book:
-    - buecher/frederick
+    - buecher/frederick-hardcover
   quote: >
     Ein zeitloses Kinderbuch, das immer
     wieder wunderschön zeigt, dass auch das
@@ -56,7 +56,8 @@ Favorites:
   title: 'Petterson & Findus'
   person: ""
   book:
-    - buecher/ein-feuerwerk-fuer-den-fuchs
+    - >
+      buecher/ein-feuerwerk-fuer-den-fuchs-hardcover
   quote: ""
   text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
   isseries: 'true'
@@ -80,7 +81,7 @@ Favorites:
   title: ""
   person: ""
   book:
-    - buecher/die-drei-raeuber
+    - buecher/die-drei-raeuber-hardcover
   quote: ""
   text: >
     Die drei Räuber überfallen Kutschen
@@ -111,7 +112,7 @@ Favorites:
   title: Willkommen in Wimmlingen!
   person: Helena K.
   book:
-    - buecher/sommer-wimmelbuch
+    - buecher/sommer-wimmelbuch-hardcover
   quote: >
     Eintauchen in Bilder, die Geschichten
     erzählen. Es gibt so viel zu entdecken!
@@ -137,7 +138,7 @@ Favorites:
   title: ""
   person: ""
   book:
-    - buecher/pippilothek
+    - buecher/pippilothek-hardcover
   quote: ""
   text: 'Der Fuchs jagt der Maus hinterher, durchs Kellerfenster, um die Ecke, durch einen engen Gang. Und dann stehen die beiden plötzlich zwischen vielen Regalen und noch mehr Büchern. "Das ist eine Bibliothek", erklärt die Maus. "Pippi .. was?", fragt der Fuchs. Doch dann findet er Gefallen an den Büchern - auch wenn er lesen lernen muss. Das Bilderbuch "Pippilothek???" hat sich sogleich zu einem Lieblingsbuch entwickelt, weshalb wir insbesondere für Kindergärten und Büchereien das Bilderbuchkino als Gratis-Download zur Verfügung stellen (hier am Seitenende).'
   isseries: 'false'
@@ -160,7 +161,8 @@ Favorites:
   title: ""
   person: Carola M.
   book:
-    - buecher/reise-in-den-schlummerdschungel
+    - >
+      buecher/reise-in-den-schlummerdschungel-hardcover
   quote: >
     Ein Bilderbuch mit bemerkenswerten
     Illustrationen über ein mutiges
@@ -200,10 +202,11 @@ Favorites:
   title: Pu der Bär trifft Alice im Wunderland
   person: ""
   book:
-    - buecher/der-baer-der-nicht-da-war
+    - >
+      buecher/der-baer-der-nicht-da-war-hardcover
   quote: ""
   text: |
-    "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär."Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
+    "Es war einmal ein Juckreiz. Und kurz nach 'Eswareinmal' sah der Juckreiz einen Baum und begann sich zu kratzen. Jetzt geschah etwas sehr Merkwürdiges: Der Juckreiz begann zu wachsen. Und eine Minute später begann Pelz den Juckreiz zu bedecken. Aus dem wuchsen Arme und Beine und eine Nase. Nicht lange, und der Juckreiz sah aus wie ein Bär." Hier kommt der Bär, auf den alle schon gewartet haben. Eine zauberhaft poetische Geschichte von Oren Lavie mit Bildern von Wolf Erlbruch.
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-88897-970-5

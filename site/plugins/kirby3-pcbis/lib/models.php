@@ -1,6 +1,21 @@
 <?php
 
 class BookPage extends Page {
+    public function isBook(string $classes = '') {
+        return $this->intendedTemplate() == 'book.default';
+    }
+
+
+    public function isAudiobook(string $classes = '') {
+        return $this->intendedTemplate() == 'book.audio';
+    }
+
+
+    public function isEbook(string $classes = '') {
+        return $this->intendedTemplate() == 'book.ebook';
+    }
+
+
     public function getBookCover(string $classes = '') {
         $image = $this->getCover();
 

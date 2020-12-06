@@ -12,29 +12,17 @@ Text:
 
 ----
 
-Blocks:
-
--
-  heading: Eine Reise für die Sinne
-  show_columns: 'false'
-  horizontal_line: 'false'
-  text_full: |
-    ## Eine Reise für die Sinne
-    So wie Mo, auch "Zauberzunge" genannt, in dem phantastischen Roman "Tintenherz" mit seiner Stimme die Geschichten zum Leben erweckt, so vermögen auch Hörbücher durch betontes Lesen einer oder mehrerer Vorleser und durch die Untermalung mit Musik und Geräuschen ihre Zuhörer auf eine spannende, akustische Reise in die Geschichte mitzunehmen. Von Alltagsgeschichten, Krimis, Märchen und Fantasyromanen bis hin zu Bilderbuchadaptionen und vertonten Sachbüchern gibt es Hörbücher für jedes Alter und für jede Vorliebe. Darunter finden sich so großartige Hörbuchproduktionen wie "Kommissar Gordon – Der erste Fall" des *headroom Hörbuchverlags* und "Drachenreiter – Die Feder eines Greifs" des *Atmende Bücher Hörbuchverlags*, die wir wärmstens empfehlen können.
-  text_left: ""
-  text_right: ""
-  _key: text
-  _uid: text_1593964667916_948
+Blocks: [{"content":{"heading":"Eine Reise f\u00fcr die Sinne","show_columns":"false","horizontal_line":"false","text_full":"## Eine Reise f\u00fcr die Sinne\nSo wie Mo, auch \"Zauberzunge\" genannt, in dem phantastischen Roman \"Tintenherz\" mit seiner Stimme die Geschichten zum Leben erweckt, so verm\u00f6gen auch H\u00f6rb\u00fccher durch betontes Lesen einer oder mehrerer Vorleser und durch die Untermalung mit Musik und Ger\u00e4uschen ihre Zuh\u00f6rer auf eine spannende, akustische Reise in die Geschichte mitzunehmen. Von Alltagsgeschichten, Krimis, M\u00e4rchen und Fantasyromanen bis hin zu Bilderbuchadaptionen und vertonten Sachb\u00fcchern gibt es H\u00f6rb\u00fccher f\u00fcr jedes Alter und f\u00fcr jede Vorliebe. Darunter finden sich so gro\u00dfartige H\u00f6rbuchproduktionen wie \"Kommissar Gordon \u2013 Der erste Fall\" des *headroom H\u00f6rbuchverlags* und \"Drachenreiter \u2013 Die Feder eines Greifs\" des *Atmende B\u00fccher H\u00f6rbuchverlags*, die wir w\u00e4rmstens empfehlen k\u00f6nnen.","text_left":"","text_right":""},"id":"a26c2040-43dc-4590-8375-40b6d18b8aa8","isHidden":false,"type":"text"}]
 
 ----
 
 Favorites:
 
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/der-raeuber-hotzenplotz
+    - buecher/der-raeuber-hotzenplotz-hoerbuch
   quote: ""
   text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
   isseries: 'true'
@@ -54,11 +42,11 @@ Favorites:
   age: ab 5 Jahren
   price: 13,00
   binding: CD
--
+- 
   title: ""
   person: Janina B.
   book:
-    - buecher/krabat
+    - buecher/krabat-hoerbuch
   quote: >
     Otfried Preußlers Stimme lässt die
     sorbische Sage um den Waisenjungen und
@@ -71,7 +59,7 @@ Favorites:
     Stimme.
   text: |
     Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-
+    
     Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   isseries: 'false'
   more_options: 'true'
@@ -89,11 +77,11 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: CD
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/die-kaenguruh-chroniken
+    - buecher/die-kaenguruh-chroniken-hoerbuch
   quote: ""
   text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?'
   isseries: 'true'
@@ -113,12 +101,12 @@ Favorites:
   age: ""
   price: 14,99
   binding: CD
--
+- 
   title: ""
   person: Helena K.
   book:
     - >
-      buecher/die-abenteuer-des-huckleberry-finn
+      buecher/die-abenteuer-des-huckleberry-finn-hoerbuch
   quote: >
     Eine solch authentische Vertonung eines
     Kinderbuchklassikers ist mir selten
@@ -154,11 +142,11 @@ Favorites:
   age: ab 8 Jahren
   price: 12,95
   binding: CD
--
+- 
   title: ""
   person: Frieda T.
   book:
-    - buecher/der-kleine-ritter-trenk
+    - buecher/der-kleine-ritter-trenk-hoerbuch
   quote: 'Durch viele verschiedene Stimmen und Dialekte wird dieses Hörbuch zum Genuss - es macht einfach Spaß, sich in die verschiedenen Sprechweisen hineinzuhören! Und jeder Charakter bekommt dadurch noch einmal mehr eine eigene Persönlichkeit.'
   text: >
     "Ich geh in die Stadt!", sagt der kleine
@@ -191,12 +179,12 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: CD
--
+- 
   title: Harry Potter
   person: Martin F.
   book:
     - >
-      buecher/harry-potter-und-der-stein-der-weisen
+      buecher/harry-potter-und-der-stein-der-weisen-hoerbuch
   quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben - besser als die Kinofilme!'
   text: >
     Harry Potter hat sich bisher für einen

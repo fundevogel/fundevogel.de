@@ -11,17 +11,17 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
 Favorites:
 
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/das-kleine-gespenst
+    - buecher/das-kleine-gespenst-hardcover
   quote: ""
   text: >
     Jede Nacht pünktlich zur Geisterstunde
@@ -59,11 +59,12 @@ Favorites:
   age: ab 6 Jahren
   price: 12,00
   binding: gebunden
--
+- 
   title: ""
   person: Rüdiger B.
   book:
-    - buecher/latte-igel-und-der-wasserstein
+    - >
+      buecher/latte-igel-und-der-wasserstein-hardcover
   quote: >
     Unsere Klassenlehrerin hat daraus immer
     vorgelesen. Faszination Magie.
@@ -85,12 +86,12 @@ Favorites:
   age: ab 6 Jahren
   price: 15,00
   binding: gebunden
--
+- 
   title: ""
   person: ""
   book:
     - >
-      buecher/das-grosse-buch-vom-kleinen-kapitaen
+      buecher/das-grosse-buch-vom-kleinen-kapitaen-hardcover
   quote: ""
   text: >
     Der kleine Kapitän und seine Freunde
@@ -125,11 +126,12 @@ Favorites:
   age: ab 6 Jahren
   price: 18,00
   binding: gebunden
--
+- 
   title: ""
   person: Frieda T.
   book:
-    - buecher/ein-freund-wie-kein-anderer
+    - >
+      buecher/ein-freund-wie-kein-anderer-hardcover
   quote: >
     Eine wunderbar lebendig erzählte
     Geschichte, die Klein und Groß
@@ -164,11 +166,11 @@ Favorites:
   age: ab 6 Jahren
   price: 14,00
   binding: gebunden
--
+- 
   title: ""
   person: Sandra H.
   book:
-    - buecher/immer-dieser-michel
+    - buecher/immer-dieser-michel-hardcover
   quote: >
     Astrid Lindgrens Geschichten über den
     den kleinen, liebenswerten Lausejungen
@@ -193,11 +195,12 @@ Favorites:
   age: ab 8 Jahren
   price: 17,00
   binding: gebunden
--
+- 
   title: ""
   person: ""
   book:
-    - buecher/der-kleine-drache-kokosnuss
+    - >
+      buecher/der-kleine-drache-kokosnuss-hardcover
   quote: ""
   text: >
     Kokosnuss ist ein mutiger und vor allem
