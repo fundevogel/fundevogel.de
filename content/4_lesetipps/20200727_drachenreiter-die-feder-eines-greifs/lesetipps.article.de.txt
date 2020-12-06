@@ -14,7 +14,7 @@ Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher",
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,12 +33,12 @@ Isaward: false
 Books:
 
 - >
-  buecher/drachenreiter-die-feder-eines-greifs
+  buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

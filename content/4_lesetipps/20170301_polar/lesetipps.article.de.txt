@@ -22,7 +22,7 @@ Während schon kleine Kinder Freude an diesen tollen Bildern haben werden, dürf
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/polar
+- buecher/polar-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

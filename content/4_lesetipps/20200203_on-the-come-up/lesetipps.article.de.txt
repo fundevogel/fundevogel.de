@@ -30,7 +30,7 @@ Angie Thomas bezeichnet ihren Roman als einen Liebesbrief an alle schwarzen Mäd
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -48,12 +48,12 @@ Isaward: true
 
 Books:
 
-- buecher/on-the-come-up
+- buecher/on-the-come-up-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

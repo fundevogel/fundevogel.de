@@ -14,11 +14,11 @@ Verdict: Eine turbulente Geschichte, mal schräg, mal witzig, bei der man ganz n
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt
+  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
 
 ----
 

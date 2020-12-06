@@ -16,11 +16,11 @@ Verdict: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,7 @@ Isaward: false
 
 Books:
 
-- buecher/jakobs-muschel
+- buecher/jakobs-muschel-hardcover
 
 ----
 

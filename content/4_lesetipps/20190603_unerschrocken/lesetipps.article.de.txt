@@ -22,7 +22,7 @@ Es handelt sich bei den Darstellungen der Lebensgeschichten nicht um historisch 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/unerschrocken
+- buecher/unerschrocken-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

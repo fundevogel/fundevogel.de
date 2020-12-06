@@ -22,7 +22,7 @@ Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustr
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/die-mondwandlerin
+- buecher/die-mondwandlerin-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

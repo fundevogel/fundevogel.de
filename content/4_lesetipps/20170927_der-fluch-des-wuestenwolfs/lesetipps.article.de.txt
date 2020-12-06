@@ -10,11 +10,11 @@ Verdict: Ein bis zum Ende atemberaubend spannendes Buch!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/der-fluch-des-wuestenwolfs
+- >
+  buecher/der-fluch-des-wuestenwolfs-hardcover
 
 ----
 

@@ -10,11 +10,11 @@ Verdict: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorur
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/ein-freund-wie-kein-anderer
+- >
+  buecher/ein-freund-wie-kein-anderer-hardcover
 
 ----
 

@@ -30,7 +30,7 @@ Die Bilder bieten nicht nur eine Veranschaulichung der ukrainisch-ländlichen Al
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -48,12 +48,12 @@ Isaward: true
 
 Books:
 
-- buecher/zug-der-fische
+- buecher/zug-der-fische-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

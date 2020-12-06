@@ -20,7 +20,7 @@ Conclusion: Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim K
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,8 @@ Isaward: false
 
 Books:
 
-- buecher/siri-und-die-eismeerpiraten
+- >
+  buecher/siri-und-die-eismeerpiraten-hardcover
 
 ----
 

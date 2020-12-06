@@ -14,7 +14,7 @@ Wir sind in der Zeit nach einem Krieg, der Erzähler denkt zurück. Er selbst wa
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -28,7 +28,7 @@ Ein sehr beeindruckendes Buch, das Sonja Müller-Späth als Gesamtkunstwerk konz
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -46,12 +46,12 @@ Isaward: true
 
 Books:
 
-- buecher/wolfsbrot
+- buecher/wolfsbrot-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

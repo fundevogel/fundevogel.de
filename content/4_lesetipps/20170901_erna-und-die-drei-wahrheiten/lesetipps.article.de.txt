@@ -24,7 +24,7 @@ Ernas Leidenschaft für besondere Wörter inspiriert, sich mit unbekannten Worte
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,13 @@ Isaward: true
 
 Books:
 
-- buecher/erna-und-die-drei-wahrheiten
+- >
+  buecher/erna-und-die-drei-wahrheiten-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

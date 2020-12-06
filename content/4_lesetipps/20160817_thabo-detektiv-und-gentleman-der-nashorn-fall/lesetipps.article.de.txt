@@ -10,11 +10,11 @@ Verdict: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Sü
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/thabo-detektiv-und-gentleman-der-nashorn-fall
+  buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover
 
 ----
 

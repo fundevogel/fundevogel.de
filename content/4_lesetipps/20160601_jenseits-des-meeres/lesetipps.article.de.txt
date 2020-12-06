@@ -26,7 +26,7 @@ Davon abgesehen, liest man mit diesem Roman eine einfühlsam erzählte Fluchtges
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,12 +44,12 @@ Isaward: true
 
 Books:
 
-- buecher/jenseits-des-meeres
+- buecher/jenseits-des-meeres-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

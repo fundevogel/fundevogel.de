@@ -18,7 +18,7 @@ Conclusion: Während alleinerziehende Mütter, zunehmend auch Väter, in Kinderr
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,12 +36,12 @@ Isaward: true
 
 Books:
 
-- buecher/sonne-moon-und-sterne
+- buecher/sonne-moon-und-sterne-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

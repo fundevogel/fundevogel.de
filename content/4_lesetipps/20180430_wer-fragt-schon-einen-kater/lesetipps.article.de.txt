@@ -24,7 +24,7 @@ Die Illustrationen greifen Teile der Handlung auf und stellen diese überspitzt 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,13 @@ Isaward: true
 
 Books:
 
-- buecher/wer-fragt-schon-einen-kater
+- >
+  buecher/wer-fragt-schon-einen-kater-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

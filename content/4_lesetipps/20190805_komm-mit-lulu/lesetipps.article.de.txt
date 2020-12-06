@@ -25,7 +25,7 @@ Die ganze Botschaft der Geschichte zeigt sich zum Schluss, wenn nämlich der Kat
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -43,12 +43,12 @@ Isaward: true
 
 Books:
 
-- buecher/komm-mit-lulu
+- buecher/komm-mit-lulu-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

@@ -14,7 +14,7 @@ Stück für Stück verschärft Janotta für Mira im Plot die Situation, bis am E
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -32,7 +32,7 @@ Insgesamt bleibt Janotta mit ihren Figuren und Szenen ganz dicht bei den Kindern
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -51,12 +51,12 @@ Isaward: true
 Books:
 
 - >
-  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben
+  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

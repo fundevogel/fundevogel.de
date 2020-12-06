@@ -20,7 +20,7 @@ Wenn Alex Gino zugibt, dass er aus eigener Erfahrung weiß, dass "transgender Ki
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,12 +38,12 @@ Isaward: true
 
 Books:
 
-- buecher/george
+- buecher/george-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

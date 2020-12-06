@@ -24,7 +24,7 @@ Die intertextuellen Bezüge zu Lewis Carrolls "Alice im Wunderland" sind nicht n
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/hinter-glas
+- buecher/hinter-glas-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

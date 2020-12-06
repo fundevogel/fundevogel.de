@@ -10,11 +10,11 @@ Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalte
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/dinge-die-du-tun-musst-bevor-du-erwachsen-bist
+  buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
 
 ----
 

@@ -14,11 +14,11 @@ Verdict: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/klimahelden
+- buecher/klimahelden-hardcover
 
 ----
 

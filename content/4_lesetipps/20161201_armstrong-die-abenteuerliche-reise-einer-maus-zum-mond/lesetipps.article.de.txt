@@ -28,7 +28,7 @@ Die sehr sympathische kleine Maus mit dem starken Willen und ihr Erschaffer habe
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -46,13 +46,12 @@ Isaward: true
 
 Books:
 
-- >
-  buecher/armstrong-die-abenteuerliche-reise-einer-maus-zum-mond
+- buecher/armstrong-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

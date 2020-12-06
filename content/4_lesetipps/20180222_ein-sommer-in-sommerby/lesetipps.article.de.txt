@@ -10,11 +10,11 @@ Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die g
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/ein-sommer-in-sommerby
+- buecher/ein-sommer-in-sommerby-hardcover
 
 ----
 

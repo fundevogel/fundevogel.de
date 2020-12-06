@@ -14,11 +14,11 @@ Verdict: Eine spannende, lustige und doch sehr kluge Geschichte.
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/salon-salami
+- buecher/salon-salami-hardcover
 
 ----
 

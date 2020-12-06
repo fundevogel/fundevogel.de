@@ -10,11 +10,11 @@ Verdict: Empfehlenswert!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/der-krokodildieb
+- buecher/der-krokodildieb-hardcover
 
 ----
 

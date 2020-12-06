@@ -23,7 +23,7 @@ Die Graphic Novel eignet sich zur Unterhaltung ebenso wie für den Literaturunte
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 Books:
 
 - >
-  buecher/mira-freunde-verliebt-ein-jahr-meines-lebens
+  buecher/mira-freunde-verliebt-einjahrmeineslebens-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

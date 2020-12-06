@@ -14,11 +14,11 @@ Verdict: Eine berührende Geschichte, die von den zauberhaften Illustrationen vo
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/nemi-und-der-hehmann
+- buecher/nemi-und-der-hehmann-hardcover
 
 ----
 

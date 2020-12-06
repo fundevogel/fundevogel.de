@@ -18,11 +18,11 @@ Verdict: Eine spannende Geschichte für schlaue Köpfe!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -41,7 +41,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/mein-freund-otto-das-wilde-leben-und-ich
+  buecher/mein-freund-otto-das-wilde-leben-und-ich-hardcover
 
 ----
 

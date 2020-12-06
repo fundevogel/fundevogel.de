@@ -24,7 +24,7 @@ Deutschs Graphic Novel ist ein herausragend berauschendes Bilderwerk über eine 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/turing
+- buecher/turing-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

@@ -20,7 +20,7 @@ Durch diese Verbindung von Zugänglichkeit und Komplexität gestaltet sich der R
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,12 +38,12 @@ Isaward: true
 
 Books:
 
-- buecher/das-lied-vom-ende
+- buecher/das-lied-vom-ende-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

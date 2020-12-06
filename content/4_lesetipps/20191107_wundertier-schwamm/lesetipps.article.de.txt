@@ -22,7 +22,7 @@ Die kurzen, aber gut formulierten Texte ergeben zusammen mit den anschaulichen u
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/wundertier-schwamm
+- buecher/wundertier-schwamm-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

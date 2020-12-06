@@ -10,11 +10,11 @@ Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten
+  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
 
 ----
 

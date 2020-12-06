@@ -22,7 +22,7 @@ Symbolisch zieht sich durch das ganze Buch von Seite zu Seite ein Faden. Der far
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,13 +40,12 @@ Isaward: true
 
 Books:
 
-- >
-  buecher/der-dominoeffekt-oder-die-unsichtbaren-faeden-der-natur
+- buecher/der-dominoeffekt-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

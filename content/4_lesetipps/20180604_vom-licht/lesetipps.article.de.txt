@@ -27,7 +27,7 @@ Wenn Adams Schwester mit ihrem Freund zusammenzieht, scheint der innerfamiliäre
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -45,12 +45,12 @@ Isaward: true
 
 Books:
 
-- buecher/vom-licht
+- buecher/vom-licht-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

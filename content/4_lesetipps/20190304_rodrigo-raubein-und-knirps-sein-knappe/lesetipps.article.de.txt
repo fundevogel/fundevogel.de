@@ -14,11 +14,11 @@ Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/rodrigo-raubein-und-knirps-sein-knappe
+  buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
 
 ----
 

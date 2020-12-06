@@ -24,7 +24,7 @@ Für Kinder ab dem Kindergartenalter ist es ein lehrreiches Buch mit vielen Info
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/der-marienkaefer
+- buecher/der-marienkaefer-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

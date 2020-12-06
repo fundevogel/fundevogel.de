@@ -14,11 +14,11 @@ Verdict: Eine überaus spannende Geschichte, die im Heißluftballon endet, wie e
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/die-wilde-sophie
+- buecher/die-wilde-sophie-hardcover
 
 ----
 

@@ -18,11 +18,11 @@ Verdict: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphä
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -41,15 +41,15 @@ Isaward: false
 Books:
 
 - >
-  buecher/malamander-die-geheimnisse-von-eerie-on-sea
+  buecher/malamander-die-geheimnisse-von-eerie-on-sea-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 

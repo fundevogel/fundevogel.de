@@ -18,7 +18,7 @@ Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingefloch
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: true
 
 Books:
 
-- buecher/hallo-herr-eisbaer
+- buecher/hallo-herr-eisbaer-hardcover
 
 ----
 
@@ -44,4 +44,4 @@ Seotitle: Hallo, Herr Eisbär!
 
 ----
 
-Seodescription:
+Seodescription: 

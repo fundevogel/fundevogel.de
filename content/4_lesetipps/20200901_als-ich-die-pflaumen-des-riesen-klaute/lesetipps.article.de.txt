@@ -28,7 +28,7 @@ Die vorhandenen Widersprüche irritieren zunächst und lösen sich letztlich woh
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -47,12 +47,12 @@ Isaward: true
 Books:
 
 - >
-  buecher/als-ich-die-pflaumen-des-riesen-klaute
+  buecher/als-ich-die-pflaumen-des-riesen-klaute-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

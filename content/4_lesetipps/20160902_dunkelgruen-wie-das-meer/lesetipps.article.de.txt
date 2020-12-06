@@ -22,7 +22,7 @@ Mit seinen etwas dickeren Seiten und einem gewellten, kräftigen Vorsatzpapier i
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,13 @@ Isaward: true
 
 Books:
 
-- buecher/dunkelgruen-wie-das-meer
+- >
+  buecher/dunkelgruen-wie-das-meer-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

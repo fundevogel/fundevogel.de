@@ -22,7 +22,7 @@ Antoine entwickelt sich zum Beispiel auch in seiner Rolle als großer Bruder wei
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,7 +40,7 @@ Isaward: true
 
 Books:
 
-- buecher/eine-schwester
+- buecher/eine-schwester-hardcover
 
 ----
 

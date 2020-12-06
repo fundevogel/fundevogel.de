@@ -28,7 +28,7 @@ Nach "Ente, Tod und Tulpe" von Wolf Erlbruch ist dies das zweite Bilderbuch, das
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -46,12 +46,13 @@ Isaward: true
 
 Books:
 
-- buecher/der-tod-auf-dem-apfelbaum
+- >
+  buecher/der-tod-auf-dem-apfelbaum-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

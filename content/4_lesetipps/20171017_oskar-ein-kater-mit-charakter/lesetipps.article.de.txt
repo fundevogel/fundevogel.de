@@ -10,11 +10,11 @@ Verdict: Diese turbulente Katzengeschichte (in der übrigens auch Hunde vorkomme
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/oskar-ein-kater-mit-charakter
+- >
+  buecher/oskar-ein-kater-mit-charakter-hardcover
 
 ----
 

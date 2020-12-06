@@ -10,11 +10,11 @@ Verdict: Ein spannendes Ferienabenteuer über die allererste Liebe und eine star
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/zuckerkringel-ferien-mit-marie
+- >
+  buecher/zuckerkringel-ferien-mit-marie-hardcover
 
 ----
 

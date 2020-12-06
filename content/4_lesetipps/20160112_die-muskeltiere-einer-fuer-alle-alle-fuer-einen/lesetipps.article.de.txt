@@ -10,11 +10,11 @@ Verdict: Kennt ihr die drei Musketiere, ein Klassiker von dem französischen Sch
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/die-muskeltiere-einer-fuer-alle-alle-fuer-einen
+  buecher/die-muskeltiere-einer-fuer-alle-alle-fuer-einen-hardcover
 
 ----
 

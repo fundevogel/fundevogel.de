@@ -10,11 +10,11 @@ Verdict: Ich mag ... das Buch!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/ich-mag-dieses-buch
+- >
+  buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover
 
 ----
 

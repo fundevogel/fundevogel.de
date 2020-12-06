@@ -21,11 +21,11 @@ Spannung und Action
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,7 +44,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/timeless-retter-der-verlorenen-zeit
+  buecher/timeless-retter-der-verlorenen-zeit-hardcover
 
 ----
 

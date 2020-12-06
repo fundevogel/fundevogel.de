@@ -29,7 +29,7 @@ Der "Atlas der Meerjungfrauen" gibt einen Einblick in das fantastische Reich der
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -47,12 +47,13 @@ Isaward: true
 
 Books:
 
-- buecher/atlas-der-meerjungfrauen
+- >
+  buecher/atlas-der-meerjungfrauen-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

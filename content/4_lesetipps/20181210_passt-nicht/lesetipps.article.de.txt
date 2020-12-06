@@ -28,7 +28,7 @@ So müssen Bilderbücher sein! Vordergründig illustrieren sie zumeist eine Gesc
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -46,12 +46,12 @@ Isaward: true
 
 Books:
 
-- buecher/passt-nicht
+- buecher/passt-nicht-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

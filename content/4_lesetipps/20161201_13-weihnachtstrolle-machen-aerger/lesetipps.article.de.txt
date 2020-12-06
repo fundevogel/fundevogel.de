@@ -10,11 +10,11 @@ Verdict: 24 spannende und witzige Kapitel entführen uns in richtiges Winterweih
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/13-weihnachtstrolle-machen-aerger
+  buecher/13-weihnachtstrolle-machen-aerger-hardcover
 
 ----
 

@@ -31,7 +31,7 @@ Owen Davey hat eine Fülle von Informationen gesammelt, viele interessante Theme
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -49,12 +49,12 @@ Isaward: true
 
 Books:
 
-- buecher/die-affenbande
+- buecher/die-affenbande-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

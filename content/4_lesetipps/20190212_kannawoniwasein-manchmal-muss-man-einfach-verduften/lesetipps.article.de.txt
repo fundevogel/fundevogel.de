@@ -14,11 +14,11 @@ Verdict: Das erste Band der Abenteuer von Finn und Jola. Spannend und witzig erz
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften
+  buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften-hardcover
 
 ----
 

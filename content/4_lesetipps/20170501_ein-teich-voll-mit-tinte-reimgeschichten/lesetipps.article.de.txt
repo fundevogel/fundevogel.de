@@ -11,7 +11,7 @@ Die raumgreifenden, meist farbintensiv kolorierten Federzeichnungen in einer Mis
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
@@ -23,7 +23,7 @@ Alle in dem Band versammelten Geschichten befördern nicht nur inhaltlich, sonde
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 Books:
 
 - >
-  buecher/ein-teich-voll-mit-tinte-reimgeschichten
+  buecher/ein-teich-voll-mit-tinte-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

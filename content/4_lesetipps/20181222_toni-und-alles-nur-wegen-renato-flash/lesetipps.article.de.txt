@@ -10,15 +10,15 @@ Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber küm
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/toni-und-alles-nur-wegen-renato-flash
+  buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
 
 ----
 

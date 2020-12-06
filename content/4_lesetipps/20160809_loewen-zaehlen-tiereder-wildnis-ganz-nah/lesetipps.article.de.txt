@@ -23,7 +23,7 @@ Das Buch sprengt nicht nur die Genres von Sach- bis Bilderbuch, es lässt auch k
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -41,13 +41,12 @@ Isaward: true
 
 Books:
 
-- >
-  buecher/loewen-zaehlen-tiereder-wildnis-ganz-nah
+- buecher/loewen-zaehlen-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

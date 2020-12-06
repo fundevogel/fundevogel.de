@@ -10,11 +10,11 @@ Verdict: Eine Geschichte, die spannend und leichtfüßig erzählt ist.
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/limonade-im-kirschbaum
+- buecher/limonade-im-kirschbaum-hardcover
 
 ----
 

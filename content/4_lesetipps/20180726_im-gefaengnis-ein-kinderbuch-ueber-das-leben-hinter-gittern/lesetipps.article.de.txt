@@ -10,11 +10,11 @@ Verdict: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- u
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern
+  buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover
 
 ----
 

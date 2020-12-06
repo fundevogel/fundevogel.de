@@ -13,11 +13,11 @@ Verdict: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunde
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -35,7 +35,8 @@ Isaward: false
 
 Books:
 
-- buecher/woodwalkers-tag-der-rache
+- >
+  buecher/woodwalkers-tag-der-rache-hardcover
 
 ----
 

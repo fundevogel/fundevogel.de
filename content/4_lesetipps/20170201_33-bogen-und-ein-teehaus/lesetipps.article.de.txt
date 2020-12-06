@@ -24,7 +24,7 @@ Die Aufzählung der bewegenden, unvergesslichen - zu keiner Zeit rührseligen - 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,13 @@ Isaward: true
 
 Books:
 
-- buecher/33-bogen-und-ein-teehaus
+- >
+  buecher/33-bogen-und-ein-teehaus-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

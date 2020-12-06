@@ -15,11 +15,11 @@ Verdict: Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/finn-und-frieda-halten-den-herbst-auf
+  buecher/finn-und-frieda-halten-den-herbst-auf-hardcover
 
 ----
 

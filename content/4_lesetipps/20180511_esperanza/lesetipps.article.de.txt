@@ -10,11 +10,11 @@ Verdict: Eine warmherzige Geschichte über eine besondere Freundschaft – poeti
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/esperanza
+- buecher/esperanza-hardcover
 
 ----
 

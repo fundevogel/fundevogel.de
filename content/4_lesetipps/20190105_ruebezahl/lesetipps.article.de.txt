@@ -27,7 +27,7 @@ Während die zeitliche und räumliche Verortung der Sagen zumindest annähernd b
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -45,12 +45,12 @@ Isaward: true
 
 Books:
 
-- buecher/ruebezahl
+- buecher/ruebezahl-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

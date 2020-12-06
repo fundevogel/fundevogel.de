@@ -10,11 +10,11 @@ Verdict: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/superhelden-fliegen-geheim
+- >
+  buecher/superhelden-fliegen-geheim-hardcover
 
 ----
 

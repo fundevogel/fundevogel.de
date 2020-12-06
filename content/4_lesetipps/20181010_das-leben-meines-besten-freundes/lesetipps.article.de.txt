@@ -26,7 +26,7 @@ Insgesamt ein angenehm erfrischender Jugendroman zwischen Krimi und Freundschaft
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,12 +44,13 @@ Isaward: true
 
 Books:
 
-- buecher/das-leben-meines-besten-freundes
+- >
+  buecher/das-leben-meines-besten-freundes-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

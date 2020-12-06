@@ -22,7 +22,7 @@ Die Sachinformationen rings um den Tod, seine Symbole, verschiedene Bestattungsm
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -41,12 +41,12 @@ Isaward: true
 Books:
 
 - >
-  buecher/hannah-lueftet-friedhofsgeheimnisse
+  buecher/hannah-lueftet-friedhofsgeheimnisse-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

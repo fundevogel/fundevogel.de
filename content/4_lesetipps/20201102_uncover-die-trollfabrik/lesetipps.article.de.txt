@@ -24,7 +24,7 @@ Neben der Haupthandlung entwirft Manfred Theisen einen interessanten Hauptcharak
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,13 @@ Isaward: true
 
 Books:
 
-- buecher/uncover-die-trollfabrik
+- >
+  buecher/uncover-die-trollfabrik-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

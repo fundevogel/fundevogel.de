@@ -10,11 +10,11 @@ Verdict: Ein spannender Comic-Krimi aus der Schule!
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/sherlock-co
+- buecher/sherlock-co-hardcover
 
 ----
 

@@ -22,7 +22,7 @@ Die Aufnahmen der CD sind von guter Qualität und die ausgewählten Stücke mit 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/die-zauberfloete
+- buecher/die-zauberfloete-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

@@ -10,11 +10,11 @@ Verdict: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auc
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/der-junge-aus-der-letzten-reihe
+- >
+  buecher/der-junge-aus-der-letzten-reihe-hardcover
 
 ----
 

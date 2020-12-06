@@ -14,11 +14,11 @@ Verdict: "Parole Teetee" ist eine ehrliche, vielseitige Geschichte über Freunds
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/parole-teetee
+- buecher/parole-teetee-hardcover
 
 ----
 

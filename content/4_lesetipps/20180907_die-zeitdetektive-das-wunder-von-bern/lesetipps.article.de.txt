@@ -18,7 +18,7 @@ Conclusion: Noch dazu gehen merkwürdige Dinge vor sich: In die Werkstatt von Ad
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/die-zeitdetektive-das-wunder-von-bern
+  buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
 
 ----
 

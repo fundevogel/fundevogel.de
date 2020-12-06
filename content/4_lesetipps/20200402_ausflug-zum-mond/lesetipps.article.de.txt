@@ -26,7 +26,7 @@ Das äußerst humorvolle fantastische Bilderbuch ohne Text kann mit seiner charm
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,12 +44,12 @@ Isaward: true
 
 Books:
 
-- buecher/ausflug-zum-mond
+- buecher/ausflug-zum-mond-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

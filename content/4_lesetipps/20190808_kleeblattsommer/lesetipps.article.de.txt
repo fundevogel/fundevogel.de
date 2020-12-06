@@ -14,11 +14,11 @@ Verdict: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,7 @@ Isaward: false
 
 Books:
 
-- buecher/kleeblattsommer
+- buecher/kleeblattsommer-hardcover
 
 ----
 

@@ -14,11 +14,11 @@ Verdict: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig f
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,8 @@ Isaward: false
 
 Books:
 
-- buecher/flaetscher-die-sache-stinkt
+- >
+  buecher/flaetscher-die-sache-stinkt-hardcover
 
 ----
 

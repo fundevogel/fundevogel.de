@@ -26,7 +26,7 @@ Aber Alex geht es nicht um Erinnerungskultur. Sie verspielt auf der Gedenkstätt
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,12 +44,12 @@ Isaward: true
 
 Books:
 
-- buecher/mehr-schwarz-als-lila
+- buecher/mehr-schwarz-als-lila-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

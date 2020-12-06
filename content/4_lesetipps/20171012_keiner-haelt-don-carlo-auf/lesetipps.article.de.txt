@@ -14,7 +14,7 @@ Conclusion: Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktobe
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/keiner-haelt-don-carlo-auf
+- >
+  buecher/keiner-haelt-don-carlo-auf-hardcover
 
 ----
 

@@ -16,11 +16,11 @@ Verdict: Wenn du packende Spannung und Rätselhaftes magst und Freundschaftsgesc
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,8 @@ Isaward: false
 
 Books:
 
-- buecher/maggie-und-die-stadt-der-diebe
+- >
+  buecher/maggie-und-die-stadt-der-diebe-hardcover
 
 ----
 

@@ -22,7 +22,7 @@ Es ist eine bittere Hoffnung, die gerade wegen ihrer grotesken Einzigartigkeit e
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/zikade
+- buecher/zikade-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

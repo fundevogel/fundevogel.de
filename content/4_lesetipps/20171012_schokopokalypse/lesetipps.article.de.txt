@@ -16,11 +16,11 @@ Verdict: Eine herrlich witzige und schokoladige Geschichte für junge Leser ab 9
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,7 @@ Isaward: false
 
 Books:
 
-- buecher/schokopokalypse
+- buecher/schokopokalypse-hardcover
 
 ----
 

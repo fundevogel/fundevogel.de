@@ -24,7 +24,7 @@ Das Herz geht einem über am Ende der Geschichte, und man muss danach erst einma
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/die-kinder-und-der-wal
+- buecher/die-kinder-und-der-wal-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

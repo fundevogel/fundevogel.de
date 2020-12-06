@@ -20,7 +20,7 @@ Conclusion: Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, d
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,9 +38,8 @@ Isaward: false
 
 Books:
 
-- buecher/we-all-looked-up
-- buecher/28-tage-lang
-- buecher/jenseits-der-blauen-grenze
+- >
+  buecher/jenseits-der-blauen-grenze-hardcover
 
 ----
 

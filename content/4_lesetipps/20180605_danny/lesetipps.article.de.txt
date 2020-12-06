@@ -10,11 +10,11 @@ Verdict: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/danny
+- >
+  buecher/danny-oder-die-fasanenjagd-taschenbuch
 
 ----
 

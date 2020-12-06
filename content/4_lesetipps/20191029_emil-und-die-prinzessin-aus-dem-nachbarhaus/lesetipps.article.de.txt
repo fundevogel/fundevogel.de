@@ -14,11 +14,11 @@ Verdict: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Aut
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus
+  buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover
 
 ----
 

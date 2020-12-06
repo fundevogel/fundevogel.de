@@ -26,7 +26,7 @@ Eisbjörn ist nicht nur ein Sympathieträger, sondern er kann durchaus als Vorbi
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -44,12 +44,12 @@ Isaward: true
 
 Books:
 
-- buecher/eisbjoern
+- buecher/eisbjoern-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

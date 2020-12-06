@@ -22,7 +22,7 @@ In den letzten Jahren wurden einige sehr gute Kinderbücher zum Thema Demenz ver
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,13 @@ Isaward: true
 
 Books:
 
-- buecher/opa-und-die-nacht-der-woelfe
+- >
+  buecher/opa-und-die-nacht-der-woelfe-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

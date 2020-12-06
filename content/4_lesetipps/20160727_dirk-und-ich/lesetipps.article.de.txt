@@ -10,11 +10,11 @@ Verdict: Ein herrlich spritziges Buch, das mit viel Witz von den frechen Brüder
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,7 @@ Isaward: false
 
 Books:
 
-- buecher/dirk-und-ich
+- buecher/dirk-und-ich-hardcover
 
 ----
 

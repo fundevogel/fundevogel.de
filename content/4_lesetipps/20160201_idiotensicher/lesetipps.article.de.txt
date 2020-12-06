@@ -24,7 +24,7 @@ So hat man hier ein Buch, das sich den Themen Freundschaft, Moral und Erwachsenw
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/idiotensicher
+- buecher/idiotensicher-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

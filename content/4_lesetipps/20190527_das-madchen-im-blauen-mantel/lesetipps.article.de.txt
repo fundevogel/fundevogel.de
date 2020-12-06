@@ -20,7 +20,7 @@ Conclusion: Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,8 @@ Isaward: false
 
 Books:
 
-- buecher/das-madchen-im-blauen-mantel
+- >
+  buecher/das-maedchen-im-blauen-mantel-hardcover
 
 ----
 

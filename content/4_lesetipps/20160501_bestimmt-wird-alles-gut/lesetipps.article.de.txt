@@ -30,7 +30,7 @@ Das Buch ist für Kinder ab einem Alter von 6 Jahren und insbesondere im Grundsc
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -48,12 +48,13 @@ Isaward: true
 
 Books:
 
-- buecher/bestimmt-wird-alles-gut
+- >
+  buecher/bestimmt-wird-alles-gut-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

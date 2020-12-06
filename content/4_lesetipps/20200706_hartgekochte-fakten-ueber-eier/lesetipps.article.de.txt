@@ -24,7 +24,7 @@ Aufgrund der vielen Begrifflichkeiten ist das Buch eher für ein Lesealter ab 8 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,7 +42,8 @@ Isaward: true
 
 Books:
 
-- buecher/hartgekochte-fakten-ueber-eier
+- >
+  buecher/hartgekochte-fakten-ueber-eier-hardcover
 
 ----
 

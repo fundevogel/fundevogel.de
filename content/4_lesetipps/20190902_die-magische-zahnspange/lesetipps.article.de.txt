@@ -18,11 +18,11 @@ Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsa
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,7 +40,8 @@ Isaward: false
 
 Books:
 
-- buecher/die-magische-zahnspange
+- >
+  buecher/die-magische-zahnspange-hardcover
 
 ----
 

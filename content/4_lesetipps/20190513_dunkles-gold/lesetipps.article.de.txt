@@ -20,7 +20,7 @@ Conclusion: Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -38,7 +38,7 @@ Isaward: false
 
 Books:
 
-- buecher/dunkles-gold
+- buecher/dunkles-gold-hardcover
 
 ----
 

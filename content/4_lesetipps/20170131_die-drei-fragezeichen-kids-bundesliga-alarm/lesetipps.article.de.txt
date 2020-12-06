@@ -10,11 +10,11 @@ Verdict: So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/die-drei-fragezeichen-kids-bundesliga-alarm
+  buecher/die-drei-kids-bundesliga-alarm-hardcover
 
 ----
 

@@ -10,11 +10,11 @@ Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel,
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,7 +32,8 @@ Isaward: false
 
 Books:
 
-- buecher/das-u-boot-auf-dem-berg
+- >
+  buecher/das-u-boot-auf-dem-berg-hardcover
 
 ----
 

@@ -14,11 +14,11 @@ Verdict: Das hier ist die Geschichte von Tarek und Soraya, von Unterdrückung un
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/ueber-die-berge-und-ueber-das-meer
+  buecher/ueber-die-berge-und-ueber-das-meer-hardcover
 
 ----
 

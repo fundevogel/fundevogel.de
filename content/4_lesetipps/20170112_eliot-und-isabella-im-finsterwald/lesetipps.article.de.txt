@@ -10,11 +10,11 @@ Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache K
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -33,7 +33,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/eliot-und-isabella-im-finsterwald
+  buecher/eliot-und-isabella-im-finsterwald-hardcover
 
 ----
 

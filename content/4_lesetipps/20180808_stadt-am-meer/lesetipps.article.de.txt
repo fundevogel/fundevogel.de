@@ -27,7 +27,7 @@ Die Geschichte wie die Bilder sind für Kinder ab 4 Jahren verständlich und nac
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -45,12 +45,12 @@ Isaward: true
 
 Books:
 
-- buecher/stadt-am-meer
+- buecher/stadt-am-meer-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

@@ -10,11 +10,11 @@ Verdict: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -32,8 +32,7 @@ Isaward: false
 
 Books:
 
-- >
-  buecher/warum-gibt-es-uns-die-entwicklung-des-lebens-vom-urknall-bis-zu-dir
+- buecher/warum-gibt-es-uns-hardcover
 
 ----
 

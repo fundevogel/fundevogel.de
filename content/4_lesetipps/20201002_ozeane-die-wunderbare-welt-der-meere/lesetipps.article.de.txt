@@ -14,11 +14,11 @@ Verdict: Für Kinder ab 8 Jahren und für all diejenigen, die in die wunderbare 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,8 +36,7 @@ Isaward: false
 
 Books:
 
-- >
-  buecher/ozeane-die-wunderbare-welt-der-meere
+- buecher/ozeane-hardcover
 
 ----
 

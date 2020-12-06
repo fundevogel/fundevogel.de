@@ -28,7 +28,7 @@ Dank gründlicher Recherche der Autorin, die selbst für mehrere Naturschutz-NGO
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -46,12 +46,12 @@ Isaward: true
 
 Books:
 
-- buecher/voegel-auf-weltreise
+- buecher/voegel-auf-weltreise-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

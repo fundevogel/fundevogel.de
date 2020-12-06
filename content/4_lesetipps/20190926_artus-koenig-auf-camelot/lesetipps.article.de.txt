@@ -14,11 +14,11 @@ Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -36,7 +36,8 @@ Isaward: false
 
 Books:
 
-- buecher/artus-koenig-auf-camelot
+- >
+  buecher/artus-koenig-auf-camelot-hardcover
 
 ----
 

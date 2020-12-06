@@ -22,7 +22,7 @@ Die besondere Leistung der beiden Künstlerinnen Susanna Mattiangli und Vessela 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/ein-strandtag
+- buecher/ein-strandtag-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

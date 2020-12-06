@@ -22,7 +22,7 @@ Die einzigartige Aufmachung sowie das Verschmelzen von Text und Bildern machen d
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -40,12 +40,12 @@ Isaward: true
 
 Books:
 
-- buecher/auf-der-hummelwiese
+- buecher/auf-der-hummelwiese-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

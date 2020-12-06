@@ -24,7 +24,7 @@ Der Autorin Charlotte Guillain und dem Illustrator Yuval Zommer ist mit dem Lepo
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -42,12 +42,12 @@ Isaward: true
 
 Books:
 
-- buecher/unter-meinen-fuessen
+- buecher/unter-meinen-fuessen-hardcover
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

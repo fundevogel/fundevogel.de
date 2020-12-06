@@ -14,11 +14,11 @@ Verdict: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
-Blocks:
+Blocks: []
 
 ----
 
@@ -37,7 +37,7 @@ Isaward: false
 Books:
 
 - >
-  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes
+  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
 
 ----
 
