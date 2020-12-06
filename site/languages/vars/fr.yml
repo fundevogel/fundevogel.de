@@ -45,8 +45,12 @@ Mehr haben wir nicht!: C´est fini !
 
 # Lesetipps: headings
 Alle Lesetipps: Nos conseils de lecture
-Alle Lesetipps:Kategorie: Tous les conseils de lecture pour la catégorie
-Alle Lesetipps:Thema: Tous les conseils de lecture sur le sujet
+Alle XY Lesetipps:Kategorie:
+  one: Un conseil de lecture pour la catégorie
+  other: Tous {{ count }} conseils de lecture pour la catégorie
+Alle XY Lesetipps:Thema:
+  one: Un conseil de lecture sur le sujet
+  other: Tous {{ count }} conseils de lecture sur le sujet
 Alle Empfehlungslisten: Toutes les listes de recommandations
 Zeitlose Klassiker: Des classiques intemporels
 Auswahl unserer Lieblinge: Sélection de nos favoris

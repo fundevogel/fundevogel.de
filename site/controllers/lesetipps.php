@@ -1,7 +1,7 @@
 <?php
 
 return function ($kirby, $page) {
-    // Defining PDF editions
+    # Defining PDF editions
     $files = $page->files()
                   ->flip()
                   ->filterBy('extension', 'pdf')
@@ -18,26 +18,26 @@ return function ($kirby, $page) {
         $files->autumn()->first(),
     ];
 
-    // Defining recommendations
-    $lesetipps = $page->children()
-                      ->listed()
-                      ->onlyTranslated($kirby->language()->code())
-                      ->flip();
+    # Defining recommendations
+    $lesetipps = $kirby->collection('lesetipps')->onlyTranslated($kirby->language()->code());
 
-    // Check parameters
+    # Check parameters
     $parameter = false;
 
     if ($category = param('Kategorie')) {
-        // Listing by category
+        # Listing by category
         $lesetipps = $lesetipps->filterBooks('categories', rawurldecode($category));
         $parameter = 'Kategorie';
     } elseif ($topic = param('Thema')) {
-        // Listing by tag
+        # Listing by tag
         $lesetipps = $lesetipps->filterBooks('topics', rawurldecode($topic));
         $parameter = 'Thema';
     }
 
-    // Applying pagination
+    # Counting results
+    $total = $lesetipps->count();
+
+    # Applying pagination
     $perPage   = $page->perpage()->int();
     $lesetipps = $lesetipps->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $lesetipps->pagination();
@@ -45,6 +45,7 @@ return function ($kirby, $page) {
     return compact(
         'editions',
         'perPage',
+        'total',
         'lesetipps',
         'pagination',
         'parameter',

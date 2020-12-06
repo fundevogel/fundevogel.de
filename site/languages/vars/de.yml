@@ -45,8 +45,12 @@ aktiv: aktiv
 
 # Lesetipps: headings
 Alle Lesetipps: Alle Lesetipps im Überblick
-Alle Lesetipps:Kategorie: Alle Lesetipps zur Kategorie
-Alle Lesetipps:Thema: Alle Lesetipps zum Thema
+Alle XY Lesetipps:Kategorie:
+  one: Ein Lesetipp zur Kategorie
+  other: Alle {{ count }} Lesetipps zur Kategorie
+Alle XY Lesetipps:Thema:
+  one: Ein Lesetipp zum Thema
+  other: Alle {{ count }} Lesetipps zum Thema
 Alle Empfehlungslisten: Alle Empfehlungslisten
 Zeitlose Klassiker: Zeitlose Klassiker
 Auswahl unserer Lieblinge: Auswahl unserer Lieblinge

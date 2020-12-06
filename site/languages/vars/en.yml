@@ -45,8 +45,12 @@ Mehr haben wir nicht!: Congrats, you reached the end!
 
 # Lesetipps: headings
 Alle Lesetipps: All reading tips at a glance
-Alle Lesetipps:Kategorie: All reading tips for the category
-Alle Lesetipps:Thema: All reading tips on the topic
+Alle XY Lesetipps:Kategorie:
+  one: One reading tip for the category
+  other: All {{ count }} reading tips for the category
+Alle XY Lesetipps:Thema:
+  one: One reading tip on the topic
+  other: All {{ count }} reading tips on the topic
 Alle Empfehlungslisten: All recommendation lists
 Zeitlose Klassiker: Timeless Classics
 Auswahl unserer Lieblinge: Selection of our favorites
