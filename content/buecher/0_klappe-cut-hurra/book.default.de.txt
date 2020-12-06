@@ -1,0 +1,136 @@
+Title: Klappe, Cut, Hurra
+
+----
+
+Isbn: 978-3-00-057198-5
+
+----
+
+Subtitle: Aufregende Drehtage in Berlin
+
+----
+
+Author: Kerstin Wacker; Henrik Hitzbleck
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: wacker und freunde Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 144
+
+----
+
+Price: 16,95
+
+----
+
+Topics: Film
+
+----
+
+Description: LESUNGEN: Für die 3. und 4. Klassenstufe werden Lesungen deutschlandweit angebunden.Bei ANTOLIN gelistet.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000563268/63715/10002/-3/Buecher_Kinder--und-Jugend/Kerstin-Wacker/Klappe-Cut-Hurra
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  klappe-cut-hurra_kerstin-wacker-henrik-hitzbleck.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Amra
+
+----
+
+Volume: 2
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

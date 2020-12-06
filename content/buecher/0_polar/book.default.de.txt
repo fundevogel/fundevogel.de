@@ -10,6 +10,10 @@ Subtitle: Ein Photicular Buch
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Dan Kainen & Carol Kaufmann
 
 ----

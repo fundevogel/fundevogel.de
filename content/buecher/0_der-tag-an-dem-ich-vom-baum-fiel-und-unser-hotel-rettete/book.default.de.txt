@@ -1,0 +1,136 @@
+Title: Der Tag, an dem ich vom Baum fiel und unser Hotel rettete
+
+----
+
+Isbn: 978-3-8369-5978-0
+
+----
+
+Subtitle: 
+
+----
+
+Author: Enne Koens
+
+----
+
+Illustrator: Julia Dürr
+
+----
+
+Translator: Andrea Kluitmann
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2017
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 208
+
+----
+
+Price: 14,95
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: Für Siri ist das Hotel ihrer Eltern der allerschönste Ort der Welt: Die Gäste kommen und gehen. Ihr Vater steht an der Rezeption und ihre Mutter in der Küche. Siri holt morgens die frischen Eier fürs Frühstück aus dem Hühnerstall. Und nicht weit vom Hotel ist ein kleiner Wald, wo sie mit ihrem Bruder Gilles Dachse beobachtet. Doch in letzter Zeit streiten sich ihre Eltern immer öfter. Meist geht es dabei um Geld, denn das Familienhotel wirft kaum etwas ab. Eines Tages fällt Siri vom Baum und landet auf dem Kopf. Plötzlich hat sie ein fantastisches Gedächtnis. Und Gilles hat eine Idee, wie sie das Hotel retten können ...
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000125663/63715/10002/-3/Buecher_Abenteuer/Enne-Koens/Der-Tag-an-dem-ich-vom-Baum-fiel-und-unser-Hotel-rettete
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-tag-an-dem-ich-vom-baum-fiel-und-unser-hotel-rettete_enne-koens.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

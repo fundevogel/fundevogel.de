@@ -1,0 +1,136 @@
+Title: Der Wundergarten
+
+----
+
+Isbn: 978-3-7725-2886-6
+
+----
+
+Subtitle: Nek Chand baut sein geheimes Reich
+
+----
+
+Author: Barb Rosenstock; Claire A. Nivola
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Brigitte Elbe
+
+----
+
+Publisher: Freies Geistesleben
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 44
+
+----
+
+Price: 18,00
+
+----
+
+Topics: 
+
+----
+
+Description: In seiner Kindheit am Fuße der mächtigen Berge des Himalayahörte Nek Chand von Göttinnen erzählen, von magischenGänsen und geheimnisvollenDschungeln. Das war seinGlück. Denn als seine Familie nach Indien fliehen musste -in die fremde, hochmoderne Stadt Chandigarh -, lebten dieGeschichten in ihm weiter und machten ihn erfindungsreich.Denn all das wollte er vor sich sehen und um sich haben.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001130264/63715/10002/-3/Buecher_Kinder--und-Jugend/Barb-Rosenstock/Der-Wundergarten
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-wundergarten_barb-rosenstock-claire-a-nivola.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

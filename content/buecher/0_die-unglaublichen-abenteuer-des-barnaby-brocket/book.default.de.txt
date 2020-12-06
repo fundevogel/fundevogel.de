@@ -130,3 +130,7 @@ Leselink:
 ----
 
 Participant: 
+
+----
+
+Type: Taschenbuch

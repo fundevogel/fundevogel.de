@@ -10,6 +10,10 @@ Subtitle: Ein Kinderbuch über das Leben hinter Gittern
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Thomas Engelhardt
 
 ----

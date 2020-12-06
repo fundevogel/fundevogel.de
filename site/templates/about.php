@@ -37,28 +37,3 @@
 </section>
 
 <?php snippet('footer') ?>
-
-
-<?php
-
-
-$pages = $site->index();
-
-# Loop through them
-echo 'BUILDER<br>';
-foreach ($pages as $page) {
-
-    if ($page->blocks()->exists() && $page->blocks()->isNotEmpty()) {
-        echo $page->uid(), '<br>';
-    }
-}
-
-
-echo 'CONCLUSION<br>';
-foreach ($pages as $page) {
-    if ($page->conclusion()->exists() && $page->conclusion()->isNotEmpty()) {
-        echo $page->uid(), '<br>';
-    }
-}
-
-?>

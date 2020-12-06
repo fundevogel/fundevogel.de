@@ -10,6 +10,10 @@ Subtitle: Ausgezeichnet mit dem Corine - Internationaler Buchpreis, Kategorie Ki
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Cornelia Funke
 
 ----

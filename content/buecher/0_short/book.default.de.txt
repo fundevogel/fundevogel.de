@@ -1,0 +1,135 @@
+Title: Short
+
+----
+
+Isbn: 978-3-446-26047-4
+
+----
+
+Subtitle: Manchmal wächst man über sich hinaus
+
+----
+
+Author: Holly Goldberg Sloan
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Katharina von Savigny
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 256
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Selbstvertrauen, Theater
+
+----
+
+Description: Manchmal wächst man über sich hinaus -  eine Liebeserklärung an das Theater von Holy Goldberg-Sloan, der Autorin von "Glück ist eine Gleichung mit 7"
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000986511/63715/10002/-3/Buecher_Kinder--und-Jugend/Holly-Goldberg-Sloan/Short
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- short_holly-goldberg-sloan.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

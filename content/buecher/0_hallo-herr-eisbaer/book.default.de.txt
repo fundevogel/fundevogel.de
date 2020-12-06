@@ -10,6 +10,10 @@ Subtitle: Es gibt Zeiten, da kann nur ein Eisbär helfen ...
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Maria Farrer
 
 ----

@@ -133,3 +133,7 @@ Isaward: false
 ----
 
 Participant: Wojciech Grajkowski
+
+----
+
+Type: Hardcover

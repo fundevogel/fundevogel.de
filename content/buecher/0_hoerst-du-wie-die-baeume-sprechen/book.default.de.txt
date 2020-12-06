@@ -10,6 +10,10 @@ Subtitle: Eine kleine Entdeckungsreise durch den Wald
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Peter Wohlleben
 
 ----

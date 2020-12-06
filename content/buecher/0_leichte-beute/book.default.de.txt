@@ -1,0 +1,135 @@
+Title: Leichte Beute
+
+----
+
+Isbn: 978-3-551-73428-0
+
+----
+
+Subtitle: 
+
+----
+
+Author: Miguelanxo Prado
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Anlagebetrug, Graphic Novel, Krimis/Thriller, Spanien, Wirtschaftskrise
+
+----
+
+Description: Hochrangige Bankmanager werden ermordet und die Inspektoren Tabares und Sortillo stoßen bei ihren Ermittlungen auf überraschende Verdächtige. Im Laufe der Ermittlungen werden mehrere Senioren als Zeugen verhört, die sich nach und nach als Kleinanleger entpuppen, die durch die spanischen Banken ihr Geld verloren haben... Bankbetrug, Wirtschaftskrise, Korruption. Der spanische Star-Autor Miguelanxo Prado verwebt in seiner neuesten Graphic Novel höchst brisante Themen in einen spannenden Thriller-Plot mit Sozialkritik. Die Rachegeschichte wird von Prado in meisterhaften Schwarzweiß-Zeichnungen illustriert, die beweisen, dass Prado zu den besten Comiczeichnern Europas zählt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000666744/63715/10002/-3/Buecher/Miguelanxo-Prado/Leichte-Beute
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- leichte-beute_miguelanxo-prado.jpg
+
+----
+
+Categories: Jugendbuch, Comic
+
+----
+
+Isseries: true
+
+----
+
+Series: Carlsen graphic novel
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

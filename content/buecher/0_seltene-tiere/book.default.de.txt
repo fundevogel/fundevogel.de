@@ -10,6 +10,10 @@ Subtitle: Ein Atlas der bedrohten Arten
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Martin Jenkins
 
 ----

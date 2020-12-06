@@ -1,0 +1,136 @@
+Title: Zusammen sind wir Helden
+
+----
+
+Isbn: 978-3-551-55685-1
+
+----
+
+Subtitle: 
+
+----
+
+Author: Jeff Zentner
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Ingo Herzke
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 368
+
+----
+
+Price: 17,99
+
+----
+
+Topics: Erwachsenwerden, Freundschaft, Nerd
+
+----
+
+Description: Freundschaft über alles/ Zu groß für diese Stadt/ Zu groß für dieses Leben / Da draußen wartet das Leben/ Hinter dem Highway/ Jetzt hält uns nichts mehr
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000180182/63715/10002/-3/Buecher_Kinder--und-Jugend/Jeff-Zentner/Zusammen-sind-wir-Helden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  zusammen-sind-wir-helden_jeff-zentner.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Type: Hardcover
+
+----
+
+Participant: 

@@ -71,3 +71,12 @@ fields:
       de: Untertitel
       en: Subtitle
     type: text
+    width: 3/4
+
+  type:
+    label:
+      de: Art
+      en: Type
+    type: text
+    disabled: true
+    width: 1/4

@@ -10,6 +10,10 @@ Subtitle: Einer ist immer besonders
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Benjamin Tienti
 
 ----

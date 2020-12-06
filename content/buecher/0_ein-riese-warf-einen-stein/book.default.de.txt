@@ -134,3 +134,7 @@ Isaward: false
 ----
 
 Participant: 
+
+----
+
+Type: Hardcover
