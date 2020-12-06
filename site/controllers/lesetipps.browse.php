@@ -1,21 +1,18 @@
 <?php
 
-return function ($page) {
-    // Defining default reading tips
-    $lesetipps = $page
-        ->siblings()
-        ->listed()
-        ->filterBy('intendedTemplate', 'lesetipps.article');
+return function ($kirby, $page) {
+    # Defining default reading tips
+    $lesetipps = $kirby->collection('lesetipps');
 
-    // Empty collection
-    $results = new Collection();
+    # Empty collection
+    $results = new Pages();
 
-    // List search results
+    # List search results
     if ($query = get('q')) {
-        $results = $lesetipps->flip()->search($query, ['words' => true]);
+        $results = $lesetipps->search($query, ['words' => true]);
     }
 
-    // When applied, filter search results
+    # When applied, filter search results
     if (count(params()) > 0) {
         if ($results->isEmpty()) {
             $results = $lesetipps;
@@ -30,28 +27,32 @@ return function ($page) {
 
         foreach ($parameters as $parameter => $field) {
             if ($argument = param($parameter)) {
-                $results = $results->filterBy($field, rawurldecode($argument), ',');
+                $books = $kirby->collection('books/reviewed')->filterBy($field, rawurldecode($argument), ',');
+
+                $results = $results->filter(function($lesetipp) use ($books) {
+                    foreach ($books as $book) {
+                        if ($lesetipp->books()->toPages()->has($book)) {
+                            return $lesetipp;
+                        }
+                    }
+                });
             }
         }
     }
 
-    // Collect filter attributes across all reading tips
-    $categories = $lesetipps->pluck('categories', ',', true);
+    # Collect filter attributes across all reading tips
+    $categories = $kirby->collection('books/reviewed')->pluck('categories', ',', true);
+    $topics     = $kirby->collection('books/reviewed')->pluck('topics', ',', true);
+    $ages       = $kirby->collection('books/reviewed')->pluck('age', ',', true);
+    $awards     = $kirby->collection('books/reviewed')->pluck('award', ',', true);
+
+    # Sort them
     sort($categories);
-
-    $topics = $lesetipps->pluck('topics', ',', true);
     sort($topics);
-
-    $ages = $lesetipps->pluck('age', ',', true);
     natsort($ages);
-
-    $publishers = $lesetipps->pluck('publisher', ',', true);
-    natcasesort($publishers);
-
-    $awards = $lesetipps->pluck('award', ',', true);
     sort($awards);
 
-    // Order will be used in frontend
+    # Order will be used in frontend
     $fields = [
         'Kategorie' => $categories,
         'Thema' => $topics,
@@ -59,14 +60,13 @@ return function ($page) {
         'Auszeichnung' => $awards,
     ];
 
-    // Counting results
+    # Counting results
     $total = $results->count();
 
-    // Applying pagination
-    $perPage = $page->perpage()->int();
-    $results = $results->flip()->paginate(($perPage >= 1) ? $perPage : 5);
+    # Applying pagination
+    $perPage    = $page->perpage()->int();
+    $results    = $results->paginate(($perPage >= 1) ? $perPage : 5);
     $pagination = $results->pagination();
-
 
     return compact(
         'query',
