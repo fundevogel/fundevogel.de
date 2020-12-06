@@ -31,6 +31,9 @@ class LesetippsArticlePage extends Page {
 
             # Fetch information from API
             $data = loadBook($isbn);
+
+            # Get shop link
+            $data['shop'] = getShopLink($this->isbn()->value());
         } catch(\Exception $e) {
             return parent::create($props);
         }

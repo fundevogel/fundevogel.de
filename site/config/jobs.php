@@ -61,8 +61,9 @@ return [
             'filename' => Str::slug($page->title()) . '_' . Str::slug($page->author()) . '.jpg',
         ]);
 
+        $book = $page->toBook();
+
         if (!$file->exists()) {
-            $book = $page->toBook();
             $book->setImagePath($page->root());
             $download = $book->downloadCover($file->name(), true);
         }
@@ -81,7 +82,7 @@ return [
         } catch (Exception $e) {
             return [
                 'status' => 404,
-                'label' => $e,
+                'label' => $e->getMessage(),
                 'reload' => false,
             ];
         }
