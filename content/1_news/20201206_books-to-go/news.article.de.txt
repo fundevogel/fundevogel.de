@@ -1,0 +1,29 @@
+Title: Fensterverkauf im Fundevogel
+
+----
+
+Slug: books-to-go
+
+----
+
+Text:
+
+Ungewöhnliche Zeiten verlangen nach kreativen Ideen. Um den Weihnachtseinkauf in Zeiten von Corona für unsere KundInnen zu erleichtern, haben wir uns Folgendes einfallen lassen:
+
+Zusätzlich zum Ladengeschäft gibt es ab sofort **fachkundige Beratung an unserem Beratungsfenster**, also an der frischen Luft. Wer etwas bestellt hat oder bereits weiß, welches Buch es sein soll, kann es **schnell und unkompliziert an unserem Abholfenster abholen**.
+
+Auf diese Weise wollen wir längere Wartezeiten für unsere KundInnen vermeiden und so unseren Beitrag dazu leisten, auch in diesen Zeiten allen einen möglichst risikoarmen Geschenkekauf zu ermöglichen.
+
+**Das Team vom Fundevogel freut sich darauf, euch in der Adventszeit zu sehen - ob am Fenster oder zum Stöbern im gemütlichen Fundevogel. Auf dass einem besinnlichen Weihnachtsfest nichts mehr im Wege stehe!**
+
+----
+
+Subtitle-wanted: true
+
+----
+
+Subtitle: Books to go!
+
+----
+
+Date: 2020-12-06
