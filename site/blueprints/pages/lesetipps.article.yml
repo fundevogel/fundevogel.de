@@ -59,12 +59,7 @@ tabs:
                 - FV
                 - External
 
-          books:
-            label:
-              de: Buch / Bücher
-              en: Book(s)
-            type: pages
-            query: site.find('buecher').children.listed
+          books: fields/books
 
       sidebar_files: false
 
