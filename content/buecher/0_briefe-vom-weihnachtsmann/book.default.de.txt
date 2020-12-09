@@ -1,0 +1,140 @@
+Title: Briefe vom Weihnachtsmann
+
+----
+
+Isbn: 978-3-608-98385-2
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: John R. R. Tolkien
+
+----
+
+Illustrator: Baillie Tolkien
+
+----
+
+Translator: Anja Hegemann; Hannes Riffel
+
+----
+
+Publisher: Klett-Cotta
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 208
+
+----
+
+Price: 35,00
+
+----
+
+Topics: Fantasy, Weihnachtsgeschichten / Weihnachtserzählungen
+
+----
+
+Description:
+
+Das schönste Weihnachtsgeschenk für alle Tolkien-Fans: Die Luxusausgabe von "Briefe vom Weihnachtsmann", mit wunderschönen Illustrationen von Tolkien persönlich.
+
+Mit einem ausklappbaren Frontispiz aller Briefmarken vom Nordpol, die die einzelnen Briefe des Weihnachtsmanns tragen- Neu durchgesehene und erweiterte Ausgabe- Alle gemalten Bilder, Zeichnungen, Briefe und Umschläge in Farbe, manche davon erstmals- Halbband, silberne Prägung, mit Tolkiens Illustrationen des Weihnachtsmanns und des Polarbären- Im Schuber, mit dem eingeklebten Faksimile einer Briefmarke vom Nordpol- Lesebändchen
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002823333/63715/10002/-3/Buecher_Fantasy/John-R-R-Tolkien/Briefe-vom-Weihnachtsmann
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  briefe-vom-weihnachtsmann_john-r-r-tolkien.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

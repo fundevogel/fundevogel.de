@@ -1,0 +1,136 @@
+Title: Der Wind in den Weiden
+
+----
+
+Isbn: 978-3-0369-5123-2
+
+----
+
+Subtitle: Oder Der Dachs lässt schön grüßen, möchte aber auf keinen Fall gestört werden
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Kenneth Grahame
+
+----
+
+Illustrator: Ernest H. Shepard
+
+----
+
+Translator: Harry Rowohlt
+
+----
+
+Publisher: Kein & Aber
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 240
+
+----
+
+Price: 28,00
+
+----
+
+Topics: Tiere
+
+----
+
+Description: Auf der Flucht vor dem Frühjahrsputz lernt der Maulwurf den Frühling, die Welt und die Freundschaft kennen. Die Geschichten von Dachs, Maulwurf, Kröterich und der Ratte machten Kenneth Grahame weltberühmt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/904525/63715/10002/-3/Buecher_Kinder--und-Jugend/Kenneth-Grahame/Der-Wind-in-den-Weiden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-wind-in-den-weiden_kenneth-grahame.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
