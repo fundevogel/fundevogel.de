@@ -45,7 +45,7 @@ const conf: Record<string, any> = {
             // For more options, see https://github.com/postcss/autoprefixer#options
         },
         critical: {
-            enable: true,
+            enable: false,
             base: localURL,
             urls: [
                 '/fundevogel-und-team',
