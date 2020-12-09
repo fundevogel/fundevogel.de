@@ -19,21 +19,20 @@
     },
     "require": {
         "php": ">=7.2.0",
-        "getkirby/cms": "3.5.0-rc.4",
+        "getkirby/cms": "3.5.0-rc.5",
         "afbora/kirby-minify-html": "1.2.0",
         "bnomei/kirby3-fingerprint": "3.0.8",
-        "bnomei/kirby3-janitor": "2.6.1",
+        "bnomei/kirby3-janitor": "2.6.4",
         "bnomei/kirby3-security-headers": "2.3.1",
-        "distantnative/retour-for-kirby": "2.3.2",
-        "fundevogel/php-pcbis": "2.0.0-beta.2",
+        "distantnative/retour-for-kirby": "3.0.0",
+        "fundevogel/php-pcbis": "dev-master",
         "fundevogel/kirby3-colorist": "1.8.0",
         "fundevogel/kirby3-donuts": "1.2.0",
         "guzzlehttp/guzzle": "7.2.0",
         "k-community/markdown-field": "1.0.6",
-        "kschu91/largest-remainder-method": "0.1.0",
+        "kschu91/largest-remainder-method": "0.2.0",
         "oblik/kirby-plurals": "1.0.0",
-        "pedroborges/kirby-meta-tags": "2.0.2",
-        "steirico/kirby-plugin-custom-add-fields": "1.4.1"
+        "pedroborges/kirby-meta-tags": "2.0.2"
     },
     "extra": {
         "kirby-cms-path": false
