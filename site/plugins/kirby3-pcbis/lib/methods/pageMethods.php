@@ -83,12 +83,12 @@ return [
         # Build update array from OLA request
         $updateArray = ['isAvailable' => $ola->isAvailable()];
 
-        if ($ola->hasStatusCode()) {
-            $updateArray['olaCode'] = $ola->statusCode();
+        if ($ola->hasOlaCode()) {
+            $updateArray['olaCode'] = $ola->olaCode();
         }
 
-        if ($ola->hasStatusMessage()) {
-            $updateArray['olaMessage'] = $ola->statusMessage();
+        if ($ola->hasOlaMessage()) {
+            $updateArray['olaMessage'] = $ola->olaMessage();
         }
 
         try {
