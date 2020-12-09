@@ -18,9 +18,6 @@ return [
     # KIRBY OPTIONS
     ##
 
-    # Set environment
-    'environment' => 'production',
-
     # Set alternative `home` identifier
     'home' => 'news',
 

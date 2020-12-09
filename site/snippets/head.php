@@ -8,7 +8,7 @@
     <link rel="preload" href="/assets/fonts/Dosis-Bold.subset.woff2" as="font" type="font/woff2" crossorigin>
 
     <!-- CSS -->
-    <?php if (!option('debug')) : ?>
+    <?php if (option('environment') == 'production') : ?>
     <?php
         # Production = Minified inline CSS
         $cssPath = $kirby->root('assets') . '/styles/main.min.css';
@@ -32,7 +32,7 @@
 
     <!-- JS -->
     <?php
-        $jsFile = option('debug') ? 'main.js' : 'main.min.js';
+        $jsFile = option('environment') == 'production' ? 'main.min.js' : 'main.js';
         $jsPath = '/assets/scripts/' . $jsFile;
 
         echo Bnomei\Fingerprint::js($jsPath, [

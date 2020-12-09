@@ -5,8 +5,12 @@
 ##
 
 return [
+    # Activate debug mode
     'debug' => true,
 
-    // Disable plguins @ development
+    # Set environment
+    'environment' => 'development',
+
+    # Disable plugins @ development
     'afbora.kirby-minify-html.enabled' => false,
 ];
