@@ -30,9 +30,6 @@
                         <h3 class="lg:text-2xl text-orange-medium"><?= t('Presse-Überschrift') ?></h3>
                         <?= $page->press_kit()->kt() ?>
                     </div>
-                    <div>
-
-                    </div>
                 </div>
             </div>
         </div>

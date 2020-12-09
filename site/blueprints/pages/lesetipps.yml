@@ -14,13 +14,9 @@ tabs:
         sections:
           drafts:
             template: lesetipps.article
-            image:
-              query: page.getCover
 
           unlisted:
             template: lesetipps.article
-            image:
-              query: page.getCover
 
       right:
         sections:
@@ -39,8 +35,6 @@ tabs:
         sections:
           listed:
             template: lesetipps.article
-            image:
-              query: page.getCover
 
   tab_content:
     extends: tabs/default
