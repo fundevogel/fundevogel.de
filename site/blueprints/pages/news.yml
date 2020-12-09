@@ -12,15 +12,21 @@ tabs:
       left:
         sections:
           drafts:
-            template: news.article
+            template:
+              - news.article
+              - news.recommendation
 
           unlisted:
-            template: news.article
+            template:
+              - news.article
+              - news.recommendation
 
       full:
         sections:
           listed:
-            template: news.article
+            template:
+              - news.article
+              - news.recommendation
             image:
               ratio: 1/1
 

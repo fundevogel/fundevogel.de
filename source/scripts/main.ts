@@ -47,6 +47,7 @@ class App {
         ];
 
         this.hasSlider = [
+            'news',
             'assortment.single',
             'lesetipps.article',
         ];

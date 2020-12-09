@@ -29,7 +29,9 @@ tabs:
             extends: sections/articles
             headline: Aktuelles
             parent: site.find("news")
-            create: news.article
+            create:
+              - news.article
+              - news.recommendation
             layout: list
             limit: 4
 
