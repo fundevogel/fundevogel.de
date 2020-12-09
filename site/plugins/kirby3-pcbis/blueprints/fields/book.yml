@@ -1,0 +1,11 @@
+label:
+  de: Buch
+  en: Book
+type: pages
+subpages: false
+multiple: false
+query: site.find('buecher').children.listed
+empty:
+  de: Kein Buch ausgewählt
+  en: No book selected
+info: "{{ page.author }}"

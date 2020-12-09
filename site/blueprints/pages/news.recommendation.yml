@@ -12,16 +12,9 @@ tabs:
     fields:
       text: false
 
-      favorites:
-        extends: fields/favorites
-        label:
-          de: Bücher des Monats
-          en: Books of the month
+      books:
+        extends: fields/books
         min: 3
-        fields:
-          hasQuote: false
-          person: false
-          quote: false
 
     sidebar:
       sidebar_fields:

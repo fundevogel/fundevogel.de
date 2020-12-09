@@ -15,7 +15,34 @@ tabs:
 
       blocks: fields/blocks
 
-      favorites: fields/favorites
+      favorites:
+        extends: fields/books
+        label:
+          de: Unsere Lieblinge
+          en: Our favorites
+        columns:
+          book:
+          hasQuote:
+        hasQuote:
+          extends: fields/toggle
+          label:
+            de: Zitat vorhanden?
+            en: Quote?
+          default: true
+          width: 1/3
+
+        person:
+          label: Person
+          type: text
+          width: 2/3
+          when:
+            hasQuote: true
+
+        quote:
+          label: Zitat
+          type: markdown
+          when:
+            hasQuote: true
 
     sidebar:
       sidebar_fields: sections/sidebar.cover

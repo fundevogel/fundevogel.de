@@ -1,11 +1,15 @@
-- 
-  status: "301"
-  from: fr/unser-netzwerk
-  to: fr/notre-reseau
-  hits: "0"
-  last: null
-- 
-  status: "301"
-  from: lesetipps/ozeane
-  to: >
-    lesetipps/ozeane-die-wunderbare-welt-der-meere
+routes:
+  - 
+    status: "301"
+    from: fr/unser-netzwerk
+    to: fr/notre-reseau
+    hits: "0"
+    last: null
+    priority: false
+  - 
+    status: "301"
+    from: lesetipps/ozeane
+    to: >
+      lesetipps/ozeane-die-wunderbare-welt-der-meere
+    priority: false
+schema: 3.0.0

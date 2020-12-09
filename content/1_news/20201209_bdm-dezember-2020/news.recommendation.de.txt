@@ -2,7 +2,7 @@ Title: BdM Dezember 2020
 
 ----
 
-Favorites:
+Books:
 
 -
   title: ""
@@ -48,7 +48,7 @@ Favorites:
 
 ----
 
-Date: 2020-12-01
+Date: 2020-12-09
 
 ----
 

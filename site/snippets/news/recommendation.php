@@ -15,7 +15,7 @@
                 <div class="js-slider mb-10 overflow-hidden">
                     <div class="flex">
                         <?php
-                            foreach ($article->favorites()->toStructure() as $favorite) :
+                            foreach ($article->books()->toStructure() as $favorite) :
 
                             $book = $favorite->book()->toPage();
                             $title = $favorite->title()->isNotEmpty()
@@ -73,17 +73,6 @@
                                                 <?= $text ?>
                                             </div>
                                         </div>
-                                        <?php if ($favorite->quote()->isNotEmpty()) : ?>
-                                        <blockquote class="m-0 p-0 border-0 border-orange-medium">
-                                            <?= $favorite->quote()->kt() ?>
-                                            <?php if ($favorite->person()->isNotEmpty()) : ?>
-                                            <cite>
-                                                <?= useSVG(t('quote'), 'inline w-6 h-6 -mt-1 mr-1 text-orange-medium fill-current', 'message-filled') ?>
-                                                <span class="text-sm text-orange-medium not-italic font-normal"><?= $favorite->person()->html() ?></span>
-                                            </cite>
-                                            <?php endif ?>
-                                        </blockquote>
-                                        <?php endif ?>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +81,7 @@
                     </div>
                     <div class="js-controls mt-12 mb-px flex justify-center">
                         <?php
-                            foreach ($article->favorites()->toStructure() as $favorite) :
+                            foreach ($article->books()->toStructure() as $favorite) :
 
                             $book = $favorite->book()->toPage();
                             $title = $favorite->title()->isNotEmpty()

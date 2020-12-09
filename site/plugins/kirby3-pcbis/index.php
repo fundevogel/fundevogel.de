@@ -7,6 +7,7 @@ include __DIR__ . '/lib/models.php';
 # Kirby plugins
 Kirby::plugin('fundevogel/kirby3-pcbis', [
     'blueprints' => [
+        'fields/book'        => __DIR__ . '/blueprints/fields/book.yml',
         'fields/books'       => __DIR__ . '/blueprints/fields/books.yml',
         'fields/shared'      => __DIR__ . '/blueprints/fields/shared.yml',
         'options/book'       => __DIR__ . '/blueprints/options/book.yml',

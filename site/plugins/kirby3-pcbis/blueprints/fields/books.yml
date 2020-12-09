@@ -1,10 +1,31 @@
 label:
-  de: Buch / Bücher
-  en: Book(s)
-type: pages
-subpages: false
-query: site.find('buecher').children.listed
-empty:
-  de: Kein Buch ausgewählt
-  en: No book selected
-info: "{{ page.author }}"
+  de: Bücher
+  en: Books
+type: structure
+columns:
+  book:
+fields:
+  title:
+    label:
+      de: Überschrift
+      en: Heading
+    type: text
+    width: 1/2
+    help:
+      de: Bleibt dieses Feld frei, wird der Buchtitel als Überschrift verwendet.
+      en: If this field remains free, the book title will be used as heading.
+
+  book:
+    extends: fields/book
+    label:
+      de: Buch
+      en: Book
+    multiple: false
+    width: 1/2
+
+  text:
+    label: Text
+    type: markdown
+    help:
+      de: Bleibt dieses Feld frei, wird die Inhaltsbeschreibung verwendet.
+      en: If this field remains free, the description of contents will be used.
