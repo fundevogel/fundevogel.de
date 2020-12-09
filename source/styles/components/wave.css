@@ -35,6 +35,7 @@
   @apply mb-16;
   @apply text-center;
   @apply text-red-medium;
+  @apply leading-snug;
 }
 
 .wave .title {

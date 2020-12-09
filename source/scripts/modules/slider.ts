@@ -13,7 +13,7 @@ export const runSlider = (container: HTMLElement, template: string) => {
 
         const embla = EmblaCarousel(slider, options);
 
-        if (template === 'assortment.single' || template === 'lesetipps.article') {
+        if (template === 'news' || template === 'assortment.single' || template === 'lesetipps.article') {
             const pagination = slider.querySelector('.js-controls');
             const bullets = pagination.querySelectorAll('span');
 

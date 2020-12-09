@@ -1,0 +1,140 @@
+Title: Maus und Maulwurf machen sich's gemütlich
+
+----
+
+Isbn: 978-3-96177-060-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Joyce Dunbar
+
+----
+
+Illustrator: James Mayhew
+
+----
+
+Translator: Claudia Müller
+
+----
+
+Publisher: Woow Books
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Herbst, Tiere
+
+----
+
+Description:
+
+"Wenn das Wetter schön ist, machen wir ein Picknick im Wald. Wir schmieren Brote mit Käse und Gurke und nehmen unseren neuen Picknickkorb mit", sagte Maus. "Oh ja, das machen wir!", rief Maulwurf. "Aber was ist, wenn das Wetter morgen nicht schön ist?" "Dann setzen wir uns in unsere gemütlichen Lehnstühle vor dem Kamin und rösten Kastanien und toasten Teekuchen. Und dazu trinken wir heißen Kakao."
+
+Ganz gleich, wie das Wetter ist: Maus und Maulwurf wissen, wie man den Herbst genießt!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002999855/63715/10002/-3/Buecher_Kinder--und-Jugend/Joyce-Dunbar/Maus-und-Maulwurf-machen-sichs-gemuetlich
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  maus-und-maulwurf-machen-sich-s-gemuetlich_joyce-dunbar.jpg
+
+----
+
+Categories: Vorlesebuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Maus und Maulwurf
+
+----
+
+Volume: 2
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

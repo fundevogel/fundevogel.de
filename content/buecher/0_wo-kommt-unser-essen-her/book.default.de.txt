@@ -1,0 +1,135 @@
+Title: Wo kommt unser Essen her?
+
+----
+
+Isbn: 978-3-407-75816-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Julia Dürr
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 14,95
+
+----
+
+Topics: Bauernhof, Nahrungsmittel, Tierhaltung, Landwirtschaft
+
+----
+
+Description: Woher kommen eigentlich die Lebensmittel, die auf unserem Tisch landen? Dieses Sachbilderbuch zeigt die verschiedenen Produktionsabläufe in kleinen und großen Betrieben: den Weg der Milch auf einem Bauernhof und in einem Milchbetrieb oder wie das Brot in der Backstube und wie es in der Backfabrik entsteht, Fischfang und Fischzucht. Wie und wo Tomaten oder Äpfel wachsen, was passiert, bevor die Wurst in die Pelle kommt - und was das alles mit dem Klima zu tun hat, erklären die detailreichen, großformatigen Bilder und die leicht verständlichen Texte.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002935119/63715/10002/-3/Buecher_Sachbuecher/Julia-Duerr/Wo-kommt-unser-Essen-her
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- wo-kommt-unser-essen-her_julia-duerr.jpg
+
+----
+
+Categories: Sachbuch, Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -26,12 +26,13 @@ Favorites:
 
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/ein-riese-warf-einen-stein-hardcover
-  quote: ""
   text: 'Nur aus Spaß wirft ein Kind einen Stein in einen Ameisenhaufen - für die Ameisen ist es bitterer Ernst. Die wimmligen und doch so klaren Bildern zeigen, wie die winzigen Tiere umherirren, Tote und Verletzte wegschleppen, die Königin retten und schließlich alles wieder neu aufbauen. Eine große faszinierende Ameisenwelt, über die man nur staunen kann. Niemand vermag dies alles so poetisch in Worte zu fassen als Josef Guggenmos.'
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-75471-4
@@ -51,12 +52,13 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/ich-liebe-dich-wie-apfelmus-hardcover
-  quote: ""
   text: 'Gedichte schaffen Bilderwelten! Lust auf Lyrik zu machen, mit Versen, Reimen und Gedichten Türen zu öffnen zur magischen Welt der Poesie - in dieser (short: Auswahl desc: Über 120 Gedichte & Texte! color: orange) lyrischer Texte, die Kinder und Erwachsene gleichermaßen begeistern werden, geben sich moderne Autoren wie Robert Gernhardt, Ernst Jandl, Paul Maar, Sarah Kirsch, Joachim Ringelnatz und Josef Guggenmos ein Stelldichein mit Christian Morgenstern, Rainer Maria Rilke oder Johann Wolfgang von Goethe.'
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-570-15974-3
@@ -78,12 +80,13 @@ Favorites:
   binding: Halbleinen
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo-hardcover
-  quote: ""
   text: 'Kurze Geschichten, die gute Laune machen und von den Eigenarten und Geheimnissen der Tiere erzählen: von der schwächlichen Tarantel, die sich fit hält mit der Hantel, dem weißen Hermelin auf seinem Weg nach Berlin, einem grauen Wolf mit dem neuesten Hobby Golf, über die junge Fliege ganz in Liebe mit der Ziege oder dem Reh im Gewitter und der Meldung auf Twitter ..'
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-446-26055-9
@@ -105,12 +108,13 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/dunkel-war-s-der-mond-schien-helle-hardcover
-  quote: ""
   text: 'Rund 200 Gedichte aus Volks- und Kindermund und von einer Vielzahl AutorInnen fügen sich zusammen zu einem Hausbuch der Poesie. Alte und neue, bekannte und unbekannte, lustige und nachdenkliche Verse, Reime und Gedichte öffnen die Tür zu der magischen Welt der Poesie. Für Kinder, die sie kennenlernen wollen, und für Erwachsene, die sie dabei an die Hand nehmen. Der Türöffner zur Bilderwelt der Sprache sind die Bilder von Rotraut Susanne Berner.'
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8369-4285-0
@@ -130,10 +134,12 @@ Favorites:
   binding: Halbleinen
 - 
   title: ""
-  person: Gedicht von Hugo Ramnek
   book:
     - >
       buecher/wo-kommen-die-worte-her-hardcover
+  text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
+  hasquote: 'true'
+  person: Gedicht von Hugo Ramnek
   quote: |
     Die Wörter! Die Wörter, wo kommen die Wörter denn her?
     Aus dem Wörtersee, aus dem Wörtermeer.
@@ -142,7 +148,6 @@ Favorites:
     Nimm sie zu dir nach Haus!
     Und was machen die Wörter dann bei mir?
     Die Wörter, sie spielen, sie spielen mit dir!
-  text: '"Sag, wo kommen die Worte her?" Diese Frage sandte Hans-Joachim Gelberg aus und rund 200 AutorInnen und IllustratorInnen antworteten ihm mit ihren Gedichten, Bildern und Bildworten - allesamt so unterschiedlich wie abwechslungsreich. Es sind Texte und Bilder aller Art: hintergründig, auch rätselhaft, komisch, kritisch oder einfach direkt. Ein Nachdenken über alles und jedes, mit Phantasie, Humor und Mut. Gespickt mit ausgewählten Texten aus dem großen deutschen Lyrik-Kanon, entstand so eine einzigartige Sammlung, die neue Maßstäbe setzt.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-407-79986-9
@@ -162,17 +167,18 @@ Favorites:
   binding: Halbleinen
 - 
   title: ""
-  person: Janina B.
   book:
     - >
       buecher/mal-deine-wuensche-in-den-himmel-hardcover
+  text: 'Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.'
+  hasquote: 'true'
+  person: Janina B.
   quote: >
     Mit Worten Gedichte schreiben und diese
     als Wünsche in den Himmel malen. –
     Ja, das ist möglich. Inspiration
     gibt’s in diesem Buch, und zwar zum
     Immer-wieder-Lesen.
-  text: 'Gedichte und Kunst quer durch alle Jahrhunderte: Moderne Lyrik sowie Klassiker der Weltliteratur von Joachim Ringelnatz, Heinrich Heine und Johann Wolfgang von Goethe stehen bekannten Werken von Albrecht Dürer, Pablo Picasso, Gabriele Münter und vielen anderen Künstlern gegenüber. Paar für Paar werden Themen wie Freundschaft, Glück und Familie aufgegriffen. Sie wecken die Freude am Klang der Sprache und eröffnen Bilderwelten. Das Buch ist eine einzigartige Einladung, Lyrik und Kunst kennen und lieben zu lernen.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7913-7103-0

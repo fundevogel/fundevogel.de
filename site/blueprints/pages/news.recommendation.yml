@@ -1,0 +1,56 @@
+title:
+  de: Bücher des Monats
+  en: Books of the month
+
+num: '{{ page.date.toDate("Ymd") }}'
+
+options: options/article
+
+tabs:
+  tab_content:
+    extends: tabs/content
+    fields:
+      text: false
+
+      favorites:
+        extends: fields/favorites
+        label:
+          de: Bücher des Monats
+          en: Books of the month
+        min: 3
+        fields:
+          hasQuote: false
+          person: false
+          quote: false
+
+    sidebar:
+      sidebar_fields:
+        fields:
+          date: fields/date
+
+          month:
+            label:
+              de: Monat
+              en: Month
+            type: select
+            required: true
+            width: 1/3
+            options:
+              - Januar
+              - Februar
+              - März
+              - April
+              - Mai
+              - Juni
+              - Juli
+              - August
+              - September
+              - Oktober
+              - November
+              - Dezember
+
+
+      sidebar_files: false
+
+  # Books
+  tab_books: tabs/books

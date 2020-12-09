@@ -19,10 +19,8 @@ Favorites:
 
 - 
   title: ""
-  person: ""
   book:
     - buecher/das-kleine-gespenst-hardcover
-  quote: ""
   text: >
     Jede Nacht pünktlich zur Geisterstunde
     erwacht das kleine Gespenst. Vergnügt
@@ -40,6 +38,9 @@ Favorites:
     Tagesgespenst, das in der Stadt für
     jede Menge Unheil und Verwirrung sorgt
     ..
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-522-11080-8
@@ -61,14 +62,15 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Rüdiger B.
   book:
     - >
       buecher/latte-igel-und-der-wasserstein-hardcover
+  text: 'Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.'
+  hasquote: 'true'
+  person: Rüdiger B.
   quote: >
     Unsere Klassenlehrerin hat daraus immer
     vorgelesen. Faszination Magie.
-  text: 'Spannendes Tierabenteuer und liebevolle Freundschaftsgeschichte. Der Klassiker für Mädchen und Jungen ab 6 Jahren.Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald. Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.'
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-522-18051-1
@@ -88,11 +90,9 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/das-grosse-buch-vom-kleinen-kapitaen-hardcover
-  quote: ""
   text: >
     Der kleine Kapitän und seine Freunde
     Martinka, Tonne und Heini Hasenfuß
@@ -109,6 +109,9 @@ Favorites:
     dressierter Zirkustiere, verkuppeln
     einen König und bestehen viele
     Mutproben.
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8251-7800-0
@@ -128,15 +131,9 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Frieda T.
   book:
     - >
       buecher/ein-freund-wie-kein-anderer-hardcover
-  quote: >
-    Eine wunderbar lebendig erzählte
-    Geschichte, die Klein und Groß
-    begeistert und mitfiebern lässt. Toll
-    illustriert, mit viel Charme und Witz
   text: >
     Erdhörnchen Habbi ist mit einem Wolf
     zusammengeprallt, dem größten Feind
@@ -149,6 +146,13 @@ Favorites:
     nach freunden die beiden sich an. Bis
     ihre Freundschaft auf eine harte Probe
     gestellt wird ..
+  hasquote: 'true'
+  person: Frieda T.
+  quote: >
+    Eine wunderbar lebendig erzählte
+    Geschichte, die Klein und Groß
+    begeistert und mitfiebern lässt. Toll
+    illustriert, mit viel Charme und Witz
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-522-18457-1
@@ -168,9 +172,11 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Sandra H.
   book:
     - buecher/immer-dieser-michel-hardcover
+  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
+  hasquote: 'true'
+  person: Sandra H.
   quote: >
     Astrid Lindgrens Geschichten über den
     den kleinen, liebenswerten Lausejungen
@@ -178,7 +184,6 @@ Favorites:
     in Südschwedens Småland gehört zu den
     wundervollsten Schätzen der
     Kinderliteratur!
-  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7891-2946-9
@@ -197,11 +202,9 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: ""
   book:
     - >
       buecher/der-kleine-drache-kokosnuss-hardcover
-  quote: ""
   text: >
     Kokosnuss ist ein mutiger und vor allem
     neugieriger kleiner Feuerdrache, der mit
@@ -218,6 +221,9 @@ Favorites:
     der Sommerinsel kommt, ist nur eines der
     aufregenden Abenteuer, die er und seine
     Freunde erleben ..
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3570175668

@@ -1,0 +1,135 @@
+Title: Wolkenschloss
+
+----
+
+Isbn: 978-3-596-70128-5
+
+----
+
+Subtitle: Roman
+
+----
+
+Type: Taschenbuch
+
+----
+
+Author: Kerstin Gier
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: FISCHER Taschenbuch
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 464
+
+----
+
+Price: 12,00
+
+----
+
+Topics: Abenteuer, Romane/Erzählungen, Fantasy, Freundschaft, Liebesromane / Liebeserzählungen, Schweiz
+
+----
+
+Description: Ein magischer Ort in den Wolken. Eine Heldin, die ein bisschen zu neugierig ist. Und das Abenteuer ihres Lebens. Der neue Roman von Bestsellerautorin Kerstin Gier. Hoch oben in den Schweizer Bergen liegt das Wolkenschloss, ein altehrwürdiges Grandhotel, das seine Glanzzeiten längst hinter sich hat. Aber wenn zum Jahreswechsel der berühmte Silvesterball stattfindet und Gäste aus aller Welt anreisen, knistert es unter den prächtigen Kronleuchtern und in den weitläufigen Fluren nur so vor Aufregung. Die siebzehnjährige Fanny hat wie der Rest des Personals alle Hände voll zu tun, den Gästen einen luxuriösen Aufenthalt zu bereiten, aber es entgeht ihr nicht, dass viele hier nicht das sind, was sie vorgeben zu sein. Welche geheimen Pläne werden hinter bestickten Samtvorhängen geschmiedet? Ist die russische Oligarchengattin wirklich im Besitz des legendären Nadjeschda-Diamanten? Und warum klettert der gutaussehende Tristan lieber die Fassade hoch, als die Treppe zu nehmen? Schon bald steckt Fanny mittendrin in einem lebensgefährlichen Abenteuer, bei dem sie nicht nur ihren Job zu verlieren droht, sondern auch ihr Herz.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002493621/63715/10002/-3/Buecher_Romane/Kerstin-Gier/Wolkenschloss
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- wolkenschloss_kerstin-gier.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Fischer Taschenbücher
+
+----
+
+Volume: 70128
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
