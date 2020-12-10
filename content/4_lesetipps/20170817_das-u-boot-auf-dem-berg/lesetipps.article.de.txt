@@ -6,11 +6,22 @@ Text: Als der schüchterne Mauritius Besuch von seinem Onkel bekommt, fängt sei
 
 ----
 
-Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
+Entries:
+
+-
+  book:
+    - >
+      buecher/das-u-boot-auf-dem-berg-hardcover
+  text: >
+    Eine witzige und berührende Geschichte
+    über einen wahnsinnigen Onkel, der
+    eigentlich eine psychische Krankheit
+    hat.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,13 +38,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/das-u-boot-auf-dem-berg-hardcover
 
 ----
 

@@ -10,11 +10,21 @@ Auch sonst scheinen alle vergessen zu haben, dass es den Wald und die Natur noch
 
 ----
 
-Verdict: Eine berührende Geschichte, die von den zauberhaften Illustrationen von Hannah Jung lebt und uns die Kostbarkeit und Vielfältigkeit der Natur bewusst macht.
+Entries:
+
+-
+  book:
+    - buecher/nemi-und-der-hehmann-hardcover
+  text: >
+    Eine berührende Geschichte, die von den
+    zauberhaften Illustrationen von Hannah
+    Jung lebt und uns die Kostbarkeit und
+    Vielfältigkeit der Natur bewusst macht.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +41,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/nemi-und-der-hehmann-hardcover
 
 ----
 

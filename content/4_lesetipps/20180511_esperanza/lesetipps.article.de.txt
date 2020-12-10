@@ -6,11 +6,20 @@ Text: Halidon ist Akrobat. Tagsüber jongliert er auf seinem Einrad in der Stadt
 
 ----
 
-Verdict: Eine warmherzige Geschichte über eine besondere Freundschaft – poetisch erzählt, spannend geschrieben.
+Entries:
+
+-
+  book:
+    - buecher/esperanza-hardcover
+  text: >
+    Eine warmherzige Geschichte über eine
+    besondere Freundschaft – poetisch
+    erzählt, spannend geschrieben.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,12 +36,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/esperanza-hardcover
 
 ----
 

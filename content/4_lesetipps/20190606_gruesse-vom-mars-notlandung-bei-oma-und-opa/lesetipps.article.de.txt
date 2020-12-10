@@ -10,11 +10,23 @@ Dafür gibt es aber ein geheimnisvolles Monster im Garten und einen Dachboden, v
 
 ----
 
-Verdict: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinder ab 8 Jahren, in dem es auch darum geht, dass man als Team schwierige Abenteuer gemeinsam meistern kann.
+Entries:
+
+-
+  book:
+    - >
+      buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
+  text: >
+    Das und noch viel mehr erfährst Du in
+    diesem lustigen Roman für Kinder ab 8
+    Jahren, in dem es auch darum geht, dass
+    man als Team schwierige Abenteuer
+    gemeinsam meistern kann.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,13 +43,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
 
 ----
 

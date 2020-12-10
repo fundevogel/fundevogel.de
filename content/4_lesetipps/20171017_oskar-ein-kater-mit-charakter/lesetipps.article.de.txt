@@ -6,11 +6,22 @@ Text: Oskar ist nicht nur einfach ein Kater, nein, er ist ein Kater mit Charakte
 
 ----
 
-Verdict: Diese turbulente Katzengeschichte (in der übrigens auch Hunde vorkommen!) ist ein echtes Lesevergnügen für alle jungen Leser ab 8 Jahren.
+Entries:
+
+-
+  book:
+    - >
+      buecher/oskar-ein-kater-mit-charakter-hardcover
+  text: >
+    Diese turbulente Katzengeschichte (in
+    der übrigens auch Hunde vorkommen!) ist
+    ein echtes Lesevergnügen für alle
+    jungen Leser ab 8 Jahren.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,13 +38,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/oskar-ein-kater-mit-charakter-hardcover
 
 ----
 

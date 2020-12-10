@@ -10,7 +10,13 @@ Kleine Hummeln und andere zum Teil fantasiehafte Gestalten bevölkern die Bildse
 
 ----
 
-Verdict: Das Buch "Auf der Hummelwiese" hat heimische Wald- und Wiesenblumen zum Inhalt. Gleichzeitig kann es aber auch als Herbarium genutzt werden und erfüllt somit das Bedürfnis nach Selbstgestaltung des Buches.
+Entries:
+
+-
+  book:
+    - buecher/auf-der-hummelwiese-hardcover
+  text: 'Das Buch "Auf der Hummelwiese" hat heimische Wald- und Wiesenblumen zum Inhalt. Gleichzeitig kann es aber auch als Herbarium genutzt werden und erfüllt somit das Bedürfnis nach Selbstgestaltung des Buches.'
+  title: ""
 
 ----
 
@@ -38,14 +44,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/auf-der-hummelwiese-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

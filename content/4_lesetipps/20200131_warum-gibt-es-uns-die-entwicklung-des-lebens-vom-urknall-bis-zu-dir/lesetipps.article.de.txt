@@ -6,11 +6,24 @@ Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor die
 
 ----
 
-Verdict: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
+Entries:
+
+-
+  book:
+    - buecher/warum-gibt-es-uns-hardcover
+  text: >
+    Da muss dann schon einmal eine
+    Sahnetorte herhalten, um die Schwerkraft
+    zu veranschaulichen. Diese
+    Anschaulichkeit wird unterstützt durch
+    sehr ansprechende farbige Bebilderung,
+    die dies herausragende Sachbuch
+    abrundet.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,12 +40,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/warum-gibt-es-uns-hardcover
 
 ----
 

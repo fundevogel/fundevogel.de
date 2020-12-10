@@ -12,11 +12,19 @@ Jelly ist fassungslos, denn genau wie ihre Mama, ihr Papa, ihre Oma und überhau
 
 ----
 
-Verdict: Eine herrlich witzige und schokoladige Geschichte für junge Leser ab 9 Jahren.
+Entries:
+
+-
+  book:
+    - buecher/schokopokalypse-hardcover
+  text: >
+    Eine herrlich witzige und schokoladige
+    Geschichte für junge Leser ab 9 Jahren.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -33,12 +41,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/schokopokalypse-hardcover
 
 ----
 

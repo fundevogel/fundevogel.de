@@ -6,11 +6,18 @@ Text: Ein Buch über einen Ort, den man nicht wirklich kennt. Eigentlich sind es
 
 ----
 
-Verdict: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.
+Entries:
+
+-
+  book:
+    - >
+      buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover
+  text: 'Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.'
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,13 +34,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover
 
 ----
 

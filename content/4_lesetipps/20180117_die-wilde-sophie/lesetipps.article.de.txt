@@ -10,11 +10,17 @@ Umgeben von einem Heer von Aufpassern, Nebenhergehern, Kleiderwärmern und Insek
 
 ----
 
-Verdict: Eine überaus spannende Geschichte, die im Heißluftballon endet, wie euch das Cover des Buches  zeigt. Für Kinder ab 9 Jahren.
+Entries:
+
+-
+  book:
+    - buecher/die-wilde-sophie-hardcover
+  text: 'Eine überaus spannende Geschichte, die im Heißluftballon endet, wie euch das Cover des Buches  zeigt. Für Kinder ab 9 Jahren.'
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +37,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/die-wilde-sophie-hardcover
 
 ----
 

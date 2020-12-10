@@ -11,7 +11,24 @@ Die Lösung liegt scheinbar auf der Hand. Wenn sich Mira endlich verliebt, wird 
 
 ----
 
-Verdict: Es ist kompliziert. Mira möchte gerne ebenso cool wie die Neue aus der Klasse sein. Leider war Mira noch nie verliebt und das gehört zum Coolsein definitiv dazu. Ob sich ihr bester Freund dafür eignet, mit dem sie hervorragend, aber leider viel zu kindisch spielen kann? Ein turbulenter und witziger Comic über ein Mädchen an der Schwelle zum Teenageralter.
+Entries:
+
+-
+  book:
+    - >
+      buecher/mira-freunde-verliebt-einjahrmeineslebens-hardcover
+  text: >
+    Es ist kompliziert. Mira möchte gerne
+    ebenso cool wie die Neue aus der Klasse
+    sein. Leider war Mira noch nie verliebt
+    und das gehört zum Coolsein definitiv
+    dazu. Ob sich ihr bester Freund dafür
+    eignet, mit dem sie hervorragend, aber
+    leider viel zu kindisch spielen kann?
+    Ein turbulenter und witziger Comic über
+    ein Mädchen an der Schwelle zum
+    Teenageralter.
+  title: ""
 
 ----
 
@@ -39,15 +56,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/mira-freunde-verliebt-einjahrmeineslebens-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

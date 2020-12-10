@@ -12,7 +12,20 @@ Als Erna nach dem Lerngruppenrat bereits verzweifelt ist, bekommt sie Unterstüt
 
 ----
 
-Verdict: Sich mit drei Wahrheiten, deiner, meiner und „der Wahrheit“ zurechtzufinden und trotzdem seine Identität nicht zu verlieren, ist eine große Kunst. Dies gelingt Erna mit viel Anstrengung und Aufrichtigkeit.
+Entries:
+
+-
+  book:
+    - >
+      buecher/erna-und-die-drei-wahrheiten-hardcover
+  text: >
+    Sich mit drei Wahrheiten, deiner, meiner
+    und „der Wahrheit“ zurechtzufinden
+    und trotzdem seine Identität nicht zu
+    verlieren, ist eine große Kunst. Dies
+    gelingt Erna mit viel Anstrengung und
+    Aufrichtigkeit.
+  title: ""
 
 ----
 
@@ -40,15 +53,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/erna-und-die-drei-wahrheiten-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

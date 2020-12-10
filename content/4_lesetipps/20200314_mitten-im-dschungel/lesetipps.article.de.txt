@@ -10,11 +10,17 @@ Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut un
 
 ----
 
-Verdict: 
+Entries:
+
+-
+  book:
+    - buecher/mitten-im-dschungel-hardcover
+  text: ""
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +37,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/mitten-im-dschungel-hardcover
 
 ----
 

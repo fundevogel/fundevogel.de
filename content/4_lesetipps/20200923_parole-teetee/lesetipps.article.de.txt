@@ -10,11 +10,22 @@ Mit ihrem Verschwinden läuft es im ganzen Viertel nicht rund: Es ist, als hätt
 
 ----
 
-Verdict: "Parole Teetee" ist eine ehrliche, vielseitige Geschichte über Freundschaft, Gerechtigkeit und den Zusammenhalt, der eine Nachbarschaft lebendig macht.
+Entries:
+
+-
+  book:
+    - buecher/parole-teetee-hardcover
+  text: >
+    "Parole Teetee" ist eine ehrliche,
+    vielseitige Geschichte über
+    Freundschaft, Gerechtigkeit und den
+    Zusammenhalt, der eine Nachbarschaft
+    lebendig macht.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +42,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/parole-teetee-hardcover
 
 ----
 

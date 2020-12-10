@@ -10,7 +10,26 @@ Die Bilder sind wuchtig. Viele nutzen die runde Form des Mondes, um mit Kraft un
 
 ----
 
-Verdict: Schon immer verwandeln sich – so die Geschichte im Buch – junge Frauen zu bestimmten Mondzeiten in sogenannte Werwölfe. Das Mädchen im Buch, das keinen Namen erhält, gehört dazu. Sie will sich diesem Schicksal entgegenstellen. Die Eltern bestellen die Dorfheilerin, die einen Rat weiß. Ein Umhang, ein Feuerstein, eine Schleuder und viel Vertrauen führen das Mädchen in einen Wettlauf mit der Verwandlung des Mondes, die mit ihrer eigenen Verwandlung einhergeht.
+Entries:
+
+-
+  book:
+    - buecher/die-mondwandlerin-hardcover
+  text: >
+    Schon immer verwandeln sich – so die
+    Geschichte im Buch – junge Frauen zu
+    bestimmten Mondzeiten in sogenannte
+    Werwölfe. Das Mädchen im Buch, das
+    keinen Namen erhält, gehört dazu. Sie
+    will sich diesem Schicksal
+    entgegenstellen. Die Eltern bestellen
+    die Dorfheilerin, die einen Rat weiß.
+    Ein Umhang, ein Feuerstein, eine
+    Schleuder und viel Vertrauen führen das
+    Mädchen in einen Wettlauf mit der
+    Verwandlung des Mondes, die mit ihrer
+    eigenen Verwandlung einhergeht.
+  title: ""
 
 ----
 
@@ -38,14 +57,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-mondwandlerin-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

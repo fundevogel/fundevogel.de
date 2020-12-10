@@ -10,7 +10,23 @@ Während Hannah forscht und fragt, macht sich die kleine Familie daheim zunehmen
 
 ----
 
-Verdict: Die 10-jährige Hannah stellt gerne Fragen, besonders dann, wenn sie merkt, dass andere diesen ausweichen. Seit sie eine tote Katze gesehen hat, fragt sie sich, was es bedeutet, wenn jemand tot ist und erhält unterschiedliche, nicht immer befriedigende Antworten. Als "Nachfragerin" geht sie der Sache auf den Grund.
+Entries:
+
+-
+  book:
+    - >
+      buecher/hannah-lueftet-friedhofsgeheimnisse-hardcover
+  text: >
+    Die 10-jährige Hannah stellt gerne
+    Fragen, besonders dann, wenn sie merkt,
+    dass andere diesen ausweichen. Seit sie
+    eine tote Katze gesehen hat, fragt sie
+    sich, was es bedeutet, wenn jemand tot
+    ist und erhält unterschiedliche, nicht
+    immer befriedigende Antworten. Als
+    "Nachfragerin" geht sie der Sache auf
+    den Grund.
+  title: ""
 
 ----
 
@@ -38,15 +54,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/hannah-lueftet-friedhofsgeheimnisse-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

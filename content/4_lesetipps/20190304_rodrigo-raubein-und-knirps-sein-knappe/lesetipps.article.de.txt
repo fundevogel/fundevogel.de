@@ -10,11 +10,21 @@ Unterwegs treffen wir auf eine entführte Prinzessin, einen schlechtgelaunten Dr
 
 ----
 
-Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt!
+Entries:
+
+-
+  book:
+    - >
+      buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
+  text: >
+    Aber lest selbst und macht euch auf den
+    Weg in ein spannendes Abenteuer, bei dem
+    es garantiert etwas zu lachen gibt!
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,13 +41,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
 
 ----
 

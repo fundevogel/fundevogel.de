@@ -9,11 +9,24 @@ Text:
 
 ----
 
-Verdict: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunden nichts anderes mehr getan, als darin zu lesen. Man kann es auch sehr gut mehrmals lesen, ohne die Lust zu verlieren!
+Entries:
+
+-
+  book:
+    - >
+      buecher/woodwalkers-tag-der-rache-hardcover
+  text: >
+    Als ich "Woodwalkers" bekommen habe,
+    habe ich die nächsten vier Stunden
+    nichts anderes mehr getan, als darin zu
+    lesen. Man kann es auch sehr gut
+    mehrmals lesen, ohne die Lust zu
+    verlieren!
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -30,13 +43,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/woodwalkers-tag-der-rache-hardcover
 
 ----
 

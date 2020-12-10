@@ -14,7 +14,22 @@ Doch. Denn auf der anderen Seite begrüßen sich zwei Personen auf der linken Se
 
 ----
 
-Verdict: Genaues Schauen ist gefragt, Strukturen bilden. Eins von vielen passt nicht zu den anderen, aber die anderen fordern ebenfalls viel Aufmerksamkeit. Erwachsene »Vorleser« (es gibt keinen Text) müssen sich ebenfalls anstrengen, bis sie den Aufbau der Bildfolge verstehen. Am Schluss gibt es noch eine zusätzliche Aufgabe.
+Entries:
+
+-
+  book:
+    - buecher/passt-nicht-hardcover
+  text: >
+    Genaues Schauen ist gefragt, Strukturen
+    bilden. Eins von vielen passt nicht zu
+    den anderen, aber die anderen fordern
+    ebenfalls viel Aufmerksamkeit.
+    Erwachsene »Vorleser« (es gibt keinen
+    Text) müssen sich ebenfalls anstrengen,
+    bis sie den Aufbau der Bildfolge
+    verstehen. Am Schluss gibt es noch eine
+    zusätzliche Aufgabe.
+  title: ""
 
 ----
 
@@ -44,14 +59,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/passt-nicht-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

@@ -10,7 +10,13 @@ Denn schon ihr Empfang jenseits der Grenze lässt nichts Gutes erahnen. Die Flü
 
 ----
 
-Verdict: "*Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugendbuch zutiefst. Mit einem individuellen Schicksal macht es auf zentrale und skandalöse gesellschaftliche Missstände aufmerksam, die strukturelle Ursachen haben und dringend gelöst werden müssen*" - Mario Zehe, Sprecher der Jury, über den Preisträger des Heinrich-Wolgast-Preises der GEW 2017, Martin Petersens Jugendbuch "Exit Sugartown".
+Entries:
+
+-
+  book:
+    - buecher/exit-sugartown-hardcover
+  text: '"*Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugendbuch zutiefst. Mit einem individuellen Schicksal macht es auf zentrale und skandalöse gesellschaftliche Missstände aufmerksam, die strukturelle Ursachen haben und dringend gelöst werden müssen*" - Mario Zehe, Sprecher der Jury, über den Preisträger des Heinrich-Wolgast-Preises der GEW 2017, Martin Petersens Jugendbuch "Exit Sugartown".'
+  title: ""
 
 ----
 
@@ -34,14 +40,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/exit-sugartown-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

@@ -17,7 +17,23 @@ Schließlich gibt es noch ein Register mit der Einteilung der im Buch behandelte
 
 ----
 
-Verdict: Wer sind die klügsten Affen, wer brüllt am lautesten, wer ist am schnellsten und welcher hat den längsten Schwanz? Das alles und noch vieles mehr erfährt der wissbegierige Leser in diesem Buch. Mit lustigen und wissenswerten Informationen entführt uns der Autor Owen Davey ins Reich der Affen, das zusätzlich mit modernen Illustrationen ausgestattet ist.
+Entries:
+
+-
+  book:
+    - buecher/die-affenbande-hardcover
+  text: >
+    Wer sind die klügsten Affen, wer
+    brüllt am lautesten, wer ist am
+    schnellsten und welcher hat den
+    längsten Schwanz? Das alles und noch
+    vieles mehr erfährt der wissbegierige
+    Leser in diesem Buch. Mit lustigen und
+    wissenswerten Informationen entführt
+    uns der Autor Owen Davey ins Reich der
+    Affen, das zusätzlich mit modernen
+    Illustrationen ausgestattet ist.
+  title: ""
 
 ----
 
@@ -47,14 +63,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-affenbande-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

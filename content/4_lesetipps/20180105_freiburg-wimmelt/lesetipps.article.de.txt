@@ -6,11 +6,22 @@ Text: Freiburg – Deine Stadt erkunden, Bekanntes wieder entdecken und doch auf
 
 ----
 
-Verdict: All das und noch viel mehr lässt sich auf den prall gefüllten Seiten finden. Ein Buch nicht nur für Bobbele, sondern eine Stadterkundung der besonderen Art für jedes Alter.
+Entries:
+
+-
+  book:
+    - buecher/freiburg-wimmelt-hardcover
+  text: >
+    All das und noch viel mehr lässt sich
+    auf den prall gefüllten Seiten finden.
+    Ein Buch nicht nur für Bobbele, sondern
+    eine Stadterkundung der besonderen Art
+    für jedes Alter.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,12 +38,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/freiburg-wimmelt-hardcover
 
 ----
 

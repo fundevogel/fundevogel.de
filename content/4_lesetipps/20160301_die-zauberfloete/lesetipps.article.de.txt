@@ -10,7 +10,20 @@ Die Rahmenhandlung dient dazu, bei Kindern erstes geschichtliches Verständnis z
 
 ----
 
-Verdict: Die kleine Sofia, genannt Soferl, entführt uns in das Wien des 18. Jahrhunderts. Gemeinsam mit ihr erlebt der Leser die Uraufführung von Mozarts Zauberflöte mit den musikalischen Höhepunkten der Oper auf einer beigefügten CD.
+Entries:
+
+-
+  book:
+    - buecher/die-zauberfloete-hardcover
+  text: >
+    Die kleine Sofia, genannt Soferl,
+    entführt uns in das Wien des 18.
+    Jahrhunderts. Gemeinsam mit ihr erlebt
+    der Leser die Uraufführung von Mozarts
+    Zauberflöte mit den musikalischen
+    Höhepunkten der Oper auf einer
+    beigefügten CD.
+  title: ""
 
 ----
 
@@ -38,14 +51,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-zauberfloete-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

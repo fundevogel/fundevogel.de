@@ -10,7 +10,21 @@ Bereits das Cover des Bandes kündigt sowohl das zentrale Thema als auch den au�
 
 ----
 
-Verdict: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
+Entries:
+
+-
+  book:
+    - buecher/eine-schwester-hardcover
+  text: >
+    Der dreizehnjährige Antoine fährt wie
+    jedes Jahr mit seiner Familie zum
+    Strandurlaub in die Bretagne. Doch
+    dieses Mal hat eine Freundin der Mutter
+    ihre sechzehnjährige Tochter, Hélène,
+    mitgebracht. Sie führt Antoine in eine
+    ihm bisher verschlossene Gefühlswelt
+    ein.
+  title: ""
 
 ----
 
@@ -35,12 +49,6 @@ Conclusion-wanted: true
 ----
 
 Isaward: true
-
-----
-
-Books:
-
-- buecher/eine-schwester-hardcover
 
 ----
 

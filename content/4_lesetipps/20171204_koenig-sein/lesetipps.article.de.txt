@@ -11,7 +11,18 @@ Nach dem Zeigen der Macht kommt die Grausamkeit. Schon immer missfiel dem Löwen
 
 ----
 
-Verdict: Ein König ist ein König, weil er eine Krone hat. Könige können alles bestimmen, was seine Untergebenen zulassen. Sich gegen Gorillas zur Wehr zu setzen, fällt allerdings schwer.
+Entries:
+
+-
+  book:
+    - buecher/koenig-sein-hardcover
+  text: >
+    Ein König ist ein König, weil er eine
+    Krone hat. Könige können alles
+    bestimmen, was seine Untergebenen
+    zulassen. Sich gegen Gorillas zur Wehr
+    zu setzen, fällt allerdings schwer.
+  title: ""
 
 ----
 
@@ -41,14 +52,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/koenig-sein-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

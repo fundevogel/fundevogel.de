@@ -12,11 +12,29 @@ Hier lernt Mag Wildcat alles, was für das Überleben auf der Straße wichtig is
 
 ----
 
-Verdict: Wenn du packende Spannung und Rätselhaftes magst und Freundschaftsgeschichten, vielleicht ein bisschen New York kennen lernen willst und schon ein paar Brocken Englisch verstehst (oder einen Übersetzer hast), dann brauchst du nur noch einen Bandennamen – fällt dir schon einer ein? Übrigens kann es passieren, dass du den Autor auf Freiburgs Pflaster entdeckst. Das ist dann kein Trugbild!
+Entries:
+
+-
+  book:
+    - >
+      buecher/maggie-und-die-stadt-der-diebe-hardcover
+  text: >
+    Wenn du packende Spannung und
+    Rätselhaftes magst und
+    Freundschaftsgeschichten, vielleicht ein
+    bisschen New York kennen lernen willst
+    und schon ein paar Brocken Englisch
+    verstehst (oder einen Übersetzer hast),
+    dann brauchst du nur noch einen
+    Bandennamen – fällt dir schon einer
+    ein? Übrigens kann es passieren, dass
+    du den Autor auf Freiburgs Pflaster
+    entdeckst. Das ist dann kein Trugbild!
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -33,13 +51,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/maggie-und-die-stadt-der-diebe-hardcover
 
 ----
 

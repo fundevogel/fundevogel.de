@@ -10,7 +10,19 @@ Die Autorin hat sich ganz unterschiedlicher fachlicher Quellen bedient, um diese
 
 ----
 
-Verdict: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
+Entries:
+
+-
+  book:
+    - >
+      buecher/hartgekochte-fakten-ueber-eier-hardcover
+  text: >
+    Das Buch ist ein Sammelsurium gespickt
+    mit Fakten rund ums Ei. Neben
+    wissenschaftlichen Fakten haben auch
+    Redewendungen, Bastelideen und Rezepte
+    Platz im Buch gefunden.
+  title: ""
 
 ----
 
@@ -37,13 +49,6 @@ Conclusion-wanted: true
 ----
 
 Isaward: true
-
-----
-
-Books:
-
-- >
-  buecher/hartgekochte-fakten-ueber-eier-hardcover
 
 ----
 

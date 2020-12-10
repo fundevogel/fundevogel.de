@@ -12,7 +12,19 @@ Bei diesem Buch darf man vom Inhalt eigentlich nichts vorwegnehmen, denn die Aut
 
 ----
 
-Verdict: Katrin Zipse entwickelt in ihrem Roman ein beachtenswertes Psychogramm der Suche nach Wahrheit, Wahrhaftigkeit und dem eigenen Selbstverständnis. Ein echtes Leseerlebnis.
+Entries:
+
+-
+  book:
+    - >
+      buecher/die-quersumme-von-liebe-hardcover
+  text: >
+    Katrin Zipse entwickelt in ihrem Roman
+    ein beachtenswertes Psychogramm der
+    Suche nach Wahrheit, Wahrhaftigkeit und
+    dem eigenen Selbstverständnis. Ein
+    echtes Leseerlebnis.
+  title: ""
 
 ----
 
@@ -45,15 +57,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/die-quersumme-von-liebe-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

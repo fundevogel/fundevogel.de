@@ -15,11 +15,20 @@ tabs:
         label: Text
         type: markdown
 
-      verdict:
+      entries:
+        extends: fields/books
         label:
-          de: Einschätzung
-          en: Verdict
-        type: markdown
+          de: Buch / Bücher
+          en: Book(s)
+        fields:
+          title: false
+          book:
+            width: 1/1
+          text:
+            label:
+              de: Einschätzung
+              en: Verdict
+            help: false
 
       conclusion:
         label:
@@ -58,10 +67,6 @@ tabs:
               en:
                 - FV
                 - External
-
-          books:
-            extends: fields/book
-            multiple: true
 
       sidebar_files: false
 

@@ -10,11 +10,24 @@ Und wer isst den Fisch?
 
 ----
 
-Verdict: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
+Entries:
+
+-
+  book:
+    - buecher/klimahelden-hardcover
+  text: >
+    Wie du dich der Umwelt zuliebe verhalten
+    kannst und schonender mit ihr umgehst,
+    kannst du an vielen Beispielen in diesem
+    Buch lesen. Wir haben alle eine große
+    Verantwortung und sollten die auch
+    wahrnehmen. Lasst uns damit gemeinsam
+    anfangen!
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +44,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/klimahelden-hardcover
 
 ----
 

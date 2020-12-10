@@ -6,7 +6,16 @@ Text: Carlo ist 11 und auf dem Weg nach Palermo. Das ist ziemlich weit weg und l
 
 ----
 
-Verdict: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
+Entries:
+
+-
+  book:
+    - >
+      buecher/keiner-haelt-don-carlo-auf-hardcover
+  text: >
+    Ein abenteuerliches und sehr
+    unterhaltsames Buch für Kinder ab 8.
+  title: ""
 
 ----
 
@@ -27,13 +36,6 @@ Conclusion-wanted: true
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/keiner-haelt-don-carlo-auf-hardcover
 
 ----
 

@@ -6,11 +6,18 @@ Text: Mit diesem Buch wirst Du zum Helden deines Alltags. Hier findest du 101 Id
 
 ----
 
-Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.
+Entries:
+
+-
+  book:
+    - >
+      buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
+  text: 'Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.'
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,13 +34,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- >
-  buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
 
 ----
 

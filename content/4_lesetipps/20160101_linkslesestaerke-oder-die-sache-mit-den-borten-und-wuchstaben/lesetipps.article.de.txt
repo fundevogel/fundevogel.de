@@ -14,7 +14,14 @@ Stück für Stück verschärft Janotta für Mira im Plot die Situation, bis am E
 
 ----
 
-Verdict: 
+Entries:
+
+-
+  book:
+    - >
+      buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover
+  text: ""
+  title: ""
 
 ----
 
@@ -48,15 +55,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

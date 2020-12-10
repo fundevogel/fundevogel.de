@@ -11,7 +11,22 @@ Es handelt sich um niedliche graue Monster mit vage humanoiden, jedoch vereinfac
 
 ----
 
-Verdict: Dieses Bilderbuch erzählt eine fantastische Geschichte ganz ohne Worte. Passend zum Jubiläumsjahr "Fünfzig Jahre Mondlandung" wird ein hypothetisches Zukunftsszenario entworfen, das einen schulischen "Ausflug zum Mond" für Kinder thematisiert; mit überraschendem Verlauf.
+Entries:
+
+-
+  book:
+    - buecher/ausflug-zum-mond-hardcover
+  text: >
+    Dieses Bilderbuch erzählt eine
+    fantastische Geschichte ganz ohne Worte.
+    Passend zum Jubiläumsjahr "Fünfzig
+    Jahre Mondlandung" wird ein
+    hypothetisches Zukunftsszenario
+    entworfen, das einen schulischen
+    "Ausflug zum Mond" für Kinder
+    thematisiert; mit überraschendem
+    Verlauf.
+  title: ""
 
 ----
 
@@ -42,14 +57,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/ausflug-zum-mond-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

@@ -10,7 +10,22 @@ Dadurch wird man auch in Osteuropa auf den kleinen Kanal aufmerksam und reagiert
 
 ----
 
-Verdict: In "Uncover" werden die Mechanismen von Fake News beschrieben und mit einer spannenden Geschichte verknüpft. Mit dem hochaktuellen Thema, dem Youtuber als Identifikationsfigur und dem internationalen Setting schafft Manfred Theisen einen brisanten Politthriller mit All-Age-Potenzial.
+Entries:
+
+-
+  book:
+    - >
+      buecher/uncover-die-trollfabrik-hardcover
+  text: >
+    In "Uncover" werden die Mechanismen von
+    Fake News beschrieben und mit einer
+    spannenden Geschichte verknüpft. Mit
+    dem hochaktuellen Thema, dem Youtuber
+    als Identifikationsfigur und dem
+    internationalen Setting schafft Manfred
+    Theisen einen brisanten Politthriller
+    mit All-Age-Potenzial.
+  title: ""
 
 ----
 
@@ -40,15 +55,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/uncover-die-trollfabrik-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

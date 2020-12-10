@@ -10,7 +10,23 @@ Der Biologe und Umweltschützer Martin Jenkins hat einen ganz besonderen Atlas b
 
 ----
 
-Verdict: Das Buch der seltenen Tiere wartet mit einem besonderen Konzept auf, denn die Tiere werden als großformatige Briefmarken präsentiert. Neben den beeindruckenden Tierdarstellungen gibt es zahlreiche gut recherchierte Sachinformationen über Besonderheiten, das Verbreitungsgebiet, den Bestand der bedrohten Arten und warum diese bedroht sind.
+Entries:
+
+-
+  book:
+    - buecher/seltene-tiere-hardcover
+  text: >
+    Das Buch der seltenen Tiere wartet mit
+    einem besonderen Konzept auf, denn die
+    Tiere werden als großformatige
+    Briefmarken präsentiert. Neben den
+    beeindruckenden Tierdarstellungen gibt
+    es zahlreiche gut recherchierte
+    Sachinformationen über Besonderheiten,
+    das Verbreitungsgebiet, den Bestand der
+    bedrohten Arten und warum diese bedroht
+    sind.
+  title: ""
 
 ----
 
@@ -39,14 +55,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/seltene-tiere-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

@@ -1,4 +1,3 @@
-
 <div class="flex flex-col justify-center">
     <?php if ($article->books()->isNotEmpty()) : ?>
         <aside class="wave">

@@ -6,11 +6,19 @@ Text: Zuerst bekommst du die unterschiedlichsten Personen der aufregenden Geschi
 
 ----
 
-Verdict: Ein spannender Comic-Krimi aus der Schule!
+Entries:
+
+-
+  book:
+    - buecher/sherlock-co-hardcover
+  text: >
+    Ein spannender Comic-Krimi aus der
+    Schule!
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -27,12 +35,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/sherlock-co-hardcover
 
 ----
 

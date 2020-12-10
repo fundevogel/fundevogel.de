@@ -12,7 +12,25 @@ Wenn der eitle Kater nur vorher gewusst hätte, was ihm aufgrund dieser Entschei
 
 ----
 
-Verdict: Für den bildhübschen, etwas eitlen Kater Aristoteles ist die Welt in Ordnung, solange er der Mittelpunkt der Familie ist. Zufällig bekommt er mit, dass sich Anna einen Hund wünscht. Aristoteles ist zutiefst gekränkt und läuft davon. Wenn er nur früher gewusst hätte, was da auf ihn zukommt! Aus der Sicht des Katers erfahren wir von seinem Straßenleben – humorvoll, unterhaltsam und emotional.
+Entries:
+
+-
+  book:
+    - >
+      buecher/wer-fragt-schon-einen-kater-hardcover
+  text: >
+    Für den bildhübschen, etwas eitlen
+    Kater Aristoteles ist die Welt in
+    Ordnung, solange er der Mittelpunkt der
+    Familie ist. Zufällig bekommt er mit,
+    dass sich Anna einen Hund wünscht.
+    Aristoteles ist zutiefst gekränkt und
+    läuft davon. Wenn er nur früher
+    gewusst hätte, was da auf ihn zukommt!
+    Aus der Sicht des Katers erfahren wir
+    von seinem Straßenleben – humorvoll,
+    unterhaltsam und emotional.
+  title: ""
 
 ----
 
@@ -40,15 +58,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/wer-fragt-schon-einen-kater-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

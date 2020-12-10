@@ -14,7 +14,23 @@ Alles erhält nun eine andere Dynamik, als Alex sich in Jonny verliebt, Paul meh
 
 ----
 
-Verdict: "Ich sehne mich nach Zahnpastageschmack, ich sehne mich nach Tagen, an denen ich keine Angst hatte vor Antworten auf Fragen, die ich nun nicht zu stellen wage." Sätze wie dieser sind es, die "Mehr Schwarz als Lila" von Lena Gorelik zu einem beeindruckenden Roman über Freundschaft, Liebe, Erinnerung und den einen Moment machen, in dem alles aufs Spiel gesetzt wird.
+Entries:
+
+-
+  book:
+    - buecher/mehr-schwarz-als-lila-hardcover
+  text: >
+    "Ich sehne mich nach Zahnpastageschmack,
+    ich sehne mich nach Tagen, an denen ich
+    keine Angst hatte vor Antworten auf
+    Fragen, die ich nun nicht zu stellen
+    wage." Sätze wie dieser sind es, die
+    "Mehr Schwarz als Lila" von Lena Gorelik
+    zu einem beeindruckenden Roman über
+    Freundschaft, Liebe, Erinnerung und den
+    einen Moment machen, in dem alles aufs
+    Spiel gesetzt wird.
+  title: ""
 
 ----
 
@@ -42,14 +58,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/mehr-schwarz-als-lila-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:

@@ -10,11 +10,28 @@ Alvar hat die verrücktesten Ideen. Wenn er nicht gerade die Schlappseuche hat, 
 
 ----
 
-Verdict: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen möchte und ins kühle Fjordwasser springen möchte. Mit lustigen Streichen, verrückten Ideen und ein bisschen Fußball. Eine Geschichte über Freundschaft, Eifersucht, Streit und darüber, dass es ganz schön viel Mut braucht um für etwas zu kämpfen, das einem wichtig ist – vor allem dann, wenn es um die weltbesten Freunde geht.
+Entries:
+
+-
+  book:
+    - buecher/kleeblattsommer-hardcover
+  text: >
+    Eine Sommergeschichte, bei der man am
+    liebsten selbst die Koffer packen
+    möchte und ins kühle Fjordwasser
+    springen möchte. Mit lustigen
+    Streichen, verrückten Ideen und ein
+    bisschen Fußball. Eine Geschichte über
+    Freundschaft, Eifersucht, Streit und
+    darüber, dass es ganz schön viel Mut
+    braucht um für etwas zu kämpfen, das
+    einem wichtig ist – vor allem dann,
+    wenn es um die weltbesten Freunde geht.
+  title: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -31,12 +48,6 @@ Conclusion-wanted: false
 ----
 
 Isaward: false
-
-----
-
-Books:
-
-- buecher/kleeblattsommer-hardcover
 
 ----
 

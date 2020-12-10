@@ -12,7 +12,28 @@ So kleben zunächst Bienen, Eichhorn, Würmer, Spatz usw. auf dem Apfelbaum fest
 
 ----
 
-Verdict: Kein Entstehen ohne Vergehen, kein Leben ohne Tod. Das ist schon mal klar. Physiker sprechen vom Energie-Erhaltungs-Gesetz. Wir aber versuchen dennoch, ihn zu überlisten, den Tod. Wir erfahren, dass es nicht "einen" Tod gibt, dass vielmehr jeder seinen eigenen hat, auch der Fuchs. Ihm gelingt es nun, seinen Tod auf dem Apfelbaum festzukleben, und nur er selbst kann ihn befreien. – Wie nur kann man derart beeindruckend und stimmig Gefühle zeichnen, Frau Schärer?
+Entries:
+
+-
+  book:
+    - >
+      buecher/der-tod-auf-dem-apfelbaum-hardcover
+  text: >
+    Kein Entstehen ohne Vergehen, kein Leben
+    ohne Tod. Das ist schon mal klar.
+    Physiker sprechen vom
+    Energie-Erhaltungs-Gesetz. Wir aber
+    versuchen dennoch, ihn zu überlisten,
+    den Tod. Wir erfahren, dass es nicht
+    "einen" Tod gibt, dass vielmehr jeder
+    seinen eigenen hat, auch der Fuchs. Ihm
+    gelingt es nun, seinen Tod auf dem
+    Apfelbaum festzukleben, und nur er
+    selbst kann ihn befreien. – Wie nur
+    kann man derart beeindruckend und
+    stimmig Gefühle zeichnen, Frau
+    Schärer?
+  title: ""
 
 ----
 
@@ -44,15 +65,8 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/der-tod-auf-dem-apfelbaum-hardcover
+Seotitle:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
+Seodescription:
