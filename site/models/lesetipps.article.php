@@ -4,22 +4,36 @@ use Biblys\Isbn\Isbn;
 
 class LesetippsArticlePage extends Page {
     public function getBookCover(string $classes = '') {
-        $book = $this->books()->toPages()->first();
+        $entries = $this->books()->toStructure();
 
-        return $book->getBookCover($classes);
+        foreach ($entries as $entry) {
+            return $entry->book()->toPages()->first()->getBookCover($classes);
+        }
     }
+
 
     public function hasAward() {
-        $book = $this->books()->toPages()->first();
+        $entries = $this->books()->toStructure();
 
-        return $book->hasAward()->bool();
+        # Award-winning books are reviewed individually
+        if (count($entries) > 1) {
+            return false;
+        }
+
+        foreach ($entries as $entry) {
+            return $entry->book()->toPages()->first()->hasAward()->bool();
+        }
     }
+
 
     public function getAward() {
-        $book = $this->books()->toPages()->first();
+        $entries = $this->books()->toStructure();
 
-        return $book->getAward();
+        foreach ($entries as $entry) {
+            return $entry->book()->toPages()->first()->getAward();
+        }
     }
+
 
     public static function create(array $props) {
         $isbn = new Isbn($props['content']['title']);
