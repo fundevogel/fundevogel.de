@@ -59,7 +59,9 @@ tabs:
                 - FV
                 - External
 
-          books: fields/books
+          books:
+            extends: fields/book
+            multiple: true
 
       sidebar_files: false
 
