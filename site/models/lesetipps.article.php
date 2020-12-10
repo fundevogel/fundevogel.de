@@ -3,6 +3,15 @@
 use Biblys\Isbn\Isbn;
 
 class LesetippsArticlePage extends Page {
+    public function getCover() {
+        $entries = $this->entries()->toStructure();
+
+        foreach ($entries as $entry) {
+            return $entry->book()->toPages()->first()->getCover();
+        }
+    }
+
+
     public function getBookCover(string $classes = '') {
         $entries = $this->entries()->toStructure();
 
