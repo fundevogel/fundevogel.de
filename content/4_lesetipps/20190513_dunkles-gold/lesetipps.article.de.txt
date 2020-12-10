@@ -12,9 +12,9 @@ Es gibt auch ein anderes Erfurt. "1349 – in Erfurt war es dunkel – nicht nur
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/dunkles-gold-hardcover
   text: >

@@ -14,9 +14,9 @@ Doch langsam werden die Mitschüler misstrauisch auf Tobis merkwürdige Fortschr
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/die-magische-zahnspange-hardcover
@@ -28,7 +28,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

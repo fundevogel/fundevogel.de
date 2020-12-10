@@ -10,9 +10,9 @@ Unglaubliche, aber wahre Geschichten sind Gegenstand des Buches des Ökologen Gi
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/der-dominoeffekt-hardcover
   text: >
@@ -54,8 +54,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -6,9 +6,9 @@ Text: Der schüchterne Odd findet den Schulausflug ins Aquarium ein bisschen gru
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/der-krokodildieb-hardcover
   text: Empfehlenswert!
@@ -16,7 +16,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

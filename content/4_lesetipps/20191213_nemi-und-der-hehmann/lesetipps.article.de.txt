@@ -10,9 +10,9 @@ Auch sonst scheinen alle vergessen zu haben, dass es den Wald und die Natur noch
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/nemi-und-der-hehmann-hardcover
   text: >
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

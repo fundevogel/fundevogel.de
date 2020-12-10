@@ -10,9 +10,9 @@ Die Rahmenhandlung dient dazu, bei Kindern erstes geschichtliches Verständnis z
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/die-zauberfloete-hardcover
   text: >
@@ -51,8 +51,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

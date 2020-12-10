@@ -6,9 +6,9 @@ Text: Als Thabo bei einer Safari-Tour eine SMS von Miss Agatha bekommt, die HILF
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

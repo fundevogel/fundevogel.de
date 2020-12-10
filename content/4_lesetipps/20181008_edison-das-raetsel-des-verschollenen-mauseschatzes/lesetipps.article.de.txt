@@ -10,9 +10,9 @@ Das Tüfteln und Werkeln beginnt und Pete macht sich gemeinsam mit dem Professor
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

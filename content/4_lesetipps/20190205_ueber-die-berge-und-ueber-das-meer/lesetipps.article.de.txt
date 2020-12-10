@@ -10,9 +10,9 @@ Jedoch, als die Taliban das erfuhren, musste Soraya fliehen. Afghanistan – das
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/ueber-die-berge-und-ueber-das-meer-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

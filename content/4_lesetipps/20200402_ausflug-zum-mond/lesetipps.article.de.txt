@@ -11,9 +11,9 @@ Es handelt sich um niedliche graue Monster mit vage humanoiden, jedoch vereinfac
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ausflug-zum-mond-hardcover
   text: >
@@ -57,8 +57,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

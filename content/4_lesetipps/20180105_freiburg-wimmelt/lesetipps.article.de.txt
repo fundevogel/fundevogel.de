@@ -6,9 +6,9 @@ Text: Freiburg – Deine Stadt erkunden, Bekanntes wieder entdecken und doch auf
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/freiburg-wimmelt-hardcover
   text: >
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

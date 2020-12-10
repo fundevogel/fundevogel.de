@@ -6,9 +6,9 @@ Text: Als der schüchterne Mauritius Besuch von seinem Onkel bekommt, fängt sei
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/das-u-boot-auf-dem-berg-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

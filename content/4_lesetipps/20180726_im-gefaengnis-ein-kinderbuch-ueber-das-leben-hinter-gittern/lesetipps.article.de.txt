@@ -6,9 +6,9 @@ Text: Ein Buch über einen Ort, den man nicht wirklich kennt. Eigentlich sind es
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover
@@ -17,7 +17,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

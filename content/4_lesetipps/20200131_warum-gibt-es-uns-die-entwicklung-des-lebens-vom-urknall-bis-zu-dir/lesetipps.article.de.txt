@@ -6,9 +6,9 @@ Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor die
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/warum-gibt-es-uns-hardcover
   text: >
@@ -23,7 +23,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

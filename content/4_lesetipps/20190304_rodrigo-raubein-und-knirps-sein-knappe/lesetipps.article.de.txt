@@ -10,9 +10,9 @@ Unterwegs treffen wir auf eine entführte Prinzessin, einen schlechtgelaunten Dr
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

@@ -14,9 +14,9 @@ Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, s
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/timeless-retter-der-verlorenen-zeit-hardcover
@@ -27,7 +27,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

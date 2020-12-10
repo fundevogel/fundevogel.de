@@ -10,9 +10,9 @@ Dadurch wird man auch in Osteuropa auf den kleinen Kanal aufmerksam und reagiert
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/uncover-die-trollfabrik-hardcover
@@ -55,8 +55,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -11,9 +11,9 @@ Die raumgreifenden, meist farbintensiv kolorierten Federzeichnungen in einer Mis
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/ein-teich-voll-mit-tinte-hardcover
@@ -46,8 +46,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -12,9 +12,9 @@ In "(link: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/jenseits-der-blauen-grenze-hardcover

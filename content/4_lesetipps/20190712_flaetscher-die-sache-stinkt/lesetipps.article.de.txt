@@ -10,9 +10,9 @@ Dass Flätscher so ganz nebenbei die Menschensprache spricht, verwundert bereits
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/flaetscher-die-sache-stinkt-hardcover
@@ -27,7 +27,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

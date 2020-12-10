@@ -10,9 +10,9 @@ Alvar hat die verrücktesten Ideen. Wenn er nicht gerade die Schlappseuche hat, 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/kleeblattsommer-hardcover
   text: >
@@ -31,7 +31,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

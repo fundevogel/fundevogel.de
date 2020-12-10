@@ -10,9 +10,9 @@ Während Hannah forscht und fragt, macht sich die kleine Familie daheim zunehmen
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/hannah-lueftet-friedhofsgeheimnisse-hardcover
@@ -54,8 +54,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

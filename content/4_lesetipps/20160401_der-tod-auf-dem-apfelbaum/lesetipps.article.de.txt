@@ -12,9 +12,9 @@ So kleben zunächst Bienen, Eichhorn, Würmer, Spatz usw. auf dem Apfelbaum fest
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/der-tod-auf-dem-apfelbaum-hardcover
@@ -65,8 +65,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

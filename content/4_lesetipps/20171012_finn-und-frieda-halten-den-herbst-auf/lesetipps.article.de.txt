@@ -11,9 +11,9 @@ Da beschließen die beiden, den Herbst einfach aufzuhalten.
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/finn-und-frieda-halten-den-herbst-auf-hardcover
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

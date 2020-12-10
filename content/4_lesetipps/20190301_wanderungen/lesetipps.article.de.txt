@@ -12,9 +12,9 @@ Die längste Reise allerdings unternimmt die Küstenseeschwalbe, sie fliegt von 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/wanderungen-hardcover
   text: >
@@ -60,8 +60,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

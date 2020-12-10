@@ -10,9 +10,9 @@ In einer Vollmondnacht erfolgt die überraschende Wende. Der demenzkranke, senil
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/opa-und-die-nacht-der-woelfe-hardcover
@@ -55,8 +55,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

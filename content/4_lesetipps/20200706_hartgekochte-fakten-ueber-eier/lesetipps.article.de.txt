@@ -10,9 +10,9 @@ Die Autorin hat sich ganz unterschiedlicher fachlicher Quellen bedient, um diese
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/hartgekochte-fakten-ueber-eier-hardcover

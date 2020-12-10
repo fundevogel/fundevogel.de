@@ -11,9 +11,9 @@ Mit kraftvollem Pinselstrich zeichnet Sydney Smith den Kohleflöz, der fast das 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/stadt-am-meer-hardcover
   text: 'Das Leben ist vorgezeichnet für die Menschen in der Bergmannsstadt: oben das Meer, tief unten der Kohleabbau, an Land die graue Stadt der Arbeiterfamilien. So war das schon immer, so wird das immer bleiben. Ein Junge erzählt lakonisch von seinem immer gleichen Tagesablauf. Ein ganz herausragendes Buch!'
@@ -49,8 +49,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -15,7 +15,7 @@ tabs:
         label: Text
         type: markdown
 
-      books:
+      entries:
         extends: fields/books
         label:
           de: Buch / Bücher

@@ -10,9 +10,9 @@ Doch eines Tages kommt eine neue Mitschülerin in die Klasse und plötzlich ist 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover
@@ -26,7 +26,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

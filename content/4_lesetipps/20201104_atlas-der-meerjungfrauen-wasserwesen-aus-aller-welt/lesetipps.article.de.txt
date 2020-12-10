@@ -14,9 +14,9 @@ In Deutschland finden wir die Loreley, in schottischen Gewässern die verführer
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/atlas-der-meerjungfrauen-hardcover
@@ -60,8 +60,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -10,9 +10,9 @@ In einem kurzen Zeitraum von wenigen Tagen durchlebt Linn eine emotional sehr an
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/dunkelgruen-wie-das-meer-hardcover
@@ -45,8 +45,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

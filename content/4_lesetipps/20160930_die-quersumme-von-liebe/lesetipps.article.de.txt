@@ -12,9 +12,9 @@ Bei diesem Buch darf man vom Inhalt eigentlich nichts vorwegnehmen, denn die Aut
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/die-quersumme-von-liebe-hardcover
@@ -57,8 +57,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

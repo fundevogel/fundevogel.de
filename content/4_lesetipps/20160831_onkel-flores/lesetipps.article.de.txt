@@ -10,9 +10,9 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/onkel-flores-hardcover
   text: ""

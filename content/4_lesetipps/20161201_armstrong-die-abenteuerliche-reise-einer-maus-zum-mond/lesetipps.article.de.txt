@@ -14,9 +14,9 @@ Das Cover ist in Brauntönen gestaltet, mit scheinbar abgestoßenen Ecken und Ka
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/armstrong-hardcover
   text: >
@@ -58,8 +58,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

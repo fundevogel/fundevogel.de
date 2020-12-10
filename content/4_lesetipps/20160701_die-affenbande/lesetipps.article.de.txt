@@ -17,9 +17,9 @@ Schließlich gibt es noch ein Register mit der Einteilung der im Buch behandelte
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/die-affenbande-hardcover
   text: >
@@ -63,8 +63,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

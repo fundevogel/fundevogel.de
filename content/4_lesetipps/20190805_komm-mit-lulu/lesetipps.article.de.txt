@@ -10,9 +10,9 @@ Wir sprechen von Frau Dachs, die inzwischen schon recht alt geworden ist. Sie le
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/komm-mit-lulu-hardcover
   text: >
@@ -54,8 +54,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

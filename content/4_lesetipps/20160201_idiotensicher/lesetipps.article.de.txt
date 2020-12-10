@@ -12,9 +12,9 @@ Natürlich versuchen die Jungs den großen Deal einzutüten, und Elín kann ihne
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/idiotensicher-hardcover
   text: >
@@ -53,8 +53,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

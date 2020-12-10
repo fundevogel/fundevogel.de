@@ -12,9 +12,9 @@ In der blauweißen Nacht sitzen die Geschwister Cuno und Aia "weit im Norden" mi
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/die-kinder-und-der-wal-hardcover
   text: >
@@ -56,8 +56,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

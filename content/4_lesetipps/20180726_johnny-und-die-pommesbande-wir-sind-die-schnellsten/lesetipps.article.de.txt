@@ -6,9 +6,9 @@ Text: Johnny wohnt mit seinem Opa, einem alten Seebären mit vielen Abenteuern i
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

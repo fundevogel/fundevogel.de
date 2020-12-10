@@ -12,9 +12,9 @@ Das Band zwischen Alice und Nico wirkt zunächst katalysierend: Sie werden ein P
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/hinter-glas-hardcover
   text: >
@@ -51,8 +51,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

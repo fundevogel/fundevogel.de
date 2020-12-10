@@ -10,9 +10,9 @@ Die Bilder sind wuchtig. Viele nutzen die runde Form des Mondes, um mit Kraft un
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/die-mondwandlerin-hardcover
   text: >
@@ -57,8 +57,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

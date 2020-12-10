@@ -6,9 +6,9 @@ Text: Eine furchtbare Nachricht erreicht Drachenreiter Ben und seine Freunde: Da
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
@@ -42,8 +42,8 @@ Isaward: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

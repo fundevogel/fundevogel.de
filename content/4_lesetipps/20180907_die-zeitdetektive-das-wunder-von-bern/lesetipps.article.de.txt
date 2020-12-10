@@ -10,9 +10,9 @@ Dieses Mal begeben sich die Vier auf ein ganz besonderes Abenteuer: Nach Spiez i
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/die-zeitdetektive-das-wunder-von-bern-hardcover

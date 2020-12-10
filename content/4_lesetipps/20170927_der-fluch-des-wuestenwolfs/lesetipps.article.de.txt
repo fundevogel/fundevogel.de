@@ -6,9 +6,9 @@ Text: Mit Dr. Kroch, einem typischen Wissenschaftler und seinem Assistenten Vale
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/der-fluch-des-wuestenwolfs-hardcover
@@ -19,7 +19,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

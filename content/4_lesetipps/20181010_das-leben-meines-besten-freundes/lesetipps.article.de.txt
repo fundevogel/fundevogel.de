@@ -12,9 +12,9 @@ Auch in Samirs Welt steht kein Stein mehr auf dem anderen. Vor einigen Wochen is
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/das-leben-meines-besten-freundes-hardcover
@@ -59,8 +59,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

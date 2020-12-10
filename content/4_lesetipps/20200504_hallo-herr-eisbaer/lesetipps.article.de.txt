@@ -10,9 +10,9 @@ Ganz unerwartet steht in diesem Moment ein Eisbär in der Haustür und wirbelt d
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/hallo-herr-eisbaer-hardcover
   text: >
@@ -56,4 +56,4 @@ Seotitle: Hallo, Herr Eisbär!
 
 ----
 
-Seodescription: 
+Seodescription:

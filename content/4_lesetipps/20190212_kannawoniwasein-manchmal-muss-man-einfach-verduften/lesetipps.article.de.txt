@@ -10,9 +10,9 @@ Ein Glück, dass er die mutige Jola kennenlernt. Sie weiß für alle Probleme ei
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften-hardcover
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

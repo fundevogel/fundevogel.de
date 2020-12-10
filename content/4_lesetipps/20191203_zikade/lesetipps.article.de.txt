@@ -10,9 +10,9 @@ In Shaun Tans neuem Bilderbuch verbinden sich zwei Phänomene. Einerseits ist da
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/zikade-hardcover
   text: >
@@ -49,8 +49,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

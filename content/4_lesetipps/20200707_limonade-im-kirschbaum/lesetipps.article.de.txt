@@ -6,9 +6,9 @@ Text: Eigentlich ist Otto ein richtiger Stubenhocker, der lieber in seinem Zimme
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/limonade-im-kirschbaum-hardcover
   text: >
@@ -18,7 +18,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

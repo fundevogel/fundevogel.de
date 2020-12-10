@@ -6,9 +6,9 @@ Text: Karlines Familie wirkt auf den ersten Blick ganz normal. Auf den zweiten B
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/superhelden-fliegen-geheim-hardcover
@@ -17,7 +17,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

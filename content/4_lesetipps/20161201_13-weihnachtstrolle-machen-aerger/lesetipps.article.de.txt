@@ -6,9 +6,9 @@ Text: Eine Adventskalendergeschichte der besonderen Art: Jonas und seine kleine 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/13-weihnachtstrolle-machen-aerger-hardcover
@@ -27,7 +27,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

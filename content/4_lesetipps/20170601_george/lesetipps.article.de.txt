@@ -6,9 +6,9 @@ Text: George ist in der vierten Klasse und hat noch niemandem von seinen Gefühl
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/george-hardcover
   text: '"Read this" urteilt John Green und David Levithan spricht von einem "herausragenden Buch". Ein begeistertes Echo von zwei hochkarätigen Jugendbuchautoren. Und man muss ihnen rechtgeben: In der KJL ist schon vieles bearbeitet worden. Aber das Thema Transgender steht noch aus. Alex Gino hat sich dieser Lücke angenommen.'
@@ -42,8 +42,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

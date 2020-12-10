@@ -6,9 +6,9 @@ Text: Oskar ist nicht nur einfach ein Kater, nein, er ist ein Kater mit Charakte
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/oskar-ein-kater-mit-charakter-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

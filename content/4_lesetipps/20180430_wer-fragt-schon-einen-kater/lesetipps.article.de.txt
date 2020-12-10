@@ -12,9 +12,9 @@ Wenn der eitle Kater nur vorher gewusst hätte, was ihm aufgrund dieser Entschei
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/wer-fragt-schon-einen-kater-hardcover
@@ -58,8 +58,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

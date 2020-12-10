@@ -4,7 +4,7 @@ use Biblys\Isbn\Isbn;
 
 class LesetippsArticlePage extends Page {
     public function getBookCover(string $classes = '') {
-        $entries = $this->books()->toStructure();
+        $entries = $this->entries()->toStructure();
 
         foreach ($entries as $entry) {
             return $entry->book()->toPages()->first()->getBookCover($classes);
@@ -13,7 +13,7 @@ class LesetippsArticlePage extends Page {
 
 
     public function hasAward() {
-        $entries = $this->books()->toStructure();
+        $entries = $this->entries()->toStructure();
 
         # Award-winning books are reviewed individually
         if (count($entries) > 1) {
@@ -27,7 +27,7 @@ class LesetippsArticlePage extends Page {
 
 
     public function getAward() {
-        $entries = $this->books()->toStructure();
+        $entries = $this->entries()->toStructure();
 
         foreach ($entries as $entry) {
             return $entry->book()->toPages()->first()->getAward();

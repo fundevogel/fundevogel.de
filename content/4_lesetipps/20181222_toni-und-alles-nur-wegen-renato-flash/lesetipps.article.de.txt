@@ -10,9 +10,9 @@ Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber küm
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

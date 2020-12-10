@@ -6,9 +6,9 @@ Text: Halidon ist Akrobat. Tagsüber jongliert er auf seinem Einrad in der Stadt
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/esperanza-hardcover
   text: >
@@ -19,7 +19,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

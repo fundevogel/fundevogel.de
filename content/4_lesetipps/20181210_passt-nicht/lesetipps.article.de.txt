@@ -14,9 +14,9 @@ Doch. Denn auf der anderen Seite begrüßen sich zwei Personen auf der linken Se
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/passt-nicht-hardcover
   text: >
@@ -59,8 +59,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

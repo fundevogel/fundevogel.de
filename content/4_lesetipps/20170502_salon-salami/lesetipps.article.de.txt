@@ -10,9 +10,9 @@ Vor kurzem habe ich eine Bank überfallen, denn ich will ins Gefängnis. Das hat
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/salon-salami-hardcover
   text: >
@@ -22,7 +22,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

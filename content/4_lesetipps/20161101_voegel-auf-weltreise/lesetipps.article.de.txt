@@ -12,9 +12,9 @@ Auf 53 großformatigen Seiten setzt sich nach und nach ein umfassendes Bild übe
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/voegel-auf-weltreise-hardcover
   text: >
@@ -56,8 +56,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

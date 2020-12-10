@@ -10,9 +10,9 @@ Der Biologe und Umweltschützer Martin Jenkins hat einen ganz besonderen Atlas b
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/seltene-tiere-hardcover
   text: >
@@ -55,8 +55,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

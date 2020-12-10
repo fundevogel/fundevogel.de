@@ -10,9 +10,9 @@ Das Sachbuch im wunderschönen Großformat zeigt uns die faszinierende Welt der 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ozeane-hardcover
   text: >
@@ -23,7 +23,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

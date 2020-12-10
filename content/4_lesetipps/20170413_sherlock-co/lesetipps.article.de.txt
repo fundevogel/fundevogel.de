@@ -6,9 +6,9 @@ Text: Zuerst bekommst du die unterschiedlichsten Personen der aufregenden Geschi
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/sherlock-co-hardcover
   text: >
@@ -18,7 +18,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

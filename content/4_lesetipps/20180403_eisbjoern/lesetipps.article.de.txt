@@ -10,9 +10,9 @@ Man könnte fast sagen, dass Eisbjörn auf dem Weg zum Fachmann für Seefahrt un
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/eisbjoern-hardcover
   text: >
@@ -54,8 +54,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -10,9 +10,9 @@ Den Auftakt im Buch macht ein vereinfachter Stammbaum der Tiere, der die Schwäm
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/wundertier-schwamm-hardcover
   text: >
@@ -51,8 +51,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

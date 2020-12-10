@@ -6,9 +6,9 @@ Text: Der Roman beginnt an einem unbeschwerten Sommertag und endet Heiligabend. 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/das-lied-vom-ende-hardcover
   text: >
@@ -52,8 +52,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

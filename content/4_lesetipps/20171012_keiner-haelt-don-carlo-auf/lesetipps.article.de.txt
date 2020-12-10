@@ -6,9 +6,9 @@ Text: Carlo ist 11 und auf dem Weg nach Palermo. Das ist ziemlich weit weg und l
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/keiner-haelt-don-carlo-auf-hardcover

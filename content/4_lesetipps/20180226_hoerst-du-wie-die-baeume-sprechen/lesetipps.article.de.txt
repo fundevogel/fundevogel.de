@@ -10,9 +10,9 @@ In einfacher, verständlicher und humorvoller Sprache erklärt der Autor die kom
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/hoerst-du-wie-die-baeume-sprechen-hardcover
@@ -51,8 +51,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

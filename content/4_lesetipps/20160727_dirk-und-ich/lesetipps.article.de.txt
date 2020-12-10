@@ -6,9 +6,9 @@ Text: Andreas und Dirk sind zwei ganz normale Brüder möchte man meinen, aber s
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/dirk-und-ich-hardcover
   text: >
@@ -23,7 +23,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

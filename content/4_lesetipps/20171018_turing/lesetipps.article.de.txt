@@ -10,9 +10,9 @@ In parallelen Erzählsträngen blickt Robert Deutsch auf Turing als Mensch. Als 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/turing-hardcover
   text: >
@@ -54,8 +54,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

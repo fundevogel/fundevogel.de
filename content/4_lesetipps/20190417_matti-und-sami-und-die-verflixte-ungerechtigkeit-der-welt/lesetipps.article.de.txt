@@ -10,9 +10,9 @@ Zu allem Überfluss soll sich im Wald auch noch ein merkwürdiger Alter mit dem 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

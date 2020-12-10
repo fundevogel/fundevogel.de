@@ -12,9 +12,9 @@ Hanneke ist 18 Jahre alt und versorgt jetzt ihre Familie, indem sie heimlich die
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/das-maedchen-im-blauen-mantel-hardcover

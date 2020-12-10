@@ -6,9 +6,9 @@ Text: Die großen Ferien stehen an und Max kann es kaum erwarten endlich nach Fr
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/zuckerkringel-ferien-mit-marie-hardcover
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

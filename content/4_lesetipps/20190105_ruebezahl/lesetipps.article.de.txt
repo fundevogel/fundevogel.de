@@ -10,9 +10,9 @@ Als Rahmenhandlung treffen wir auf einen Geschichtenerzähler, der "vor langer, 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ruebezahl-hardcover
   text: >
@@ -59,8 +59,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

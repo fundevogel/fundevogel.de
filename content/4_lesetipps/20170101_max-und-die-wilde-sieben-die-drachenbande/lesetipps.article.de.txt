@@ -10,9 +10,9 @@ Max ist ein 9-jähriger Junge, der an einem für sein Alter sehr ungewöhnlichen
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover
@@ -58,8 +58,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

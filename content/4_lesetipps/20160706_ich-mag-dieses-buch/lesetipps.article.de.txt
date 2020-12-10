@@ -6,9 +6,9 @@ Text: Constanze von Kitzing hat wunderbare Illustrationen geschaffen, die erkenn
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover
@@ -17,7 +17,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

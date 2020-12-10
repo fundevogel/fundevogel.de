@@ -6,9 +6,9 @@ Text: Als ein neuer Junge in ihre Klasse kommt, verändert sich Alexas Welt und 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/der-junge-aus-der-letzten-reihe-hardcover
@@ -25,7 +25,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

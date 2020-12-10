@@ -6,9 +6,9 @@ Text: Mit diesem Buch wirst Du zum Helden deines Alltags. Hier findest du 101 Id
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
@@ -17,7 +17,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

@@ -11,9 +11,9 @@ Nach dem Zeigen der Macht kommt die Grausamkeit. Schon immer missfiel dem Löwen
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/koenig-sein-hardcover
   text: >
@@ -52,8 +52,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

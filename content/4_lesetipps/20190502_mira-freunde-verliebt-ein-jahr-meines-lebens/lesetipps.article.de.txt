@@ -11,9 +11,9 @@ Die Lösung liegt scheinbar auf der Hand. Wenn sich Mira endlich verliebt, wird 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/mira-freunde-verliebt-einjahrmeineslebens-hardcover
@@ -56,8 +56,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

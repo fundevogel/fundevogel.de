@@ -13,9 +13,9 @@ In der Erzählung werden einerseits die positiven Aspekte in Marikas Leben, etwa
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/zug-der-fische-hardcover
   text: >
@@ -67,8 +67,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

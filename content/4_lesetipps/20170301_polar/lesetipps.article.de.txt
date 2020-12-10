@@ -10,9 +10,9 @@ Das Buch beginnt mit einer Einleitung von Carol Kaufmann, in der allgemeine Info
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/polar-hardcover
   text: >
@@ -50,8 +50,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -10,9 +10,9 @@ Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excal
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/artus-koenig-auf-camelot-hardcover
@@ -30,7 +30,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

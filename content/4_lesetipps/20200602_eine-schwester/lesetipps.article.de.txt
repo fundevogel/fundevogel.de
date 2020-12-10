@@ -10,9 +10,9 @@ Bereits das Cover des Bandes kÃ¼ndigt sowohl das zentrale Thema als auch den auÃ
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/eine-schwester-hardcover
   text: >

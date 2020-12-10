@@ -10,9 +10,9 @@ Faszinierend ist an dem vorliegenden Bilderbuch der genaue und sachliche, und da
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ein-strandtag-hardcover
   text: 'Ein Tag am Strand bietet viele wunderbare Erfahrungen: mit der Taucherbrille die Unterwasserwelt beobachten, einen Tunnel buddeln oder alleine Pommes kaufen. Von einem solchen Strandtag erzählt auch dieses Bilderbuch, welches die alltägliche Situation detailreich, präzise und ausgesprochen dicht aus der Perspektive einer kindlichen Protagonistin in Szene setzt.'
@@ -44,8 +44,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

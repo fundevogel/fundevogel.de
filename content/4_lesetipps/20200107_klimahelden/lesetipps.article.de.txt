@@ -10,9 +10,9 @@ Und wer isst den Fisch?
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/klimahelden-hardcover
   text: >
@@ -27,7 +27,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

@@ -10,9 +10,9 @@ Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die S
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/der-katze-ist-es-ganz-egal-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

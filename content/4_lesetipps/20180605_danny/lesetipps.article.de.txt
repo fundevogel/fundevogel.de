@@ -6,9 +6,9 @@ Text: Seit seine Mutter gestorben ist, lebt Danny mit seinem Vater in einem Wohn
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/danny-oder-die-fasanenjagd-taschenbuch
@@ -19,7 +19,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

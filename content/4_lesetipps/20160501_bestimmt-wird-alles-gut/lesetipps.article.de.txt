@@ -14,9 +14,9 @@ Rahaf und Hassan lassen ihre Verwanden, Freunde und Heimat unfreiwillig zurück.
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/bestimmt-wird-alles-gut-hardcover
@@ -61,8 +61,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

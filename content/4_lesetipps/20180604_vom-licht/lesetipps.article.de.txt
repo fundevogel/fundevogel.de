@@ -12,9 +12,9 @@ Diese Qualität der Konstruktionen ist maßgeblich für das hohe emanzipatorisch
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/vom-licht-hardcover
   text: >
@@ -55,8 +55,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

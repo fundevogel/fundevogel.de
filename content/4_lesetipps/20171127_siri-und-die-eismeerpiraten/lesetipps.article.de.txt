@@ -12,9 +12,9 @@ Siri plagen Schuldgefühle und so heuert sie heimlich auf dem Schiff ‚Polarste
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/siri-und-die-eismeerpiraten-hardcover

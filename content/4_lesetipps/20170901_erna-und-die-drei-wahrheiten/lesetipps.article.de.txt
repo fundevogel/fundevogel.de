@@ -12,9 +12,9 @@ Als Erna nach dem Lerngruppenrat bereits verzweifelt ist, bekommt sie Unterstüt
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/erna-und-die-drei-wahrheiten-hardcover
@@ -53,8 +53,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

@@ -12,9 +12,9 @@ Beides hat hohen Wert für die interkulturelle Bildung. Wir erlesen viel Eigenes
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/33-bogen-und-ein-teehaus-hardcover
@@ -56,8 +56,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

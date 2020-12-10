@@ -10,9 +10,9 @@ Dafür gibt es aber ein geheimnisvolles Monster im Garten und einen Dachboden, v
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
@@ -26,7 +26,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

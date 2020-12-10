@@ -10,9 +10,9 @@ Mit ihrem Verschwinden läuft es im ganzen Viertel nicht rund: Es ist, als hätt
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/parole-teetee-hardcover
   text: >
@@ -25,7 +25,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

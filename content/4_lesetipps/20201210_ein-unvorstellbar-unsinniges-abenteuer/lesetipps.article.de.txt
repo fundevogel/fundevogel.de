@@ -10,9 +10,9 @@ Kaum in New York angekommen, schwört Vita Rache und fordert Sorrotore heraus. Z
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/ein-unvorstellbar-unsinniges-abenteuer
@@ -28,7 +28,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -44,8 +44,8 @@ Isaward: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

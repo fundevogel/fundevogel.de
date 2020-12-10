@@ -14,9 +14,9 @@ Alles erhält nun eine andere Dynamik, als Alex sich in Jonny verliebt, Paul meh
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/mehr-schwarz-als-lila-hardcover
   text: >
@@ -58,8 +58,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

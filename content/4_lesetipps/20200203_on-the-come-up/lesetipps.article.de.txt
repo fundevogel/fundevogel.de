@@ -15,9 +15,9 @@ Es ist ein erklärtes Anliegen von Angie Thomas, auf die Ungerechtigkeit in der 
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/on-the-come-up-hardcover
   text: >
@@ -66,8 +66,8 @@ Isaward: true
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

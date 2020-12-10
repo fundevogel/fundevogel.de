@@ -6,9 +6,9 @@ Text: Noch nie haben die drei Geschwister Martha, Mikkels und Mats einen größe
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ein-sommer-in-sommerby-hardcover
   text: >
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

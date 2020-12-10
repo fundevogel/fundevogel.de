@@ -6,9 +6,9 @@ Text: Seine Mutter hat ihn schon immer vor den Wölfen gewarnt. Schlimmer als Fa
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/ein-freund-wie-kein-anderer-hardcover
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

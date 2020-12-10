@@ -6,9 +6,9 @@ Text: Picandou, Camenbert, Gruyère? Hm … lecker … Aber nein, das ist doch k
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/die-muskeltiere-einer-fuer-alle-alle-fuer-einen-hardcover
@@ -25,7 +25,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

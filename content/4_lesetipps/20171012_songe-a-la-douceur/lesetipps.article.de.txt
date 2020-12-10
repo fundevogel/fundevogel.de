@@ -10,9 +10,9 @@ Zehn Jahre später trifft Eugène Tatiana in der U-Bahn. Sie ist gereift, sie is
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/songe-a-la-douceur-hardcover
   text: >
@@ -25,7 +25,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

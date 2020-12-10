@@ -14,9 +14,9 @@ Sein verhältnismäßig ruhiges Leben wird allerdings völlig auf den Kopf geste
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/malamander-die-geheimnisse-von-eerie-on-sea-hardcover
@@ -33,7 +33,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -53,11 +53,11 @@ Isaward: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
 
 ----
 

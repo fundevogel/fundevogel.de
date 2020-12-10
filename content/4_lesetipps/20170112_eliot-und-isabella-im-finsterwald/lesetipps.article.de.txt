@@ -6,9 +6,9 @@ Text: Ausgerechnet Bocki und seine fiese Bande sind es, die Opa Pucki, Isabellas
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/eliot-und-isabella-im-finsterwald-hardcover
@@ -20,7 +20,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

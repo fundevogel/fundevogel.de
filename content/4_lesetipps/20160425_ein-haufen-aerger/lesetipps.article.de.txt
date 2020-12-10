@@ -10,9 +10,9 @@ Das Zusammenleben wird nicht einfach, aber bald ist das Team bereit, gemeinsam d
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/ein-haufen-aerger-hardcover
   text: >
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

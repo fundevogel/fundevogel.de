@@ -6,9 +6,9 @@ Text: Ein spannender Fall für die drei ???: Die Meisterschale wurde geklaut. Um
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/die-drei-kids-bundesliga-alarm-hardcover
@@ -21,7 +21,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

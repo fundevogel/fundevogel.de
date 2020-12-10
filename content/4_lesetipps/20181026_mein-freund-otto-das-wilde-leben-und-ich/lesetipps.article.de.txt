@@ -14,9 +14,9 @@ Doch eines Tages ist der Laden zu und auf dem Schild steht dick und fett geschri
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - >
       buecher/mein-freund-otto-das-wilde-leben-und-ich-hardcover
@@ -27,7 +27,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

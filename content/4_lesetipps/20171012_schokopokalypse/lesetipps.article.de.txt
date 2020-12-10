@@ -12,9 +12,9 @@ Jelly ist fassungslos, denn genau wie ihre Mama, ihr Papa, ihre Oma und überhau
 
 ----
 
-Books:
+Entries:
 
-- 
+-
   book:
     - buecher/schokopokalypse-hardcover
   text: >
@@ -24,7 +24,7 @@ Books:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
