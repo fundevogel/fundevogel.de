@@ -2,10 +2,6 @@ Title: Ein unvorstellbar unsinniges Abenteuer
 
 ----
 
-Slug: ein-unvorstellbar-unsinniges-abenteuer
-
-----
-
 Text:
 
 Vita ist mit ihrer Mutter mit dem Schiff nach New York gereist, um ihren Großvater nach England mitzunehmen: Dieser wurde nach dem Tod ihrer Großmutter von dem berüchtigten New Yorker Millionär und Betrüger Victor Sorrotore auf hinterhältige Weise um sein Familienanwesen, Hudson Castle, gebracht.
@@ -22,11 +18,7 @@ Conclusion:
 
 ----
 
-Builder: 
-
-----
-
-Date: 2020-12-09
+Date: 2020-12-10
 
 ----
 
@@ -34,102 +26,14 @@ Conclusion-wanted: false
 
 ----
 
-Hasaward: false
-
-----
-
-Award: 
-
-----
-
-Awardedition: 
-
-----
-
-Leselink: 
-
-----
-
 Isaward: false
 
 ----
 
-Isbn: 978-3-551-55397-3
-
-----
-
-Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002939994/63715/10002/-3/Buecher_Kinder--und-Jugend/Katherine-Rundell/Ein-unvorstellbar-unsinniges-Abenteuer
-
-----
-
-Book-title: Ein unvorstellbar unsinniges Abenteuer
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Katherine Rundell
-
-----
-
-Illustrator: 
-
-----
-
-Narrator: 
-
-----
-
-Translator: Henning Ahrens
-
-----
-
-Participants: 
-
-----
-
-Page-count: 272
-
-----
-
-Duration: 
-
-----
-
-Publisher: Carlsen
-
-----
-
-Age: ab 11 Jahren
-
-----
-
-Price: 15,00
-
-----
-
-Binding: gebunden
-
-----
-
-Categories: Jugendbuch
-
-----
-
-Topics: Abenteuer, Mut, Freundschaft, Gerechtigkeit
-
-----
-
-Cover:
+Books:
 
 - >
-  ein-unvorstellbar-unsinniges-abenteuer_katherine-rundell.jpg
-
-----
-
-Isaudiobook: false
+  buecher/ein-unvorstellbar-unsinniges-abenteuer
 
 ----
 

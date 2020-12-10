@@ -1,0 +1,136 @@
+Title: Ein unvorstellbar unsinniges Abenteuer
+
+----
+
+Isbn: 978-3-551-55397-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Katherine Rundell
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Henning Ahrens
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 272
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Abenteuer
+
+----
+
+Description: Kaum ist Vita mit ihrer Mutter in New York gelandet, fordert sie auch schon den stadtbekannten Betrüger Victor Sorrotore heraus. Schließlich hat der ihren Großvater um das Familienanwesen gebracht. Vita schwört Rache und schmiedet zusammen mit einer Taschendiebin und zwei Jungen vom Zirkus einen ausgeklügelten Plan, um das Haus oder doch zumindest den Smaragd ihres Großvaters zurückzuholen. Ein unvorstellbar unsinniges Abenteuer beginnt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002939994/63715/10002/-3/Buecher_Kinder--und-Jugend/Katherine-Rundell/Ein-unvorstellbar-unsinniges-Abenteuer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  ein-unvorstellbar-unsinniges-abenteuer_katherine-rundell.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
