@@ -14,6 +14,20 @@ Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
+  text: >
+    Aber lest selbst und macht euch auf den
+    Weg in ein spannendes Abenteuer, bei dem
+    es garantiert etwas zu lachen gibt!
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +48,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
-
-----
-
 Seotitle: Rodrigo Raubein und Knirps, sein Knappe
 
 ----
 
 Seodescription: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt.
+
+----
+
+Shithap:
+
+- >
+  buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover

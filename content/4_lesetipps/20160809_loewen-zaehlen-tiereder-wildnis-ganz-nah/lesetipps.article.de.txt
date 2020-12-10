@@ -15,6 +15,28 @@ Verdict: Das Buch ist kein Zählbuch für Vorschulkinder, auch wenn es den Zahlr
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/loewen-zaehlen-hardcover
+  text: >
+    Das Buch ist kein Zählbuch für
+    Vorschulkinder, auch wenn es den
+    Zahlraum von 1 bis 10 nutzt. Ganz
+    erstaunliche, fotorealistisch
+    gezeichnete Bilder im Großformat
+    öffnen allein durch die Nutzung von
+    Kohlestiften eine Welt der Wunder, die
+    es verdient, dass wir uns für ihre
+    Erhaltung einsetzen. Die Auswahl der
+    Tiere ist nicht zufällig, denn fast
+    alle der gezeigten Arten sind vom
+    Aussterben bedroht.
+
+----
+
 Conclusion:
 
 Sind die Bilder in Grautönen gehalten, so bildet der Text einen farblichen Gegenpol: Orange. In unterschiedlicher Intensität. Sehr stark ist die Zahl, groß gedruckt zudem. Gleichgroß aber schwächer im Druck ist der Name der Tiere. Deutlich kleiner und blasser ist der fast lyrische Text, der jeweils ähnlich aufgebaut ist: »Sechs von einem Rudel.« und farblich wieder etwas stärker gedruckt: »Sechs Wölfe«. Entsprechend: "... zwei Unzertrennliche ..." mit "Zwei Gorillas" und "Eine ganz gewöhnliche Reise für diese acht Weltmeerschwimmer" gefolgt von »Acht Schildkröten«. Der Übersetzerin Brigitte Elbe gelingt es, mit dem Text bereits zu Beginn zu verzaubern. Da "saugt [der Löwe] das Gold der Savanne tief in sich ein" und "wirft ... den gewaltigen Kopf zurück" und pflanzt uns neben den so unglaublich beeindruckenden Bildern von Walton noch weitere in unser Gehirn.
@@ -39,14 +61,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/loewen-zaehlen-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/loewen-zaehlen-hardcover

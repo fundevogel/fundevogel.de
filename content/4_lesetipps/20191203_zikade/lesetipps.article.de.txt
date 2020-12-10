@@ -14,6 +14,21 @@ Verdict: Dieses Bilderbuch verbindet das tragische Schicksal gesellschaftlicher 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/zikade-hardcover
+  text: >
+    Dieses Bilderbuch verbindet das
+    tragische Schicksal gesellschaftlicher
+    Randgruppen mit dem faszinierenden
+    Naturphänomen der amerikanischen
+    Singzikade.
+
+----
+
 Conclusion:
 
 Gerade in der monströsen Verfremdung wird das realistische Potenzial der Geschichte herausgearbeitet und in Szenen gesetzt. Die Entwürdigung der Machtlosen nimmt eindrücklich Gestalt an. Dort bleibt Shaun Tan mit seinem Bilderbuch aber nicht stehen. Auf der anderen Seite ist es nämlich eine Hommage an die Insektengattung Magicicada aus der Familie der Singzikaden, die im Norden Amerikas lebt. Diese faszinierenden Tiere leben siebzehn Jahre unter der Erde, um plötzlich und in Massen als verwandelte Flügelwesen zu erscheinen. Dieses lange Leben im Dunkeln und die Vorbereitung auf eine plötzliche Verwandlung macht Shaun Tan zum Hoffnungsschimmer für seinen Protagonisten.
@@ -38,14 +53,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/zikade-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/zikade-hardcover

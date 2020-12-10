@@ -14,6 +14,23 @@ Verdict: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/klimahelden-hardcover
+  text: >
+    Wie du dich der Umwelt zuliebe verhalten
+    kannst und schonender mit ihr umgehst,
+    kannst du an vielen Beispielen in diesem
+    Buch lesen. Wir haben alle eine große
+    Verantwortung und sollten die auch
+    wahrnehmen. Lasst uns damit gemeinsam
+    anfangen!
+
+----
+
 Conclusion: 
 
 ----
@@ -34,14 +51,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/klimahelden-hardcover
-
-----
-
 Seotitle: Klimahelden
 
 ----
 
 Seodescription: Wie du dich der Umwelt zuliebe verhalten kannst und schonender mit ihr umgehst, kannst du an vielen Beispielen in diesem Buch lesen. Wir haben alle eine große Verantwortung und sollten die auch wahrnehmen. Lasst uns damit gemeinsam anfangen!
+
+----
+
+Shithap: - buecher/klimahelden-hardcover

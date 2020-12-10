@@ -10,6 +10,20 @@ Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache K
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/eliot-und-isabella-im-finsterwald-hardcover
+  text: >
+    Eliot und Isabella im Finsterwald, ein
+    Buch von dem bekannten "Drache
+    Kokosnuss"-Autor Ingo Siegner.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +44,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/eliot-und-isabella-im-finsterwald-hardcover
-
-----
-
 Seotitle: Eliot und Isabella im Finsterwald
 
 ----
 
 Seodescription: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache Kokosnuss"-Autor Ingo Siegner.
+
+----
+
+Shithap:
+
+- >
+  buecher/eliot-und-isabella-im-finsterwald-hardcover

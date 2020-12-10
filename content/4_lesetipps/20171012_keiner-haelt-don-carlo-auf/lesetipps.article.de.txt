@@ -10,6 +10,19 @@ Verdict: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/keiner-haelt-don-carlo-auf-hardcover
+  text: >
+    Ein abenteuerliches und sehr
+    unterhaltsames Buch für Kinder ab 8.
+
+----
+
 Conclusion: Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen (link: kalender/lirum-larum-lesefest text: Lirum-Larum-Lesefest) und liest für Euch aus seinen Büchern.
 
 ----
@@ -30,15 +43,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/keiner-haelt-don-carlo-auf-hardcover
-
-----
-
 Seotitle: Keiner hält Don Carlo auf
 
 ----
 
 Seodescription: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8. Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern!
+
+----
+
+Shithap:
+
+- >
+  buecher/keiner-haelt-don-carlo-auf-hardcover

@@ -14,6 +14,16 @@ Verdict: Der erste Teil einer (link: https://fundevogel.buchkatalog.de/Product/3
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/unerschrocken-hardcover
+  text: 'Der erste Teil einer (link: https://fundevogel.buchkatalog.de/Product/3000000691090/63715/10002/-3/Buecher_Biografien-und-Memoiren/Pnlope-Bagieu/Unerschrocken text: zweibändigen) Graphic-Novel-Reihe porträtiert 15 außergewöhnliche und rebellische Frauen, die sich gegen die gesellschaftlichen Normen und Moralvorstellungen ihrer Zeit zur Wehr setzen. Die humorvollen Zeichnungen und die pointierten und dennoch informativen Texte spielen dabei auf literarisch anregende Weise zusammen.'
+
+----
+
 Conclusion:
 
 Es sind jedoch nicht nur die Inhalte, sondern vor allem die Darstellungs- und Erzählweisen, die diesen Band so besonders machen. Es gelingt der Autorin Bilder und Texte tatsächlich zusammenspielen zu lassen. Ihre Freude am Detail, das mit jeder Zeichnung eine unverbrauchte Facette der Geschehnisse zu entlocken vermag, ist geradezu spürbar. Besonders eindrucksvoll sind die Doppelseiten am Ende jeder Geschichte, die man in der Comicforschung "Double Splashes" nennt. Sie kommen ganz ohne Text aus. Mit ihren starken Kontrasten zwischen und innerhalb der Bilder ziehen sie unweigerlich in ihren Bann. Die kleinen Kunstwerke resümieren, verstärken, oder konterkarieren die Anekdoten der ihnen vorangehenden Seiten. So wird beispielsweise die chinesische Kaiserin Wu Zeitan, welche im 7. Jahrhundert lebte, entgegen der üblichen Geschichtsschreibung als progressive Taktiererin präsentiert, die sich um die Künste, den Frieden und soziale Fortschritte kümmerte. Auf der letzten Doppelseite des Bandes steht sie auf einer Brücke und wirft die Köpfe zweier Widersacherinnen ins Wasser.
@@ -38,14 +48,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/unerschrocken-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/unerschrocken-hardcover

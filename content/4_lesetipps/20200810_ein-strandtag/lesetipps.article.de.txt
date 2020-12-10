@@ -14,6 +14,16 @@ Verdict: Ein Tag am Strand bietet viele wunderbare Erfahrungen: mit der Taucherb
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ein-strandtag-hardcover
+  text: 'Ein Tag am Strand bietet viele wunderbare Erfahrungen: mit der Taucherbrille die Unterwasserwelt beobachten, einen Tunnel buddeln oder alleine Pommes kaufen. Von einem solchen Strandtag erzählt auch dieses Bilderbuch, welches die alltägliche Situation detailreich, präzise und ausgesprochen dicht aus der Perspektive einer kindlichen Protagonistin in Szene setzt.'
+
+----
+
 Conclusion:
 
 Insgesamt entwickelt sich aus der Perspektive der Protagonistin heraus ein dynamisches, spannungsreiches Verhältnis zwischen Bild und Text. Das Bild zeigt neben Szenen, in denen das Mädchen selbst als ein Teil der Szene erscheint, auch viele kleine Detailausschnitte der Wirklichkeit, auf die die Protagonistin ihre Aufmerksamkeit richtet. Gleichzeitig wird auch der universelle Duktus der Sprache im Verlauf des Buches unterlaufen, als die Erkenntnis ins Bewusstsein rückt, sich verlaufen zu haben. Hier gewinnt die konkrete Ich-Perspektive der Erzählerin die Oberhand und markiert das Ereignis in seiner konkreten Erlebnishaftigkeit.
@@ -38,14 +48,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/ein-strandtag-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/ein-strandtag-hardcover

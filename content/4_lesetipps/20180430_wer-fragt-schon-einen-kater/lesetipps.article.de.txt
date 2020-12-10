@@ -16,6 +16,28 @@ Verdict: Für den bildhübschen, etwas eitlen Kater Aristoteles ist die Welt in 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/wer-fragt-schon-einen-kater-hardcover
+  text: >
+    Für den bildhübschen, etwas eitlen
+    Kater Aristoteles ist die Welt in
+    Ordnung, solange er der Mittelpunkt der
+    Familie ist. Zufällig bekommt er mit,
+    dass sich Anna einen Hund wünscht.
+    Aristoteles ist zutiefst gekränkt und
+    läuft davon. Wenn er nur früher
+    gewusst hätte, was da auf ihn zukommt!
+    Aus der Sicht des Katers erfahren wir
+    von seinem Straßenleben – humorvoll,
+    unterhaltsam und emotional.
+
+----
+
 Conclusion:
 
 "Wer fragt schon einen Kater?" ist aus der Perspektive des Katers geschrieben und liefert mit dessen Hang zur Dramatik eine eigenwillige, sehr humorvolle Sicht auf die Dinge. Seine Wahrnehmung ist urkomisch und gleichzeitig ernst, denn Aristoteles leidet fürchterlich unter seinen Gefühlen, egal ob sie berechtigt erscheinen oder nicht. Besonders Kinder, denen es ebenso geht wie Aristoteles, die sich vielleicht fragen, ob sie ihren Eltern noch wichtig sind, wenn diese zwischen Arbeit und Geschwistern kaum Zeit für sie finden, können die Höhen und Tiefen des Katers intensiv miterleben. Abhauen ist keine Lösung, das wird deutlich. Meistens ist alles nur halb so schlimm, wie es auf den ersten Blick aussieht und manchmal hat man etwas, das man sucht, längst gefunden.
@@ -40,15 +62,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/wer-fragt-schon-einen-kater-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/wer-fragt-schon-einen-kater-hardcover

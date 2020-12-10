@@ -10,6 +10,20 @@ Verdict: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Sü
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover
+  text: >
+    Ein spannender Krimi, in dem man auch
+    noch viel über die Wildtiere
+    Südafrikas erfährt!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +44,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover
-
-----
-
 Seotitle: Thabo, Detektiv & Gentleman - Der Nashorn-Fall
 
 ----
 
 Seodescription: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
+
+----
+
+Shithap:
+
+- >
+  buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover

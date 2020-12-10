@@ -15,6 +15,17 @@ Verdict:
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/ein-teich-voll-mit-tinte-hardcover
+  text: ""
+
+----
+
 Conclusion:
 
 Es macht Kindern - auch Schülern - Spaß, das Buch in Einheit von Text und Bild zu erschließen. Alle Geschichten zum Vorlesen, Mitsprechen und Angucken sind komisch. Es handelt sich um Lyrik, die über das Rezitieren ohne "Behandlung" spontan wirkt. Gerade Kinder können aufgrund ihrer Unbefangenheit in den hintersinnigen Nonsensgeschichten viel entdecken. Deshalb sind sie auch zum textbezogenen Interpretieren sehr geeignet. In einigen entstehen kuriose Situationen, indem Tiere vermenschlicht werden.
@@ -39,15 +50,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/ein-teich-voll-mit-tinte-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/ein-teich-voll-mit-tinte-hardcover

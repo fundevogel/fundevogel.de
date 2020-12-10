@@ -14,6 +14,22 @@ Verdict: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinde
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
+  text: >
+    Das und noch viel mehr erfährst Du in
+    diesem lustigen Roman für Kinder ab 8
+    Jahren, in dem es auch darum geht, dass
+    man als Team schwierige Abenteuer
+    gemeinsam meistern kann.
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +50,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
-
-----
-
 Seotitle: Grüße vom Mars - Notlandung bei Oma und Opa
 
 ----
 
 Seodescription: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinder ab 8 Jahren, in dem es auch darum geht, dass man als Team schwierige Abenteuer gemeinsam meistern kann.
+
+----
+
+Shithap:
+
+- >
+  buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover

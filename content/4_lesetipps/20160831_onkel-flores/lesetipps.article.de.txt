@@ -14,6 +14,16 @@ Verdict:
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/onkel-flores-hardcover
+  text: ""
+
+----
+
 Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der jedoch ungemütliche Themen wie Umweltverschmutzung und die Auswirkungen der Globalisierung eine wesentliche Rolle spielen. Rauchwolken aus Zeitungspapier, Wiesen und Pflanzen aus grünem Transparentpapier und natürlich viele bunte Stoffreste … ein Blick in das Buch lohnt sich!
 
 ----
@@ -34,14 +44,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/onkel-flores-hardcover
-
-----
-
 Seotitle: Onkel Flores
 
 ----
 
 Seodescription: Das Bilderbuch „Onkel Flores – eine ziemlich wahre Geschichte aus Brasilien“ ist mir gleich durch seine besondere Art aufgefallen: die Bilder sind nämlich …
+
+----
+
+Shithap: - buecher/onkel-flores-hardcover

@@ -16,6 +16,18 @@ Verdict: Eine herrlich witzige und schokoladige Geschichte für junge Leser ab 9
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/schokopokalypse-hardcover
+  text: >
+    Eine herrlich witzige und schokoladige
+    Geschichte für junge Leser ab 9 Jahren.
+
+----
+
 Conclusion: 
 
 ----
@@ -36,14 +48,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/schokopokalypse-hardcover
-
-----
-
 Seotitle: Schokopokalypse
 
 ----
 
 Seodescription: Eine herrlich witzige und schokoladige Geschichte für junge Leser ab 9 Jahren.
+
+----
+
+Shithap: - buecher/schokopokalypse-hardcover

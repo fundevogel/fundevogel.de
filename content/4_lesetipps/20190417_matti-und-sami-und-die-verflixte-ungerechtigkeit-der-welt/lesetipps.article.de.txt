@@ -14,6 +14,20 @@ Verdict: Eine turbulente Geschichte, mal schräg, mal witzig, bei der man ganz n
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
+  text: >
+    Eine turbulente Geschichte, mal schräg,
+    mal witzig, bei der man ganz nebenbei
+    auch ein bisschen Finnisch lernt.
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +48,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
-
-----
-
 Seotitle: Matti und Sami und die verflixte Ungerechtigkeit der Welt
 
 ----
 
 Seodescription: Eine turbulente Geschichte, mal schräg, mal witzig, bei der man ganz nebenbei auch ein bisschen Finnisch lernt.
+
+----
+
+Shithap:
+
+- >
+  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover

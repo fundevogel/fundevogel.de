@@ -16,6 +16,22 @@ Verdict: Wer hat nicht schon mal davon geträumt, sich mit den Vögeln auf Weltr
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/voegel-auf-weltreise-hardcover
+  text: >
+    Wer hat nicht schon mal davon geträumt,
+    sich mit den Vögeln auf Weltreise zu
+    begeben und deren Geheimnis zu lüften?
+    Das Buch „Vögel auf Weltreise“
+    kommt diesem Traum ein großes Stück
+    näher.
+
+----
+
 Conclusion:
 
 Die Kapitelüberschriften sind teilweise als Fragen formuliert und machen neugierig auf den Inhalt. Diese Kapitel sind jeweils in kleinere überschaubare Abschnitte gegliedert. Fachbegriffe werden meist direkt erklärt. Vogelzugrekorde am Ende des Buches runden das Ganze ab.
@@ -44,14 +60,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/voegel-auf-weltreise-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/voegel-auf-weltreise-hardcover

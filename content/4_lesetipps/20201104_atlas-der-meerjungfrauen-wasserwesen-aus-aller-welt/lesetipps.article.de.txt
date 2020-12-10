@@ -18,6 +18,25 @@ Verdict: Der "Atlas der Meerjungfrauen" ist ein Sammelsurium von Geschichten, M�
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/atlas-der-meerjungfrauen-hardcover
+  text: >
+    Der "Atlas der Meerjungfrauen" ist ein
+    Sammelsurium von Geschichten, Märchen
+    und Sagen über bekannte und unbekannte
+    Meereswesen aus aller Welt. Geordnet
+    nach Kontinenten und in Form eines
+    erzählenden Nachschlagewerkes entführt
+    das Buch den Leser in geheimnisvolle und
+    zauberhafte Unterwasserwelten.
+
+----
+
 Conclusion:
 
 ### Abtauchen in die Unterwasserwelt
@@ -45,15 +64,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/atlas-der-meerjungfrauen-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/atlas-der-meerjungfrauen-hardcover

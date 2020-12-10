@@ -10,6 +10,19 @@ Verdict: Eine warmherzige Geschichte über eine besondere Freundschaft – poeti
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/esperanza-hardcover
+  text: >
+    Eine warmherzige Geschichte über eine
+    besondere Freundschaft – poetisch
+    erzählt, spannend geschrieben.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,14 +43,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/esperanza-hardcover
-
-----
-
 Seotitle: Esperanza
 
 ----
 
 Seodescription: Eine warmherzige Geschichte über eine besondere Freundschaft – poetisch erzählt, spannend geschrieben.
+
+----
+
+Shithap: - buecher/esperanza-hardcover

@@ -18,6 +18,26 @@ Verdict: "Ich sehne mich nach Zahnpastageschmack, ich sehne mich nach Tagen, an 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/mehr-schwarz-als-lila-hardcover
+  text: >
+    "Ich sehne mich nach Zahnpastageschmack,
+    ich sehne mich nach Tagen, an denen ich
+    keine Angst hatte vor Antworten auf
+    Fragen, die ich nun nicht zu stellen
+    wage." Sätze wie dieser sind es, die
+    "Mehr Schwarz als Lila" von Lena Gorelik
+    zu einem beeindruckenden Roman über
+    Freundschaft, Liebe, Erinnerung und den
+    einen Moment machen, in dem alles aufs
+    Spiel gesetzt wird.
+
+----
+
 Conclusion:
 
 Der Roman von Lena Gorelik verlangt Jugendlichen Lesern einiges ab. Denn "Mehr Schwarz als Lila" ist wie bspw. Herrendorfs "Tschick" ein Roman für Jugendliche, der auch von Erwachsenen mit viel Freude und obendrein mit Gewinn gelesen werden wird. So thematisiert Gorelik auch auf innovative Weise Fragen der Angemessenheit von Erinnerung: "Pietätlos, schamlos, Sittenverfall, missratene Jugend, die trauen sich was, Verfall der Jugend, wie geil ist das denn, ordinär, heiliger Ort, voll krass ey, das Ende des Anstands" (207) und so weiter, lauten die Kuss-Kommentare im Internet.
@@ -42,14 +62,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/mehr-schwarz-als-lila-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/mehr-schwarz-als-lila-hardcover

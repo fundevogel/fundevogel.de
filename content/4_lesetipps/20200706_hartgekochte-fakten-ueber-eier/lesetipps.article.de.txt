@@ -14,6 +14,22 @@ Verdict: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wi
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/hartgekochte-fakten-ueber-eier-hardcover
+  text: >
+    Das Buch ist ein Sammelsurium gespickt
+    mit Fakten rund ums Ei. Neben
+    wissenschaftlichen Fakten haben auch
+    Redewendungen, Bastelideen und Rezepte
+    Platz im Buch gefunden.
+
+----
+
 Conclusion:
 
 Mit Redewendungen, Sprichwörtern, Experimenten, Bastelideen und sogar Rezepten ist ein abgerundetes und vielseitiges Werk entstanden. Los geht es mit Fakten rund ums Huhn. Zu den verschiedenen Vögeln und ihren Eiern, zu Eiern von Insekten, Schlangen und Echsen, von Fischen und sogar von Dinos vermittelt das Buch viele Besonderheiten und Kuriositäten. Aber auch die menschliche Befruchtung sowie historische Eier bereichern den Inhalt des Buches.
@@ -40,15 +56,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/hartgekochte-fakten-ueber-eier-hardcover
-
-----
-
 Seotitle: Hartgekochte Fakten über Eier
 
 ----
 
 Seodescription: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
+
+----
+
+Shithap:
+
+- >
+  buecher/hartgekochte-fakten-ueber-eier-hardcover

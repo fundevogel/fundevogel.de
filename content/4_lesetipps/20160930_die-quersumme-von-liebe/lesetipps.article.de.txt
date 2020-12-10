@@ -16,6 +16,22 @@ Verdict: Katrin Zipse entwickelt in ihrem Roman ein beachtenswertes Psychogramm 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/die-quersumme-von-liebe-hardcover
+  text: >
+    Katrin Zipse entwickelt in ihrem Roman
+    ein beachtenswertes Psychogramm der
+    Suche nach Wahrheit, Wahrhaftigkeit und
+    dem eigenen Selbstverständnis. Ein
+    echtes Leseerlebnis.
+
+----
+
 Conclusion:
 
 Der Plot, dass ein adoleszenter Protagonist erkennt, dass die Kinderwelt eine Traumwelt ist, kann nicht als neu bezeichnet werden. Aber die Suche nach der Wahrheit hinter den Lügen wird von Zipse auf schönste Weise erzählerisch gestaltet. Das Buch erzählt in Vor-, Rück- und Sonstwohinsprüngen (gemeint sind Einschübe, die sich später als Bildbetrachtungen zu erkennen geben). Das ist anspruchsvolle und herausfordernde Prosa, die höchste ästhetische Erzählgenüsse verspricht – und erfüllt. Aber die chronologisch gebrochene Erzählweise ist nicht die Folge eines Aufspringens auf den Zug moderner Erzählformen, sondern hat ihre Berechtigung darin, die Suche der Protagonisten, die Verwirrung und die Entwicklung plastisch darstellen zu können.
@@ -45,15 +61,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/die-quersumme-von-liebe-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/die-quersumme-von-liebe-hardcover

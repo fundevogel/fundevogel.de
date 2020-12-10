@@ -16,6 +16,28 @@ Verdict: Jedes Jahr unternehmen Tiere Wanderungen und legen dabei Tausende von K
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/wanderungen-hardcover
+  text: >
+    Jedes Jahr unternehmen Tiere Wanderungen
+    und legen dabei Tausende von Kilometern
+    zurück. Gründe dafür sind die Suche
+    nach Nahrung oder sichere
+    Fortpflanzungsplätze. Insgesamt haben
+    20 interessante und durch den Autor Mike
+    Unwin sehr gut recherchierte
+    Tierwanderungen den Platz ins Buch
+    gefunden. Diese werden durch
+    beeindruckende großflächig gezeichnete
+    Naturbilder von Jenni Desmond würdigend
+    ergänzt.
+
+----
+
 Conclusion:
 
 Jeder Tierart ist eine Doppelseite gewidmet, wobei der gut recherchierte und interessant erzählte Sachtext ca. ein Viertel der Seite einnimmt. Er ist gut verständlich und enthält zahlreiche spannende Informationen. Dazu gibt es noch einen kleinen Steckbrief zur Tierart. Ergänzt und zum Leben erweckt, wird der Text durch bemerkenswerte Tierillustrationen, die entweder ein einzelnes Tier oder gleich ganze Schwärme bzw. Herden davon abbilden. Der Illustratorin Jenni Desmond ist es gelungen, einige Naturschauspiele, insbesondere die Wanderung der Monarchfalter, so gut einzufangen, dass man von der detailreichen Darstellung wirklich beeindruckt ist. Ob tosende Wellen, weite Steppen, Wälder, Eis und Schnee, jedes Tier wird lebensnah in seine entsprechende Umgebung eingefügt. Die pastellfarbenen Aquarelle dominieren die Seiten und mit dünnen Strichen werden Einzelheiten sichtbar gemacht und Akzente gesetzt.
@@ -42,14 +64,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/wanderungen-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/wanderungen-hardcover

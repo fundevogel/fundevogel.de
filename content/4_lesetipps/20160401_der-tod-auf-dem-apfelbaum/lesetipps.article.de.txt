@@ -16,6 +16,31 @@ Verdict: Kein Entstehen ohne Vergehen, kein Leben ohne Tod. Das ist schon mal kl
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/der-tod-auf-dem-apfelbaum-hardcover
+  text: >
+    Kein Entstehen ohne Vergehen, kein Leben
+    ohne Tod. Das ist schon mal klar.
+    Physiker sprechen vom
+    Energie-Erhaltungs-Gesetz. Wir aber
+    versuchen dennoch, ihn zu überlisten,
+    den Tod. Wir erfahren, dass es nicht
+    "einen" Tod gibt, dass vielmehr jeder
+    seinen eigenen hat, auch der Fuchs. Ihm
+    gelingt es nun, seinen Tod auf dem
+    Apfelbaum festzukleben, und nur er
+    selbst kann ihn befreien. – Wie nur
+    kann man derart beeindruckend und
+    stimmig Gefühle zeichnen, Frau
+    Schärer?
+
+----
+
 Conclusion:
 
 Dass diese Aussicht nicht wirklich wünschenswert ist, zeigt uns diese Geschichte, die wir leseunkundigen Kindern zeigen können, ohne sie vorzulesen. Das ist sehr spannend und das Ende ist keinesfalls eindeutig. Die Kinder erkennen den Tod nicht direkt, sieht er doch gar nicht so aus, wie er sonst dargestellt wird. Hier ist er nicht in schwarzer Kleidung, trägt auch keine Sense und ist auch kein Skelett. Das weiße Abbild eines Fuchses, leicht durchsichtig, sitzt nun also angeklebt auf dem Baum, der auf einer Doppelseite alle vier Jahreszeiten zugleich von links nach rechts zeigt. Unser Fuchs sitzt zu Füßen des Baums, seine Frau ist gestorben, seine Freunde sind tot, seine Gebrechen sind größer geworden, sein linkes Auge ist grau geworden wie sein Unterfell.
@@ -44,15 +69,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/der-tod-auf-dem-apfelbaum-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/der-tod-auf-dem-apfelbaum-hardcover

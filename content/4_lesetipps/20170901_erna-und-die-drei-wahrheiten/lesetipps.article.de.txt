@@ -16,6 +16,23 @@ Verdict: Sich mit drei Wahrheiten, deiner, meiner und „der Wahrheit“ zurecht
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/erna-und-die-drei-wahrheiten-hardcover
+  text: >
+    Sich mit drei Wahrheiten, deiner, meiner
+    und „der Wahrheit“ zurechtzufinden
+    und trotzdem seine Identität nicht zu
+    verlieren, ist eine große Kunst. Dies
+    gelingt Erna mit viel Anstrengung und
+    Aufrichtigkeit.
+
+----
+
 Conclusion:
 
 Erna ist ein durch und durch sympathisches Mädchen, die ich gern zur Freundin hätte, auch oder gerade, weil sie ihre Fahne nicht in den Wind hängt. Dieses Buch ist ein Hoch auf autonome, selbstbewusste Kinder! Die Auseinandersetzung mit einem so wichtigen aber auch schwierigen Thema wie Demokratie gelingt der Autorin ausgezeichnet. Dafür nutzt sie die Metapher unterschiedlicher Wahrheiten, die jeder so verwendet, wie er es für richtig hält. Es werden die verschiedenen Zutaten für moralisch korrektes Verhalten herausgearbeitet. So ist auf der einen Seite die lebensphilosophische Grundhaltung (im Buch: Wir haben uns alle lieb), auf der anderen Seite die ganz natürliche Sympathie und Antipathie zwischen Menschen und das wichtige Bauchgefühl, was richtig und falsch ist. Dazu kommen Regeln und Gesetze, deren Auslegung auch unterschiedlich ist. Ganze Bücher werden mit Kommentaren zu Gesetzen geschrieben! Und doch wird klar, wie wichtig es ist, seine eigene Position zu haben und nicht gegen sein Bauchgefühl zu handeln. Das ist die unmissverständliche Botschaft des Buches. Courage ist gefragt!
@@ -40,15 +57,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/erna-und-die-drei-wahrheiten-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/erna-und-die-drei-wahrheiten-hardcover

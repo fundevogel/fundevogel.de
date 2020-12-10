@@ -10,6 +10,18 @@ Verdict: Ein spannender Comic-Krimi aus der Schule!
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/sherlock-co-hardcover
+  text: >
+    Ein spannender Comic-Krimi aus der
+    Schule!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,14 +42,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/sherlock-co-hardcover
-
-----
-
 Seotitle: Sherlock & Co
 
 ----
 
 Seodescription: Ein spannender Comic-Krimi aus der Schule!
+
+----
+
+Shithap: - buecher/sherlock-co-hardcover

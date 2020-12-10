@@ -19,6 +19,23 @@ Verdict: Mal schelmisch, mal ernst, mal komisch er­zählt Ulf Stark in "Als ich
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/als-ich-die-pflaumen-des-riesen-klaute-hardcover
+  text: >
+    Mal schelmisch, mal ernst, mal komisch
+    er­zählt Ulf Stark in "Als ich die
+    Pflaumen des Riesen klaute" von
+    Freundschaft, Verrat und Helden­taten.
+    Und von dem Abenteuer, das immer schon
+    gleich hinter der nächsten Ecke lauert.
+
+----
+
 Conclusion:
 
 ### Autobiographische Elemente
@@ -44,15 +61,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/als-ich-die-pflaumen-des-riesen-klaute-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/als-ich-die-pflaumen-des-riesen-klaute-hardcover

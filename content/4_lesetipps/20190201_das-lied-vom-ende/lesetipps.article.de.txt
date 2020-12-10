@@ -10,6 +10,26 @@ Verdict: Aus wechselnder Perspektive einzelner Familienmitglieder werden die Gre
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/das-lied-vom-ende-hardcover
+  text: >
+    Aus wechselnder Perspektive einzelner
+    Familienmitglieder werden die
+    Grenzerfahrungen der Familie Schult
+    erzählt, die Folgen des erweiterten
+    Suizids durch den Vater in der
+    Nachbarsfamilie sind. In einer Mischung
+    aus Coming-of-Age-Geschichte und
+    Familiendrama gibt der Roman Einblick in
+    eine komplexe Figurenpsychologie im
+    Moment existenzieller Krisen.
+
+----
+
 Conclusion:
 
 Die Perspektiven der Figuren auf eine aus den Fugen gebrachte Kleinstadtidylle werden abwechselnd in direkter und klarer Sprache dargeboten. Dieser schnörkellose Schreibstil erfüllt zwei Funktionen. Zum einen erscheint die Sprache -- auch die Jugendsprache -- als überaus realistisch. Zum anderen ist man beim Lesen auf diese Weise ganz nah an den Figuren.
@@ -36,14 +56,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/das-lied-vom-ende-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/das-lied-vom-ende-hardcover

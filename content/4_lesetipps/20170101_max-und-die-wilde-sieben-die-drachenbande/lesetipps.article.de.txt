@@ -14,6 +14,30 @@ Verdict: Wer würde vermuten, dass auf Burg Geroldseck, einem Altenheim, vier De
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover
+  text: >
+    Wer würde vermuten, dass auf Burg
+    Geroldseck, einem Altenheim, vier
+    Detektive wohnen? Die vier
+    ungewöhnlichen Ermittler (ein Junge und
+    drei Alte) verstehen ihr Handwerk
+    meisterhaft. Als Kater Motzkopf und
+    weitere Tiere verschwinden, folgen sie
+    den Spuren der gemeinen Drachen-Bande
+    und stecken bald in einer brenzligen
+    Situation. Ob das gut ausgeht?
+    Humorvoll, spannend und dennoch
+    tiefgründig und emotional hat diese
+    Detektivgeschichte einiges zu bieten.
+
+----
+
 Conclusion:
 
 Neben seinem vermissten Kater beschäftigen Max weitere Sorgen. Eine davon heißt Ole, geht in seine Klasse und macht Max und weiteren MitschülerInnen das Leben schwer. Dank der klugen Ratschlägen seiner altersweisen Freunde findet er Wege, sich gegen das Mobbing zu wehren und fährt kleine Siege gegen Ole ein. Deutlich stärker belastet ihn ein Geheimnis seiner Mutter, das er zufällig lüftet. Die darauffolgende Eskalation zwischen Mutter und Sohn ist für beide Seiten verletzend und Max kann sich glücklich schätzen, dass er in schwierigen Situationen auf die drei Alten zählen kann. Damit weist die Erzählung drei Handlungsstränge auf, die einander abwechseln und teils gekonnt miteinander verwoben sind. Ihre zeitversetzten Spannungsbögen halten die Spannung bis zum Schluss aufrecht.
@@ -38,15 +62,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover

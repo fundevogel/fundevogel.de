@@ -14,6 +14,17 @@ Verdict:
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
+  text: ""
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +45,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
-
-----
-
 Seotitle: Toni - und alles nur wegen Renato Flash
 
 ----
 
 Seodescription: Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballschuhen ‚Renato Flash‘ erfährt, ist sofort klar: Diese Schuhe muss er haben. Sie …
+
+----
+
+Shithap:
+
+- >
+  buecher/toni-und-alles-nur-wegen-renato-flash-hardcover

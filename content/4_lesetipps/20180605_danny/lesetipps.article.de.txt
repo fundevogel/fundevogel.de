@@ -10,6 +10,19 @@ Verdict: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/danny-oder-die-fasanenjagd-taschenbuch
+  text: >
+    Eine mitreißende Familiengeschichte
+    über Zusammenhalt und Mut.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +43,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/danny-oder-die-fasanenjagd-taschenbuch
-
-----
-
 Seotitle: Danny oder die Fasanenjagd
 
 ----
 
 Seodescription: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
+
+----
+
+Shithap:
+
+- >
+  buecher/danny-oder-die-fasanenjagd-taschenbuch

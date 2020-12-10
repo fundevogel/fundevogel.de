@@ -10,6 +10,16 @@ Verdict: "Read this" urteilt John Green und David Levithan spricht von einem "he
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/george-hardcover
+  text: '"Read this" urteilt John Green und David Levithan spricht von einem "herausragenden Buch". Ein begeistertes Echo von zwei hochkarätigen Jugendbuchautoren. Und man muss ihnen rechtgeben: In der KJL ist schon vieles bearbeitet worden. Aber das Thema Transgender steht noch aus. Alex Gino hat sich dieser Lücke angenommen.'
+
+----
+
 Conclusion:
 
 Alex Gino findet für seine Geschichte eine stille Sprache, die dem Erzählten gerade dadurch Tiefe gibt. Er entsagt jedweder Hysterie oder Aufgeregt-Sein, die ob der Dringlichkeit Transgender in der KJL zu thematisieren denkbar wäre. Das tut dem Buch gut und verleiht ihm Glaubwürdigkeit. Der Authentizität merkt man an, dass Alex Gino aus eigener Erfahrung schreibt. Der in New York geborene und heute in Kalifornien lebende US-Amerikaner ist seit 20 Jahren in der queeren und transgender Bewegung aktiv und weiß genau, wovon er erzählt. Entsprechend stimmig ist Georgs Ringen dargestellt, sich seiner Mutter und der besten Freundin zu öffnen. Es fehlen George die Worte bzw. diese wollen nicht über die Lippen.
@@ -36,14 +46,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/george-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/george-hardcover

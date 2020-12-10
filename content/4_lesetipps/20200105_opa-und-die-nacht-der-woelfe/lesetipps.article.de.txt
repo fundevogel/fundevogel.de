@@ -14,6 +14,27 @@ Verdict: Normalerweise passen Opas auf ihre Enkel auf, aber bei Olli ist es ande
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/opa-und-die-nacht-der-woelfe-hardcover
+  text: >
+    Normalerweise passen Opas auf ihre Enkel
+    auf, aber bei Olli ist es andersrum.
+    Sein Opa läuft einfach weg und beschert
+    Olli richtig peinliche Situationen. Doch
+    in einer Vollmondnacht staunt der Junge
+    sehr. Sein gebrechlicher, alter Opa
+    verwandelt sich in einen kraftvollen
+    Wolf. Obwohl am nächsten Morgen wieder
+    alles beim Alten ist, hat diese Nacht
+    viel verändert.
+
+----
+
 Conclusion:
 
 Aufgrund der Erlebnisse in der phantastischen Welt kehrt Olli erfahrungsreich zurück und kann die Schwierigkeiten mit seinem dementen Opa anschließend anders einordnen und bewerten. Zusätzliche Spannung wird durch die Verflechtung der phantastischen Erzählung mit Aspekten einer Detektivgeschichte erzeugt. Die personale Erzählperspektive ermöglicht Einblicke in Ollis ambivalente Gefühlswelt, die dezent aber sehr gelungen herausgearbeitet wurde. Hierin liegt die Stärke des Buches. Kinder, die ähnliches erleben, finden sich darin einerseits wieder, andererseits bleibt ausreichend Raum für davon abweichende, persönliche Empfindungen.
@@ -38,15 +59,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/opa-und-die-nacht-der-woelfe-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/opa-und-die-nacht-der-woelfe-hardcover

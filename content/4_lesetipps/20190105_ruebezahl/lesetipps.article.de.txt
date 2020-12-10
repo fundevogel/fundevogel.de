@@ -14,6 +14,26 @@ Verdict: Rübezahl ist eine Sagengestalt aus dem Riesengebirge, die immer mehr i
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ruebezahl-hardcover
+  text: >
+    Rübezahl ist eine Sagengestalt aus dem
+    Riesengebirge, die immer mehr in
+    Vergessenheit gerät, sofern es nicht
+    Kinderbücher wie dieses gibt. Als
+    Grundlage dienten die Rübezahl-Sagen
+    von Johannes Praetorius, publiziert im
+    Jahr 1920, von denen etwa ein Drittel
+    ausgewählt und mit großer Sorgfalt in
+    eine modernere Sprache übertragen
+    wurde.
+
+----
+
 Conclusion:
 
 Ebenso wechselhaft wie sein Äußeres ist Rübezahls Wesen. Mal freundlich und einfühlsam zeigt er sich schon im nächsten Moment als herablassendes und herrisches Wesen, das in seiner Langeweile mit den Menschen spielt, die zufällig in seinem Gebirge sind. Wenn er ihnen Streiche spielt, erinnert er an Till Eulenspiegel, als er aus Holz Gold werden lässt, an Rumpelstilzchen. Wiederholt finden sich Bezüge zu anderen literarischen Werken, was den Reiz des Kinderbuches für Erwachsene erhöht.
@@ -43,14 +63,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/ruebezahl-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/ruebezahl-hardcover

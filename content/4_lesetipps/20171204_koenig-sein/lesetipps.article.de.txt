@@ -15,6 +15,21 @@ Verdict: Ein König ist ein König, weil er eine Krone hat. Könige können alle
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/koenig-sein-hardcover
+  text: >
+    Ein König ist ein König, weil er eine
+    Krone hat. Könige können alles
+    bestimmen, was seine Untergebenen
+    zulassen. Sich gegen Gorillas zur Wehr
+    zu setzen, fällt allerdings schwer.
+
+----
+
 Conclusion:
 
 Eine sehr ergreifende Parabel erzählt Mario Ramos und gestaltet sie eindringlich als Bilderbuch für Kinder ab 4 Jahren mit dem kleinen Helden Gilli. Leider kommt der französische Ausdruck "faire guili-guili" = jemanden kitzeln, Killekille machen, in der Übersetzung nicht heraus, ist es doch eben diese Leichtigkeit, die die Biestigkeit überführt – und nicht nur einmal.
@@ -41,14 +56,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/koenig-sein-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/koenig-sein-hardcover

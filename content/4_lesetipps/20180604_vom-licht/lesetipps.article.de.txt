@@ -16,6 +16,22 @@ Verdict: Das Jugendbuch „Vom Licht“ ist Aussteigerroman, radikale Reflexion 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/vom-licht-hardcover
+  text: >
+    Das Jugendbuch „Vom Licht“ ist
+    Aussteigerroman, radikale Reflexion und
+    verstörende Familiengeschichte. Autor
+    Anselm Neft gibt darin einen tiefen
+    Einblick in fundamentalistisches Denken
+    und den radikalen Kern des Christentums.
+
+----
+
 Conclusion:
 
 Die Komplexität des Romans und seine literarische Qualität werden ferner durch die Ambivalenz aller Figuren sowie ihre stete Entwicklung konstituiert. Zu Beginn ist Adam noch kindlich naiv. Seine große Schwester fängt da bereits an, sich von den Vorstellungen des Elternhauses zu emanzipieren. Beim Lesen fragt man sich durchweg, wie Adam den Absprung aus der kleinen Sekte ebenso schaffen könnte. Die Anziehungskraft eines geschlossenen Weltbildes wird als Hindernis besonders in einem Kapitel greifbar, in dem eine Stunde des zu Hause stattfindenden Religionsunterrichts recht ungefiltert nachgezeichnet wird. Die Mutter als Lehrerin bringt ihre Kinder zum Nachdenken. Es herrscht eine offene und produktive Atmosphäre. Alles wirkt, als könne diese Form des Lernens und der Erziehung für Adams Entwicklung nicht schlecht sein. Als Adam dann aber für den Leser seine zentralen Erkenntnisse niederschreibt, kommt man aus dem Staunen nicht mehr heraus. Es handelt sich durchweg um Vorstellungen, die so krude ausfallen, dass die Erziehung Adams als das erscheint, was sie ist: Gehirnwäsche. Da diese jedoch gerade nicht geistlos geschieht, sondern durch ständiges Infragestellen aller Gewissheiten, macht den Roman doppelbödig und selbstreferenziell. Auch er ist durch und durch geistvoll.
@@ -43,14 +59,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/vom-licht-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/vom-licht-hardcover

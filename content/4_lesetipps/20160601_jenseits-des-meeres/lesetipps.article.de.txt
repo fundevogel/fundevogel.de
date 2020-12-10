@@ -16,6 +16,16 @@ Verdict: Der Roman "Jenseits des Meeres" ist ein beeindruckendes Buch zu den The
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/jenseits-des-meeres-hardcover
+  text: 'Der Roman "Jenseits des Meeres" ist ein beeindruckendes Buch zu den Themen, die uns auch in den kommenden Jahren viel beschäftigen werden: Flucht, Angst, Heimat und Verlust. Themen, die es für uns alle erforderlich machen, die Perspektive zu wechseln, um nur ansatzweise nachempfinden zu können, was es heißt, alles zu verlieren. Jon Walter nutz dazu eine besonderer Leistung von Literatur: Er erschafft einen Erfahrungs- und Reflexionsraum, in dem der Leser die Perspektive eines zehnjährigen Flüchtlingskindes einüben darf.'
+
+----
+
 Conclusion:
 
 Nicht nur aber besonders der erste Teil des Romans ist von schier zahllosen Fragen Maliks durchsetzt. Der Drang Maliks zu fragen ist zum einen Spiegel seiner inneren Verunsicherung. Gleichzeitig haben die Fragen aber auch eine wichtige Funktion in der Art der Darstellung des Erzählten. Erzählt wird die Geschichte nämlich von einem heterodiegetischen Erzähler, der seinen Erzählstandort wechselnd hinter Malik oder hinter dem Großvater einnimmt. Als Leser ist man dadurch mal ganz nah am Großvater und mal ganz nah an Malik dran und nimmt die Welt mit wechselndem Blick wahr. Obwohl der Erzähler kaum in die Innenperspektive der Figuren wechselt (man spricht von einer externen Fokalisierung), bietet der wechselnde Erzählstandort einem die unterschiedlichen Perspektiven von Malik und dem Großvater zur Übernahme an. Vielleicht ist es gerade diese Angebotshaltung, die Aufforderung, die Innenperspektive selbstständig auszugestalten, die das tiefe Einsteigen und Einfühlen ermöglicht. Wenn man nämlich vor der – ohne Frage – hohen Anforderung nicht zurückschreckt, sich subjektiv in die Geschichte zu involvieren und gleichzeitig den Text genau wahrzunehmen, dann eröffnen sich ein besonderes Spannungserleben und Ergriffensein. Der Standortwechsel des Erzählers und die Aufforderung beide Perspektiven parallel auszugestalten, bieten dem Leser ein Wissensvorsprung vor Malik: Man ahnt und weiß mehr, als Malik, und erlebt die Antworten, die der Großvater auf die Fragen Maliks gibt, mit einem erdrückenden Spannungsempfinden. Das Fragen Maliks ist somit auch eine Strategie, um den Leser die Zerrissenheit des Großvaters erlebbar zu machen.
@@ -42,14 +52,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/jenseits-des-meeres-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/jenseits-des-meeres-hardcover

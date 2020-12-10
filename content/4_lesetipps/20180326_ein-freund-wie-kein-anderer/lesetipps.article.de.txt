@@ -10,6 +10,20 @@ Verdict: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorur
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/ein-freund-wie-kein-anderer-hardcover
+  text: >
+    Eine berührende, aber auch witzige
+    Freundschaftsgeschichte gegen
+    Vorurteile.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +44,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/ein-freund-wie-kein-anderer-hardcover
-
-----
-
 Seotitle: Ein Freund wie kein anderer
 
 ----
 
 Seodescription: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorurteile.
+
+----
+
+Shithap:
+
+- >
+  buecher/ein-freund-wie-kein-anderer-hardcover

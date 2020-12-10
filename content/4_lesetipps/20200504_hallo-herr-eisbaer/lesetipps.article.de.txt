@@ -14,6 +14,28 @@ Verdict: Liam ist ein besonderes Kind. Schon mit kleinen Veränderungen der täg
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/hallo-herr-eisbaer-hardcover
+  text: >
+    Liam ist ein besonderes Kind. Schon mit
+    kleinen Veränderungen der täglichen
+    Routine kommt er nur schlecht zurecht
+    und die ganze Familie muss Rücksicht
+    auf ihn nehmen. Darunter leidet vor
+    allem sein Bruder Arthur, der quasi in
+    letzter Sekunde Hilfe von einem
+    Eisbären erhält. Ein ebenso
+    ernsthaftes wie humorvolles Kinderbuch,
+    in dem die Empfindungen des
+    Geschwisterkindes von einem Autisten
+    feinfühlig zum Ausdruck kommen.
+
+----
+
 Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingeflochten sind, und der Entwicklung des Protagonisten überzeugt das Layout des Kinderbuches. Sätze schwingen sich um das Bild oder steigen treppenförmig bergab, während starken Emotionen, wie Wut, an entscheidender Stelle mit großen Buchstaben Ausdruck verliehen wird. Text und Schwarzweißillustrationen bilden eine gelungene Einheit. Ganz im Sinne von Inklusion und damit im Einklang mit dem Buchinhalt ermöglicht die große Schrift und verhältnismäßig einfache Sprache vielen Kindern, auch Leseanfängerinnen und Leseanfängern, einen Zugang zum Buch. Die Erzählung ist unter gleichlautendem Titel bei *Hörcompany* als Hörbuch erschienen.
 
 ----
@@ -34,14 +56,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/hallo-herr-eisbaer-hardcover
-
-----
-
 Seotitle: Hallo, Herr Eisbär!
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/hallo-herr-eisbaer-hardcover

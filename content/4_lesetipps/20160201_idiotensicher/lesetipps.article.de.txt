@@ -16,6 +16,23 @@ Verdict: Dirk Popes Erstlingswerk ist ein frisches und freches Jugendbuch, das v
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/idiotensicher-hardcover
+  text: >
+    Dirk Popes Erstlingswerk ist ein
+    frisches und freches Jugendbuch, das vor
+    allem durch seine Direktheit und Sprache
+    zu gefallen weiß. Die Abenteuer der
+    Gruppe erinnern einen teilweise an Mark
+    Twains "Die Abenteuer des Huckleberry
+    Finn".
+
+----
+
 Conclusion:
 
 Interessant ist vor allem die Erzählweise des Buches. Das in drei Akte aufgeteilte Buch verläuft dabei in einer nicht linearen Erzählweise. In Protokollen mit Basti, Joss und Elín muss der Leser sich die Geschichte vor seinem geistigen Auge zusammensetzen. Der jeweils dominierende "Ich-Erzähler" verlangt immer wieder einen protagonistischen Perspektivwechsel. Durch die Protokollerzählung wird auch klar, dass die kriminellen Aktivitäten wohl von der Polizei aufgedeckt wurden. Somit wird dem Leser vor Augen geführt, dass kriminelle Handlungen nicht im luftleeren Raum geschehen, sondern Konsequenzen haben. Pope verzichtet dabei auf den erhobenen Zeigefinger und eine Bewertung aus Sicht der Exekutiven. Vielmehr lässt er lieber seine Hauptpersonen zu Wort kommen und reflektieren.
@@ -40,14 +57,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/idiotensicher-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/idiotensicher-hardcover

@@ -10,6 +10,21 @@ Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel,
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/das-u-boot-auf-dem-berg-hardcover
+  text: >
+    Eine witzige und berührende Geschichte
+    über einen wahnsinnigen Onkel, der
+    eigentlich eine psychische Krankheit
+    hat.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +45,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/das-u-boot-auf-dem-berg-hardcover
-
-----
-
 Seotitle: Das U-Boot auf dem Berg
 
 ----
 
 Seodescription: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
+
+----
+
+Shithap:
+
+- >
+  buecher/das-u-boot-auf-dem-berg-hardcover

@@ -16,6 +16,27 @@ Verdict: Zwei Freunde, die sich zum Verwechseln ähnlich sehen, aber aus untersc
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/das-leben-meines-besten-freundes-hardcover
+  text: >
+    Zwei Freunde, die sich zum Verwechseln
+    ähnlich sehen, aber aus
+    unterschiedlichen Lebenswelten stammen,
+    tauschen für einige Zeit ihre Rollen,
+    um sich gegenseitig zu helfen. Da muss
+    ein verschwundener Vater gesucht werden
+    und die erste Liebe für sich gewonnen
+    werden. Das sind die Themen des Romans
+    "Das Leben meines besten Freundes" von
+    Judith Gridl.
+
+----
+
 Conclusion:
 
 Die beiden Jungen sehen nur eine Chance, den erneuten Rollentausch. So entsteht eine Parallelgeschichte in der die beiden versuchen ihre Ziele auf unterschiedliche Weise zu erreichen. Jakob in Berlin und unterstützt von seiner älteren Cousine Marie aus London. Passend zu einem modernen Jugendroman kommuniziert sie als Ratgeberin mit modernen Kommunikationsmitteln über ihr Smartphone. Diese kurzen Einschübe lockern das Buch immer wieder auf und bringen so die Geschichte Stück für Stück weiter. Samir, eigentlich stärker in der realen Welt daheim nutzt währenddessen die moderne Welt des Internets zur Recherche. So kommt er langsam dem Geheimnis des Verschwindens seines Vaters immer näher. Im Internat muss er dabei allerlei Prüfungen bestehen: Er muss zum ersten Mal die Hilfe eines Mädchens in Anspruch nehmen, kommt natürlich nicht mit den snobistischen Mitschülern klar und es kommt immer wieder zu Szenen in denen seine Tarnung zu kippen droht.
@@ -42,15 +63,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/das-leben-meines-besten-freundes-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/das-leben-meines-besten-freundes-hardcover

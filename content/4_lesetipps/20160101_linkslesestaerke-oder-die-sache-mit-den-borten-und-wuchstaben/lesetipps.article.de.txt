@@ -18,6 +18,17 @@ Verdict:
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover
+  text: ""
+
+----
+
 Conclusion:
 
 Gut ist, dass Janotta Mira nicht als graues Mäuschen zeigt. Das Mädchen ist nicht auf den Mund gefallen, neugierig, froh, aufgeschlossen. Eben ein ganz normales Mädchen - mit einer Schwäche. Daß Mobbingopfer keineswegs von vornherein die Schwachen sind, zeigt Janotta eindrucksvoll.
@@ -48,15 +59,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/linkslesestaerke-oder-die-sache-mit-den-borten-und-wuchstaben-hardcover

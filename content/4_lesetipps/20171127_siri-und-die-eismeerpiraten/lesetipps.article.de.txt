@@ -16,6 +16,20 @@ Verdict: Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/siri-und-die-eismeerpiraten-hardcover
+  text: >
+    Ein Kinderbuch mit einem starken,
+    tapferen Mädchen und mutigen Kindern,
+    die das Herz am rechten Fleck haben.
+
+----
+
 Conclusion: Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim Knopf. Denn es erzählt weit mehr als ein spannende Abenteuergeschichte: es erzählt von Geschwisterliebe, von der Kraft der Freundschaft und vom Mut, selbst das unmöglich scheinende zu wagen. Ein zutiefst berührendes Buch, an dem auch Erwachsene viel Freude haben werden.
 
 ----
@@ -36,15 +50,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/siri-und-die-eismeerpiraten-hardcover
-
-----
-
 Seotitle: Siri und die Eismeerpiraten
 
 ----
 
 Seodescription: Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern, die das Herz am rechten Fleck haben.
+
+----
+
+Shithap:
+
+- >
+  buecher/siri-und-die-eismeerpiraten-hardcover

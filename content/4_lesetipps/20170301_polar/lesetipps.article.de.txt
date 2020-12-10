@@ -14,6 +14,22 @@ Verdict: "Polar" ist ein atemberaubendes Buch mit bewegten Bildern in einer neue
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/polar-hardcover
+  text: >
+    "Polar" ist ein atemberaubendes Buch mit
+    bewegten Bildern in einer neuen Technik,
+    die sich der Photicular-Effekt nennt.
+    Dazu gibt es jede Menge Sachinformation
+    über die beiden Pole und den dort
+    lebenden Tieren.
+
+----
+
 Conclusion:
 
 Im Anschluss werden die sieben Tiere vorgestellt, die die kältesten Bereiche unserer Erde bevölkern. Die ausgewählten Tiere Pinguin, Eisbär, Schneeeule, Walross, Schlittenhunde, Weißwal, Rentier repräsentieren die Tierwelt auf kältesten Regionen unserer Erde, den Nord- und Südpol. Für jedes Tier ist eine Doppelseite vorgesehen. Auf der einen Seite werden wichtige Sachinformationen zum Verhalten und Familienleben bzw. Merkmale des Tieres erläutert. Auf einer weiteren ist ein kleiner Steckbrief abgedruckt, der Informationen zu Größe, Lebensraum, Verbreitung, Ernährung, Lebenserwartung, Gefährdung und Bestand zum Inhalt hat. Darunter ist das Tier selbst abgebildet. Auf dem achten Bild flimmert dann schließlich noch das beeindruckende Polarlicht. Die Bewegungssequenz wird durch das Umblättern der Buchseite nach oben erzeugt. Die Bewegungsabläufe sind fantastisch und beeindrucken, natürlich stehen die Bilder im Mittelpunkt. Aber auch die Informationen sind kurzweilig und informativ.
@@ -38,14 +54,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/polar-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/polar-hardcover

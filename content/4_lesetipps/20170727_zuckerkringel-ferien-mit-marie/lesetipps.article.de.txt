@@ -10,6 +10,20 @@ Verdict: Ein spannendes Ferienabenteuer über die allererste Liebe und eine star
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/zuckerkringel-ferien-mit-marie-hardcover
+  text: >
+    Ein spannendes Ferienabenteuer über die
+    allererste Liebe und eine starke
+    Freundschaft.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +44,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/zuckerkringel-ferien-mit-marie-hardcover
-
-----
-
 Seotitle: Zuckerkringel-Ferien mit Marie
 
 ----
 
 Seodescription: Ein spannendes Ferienabenteuer über die allererste Liebe und eine starke Freundschaft.
+
+----
+
+Shithap:
+
+- >
+  buecher/zuckerkringel-ferien-mit-marie-hardcover

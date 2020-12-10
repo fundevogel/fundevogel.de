@@ -14,6 +14,23 @@ Verdict: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig f
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/flaetscher-die-sache-stinkt-hardcover
+  text: >
+    Ein tierischer und rasant in Szene
+    gesetzter Lesespaß, ebenso rassig
+    farbig bebildert, für junge Helden ab 8
+    Jahren, die es witzig, abenteuerlich und
+    spannend mögen. Bisher sind 5 Bände
+    erschienen.
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +51,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/flaetscher-die-sache-stinkt-hardcover
-
-----
-
 Seotitle: Flätscher - die Sache stinkt!
 
 ----
 
 Seodescription: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.
+
+----
+
+Shithap:
+
+- >
+  buecher/flaetscher-die-sache-stinkt-hardcover

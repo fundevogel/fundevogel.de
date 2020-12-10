@@ -14,6 +14,20 @@ Verdict: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleb
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ein-haufen-aerger-hardcover
+  text: >
+    Eine witzige und berührende Geschichte
+    vom Anders-sein und Zusammenleben, mit
+    schönen farbigen Illustrationen von
+    Sabine Wilharm auf jeder Seite!
+
+----
+
 Conclusion: 
 
 ----
@@ -34,14 +48,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/ein-haufen-aerger-hardcover
-
-----
-
 Seotitle: Ein Haufen Ärger
 
 ----
 
 Seodescription: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
+
+----
+
+Shithap: - buecher/ein-haufen-aerger-hardcover

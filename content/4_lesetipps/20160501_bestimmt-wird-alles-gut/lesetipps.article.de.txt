@@ -18,6 +18,25 @@ Verdict: In der Erzählung über die zwei syrischen Flüchtlingskinder und ihre 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/bestimmt-wird-alles-gut-hardcover
+  text: >
+    In der Erzählung über die zwei
+    syrischen Flüchtlingskinder und ihre
+    Familie werden die Hintergründe für
+    deren Flucht, die lange, gefährliche
+    Reise nach Deutschland und das Leben
+    hier als Flüchtling eindrucksvoll
+    dargestellt. Das Buch beruht auf einer
+    wahren Geschichte.
+
+----
+
 Conclusion:
 
 Die Illustrationen von Jan Birck geben diese Entwicklung eindrucksvoll wider, indem das zunächst farbenfrohe Umfeld in Homs von eintönigen Darstellungen abgelöst wird, in denen einzig Rahaf mit ihrer Familie hervorsticht. Seit der Bekanntschaft mit Emma gewinnt auch Rahafs Umgebung allmählich wieder an Präsenz und Farbe.
@@ -46,15 +65,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/bestimmt-wird-alles-gut-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/bestimmt-wird-alles-gut-hardcover

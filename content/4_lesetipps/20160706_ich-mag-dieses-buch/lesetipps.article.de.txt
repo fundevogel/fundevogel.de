@@ -10,6 +10,17 @@ Verdict: Ich mag ... das Buch!
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover
+  text: Ich mag ... das Buch!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +41,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover
-
-----
-
 Seotitle: Ich mag ... schaukeln, malen, Fußball, Krach
 
 ----
 
 Seodescription: Ich mag ... das Buch!
+
+----
+
+Shithap:
+
+- >
+  buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover

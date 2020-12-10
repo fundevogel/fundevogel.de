@@ -16,6 +16,21 @@ Verdict: Der Coming-of-Age-Roman "Hinter Glas" erzählt mithilfe psychogrammatis
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/hinter-glas-hardcover
+  text: >
+    Der Coming-of-Age-Roman "Hinter Glas"
+    erzählt mithilfe psychogrammatischer
+    Elemente sowie einer nebulösen
+    Fantasyebene von dem beeindruckenden
+    Emanzipationsprozess einer jungen Frau.
+
+----
+
 Conclusion:
 
 Die beeindruckende Emanzipationsgeschichte der Protagonistin überrascht besonders durch die außergewöhnliche Erzählsituation. In die 24 retrospektiv erzählten Spiegelscherben-Kapitel mischt sich unregelmäßig eine weitere Erzählerstimme ein, die sich typografisch durch eine andere Schriftart absetzt und in direkter Weise zu der Ich-Erzählerin spricht, um ihr gewissermaßen Mut zu machen. Da die diese Figur aber bis zum Schluss eine nebulöse Erscheinung bleibt, spielt die Autorin damit eine fantastische Ebene ein. Dea, so wie Alice dieses Wesen nennt, tritt erst im letzten Drittel des Buches aktiv in Erscheinung. Es kann als Personifizierung des Urvertrauens in der Figur eines imaginären Freundes gedeutet werden. Zu diesem Zeitpunkt zweifelt Alice bereits an ihrem eigenen Lebensweg, weil sowohl die durch die Familie vorgegebene Linie als auch ihr selbst bestimmter Weg mit dem verwahrlosten Niko keine wirklichen Optionen anbieten. Physisch erscheint Dea als sphinxähnlicher Hund. Erst mit diesem Begleiter an ihrer Seite schafft Alice es endlich, dass sich ihre Eltern überzeugen lassen, mit ihr zusammen ein neues Leben außerhalb des Einflussbereichs des Großvaters zu beginnen.
@@ -40,14 +55,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/hinter-glas-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/hinter-glas-hardcover

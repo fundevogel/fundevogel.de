@@ -10,6 +10,16 @@ Verdict: Empfehlenswert!
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/der-krokodildieb-hardcover
+  text: Empfehlenswert!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,14 +40,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/der-krokodildieb-hardcover
-
-----
-
 Seotitle: Der Krokodildieb
 
 ----
 
 Seodescription: Empfehlenswert!
+
+----
+
+Shithap: - buecher/der-krokodildieb-hardcover

@@ -15,6 +15,16 @@ Verdict: Das Leben ist vorgezeichnet für die Menschen in der Bergmannsstadt: ob
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/stadt-am-meer-hardcover
+  text: 'Das Leben ist vorgezeichnet für die Menschen in der Bergmannsstadt: oben das Meer, tief unten der Kohleabbau, an Land die graue Stadt der Arbeiterfamilien. So war das schon immer, so wird das immer bleiben. Ein Junge erzählt lakonisch von seinem immer gleichen Tagesablauf. Ein ganz herausragendes Buch!'
+
+----
+
 Conclusion:
 
 Der Text ist knapp und eher lakonisch. Der immer ähnlichen Formulierung »Bei uns ist das nämlich so - ...« folgt der Tag des Jungen, der offensichtlich (noch) nicht zur Schule geht. Der letzte Satz auf dem Nachtbild mit dem schwarzen Ufer und den kaum erkennbaren hellen Lichterklecksen der Häusern darin, beschließt die Formulierung: »So ist das bei uns.« Damit sind seine Mutter, die junge Schwester und sein Vater gemeint, aber auch alle anderen in der Stadt, die Stadt selbst. Sie ist klein und übersichtlich, da kann ein Vorschulkind allein den Einkauf besorgen oder zum Grab seines Großvaters direkt am Ufer gehen.
@@ -43,14 +53,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/stadt-am-meer-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/stadt-am-meer-hardcover

@@ -10,6 +10,21 @@ Verdict: Diese turbulente Katzengeschichte (in der übrigens auch Hunde vorkomme
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/oskar-ein-kater-mit-charakter-hardcover
+  text: >
+    Diese turbulente Katzengeschichte (in
+    der übrigens auch Hunde vorkommen!) ist
+    ein echtes Lesevergnügen für alle
+    jungen Leser ab 8 Jahren.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +45,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/oskar-ein-kater-mit-charakter-hardcover
-
-----
-
 Seotitle: Oskar – Ein Kater mit Charakter
 
 ----
 
 Seodescription: Diese turbulente Katzengeschichte (in der übrigens auch Hunde vorkommen!) ist ein echtes Lesevergnügen für alle jungen Leser ab 8 Jahren.
+
+----
+
+Shithap:
+
+- >
+  buecher/oskar-ein-kater-mit-charakter-hardcover

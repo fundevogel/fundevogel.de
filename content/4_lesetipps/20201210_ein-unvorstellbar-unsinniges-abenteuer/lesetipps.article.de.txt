@@ -14,6 +14,24 @@ Verdict: Ein neuer wunderbarer, spannender Abenteuerroman der britischen Autorin
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/ein-unvorstellbar-unsinniges-abenteuer
+  text: >
+    Ein neuer wunderbarer, spannender
+    Abenteuerroman der britischen Autorin
+    Katherine Rundell voller Überraschungen
+    und unerwarteter Wendungen, der im New
+    York der zwanziger Jahre spielt und von
+    Mut, Freundschaft und Gerechtigkeit
+    erzählt.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +48,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/ein-unvorstellbar-unsinniges-abenteuer
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/ein-unvorstellbar-unsinniges-abenteuer

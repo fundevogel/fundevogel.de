@@ -14,6 +14,16 @@ Verdict: Der Marienkäfer - ein kleines Insekt, das durch großformatige intensi
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/der-marienkaefer-hardcover
+  text: 'Der Marienkäfer - ein kleines Insekt, das durch großformatige intensive Bilder und einprägsame Informationen in diesem Buch genauer unter die Lupe genommen wird.'
+
+----
+
 Conclusion:
 
 Die Fülle von Arten sind in wunderschönen Abbildungen im hinteren Bereich aufgereiht. Das Buch enthält wesentliche und gut recherchierte Informationen. Klare, realistische und detailgetreue Zeichnungen im Großformat mit vielen Klappen zum Entdecken sowie ein Fehlersuchbild am Ende runden das Ganze ab.
@@ -40,14 +50,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/der-marienkaefer-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/der-marienkaefer-hardcover

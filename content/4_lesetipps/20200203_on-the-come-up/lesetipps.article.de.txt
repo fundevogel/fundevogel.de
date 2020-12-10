@@ -19,6 +19,30 @@ Verdict: In ihrem zweiten Jugendroman nach "The Hate U Give" erschafft Angie Tho
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/on-the-come-up-hardcover
+  text: >
+    In ihrem zweiten Jugendroman nach "The
+    Hate U Give" erschafft Angie Thomas die
+    Figur Bri, die für Millionen junger
+    Leute eine Heldin sein kann und sein
+    sollte. Aber nicht nur für Jugendliche,
+    die alltäglich die Diskriminierung
+    Schwarzer in den USA erleben müssen,
+    sondern für alle. Denn auch jugendliche
+    Leserinnen und Leser weitab der
+    amerikanischen Hood blicken mit diesem
+    Roman einerseits in die fremde Welt des
+    fiktiven Ghettos Garden Heights und des
+    Hip-Hop und können sich doch zugleich
+    im Buch selbst erkennen.
+
+----
+
 Conclusion:
 
 Während ihre Mitschülerinnen und Mitschüler sie zur Symbolfigur ihres Protests gegen Ungleichbehandlung an der Schule machen wollen, wünscht Bri sich nichts sehnlicher, als ihre Familie durch das Rappen vor dem sozialen Absturz zu bewahren, der unmittelbar bevorsteht: Ihre Mutter hat ihren Job verloren, ihr Bruder findet trotz guter Abschlüsse keine Arbeit und die unbezahlten Rechnungen türmen sich. Bri ist aber nicht irgendwer, sondern die Tochter der Rap-Legende Lawless, die in einer Auseinandersetzung zwischen Gangs ums Leben kam, als Bri gerade vier Jahre alt war. Damals hat der Tod ihre Mutter in die Drogensucht getrieben und heute bringt Bri die Gangs, die ihren Song als Drohung verstehen, gegen sich auf. Bri ist wütend, Bri ist traurig, Bri ist allein. Aber Bri hat einen Traum, den sie zu leben versucht. Egal was andere von ihr wollen oder über sie denken. Darin liegt die Wucht dieses Romans.
@@ -46,14 +70,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/on-the-come-up-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/on-the-come-up-hardcover

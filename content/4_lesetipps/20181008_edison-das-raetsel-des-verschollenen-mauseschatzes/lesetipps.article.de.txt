@@ -14,6 +14,20 @@ Verdict: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
+  text: >
+    Taucht ein in die Tiefen des Meeres und
+    geht dem Geheimnis Edisons auf den
+    Grund!
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +48,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
-
-----
-
 Seotitle: Edison - Das Rätsel des verschollenen Mauseschatzes
 
 ----
 
 Seodescription: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf den Grund!
+
+----
+
+Shithap:
+
+- >
+  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover

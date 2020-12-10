@@ -14,6 +14,19 @@ Verdict: Ein spannender Krimi rund um den ersten WM-Titel der deutschen National
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
+  text: >
+    Ein spannender Krimi rund um den ersten
+    WM-Titel der deutschen National-Elf!
+
+----
+
 Conclusion: Noch dazu gehen merkwürdige Dinge vor sich: In die Werkstatt von Adi Dassler, dem Erfinder der Wunderschuhe, wird eingebrochen, und in die Vitaminlösung des deutschen Mannschaftsarztes wird ein Brechmittel gemischt. Wer will den Fußballern kurz vor dem Finale schaden?
 
 ----
@@ -34,15 +47,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
-
-----
-
 Seotitle: Die Zeitdetektive - Das Wunder von Bern
 
 ----
 
 Seodescription: Ein spannender Krimi rund um den ersten WM-Titel der deutschen National-Elf!
+
+----
+
+Shithap:
+
+- >
+  buecher/die-zeitdetektive-das-wunder-von-bern-hardcover

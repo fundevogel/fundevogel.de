@@ -17,6 +17,26 @@ Verdict: Rektor Glauber hat guten Grund für seine Wut auf Kinder, ständig lüg
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ratz-fatz-x-weg-23-hardcover
+  text: >
+    Rektor Glauber hat guten Grund für
+    seine Wut auf Kinder, ständig lügen
+    sie ihn an. Laura behauptet sogar, dass
+    sie wegen des Staubsaugermodells
+    „Ratz-Fatz-x-weg 23“ auf Weltreise
+    gehen musste. Um die Wahrheit
+    herauszufinden, will der Rektor die
+    komplette Geschichte von ihr hören, die
+    so unglaublich ist, dass er dafür die
+    Pausen verlängert.
+
+----
+
 Conclusion:
 
 Will der Rektor ihre Lügengeschichte anfangs noch aufdecken, lässt er sich bald von Lauras Erzählkunst verzaubern. Die Cliffhanger am Ende jeder Pause sind für einen ungeduldigen Menschen wie ihn kaum auszuhalten und er, der auf die strenge Einhaltung aller Regeln achtet, verlängert kurzerhand die Pausen und fiebert mit den Kindern mit.
@@ -41,14 +61,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/ratz-fatz-x-weg-23-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/ratz-fatz-x-weg-23-hardcover

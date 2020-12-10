@@ -14,6 +14,25 @@ Verdict: In "Uncover" werden die Mechanismen von Fake News beschrieben und mit e
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/uncover-die-trollfabrik-hardcover
+  text: >
+    In "Uncover" werden die Mechanismen von
+    Fake News beschrieben und mit einer
+    spannenden Geschichte verknüpft. Mit
+    dem hochaktuellen Thema, dem Youtuber
+    als Identifikationsfigur und dem
+    internationalen Setting schafft Manfred
+    Theisen einen brisanten Politthriller
+    mit All-Age-Potenzial.
+
+----
+
 Conclusion:
 
 Das Buchcover im Low-key-Stil zeigt einen gesichtslosen Hacker vor angedeuteten Monitoren und ist damit der Türöffner zur Geschichte. Der gesichtslose, in einen Hoodie gehüllte Protagonist steht dabei für die unbekannten Akteure auf der anderen Seite des Internets. Sein versunkener Blick in seinen Monitor und dazu die hellen angedeuteten Monitore im Hintergrund sind der Einstieg in die große digitale Welt der Informationen, wie wir sie uns vorstellen können.
@@ -40,15 +59,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/uncover-die-trollfabrik-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/uncover-die-trollfabrik-hardcover

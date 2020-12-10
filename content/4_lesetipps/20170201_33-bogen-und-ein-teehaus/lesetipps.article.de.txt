@@ -16,6 +16,26 @@ Verdict: Die kleine Mehrnousch erzählt ihre Geschichte der Flucht aus dem vom C
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/33-bogen-und-ein-teehaus-hardcover
+  text: >
+    Die kleine Mehrnousch erzählt ihre
+    Geschichte der Flucht aus dem vom
+    Chomeini-Regime beherrschten Iran über
+    die Türkei, Ost-Berlin, verschiedene
+    teils menschenunwürdige
+    Flüchtlingsunterkünfte bis nach
+    Heidelberg, wo sie und ihre Familie in
+    Frieden und Freiheit schließlich zur
+    Ruhe kommen.
+
+----
+
 Conclusion:
 
 Der Text ist durch die Höhen und Tiefen der langen Odyssee geprägt, an deren Ende klar wird, wie viel die Eltern für ihre Kinder opferten, wahrscheinlich ohne selbst jemals richtig in Deutschland anzukommen. Der Leser erlebt diese für Mehrnosuch intensive, rastlose Zeit hautnah mit. Wenn sie sich integriert fühlt, weil sie aus der Ansage des Schulrektors sofort entnehmen kann, dass es Pommes in der Schulkantine gibt, und nun auch zeitgleich mit ihren Mitschülern jubelt, freut sich der Leser mit. Wenn dagegen von iranischen Kindersoldaten mit roten Stirnbändern die Rede ist, welche dazu gedrillt werden, schneller als mürrische Esel die Minen aus dem Weg zu räumen, wonach man ihren Eltern zum Märtyrertod der Kinder brieflich gratuliert, bekommt man eine leise Ahnung davon, wieso die Flucht gerade für die älteren Brüder und Cousins Mehrnouschs alternativlos war. Dabei verschweigt der Text keine Probleme, ist aber niemals laut und hat Momente der Subtilität und Einkehr.
@@ -40,15 +60,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/33-bogen-und-ein-teehaus-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/33-bogen-und-ein-teehaus-hardcover

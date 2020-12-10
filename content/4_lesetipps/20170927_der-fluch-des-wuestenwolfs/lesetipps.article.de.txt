@@ -10,6 +10,19 @@ Verdict: Ein bis zum Ende atemberaubend spannendes Buch!
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/der-fluch-des-wuestenwolfs-hardcover
+  text: >
+    Ein bis zum Ende atemberaubend
+    spannendes Buch!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +43,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/der-fluch-des-wuestenwolfs-hardcover
-
-----
-
 Seotitle: Der Fluch des Wüstenwolfs
 
 ----
 
 Seodescription: Ein bis zum Ende atemberaubend spannendes Buch!
+
+----
+
+Shithap:
+
+- >
+  buecher/der-fluch-des-wuestenwolfs-hardcover

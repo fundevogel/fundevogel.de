@@ -16,6 +16,19 @@ Verdict: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/jakobs-muschel-hardcover
+  text: >
+    Eine kluge Geschichte über kleine
+    Sprücheklopfer, große Träume und die
+    Macht der Fantasie.
+
+----
+
 Conclusion: 
 
 ----
@@ -36,14 +49,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/jakobs-muschel-hardcover
-
-----
-
 Seotitle: Jakobs Muschel
 
 ----
 
 Seodescription: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und die Macht der Fantasie.
+
+----
+
+Shithap: - buecher/jakobs-muschel-hardcover

@@ -18,6 +18,24 @@ Verdict: Erster auf dem Mond! Armstrong heißt er, das wissen wir. Aber wissen w
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/armstrong-hardcover
+  text: >
+    Erster auf dem Mond! Armstrong heißt
+    er, das wissen wir. Aber wissen wir
+    auch, dass es eine Maus war, die zudem
+    die Grundlagen legte, dass der Mensch
+    gleichen Namens ihr folgen konnte? Hier
+    finden wir den Beweis. Aufregend und
+    (nach "Lindbergh" und "Maulwurfstadt")
+    wieder unglaublich gut gezeichnet.
+
+----
+
 Conclusion:
 
 In einem Anhang skizziert Kuhlmann kurz eine "Geschichte der Raumfahrt", die von Galileo Galilei über Konstantin Ziolkowski, Robert Goddard, den Sputnik, Laika, Juri Gagarin und Alan Shepard bis zu Apollo 11 und der ersten Mondlandung – der ja noch fünf weitere folgen sollten, nämlich Apollo 12 bis 17. Das Projekt Apollo 13 musste vorzeitig beendet werden, da ein Sauerstofftank während des Flugs explodierte "Houston, we’ve had a problem."). Ob dieser "erfolgreiche Fehlschlag" bereits von unserer kleinen Maus vorausschauend geplant war, ist nicht wirklich bewiesen, kann aber nach Lage der Dinge durchaus so sein. (Anmerkung: Immerhin ist das internationale Wort des Jahres "post-truth", also "postfaktisch".)
@@ -44,14 +62,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/armstrong-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/armstrong-hardcover

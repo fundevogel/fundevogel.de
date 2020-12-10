@@ -10,6 +10,25 @@ Verdict: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auc
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/der-junge-aus-der-letzten-reihe-hardcover
+  text: >
+    Onjali Q. Raúf, die neben ihrem Beruf
+    als Autorin und Journalistin auch als
+    ehrenamtliche Helferin für Flüchtlinge
+    arbeitet, hat eine ganz wunderbare,
+    spannende, witzige und sehr bewegende
+    Geschichte über Freundschaft und
+    Solidarität geschrieben, vor allem aber
+    über den Mut, für Andere einzustehen.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +49,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/der-junge-aus-der-letzten-reihe-hardcover
-
-----
-
 Seotitle: Der Junge aus der letzten Reihe
 
 ----
 
 Seodescription: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
+
+----
+
+Shithap:
+
+- >
+  buecher/der-junge-aus-der-letzten-reihe-hardcover

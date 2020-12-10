@@ -14,6 +14,23 @@ Verdict: Die kleine Sofia, genannt Soferl, entführt uns in das Wien des 18. Jah
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/die-zauberfloete-hardcover
+  text: >
+    Die kleine Sofia, genannt Soferl,
+    entführt uns in das Wien des 18.
+    Jahrhunderts. Gemeinsam mit ihr erlebt
+    der Leser die Uraufführung von Mozarts
+    Zauberflöte mit den musikalischen
+    Höhepunkten der Oper auf einer
+    beigefügten CD.
+
+----
+
 Conclusion:
 
 Die Illustrationen von Ludvik Glazer-Naude sind wunderschön und können die zauberhafte Atmosphäre der Oper sehr gut einfangen. Sie sind großformatig und nehmen jeweils eine Doppelseite ein. Der Illustrator wählt eine realistische Darstellung vom Wien des 18 Jahrhunderts. In der Rahmenhandlung wird der Text linksseitig in die Bilder integriert. Bei der Binnenhandlung dagegen erstreckt sich der Text auf einer Art Bühne über beide Doppelseiten. Die Bilder aus der Oper sind klar als Bühnensituation zu erkennen, man sieht sowohl Marionettenfäden als auch Tierkostüme, in denen Menschen stecken.
@@ -38,14 +55,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-zauberfloete-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/die-zauberfloete-hardcover

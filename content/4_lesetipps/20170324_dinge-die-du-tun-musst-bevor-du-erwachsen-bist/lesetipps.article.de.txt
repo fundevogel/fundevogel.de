@@ -10,6 +10,17 @@ Verdict: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalte
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
+  text: 'Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.'
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +41,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover
-
-----
-
 Seotitle: 101 Dinge, die du tun musst, bevor du erwachsen bist
 
 ----
 
 Seodescription: Auf jeder Seite kannst du eines der 101 Abenteuer abhaken und festhalten, wann du es erlebt hast. Und versprochen: Du kannst das alles schaffen. Du musst nur irgenwann damit anfangen, bevor du erwachsen bist.
+
+----
+
+Shithap:
+
+- >
+  buecher/101-dinge-die-du-tun-musst-bevor-du-erwachsen-bist-hardcover

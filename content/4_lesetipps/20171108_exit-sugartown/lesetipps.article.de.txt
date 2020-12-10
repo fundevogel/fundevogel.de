@@ -14,6 +14,16 @@ Verdict: "*Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugen
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/exit-sugartown-hardcover
+  text: '"*Gerade wegen seiner Sachlichkeit berührt und schockiert dieses Jugendbuch zutiefst. Mit einem individuellen Schicksal macht es auf zentrale und skandalöse gesellschaftliche Missstände aufmerksam, die strukturelle Ursachen haben und dringend gelöst werden müssen*" - Mario Zehe, Sprecher der Jury, über den Preisträger des Heinrich-Wolgast-Preises der GEW 2017, Martin Petersens Jugendbuch "Exit Sugartown".'
+
+----
+
 Conclusion: Der Roman erzählt eine Geschichte, die an Aktualität, Universalität und politischer Virulenz kaum zu überbieten ist: Sugartown ist nicht Sugartown, sondern nur ein Name, der dem Elend und der Perspektivlosigkeit unzähliger Menschen auf dieser Welt eine konkrete Gestalt verleiht. Menschen sterben an gewöhnlichen Krankheiten, weil Medikamente entweder fehlen oder nicht bezahlbar sind. Die grauen Gasbetonwände der Wohnhäuser riechen nach dem Schweiß ihrer in den umliegenden Fabriken schuftenden Bewohner. Doch andere Formen der Erwerbsarbeit werden rar, denn importierte Billigware – ein Effekt des vielgepriesenen Freihandels – überschwemmt die heimischen Märkte und macht die ansässigen Handwerker arbeitslos. Ob mit oder ohne Arbeit – Elend und Armut haben in den Gesellschaften der sogenannten Dritten Welt viele Gesichter. Auch City ist nicht City, sondern verkörpert als Sehnsuchts- wie Alptraumort der Flüchtenden die Erste Welt in ihrer ganzen Widersprüchlichkeit. Die Stadt, welche ihnen zunächst alle Möglichkeiten des Aufstiegs zu bieten scheint, betreibt eine paradox anmutende Politik der Ausschließung und der gleichzeitigen Ausbeutung der Arbeitsmigranten. Rigide Grenzregime sollen das unkontrollierte Übertreten der Landesgrenzen unmöglich bzw. so schwer wie möglich machen. So werden die Flüchtenden auf immer längere und gefährlichere Passagen gedrängt; mit der Folge, dass jährlich Tausende von ihnen beim Einreiseversuch nach Europa im Mittelmeer ertrinken. Denjenigen, denen die Einreise dennoch gelingt, werden aufgrund ihres rechtlosen Status nicht selten Opfer ausbeuterischer Arbeitsverhältnisse in den Dienstleistungen der Schattenwirtschaft, die – so zeigen Schätzungen – mehr als ein Zehntel unseres Bruttoinlandsprodukts umfassen. Und schließlich ist Dawn nicht Dawn. Ihr Name (dt.: *Morgendämmerung*) steht sinnbildlich für all jene, die sich mit ihrem Zustand nicht abfinden wollen und auf den Weg in eine vermeintlich bessere Zukunft machen.
 
 ----
@@ -34,14 +44,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/exit-sugartown-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/exit-sugartown-hardcover

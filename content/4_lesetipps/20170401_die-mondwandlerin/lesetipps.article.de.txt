@@ -14,6 +14,29 @@ Verdict: Schon immer verwandeln sich – so die Geschichte im Buch – junge Fra
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/die-mondwandlerin-hardcover
+  text: >
+    Schon immer verwandeln sich – so die
+    Geschichte im Buch – junge Frauen zu
+    bestimmten Mondzeiten in sogenannte
+    Werwölfe. Das Mädchen im Buch, das
+    keinen Namen erhält, gehört dazu. Sie
+    will sich diesem Schicksal
+    entgegenstellen. Die Eltern bestellen
+    die Dorfheilerin, die einen Rat weiß.
+    Ein Umhang, ein Feuerstein, eine
+    Schleuder und viel Vertrauen führen das
+    Mädchen in einen Wettlauf mit der
+    Verwandlung des Mondes, die mit ihrer
+    eigenen Verwandlung einhergeht.
+
+----
+
 Conclusion:
 
 Viele Bilder und/oder Teile davon sind mit feinen Tintenlinien / Finelinern gefärbt, die einigen Flächen eine Struktur geben. Andere Teile entstehen durch Bunt- oder Aquarellstifte. Der Betonung der Rundung durch den Mond werden eckige entgegengesetzt, die wie zerbrochene Glasscheiben geformt sind, sich selbst dem Kreis andienen und ihn damit in vielen Situationen seine gewaltige Rolle selbst im Hintergrund zugestehen.
@@ -38,14 +61,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-mondwandlerin-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/die-mondwandlerin-hardcover

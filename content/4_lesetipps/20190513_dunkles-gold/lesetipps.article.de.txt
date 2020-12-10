@@ -16,6 +16,26 @@ Verdict: Das Buch ist spannend geschrieben, du erfährst viel über das jüdisch
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/dunkles-gold-hardcover
+  text: >
+    Das Buch ist spannend geschrieben, du
+    erfährst viel über das jüdische Leben
+    in Deutschland und die Pogrome – die
+    lange vor dem Nationalsozialismus
+    begonnen haben und sich bis heute tief
+    ins Gedächtnis gegraben haben! Aber es
+    ist kein Geschichtsbuch, denn Rachel und
+    Laura sind auch ganz normale Mädchen
+    (wie du und ich), die ihren Platz im
+    Leben suchen.
+
+----
+
 Conclusion: Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich ihre kleinen Lebenswelten sind, so verbindet sie beide doch die größere Geschichte Deutschlands. Rachel erlebt eines der frühesten Judenpogrome in Deutschland und Laura erlebt hautnah, wie sich die alten Vorurteile hartnäckig bis heute gehalten haben und sogar ihr eigenes Leben ganz unmittelbar betreffen.
 
 ----
@@ -36,14 +56,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/dunkles-gold-hardcover
-
-----
-
 Seotitle: Dunkles Gold
 
 ----
 
 Seodescription: Das Buch ist spannend geschrieben, du erfährst viel über das jüdische Leben in Deutschland und die Pogrome – die lange vor dem Nationalsozialismus begonnen haben und sich bis heute tief ins Gedächtnis gegraben haben! Aber es ist kein Geschichtsbuch, denn Rachel und Laura sind auch ganz normale Mädchen (wie du und ich), die ihren Platz im Leben suchen.
+
+----
+
+Shithap: - buecher/dunkles-gold-hardcover

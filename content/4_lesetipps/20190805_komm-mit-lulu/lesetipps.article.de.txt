@@ -14,6 +14,23 @@ Verdict: Die sehr leise Geschichte um das Weitergeben zwischen den Generationen 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/komm-mit-lulu-hardcover
+  text: >
+    Die sehr leise Geschichte um das
+    Weitergeben zwischen den Generationen
+    führt uns zu Frau Dachs und dem kleinen
+    Kater Lulu. Die Bilder sind
+    zurückhaltend und stellen die beiden
+    und ihr Verhältnis sehr unspektakulär
+    dar. Glück braucht nicht viel.
+
+----
+
 Conclusion:
 
 Die Bilder strahlen genau diese Gemütlichkeit und Ruhe aus, die auch der Text verbreitet. Sie kommen mit wenigen Einzelheiten aus, lösen sich zum Teil in Einzelszenen auf, damit der Text nicht integriert wird, sondern - sehr fein und unauffällig gedruckt - mit wenigen Worten viel Gefühl transportiert. Es wird nicht viel gesprochen, doch die Münder aller Tiere sind freundlich nach oben gebogen, die Augen mit den kleinen schwarzen Punkten schauen meist neugierig und freundlich, selten ein bisschen ängstlich wie Lulu zu Beginn.
@@ -41,14 +58,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/komm-mit-lulu-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/komm-mit-lulu-hardcover

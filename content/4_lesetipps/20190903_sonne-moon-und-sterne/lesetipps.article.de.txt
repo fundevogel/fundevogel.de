@@ -14,6 +14,25 @@ Verdict: Warum die Elfjährige "Gustav" genannt wird, weiß sie selber nicht. Ei
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/sonne-moon-und-sterne-hardcover
+  text: >
+    Warum die Elfjährige "Gustav" genannt
+    wird, weiß sie selber nicht. Eigentlich
+    ist ihr Name nebensächlich, denn er
+    ändern nichts daran, dass sie in diesem
+    Jahr den turbulentesten Sommer ihres
+    Lebens erfährt und plötzlich Dinge
+    wahrnimmt, die ihrer zuvor
+    kindlich-naiven Betrachtung gänzlich
+    verborgen blieben.
+
+----
+
 Conclusion: Während alleinerziehende Mütter, zunehmend auch Väter, in Kinderromanen keine Seltenheit sind, sind weitere Familienmodelle jenseits der traditionellen Klein- und Großfamilien bisher unterrepräsentiert und werden, wenn sie auftreten, meist stark in den Fokus gerückt. Ohne übermäßiges Aufsehen zu erregen finden in "Sonne, Moon und Sterne" gleichgeschlechtliche Eltern neben Alleinerziehenden und von Turbulenzen gerüttelten traditionellen Familien ihren Platz. Das klingt neben den eingearbeiteten Themen wie Trennung, Pubertät, Tod und psychischen Problemen bei Eltern nach einem überladenen Plot und es ist umso überraschender, dass es gelingt, all das nicht zuletzt mit Situationskomik und überzeugenden Sprachbildern zusammenzuhalten. Die ebenso tragische wie lustige Familien-Sommer-Freundschaftsgeschichte zeigt, dass jedes Ende einen Neuanfang birgt und macht Mut, sich den Umbrüchen und Rätseln im Leben zu stellen.
 
 ----
@@ -34,14 +53,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/sonne-moon-und-sterne-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/sonne-moon-und-sterne-hardcover

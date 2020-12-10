@@ -10,6 +10,21 @@ Verdict: So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/die-drei-kids-bundesliga-alarm-hardcover
+  text: >
+    So lernst Du Deinen Lieblingsverein
+    vielleicht noch ein bisschen besser
+    kennen und vielleicht erwischst Du auch
+    den dreisten Dieb!
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +45,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/die-drei-kids-bundesliga-alarm-hardcover
-
-----
-
 Seotitle: Die drei ??? Kids – Bundesliga-Alarm
 
 ----
 
 Seodescription: So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser kennen und vielleicht erwischst Du auch den dreisten Dieb!
+
+----
+
+Shithap:
+
+- >
+  buecher/die-drei-kids-bundesliga-alarm-hardcover

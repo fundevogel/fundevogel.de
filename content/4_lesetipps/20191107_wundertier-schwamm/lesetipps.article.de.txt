@@ -14,6 +14,23 @@ Verdict: Schwämme gehören zu den ältesten Lebewesen. Sie leben im Meer und ha
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/wundertier-schwamm-hardcover
+  text: >
+    Schwämme gehören zu den ältesten
+    Lebewesen. Sie leben im Meer und haben
+    sich über Jahrmillionen kaum
+    verändert. Das Sachbuch "Wundertier
+    Schwamm" widmet sich dieser
+    einzigartigen Tierart und wartet mit
+    unglaublichen Fakten auf.
+
+----
+
 Conclusion:
 
 Schwämme sind eine faszinierende Lebensform. Sie filtern Wasser und ähneln einer Art Kläranlage. Außerdem verfügen sie über überraschende Abwehrtricks gegen ihre Fressfeinde. Abgerissene Teile können nachwachsen bzw. sich regenerieren. Das macht es uns Menschen möglich Schwämme anzubauen, um diese schließlich als Reinigungswerkzeug zu nutzen. Auch Delfine nutzen Schwämme als Werkzeug, sie lösen Schwämme ab und stülpen sie sich über die Schnauze, um damit den Meeresboden nach Nahrung aufzuwühlen. Die zunehmende Erwärmung und Verschmutzung des Wassers stellt allerdings eine Gefahr für Schwämme dar.
@@ -38,14 +55,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/wundertier-schwamm-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/wundertier-schwamm-hardcover

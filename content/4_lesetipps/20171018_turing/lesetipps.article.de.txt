@@ -14,6 +14,24 @@ Verdict: Er war ein Pionier der Informatik und war maßgeblich daran beteiligt, 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/turing-hardcover
+  text: >
+    Er war ein Pionier der Informatik und
+    war maßgeblich daran beteiligt, die
+    deutschen Codes während des Zweiten
+    Weltkrieges zu dechiffrieren. Ein tiefes
+    persönliches Geheimnis und dessen
+    Aufdeckung haben ihn dann aber
+    zerstört. Wer war eigentlich Alan
+    Turing?
+
+----
+
 Conclusion:
 
 Robert Deutschs Graphic Novel kommt mit wenigen Sätzen und Sprechblasen aus. Sein Haupterzählwerkzeug sind die Bilder. Auf großen Doppelseiten hat man ein Storyboard ähnliches Buch vor sich das klar gegliedert ist. Nur an ganz wenigen Stellen verlässt er seine 6 Bilder pro Seite und baut große doppelseitige Totalen ein. Diese Struktur macht es einem leicht, der Geschichte zu folgen. Die Einstellungen in den einzelnen Bildern sind dabei wie im klassischen Erzählkino gewählt und lassen den Zuschauer als stummen Beobachter an der Geschichte teilnehmen. Das graue England der Fünfziger erhält vom Grafikdesigner Deutsch matte Farbtöne. Es dominieren die Erdfarben braun, grün und blau. An vier Stellen im Buch wird dies aufgelöst: Die Sexszenen erhalten einen anrüchigen roten Farbton, der Einbruch wird Linolschnitt artig in Schwarz und Weiß nachgezeichnet, die Entschlüsselung der deutschen Geheimcodes unterlegt er mit einem sanften Senfgelb und die Therapiesequenz erhält dafür einen kräftigen gelb-schwarz Kontrast. In unterschiedlichen Szenen nuanciert Robert Deutsch dabei seinen Zeichenstil, von äußert nüchtern bis zur starken Überzeichnung des Inhalts. Deutsch verwendet dazu die Figuren aus Walt Disneys "Schneewittchen und die sieben Zwerge". An vielen Stellen im Buch erscheint Schneewittchen, z. B. als Hinweis für den Tod, gleich auf den ersten Seiten. Am Ende des Buches auch als Symbol für die Suche nach der großen Liebe, in Turings letztem Gang vor seinem Tod, bei dem er seiner großen Liebe Christopher aus Jugendtagen nachtrauert. Auch die Zwerge, aus dem Märchen, begleiten Turing häufig und tauchen immer als Beschützer in der sicheren Arbeitswelt und seinem Haus auf. Auch die böse Hexe, im Märchen die Stiefmutter, erhält ihren todbringenden Auftritt, im Spiegelbild Turings während seiner vergeblichen Therapie.
@@ -40,14 +58,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/turing-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/turing-hardcover

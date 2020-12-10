@@ -10,6 +10,20 @@ Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
+  text: >
+    Ein spannender Vorlesespaß für Kinder
+    ab 7 Jahren und zum Selberlesen ab 9
+    Jahren.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,15 +44,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
-
-----
-
 Seotitle: Johnny und die Pommesbande - Wir sind die Schnellsten
 
 ----
 
 Seodescription: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren
+
+----
+
+Shithap:
+
+- >
+  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover

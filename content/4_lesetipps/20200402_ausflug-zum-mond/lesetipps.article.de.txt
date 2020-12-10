@@ -15,6 +15,25 @@ Verdict: Dieses Bilderbuch erzählt eine fantastische Geschichte ganz ohne Worte
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ausflug-zum-mond-hardcover
+  text: >
+    Dieses Bilderbuch erzählt eine
+    fantastische Geschichte ganz ohne Worte.
+    Passend zum Jubiläumsjahr "Fünfzig
+    Jahre Mondlandung" wird ein
+    hypothetisches Zukunftsszenario
+    entworfen, das einen schulischen
+    "Ausflug zum Mond" für Kinder
+    thematisiert; mit überraschendem
+    Verlauf.
+
+----
+
 Conclusion:
 
 John Hare, der Illustrator dieses textfreien Bilderbuchs, entwirft im plakativen Gebrauch von deckenden Farben malerische Szenenbilder, die in typisierter Formgebung Figuren und Gegenstände zeigen. Dabei treten in der dominierenden schwarz-weiß gestalteten Mondlandschaft die vom Menschen mitgebrachten Farben in ihrer Reinheit besonders kontrastreich hervor. Gelungen ist auch die Darstellung der Menschengestalten, durch deren Körperhaltung Gefühle sichtbar und nachvollziehbar werden. Dies ist in diesem Buch deshalb so wichtig, weil bis auf die letzte Seite aufgrund des Raumanzugs mit dem verspiegelten Sichtglas im Helm die Mimik der Figuren verborgen bleibt. Diese gestisch zugespitzte Ausdrucksstärke ist von Hare sehr gekonnt in Szene gesetzt worden und lässt die Stimmung und Handlungen der Protagonistinnen und Protagonisten ausgezeichnet nachvollziehbar erscheinen.
@@ -42,14 +61,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/ausflug-zum-mond-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/ausflug-zum-mond-hardcover

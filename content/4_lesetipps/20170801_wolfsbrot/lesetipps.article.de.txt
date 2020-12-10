@@ -18,6 +18,16 @@ Verdict:
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/wolfsbrot-hardcover
+  text: ""
+
+----
+
 Conclusion:
 
 Das Buch ist quadratisch, am Buchrücken mit Leinen bespannt, der Titel hochkant in Schreibschrift, in Gold, geprägt gedruckt. Eine Diskrepanz zum düsteren Bild, auf dem wir den Jungen sehen, der durch den Schnee stapft. Sein Gesichtsausdruck schwankt zwischen Unglück und Nachdenklichkeit, die Hände sind wegen der Kälte tief in den Taschen der Jacke vergraben. Im Hintergrund nach der Senke steht ein Haus vor dem schwarzen Gebirge mit den weißen Gipfeln und einem Sonnenaufgang, dem man seine Künstlichkeit ansieht. Diese goldgelbe Farbe sehen wir auch aus dem Haus leuchten. Kitschig? Ja, sogar verstärkt durch das Schattenbild eines Rehs, aber der Ausdruck des Jungen straft der Lieblichkeit Lügen.
@@ -44,14 +54,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/wolfsbrot-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/wolfsbrot-hardcover

@@ -16,6 +16,26 @@ Verdict: Den Erzählungen der Alten gemäß wartet Cuno mit viel Geduld darauf, 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/die-kinder-und-der-wal-hardcover
+  text: >
+    Den Erzählungen der Alten gemäß
+    wartet Cuno mit viel Geduld darauf, den
+    Wal zu sehen. Seine kleine Schwester
+    will er nicht dabei haben, aber erst
+    nachdem diese sich in das Kajak schlich,
+    geschieht das Unfassbare. Einfache und
+    doch sehr beeindruckende Illustrationen
+    zeigen die blaue Welt des Eises und
+    machen die Sehnsucht der Kinder
+    deutlich.
+
+----
+
 Conclusion:
 
 Der Text ist in die blauen Bilder integriert. Die Personen und viele Teile der Landschaft sind gerundet und schaffen eine Diskrepanz zwischen der eigentlich schroffen Eislandschaft und der Sehnsucht von Cuno, der auf der Suche nach dem Wal ist. Der ist "sechs Mal größer als unser Haus, hat ein Herz so groß wie ein Boot", aber der kleine Junge findet ihn nicht. Atem beraubende Einblicke in die kalte Welt im Norden entstehen, wenn ein und die gleiche Szene einmal aus der Vogel- und direkt daran aus der Fisch-Perspektive gezeigt wird. Dabei sind die Bilder einfach gehalten. Die Kinder tragen je einen einteiligen Anzug mit Kapuze und ohne Anzeichen von Knöpfen oder Reißverschluss, die Füße stecken in tiefblauen Schuhen, die Hände entsprechend in Fäustlingen. Der Himmel zeigt, dass wir uns nördlich des Polarkreises befinden, und die bizarren riesigen Eisberge werden vom Sonnenlicht in ein hellblaues Weiß getaucht. Die Landschaft ist scheinbar eintönig und das Haus, das sich an den großen Berg anlehnt, eher klein und verloren.
@@ -40,14 +60,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-kinder-und-der-wal-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/die-kinder-und-der-wal-hardcover

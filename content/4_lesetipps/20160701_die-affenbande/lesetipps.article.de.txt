@@ -21,6 +21,26 @@ Verdict: Wer sind die klügsten Affen, wer brüllt am lautesten, wer ist am schn
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/die-affenbande-hardcover
+  text: >
+    Wer sind die klügsten Affen, wer
+    brüllt am lautesten, wer ist am
+    schnellsten und welcher hat den
+    längsten Schwanz? Das alles und noch
+    vieles mehr erfährt der wissbegierige
+    Leser in diesem Buch. Mit lustigen und
+    wissenswerten Informationen entführt
+    uns der Autor Owen Davey ins Reich der
+    Affen, das zusätzlich mit modernen
+    Illustrationen ausgestattet ist.
+
+----
+
 Conclusion:
 
 Die Illustrationen sind modern in gedeckten und kräftigen Farben gehalten. Das Cover ist äußerst ansprechend und zeigt Affen mit abstrakten Pflanzendarstellungen bereits im Stil und den Farben, wie sie auch im Buch Verwendung finden. Die Affen werden collagenartig fast geometrisch dargestellt. Dabei wird Markantes der Tiere hervorgehoben.
@@ -47,14 +67,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/die-affenbande-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/die-affenbande-hardcover

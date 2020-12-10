@@ -18,6 +18,25 @@ Verdict: Genaues Schauen ist gefragt, Strukturen bilden. Eins von vielen passt n
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/passt-nicht-hardcover
+  text: >
+    Genaues Schauen ist gefragt, Strukturen
+    bilden. Eins von vielen passt nicht zu
+    den anderen, aber die anderen fordern
+    ebenfalls viel Aufmerksamkeit.
+    Erwachsene »Vorleser« (es gibt keinen
+    Text) müssen sich ebenfalls anstrengen,
+    bis sie den Aufbau der Bildfolge
+    verstehen. Am Schluss gibt es noch eine
+    zusätzliche Aufgabe.
+
+----
+
 Conclusion:
 
 So entsteht ein Reigen, den wir (Erwachsenen) dann aber doch schnell begreifen, den Kinder um die drei Jahre wahrscheinlich auch beim mehrfachen Anschauen noch nicht durchschauen - es sei denn, dass die Erwachsenen ein wenig einhelfen und sich nicht auf Hinweise zu den Gegenständen, über die man trefflich sprechen kann, beschränken. Dazu gehört auch, dass die Reihenfolge der einzelnen Aufgaben nicht etwa zufällig gewählt ist. Auch sie folgen einer Struktur, der man nachgehen kann. Vielleicht helfen auch Fragen wie: "Was sind das denn für Gegenstände?", die man zum Beispiel mit "Das sind alles Sportgeräte." beantworten kann. Bei so viel Durchdachtes ist es wohl überflüssig zu sagen, dass die Farbwahl der Gegenstände ebenfalls zu den durchdachten Dingen gehört.
@@ -44,14 +63,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/passt-nicht-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/passt-nicht-hardcover

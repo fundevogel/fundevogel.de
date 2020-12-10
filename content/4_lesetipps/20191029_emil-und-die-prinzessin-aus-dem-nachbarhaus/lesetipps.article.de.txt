@@ -14,6 +14,22 @@ Verdict: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Aut
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover
+  text: >
+    Eine wunderbar witzige, spannungsreiche
+    Geschichte der norwegischen Autorin
+    Marianne Kaurin über einen ganz
+    normalen Jungen, dessen Leben plötzlich
+    Kopf steht!
+
+----
+
 Conclusion: 
 
 ----
@@ -34,15 +50,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover
-
-----
-
 Seotitle: Emil und die Prinzessin aus dem Nachbarhaus
 
 ----
 
 Seodescription: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Autorin Marianne Kaurin über einen ganz normalen Jungen, dessen Leben plötzlich Kopf steht!
+
+----
+
+Shithap:
+
+- >
+  buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover

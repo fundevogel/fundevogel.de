@@ -10,6 +10,20 @@ Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die g
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/ein-sommer-in-sommerby-hardcover
+  text: >
+    Eine warmherzige und spannende
+    Geschichte für alle jungen Leser, die
+    gerne mal ein paar Abenteuer außerhalb
+    der Stadt erleben möchten.
+
+----
+
 Conclusion: 
 
 ----
@@ -30,14 +44,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/ein-sommer-in-sommerby-hardcover
-
-----
-
 Seotitle: Ein Sommer in Sommerby
 
 ----
 
 Seodescription: Eine warmherzige und spannende Geschichte für alle jungen Leser, die gerne mal ein paar Abenteuer außerhalb der Stadt erleben möchten.
+
+----
+
+Shithap: - buecher/ein-sommer-in-sommerby-hardcover

@@ -14,6 +14,26 @@ Verdict: Das Eingreifen des Menschen in die Natur hat meist weitreichende Folgen
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/der-dominoeffekt-hardcover
+  text: >
+    Das Eingreifen des Menschen in die Natur
+    hat meist weitreichende Folgen. Durch
+    unkontrolliertes Importieren fremder
+    Lebewesen kann erheblicher Schaden
+    angerichtet werden. Versuche, den
+    angerichteten Schaden rückgängig zu
+    machen, lösen meist Dominoeffekte aus.
+    Von 18 unglaublichen aber wahren
+    Geschichten berichtet der Autor
+    Accinelli in anekdotischer Erzählweise.
+
+----
+
 Conclusion:
 
 Symbolisch zieht sich durch das ganze Buch von Seite zu Seite ein Faden. Der farbige Faden sowie die Illustrationen von Tier- und Pflanzenmotiven der Künstlerin Serena Viola ergänzen den Inhalt in eindrucksvoller Weise. Die Zeichnungen sind vorwiegend in gedeckten Farben gehalten. Es handelt sich um großflächige intensive Bilder, die sich über eine ganze Seite erstrecken. Diese bilden Ausschnitte des Textes ab. Verschiedene Maltechniken innerhalb der Bilder wirken interessant und laden zum näheren Betrachten ein. Diese fantasievollen, zum Teil aber auch naturgetreuen Bilder in Verbindung mit der lockeren Erzählweise machen dieses Buch besonders. Anekdotenhaft und elegant berichtet Accinelli über kuriose wie erschreckende Geschichten. Dezent fordert er den Leser auf, über die zweifelhafte Rolle des Menschen und seine Beziehung zur Natur nachzudenken. Durch kurzweilige und humorvolle Schilderung der Sachverhalte, werden die eigentlich empörenden Eingriffe, nie düster vermittelt.
@@ -38,14 +58,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/der-dominoeffekt-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/der-dominoeffekt-hardcover

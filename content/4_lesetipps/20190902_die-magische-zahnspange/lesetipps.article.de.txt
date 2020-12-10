@@ -18,6 +18,20 @@ Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsa
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/die-magische-zahnspange-hardcover
+  text: >
+    Wer ist er? Was hat er vor? Und welche
+    Rolle soll Tobi in seinem seltsamen Plan
+    spielen?
+
+----
+
 Conclusion: 
 
 ----
@@ -38,15 +52,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/die-magische-zahnspange-hardcover
-
-----
-
 Seotitle: Die magische Zahnspange
 
 ----
 
 Seodescription: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsamen Plan spielen?
+
+----
+
+Shithap:
+
+- >
+  buecher/die-magische-zahnspange-hardcover

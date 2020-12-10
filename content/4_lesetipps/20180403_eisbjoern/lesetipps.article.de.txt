@@ -14,6 +14,22 @@ Verdict: Eine schöne Geschichte über zwei Einsame und Pflichtbewusste. Einer i
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/eisbjoern-hardcover
+  text: >
+    Eine schöne Geschichte über zwei
+    Einsame und Pflichtbewusste. Einer ist
+    Leuchtturmwärter, der andere ein
+    Mäuserich. Dieser lernt an den langen
+    Tagen so viel, dass er eine Katastrophe
+    verhindern kann.
+
+----
+
 Conclusion:
 
 Ganz wunderbare Bilder zeichnet Lev Kaplan, deutlich Bilder und doch ganz realitätsnah. Herrlich, wie der kleine Mäuserich bei dem Sturm von rechts auf dem Felsbrocken sitzt, sein Körper deutlich nach links geneigt ist, seine aufgestellten rosa Ohren noch viel mehr und sein blanker Schwanz sich im starken Wind sogar wellt. Die starke wettergegerbte Tür wird der Alte gleich für Eisbjörn öffnen, und innen wird er einen Seemannspullover für Eisbjörn nähen, der dem seinen sehr ähnelt. Seine kurzen grauen Haare bedecken kaum noch seinen Kopf, der Backenbart weist ihn als Seemann aus. Die dunklen Augenbrauen, die Lesebrille, die vielen Falten – ein sehr sympathischer Mensch, zu dem der sehr sympathische Mäuserich mit seinem grauen Fell und dem weiß-blau gestreiften Pullover gut passt.
@@ -42,14 +58,12 @@ Isaward: true
 
 ----
 
-Books:
-
-- buecher/eisbjoern-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap: - buecher/eisbjoern-hardcover

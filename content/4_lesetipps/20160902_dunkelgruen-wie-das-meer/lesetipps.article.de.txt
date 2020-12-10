@@ -14,6 +14,17 @@ Verdict: Linn freut sich auf die Sommerferien, die sie mit ihren Eltern am Meer 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/dunkelgruen-wie-das-meer-hardcover
+  text: 'Linn freut sich auf die Sommerferien, die sie mit ihren Eltern am Meer verbringen wird. Doch dann zieht ein Streit wie ein Gewitter zwischen den Eltern auf und trübt die Freude. Auch die sehnlich erwartete Urlaubsfreundin ist kein Trost für Linn - sie ist mit einem anderen Mädchen angereist und nimmt keine Notiz von Linn.'
+
+----
+
 Conclusion:
 
 Neben der Furcht vor einer Trennung der Eltern kommen für Mädchen typische Konflikte unter Gleichaltrigen zur Sprache. Die Freundin taucht unerwartet mit einem anderen Mädchen auf, tuschelt geheimniskrämerisch mit dieser und grenzt sich nach außen mit einem einheitlichen Kleidungsstil bis hin zur gleichen Nagellackfarbe ab. Linn verhält sich introvertiert und wenig handlungsfähig. Ihren Kummer behält sie für sich und als Leser fällt es schwer, die Tränen nicht an ihrer Stelle zu weinen. Damit ist dieses Buch keine Lektüre für einen unterhaltsamen Nachmittag. Mit 80 Seiten, die in 14 Kapitel unterteilt sind, hat es eine überschaubare Länge und kann gut alleine oder auch gemeinsam gelesen werden, um währenddessen mit dem Kind ins Gespräch zu kommen. Die Einsamkeitserfahrung dürfte vielen Kindern wohl vertraut sein. In Kombination mit der bildhaften, metaphorischen Sprache können sich Kinder sehr gut in Linns Situation hineinversetzen. Die textbegleitenden Illustrationen von Birgit Schössow sind in zarten Orange- und Grüntönen gehalten. Über warme und kalte Farbnuancen spiegeln sie ebenfalls die Stimmung des Mädchens wider. Die Symbiose aus Text und Bild ist damit hervorragend gelungen. Am Ende des Buches löst sich die melancholische Grundstimmung wohltuend auf. Manchmal müssen eben erst Blitz und Donner einschlagen, um die Blickrichtung auf das Wesentliche im Leben zu lenken: das eigene Kind, die Familie, die in der heutigen Zeit viel zu oft dem Arbeitsleben Vorrang gewähren muss.
@@ -38,15 +49,15 @@ Isaward: true
 
 ----
 
-Books:
-
-- >
-  buecher/dunkelgruen-wie-das-meer-hardcover
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/dunkelgruen-wie-das-meer-hardcover

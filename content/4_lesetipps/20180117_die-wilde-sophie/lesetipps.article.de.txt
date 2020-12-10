@@ -14,6 +14,16 @@ Verdict: Eine überaus spannende Geschichte, die im Heißluftballon endet, wie e
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/die-wilde-sophie-hardcover
+  text: 'Eine überaus spannende Geschichte, die im Heißluftballon endet, wie euch das Cover des Buches  zeigt. Für Kinder ab 9 Jahren.'
+
+----
+
 Conclusion: 
 
 ----
@@ -34,14 +44,12 @@ Isaward: false
 
 ----
 
-Books:
-
-- buecher/die-wilde-sophie-hardcover
-
-----
-
 Seotitle: Die wilde Sophie
 
 ----
 
 Seodescription: Eine überaus spannende Geschichte, die im Heißluftballon endet, wie euch das Cover des Buches  zeigt. Für Kinder ab 9 Jahren.
+
+----
+
+Shithap: - buecher/die-wilde-sophie-hardcover

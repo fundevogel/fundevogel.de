@@ -10,6 +10,22 @@ Verdict: Ein spannungsreiches, fantastisches Hör-Abenteuer, das von Tapferkeit 
 
 ----
 
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
+  text: >
+    Ein spannungsreiches, fantastisches
+    Hör-Abenteuer, das von Tapferkeit und
+    Freundschaft, den Wundern der Natur und
+    der Bedeutsamkeit, sie zu schützen und
+    zu erhalten, erzählt.
+
+----
+
 Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher", einem Hörbuchverlag, den die Autorin Cornelia Funke gegründet hat. Und das Hörbuch atmet wirklich! Ob tief grollender Fjordtroll oder zaghaft klingender Homunkulus: Mit seiner fesselnden Stimme haucht Rainer Strecker jeder Figur Leben ein. Gemeinsam mit Cornelia Funke, die ihre Stimme Bens Schwester und Mutter leiht, einer atmosphärischen Geräusch- und Klangkulisse, ergreifenden Musikstücken am Ende eines jeden Kapitels und liebevoll gestalteten CD-Hüllen ist so ein einzigartiges Hörbuch entstanden.
 
 ----
@@ -30,15 +46,15 @@ Isaward: false
 
 ----
 
-Books:
-
-- >
-  buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
-
-----
-
 Seotitle: 
 
 ----
 
 Seodescription: 
+
+----
+
+Shithap:
+
+- >
+  buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
