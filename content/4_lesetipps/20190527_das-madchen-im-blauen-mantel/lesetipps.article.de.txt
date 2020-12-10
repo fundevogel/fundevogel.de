@@ -12,14 +12,9 @@ Hanneke ist 18 Jahre alt und versorgt jetzt ihre Familie, indem sie heimlich die
 
 ----
 
-Verdict: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/das-maedchen-im-blauen-mantel-hardcover
@@ -29,6 +24,7 @@ Books:
     eine Antwort gibt. Und dass der Krieg
     alle Menschen dazu zwingt, ihr
     Äußerstes zu geben.
+  title: ""
 
 ----
 
@@ -57,10 +53,3 @@ Seotitle: Das Mädchen im blauen Mantel
 ----
 
 Seodescription: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
-
-----
-
-Shithap:
-
-- >
-  buecher/das-maedchen-im-blauen-mantel-hardcover

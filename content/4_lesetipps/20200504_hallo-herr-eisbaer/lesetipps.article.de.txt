@@ -10,14 +10,9 @@ Ganz unerwartet steht in diesem Moment ein Eisbär in der Haustür und wirbelt d
 
 ----
 
-Verdict: Liam ist ein besonderes Kind. Schon mit kleinen Veränderungen der täglichen Routine kommt er nur schlecht zurecht und die ganze Familie muss Rücksicht auf ihn nehmen. Darunter leidet vor allem sein Bruder Arthur, der quasi in letzter Sekunde Hilfe von einem Eisbären erhält. Ein ebenso ernsthaftes wie humorvolles Kinderbuch, in dem die Empfindungen des Geschwisterkindes von einem Autisten feinfühlig zum Ausdruck kommen.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/hallo-herr-eisbaer-hardcover
   text: >
@@ -33,6 +28,7 @@ Books:
     in dem die Empfindungen des
     Geschwisterkindes von einem Autisten
     feinfühlig zum Ausdruck kommen.
+  title: ""
 
 ----
 
@@ -61,7 +57,3 @@ Seotitle: Hallo, Herr Eisbär!
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/hallo-herr-eisbaer-hardcover

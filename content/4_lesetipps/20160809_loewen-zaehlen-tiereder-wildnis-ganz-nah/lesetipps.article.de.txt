@@ -11,14 +11,9 @@ Im Gegenteil: Nicht nur durch die grafisch hervorragende Arbeit von Walton, sond
 
 ----
 
-Verdict: Das Buch ist kein Zählbuch für Vorschulkinder, auch wenn es den Zahlraum von 1 bis 10 nutzt. Ganz erstaunliche, fotorealistisch gezeichnete Bilder im Großformat öffnen allein durch die Nutzung von Kohlestiften eine Welt der Wunder, die es verdient, dass wir uns für ihre Erhaltung einsetzen. Die Auswahl der Tiere ist nicht zufällig, denn fast alle der gezeigten Arten sind vom Aussterben bedroht.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/loewen-zaehlen-hardcover
   text: >
@@ -34,6 +29,7 @@ Books:
     Tiere ist nicht zufällig, denn fast
     alle der gezeigten Arten sind vom
     Aussterben bedroht.
+  title: ""
 
 ----
 
@@ -66,7 +62,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/loewen-zaehlen-hardcover

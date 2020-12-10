@@ -10,19 +10,15 @@ Vor kurzem habe ich eine Bank überfallen, denn ich will ins Gefängnis. Das hat
 
 ----
 
-Verdict: Eine spannende, lustige und doch sehr kluge Geschichte.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/salon-salami-hardcover
   text: >
     Eine spannende, lustige und doch sehr
     kluge Geschichte.
+  title: ""
 
 ----
 
@@ -51,7 +47,3 @@ Seotitle: Salon Salami
 ----
 
 Seodescription: Eine spannende, lustige und doch sehr kluge Geschichte.
-
-----
-
-Shithap: - buecher/salon-salami-hardcover

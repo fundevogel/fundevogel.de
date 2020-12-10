@@ -10,14 +10,9 @@ Das Tüfteln und Werkeln beginnt und Pete macht sich gemeinsam mit dem Professor
 
 ----
 
-Verdict: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf den Grund!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
@@ -25,6 +20,7 @@ Books:
     Taucht ein in die Tiefen des Meeres und
     geht dem Geheimnis Edisons auf den
     Grund!
+  title: ""
 
 ----
 
@@ -53,10 +49,3 @@ Seotitle: Edison - Das Rätsel des verschollenen Mauseschatzes
 ----
 
 Seodescription: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf den Grund!
-
-----
-
-Shithap:
-
-- >
-  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover

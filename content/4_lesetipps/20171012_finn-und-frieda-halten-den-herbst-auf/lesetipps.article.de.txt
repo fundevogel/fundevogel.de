@@ -11,20 +11,16 @@ Da beschließen die beiden, den Herbst einfach aufzuhalten.
 
 ----
 
-Verdict: Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/finn-und-frieda-halten-den-herbst-auf-hardcover
   text: >
     Wie das gehen soll? Finn und Frieda
     haben viele lustige Ideen!
+  title: ""
 
 ----
 
@@ -53,10 +49,3 @@ Seotitle: Finn und Frieda halten den Herbst auf
 ----
 
 Seodescription: Wie das gehen soll? Finn und Frieda haben viele lustige Ideen!
-
-----
-
-Shithap:
-
-- >
-  buecher/finn-und-frieda-halten-den-herbst-auf-hardcover

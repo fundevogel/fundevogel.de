@@ -11,17 +11,13 @@ Wolfgang Korn bearbeitet dieses aktuelle Thema in der Form einer fiktionalisiert
 
 ----
 
-Verdict: "*Die Hauptfigur des Buches, der Journalist Werner Koschinski, folgt seinen offenen Fragen und oft auch der eigenen Intuition. Das erzeugt Spannung und führt zu einer mitreißenden Story, die aber sehr realistisch ist*" - Prof. Michael Ritter, Sprecher der Jury, über den Preisträger des Heinrich-Wolgast-Preises der GEW 2019, Wolfgang Korns Jugendbuch "Lauf um dein Leben. Die Weltreise der Sneakers".
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/lauf-um-dein-leben-hardcover
   text: '"*Die Hauptfigur des Buches, der Journalist Werner Koschinski, folgt seinen offenen Fragen und oft auch der eigenen Intuition. Das erzeugt Spannung und führt zu einer mitreißenden Story, die aber sehr realistisch ist*" - Prof. Michael Ritter, Sprecher der Jury, über den Preisträger des Heinrich-Wolgast-Preises der GEW 2019, Wolfgang Korns Jugendbuch "Lauf um dein Leben. Die Weltreise der Sneakers".'
+  title: ""
 
 ----
 
@@ -54,7 +50,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/lauf-um-dein-leben-hardcover

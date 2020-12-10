@@ -6,14 +6,9 @@ Text: Als ein neuer Junge in ihre Klasse kommt, verändert sich Alexas Welt und 
 
 ----
 
-Verdict: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/der-junge-aus-der-letzten-reihe-hardcover
@@ -26,6 +21,7 @@ Books:
     Geschichte über Freundschaft und
     Solidarität geschrieben, vor allem aber
     über den Mut, für Andere einzustehen.
+  title: ""
 
 ----
 
@@ -54,10 +50,3 @@ Seotitle: Der Junge aus der letzten Reihe
 ----
 
 Seodescription: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
-
-----
-
-Shithap:
-
-- >
-  buecher/der-junge-aus-der-letzten-reihe-hardcover

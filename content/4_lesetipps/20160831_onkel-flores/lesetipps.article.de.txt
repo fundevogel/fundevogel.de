@@ -10,17 +10,13 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Verdict: 
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/onkel-flores-hardcover
   text: ""
+  title: ""
 
 ----
 
@@ -49,7 +45,3 @@ Seotitle: Onkel Flores
 ----
 
 Seodescription: Das Bilderbuch „Onkel Flores – eine ziemlich wahre Geschichte aus Brasilien“ ist mir gleich durch seine besondere Art aufgefallen: die Bilder sind nämlich …
-
-----
-
-Shithap: - buecher/onkel-flores-hardcover

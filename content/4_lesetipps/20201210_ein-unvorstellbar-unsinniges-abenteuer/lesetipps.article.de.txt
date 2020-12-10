@@ -10,14 +10,9 @@ Kaum in New York angekommen, schwört Vita Rache und fordert Sorrotore heraus. Z
 
 ----
 
-Verdict: Ein neuer wunderbarer, spannender Abenteuerroman der britischen Autorin Katherine Rundell voller Überraschungen und unerwarteter Wendungen, der im New York der zwanziger Jahre spielt und von Mut, Freundschaft und Gerechtigkeit erzählt.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/ein-unvorstellbar-unsinniges-abenteuer
@@ -29,6 +24,7 @@ Books:
     York der zwanziger Jahre spielt und von
     Mut, Freundschaft und Gerechtigkeit
     erzählt.
+  title: ""
 
 ----
 
@@ -53,10 +49,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/ein-unvorstellbar-unsinniges-abenteuer

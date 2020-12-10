@@ -10,14 +10,9 @@ Als Rahmenhandlung treffen wir auf einen Geschichtenerzähler, der "vor langer, 
 
 ----
 
-Verdict: Rübezahl ist eine Sagengestalt aus dem Riesengebirge, die immer mehr in Vergessenheit gerät, sofern es nicht Kinderbücher wie dieses gibt. Als Grundlage dienten die Rübezahl-Sagen von Johannes Praetorius, publiziert im Jahr 1920, von denen etwa ein Drittel ausgewählt und mit großer Sorgfalt in eine modernere Sprache übertragen wurde.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/ruebezahl-hardcover
   text: >
@@ -31,6 +26,7 @@ Books:
     ausgewählt und mit großer Sorgfalt in
     eine modernere Sprache übertragen
     wurde.
+  title: ""
 
 ----
 
@@ -68,7 +64,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/ruebezahl-hardcover

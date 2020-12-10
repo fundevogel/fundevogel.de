@@ -10,14 +10,9 @@ Max ist ein 9-jähriger Junge, der an einem für sein Alter sehr ungewöhnlichen
 
 ----
 
-Verdict: Wer würde vermuten, dass auf Burg Geroldseck, einem Altenheim, vier Detektive wohnen? Die vier ungewöhnlichen Ermittler (ein Junge und drei Alte) verstehen ihr Handwerk meisterhaft. Als Kater Motzkopf und weitere Tiere verschwinden, folgen sie den Spuren der gemeinen Drachen-Bande und stecken bald in einer brenzligen Situation. Ob das gut ausgeht? Humorvoll, spannend und dennoch tiefgründig und emotional hat diese Detektivgeschichte einiges zu bieten.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover
@@ -35,6 +30,7 @@ Books:
     Humorvoll, spannend und dennoch
     tiefgründig und emotional hat diese
     Detektivgeschichte einiges zu bieten.
+  title: ""
 
 ----
 
@@ -67,10 +63,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/max-und-die-wilde-sieben-die-drachenbande-hardcover

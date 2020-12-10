@@ -10,18 +10,14 @@ Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die S
 
 ----
 
-Verdict: 
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/der-katze-ist-es-ganz-egal-hardcover
   text: ""
+  title: ""
 
 ----
 
@@ -50,10 +46,3 @@ Seotitle: Der Katze ist es ganz egal
 ----
 
 Seodescription: Eines Tages wacht Leo mit einem neuen schönen Namen auf: Jennifer. So möchte er ab heute genannt werden, denn Jennifer ist einer großen Verwechslung auf …
-
-----
-
-Shithap:
-
-- >
-  buecher/der-katze-ist-es-ganz-egal-hardcover

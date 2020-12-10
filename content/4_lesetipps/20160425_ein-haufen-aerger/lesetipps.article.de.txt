@@ -10,14 +10,9 @@ Das Zusammenleben wird nicht einfach, aber bald ist das Team bereit, gemeinsam d
 
 ----
 
-Verdict: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/ein-haufen-aerger-hardcover
   text: >
@@ -25,6 +20,7 @@ Books:
     vom Anders-sein und Zusammenleben, mit
     schönen farbigen Illustrationen von
     Sabine Wilharm auf jeder Seite!
+  title: ""
 
 ----
 
@@ -53,7 +49,3 @@ Seotitle: Ein Haufen Ärger
 ----
 
 Seodescription: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
-
-----
-
-Shithap: - buecher/ein-haufen-aerger-hardcover

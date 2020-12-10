@@ -12,14 +12,9 @@ Auch in Samirs Welt steht kein Stein mehr auf dem anderen. Vor einigen Wochen is
 
 ----
 
-Verdict: Zwei Freunde, die sich zum Verwechseln ähnlich sehen, aber aus unterschiedlichen Lebenswelten stammen, tauschen für einige Zeit ihre Rollen, um sich gegenseitig zu helfen. Da muss ein verschwundener Vater gesucht werden und die erste Liebe für sich gewonnen werden. Das sind die Themen des Romans "Das Leben meines besten Freundes" von Judith Gridl.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/das-leben-meines-besten-freundes-hardcover
@@ -34,6 +29,7 @@ Books:
     werden. Das sind die Themen des Romans
     "Das Leben meines besten Freundes" von
     Judith Gridl.
+  title: ""
 
 ----
 
@@ -68,10 +64,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/das-leben-meines-besten-freundes-hardcover

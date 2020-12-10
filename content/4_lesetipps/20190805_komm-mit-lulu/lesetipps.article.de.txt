@@ -10,14 +10,9 @@ Wir sprechen von Frau Dachs, die inzwischen schon recht alt geworden ist. Sie le
 
 ----
 
-Verdict: Die sehr leise Geschichte um das Weitergeben zwischen den Generationen führt uns zu Frau Dachs und dem kleinen Kater Lulu. Die Bilder sind zurückhaltend und stellen die beiden und ihr Verhältnis sehr unspektakulär dar. Glück braucht nicht viel.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/komm-mit-lulu-hardcover
   text: >
@@ -28,6 +23,7 @@ Books:
     zurückhaltend und stellen die beiden
     und ihr Verhältnis sehr unspektakulär
     dar. Glück braucht nicht viel.
+  title: ""
 
 ----
 
@@ -63,7 +59,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/komm-mit-lulu-hardcover

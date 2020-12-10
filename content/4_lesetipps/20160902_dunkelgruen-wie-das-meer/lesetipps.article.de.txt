@@ -10,18 +10,14 @@ In einem kurzen Zeitraum von wenigen Tagen durchlebt Linn eine emotional sehr an
 
 ----
 
-Verdict: Linn freut sich auf die Sommerferien, die sie mit ihren Eltern am Meer verbringen wird. Doch dann zieht ein Streit wie ein Gewitter zwischen den Eltern auf und trübt die Freude. Auch die sehnlich erwartete Urlaubsfreundin ist kein Trost für Linn - sie ist mit einem anderen Mädchen angereist und nimmt keine Notiz von Linn.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/dunkelgruen-wie-das-meer-hardcover
   text: 'Linn freut sich auf die Sommerferien, die sie mit ihren Eltern am Meer verbringen wird. Doch dann zieht ein Streit wie ein Gewitter zwischen den Eltern auf und trübt die Freude. Auch die sehnlich erwartete Urlaubsfreundin ist kein Trost für Linn - sie ist mit einem anderen Mädchen angereist und nimmt keine Notiz von Linn.'
+  title: ""
 
 ----
 
@@ -54,10 +50,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/dunkelgruen-wie-das-meer-hardcover

@@ -6,14 +6,9 @@ Text: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor die
 
 ----
 
-Verdict: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/warum-gibt-es-uns-hardcover
   text: >
@@ -24,6 +19,7 @@ Books:
     sehr ansprechende farbige Bebilderung,
     die dies herausragende Sachbuch
     abrundet.
+  title: ""
 
 ----
 
@@ -52,7 +48,3 @@ Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
 ----
 
 Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …
-
-----
-
-Shithap: - buecher/warum-gibt-es-uns-hardcover

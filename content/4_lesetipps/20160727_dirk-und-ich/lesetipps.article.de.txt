@@ -6,14 +6,9 @@ Text: Andreas und Dirk sind zwei ganz normale Brüder möchte man meinen, aber s
 
 ----
 
-Verdict: Ein herrlich spritziges Buch, das mit viel Witz von den frechen Brüdern erzählt und von irre komischen, farbigen Illustrationen begleitet wird. Viele Lacher und ein großer Lesespaß sind dabei auf jeden Fall vorprogrammiert!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/dirk-und-ich-hardcover
   text: >
@@ -24,6 +19,7 @@ Books:
     Viele Lacher und ein großer Lesespaß
     sind dabei auf jeden Fall
     vorprogrammiert!
+  title: ""
 
 ----
 
@@ -52,7 +48,3 @@ Seotitle: Dirk und Ich
 ----
 
 Seodescription: Ein herrlich spritziges Buch, das mit viel Witz von den frechen Brüdern erzählt und von irre komischen, farbigen Illustrationen begleitet wird. Viele Lacher und ein großer Lesespaß sind dabei auf jedenfall vorprogrammiert.
-
-----
-
-Shithap: - buecher/dirk-und-ich-hardcover

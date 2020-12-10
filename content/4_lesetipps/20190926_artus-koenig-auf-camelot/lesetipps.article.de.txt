@@ -10,14 +10,9 @@ Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excal
 
 ----
 
-Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/artus-koenig-auf-camelot-hardcover
@@ -31,6 +26,7 @@ Books:
     Kommentaren rund um die Welt von
     keltischen Mythen, König Artus und
     seinen Rittern.
+  title: ""
 
 ----
 
@@ -59,10 +55,3 @@ Seotitle: Artus - König auf Camelot
 ----
 
 Seodescription: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
-
-----
-
-Shithap:
-
-- >
-  buecher/artus-koenig-auf-camelot-hardcover

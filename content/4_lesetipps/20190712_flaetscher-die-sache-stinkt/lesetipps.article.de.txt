@@ -10,14 +10,9 @@ Dass Flätscher so ganz nebenbei die Menschensprache spricht, verwundert bereits
 
 ----
 
-Verdict: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8 Jahren, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/flaetscher-die-sache-stinkt-hardcover
@@ -28,6 +23,7 @@ Books:
     Jahren, die es witzig, abenteuerlich und
     spannend mögen. Bisher sind 5 Bände
     erschienen.
+  title: ""
 
 ----
 
@@ -56,10 +52,3 @@ Seotitle: Flätscher - die Sache stinkt!
 ----
 
 Seodescription: Ein tierischer und rasant in Szene gesetzter Lesespaß, ebenso rassig farbig bebildert, für junge Helden ab 8, die es witzig, abenteuerlich und spannend mögen. Bisher sind 5 Bände erschienen.
-
-----
-
-Shithap:
-
-- >
-  buecher/flaetscher-die-sache-stinkt-hardcover

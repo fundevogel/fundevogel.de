@@ -14,23 +14,16 @@ Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, s
 
 ----
 
-Verdict:
-
-Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
-Spannung und Action
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/timeless-retter-der-verlorenen-zeit-hardcover
   text: |
     Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
     Spannung und Action
+  title: ""
 
 ----
 
@@ -62,10 +55,3 @@ Seodescription:
 
 Der Autor Armand Baltazar hat sich die Geschichte für seinen Sohn ausgedacht, sie bauten zusammen Lego-Roboter, die ihn zu diesem Zukunftsszenario inspirierten. Das besondere an dem Buch sind die vielen farbigen Bilder, die dich im Nu in diese andere, mysteriöse Welt entführen. Es ist übrigens erst der erste Teil …
 Spannung und Action
-
-----
-
-Shithap:
-
-- >
-  buecher/timeless-retter-der-verlorenen-zeit-hardcover

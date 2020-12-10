@@ -14,14 +14,9 @@ In Deutschland finden wir die Loreley, in schottischen Gewässern die verführer
 
 ----
 
-Verdict: Der "Atlas der Meerjungfrauen" ist ein Sammelsurium von Geschichten, Märchen und Sagen über bekannte und unbekannte Meereswesen aus aller Welt. Geordnet nach Kontinenten und in Form eines erzählenden Nachschlagewerkes entführt das Buch den Leser in geheimnisvolle und zauberhafte Unterwasserwelten.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/atlas-der-meerjungfrauen-hardcover
@@ -34,6 +29,7 @@ Books:
     erzählenden Nachschlagewerkes entführt
     das Buch den Leser in geheimnisvolle und
     zauberhafte Unterwasserwelten.
+  title: ""
 
 ----
 
@@ -69,10 +65,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/atlas-der-meerjungfrauen-hardcover

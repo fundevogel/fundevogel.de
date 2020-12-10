@@ -12,20 +12,16 @@ Und prompt will Jonas Jakob seine Muschel wegnehmen …
 
 ----
 
-Verdict: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und die Macht der Fantasie.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/jakobs-muschel-hardcover
   text: >
     Eine kluge Geschichte über kleine
     Sprücheklopfer, große Träume und die
     Macht der Fantasie.
+  title: ""
 
 ----
 
@@ -54,7 +50,3 @@ Seotitle: Jakobs Muschel
 ----
 
 Seodescription: Eine kluge Geschichte über kleine Sprücheklopfer, große Träume und die Macht der Fantasie.
-
-----
-
-Shithap: - buecher/jakobs-muschel-hardcover

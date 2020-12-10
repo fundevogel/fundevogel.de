@@ -10,18 +10,14 @@ Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber küm
 
 ----
 
-Verdict: 
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
   text: ""
+  title: ""
 
 ----
 
@@ -50,10 +46,3 @@ Seotitle: Toni - und alles nur wegen Renato Flash
 ----
 
 Seodescription: Für Toni ist Fußballspielen das Größte. Als er von den neuen Fußballschuhen ‚Renato Flash‘ erfährt, ist sofort klar: Diese Schuhe muss er haben. Sie …
-
-----
-
-Shithap:
-
-- >
-  buecher/toni-und-alles-nur-wegen-renato-flash-hardcover

@@ -6,14 +6,9 @@ Text: Als Thabo bei einer Safari-Tour eine SMS von Miss Agatha bekommt, die HILF
 
 ----
 
-Verdict: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover
@@ -21,6 +16,7 @@ Books:
     Ein spannender Krimi, in dem man auch
     noch viel über die Wildtiere
     Südafrikas erfährt!
+  title: ""
 
 ----
 
@@ -49,10 +45,3 @@ Seotitle: Thabo, Detektiv & Gentleman - Der Nashorn-Fall
 ----
 
 Seodescription: Ein spannender Krimi, in dem man auch noch viel über die Wildtiere Südafrikas erfährt!
-
-----
-
-Shithap:
-
-- >
-  buecher/thabo-detektiv-gentleman-der-nashorn-fall-hardcover

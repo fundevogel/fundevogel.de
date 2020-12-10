@@ -6,20 +6,16 @@ Text: Seit seine Mutter gestorben ist, lebt Danny mit seinem Vater in einem Wohn
 
 ----
 
-Verdict: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/danny-oder-die-fasanenjagd-taschenbuch
   text: >
     Eine mitreißende Familiengeschichte
     über Zusammenhalt und Mut.
+  title: ""
 
 ----
 
@@ -48,10 +44,3 @@ Seotitle: Danny oder die Fasanenjagd
 ----
 
 Seodescription: Eine mitreißende Familiengeschichte über Zusammenhalt und Mut.
-
-----
-
-Shithap:
-
-- >
-  buecher/danny-oder-die-fasanenjagd-taschenbuch

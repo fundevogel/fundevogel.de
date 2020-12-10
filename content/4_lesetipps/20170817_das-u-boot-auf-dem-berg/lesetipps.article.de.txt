@@ -6,14 +6,9 @@ Text: Als der schüchterne Mauritius Besuch von seinem Onkel bekommt, fängt sei
 
 ----
 
-Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/das-u-boot-auf-dem-berg-hardcover
@@ -22,6 +17,7 @@ Books:
     über einen wahnsinnigen Onkel, der
     eigentlich eine psychische Krankheit
     hat.
+  title: ""
 
 ----
 
@@ -50,10 +46,3 @@ Seotitle: Das U-Boot auf dem Berg
 ----
 
 Seodescription: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
-
-----
-
-Shithap:
-
-- >
-  buecher/das-u-boot-auf-dem-berg-hardcover

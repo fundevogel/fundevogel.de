@@ -10,14 +10,9 @@ Das Buch beginnt mit einer Einleitung von Carol Kaufmann, in der allgemeine Info
 
 ----
 
-Verdict: "Polar" ist ein atemberaubendes Buch mit bewegten Bildern in einer neuen Technik, die sich der Photicular-Effekt nennt. Dazu gibt es jede Menge Sachinformation über die beiden Pole und den dort lebenden Tieren.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/polar-hardcover
   text: >
@@ -27,6 +22,7 @@ Books:
     Dazu gibt es jede Menge Sachinformation
     über die beiden Pole und den dort
     lebenden Tieren.
+  title: ""
 
 ----
 
@@ -59,7 +55,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/polar-hardcover

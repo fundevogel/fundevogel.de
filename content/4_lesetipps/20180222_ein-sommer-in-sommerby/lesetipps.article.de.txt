@@ -6,14 +6,9 @@ Text: Noch nie haben die drei Geschwister Martha, Mikkels und Mats einen größe
 
 ----
 
-Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die gerne mal ein paar Abenteuer außerhalb der Stadt erleben möchten.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/ein-sommer-in-sommerby-hardcover
   text: >
@@ -21,6 +16,7 @@ Books:
     Geschichte für alle jungen Leser, die
     gerne mal ein paar Abenteuer außerhalb
     der Stadt erleben möchten.
+  title: ""
 
 ----
 
@@ -49,7 +45,3 @@ Seotitle: Ein Sommer in Sommerby
 ----
 
 Seodescription: Eine warmherzige und spannende Geschichte für alle jungen Leser, die gerne mal ein paar Abenteuer außerhalb der Stadt erleben möchten.
-
-----
-
-Shithap: - buecher/ein-sommer-in-sommerby-hardcover

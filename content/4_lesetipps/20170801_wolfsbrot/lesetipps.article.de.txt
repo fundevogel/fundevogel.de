@@ -14,17 +14,13 @@ Wir sind in der Zeit nach einem Krieg, der Erzähler denkt zurück. Er selbst wa
 
 ----
 
-Verdict: 
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/wolfsbrot-hardcover
   text: ""
+  title: ""
 
 ----
 
@@ -59,7 +55,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/wolfsbrot-hardcover

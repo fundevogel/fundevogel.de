@@ -9,14 +9,9 @@ Text:
 
 ----
 
-Verdict: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunden nichts anderes mehr getan, als darin zu lesen. Man kann es auch sehr gut mehrmals lesen, ohne die Lust zu verlieren!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/woodwalkers-tag-der-rache-hardcover
@@ -27,6 +22,7 @@ Books:
     lesen. Man kann es auch sehr gut
     mehrmals lesen, ohne die Lust zu
     verlieren!
+  title: ""
 
 ----
 
@@ -55,10 +51,3 @@ Seotitle: Woodwalkers - Tag der Rache
 ----
 
 Seodescription: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunden nichts anderes mehr getan, als darin zu lesen. Man kann es auch sehr gut mehrmals lesen, ohne die Lust zu verlieren!
-
-----
-
-Shithap:
-
-- >
-  buecher/woodwalkers-tag-der-rache-hardcover

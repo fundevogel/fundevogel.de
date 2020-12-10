@@ -6,14 +6,9 @@ Text: Eine furchtbare Nachricht erreicht Drachenreiter Ben und seine Freunde: Da
 
 ----
 
-Verdict: Ein spannungsreiches, fantastisches Hör-Abenteuer, das von Tapferkeit und Freundschaft, den Wundern der Natur und der Bedeutsamkeit, sie zu schützen und zu erhalten, erzählt.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
@@ -23,6 +18,7 @@ Books:
     Freundschaft, den Wundern der Natur und
     der Bedeutsamkeit, sie zu schützen und
     zu erhalten, erzählt.
+  title: ""
 
 ----
 
@@ -51,10 +47,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/drachenreiter-die-feder-eines-greifs-hoerbuch

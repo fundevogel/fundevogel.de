@@ -12,14 +12,9 @@ In der blauweißen Nacht sitzen die Geschwister Cuno und Aia "weit im Norden" mi
 
 ----
 
-Verdict: Den Erzählungen der Alten gemäß wartet Cuno mit viel Geduld darauf, den Wal zu sehen. Seine kleine Schwester will er nicht dabei haben, aber erst nachdem diese sich in das Kajak schlich, geschieht das Unfassbare. Einfache und doch sehr beeindruckende Illustrationen zeigen die blaue Welt des Eises und machen die Sehnsucht der Kinder deutlich.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/die-kinder-und-der-wal-hardcover
   text: >
@@ -33,6 +28,7 @@ Books:
     zeigen die blaue Welt des Eises und
     machen die Sehnsucht der Kinder
     deutlich.
+  title: ""
 
 ----
 
@@ -65,7 +61,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/die-kinder-und-der-wal-hardcover

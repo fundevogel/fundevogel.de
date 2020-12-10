@@ -12,14 +12,9 @@ Siri plagen Schuldgefühle und so heuert sie heimlich auf dem Schiff ‚Polarste
 
 ----
 
-Verdict: Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern, die das Herz am rechten Fleck haben.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/siri-und-die-eismeerpiraten-hardcover
@@ -27,6 +22,7 @@ Books:
     Ein Kinderbuch mit einem starken,
     tapferen Mädchen und mutigen Kindern,
     die das Herz am rechten Fleck haben.
+  title: ""
 
 ----
 
@@ -55,10 +51,3 @@ Seotitle: Siri und die Eismeerpiraten
 ----
 
 Seodescription: Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern, die das Herz am rechten Fleck haben.
-
-----
-
-Shithap:
-
-- >
-  buecher/siri-und-die-eismeerpiraten-hardcover

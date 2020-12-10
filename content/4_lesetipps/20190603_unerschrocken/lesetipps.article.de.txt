@@ -10,17 +10,13 @@ Sie thematisiert dabei Frauen aus völlig unterschiedlichen Kulturkreisen und Ep
 
 ----
 
-Verdict: Der erste Teil einer (link: https://fundevogel.buchkatalog.de/Product/3000000691090/63715/10002/-3/Buecher_Biografien-und-Memoiren/Pnlope-Bagieu/Unerschrocken text: zweibändigen) Graphic-Novel-Reihe porträtiert 15 außergewöhnliche und rebellische Frauen, die sich gegen die gesellschaftlichen Normen und Moralvorstellungen ihrer Zeit zur Wehr setzen. Die humorvollen Zeichnungen und die pointierten und dennoch informativen Texte spielen dabei auf literarisch anregende Weise zusammen.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/unerschrocken-hardcover
   text: 'Der erste Teil einer (link: https://fundevogel.buchkatalog.de/Product/3000000691090/63715/10002/-3/Buecher_Biografien-und-Memoiren/Pnlope-Bagieu/Unerschrocken text: zweibändigen) Graphic-Novel-Reihe porträtiert 15 außergewöhnliche und rebellische Frauen, die sich gegen die gesellschaftlichen Normen und Moralvorstellungen ihrer Zeit zur Wehr setzen. Die humorvollen Zeichnungen und die pointierten und dennoch informativen Texte spielen dabei auf literarisch anregende Weise zusammen.'
+  title: ""
 
 ----
 
@@ -53,7 +49,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/unerschrocken-hardcover

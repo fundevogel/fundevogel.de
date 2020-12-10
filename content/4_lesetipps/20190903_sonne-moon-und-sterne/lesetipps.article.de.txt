@@ -10,14 +10,9 @@ Verglichen mit ihr wirkt ihr Ehemann wie jemand, der nicht erwachsen werden will
 
 ----
 
-Verdict: Warum die Elfjährige "Gustav" genannt wird, weiß sie selber nicht. Eigentlich ist ihr Name nebensächlich, denn er ändern nichts daran, dass sie in diesem Jahr den turbulentesten Sommer ihres Lebens erfährt und plötzlich Dinge wahrnimmt, die ihrer zuvor kindlich-naiven Betrachtung gänzlich verborgen blieben.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/sonne-moon-und-sterne-hardcover
   text: >
@@ -30,6 +25,7 @@ Books:
     wahrnimmt, die ihrer zuvor
     kindlich-naiven Betrachtung gänzlich
     verborgen blieben.
+  title: ""
 
 ----
 
@@ -58,7 +54,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/sonne-moon-und-sterne-hardcover

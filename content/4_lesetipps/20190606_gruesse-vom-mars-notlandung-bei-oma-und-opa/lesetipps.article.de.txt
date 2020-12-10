@@ -10,14 +10,9 @@ Dafür gibt es aber ein geheimnisvolles Monster im Garten und einen Dachboden, v
 
 ----
 
-Verdict: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinder ab 8 Jahren, in dem es auch darum geht, dass man als Team schwierige Abenteuer gemeinsam meistern kann.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover
@@ -27,6 +22,7 @@ Books:
     Jahren, in dem es auch darum geht, dass
     man als Team schwierige Abenteuer
     gemeinsam meistern kann.
+  title: ""
 
 ----
 
@@ -55,10 +51,3 @@ Seotitle: Grüße vom Mars - Notlandung bei Oma und Opa
 ----
 
 Seodescription: Das und noch viel mehr erfährst Du in diesem lustigen Roman für Kinder ab 8 Jahren, in dem es auch darum geht, dass man als Team schwierige Abenteuer gemeinsam meistern kann.
-
-----
-
-Shithap:
-
-- >
-  buecher/gruesse-vom-mars-notlandung-bei-oma-und-opa-hardcover

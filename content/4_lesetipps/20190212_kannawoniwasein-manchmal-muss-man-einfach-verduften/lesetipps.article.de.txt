@@ -10,14 +10,9 @@ Ein Glück, dass er die mutige Jola kennenlernt. Sie weiß für alle Probleme ei
 
 ----
 
-Verdict: Das erste Band der Abenteuer von Finn und Jola. Spannend und witzig erzählt für mutige Jungs und Mädchen ab 10.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften-hardcover
@@ -25,6 +20,7 @@ Books:
     Das erste Band der Abenteuer von Finn
     und Jola. Spannend und witzig erzählt
     für mutige Jungs und Mädchen ab 10.
+  title: ""
 
 ----
 
@@ -53,10 +49,3 @@ Seotitle: Kannawoniwasein - Manchmal muss man einfach verduften
 ----
 
 Seodescription: Das erste Band der Abenteuer von Finn und Jola. Spannend und witzig erzählt für mutige Jungs und Mädchen ab 10.
-
-----
-
-Shithap:
-
-- >
-  buecher/kannawoniwasein-manchmal-muss-man-einfach-verduften-hardcover

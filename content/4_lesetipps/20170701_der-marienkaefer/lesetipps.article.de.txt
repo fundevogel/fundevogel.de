@@ -10,17 +10,13 @@ So erfährt der Leser, dass die Beine des Marienkäfers kleine Krallen haben, wa
 
 ----
 
-Verdict: Der Marienkäfer - ein kleines Insekt, das durch großformatige intensive Bilder und einprägsame Informationen in diesem Buch genauer unter die Lupe genommen wird.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/der-marienkaefer-hardcover
   text: 'Der Marienkäfer - ein kleines Insekt, das durch großformatige intensive Bilder und einprägsame Informationen in diesem Buch genauer unter die Lupe genommen wird.'
+  title: ""
 
 ----
 
@@ -55,7 +51,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/der-marienkaefer-hardcover

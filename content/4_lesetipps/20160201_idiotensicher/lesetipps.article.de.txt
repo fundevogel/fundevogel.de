@@ -12,14 +12,9 @@ Natürlich versuchen die Jungs den großen Deal einzutüten, und Elín kann ihne
 
 ----
 
-Verdict: Dirk Popes Erstlingswerk ist ein frisches und freches Jugendbuch, das vor allem durch seine Direktheit und Sprache zu gefallen weiß. Die Abenteuer der Gruppe erinnern einen teilweise an Mark Twains "Die Abenteuer des Huckleberry Finn".
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/idiotensicher-hardcover
   text: >
@@ -30,6 +25,7 @@ Books:
     Gruppe erinnern einen teilweise an Mark
     Twains "Die Abenteuer des Huckleberry
     Finn".
+  title: ""
 
 ----
 
@@ -62,7 +58,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap: - buecher/idiotensicher-hardcover

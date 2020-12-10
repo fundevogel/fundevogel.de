@@ -6,18 +6,14 @@ Text: Karlines Familie wirkt auf den ersten Blick ganz normal. Auf den zweiten B
 
 ----
 
-Verdict: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/superhelden-fliegen-geheim-hardcover
   text: 'Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.'
+  title: ""
 
 ----
 
@@ -46,10 +42,3 @@ Seotitle: Superhelden fliegen geheim
 ----
 
 Seodescription: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.
-
-----
-
-Shithap:
-
-- >
-  buecher/superhelden-fliegen-geheim-hardcover

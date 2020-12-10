@@ -6,18 +6,14 @@ Text: Ein Buch über einen Ort, den man nicht wirklich kennt. Eigentlich sind es
 
 ----
 
-Verdict: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover
   text: 'Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.'
+  title: ""
 
 ----
 
@@ -46,10 +42,3 @@ Seotitle: Im Gefängnis - Ein Kinderbuch über das Leben hinter Gittern
 ----
 
 Seodescription: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.
-
-----
-
-Shithap:
-
-- >
-  buecher/im-gefaengnis-ein-kinderbuch-ueber-das-leben-hinter-gittern-hardcover

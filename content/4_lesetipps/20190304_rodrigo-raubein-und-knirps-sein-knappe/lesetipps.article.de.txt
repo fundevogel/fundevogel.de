@@ -10,14 +10,9 @@ Unterwegs treffen wir auf eine entführte Prinzessin, einen schlechtgelaunten Dr
 
 ----
 
-Verdict: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover
@@ -25,6 +20,7 @@ Books:
     Aber lest selbst und macht euch auf den
     Weg in ein spannendes Abenteuer, bei dem
     es garantiert etwas zu lachen gibt!
+  title: ""
 
 ----
 
@@ -53,10 +49,3 @@ Seotitle: Rodrigo Raubein und Knirps, sein Knappe
 ----
 
 Seodescription: Aber lest selbst und macht euch auf den Weg in ein spannendes Abenteuer, bei dem es garantiert etwas zu lachen gibt.
-
-----
-
-Shithap:
-
-- >
-  buecher/rodrigo-raubein-und-knirps-sein-knappe-hardcover

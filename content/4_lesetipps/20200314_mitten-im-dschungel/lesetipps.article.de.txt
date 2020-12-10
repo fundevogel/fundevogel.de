@@ -10,17 +10,13 @@ Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut un
 
 ----
 
-Verdict: 
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/mitten-im-dschungel-hardcover
   text: ""
+  title: ""
 
 ----
 
@@ -49,7 +45,3 @@ Seotitle: Mitten im Dschungel
 ----
 
 Seodescription: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich …
-
-----
-
-Shithap: - buecher/mitten-im-dschungel-hardcover

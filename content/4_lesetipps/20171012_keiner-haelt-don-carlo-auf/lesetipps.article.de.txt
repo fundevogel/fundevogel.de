@@ -6,20 +6,16 @@ Text: Carlo ist 11 und auf dem Weg nach Palermo. Das ist ziemlich weit weg und l
 
 ----
 
-Verdict: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/keiner-haelt-don-carlo-auf-hardcover
   text: >
     Ein abenteuerliches und sehr
     unterhaltsames Buch für Kinder ab 8.
+  title: ""
 
 ----
 
@@ -48,10 +44,3 @@ Seotitle: Keiner hält Don Carlo auf
 ----
 
 Seodescription: Ein abenteuerliches und sehr unterhaltsames Buch für Kinder ab 8. Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktober zu Gast in Freiburg beim großen LirumLarumLesefest und liest für Euch aus seinen Büchern!
-
-----
-
-Shithap:
-
-- >
-  buecher/keiner-haelt-don-carlo-auf-hardcover

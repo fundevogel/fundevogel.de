@@ -10,14 +10,9 @@ Doch eines Tages kommt eine neue Mitschülerin in die Klasse und plötzlich ist 
 
 ----
 
-Verdict: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Autorin Marianne Kaurin über einen ganz normalen Jungen, dessen Leben plötzlich Kopf steht!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover
@@ -27,6 +22,7 @@ Books:
     Marianne Kaurin über einen ganz
     normalen Jungen, dessen Leben plötzlich
     Kopf steht!
+  title: ""
 
 ----
 
@@ -55,10 +51,3 @@ Seotitle: Emil und die Prinzessin aus dem Nachbarhaus
 ----
 
 Seodescription: Eine wunderbar witzige, spannungsreiche Geschichte der norwegischen Autorin Marianne Kaurin über einen ganz normalen Jungen, dessen Leben plötzlich Kopf steht!
-
-----
-
-Shithap:
-
-- >
-  buecher/emil-und-die-prinzessin-aus-dem-nachbarhaus-hardcover

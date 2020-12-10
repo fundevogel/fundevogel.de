@@ -14,14 +14,9 @@ Doch langsam werden die Mitschüler misstrauisch auf Tobis merkwürdige Fortschr
 
 ----
 
-Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsamen Plan spielen?
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/die-magische-zahnspange-hardcover
@@ -29,6 +24,7 @@ Books:
     Wer ist er? Was hat er vor? Und welche
     Rolle soll Tobi in seinem seltsamen Plan
     spielen?
+  title: ""
 
 ----
 
@@ -57,10 +53,3 @@ Seotitle: Die magische Zahnspange
 ----
 
 Seodescription: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsamen Plan spielen?
-
-----
-
-Shithap:
-
-- >
-  buecher/die-magische-zahnspange-hardcover

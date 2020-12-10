@@ -6,18 +6,14 @@ Text: Constanze von Kitzing hat wunderbare Illustrationen geschaffen, die erkenn
 
 ----
 
-Verdict: Ich mag ... das Buch!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover
   text: Ich mag ... das Buch!
+  title: ""
 
 ----
 
@@ -46,10 +42,3 @@ Seotitle: Ich mag ... schaukeln, malen, Fußball, Krach
 ----
 
 Seodescription: Ich mag ... das Buch!
-
-----
-
-Shithap:
-
-- >
-  buecher/ich-mag-schaukeln-malen-fussball-krach-hardcover

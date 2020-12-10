@@ -6,19 +6,15 @@ Text: Zuerst bekommst du die unterschiedlichsten Personen der aufregenden Geschi
 
 ----
 
-Verdict: Ein spannender Comic-Krimi aus der Schule!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/sherlock-co-hardcover
   text: >
     Ein spannender Comic-Krimi aus der
     Schule!
+  title: ""
 
 ----
 
@@ -47,7 +43,3 @@ Seotitle: Sherlock & Co
 ----
 
 Seodescription: Ein spannender Comic-Krimi aus der Schule!
-
-----
-
-Shithap: - buecher/sherlock-co-hardcover

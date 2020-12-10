@@ -10,20 +10,16 @@ Dieses Mal begeben sich die Vier auf ein ganz besonderes Abenteuer: Nach Spiez i
 
 ----
 
-Verdict: Ein spannender Krimi rund um den ersten WM-Titel der deutschen National-Elf!
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
   text: >
     Ein spannender Krimi rund um den ersten
     WM-Titel der deutschen National-Elf!
+  title: ""
 
 ----
 
@@ -52,10 +48,3 @@ Seotitle: Die Zeitdetektive - Das Wunder von Bern
 ----
 
 Seodescription: Ein spannender Krimi rund um den ersten WM-Titel der deutschen National-Elf!
-
-----
-
-Shithap:
-
-- >
-  buecher/die-zeitdetektive-das-wunder-von-bern-hardcover

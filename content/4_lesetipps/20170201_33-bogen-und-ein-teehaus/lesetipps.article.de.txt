@@ -12,14 +12,9 @@ Beides hat hohen Wert für die interkulturelle Bildung. Wir erlesen viel Eigenes
 
 ----
 
-Verdict: Die kleine Mehrnousch erzählt ihre Geschichte der Flucht aus dem vom Chomeini-Regime beherrschten Iran über die Türkei, Ost-Berlin, verschiedene teils menschenunwürdige Flüchtlingsunterkünfte bis nach Heidelberg, wo sie und ihre Familie in Frieden und Freiheit schließlich zur Ruhe kommen.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - >
       buecher/33-bogen-und-ein-teehaus-hardcover
@@ -33,6 +28,7 @@ Books:
     Heidelberg, wo sie und ihre Familie in
     Frieden und Freiheit schließlich zur
     Ruhe kommen.
+  title: ""
 
 ----
 
@@ -65,10 +61,3 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Shithap:
-
-- >
-  buecher/33-bogen-und-ein-teehaus-hardcover

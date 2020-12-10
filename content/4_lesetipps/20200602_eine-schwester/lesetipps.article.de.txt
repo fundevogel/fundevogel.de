@@ -10,14 +10,9 @@ Bereits das Cover des Bandes kündigt sowohl das zentrale Thema als auch den au�
 
 ----
 
-Verdict: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
-
-----
-
 Books:
 
 - 
-  title: ""
   book:
     - buecher/eine-schwester-hardcover
   text: >
@@ -29,6 +24,7 @@ Books:
     mitgebracht. Sie führt Antoine in eine
     ihm bisher verschlossene Gefühlswelt
     ein.
+  title: ""
 
 ----
 
@@ -61,7 +57,3 @@ Seotitle: Eine Schwester
 ----
 
 Seodescription: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
-
-----
-
-Shithap: - buecher/eine-schwester-hardcover
