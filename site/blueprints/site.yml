@@ -134,6 +134,12 @@ tabs:
               en: Description
             type: markdown
 
+      coronaText:
+        label: Corona-Text
+        type: markdown
+        when:
+          coronaMode: true
+
     sidebar:
       sidebar_files: false
       sidebar_pages:
@@ -156,3 +162,6 @@ tabs:
             query: site.images
             image:
               ratio: 3/4
+          coronaMode:
+            extends: fields/toggle
+            label: Corona-Mode

@@ -35,12 +35,27 @@ Awards:
 
 ----
 
-Logo:
-
-- lesepeter.jpg
-
-----
-
 Fallback:
 
 - fallback.jpg
+
+----
+
+Coronamode: true
+
+----
+
+Coronatext:
+## Wir halten zusammen!
+Aufgrund der anhaltenden Corona-Krise müssen erneut Geschäfte geschlossen bleiben und wir alle sind dazu aufgefordert, Kontakte auf ein Minimum zu beschränken. Um trotzdem einen **lückenlosen Kundenservice** zu gewährleisten, liefern wir wieder direkt zu Ihnen nach hause, bestellen Sie also bequem per Mail oder telefonisch - alternativ steht unser Online-Shop rund um die Uhr zur Verfügung.
+
+Die Pandemie stellt uns vor große Herausforderungen; auch Verlage, Großhandel und Lieferdienste stehen unter enormem Druck - **wir danken Ihnen für das entgegengebrachte Vertrauen** daher ebenso wie für Ihre Geduld, wenn die Belieferung mit Büchern in der Krise etwas länger dauert.
+
+**Wir wünschen Ihnen Kraft und Ausdauer, um diese schwierigen Zeiten zu meistern.**
+
+Ihr
+Fundevogel-Team
+
+----
+
+Logo: - lesepeter.jpg
