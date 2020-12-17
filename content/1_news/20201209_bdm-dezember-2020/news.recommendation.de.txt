@@ -4,35 +4,35 @@ Title: BdM Dezember 2020
 
 Books:
 
--
+- 
   title: ""
   book:
     - >
       buecher/maus-und-maulwurf-machen-sich-s-gemuetlich
   text: |
     Wenn das Wetter schön ist, machen wir ein Picknick im Wald. Wir schmieren Brote mit Käse und Gurke und nehmen unseren neuen Picknickkorb mit", sagte Maus. "Oh ja, das machen wir!", rief Maulwurf. "Aber was ist, wenn das Wetter morgen nicht schön ist?" "Dann setzen wir uns in unsere gemütlichen Lehnstühle vor dem Kamin und rösten Kastanien und toasten Teekuchen. Und dazu trinken wir heißen Kakao.
-
+    
     Ganz gleich, wie das Wetter ist: Maus und Maulwurf wissen, wie man den Herbst genießt!
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - buecher/wo-kommt-unser-essen-her
   text: ""
--
+- 
   title: ""
   book:
     - buecher/der-wind-in-den-weiden
   text: |
     Auf der Flucht vor dem Frühjahrsputz lernt der Maulwurf den Frühling, die Welt und die Freundschaft kennen.
-
-    Bereits seit vielen Jahrzehnten begeistert "**Der Wind in den Weiden**" mit seinem feinen englischen Humor sowohl Vorleser als auch Zuhörer und machte seinen Autor weltberühmt.
+    
+    Bereits seit vielen Jahrzehnten begeistert "**Der Wind in den Weiden**" mit seinem feinen englischen Humor sowohl Vorleser als auch Zuhörer. Die wunderschönen Illustrationen von E. H. Shepard lassen die Geschichten lebendig werden.
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - buecher/briefe-vom-weihnachtsmann
@@ -40,7 +40,7 @@ Books:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - buecher/wolkenschloss
