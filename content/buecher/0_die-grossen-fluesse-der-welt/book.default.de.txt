@@ -1,0 +1,136 @@
+Title: Die großen Flüsse der Welt
+
+----
+
+Isbn: 978-3-8369-6041-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Volker Mehnert
+
+----
+
+Illustrator: Martin Haake
+
+----
+
+Translator: 
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 25,00
+
+----
+
+Topics: Fluss / Strom (Gewässer)
+
+----
+
+Description: Welcher Fluss ist der längste der Welt? Der Nil oder der Amazonas? Durch welche Länder fließt die Donau? Wie hat sich der Colorado seinen Weg durch die Felsen des Grand Canyons gebahnt? Und was macht den Nil zur Lebensader Ägyptens? Ob politische oder kulturelle Grenze, Handelsweg oder religiöses Symbol - Flüsse hatten schon immer eine besondere Bedeutung für uns Menschen. Dieses Wimmelsachbuch stellt 18 legendäre Flüsse aus allen fünf Kontinenten vor und macht uns mit dem vielfältigen Leben und den berühmten Sehenswürdigkeiten bekannt, die es im und am Fluss zu entdecken gibt.Mit großer Ausklappseite: der Nil zur Zeit der Pharaonen und heute.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-grossen-fluesse-der-welt_volker-mehnert.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

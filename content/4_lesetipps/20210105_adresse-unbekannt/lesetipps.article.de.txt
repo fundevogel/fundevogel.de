@@ -1,0 +1,46 @@
+Title: Adresse unbekannt
+
+----
+
+Text:
+
+Felix findet seine Mutter toll, obwohl es mitunter drunter und drüber geht.
+
+Kaum zu glauben, aber Mutter und Sohn wohnen lange Zeit in einem Kleinbus an ganz verschiedenen Straßen und verbergen diesen Zustand vor all ihren Freunden. In der Schule weiß keiner, wo Felix im Augenblick wohnt.
+
+Als die Situation sich jedoch zuspitzt, entscheidet sich Felix mit Hilfe seiner Freunde selber etwas zu unternehmen. Und die Freunde halten auch wirklich zu ihm.
+
+Nun beginnt eine spannende Zeit für Felix.
+
+----
+
+Entries:
+
+- 
+  book:
+    - buecher/adresse-unbekannt
+  text: ""
+
+----
+
+Conclusion: 
+
+----
+
+Date: 2021-01-05
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

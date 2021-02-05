@@ -1,0 +1,21 @@
+Titleattribute: "Die großen Flüsse der Welt" von Volker Mehnert
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Die großen Flüsse der Welt" von Volker Mehnert
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

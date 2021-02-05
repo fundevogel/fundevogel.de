@@ -1,0 +1,135 @@
+Title: Adresse unbekannt
+
+----
+
+Isbn: 978-3-8251-5226-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Susin Nielsen
+
+----
+
+Illustrator: Leslie Mechanic
+
+----
+
+Translator: Anja Herre
+
+----
+
+Publisher: Urachhaus
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 284
+
+----
+
+Price: 17,00
+
+----
+
+Topics: Obdachlosigkeit
+
+----
+
+Description: Felix findet seine Mutter toll, auch wenn sie oft chaotisch ist. Als sie ihreMiete nicht mehr bezahlen können, wird ein alter VW-Bus ihr neues Zuhause.Doch damit fangen die Probleme erst an, und ein abenteuerlichesVersteckspiel beginnt. Aber Felix hat einen Plan, wie er Geld beschaffenund alles wieder in Ordnung bringen kann ...Am meisten plagt es Felix, dass er seinen besten Freund Dylan immer wieder anlügen muss, um seineSituation zu vertuschen. Doch als irgendwann die Wahrheit ans Licht kommt, erfährt Felix, dass er sich aufseine Freunde verlassen kann. Spannend und voller Situationskomik erzählt Susin Nielsen von der brüchigenSicherheit in unserer Gesellschaft und von Menschen, die das Herz auf dem rechten Fleck haben.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003041056/63715/10002/-3/Buecher_Kinder--und-Jugend/Susin-Nielsen/Adresse-unbekannt
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- adresse-unbekannt_susin-nielsen.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
