@@ -1,0 +1,47 @@
+Title: Die großen Flüsse der Welt
+
+----
+
+Text:
+
+Das spannende Sachbuch „Die grossen Flüsse der Welt“ von Volker Mehnert und Martin Haake ist eine „Fluss-Kreuzfahrt“ der ganz besonderen Art und stellt uns 18 legendäre Flüsse aus allen fünf Kontinenten der Erde vor:
+
+Die Reise beginnt am Rhein mitten in Europa und führt uns über Donau, Themse, Wolga, Lena, Ganges, Jangtsekiang, Mekong, Kongo, Mississippi, Colorado, Rio Grande, Orinoco, Amazonas und Paraná bis zum Murray in Australien.
+
+----
+
+Entries:
+
+- 
+  book:
+    - buecher/die-grossen-fluesse-der-welt
+  text: >
+    Tolle Illustrationen und informative
+    Texte lassen uns über das bunte,
+    vielfältige Leben und berühmte
+    Sehenswürdigkeiten staunen, die es im
+    und am Fluss zu entdecken gibt!
+
+----
+
+Conclusion: 
+
+----
+
+Date: 2021-02-05
+
+----
+
+Conclusion-wanted: false
+
+----
+
+Isaward: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

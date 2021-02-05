@@ -1,0 +1,58 @@
+Title: Rosalie
+
+----
+
+Text:
+
+Winter 1916 in Frankreich: Während ihr Vater an der Front kämpft, verfolgt die fünfjährige Rosalie eine geheime Mission. Diese erschließt sich den Lesenden zunächst nicht, hängt aber unmittelbar mit den Briefen zusammen, die der Vater regelmäßig nach Hause sendet. Sensibel und tiefgründig zeigt das Kinderbuch „Rosalie - Als mein Vater im Krieg war“ den Ersten Weltkrieg und dessen Folgen aus der Perspektive des Mädchens.
+
+Jeden Morgen, bevor die Mutter zur Arbeit geht, bringt sie Rosalie in die Schule. Nicht dass Rosalie ein Schulkind wäre, nein, dafür ist sie noch zu klein. Der Lehrer hat der Mutter sein Wort darauf gegeben, auf Rosalie aufzupassen, während sie tagsüber in der Fabrik ist. So sitzt das Kind still und scheinbar unbeteiligt ganz hinten unter den Garderobenhaken im Klassenraum der Großen. Doch der Schein trügt. Rosalie ist kein fünfjähriges Mädchen, das ist lediglich eine Tarnung.
+
+### Bittere Wahrheit
+In Wirklichkeit ist sie eine Soldatin, Hauptmann Rosalie. Ihre Mission? Streng geheim! Aber es hat etwas mit den Briefen zu tun, die der Vater regelmäßig von der Front schickt. Rosalie spürt, dass mit den schönen Erzählungen darin etwas nicht stimmt. Einen Monat nachdem ein weiterer, offenbar bedeutsamer Brief ankam, ist es endlich soweit. Rosalie ist bereit, ihre Mission zu erfüllen und nun erfahren auch wir Leserinnen und Leser, was es mit Rosalies geheimen Plan auf sich hat.
+
+Das Mädchen war weniger unbeteiligt als bisher angenommen, sie hat die Zeit in der Schule genutzt und Lesen gelernt. Heimlich liest sie die Briefe ihres Vaters und erfährt die bittere Wahrheit. Statt von Forellen, die in Bächen springen, schreibt er von den grausamen Kämpfen an der Front. Der letzte Brief ist vom Kriegsministerium, darin die Todesnachricht. „Gefallen auf dem Feld der Ehre.“ Die Worte hallen lange nach. Sie verkünden die Wahrheit. Die Wahrheit, mit der Rosalies Mutter sich eingeigelt hatte und die endlich nicht mehr zwischen den Beiden steht.
+
+----
+
+Entries:
+
+- 
+  book:
+    - buecher/rosalie
+  text: 'Sensibel und tiefgründig schildert "Rosalie - Als mein Vater im Krieg war" den Ersten Weltkrieg und dessen Folgen aus der Perspektive einer Fünfjährigen.'
+
+----
+
+Conclusion:
+
+Sensibel und berührend richtet sich der Blick mit diesem Kinderbuch auf das Leben jenseits der Front während des Ersten Weltkrieges, alles aus der Perspektive eines kleinen Kindes. Worte und Bilder ermöglichen Einblicke in eine vergangene Zeit, die von Entbehrungen und familiären Schicksalsschlägen geprägt war. Das Kinderbuch zeigt, was der Krieg für die Soldaten und die Familien daheim bedeutete, es wirft Schlaglichter auf die damaligen Lebensumstände von Kindern auf dem Lande.
+
+### Buch gemeinsam mit Kindern lesen
+Die Illustrationen der kanadischen Künstlerin Isabelle Arsenault sind hervorragend auf den Text abgestimmt. Die Grau- und Blautöne verdeutlichen die Kälte, nicht allein auf den Winter bezogen. Vereinzelte orange-rote Akzente spiegeln Beziehung und wärmende Nähe, lassen hoffen. Mal füllen die Aquarell- und Tuschezeichnungen komplette Seiten und tragen allein die Handlung, mal ergänzen sie den Text und fokussieren auf wesentliche Momente.
+
+Trotz einer Altersempfehlung ab 9 Jahren sollte dieses Buch aufgrund der Thematik mit Kindern gemeinsam gelesen werden. Wenn Kinder sich für Krieg interessieren und danach fragen, eignet es sich als Gesprächsanlass.
+
+----
+
+Date: 2021-01-05
+
+----
+
+Conclusion-wanted: true
+
+----
+
+Isaward: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Books: - buecher/rosalie

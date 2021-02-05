@@ -1,0 +1,135 @@
+Title: Sankt Irgendwas
+
+----
+
+Isbn: 978-3-551-58430-4
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Tamara Bach
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 13,00
+
+----
+
+Topics: Klassenfahrt
+
+----
+
+Description: Eine Klassenreise ins Ungewisse
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002939006/63715/10002/-3/Buecher_Kinder--und-Jugend/Tamara-Bach/Sankt-Irgendwas
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- sankt-irgendwas_tamara-bach.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Februar 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-februar-jugendbuch-sankt-irgendwas
+
+----
+
+Participant: 

@@ -1,0 +1,135 @@
+Title: Rosalie
+
+----
+
+Isbn: 978-3-8369-6040-3
+
+----
+
+Subtitle: Als mein Vater im Krieg war
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Timothée de Fombelle
+
+----
+
+Illustrator: Isabelle Arsenault
+
+----
+
+Translator: Tobias Scheffel; Sabine Grebing
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Erster Weltkrieg
+
+----
+
+Description: Winter 1916, Frankreich. Rosalie ist fünfeinhalb Jahre. Solange sie sich erinnern kann, ist Krieg: Ihr Vater ist an der Front und ihre Mutter arbeitet in der Fabrik. Ab und zu kommen Briefe des Vaters, in denen er die Zeit nach dem Krieg herbeiträumt, und die ihre Mutter Rosalie vorliest. Aber irgendetwas stimmt nicht mit diesen Briefen, das spürt Rosalie ganz genau. Und sie will herausfinden, was! Also entwickelt sie einen ungeheuren Plan: sich selbst das Lesen beizubringen! Aber niemand darf davon wissen ...Ein kleines mutiges Mädchen auf der Suche nach einer Wahrheit, die viel zu groß für sie scheint. Ein literarisches Kleinod, ausdrucksstark und feinfühlig bebildert.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003036733/63715/10002/-3/Buecher_Kinder--und-Jugend/Timothe-de-Fombelle/Rosalie
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- rosalie_timothee-de-fombelle.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Januar 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-januar-rosalie-als-mein-vater-im-krieg-war
+
+----
+
+Participant: 
