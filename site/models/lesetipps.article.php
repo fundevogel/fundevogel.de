@@ -45,23 +45,25 @@ class LesetippsArticlePage extends Page {
 
 
     public static function create(array $props) {
-        $isbn = new Isbn($props['content']['title']);
+        $isbn = $props['content']['title'];
 
         try {
+            $isbn = new Isbn($props['content']['title']);
+
             # Check if valid ISBN was provided
             $isbn->validate();
-            $isbn = $isbn->format("ISBN-13");
+            $isbn = $isbn->format('ISBN-13');
 
             # Fetch information from API
             $data = loadBook($isbn);
 
             # Get shop link
-            $data['shop'] = getShopLink($this->isbn()->value());
+            $data['shop'] = getShopLink($isbn);
         } catch(\Exception $e) {
             return parent::create($props);
         }
 
-        # With content creators, you never know ..
+        # Determine template
         $template = 'book.default';
 
         if ($data['type'] == 'Hörbuch') {

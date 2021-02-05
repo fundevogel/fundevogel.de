@@ -1,5 +1,7 @@
 <?php
 
+use Biblys\Isbn\Isbn;
+
 class BookPage extends Page {
     public function isBook(string $classes = '') {
         return $this->intendedTemplate() == 'book.default';
@@ -60,13 +62,22 @@ class BookPage extends Page {
         $isbn = $props['content']['title'];
 
         try {
+            $isbn = new Isbn($props['content']['title']);
+
+            # Check if valid ISBN was provided
+            $isbn->validate();
+            $isbn = $isbn->format('ISBN-13');
+
             # Fetch information from API
             $data = loadBook($isbn);
+
+            # Get shop link
+            $data['shop'] = getShopLink($isbn);
         } catch(\Exception $e) {
             return parent::create($props);
         }
 
-        # With content creators, you never know ..
+        # Determine template
         $template = 'book.default';
 
         if ($data['type'] == 'Hörbuch') {
