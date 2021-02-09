@@ -1,0 +1,136 @@
+Title: Geschichten von der Maus für die Katz
+
+----
+
+Isbn: 978-3-451-71235-7
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ursel Scheffler
+
+----
+
+Illustrator: Barbara Moßmann
+
+----
+
+Translator: 
+
+----
+
+Publisher: kizz im Herder
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2014
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Katzen, Maus / Mäuse
+
+----
+
+Description: Wie dumm, dass die freche Maus ausgerechnet der Katze in die Arme laufen muss. Doch zu ihrem Glück erweist sich die Maus als wunderbare Geschichtenerzählerin. Und wie Sheherazade in 1001 Nacht erzählt sie um ihr Leben. Die Katze ist so gebannt von den Geschichten, dass sie ganz vergisst, die Maus zu fressen.Die "Geschichten von der Maus für die Katz" gehören zu den schönsten Vorleseklassikern von Ursel Scheffler.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460845320280/63715/10002/-3/Buecher_Kinder--und-Jugend/Ursel-Scheffler/Geschichten-von-der-Maus-fuer-die-Katz
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  geschichten-von-der-maus-fuer-die-katz_ursel-scheffler.jpg
+
+----
+
+Categories: Vorlesebuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

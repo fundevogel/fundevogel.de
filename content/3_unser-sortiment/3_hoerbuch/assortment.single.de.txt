@@ -21,92 +21,6 @@ Favorites:
 - 
   title: ""
   book:
-    - buecher/der-raeuber-hotzenplotz-hoerbuch
-  text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
-  hasquote: 'false'
-  person: ""
-  quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-7456-0164-0
-  book_cover:
-    - >
-      der-raeuber-hotzenplotz_otfried-preussler.jpg
-  book_title: Der Räuber Hotzenplotz
-  book_subtitle: ""
-  author: Otfried Preußler
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Silberfisch
-  age: ab 5 Jahren
-  price: 13,00
-  binding: CD
-- 
-  title: ""
-  book:
-    - buecher/krabat-hoerbuch
-  text: |
-    Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-    
-    Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
-  hasquote: 'false'
-  person: Janina B.
-  quote: >
-    Otfried Preußlers Stimme lässt die
-    sorbische Sage um den Waisenjungen und
-    Mühlknappen Krabat, die dunklen und
-    hellen Seiten der Magie sowie die Kraft
-    der Liebe lebendig werden. Jedes Mal,
-    wenn ich "Krabat" lese, höre ich
-    Otfried Preußlers rollendes "R" und das
-    Düstere und das Freundliche in seiner
-    Stimme.
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-7456-0167-1
-  book_cover:
-    - krabat_otfried-preussler.jpg
-  book_title: Krabat
-  book_subtitle: ""
-  author: Otfried Preußler
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Silberfisch
-  age: ab 12 Jahren
-  price: 15,00
-  binding: CD
-- 
-  title: ""
-  book:
-    - buecher/die-kaenguruh-chroniken-hoerbuch
-  text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?'
-  hasquote: 'false'
-  person: ""
-  quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-86909-108-2
-  book_cover:
-    - >
-      die-kaenguruh-chroniken_marc-uwe-kling.jpg
-  book_title: Die Känguruh-Chroniken
-  book_subtitle: ""
-  author: Marc-Uwe Kling
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Downtown
-  age: ""
-  price: 14,99
-  binding: CD
-- 
-  title: ""
-  book:
     - >
       buecher/die-abenteuer-des-huckleberry-finn-hoerbuch
   text: >
@@ -149,40 +63,27 @@ Favorites:
 - 
   title: ""
   book:
-    - buecher/der-kleine-ritter-trenk-hoerbuch
-  text: >
-    "Ich geh in die Stadt!", sagt der kleine
-    Bauernjunge Trenk zu seiner Schwester
-    Mia-Mina und macht sich heimlich mit
-    seinem treuen Ferkelchen auf den Weg.
-    Und weil Trenk so schlau und mutig ist,
-    wird er schon bald zum tapferen
-    Ritterlehrling. Er schließt
-    Freundschaft mit einer lustigen
-    Gauklertruppe und dem kleinen
-    Ritterfräulein Thekla, trifft auf wilde
-    Räuber und gütige Fürsten und macht
-    im düsteren Wald die ungewöhnliche
-    Bekanntschaft mit einem ganz besonderen
-    Drachen.
-  hasquote: 'true'
-  person: Frieda T.
-  quote: 'Durch viele verschiedene Stimmen und Dialekte wird dieses Hörbuch zum Genuss - es macht einfach Spaß, sich in die verschiedenen Sprechweisen hineinzuhören! Und jeder Charakter bekommt dadurch noch einmal mehr eine eigene Persönlichkeit.'
+    - buecher/der-raeuber-hotzenplotz-hoerbuch
+  text: 'Der Bösewicht mit den sieben Messern und der Pfefferpistole hält seit Generationen die Welt in Atem! Seine Räubergeschichten werden nun frisch und fulminant für die Ohren alter und neuer Fans inszeniert. Musikalisch fidel komponiert, knurrig und komisch gelesen von einem Ensemble erstklassiger Sprecher. Ein großartiger Hörspiel-Spaß - mit Original-Kaffeemühlensong, Schnupftabakgetöse und echtem Krokodildackelgehechel!'
+  hasquote: 'false'
+  person: ""
+  quote: ""
   isseries: 'true'
   more_options: 'true'
-  isbn: 978-3-8337-1630-0
+  isbn: 978-3-7456-0164-0
   book_cover:
-    - der-kleine-ritter-trenk_kirsten-boie.jpg
-  book_title: Der kleine Ritter Trenk
+    - >
+      der-raeuber-hotzenplotz_otfried-preussler.jpg
+  book_title: Der Räuber Hotzenplotz
   book_subtitle: ""
-  author: Kirsten Boie
+  author: Otfried Preußler
   illustrator: ""
   translator: ""
   participants: ""
   page_count: ""
-  publisher: Jumbo Neue Medien
-  age: ab 6 Jahren
-  price: 15,00
+  publisher: Silberfisch
+  age: ab 5 Jahren
+  price: 13,00
   binding: CD
 - 
   title: Harry Potter
@@ -220,6 +121,119 @@ Favorites:
   publisher: DHV Der HörVerlag
   age: ab 10 Jahren
   price: 29,95
+  binding: CD
+- 
+  title: ""
+  book:
+    - buecher/krabat-hoerbuch
+  text: |
+    Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
+    
+    Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
+  hasquote: 'false'
+  person: Janina B.
+  quote: >
+    Otfried Preußlers Stimme lässt die
+    sorbische Sage um den Waisenjungen und
+    Mühlknappen Krabat, die dunklen und
+    hellen Seiten der Magie sowie die Kraft
+    der Liebe lebendig werden. Jedes Mal,
+    wenn ich "Krabat" lese, höre ich
+    Otfried Preußlers rollendes "R" und das
+    Düstere und das Freundliche in seiner
+    Stimme.
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7456-0167-1
+  book_cover:
+    - krabat_otfried-preussler.jpg
+  book_title: Krabat
+  book_subtitle: ""
+  author: Otfried Preußler
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Silberfisch
+  age: ab 12 Jahren
+  price: 15,00
+  binding: CD
+- 
+  title: ""
+  book:
+    - >
+      buecher/die-kleine-hexe-hat-geburtstag-hoerbuch
+  text: 'Lisbets Katze ist verschwunden - und das auch noch an ihrem Geburtstag! Ohne die Katze mag die kleine Hexe jedoch nicht feiern ..'
+  hasquote: 'true'
+  person: Julia F.
+  quote: >
+    Der Klassiker von Lieve Baeten als
+    Hörspiel ist angenehm und ruhig
+    gesprochen und eignet sich so
+    hervorragend als Einstieg in die Welt
+    der Hörbücher / Hörspiele.
+- 
+  title: ""
+  book:
+    - buecher/die-kaenguruh-chroniken-hoerbuch
+  text: 'Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Endlich bekommen wir Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?'
+  hasquote: 'false'
+  person: ""
+  quote: ""
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-86909-108-2
+  book_cover:
+    - >
+      die-kaenguruh-chroniken_marc-uwe-kling.jpg
+  book_title: Die Känguruh-Chroniken
+  book_subtitle: ""
+  author: Marc-Uwe Kling
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Downtown
+  age: ""
+  price: 14,99
+  binding: CD
+- 
+  title: ""
+  book:
+    - buecher/der-kleine-ritter-trenk-hoerbuch
+  text: >
+    "Ich geh in die Stadt!", sagt der kleine
+    Bauernjunge Trenk zu seiner Schwester
+    Mia-Mina und macht sich heimlich mit
+    seinem treuen Ferkelchen auf den Weg.
+    Und weil Trenk so schlau und mutig ist,
+    wird er schon bald zum tapferen
+    Ritterlehrling. Er schließt
+    Freundschaft mit einer lustigen
+    Gauklertruppe und dem kleinen
+    Ritterfräulein Thekla, trifft auf wilde
+    Räuber und gütige Fürsten und macht
+    im düsteren Wald die ungewöhnliche
+    Bekanntschaft mit einem ganz besonderen
+    Drachen.
+  hasquote: 'true'
+  person: Frieda T.
+  quote: 'Durch viele verschiedene Stimmen und Dialekte wird dieses Hörbuch zum Genuss - es macht einfach Spaß, sich in die verschiedenen Sprechweisen hineinzuhören! Und jeder Charakter bekommt dadurch noch einmal mehr eine eigene Persönlichkeit.'
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-8337-1630-0
+  book_cover:
+    - der-kleine-ritter-trenk_kirsten-boie.jpg
+  book_title: Der kleine Ritter Trenk
+  book_subtitle: ""
+  author: Kirsten Boie
+  illustrator: ""
+  translator: ""
+  participants: ""
+  page_count: ""
+  publisher: Jumbo Neue Medien
+  age: ab 6 Jahren
+  price: 15,00
   binding: CD
 
 ----

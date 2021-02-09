@@ -19,7 +19,7 @@ Entries:
 
 - 
   book:
-    - buecher/rosalie
+    - buecher/rosalie-hardcover
   text: 'Sensibel und tiefgründig schildert "Rosalie - Als mein Vater im Krieg war" den Ersten Weltkrieg und dessen Folgen aus der Perspektive einer Fünfjährigen.'
 
 ----

@@ -1,0 +1,136 @@
+Title: Julian ist eine Meerjungfrau
+
+----
+
+Isbn: 978-3-95728-364-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Jessica Love
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Tatjana Kröll
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 13,00
+
+----
+
+Topics: Akzeptanz, Anderssein, Diversität, Individualität, Toleranz
+
+----
+
+Description: Julian liebt Meerjungfrauen - er wäre am liebsten selbst eine. Als er auf der Heimfahrt in der U-Bahn drei als Meerjungfrauen verkleidete Frauen mit farbenfroh aufgetürmten Haaren und schillernden Fischschwänzen sieht, ist der Junge völlig hingerissen. Auch zu Hause kann er an nichts anderes denken und verkleidet sich mit einem gelben Vorhang und Farnblättern selbst als Nixe. Und zum Glück hat er eine Großmutter, die ihn genauso akzeptiert, wie er ist! Dieses farbgewaltige Bilderbuch, das mit wenigen Worten auskommt, verströmt bei Lesen Wärme und wahre Freude. Mit zarter und doch überwältigender Bildsprache erobert Julian die Herzen seiner Leser im Sturm. Ein herausragendes Bilderbuch über Individualität, Diversität und Vielfalt!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002570845/63715/10002/-3/Buecher_Kinder--und-Jugend/Jessica-Love/Julian-ist-eine-Meerjungfrau
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  julian-ist-eine-meerjungfrau_jessica-love.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,136 @@
+Title: Bauer Beck fährt weg
+
+----
+
+Isbn: 978-3-7373-6039-5
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Christian Tielmann; Daniel Napp
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2010
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 14,99
+
+----
+
+Topics: Bauernhof, Fernweh, Urlaub, Tiere
+
+----
+
+Description: "Ein Bauer fährt nicht in den Urlaub," denkt Bauer Beck, bis eines Tages Toni, die Magd, ans Meer fährt. Was die Magd kann, kann er auch. Kurzerhand schnappt er seine Tiere und fährt los. Auf die abenteuerliche Reise gehen: eine Kuh mit Kälbchen, ein Schaf, eine Ziege, fünf Hühner, zwei Streithähne, ein Pferd und ein Hofhund ..
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/2034455/63715/10002/-3/Buecher_Kinder--und-Jugend/Christian-Tielmann/Bauer-Beck-faehrt-weg-Maxi-Ausgabe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  bauer-beck-faehrt-weg_christian-tielmann-daniel-napp.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Bauer Beck
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -90,7 +90,7 @@ class BookPage extends Page {
 
         return parent::create(array_merge($props, [
             'content' => $data,
-            'slug' => Str::slug($data['title']),
+            'slug' => Str::slug($data['title']) . ' ' . Str::slug($data['type']),
             'template' => $template,
         ]));
     }

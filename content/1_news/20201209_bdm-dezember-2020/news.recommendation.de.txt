@@ -4,46 +4,46 @@ Title: BdM Dezember 2020
 
 Books:
 
-- 
+-
   title: ""
   book:
     - >
-      buecher/maus-und-maulwurf-machen-sich-s-gemuetlich
+      buecher/maus-und-maulwurf-machen-sich-s-gemuetlich-hardcover
   text: |
     Wenn das Wetter schön ist, machen wir ein Picknick im Wald. Wir schmieren Brote mit Käse und Gurke und nehmen unseren neuen Picknickkorb mit", sagte Maus. "Oh ja, das machen wir!", rief Maulwurf. "Aber was ist, wenn das Wetter morgen nicht schön ist?" "Dann setzen wir uns in unsere gemütlichen Lehnstühle vor dem Kamin und rösten Kastanien und toasten Teekuchen. Und dazu trinken wir heißen Kakao.
-    
+
     Ganz gleich, wie das Wetter ist: Maus und Maulwurf wissen, wie man den Herbst genießt!
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
-    - buecher/wo-kommt-unser-essen-her
+    - buecher/wo-kommt-unser-essen-her-hardcover
   text: ""
-- 
+-
   title: ""
   book:
-    - buecher/der-wind-in-den-weiden
+    - buecher/der-wind-in-den-weiden-hardcover
   text: |
     Auf der Flucht vor dem Frühjahrsputz lernt der Maulwurf den Frühling, die Welt und die Freundschaft kennen.
-    
+
     Bereits seit vielen Jahrzehnten begeistert "**Der Wind in den Weiden**" mit seinem feinen englischen Humor sowohl Vorleser als auch Zuhörer. Die wunderschönen Illustrationen von E. H. Shepard lassen die Geschichten lebendig werden.
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
-    - buecher/briefe-vom-weihnachtsmann
+    - buecher/briefe-vom-weihnachtsmann-hardcover
   text: 'Ein ideales Weihnachtsgeschenk (nicht nur) für alle Tolkien-Fans ist die Schmuckausgabe von Tolkiens "**Briefe vom Weihnachtsmann**".'
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
-    - buecher/wolkenschloss
+    - buecher/wolkenschloss-hardcover
   text: 'Hoch oben in den Schweizer Bergen liegt das Wolkenschloss, ein altehrwürdiges Grandhotel, das seine Glanzzeiten längst hinter sich hat. Aber wenn zum Jahreswechsel der berühmte Silvesterball stattfindet und Gäste aus aller Welt anreisen, knistert es unter den prächtigen Kronleuchtern und in den weitläufigen Fluren nur so vor Aufregung. Die siebzehnjährige Fanny hat wie der Rest des Personals alle Hände voll zu tun, den Gästen einen luxuriösen Aufenthalt zu bereiten, aber es entgeht ihr nicht, dass viele hier nicht das sind, was sie vorgeben zu sein - und schon bald steckt Fanny mittendrin in einem lebensgefährlichen Abenteuer, bei dem sie nicht nur ihren Job zu verlieren droht, sondern auch ihr Herz.'
 
 ----

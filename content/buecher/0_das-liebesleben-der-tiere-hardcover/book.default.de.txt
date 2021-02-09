@@ -1,0 +1,136 @@
+Title: Das Liebesleben der Tiere
+
+----
+
+Isbn: 978-3-95470-169-8
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Katharina von der Gathen
+
+----
+
+Illustrator: Anke Kuhl
+
+----
+
+Translator: 
+
+----
+
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 144
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Tiere, Fortpflanzung, Liebe, Aufklärung
+
+----
+
+Description: Wie machen das die Tiere? Üppig und verblüffend: Hier kommt man aus dem Staunen nicht heraus!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000222698/63715/10002/-3/Buecher_Kinder--und-Jugend/Katharina-von-der-Gathen/Das-Liebesleben-der-Tiere
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  das-liebesleben-der-tiere_katharina-von-der-gathen.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -23,26 +23,28 @@ tabs:
         columns:
           book:
           hasQuote:
-        hasQuote:
-          extends: fields/toggle
-          label:
-            de: Zitat vorhanden?
-            en: Quote?
-          default: true
-          width: 1/3
+            width: 1/4
+        fields:
+          hasQuote:
+            extends: fields/toggle
+            label:
+              de: Zitat vorhanden?
+              en: Quote?
+            default: true
+            width: 1/3
 
-        person:
-          label: Person
-          type: text
-          width: 2/3
-          when:
-            hasQuote: true
+          person:
+            label: Person
+            type: text
+            width: 2/3
+            when:
+              hasQuote: true
 
-        quote:
-          label: Zitat
-          type: markdown
-          when:
-            hasQuote: true
+          quote:
+            label: Zitat
+            type: markdown
+            when:
+              hasQuote: true
 
     sidebar:
       sidebar_fields: sections/sidebar.cover
@@ -50,6 +52,9 @@ tabs:
       sidebar_files:
         extends: sections/images
         layout: list
+
+  # Books
+  books: tabs/books
 
   # Metadata
   tab_seo: tabs/seo

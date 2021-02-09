@@ -19,14 +19,15 @@ Favorites:
 
 - 
   title: ""
-  person: Helena K.
   book:
     - buecher/momo-hardcover
+  text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
+  hasquote: 'true'
+  person: Helena K.
   quote: >
     Zeitlos gut! Ein Buch, das voller
     Weisheit steckt und Klein und Groß zum
     Nachdenken bringt.
-  text: 'Momo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ..'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-522-20255-8
@@ -48,14 +49,9 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Ips
   book:
     - >
       buecher/grosser-tiger-und-christian-taschenbuch
-  quote: |
-    Als Kind konnte ich mit Karl May überhaupt nichts anfangen. Statt dessen verschlang ich die Bücher von Fritz Mühlenweg. Erst viel später begriff ich, warum das so war. In seinen Büchern stimmt jede km Angabe. Hier spürst Du beim Lesen den Wüstensand zwischen den Zähnen. Hier bist Du wirklich mittendrin im Abenteuer. Christians Vater ist Arzt und praktiziert in China. Eines Tages wollen Christian und sein chinesischer Freund vor den Toren der Stadt einen Drachen steigen lassen. Ein Zug nähert sich und die Passagiere winken den Jungs zu. Vom fahrenden Zug aus lässt sich der Drache doch bestens steigen. Nur - der Zug hält erst hunderte von Kilometern weiter. Und so beginnt das spannende Abenteuer. Der Rückweg der beiden, die uns 752 Seiten lang mitnehmen auf ihre Reise, die uns u.a. mitten durch die Wüste Gobi und die asiatische Lebenswelt führt.
-    
-    Einer der schönsten klassischen Abenteuerromane. Spannender geht‘s kaum. Lesen! Unbedingt! Und zwar am besten ungekürzt
   text: >
     Christian und sein chinesischer Freund
     Großer-Tiger werden mit einer geheimen
@@ -71,6 +67,12 @@ Favorites:
     werden sie es rechtzeitig bis nach
     Urumtschi schaffen, um ihre Botschaft zu
     überbringen?
+  hasquote: 'true'
+  person: Ips
+  quote: |
+    Als Kind konnte ich mit Karl May überhaupt nichts anfangen. Statt dessen verschlang ich die Bücher von Fritz Mühlenweg. Erst viel später begriff ich, warum das so war. In seinen Büchern stimmt jede km Angabe. Hier spürst Du beim Lesen den Wüstensand zwischen den Zähnen. Hier bist Du wirklich mittendrin im Abenteuer. Christians Vater ist Arzt und praktiziert in China. Eines Tages wollen Christian und sein chinesischer Freund vor den Toren der Stadt einen Drachen steigen lassen. Ein Zug nähert sich und die Passagiere winken den Jungs zu. Vom fahrenden Zug aus lässt sich der Drache doch bestens steigen. Nur - der Zug hält erst hunderte von Kilometern weiter. Und so beginnt das spannende Abenteuer. Der Rückweg der beiden, die uns 752 Seiten lang mitnehmen auf ihre Reise, die uns u.a. mitten durch die Wüste Gobi und die asiatische Lebenswelt führt.
+    
+    Einer der schönsten klassischen Abenteuerromane. Spannender geht‘s kaum. Lesen! Unbedingt! Und zwar am besten ungekürzt
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-423-71770-0
@@ -90,14 +92,9 @@ Favorites:
   binding: kartoniert
 - 
   title: ""
-  person: Helena K.
   book:
     - >
       buecher/die-stadt-der-traeumenden-buecher-hardcover
-  quote: >
-    Intelligentere Phantasieliteratur gibt
-    es nicht. Ein Muss für alle
-    Bücherfans!
   text: >
     Als der Pate des jungen Dichters
     Hildegunst von Mythenmetz stirbt,
@@ -117,6 +114,12 @@ Favorites:
     Schätzen gieren, Buchlinge ihren
     Schabernack treiben und der mysteriöse
     Schattenkönig herrscht ..
+  hasquote: 'true'
+  person: Helena K.
+  quote: >
+    Intelligentere Phantasieliteratur gibt
+    es nicht. Ein Muss für alle
+    Bücherfans!
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-328-60123-4
@@ -138,10 +141,8 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Sandra H.
   book:
     - buecher/herr-der-diebe-hardcover
-  quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
   text: >
     Im winterlichen Venedig treibt eine
     Kinderbande ihr Unwesen. Sie wird von
@@ -155,6 +156,9 @@ Favorites:
     Welches Geheimnis birgt diese Insel? Und
     wer versteckt sich hinter der Maske des
     Anführers?
+  hasquote: 'true'
+  person: Sandra H.
+  quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-7915-0457-5
@@ -173,14 +177,15 @@ Favorites:
   binding: gebunden
 - 
   title: Der Herr der Ringe
-  person: Rüdiger B.
   book:
     - >
       buecher/der-herr-der-ringe-die-gefaehrten-hardcover
-  quote: 'Sagengestalten, Abenteuer, Magie, Zauberer - idealer Lesestoff für gelegentliche Träumer.'
   text: |
     Der Schauplatz des Herrn der Ringe ist Mittelerde, eine alternative Welt, und erzählt wird von der gefahrvollen Quest einiger Gefährten, die in einem dramatischen Kampf gegen das Böse endet. Durch einen merkwürdigen Zufall fällt dem Hobbit Bilbo Beutlin ein Zauberring zu, dessen Kraft, käme er in die falschen Hände, zu einer absoluten Herrschaft des Bösen führen würde. Bilbo übergibt den Ring an seinen Neffen Frodo, der den Ring in der Schicksalskluft zerstören soll.
     Hobbits sind kleine, gemütliche Leute, dabei aber erstaunlich zäh. Sie leben in einem ländlichen Idyll, dem Auenland.
+  hasquote: 'true'
+  person: Rüdiger B.
+  quote: 'Sagengestalten, Abenteuer, Magie, Zauberer - idealer Lesestoff für gelegentliche Träumer.'
   isseries: 'true'
   more_options: 'true'
   isbn: 978-3-608-93981-1
@@ -200,12 +205,13 @@ Favorites:
   binding: kartoniert
 - 
   title: ""
-  person: Lena M.
   book:
     - >
       buecher/die-unglaublichen-abenteuer-des-barnaby-brocket-taschenbuch
-  quote: 'Eine zeitlose und großartig erzählte Geschichte von John Boyne. Der liebevolle Charakter von Barnaby lässt den Leser gründlich darüber nachdenken, was die Konstrukte von "Normal-" und "Anderssein" bedeuten und macht Mut, sich in das Abenteuer des Lebens stürzen zu wollen und dabei die Menschen zu finden, die zu einem passen und einem nahe sind - auch wenn das nicht die sind, bei denen man aufwächst. Eine Geschichte, die einen hoffnungsvoll stimmt.'
   text: 'Die Brockets sind eine absolut normale Familie - bis auf Barnaby. Denn der schwebt! Und so gern er es auch lassen würde, es gelingt ihm nicht. An einem schicksalhaften Tag geschieht das Unfassbare: Barnaby schwebt davon, immer weiter, hoch in den Himmel hinein. So beginnt eine magische Reise durch die Welt, in der Barnaby höchst sonderbare Abenteuer erlebt. Er lernt eine Reihe kurioser und liebenswerter Freunde kennen. Und am Ende begreift er, dass er so normal wie seine Eltern gar nicht sein möchte: Er ist froh, anders zu sein.'
+  hasquote: 'true'
+  person: Lena M.
+  quote: 'Eine zeitlose und großartig erzählte Geschichte von John Boyne. Der liebevolle Charakter von Barnaby lässt den Leser gründlich darüber nachdenken, was die Konstrukte von "Normal-" und "Anderssein" bedeuten und macht Mut, sich in das Abenteuer des Lebens stürzen zu wollen und dabei die Menschen zu finden, die zu einem passen und einem nahe sind - auch wenn das nicht die sind, bei denen man aufwächst. Eine Geschichte, die einen hoffnungsvoll stimmt.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-596-81193-9
@@ -227,10 +233,12 @@ Favorites:
   binding: kartoniert
 - 
   title: ""
-  person: Janina B.
   book:
     - >
       buecher/ueber-die-berge-und-ueber-das-meer-hardcover
+  text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde ..'
+  hasquote: 'true'
+  person: Janina B.
   quote: >
     Die Geschichte von Tarek und Soraya, von
     Unterdrückung und Freiheitskampf, von
@@ -238,7 +246,6 @@ Favorites:
     Heldengeschichte. Wie viele gute
     Heldengeschichten ist sie ein bisschen
     erfunden und ein bisschen wahr.
-  text: 'Jedes Jahr im Frühling kommen die Nomaden auf dem Weg zu ihrem Sommerlager in den afghanischen Bergen in Sorayas Dorf vorbei. Mit ihnen kommt Tarek, der so wunderbare Geschichten zu erzählen weiß. Doch dieses Jahr wartet Soraya vergeblich auf ihn. Als siebte Tochter ist sie einem alten Brauch zufolge als Junge aufgewachsen, konnte sich frei bewegen und zur Schule gehen. Mit vierzehn Jahren hat sie jedoch das Alter erreicht, wo sie schon längst wieder als Mädchen leben sollte, in der Stille des Hauses. Die Taliban drängen unmissverständlich darauf. Auch Tarek haben sie bedroht. Sie erwarten, dass der erfahrene Spurenleser für sie arbeitet. Tarek und Soraya sehen keinen anderen Ausweg: Unabhängig voneinander machen sie sich auf in die Fremde ..'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-8369-5676-5
@@ -258,14 +265,15 @@ Favorites:
   binding: gebunden
 - 
   title: ""
-  person: Rüdiger B.
   book:
     - buecher/die-welle-taschenbuch
+  text: 'Ein junger Lehrer entschließt sich zu einem ungewöhnlichen Experiment. Er möchte seinen Schülern beweisen, dass Anfälligkeit für faschistoides Handeln und Denken nicht etwas ist, das nur andere Menschen betrifft - Faschismus ist hier mitten unter uns und in jedem von uns. Doch die "Bewegung", die er auslöst, droht ihn und sein Vorhaben zu überrollen: Das Experiment gerät außer Kontrolle.'
+  hasquote: 'true'
+  person: Rüdiger B.
   quote: >
     Ein faszinierendes und gleichzeitig
     erschreckendes Buch. Die Menschheit ist
     immer noch anfällig.
-  text: 'Ein junger Lehrer entschließt sich zu einem ungewöhnlichen Experiment. Er möchte seinen Schülern beweisen, dass Anfälligkeit für faschistoides Handeln und Denken nicht etwas ist, das nur andere Menschen betrifft - Faschismus ist hier mitten unter uns und in jedem von uns. Doch die "Bewegung", die er auslöst, droht ihn und sein Vorhaben zu überrollen: Das Experiment gerät außer Kontrolle.'
   isseries: 'false'
   more_options: 'true'
   isbn: 978-3-473-58008-8
@@ -284,6 +292,14 @@ Favorites:
   age: ab 14 Jahren
   price: 8,99
   binding: kartoniert
+- 
+  title: ""
+  book:
+    - buecher/americanah
+  text: 'Chimamanda Adichie erzählt von der Liebe zwischen Ifemelu und Obinze, die im Nigeria der neunziger Jahre ihren Lauf nimmt. Dann trennen sich ihre Wege: Die selbstbewusste Ifemelu studiert in Princeton, Obinze strandet als illegaler Einwanderer in London. Nach Jahren stehen sie plötzlich vor einer Entscheidung, die ihr Leben auf den Kopf stellt ..'
+  hasquote: 'true'
+  person: Julia F.
+  quote: 'Politisch, humorvoll und direkt -  Ein Buch, das einem noch lange im Kopf bleibt.'
 
 ----
 

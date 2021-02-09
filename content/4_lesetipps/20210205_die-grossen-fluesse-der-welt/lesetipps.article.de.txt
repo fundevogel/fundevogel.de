@@ -12,9 +12,9 @@ Die Reise beginnt am Rhein mitten in Europa und führt uns über Donau, Themse, 
 
 Entries:
 
-- 
+-
   book:
-    - buecher/die-grossen-fluesse-der-welt
+    - buecher/die-grossen-fluesse-der-welt-hardcover
   text: >
     Tolle Illustrationen und informative
     Texte lassen uns über das bunte,
@@ -24,7 +24,7 @@ Entries:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -40,8 +40,8 @@ Isaward: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

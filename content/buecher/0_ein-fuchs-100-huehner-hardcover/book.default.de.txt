@@ -1,0 +1,135 @@
+Title: Ein Fuchs - 100 Hühner
+
+----
+
+Isbn: 978-3-95728-384-9
+
+----
+
+Subtitle: Der Bilderbuch-Thriller zum Mitzählen
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Kate Read
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Tatjana Kröll
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 13,00
+
+----
+
+Topics: Zählen, Bilderbuch
+
+----
+
+Description: Ein hungriger Fuchs sucht mit zwei listigen Augen nach fetter Beute. Sollten sich die drei dicken Hühner besser in Acht nehmen? In diesem aufregenden Bilderbuch-Thriller ist Schluss mit Schäfchen-Zählen, denn hier fliegen die Federn. Wird es dem Fuchs gelingen, an sein Futter zu kommen? Ein spannender Bauernhof-Krimi voller Witz und Originalität, bei dem es auf jeder Seite etwas anderes zu zählen gibt und bei dem Kinder ganz nebenbei spielerisch die Zahlen bis 10 lernen!Dieses überraschend einfache Zählbuch mit einer fesselnden Geschichte eignet sich hervorragend zum Vorlesen und erfreut durch sein verblüffendes Ende die ganze Familie.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002985012/63715/10002/-3/Buecher_Kinder--und-Jugend/Kate-Read/Ein-Fuchs---100-Huehner
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- ein-fuchs-100-huehner_kate-read.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: April 2021
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

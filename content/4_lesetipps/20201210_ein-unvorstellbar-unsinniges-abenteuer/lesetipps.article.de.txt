@@ -15,7 +15,7 @@ Entries:
 -
   book:
     - >
-      buecher/ein-unvorstellbar-unsinniges-abenteuer
+      buecher/ein-unvorstellbar-unsinniges-abenteuer-hardcover
   text: >
     Ein neuer wunderbarer, spannender
     Abenteuerroman der britischen Autorin

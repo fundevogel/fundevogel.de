@@ -1,0 +1,136 @@
+Title: Auf nach Yellowstone!
+
+----
+
+Isbn: 978-3-89565-400-8
+
+----
+
+Subtitle: Kreuz & quer durch die Nationalparks unserer Welt
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Aleksandra Mizielinska; Daniel Mizielinski
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Thomas Weiler
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 29,00
+
+----
+
+Topics: Nationalpark, Natur
+
+----
+
+Description: Der Wunsch, die Umwelt zu bewahren, steht am Anfang eines jeden Nationalparks. Ausgehend vom polnischen Bialowieza-Park wird acht von ihnen ein Besuch abgestattet - eine Reise über die Kontinente beginnt.Dabei folgen wir dem Wisent Kuba und dem Eichhornchen Ula zu sieben Parks von Peru über China, Namibia, Gronland, Indonesien, Neuseeland und Wyoming.Eine ungeheure Themenvielfalt zeigt Blattschneiderameisen und Komodowarane, erklart Polarnacht und Permafrost, spricht die Erosion und das Uberleben in der Wüste an.Zusammengehalten wird das Buch durch eine Comicgeschichte, die auch WenigleserInnen bei der Stange halt. So ist dem polnischen Grafikerpaar nach »Alle Welt. Das Landkartenbuch« und »Unter der Erde/Tief im Wasser« wieder ein beeindruckendes Buch im Großformat gelungen, mit dem sie auf ihrer Suche nach der optimalen Darbietungsform von Kindersachbüchern noch ein Stück weiter vorangekommen sind.Und nicht nur das: Zum ersten Mal gibt es ergänzend zu einem ihrer Bücher einen (link: https://youtu.be/r5Z4hoke8MY text: kurzen Animationsfilm). Darin erfahren Kuba und Ula, wie ein natürlicher Waldbrand entstehen kann und was dieser für Tiere und Pflanzen bedeutet.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 15
+
+----
+
+Olamessage: Fehlt kurzfristig am Lager
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002936947/63715/10002/-3/Buecher_Kinder--und-Jugend/Aleksandra-Mizielinska/Auf-nach-Yellowstone
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  auf-nach-yellowstone_aleksandra-mizielinska-daniel-mizielinski.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: März 2021
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

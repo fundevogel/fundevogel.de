@@ -54,32 +54,6 @@ Favorites:
   price: 6,50
   binding: kartoniert
 - 
-  title: 'Petterson & Findus'
-  book:
-    - >
-      buecher/ein-feuerwerk-fuer-den-fuchs-hardcover
-  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
-  hasquote: 'false'
-  person: ""
-  quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-7891-6172-8
-  book_cover:
-    - >
-      ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
-  book_title: Ein Feuerwerk für den Fuchs
-  book_subtitle: Aus d. Schwedischen v. Angelika Kutsch
-  author: Sven Nordqvist
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: "28"
-  publisher: Oetinger
-  age: ab 4 Jahren
-  price: 14,00
-  binding: gebunden
-- 
   title: ""
   book:
     - buecher/die-drei-raeuber-hardcover
@@ -110,6 +84,48 @@ Favorites:
   publisher: Diogenes
   age: ab 3 Jahren
   price: 20,00
+  binding: gebunden
+- 
+  title: ""
+  book:
+    - >
+      buecher/reise-in-den-schlummerdschungel-hardcover
+  text: >
+    Was hält die Dunkelheit bereit? Was
+    gibt es zu entdecken, wenn eigentlich
+    Zeit zum Schlafen ist, die Augen aber
+    einfach nicht zufallen wollen? Für
+    Elisa am liebsten den
+    Schlummerdschungel. Mit ihrer Laterne
+    erkundet sie dieses sonderbare Land auf
+    dem Weg in die Welt der Träume!
+  hasquote: 'true'
+  person: Carola M.
+  quote: >
+    Ein Bilderbuch mit bemerkenswerten
+    Illustrationen über ein mutiges
+    Mädchen, das die Grenze zwischen
+    Wachsein und Nichtmehrwachsein
+    beschreitet, ein Licht in die Dunkelheit
+    trägt – und unterwegs weitaus
+    interessantere Wesen kennenlernt als zu
+    zählende Schäfchen.
+  isseries: 'false'
+  more_options: 'true'
+  isbn: 978-3-7152-0769-8
+  book_cover:
+    - >
+      reise-in-den-schlummerdschungel_juan-munoz-tebar.jpg
+  book_title: Reise in den Schlummerdschungel
+  book_subtitle: ""
+  author: Juan Muñoz-Tébar
+  illustrator: Ramón París
+  translator: Eva Roth
+  participants: ""
+  page_count: "34"
+  publisher: Atlantis, Orell Füssli
+  age: ab 3 Jahren
+  price: 14,95
   binding: gebunden
 - 
   title: Willkommen in Wimmlingen!
@@ -165,45 +181,48 @@ Favorites:
 - 
   title: ""
   book:
-    - >
-      buecher/reise-in-den-schlummerdschungel-hardcover
-  text: >
-    Was hält die Dunkelheit bereit? Was
-    gibt es zu entdecken, wenn eigentlich
-    Zeit zum Schlafen ist, die Augen aber
-    einfach nicht zufallen wollen? Für
-    Elisa am liebsten den
-    Schlummerdschungel. Mit ihrer Laterne
-    erkundet sie dieses sonderbare Land auf
-    dem Weg in die Welt der Träume!
+    - buecher/julian-ist-eine-meerjungfrau
+  text: 'Julian liebt Meerjungfrauen - er wäre am liebsten selbst eine. Als er auf der Heimfahrt in der U-Bahn drei als Meerjungfrauen verkleidete Frauen mit farbenfroh aufgetürmten Haaren und schillernden Fischschwänzen sieht, ist der Junge völlig hingerissen. Auch zu Hause kann er an nichts anderes denken und verkleidet sich mit einem gelben Vorhang und Farnblättern selbst als Nixe. Und zum Glück hat er eine Großmutter, die ihn genauso akzeptiert, wie er ist.'
   hasquote: 'true'
-  person: Carola M.
+  person: Julia F.
   quote: >
-    Ein Bilderbuch mit bemerkenswerten
-    Illustrationen über ein mutiges
-    Mädchen, das die Grenze zwischen
-    Wachsein und Nichtmehrwachsein
-    beschreitet, ein Licht in die Dunkelheit
-    trägt – und unterwegs weitaus
-    interessantere Wesen kennenlernt als zu
-    zählende Schäfchen.
-  isseries: 'false'
+    Die Illustrationen in diesem Buch sind
+    einfach wunderschön. Wenig Worte, aber
+    viel Aussagekraft.
+- 
+  title: 'Petterson & Findus'
+  book:
+    - >
+      buecher/ein-feuerwerk-fuer-den-fuchs-hardcover
+  text: 'Der alte Pettersson, der mit seinem Kater Findus auf einem kleinen Hof draußen mitten in der Natur lebt, kann nicht nur Geburtstagstorten backen, er weiß auch, wie man Füchsen ein für alle Mal den Appetit auf Hühner verdirbt. Was 1984 begann, ist mittlerweile eine der beliebtesten Kinderbuchreihen - und das zurecht!'
+  hasquote: 'false'
+  person: ""
+  quote: ""
+  isseries: 'true'
   more_options: 'true'
-  isbn: 978-3-7152-0769-8
+  isbn: 978-3-7891-6172-8
   book_cover:
     - >
-      reise-in-den-schlummerdschungel_juan-munoz-tebar.jpg
-  book_title: Reise in den Schlummerdschungel
-  book_subtitle: ""
-  author: Juan Muñoz-Tébar
-  illustrator: Ramón París
-  translator: Eva Roth
+      ein-feuerwerk-fuer-den-fuchs_sven-nordqvist.jpg
+  book_title: Ein Feuerwerk für den Fuchs
+  book_subtitle: Aus d. Schwedischen v. Angelika Kutsch
+  author: Sven Nordqvist
+  illustrator: ""
+  translator: ""
   participants: ""
-  page_count: "34"
-  publisher: Atlantis, Orell Füssli
-  age: ab 3 Jahren
-  price: 14,95
+  page_count: "28"
+  publisher: Oetinger
+  age: ab 4 Jahren
+  price: 14,00
   binding: gebunden
+- 
+  title: ""
+  book:
+    - buecher/bauer-beck-faehrt-weg
+  text: ""
+  hasquote: 'true'
+  person: Julia F.
+  quote: '"Urlaub hin, Urlaub her - es geht doch nichts über einen ordentlichen Hof" - ein geniales und witziges Bilderbuch!'
 - 
   title: Pu der Bär trifft Alice im Wunderland
   book:

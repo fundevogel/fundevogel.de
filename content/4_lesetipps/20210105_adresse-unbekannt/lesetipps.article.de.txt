@@ -16,14 +16,14 @@ Nun beginnt eine spannende Zeit für Felix.
 
 Entries:
 
-- 
+-
   book:
-    - buecher/adresse-unbekannt
+    - buecher/adresse-unbekannt-hardcover
   text: ""
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
@@ -39,8 +39,8 @@ Isaward: false
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:

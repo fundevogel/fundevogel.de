@@ -20,6 +20,47 @@ Favorites:
 - 
   title: ""
   book:
+    - >
+      buecher/ein-freund-wie-kein-anderer-hardcover
+  text: >
+    Erdhörnchen Habbi ist mit einem Wolf
+    zusammengeprallt, dem größten Feind
+    der Erdhörnchen! Doch statt sich auf
+    ihn zu stürzen, blinzelt der Wolf ihn
+    nur kraftlos an. Er scheint schwer
+    verletzt zu sein. Wie könnte Habbi ihn
+    da einfach allein lassen? Täglich
+    versorgt er ihn mit Futter und nach und
+    nach freunden die beiden sich an. Bis
+    ihre Freundschaft auf eine harte Probe
+    gestellt wird ..
+  hasquote: 'true'
+  person: Frieda T.
+  quote: >
+    Eine wunderbar lebendig erzählte
+    Geschichte, die Klein und Groß
+    begeistert und mitfiebern lässt. Toll
+    illustriert, mit viel Charme und Witz
+  isseries: 'true'
+  more_options: 'true'
+  isbn: 978-3-522-18457-1
+  book_cover:
+    - >
+      ein-freund-wie-kein-anderer_oliver-scherz.jpg
+  book_title: Ein Freund wie kein anderer
+  book_subtitle: ""
+  author: Oliver Scherz
+  illustrator: Barbara Scholz
+  translator: ""
+  participants: ""
+  page_count: "128"
+  publisher: Thienemann Verlag
+  age: ab 6 Jahren
+  price: 14,00
+  binding: gebunden
+- 
+  title: ""
+  book:
     - buecher/das-kleine-gespenst-hardcover
   text: >
     Jede Nacht pünktlich zur Geisterstunde
@@ -132,47 +173,6 @@ Favorites:
 - 
   title: ""
   book:
-    - >
-      buecher/ein-freund-wie-kein-anderer-hardcover
-  text: >
-    Erdhörnchen Habbi ist mit einem Wolf
-    zusammengeprallt, dem größten Feind
-    der Erdhörnchen! Doch statt sich auf
-    ihn zu stürzen, blinzelt der Wolf ihn
-    nur kraftlos an. Er scheint schwer
-    verletzt zu sein. Wie könnte Habbi ihn
-    da einfach allein lassen? Täglich
-    versorgt er ihn mit Futter und nach und
-    nach freunden die beiden sich an. Bis
-    ihre Freundschaft auf eine harte Probe
-    gestellt wird ..
-  hasquote: 'true'
-  person: Frieda T.
-  quote: >
-    Eine wunderbar lebendig erzählte
-    Geschichte, die Klein und Groß
-    begeistert und mitfiebern lässt. Toll
-    illustriert, mit viel Charme und Witz
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-522-18457-1
-  book_cover:
-    - >
-      ein-freund-wie-kein-anderer_oliver-scherz.jpg
-  book_title: Ein Freund wie kein anderer
-  book_subtitle: ""
-  author: Oliver Scherz
-  illustrator: Barbara Scholz
-  translator: ""
-  participants: ""
-  page_count: "128"
-  publisher: Thienemann Verlag
-  age: ab 6 Jahren
-  price: 14,00
-  binding: gebunden
-- 
-  title: ""
-  book:
     - buecher/immer-dieser-michel-hardcover
   text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
   hasquote: 'true'
@@ -241,6 +241,27 @@ Favorites:
   age: ab 6 Jahren
   price: 14,99
   binding: gebunden
+- 
+  title: ""
+  book:
+    - >
+      buecher/geschichten-von-der-maus-fuer-die-katz-hardcover
+  text: >
+    Wie dumm, dass die freche Maus
+    ausgerechnet der Katze in die Arme
+    laufen muss. Doch zu ihrem Glück
+    erweist sich die Maus als wunderbare
+    Geschichtenerzählerin. Und wie
+    Sheherazade in 1001 Nacht erzählt sie
+    um ihr Leben. Die Katze ist so gebannt
+    von den Geschichten, dass sie ganz
+    vergisst, die Maus zu fressen.
+  hasquote: 'true'
+  person: Julia F.
+  quote: >
+    Schöne, abwechslungsreiche und manchmal
+    auch lustige Geschichten, die sich super
+    als Gute-Nacht-Geschichten eignen.
 
 ----
 

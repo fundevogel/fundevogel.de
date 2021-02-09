@@ -1,0 +1,136 @@
+Title: Ohne Wasser geht nichts!
+
+----
+
+Isbn: 978-3-407-75565-0
+
+----
+
+Subtitle: Alles über den wichtigsten Stoff der Welt
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Christina Steinlein
+
+----
+
+Illustrator: Mieke Scheier
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 7 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 16,95
+
+----
+
+Topics: Wasser, Leben, Kreislauf
+
+----
+
+Description: Wir alle brauchen Wasser
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002534260/63715/10002/-3/Buecher_Kinder--und-Jugend/Christina-Steinlein/Ohne-Wasser-geht-nichts
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  ohne-wasser-geht-nichts_christina-steinlein.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

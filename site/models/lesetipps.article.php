@@ -76,6 +76,7 @@ class LesetippsArticlePage extends Page {
 
         $book = page('buecher')->createChild([
             'content' => $data,
+            'slug' => Str::slug($data['title']) . ' ' . Str::slug($data['type']),
             'template' => $template,
         ]);
 

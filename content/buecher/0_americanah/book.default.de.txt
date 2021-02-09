@@ -1,0 +1,135 @@
+Title: Americanah
+
+----
+
+Isbn: 978-3-596-18598-6
+
+----
+
+Subtitle: 
+
+----
+
+Type: Taschenbuch
+
+----
+
+Author: Chimamanda Ngozi Adichie
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Anette Grube
+
+----
+
+Publisher: FISCHER Taschenbuch
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2017
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 608
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Menschlichkeit, Nigeria, Liebe
+
+----
+
+Description: Eine einschneidende Liebesgeschichte zwischen drei Kontinenten - virtuos und gegenwartsnah erzählt von einer der großen jungen Stimmen der Weltliteratur.Chimamanda Adichie erzählt von der Liebe zwischen Ifemelu und Obinze, die im Nigeria der neunziger Jahre ihren Lauf nimmt. Dann trennen sich ihre Wege: Die selbstbewusste Ifemelu studiert in Princeton, Obinze strandet als illegaler Einwanderer in London. Nach Jahren stehen sie plötzlich vor einer Entscheidung, die ihr Leben auf den Kopf stellt. Adichie gelingt ein eindringlicher, moderner und hochpolitischer  Roman über Identität und Rassismus in unserer globale Welt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846064409/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Chimamanda-Ngozi-Adichie/Americanah
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- americanah_chimamanda-ngozi-adichie.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Fischer Taschenbücher
+
+----
+
+Volume: 18598
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

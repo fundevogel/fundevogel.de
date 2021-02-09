@@ -1,0 +1,144 @@
+Title: Die kleine Hexe hat Geburtstag
+
+----
+
+Isbn: 978-3-8373-0397-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hörbuch
+
+----
+
+Author: Lieve Baeten
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: Oetinger Media
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Duration: 27
+
+----
+
+Releaseyear: 2009
+
+----
+
+Narrator: Katja Brügger; Ursula Illert; Marianne Bernhardt
+
+----
+
+Price: 10,00
+
+----
+
+Topics: Zauberei
+
+----
+
+Description: Herzlichen Glückwunsch, kleine Lisbet!Lisbets Katze ist verschwunden! Und das auch noch an ihrem Geburtstag. Ohne die Katze mag Lisbet nicht feiern. Und deshalb sucht sie sie im ganzen Hexendorf!Der Bilderbuchbestseller als besonders liebevolles Hörspiel mit viel Musik.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/113852/63715/10002/-3/weitere-Kategorien_Hoerbuecher/Lieve-Baeten/Die-kleine-Hexe-hat-Geburtstag-Audio-CD
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-kleine-hexe-hat-geburtstag-audio-cd_lieve-baeten.jpg
+
+----
+
+Categories: Hörbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Die kleine Hexe Lisbet
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
+
+----
+
+Composer: 
