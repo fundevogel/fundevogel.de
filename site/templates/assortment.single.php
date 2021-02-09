@@ -44,14 +44,34 @@
                             <?php if ($image = $book->cover()->toFile()) : ?>
                             <div class="flex-none flex justify-center">
                                 <div class="flex items-center mb-10 lg:mb-0">
-                                    <div class="relative">
+                                    <a class="group relative rounded-lg" href="<?= $book->shop() ?>">
                                         <?php if ($book->isSeries()->bool()) : ?>
-                                        <span class="badge absolute top-4 -left-6">
+                                        <span class="badge bg-red-medium absolute top-4 -left-6 z-10">
                                             <?= t('Serie') ?>
                                         </span>
                                         <?php endif ?>
                                         <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal', false, true) ?>
-                                    </div>
+                                        <?php
+                                            $details = ' &middot; ' . $book->price() . ' €';
+
+                                            if ($book->age()->isNotEmpty()) {
+                                                $details = $book->age() . $details;
+                                            } else {
+                                                if ($book->isAudiobook()) {
+                                                    $details = A::join([$book->duration(), t('Minuten'), $details], ' ');
+                                                } else {
+                                                    $details = A::join([$book->pageCount(), t('Seiten'), $details], ' ');
+                                                }
+                                            }
+
+                                            snippet('download', [
+                                                'file' => $image,
+                                                'details' => $details,
+                                                'caption' => t('Zum Shop'),
+                                                'icon' => 'cart'
+                                            ])
+                                        ?>
+                                    </a>
                                 </div>
                             </div>
                             <?php endif ?>
