@@ -83,7 +83,7 @@ class LesetippsArticlePage extends Page {
         return parent::create(array_merge($props, [
             'content' => [
                 'title' => $data['title'],
-                'books' => Data::encode($book->id(), 'yaml'),
+                'entries' => Data::encode([['book' => $book->id()]], 'yaml'),
             ],
             'slug' => Str::slug($data['title']),
         ]));
