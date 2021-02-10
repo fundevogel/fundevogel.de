@@ -44,7 +44,7 @@
                             <?php if ($image = $book->cover()->toFile()) : ?>
                             <div class="flex-none flex justify-center">
                                 <div class="flex items-center mb-10 lg:mb-0">
-                                    <a class="group relative rounded-lg" href="<?= $book->shop() ?>">
+                                    <a class="group relative rounded-lg" href="<?= $book->shop() ?>" target="_blank">
                                         <?php if ($book->isSeries()->bool()) : ?>
                                         <span class="badge bg-red-medium absolute top-4 -left-6 z-10">
                                             <?= t('Serie') ?>
