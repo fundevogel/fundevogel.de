@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2021
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/2021-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf
