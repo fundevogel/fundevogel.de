@@ -127,8 +127,16 @@ class App {
                 // Infinite scrolling
                 if (template === 'news') {
                     const infiniteScroll = runScroll(page);
+                    const button: HTMLElement = document.querySelector('.js-more');
+
+                    infiniteScroll.on('request', () => {
+                        button.classList.add('cursor-wait');
+                    });
 
                     infiniteScroll.on('append', () => {
+                        button.classList.remove('cursor-wait');
+
+                        // Add lightbox listener to ajax'd images
                         runLightbox(page);
                     });
                 }

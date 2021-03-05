@@ -7,7 +7,7 @@ export const runScroll = (container: HTMLElement) => {
         button: '.js-more',
         path: '.js-target',
         append: '.js-article',
-        scrollThreshold: 750,
+        scrollThreshold: false,
         history: false,
     });
 };
