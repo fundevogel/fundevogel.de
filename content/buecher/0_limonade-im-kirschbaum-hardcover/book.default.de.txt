@@ -74,7 +74,7 @@ Olamessage:
 
 ----
 
-Shop: http://shop.fundevogel.de/webapp/wcs/stores/servlet/Product/3000002551839/63715/10002/-3/Buecher_Kinder--und-Jugend/Gerda-Raidt/Limonade-im-Kirschbaum
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002551839/63715/10002/-3/Buecher_Kinder--und-Jugend/Gerda-Raidt/Limonade-im-Kirschbaum
 
 ----
 
