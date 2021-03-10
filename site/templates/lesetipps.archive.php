@@ -24,6 +24,6 @@
         <?php endforeach ?>
     </div>
 </section>
-<?php snippet('blocks/info', ['data' => $page]) ?>
+<?php snippet('blocks/info', ['block' => $page]) ?>
 
 <?php snippet('footer') ?>
