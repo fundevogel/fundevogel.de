@@ -6,25 +6,11 @@ Text: Seine Mutter hat ihn schon immer vor den Wölfen gewarnt. Schlimmer als Fa
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/ein-freund-wie-kein-anderer-hardcover
-  text: >
-    Eine berührende, aber auch witzige
-    Freundschaftsgeschichte gegen
-    Vorurteile.
-  title: ""
+Verdict: Eine berührende, aber auch witzige Freundschaftsgeschichte gegen Vorurteile.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -32,11 +18,14 @@ Date: 2018-03-26
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/ein-freund-wie-kein-anderer-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

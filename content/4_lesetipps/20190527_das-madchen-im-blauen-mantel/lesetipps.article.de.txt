@@ -12,19 +12,7 @@ Hanneke ist 18 Jahre alt und versorgt jetzt ihre Familie, indem sie heimlich die
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/das-maedchen-im-blauen-mantel-hardcover
-  text: >
-    Hanneke findet bei ihrer Suche heraus,
-    dass es auf manche Fragen mehr als nur
-    eine Antwort gibt. Und dass der Krieg
-    alle Menschen dazu zwingt, ihr
-    Äußerstes zu geben.
-  title: ""
+Verdict: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
 
 ----
 
@@ -32,19 +20,18 @@ Conclusion: Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, 
 
 ----
 
-Blocks: []
-
-----
-
 Date: 2019-05-27
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/das-maedchen-im-blauen-mantel-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

@@ -10,22 +10,11 @@ Und so sieht Toni ein, dass man sich in seinem Leben um manche Dinge selber küm
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
-  text: ""
-  title: ""
+Verdict: 
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -33,11 +22,14 @@ Date: 2018-12-22
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/toni-und-alles-nur-wegen-renato-flash-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

@@ -14,21 +14,7 @@ Das Cover ist in Brauntönen gestaltet, mit scheinbar abgestoßenen Ecken und Ka
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/armstrong-hardcover
-  text: >
-    Erster auf dem Mond! Armstrong heißt
-    er, das wissen wir. Aber wissen wir
-    auch, dass es eine Maus war, die zudem
-    die Grundlagen legte, dass der Mensch
-    gleichen Namens ihr folgen konnte? Hier
-    finden wir den Beweis. Aufregend und
-    (nach "Lindbergh" und "Maulwurfstadt")
-    wieder unglaublich gut gezeichnet.
-  title: ""
+Verdict: Erster auf dem Mond! Armstrong heißt er, das wissen wir. Aber wissen wir auch, dass es eine Maus war, die zudem die Grundlagen legte, dass der Mensch gleichen Namens ihr folgen konnte? Hier finden wir den Beweis. Aufregend und (nach "Lindbergh" und "Maulwurfstadt") wieder unglaublich gut gezeichnet.
 
 ----
 
@@ -50,16 +36,22 @@ Date: 2016-12-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/armstrong-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

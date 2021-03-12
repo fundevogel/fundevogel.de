@@ -6,24 +6,11 @@ Text: Mit Dr. Kroch, einem typischen Wissenschaftler und seinem Assistenten Vale
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/der-fluch-des-wuestenwolfs-hardcover
-  text: >
-    Ein bis zum Ende atemberaubend
-    spannendes Buch!
-  title: ""
+Verdict: Ein bis zum Ende atemberaubend spannendes Buch!
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -31,11 +18,14 @@ Date: 2017-09-27
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/der-fluch-des-wuestenwolfs-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

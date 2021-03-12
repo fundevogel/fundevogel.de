@@ -14,16 +14,11 @@ Nun beginnt eine spannende Zeit für Felix.
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/adresse-unbekannt-hardcover
-  text: ""
+Verdict: 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -31,16 +26,18 @@ Date: 2021-01-05
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/adresse-unbekannt-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

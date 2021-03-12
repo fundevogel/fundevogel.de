@@ -6,26 +6,11 @@ Text: Ein spannender Fall für die drei ???: Die Meisterschale wurde geklaut. Um
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/die-drei-kids-bundesliga-alarm-hardcover
-  text: >
-    So lernst Du Deinen Lieblingsverein
-    vielleicht noch ein bisschen besser
-    kennen und vielleicht erwischst Du auch
-    den dreisten Dieb!
-  title: ""
+Verdict: So lernst Du Deinen Lieblingsverein vielleicht noch ein bisschen besser kennen und vielleicht erwischst Du auch den dreisten Dieb!
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -33,11 +18,14 @@ Date: 2017-01-31
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/die-drei-kids-bundesliga-alarm-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

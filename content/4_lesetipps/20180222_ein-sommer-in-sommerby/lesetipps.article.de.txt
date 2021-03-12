@@ -6,25 +6,11 @@ Text: Noch nie haben die drei Geschwister Martha, Mikkels und Mats einen größe
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/ein-sommer-in-sommerby-hardcover
-  text: >
-    Eine warmherzige und spannende
-    Geschichte für alle jungen Leser, die
-    gerne mal ein paar Abenteuer außerhalb
-    der Stadt erleben möchten.
-  title: ""
+Verdict: Eine warmherzige und spannende Geschichte für alle jungen Leser, die gerne mal ein paar Abenteuer außerhalb der Stadt erleben möchten.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -32,11 +18,13 @@ Date: 2018-02-22
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/ein-sommer-in-sommerby-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

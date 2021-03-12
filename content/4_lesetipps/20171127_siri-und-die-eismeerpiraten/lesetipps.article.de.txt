@@ -12,17 +12,7 @@ Siri plagen Schuldgefühle und so heuert sie heimlich auf dem Schiff ‚Polarste
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/siri-und-die-eismeerpiraten-hardcover
-  text: >
-    Ein Kinderbuch mit einem starken,
-    tapferen Mädchen und mutigen Kindern,
-    die das Herz am rechten Fleck haben.
-  title: ""
+Verdict: Ein Kinderbuch mit einem starken, tapferen Mädchen und mutigen Kindern, die das Herz am rechten Fleck haben.
 
 ----
 
@@ -30,19 +20,18 @@ Conclusion: Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim K
 
 ----
 
-Blocks: []
-
-----
-
 Date: 2017-11-27
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/siri-und-die-eismeerpiraten-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

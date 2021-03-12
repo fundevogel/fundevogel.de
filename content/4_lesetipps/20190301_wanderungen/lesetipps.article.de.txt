@@ -12,25 +12,7 @@ Die längste Reise allerdings unternimmt die Küstenseeschwalbe, sie fliegt von 
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/wanderungen-hardcover
-  text: >
-    Jedes Jahr unternehmen Tiere Wanderungen
-    und legen dabei Tausende von Kilometern
-    zurück. Gründe dafür sind die Suche
-    nach Nahrung oder sichere
-    Fortpflanzungsplätze. Insgesamt haben
-    20 interessante und durch den Autor Mike
-    Unwin sehr gut recherchierte
-    Tierwanderungen den Platz ins Buch
-    gefunden. Diese werden durch
-    beeindruckende großflächig gezeichnete
-    Naturbilder von Jenni Desmond würdigend
-    ergänzt.
-  title: ""
+Verdict: Jedes Jahr unternehmen Tiere Wanderungen und legen dabei Tausende von Kilometern zurück. Gründe dafür sind die Suche nach Nahrung oder sichere Fortpflanzungsplätze. Insgesamt haben 20 interessante und durch den Autor Mike Unwin sehr gut recherchierte Tierwanderungen den Platz ins Buch gefunden. Diese werden durch beeindruckende großflächig gezeichnete Naturbilder von Jenni Desmond würdigend ergänzt.
 
 ----
 
@@ -52,16 +34,22 @@ Date: 2019-03-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/wanderungen-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

@@ -14,22 +14,7 @@ Rahaf und Hassan lassen ihre Verwanden, Freunde und Heimat unfreiwillig zurück.
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/bestimmt-wird-alles-gut-hardcover
-  text: >
-    In der Erzählung über die zwei
-    syrischen Flüchtlingskinder und ihre
-    Familie werden die Hintergründe für
-    deren Flucht, die lange, gefährliche
-    Reise nach Deutschland und das Leben
-    hier als Flüchtling eindrucksvoll
-    dargestellt. Das Buch beruht auf einer
-    wahren Geschichte.
-  title: ""
+Verdict: In der Erzählung über die zwei syrischen Flüchtlingskinder und ihre Familie werden die Hintergründe für deren Flucht, die lange, gefährliche Reise nach Deutschland und das Leben hier als Flüchtling eindrucksvoll dargestellt. Das Buch beruht auf einer wahren Geschichte.
 
 ----
 
@@ -53,16 +38,23 @@ Date: 2016-05-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/bestimmt-wird-alles-gut-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

@@ -31,7 +31,7 @@
     <h2 class="mb-12 text-center"><?= t('Alle Lesetipps') ?></h2>
     <?php endif ?>
     <?php if ($total > 0) : ?>
-    <?php snippet('lesetipps/articles', ['lesetipps' => $lesetipps]) ?>
+    <?php snippet('lesetipps/articles', compact('lesetipps')) ?>
     <?php else : ?>
     <p class="italic text-center"><?= t('Keine Lesetipps') ?></p>
     <?php endif ?>

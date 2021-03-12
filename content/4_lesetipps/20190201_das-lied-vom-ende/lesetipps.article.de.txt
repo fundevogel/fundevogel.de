@@ -6,23 +6,7 @@ Text: Der Roman beginnt an einem unbeschwerten Sommertag und endet Heiligabend. 
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/das-lied-vom-ende-hardcover
-  text: >
-    Aus wechselnder Perspektive einzelner
-    Familienmitglieder werden die
-    Grenzerfahrungen der Familie Schult
-    erzählt, die Folgen des erweiterten
-    Suizids durch den Vater in der
-    Nachbarsfamilie sind. In einer Mischung
-    aus Coming-of-Age-Geschichte und
-    Familiendrama gibt der Roman Einblick in
-    eine komplexe Figurenpsychologie im
-    Moment existenzieller Krisen.
-  title: ""
+Verdict: Aus wechselnder Perspektive einzelner Familienmitglieder werden die Grenzerfahrungen der Familie Schult erzählt, die Folgen des erweiterten Suizids durch den Vater in der Nachbarsfamilie sind. In einer Mischung aus Coming-of-Age-Geschichte und Familiendrama gibt der Roman Einblick in eine komplexe Figurenpsychologie im Moment existenzieller Krisen.
 
 ----
 
@@ -44,16 +28,22 @@ Date: 2019-02-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/das-lied-vom-ende-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

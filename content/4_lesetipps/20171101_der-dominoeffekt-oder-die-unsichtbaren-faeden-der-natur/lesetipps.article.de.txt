@@ -10,23 +10,7 @@ Unglaubliche, aber wahre Geschichten sind Gegenstand des Buches des Ökologen Gi
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/der-dominoeffekt-hardcover
-  text: >
-    Das Eingreifen des Menschen in die Natur
-    hat meist weitreichende Folgen. Durch
-    unkontrolliertes Importieren fremder
-    Lebewesen kann erheblicher Schaden
-    angerichtet werden. Versuche, den
-    angerichteten Schaden rückgängig zu
-    machen, lösen meist Dominoeffekte aus.
-    Von 18 unglaublichen aber wahren
-    Geschichten berichtet der Autor
-    Accinelli in anekdotischer Erzählweise.
-  title: ""
+Verdict: Das Eingreifen des Menschen in die Natur hat meist weitreichende Folgen. Durch unkontrolliertes Importieren fremder Lebewesen kann erheblicher Schaden angerichtet werden. Versuche, den angerichteten Schaden rückgängig zu machen, lösen meist Dominoeffekte aus. Von 18 unglaublichen aber wahren Geschichten berichtet der Autor Accinelli in anekdotischer Erzählweise.
 
 ----
 
@@ -46,16 +30,22 @@ Date: 2017-11-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/der-dominoeffekt-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

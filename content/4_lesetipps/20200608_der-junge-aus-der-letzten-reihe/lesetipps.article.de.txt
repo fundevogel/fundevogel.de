@@ -6,30 +6,11 @@ Text: Als ein neuer Junge in ihre Klasse kommt, verändert sich Alexas Welt und 
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/der-junge-aus-der-letzten-reihe-hardcover
-  text: >
-    Onjali Q. Raúf, die neben ihrem Beruf
-    als Autorin und Journalistin auch als
-    ehrenamtliche Helferin für Flüchtlinge
-    arbeitet, hat eine ganz wunderbare,
-    spannende, witzige und sehr bewegende
-    Geschichte über Freundschaft und
-    Solidarität geschrieben, vor allem aber
-    über den Mut, für Andere einzustehen.
-  title: ""
+Verdict: Onjali Q. Raúf, die neben ihrem Beruf als Autorin und Journalistin auch als ehrenamtliche Helferin für Flüchtlinge arbeitet, hat eine ganz wunderbare, spannende, witzige und sehr bewegende Geschichte über Freundschaft und Solidarität geschrieben, vor allem aber über den Mut, für Andere einzustehen.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -37,11 +18,14 @@ Date: 2020-06-08
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/der-junge-aus-der-letzten-reihe-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

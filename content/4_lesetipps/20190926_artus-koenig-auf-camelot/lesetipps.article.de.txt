@@ -10,31 +10,11 @@ Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excal
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/artus-koenig-auf-camelot-hardcover
-  text: >
-    Eine tragische Legende, die spannend
-    nacherzählt und von wundervollen
-    Illustrationen begleitet wird. Und als
-    kleiner Wissenszusatz für die besonders
-    Neugierigen unter euch, findet ihr
-    kleine Infoboxen mit vielen spannenden
-    Kommentaren rund um die Welt von
-    keltischen Mythen, König Artus und
-    seinen Rittern.
-  title: ""
+Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -42,11 +22,14 @@ Date: 2019-09-26
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/artus-koenig-auf-camelot-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

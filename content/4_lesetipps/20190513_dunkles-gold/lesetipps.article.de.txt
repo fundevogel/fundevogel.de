@@ -12,23 +12,7 @@ Es gibt auch ein anderes Erfurt. "1349 – in Erfurt war es dunkel – nicht nur
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/dunkles-gold-hardcover
-  text: >
-    Das Buch ist spannend geschrieben, du
-    erfährst viel über das jüdische Leben
-    in Deutschland und die Pogrome – die
-    lange vor dem Nationalsozialismus
-    begonnen haben und sich bis heute tief
-    ins Gedächtnis gegraben haben! Aber es
-    ist kein Geschichtsbuch, denn Rachel und
-    Laura sind auch ganz normale Mädchen
-    (wie du und ich), die ihren Platz im
-    Leben suchen.
-  title: ""
+Verdict: Das Buch ist spannend geschrieben, du erfährst viel über das jüdische Leben in Deutschland und die Pogrome – die lange vor dem Nationalsozialismus begonnen haben und sich bis heute tief ins Gedächtnis gegraben haben! Aber es ist kein Geschichtsbuch, denn Rachel und Laura sind auch ganz normale Mädchen (wie du und ich), die ihren Platz im Leben suchen.
 
 ----
 
@@ -36,19 +20,17 @@ Conclusion: Abwechselnd erzählen Laura und Rachel ihr Leben. So unterschiedlich
 
 ----
 
-Blocks: []
-
-----
-
 Date: 2019-05-13
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/dunkles-gold-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

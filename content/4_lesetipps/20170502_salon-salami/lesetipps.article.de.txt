@@ -10,23 +10,11 @@ Vor kurzem habe ich eine Bank überfallen, denn ich will ins Gefängnis. Das hat
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/salon-salami-hardcover
-  text: >
-    Eine spannende, lustige und doch sehr
-    kluge Geschichte.
-  title: ""
+Verdict: Eine spannende, lustige und doch sehr kluge Geschichte.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -34,11 +22,13 @@ Date: 2017-05-02
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/salon-salami-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

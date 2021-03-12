@@ -14,30 +14,11 @@ Sein verhältnismäßig ruhiges Leben wird allerdings völlig auf den Kopf geste
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/malamander-die-geheimnisse-von-eerie-on-sea-hardcover
-  text: >
-    Ein rasantes, spannendes Leseabenteuer
-    mit schaurig-düsterer Atmosphäre und
-    voll eigenwilliger Gestalten von dem
-    britischen Autor Thomas Taylor, der als
-    Illustrator unter anderem das Cover zur
-    englischen Ausgabe von „Harry Potter
-    und der Stein der Weisen“ gestaltet
-    hat.
-  title: ""
+Verdict: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphäre und voll eigenwilliger Gestalten von dem britischen Autor Thomas Taylor, der als Illustrator unter anderem das Cover zur englischen Ausgabe von „Harry Potter und der Stein der Weisen“ gestaltet hat.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -45,19 +26,22 @@ Date: 2020-11-03
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/malamander-die-geheimnisse-von-eerie-on-sea-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 

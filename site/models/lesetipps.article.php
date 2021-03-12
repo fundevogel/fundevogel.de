@@ -4,43 +4,26 @@ use Biblys\Isbn\Isbn;
 
 class LesetippsArticlePage extends Page {
     public function getCover() {
-        $entries = $this->entries()->toStructure();
-
-        foreach ($entries as $entry) {
-            return $entry->book()->toPages()->first()->getCover();
-        }
+        return $this->book()->toPage()->getCover();
     }
 
 
     public function getBookCover(string $classes = '') {
-        $entries = $this->entries()->toStructure();
-
-        foreach ($entries as $entry) {
-            return $entry->book()->toPages()->first()->getBookCover($classes);
-        }
+        return $this->book()->toPage()->getBookCover($classes);
     }
 
 
-    public function hasAward() {
-        $entries = $this->entries()->toStructure();
-
-        # Award-winning books are reviewed individually
-        if (count($entries) > 1) {
+    public function hasAward(): bool {
+        if ($this->book()->isEmpty()) {
             return false;
         }
 
-        foreach ($entries as $entry) {
-            return $entry->book()->toPages()->first()->hasAward()->bool();
-        }
+        return $this->book()->toPage()->hasAward()->bool();
     }
 
 
     public function getAward() {
-        $entries = $this->entries()->toStructure();
-
-        foreach ($entries as $entry) {
-            return $entry->book()->toPages()->first()->getAward();
-        }
+        return $this->book()->toPage()->getAward();
     }
 
 
@@ -83,7 +66,7 @@ class LesetippsArticlePage extends Page {
         return parent::create(array_merge($props, [
             'content' => [
                 'title' => $data['title'],
-                'entries' => Data::encode([['book' => $book->id()]], 'yaml'),
+                'book' => Data::encode($book->id(), 'yaml'),
             ],
             'slug' => Str::slug($data['title']),
         ]));

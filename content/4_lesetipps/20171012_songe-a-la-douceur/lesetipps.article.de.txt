@@ -10,26 +10,11 @@ Zehn Jahre später trifft Eugène Tatiana in der U-Bahn. Sie ist gereift, sie is
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/songe-a-la-douceur-hardcover
-  text: >
-    In Versen geschrieben, verwirrend,
-    fesselt diese zeitlose Liebesgeschichte
-    und trägt uns weit, sehr weit. Lassen
-    wir uns von diesem Fluss mitreißen, um
-    auch an Süße zu denken.
-  title: ""
+Verdict: In Versen geschrieben, verwirrend, fesselt diese zeitlose Liebesgeschichte und trägt uns weit, sehr weit. Lassen wir uns von diesem Fluss mitreißen, um auch an Süße zu denken.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -37,11 +22,13 @@ Date: 2017-10-12
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/songe-a-la-douceur-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

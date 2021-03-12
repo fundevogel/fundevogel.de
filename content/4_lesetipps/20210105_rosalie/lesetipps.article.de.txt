@@ -15,12 +15,7 @@ Das Mädchen war weniger unbeteiligt als bisher angenommen, sie hat die Zeit in 
 
 ----
 
-Entries:
-
-- 
-  book:
-    - buecher/rosalie-hardcover
-  text: 'Sensibel und tiefgründig schildert "Rosalie - Als mein Vater im Krieg war" den Ersten Weltkrieg und dessen Folgen aus der Perspektive einer Fünfjährigen.'
+Verdict: Sensibel und tiefgründig schildert "Rosalie - Als mein Vater im Krieg war" den Ersten Weltkrieg und dessen Folgen aus der Perspektive einer Fünfjährigen.
 
 ----
 
@@ -35,15 +30,21 @@ Trotz einer Altersempfehlung ab 9 Jahren sollte dieses Buch aufgrund der Themati
 
 ----
 
+Blocks: []
+
+----
+
 Date: 2021-01-05
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/rosalie-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
@@ -56,3 +57,7 @@ Seodescription:
 ----
 
 Books: - buecher/rosalie
+
+----
+
+Isadvanced: 

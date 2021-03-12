@@ -10,24 +10,11 @@ Das Sachbuch im wunderschönen Großformat zeigt uns die faszinierende Welt der 
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/ozeane-hardcover
-  text: >
-    Für Kinder ab 8 Jahren und für all
-    diejenigen, die in die wunderbare Welt
-    des Ozeans abtauchen wollen.
-  title: ""
+Verdict: Für Kinder ab acht Jahren und für all diejenigen, die in die wunderbare Welt des Ozeans abtauchen wollen.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -35,11 +22,13 @@ Date: 2020-10-02
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/ozeane-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

@@ -10,16 +10,7 @@ Dieses Mal begeben sich die Vier auf ein ganz besonderes Abenteuer: Nach Spiez i
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
-  text: >
-    Ein spannender Krimi rund um den ersten
-    WM-Titel der deutschen National-Elf!
-  title: ""
+Verdict: Ein spannender Krimi rund um den ersten WM-Titel der deutschen National-Elf!
 
 ----
 
@@ -27,19 +18,18 @@ Conclusion: Noch dazu gehen merkwürdige Dinge vor sich: In die Werkstatt von Ad
 
 ----
 
-Blocks: []
-
-----
-
 Date: 2018-09-07
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/die-zeitdetektive-das-wunder-von-bern-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

@@ -117,19 +117,19 @@ Volume:
 
 ----
 
-Hasaward: false
+Hasaward: true
 
 ----
 
-Award: 
+Award: LesePeter
 
 ----
 
-Awardedition: 
+Awardedition: März 2018
 
 ----
 
-Leselink: 
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-maerz-geht-an-sachbuch-zum-thema-wald
 
 ----
 

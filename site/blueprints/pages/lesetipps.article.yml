@@ -15,20 +15,13 @@ tabs:
         label: Text
         type: markdown
 
-      entries:
-        extends: fields/books
+      verdict:
         label:
-          de: Buch / Bücher
-          en: Book(s)
-        fields:
-          title: false
-          book:
-            width: 1/1
-          text:
-            label:
-              de: Einschätzung
-              en: Verdict
-            help: false
+          de: Einschätzung
+          en: Verdict
+        type: markdown
+        when:
+          isAdvanced: false
 
       conclusion:
         label:
@@ -36,12 +29,12 @@ tabs:
           en: Summary
         type: markdown
         when:
-          conclusion_wanted: true
+          isAdvanced: false
 
       blocks:
         extends: fields/blocks
         when:
-          isAward: true
+          isAdvanced: true
 
     sidebar:
       sidebar_fields:
@@ -49,13 +42,14 @@ tabs:
         fields:
           date: fields/date
 
-          conclusion_wanted:
-            extends: fields/toggle
-            label:
-              de: Zusammenfassung?
-              en: Conclusion?
+          book:
+            extends: fields/book
+            layout: cards
+            image:
+              ratio: 3/4
+              cover: true
 
-          isAward:
+          isExternal:
             extends: fields/toggle
             label:
               de: Rezension
@@ -67,6 +61,12 @@ tabs:
               en:
                 - FV
                 - External
+
+          isAdvanced:
+            extends: fields/toggle
+            label:
+              de: Erweiterte Optionen anzeigen
+              en: Show advanced options
 
       sidebar_files: false
 

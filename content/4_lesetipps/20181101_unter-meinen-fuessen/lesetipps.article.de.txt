@@ -12,13 +12,7 @@ Dann verlässt der Forscher die verhältnismäßig dünne Erdkruste und dringt w
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/unter-meinen-fuessen-hardcover
-  text: 'Eine Reise zum Mittelpunkt der Erde und wieder zurück? Mit dem Leporello "Unter meinen Füßen" von Charlotte Guillain und Yuval Zommer ist dies möglich. Diese einzigartige Darstellungsform ist für dieses Experiment, das spannende Unterhaltung mit Wissensvermittlung verbindet, besonders gut geeignet. Bei dieser Reise durch die Erdschichten gibt es jede Menge Spannendes und Überraschendes bereits für Kinder ab 5 Jahren zu entdecken. "Unter meinen Füßen" ist in Aufmachung sowie in Text- und Bildgestaltung ein kleines Kunstwerk.'
-  title: ""
+Verdict: Eine Reise zum Mittelpunkt der Erde und wieder zurück? Mit dem Leporello "Unter meinen Füßen" von Charlotte Guillain und Yuval Zommer ist dies möglich. Diese einzigartige Darstellungsform ist für dieses Experiment, das spannende Unterhaltung mit Wissensvermittlung verbindet, besonders gut geeignet. Bei dieser Reise durch die Erdschichten gibt es jede Menge Spannendes und Überraschendes bereits für Kinder ab 5 Jahren zu entdecken. "Unter meinen Füßen" ist in Aufmachung sowie in Text- und Bildgestaltung ein kleines Kunstwerk.
 
 ----
 
@@ -38,16 +32,22 @@ Date: 2018-11-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/unter-meinen-fuessen-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

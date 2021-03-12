@@ -6,25 +6,11 @@ Text: Johnny wohnt mit seinem Opa, einem alten Seebären mit vielen Abenteuern i
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
-  text: >
-    Ein spannender Vorlesespaß für Kinder
-    ab 7 Jahren und zum Selberlesen ab 9
-    Jahren.
-  title: ""
+Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -32,11 +18,14 @@ Date: 2018-07-26
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/johnny-und-die-pommesbande-wir-sind-die-schnellsten-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

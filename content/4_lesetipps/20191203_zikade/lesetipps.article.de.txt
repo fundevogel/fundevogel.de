@@ -10,18 +10,7 @@ In Shaun Tans neuem Bilderbuch verbinden sich zwei Phänomene. Einerseits ist da
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/zikade-hardcover
-  text: >
-    Dieses Bilderbuch verbindet das
-    tragische Schicksal gesellschaftlicher
-    Randgruppen mit dem faszinierenden
-    Naturphänomen der amerikanischen
-    Singzikade.
-  title: ""
+Verdict: Dieses Bilderbuch verbindet das tragische Schicksal gesellschaftlicher Randgruppen mit dem faszinierenden Naturphänomen der amerikanischen Singzikade.
 
 ----
 
@@ -41,16 +30,22 @@ Date: 2019-12-03
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/zikade-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

@@ -10,19 +10,7 @@ Man könnte fast sagen, dass Eisbjörn auf dem Weg zum Fachmann für Seefahrt un
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/eisbjoern-hardcover
-  text: >
-    Eine schöne Geschichte über zwei
-    Einsame und Pflichtbewusste. Einer ist
-    Leuchtturmwärter, der andere ein
-    Mäuserich. Dieser lernt an den langen
-    Tagen so viel, dass er eine Katastrophe
-    verhindern kann.
-  title: ""
+Verdict: Eine schöne Geschichte über zwei Einsame und Pflichtbewusste. Einer ist Leuchtturmwärter, der andere ein Mäuserich. Dieser lernt an den langen Tagen so viel, dass er eine Katastrophe verhindern kann.
 
 ----
 
@@ -46,16 +34,22 @@ Date: 2018-04-03
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/eisbjoern-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

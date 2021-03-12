@@ -6,25 +6,11 @@ Text: Ausgerechnet Bocki und seine fiese Bande sind es, die Opa Pucki, Isabellas
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/eliot-und-isabella-im-finsterwald-hardcover
-  text: >
-    Eliot und Isabella im Finsterwald, ein
-    Buch von dem bekannten "Drache
-    Kokosnuss"-Autor Ingo Siegner.
-  title: ""
+Verdict: Eliot und Isabella im Finsterwald, ein Buch von dem bekannten "Drache Kokosnuss"-Autor Ingo Siegner.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -32,11 +18,14 @@ Date: 2017-01-12
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/eliot-und-isabella-im-finsterwald-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

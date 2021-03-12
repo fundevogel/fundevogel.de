@@ -10,22 +10,11 @@ Wie gut, dass zumindest Jennifers Freunde, der dicke Gabriel, die Anne und die S
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/der-katze-ist-es-ganz-egal-hardcover
-  text: ""
-  title: ""
+Verdict: 
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -33,11 +22,14 @@ Date: 2020-04-07
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/der-katze-ist-es-ganz-egal-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

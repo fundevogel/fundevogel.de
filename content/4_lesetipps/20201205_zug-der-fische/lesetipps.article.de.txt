@@ -13,28 +13,7 @@ In der Erzählung werden einerseits die positiven Aspekte in Marikas Leben, etwa
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/zug-der-fische-hardcover
-  text: >
-    Marika vermisst ihre Mutter, die in
-    Westeuropa arbeitet, um ihrer Familie in
-    der Ukraine den Lebensunterhalt zu
-    finanzieren. Die Sehnsucht des Mädchens
-    zeigt sich eindrücklich im poetischen
-    Text und in den feinsinnigen
-    Illustrationen. Als beispielhaftes
-    Einzelschicksal dieser sogenannten
-    Eurowaisen – einem realen Problem
-    unserer Gegenwart – schildert das
-    Bilderbuch "Zug der Fische" auf
-    beeindruckende Weise in Wort und Bild
-    den Alltag der Heranwachsenden und vor
-    allem den Wunsch nach einer intakten
-    Familie.
-  title: ""
+Verdict: Marika vermisst ihre Mutter, die in Westeuropa arbeitet, um ihrer Familie in der Ukraine den Lebensunterhalt zu finanzieren. Die Sehnsucht des Mädchens zeigt sich eindrücklich im poetischen Text und in den feinsinnigen Illustrationen. Als beispielhaftes Einzelschicksal dieser sogenannten Eurowaisen – einem realen Problem unserer Gegenwart – schildert das Bilderbuch "Zug der Fische" auf beeindruckende Weise in Wort und Bild den Alltag der Heranwachsenden und vor allem den Wunsch nach einer intakten Familie.
 
 ----
 
@@ -59,16 +38,22 @@ Date: 2020-12-05
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/zug-der-fische-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

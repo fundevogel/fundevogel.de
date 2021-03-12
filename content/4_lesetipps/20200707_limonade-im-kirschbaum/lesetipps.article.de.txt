@@ -6,23 +6,11 @@ Text: Eigentlich ist Otto ein richtiger Stubenhocker, der lieber in seinem Zimme
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/limonade-im-kirschbaum-hardcover
-  text: >
-    Eine Geschichte, die spannend und
-    leichtfüßig erzählt ist.
-  title: ""
+Verdict: Eine Geschichte, die spannend und leichtfüßig erzählt ist.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -30,11 +18,13 @@ Date: 2020-07-07
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/limonade-im-kirschbaum-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

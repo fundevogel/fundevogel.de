@@ -10,25 +10,11 @@ Kaum in New York angekommen, schwört Vita Rache und fordert Sorrotore heraus. Z
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/ein-unvorstellbar-unsinniges-abenteuer-hardcover
-  text: >
-    Ein neuer wunderbarer, spannender
-    Abenteuerroman der britischen Autorin
-    Katherine Rundell voller Überraschungen
-    und unerwarteter Wendungen, der im New
-    York der zwanziger Jahre spielt und von
-    Mut, Freundschaft und Gerechtigkeit
-    erzählt.
-  title: ""
+Verdict: Ein neuer wunderbarer, spannender Abenteuerroman der britischen Autorin Katherine Rundell voller Überraschungen und unerwarteter Wendungen, der im New York der zwanziger Jahre spielt und von Mut, Freundschaft und Gerechtigkeit erzählt.
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -36,16 +22,19 @@ Date: 2020-12-10
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/ein-unvorstellbar-unsinniges-abenteuer-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

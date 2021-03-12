@@ -12,20 +12,7 @@ Natürlich versuchen die Jungs den großen Deal einzutüten, und Elín kann ihne
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/idiotensicher-hardcover
-  text: >
-    Dirk Popes Erstlingswerk ist ein
-    frisches und freches Jugendbuch, das vor
-    allem durch seine Direktheit und Sprache
-    zu gefallen weiß. Die Abenteuer der
-    Gruppe erinnern einen teilweise an Mark
-    Twains "Die Abenteuer des Huckleberry
-    Finn".
-  title: ""
+Verdict: Dirk Popes Erstlingswerk ist ein frisches und freches Jugendbuch, das vor allem durch seine Direktheit und Sprache zu gefallen weiß. Die Abenteuer der Gruppe erinnern einen teilweise an Mark Twains "Die Abenteuer des Huckleberry Finn".
 
 ----
 
@@ -45,16 +32,22 @@ Date: 2016-02-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/idiotensicher-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

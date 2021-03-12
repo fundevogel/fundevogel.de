@@ -13,23 +13,7 @@ Aus Profitgier soll eine Firma namens Gründlich das Staubsaugermodell Ratz-Fatz
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/ratz-fatz-x-weg-23-hardcover
-  text: >
-    Rektor Glauber hat guten Grund für
-    seine Wut auf Kinder, ständig lügen
-    sie ihn an. Laura behauptet sogar, dass
-    sie wegen des Staubsaugermodells
-    „Ratz-Fatz-x-weg 23“ auf Weltreise
-    gehen musste. Um die Wahrheit
-    herauszufinden, will der Rektor die
-    komplette Geschichte von ihr hören, die
-    so unglaublich ist, dass er dafür die
-    Pausen verlängert.
-  title: ""
+Verdict: Rektor Glauber hat guten Grund für seine Wut auf Kinder, ständig lügen sie ihn an. Laura behauptet sogar, dass sie wegen des Staubsaugermodells „Ratz-Fatz-x-weg 23“ auf Weltreise gehen musste. Um die Wahrheit herauszufinden, will der Rektor die komplette Geschichte von ihr hören, die so unglaublich ist, dass er dafür die Pausen verlängert.
 
 ----
 
@@ -49,16 +33,22 @@ Date: 2018-09-03
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/ratz-fatz-x-weg-23-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

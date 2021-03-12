@@ -10,25 +10,11 @@ Zu allem Überfluss soll sich im Wald auch noch ein merkwürdiger Alter mit dem 
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
-  text: >
-    Eine turbulente Geschichte, mal schräg,
-    mal witzig, bei der man ganz nebenbei
-    auch ein bisschen Finnisch lernt.
-  title: ""
+Verdict: Eine turbulente Geschichte, mal schräg, mal witzig, bei der man ganz nebenbei auch ein bisschen Finnisch lernt.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -36,11 +22,14 @@ Date: 2019-04-17
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/matti-und-sami-und-die-verflixte-ungerechtigkeit-der-welt-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

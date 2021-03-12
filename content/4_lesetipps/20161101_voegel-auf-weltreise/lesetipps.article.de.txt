@@ -12,19 +12,7 @@ Auf 53 großformatigen Seiten setzt sich nach und nach ein umfassendes Bild übe
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/voegel-auf-weltreise-hardcover
-  text: >
-    Wer hat nicht schon mal davon geträumt,
-    sich mit den Vögeln auf Weltreise zu
-    begeben und deren Geheimnis zu lüften?
-    Das Buch „Vögel auf Weltreise“
-    kommt diesem Traum ein großes Stück
-    näher.
-  title: ""
+Verdict: Wer hat nicht schon mal davon geträumt, sich mit den Vögeln auf Weltreise zu begeben und deren Geheimnis zu lüften? Das Buch „Vögel auf Weltreise“ kommt diesem Traum ein großes Stück näher.
 
 ----
 
@@ -48,16 +36,22 @@ Date: 2016-11-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/voegel-auf-weltreise-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

@@ -6,19 +6,7 @@ Text: Eine furchtbare Nachricht erreicht Drachenreiter Ben und seine Freunde: Da
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
-  text: >
-    Ein spannungsreiches, fantastisches
-    Hör-Abenteuer, das von Tapferkeit und
-    Freundschaft, den Wundern der Natur und
-    der Bedeutsamkeit, sie zu schützen und
-    zu erhalten, erzählt.
-  title: ""
+Verdict: Ein spannungsreiches, fantastisches Hör-Abenteuer, das von Tapferkeit und Freundschaft, den Wundern der Natur und der Bedeutsamkeit, sie zu schützen und zu erhalten, erzählt.
 
 ----
 
@@ -26,24 +14,23 @@ Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher",
 
 ----
 
-Blocks: []
-
-----
-
 Date: 2020-07-27
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/drachenreiter-die-feder-eines-greifs-hoerbuch
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 

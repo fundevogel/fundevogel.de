@@ -14,24 +14,11 @@ Doch eines Tages ist der Laden zu und auf dem Schild steht dick und fett geschri
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/mein-freund-otto-das-wilde-leben-und-ich-hardcover
-  text: >
-    Eine spannende Geschichte für schlaue
-    Köpfe!
-  title: ""
+Verdict: Eine spannende Geschichte für schlaue Köpfe!
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -39,11 +26,14 @@ Date: 2018-10-26
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/mein-freund-otto-das-wilde-leben-und-ich-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

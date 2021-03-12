@@ -10,25 +10,11 @@ Das Tüfteln und Werkeln beginnt und Pete macht sich gemeinsam mit dem Professor
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
-  text: >
-    Taucht ein in die Tiefen des Meeres und
-    geht dem Geheimnis Edisons auf den
-    Grund!
-  title: ""
+Verdict: Taucht ein in die Tiefen des Meeres und geht dem Geheimnis Edisons auf den Grund!
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -36,11 +22,14 @@ Date: 2018-10-08
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/edison-das-raetsel-des-verschollenen-mauseschatzes-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

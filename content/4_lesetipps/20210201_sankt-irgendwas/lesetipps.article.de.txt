@@ -11,26 +11,17 @@ Die Autorin Tamara Bach bringt in Form einer Collage-artigen Erzählsituation di
 
 Bach entwirft ein unterhaltsames Manifest über Gerechtigkeit und die eigentliche Bedeutung von Klassenfahrten. Natürlich schwingt in der klischeehaften Darstellung von stereotypen Lehrkräften ein gewisser Beigeschmack über das häufig in Verruf geratene Berufsbild der Pädagogen mit. Viel prägnanter bleibt aber die Dramaturgie des Handlungsverlaufs. Eine überraschende Wendung verleiht der Erzählung nicht nur Heiterkeit, sondern zeigt auch Mitgefühl. „Sankt Irgendwann“ eignet sich sowohl als Lektüre für die Freizeit als auch für den Unterricht. Gesprächsstoff bietet sie in jedem Fall.
 
+Klassenfahrten bleiben meistens dann in guter Erinnerung, wenn sie aus einer gesunden Mischung von ritualisierten Praktiken, die sich über Generationen bewährt haben und aus den individuellen Ausgestaltungen der beteiligten Akteure bestehen. Tamara Bach weiß diese Anteile virtuos miteinander zu verbinden, indem sie in Form einer Collage-artigen Erzählsituation die Ereignisse der Klasse 10b zum einen aus dem Kollektiv der Schülerperspektive, zum anderen aus dem sachlichen Berichtstil des Klassenleiters zusammenbringt.
+
+Faktisch realisiert die für den novellenartigen Roman bekannte Autorin dies aus einer Komposition von Tagesprotokollen, die verschiedene Schülerinnen und Schüler zunächst noch nach relativ nachvollziehbaren Vorgaben anfertigen, zwei Mails des Klassenleiters an die Eltern sowie einer Rahmenhandlung von lose wirkenden Gerüchten und Vermutungen von Mitschülerinnen und Mitschülern aus den Parallelklassen.
+
 ----
 
-Entries:
-
--
-  book:
-    - buecher/sankt-irgendwas-hardcover
-  text: >
-    "Sankt Irgendwas" von Tamara Bach
-    erzählt aus Sicht der Jugendlichen und
-    in einem ausgefallenen Protokollstil von
-    den Erlebnissen einer Klassenfahrt.
+Verdict: "Sankt Irgendwas" von Tamara Bach erzählt aus Sicht der Jugendlichen und in einem ausgefallenen Protokollstil von den Erlebnissen einer Klassenfahrt.
 
 ----
 
 Conclusion:
-
-Klassenfahrten bleiben meistens dann in guter Erinnerung, wenn sie aus einer gesunden Mischung von ritualisierten Praktiken, die sich über Generationen bewährt haben und aus den individuellen Ausgestaltungen der beteiligten Akteure bestehen. Tamara Bach weiß diese Anteile virtuos miteinander zu verbinden, indem sie in Form einer Collage-artigen Erzählsituation die Ereignisse der Klasse 10b zum einen aus dem Kollektiv der Schülerperspektive, zum anderen aus dem sachlichen Berichtstil des Klassenleiters zusammenbringt.
-
-Faktisch realisiert die für den novellenartigen Roman bekannte Autorin dies aus einer Komposition von Tagesprotokollen, die verschiedene Schülerinnen und Schüler zunächst noch nach relativ nachvollziehbaren Vorgaben anfertigen, zwei Mails des Klassenleiters an die Eltern sowie einer Rahmenhandlung von lose wirkenden Gerüchten und Vermutungen von Mitschülerinnen und Mitschülern aus den Parallelklassen.
 
 ### Vom Tatsachenbericht zum Klassentagebuch
 In Form eines Prologs mutmaßen diese Stimmen, was denn auf der besagten Klassenreise passiert sein muss, dass die Eltern nun zu einem Elternabend geladen sind. Spekuliert wird über einen Brandanschlag, eine Explosion am Flughafen, über Drogenkonsum und mögliche Sanktionen für die ganze Klasse. Doch Genaues weiß man nicht. Es folgt eine vor sechs Monaten verfasste Mail des Klassenleiters an die Eltern der 10b, in der er über die anstehende Studienfahrt und die damit verbundenen üblichen Regeln und Verbote informiert. Dann übernehmen die Schülerinnen und Schüler das Wort und protokollieren nach einem Rotationsprinzip den Ablauf der gemeinsam verbrachten Tage, beginnend mit der Abfahrt im gebuchten Reisebus.
@@ -49,19 +40,29 @@ Tamara Bach entwirft ein unterhaltsames Manifest über die Gerechtigkeit und die
 
 ----
 
+Blocks: []
+
+----
+
 Date: 2021-02-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/sankt-irgendwas-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Isadvanced: false
+
+----
+
+Seotitle: 
 
 ----
 

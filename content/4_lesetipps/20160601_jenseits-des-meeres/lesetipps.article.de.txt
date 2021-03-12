@@ -12,13 +12,7 @@ Bei Janne Teller heißt es im Nachwort zu ihrem fiktiven Essay "Krieg. Stell dir
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/jenseits-des-meeres-hardcover
-  text: 'Der Roman "Jenseits des Meeres" ist ein beeindruckendes Buch zu den Themen, die uns auch in den kommenden Jahren viel beschäftigen werden: Flucht, Angst, Heimat und Verlust. Themen, die es für uns alle erforderlich machen, die Perspektive zu wechseln, um nur ansatzweise nachempfinden zu können, was es heißt, alles zu verlieren. Jon Walter nutz dazu eine besonderer Leistung von Literatur: Er erschafft einen Erfahrungs- und Reflexionsraum, in dem der Leser die Perspektive eines zehnjährigen Flüchtlingskindes einüben darf.'
-  title: ""
+Verdict: Der Roman "Jenseits des Meeres" ist ein beeindruckendes Buch zu den Themen, die uns auch in den kommenden Jahren viel beschäftigen werden: Flucht, Angst, Heimat und Verlust. Themen, die es für uns alle erforderlich machen, die Perspektive zu wechseln, um nur ansatzweise nachempfinden zu können, was es heißt, alles zu verlieren. Jon Walter nutz dazu eine besonderer Leistung von Literatur: Er erschafft einen Erfahrungs- und Reflexionsraum, in dem der Leser die Perspektive eines zehnjährigen Flüchtlingskindes einüben darf.
 
 ----
 
@@ -40,16 +34,22 @@ Date: 2016-06-01
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/jenseits-des-meeres-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

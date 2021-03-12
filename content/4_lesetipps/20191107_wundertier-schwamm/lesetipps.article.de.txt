@@ -10,20 +10,7 @@ Den Auftakt im Buch macht ein vereinfachter Stammbaum der Tiere, der die Schwäm
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/wundertier-schwamm-hardcover
-  text: >
-    Schwämme gehören zu den ältesten
-    Lebewesen. Sie leben im Meer und haben
-    sich über Jahrmillionen kaum
-    verändert. Das Sachbuch "Wundertier
-    Schwamm" widmet sich dieser
-    einzigartigen Tierart und wartet mit
-    unglaublichen Fakten auf.
-  title: ""
+Verdict: Schwämme gehören zu den ältesten Lebewesen. Sie leben im Meer und haben sich über Jahrmillionen kaum verändert. Das Sachbuch "Wundertier Schwamm" widmet sich dieser einzigartigen Tierart und wartet mit unglaublichen Fakten auf.
 
 ----
 
@@ -43,16 +30,22 @@ Date: 2019-11-07
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/wundertier-schwamm-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

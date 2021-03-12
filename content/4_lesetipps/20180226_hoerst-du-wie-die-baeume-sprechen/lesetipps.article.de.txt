@@ -10,20 +10,7 @@ In einfacher, verständlicher und humorvoller Sprache erklärt der Autor die kom
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/hoerst-du-wie-die-baeume-sprechen-hardcover
-  text: >
-    "Hörst du, wie die Bäume sprechen" ist
-    das erste Buch des berühmten Försters
-    Peter Wohlleben für Kinder. Die
-    Sichtweise über den Wald und seine
-    Bewohner ist ungewöhnlich, fast
-    spannend und höchst vergnüglich.
-  title: ""
+Verdict: "Hörst du, wie die Bäume sprechen" ist das erste Buch des berühmten Försters Peter Wohlleben für Kinder. Die Sichtweise über den Wald und seine Bewohner ist ungewöhnlich, fast spannend und höchst vergnüglich.
 
 ----
 
@@ -43,16 +30,23 @@ Date: 2018-02-26
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/hoerst-du-wie-die-baeume-sprechen-hardcover
 
 ----
 
-Isaward: true
+Isexternal: false
 
 ----
 
-Seotitle:
+Isadvanced: false
 
 ----
 
-Seodescription:
+Seotitle: 
+
+----
+
+Seodescription: 

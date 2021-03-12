@@ -10,24 +10,7 @@ In einer Vollmondnacht erfolgt die überraschende Wende. Der demenzkranke, senil
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/opa-und-die-nacht-der-woelfe-hardcover
-  text: >
-    Normalerweise passen Opas auf ihre Enkel
-    auf, aber bei Olli ist es andersrum.
-    Sein Opa läuft einfach weg und beschert
-    Olli richtig peinliche Situationen. Doch
-    in einer Vollmondnacht staunt der Junge
-    sehr. Sein gebrechlicher, alter Opa
-    verwandelt sich in einen kraftvollen
-    Wolf. Obwohl am nächsten Morgen wieder
-    alles beim Alten ist, hat diese Nacht
-    viel verändert.
-  title: ""
+Verdict: Normalerweise passen Opas auf ihre Enkel auf, aber bei Olli ist es andersrum. Sein Opa läuft einfach weg und beschert Olli richtig peinliche Situationen. Doch in einer Vollmondnacht staunt der Junge sehr. Sein gebrechlicher, alter Opa verwandelt sich in einen kraftvollen Wolf. Obwohl am nächsten Morgen wieder alles beim Alten ist, hat diese Nacht viel verändert.
 
 ----
 
@@ -47,16 +30,23 @@ Date: 2020-01-05
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- >
+  buecher/opa-und-die-nacht-der-woelfe-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

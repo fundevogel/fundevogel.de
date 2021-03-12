@@ -10,25 +10,11 @@ Das Zusammenleben wird nicht einfach, aber bald ist das Team bereit, gemeinsam d
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/ein-haufen-aerger-hardcover
-  text: >
-    Eine witzige und berührende Geschichte
-    vom Anders-sein und Zusammenleben, mit
-    schönen farbigen Illustrationen von
-    Sabine Wilharm auf jeder Seite!
-  title: ""
+Verdict: Eine witzige und berührende Geschichte vom Anders-sein und Zusammenleben, mit schönen farbigen Illustrationen von Sabine Wilharm auf jeder Seite!
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -36,11 +22,13 @@ Date: 2016-04-25
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- buecher/ein-haufen-aerger-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

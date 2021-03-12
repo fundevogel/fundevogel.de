@@ -12,18 +12,7 @@ Das Band zwischen Alice und Nico wirkt zunächst katalysierend: Sie werden ein P
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/hinter-glas-hardcover
-  text: >
-    Der Coming-of-Age-Roman "Hinter Glas"
-    erzählt mithilfe psychogrammatischer
-    Elemente sowie einer nebulösen
-    Fantasyebene von dem beeindruckenden
-    Emanzipationsprozess einer jungen Frau.
-  title: ""
+Verdict: Der Coming-of-Age-Roman "Hinter Glas" erzählt mithilfe psychogrammatischer Elemente sowie einer nebulösen Fantasyebene von dem beeindruckenden Emanzipationsprozess einer jungen Frau.
 
 ----
 
@@ -43,16 +32,22 @@ Date: 2019-10-11
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/hinter-glas-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

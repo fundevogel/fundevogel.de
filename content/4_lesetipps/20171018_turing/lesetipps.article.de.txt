@@ -10,21 +10,7 @@ In parallelen Erzählsträngen blickt Robert Deutsch auf Turing als Mensch. Als 
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/turing-hardcover
-  text: >
-    Er war ein Pionier der Informatik und
-    war maßgeblich daran beteiligt, die
-    deutschen Codes während des Zweiten
-    Weltkrieges zu dechiffrieren. Ein tiefes
-    persönliches Geheimnis und dessen
-    Aufdeckung haben ihn dann aber
-    zerstört. Wer war eigentlich Alan
-    Turing?
-  title: ""
+Verdict: Er war ein Pionier der Informatik und war maßgeblich daran beteiligt, die deutschen Codes während des Zweiten Weltkrieges zu dechiffrieren. Ein tiefes persönliches Geheimnis und dessen Aufdeckung haben ihn dann aber zerstört. Wer war eigentlich Alan Turing?
 
 ----
 
@@ -46,16 +32,22 @@ Date: 2017-10-18
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/turing-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

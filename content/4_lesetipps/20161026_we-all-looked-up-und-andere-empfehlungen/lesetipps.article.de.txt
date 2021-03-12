@@ -1,4 +1,4 @@
-Title: We all looked up ... und andere Empfehlungen
+Title: "We all looked up" und andere Empfehlungen
 
 ----
 
@@ -8,28 +8,21 @@ Derzeit gibt es so etwas wie einen Trend im Bereich der Jugendbücher: Geschicht
 
 Wie willst Du eigentlich leben? Was und wer ist Dir in Deinem leben wichtig?
 
-----
+In **we all looked up** rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
 
-Entries:
+Vordergründig handelt **28 Tage lang** vom historischen Aufstand und dem Widerstand im Warschauer Ghetto. Dahinter verbergen sich jedoch grundsätzliche Fragen, nach welchen Werten wir denn gedenken, unser Leben auszurichten.
 
-- 
-  book:
-    - buecher/we-all-looked-up-taschenbuch
-  text: 'In **we all looked up** rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?'
-- 
-  book:
-    - buecher/28-tage-lang-taschenbuch
-  text: 'Vordergründig handelt **28 Tage lang** vom historischen Aufstand und dem Widerstand im Warschauer Ghetto. Dahinter verbergen sich jedoch grundsätzliche Fragen, nach welchen Werten wir denn gedenken, unser Leben auszurichten.'
-- 
-  book:
-    - >
-      buecher/jenseits-der-blauen-grenze-hardcover
-  text: '**Jenseits der blauen Grenze** schildert sehr anschaulich die Flucht zweier Menschen aus der DDR über die Ostsee. 50 Kilometer Wasser trennen die beiden von der Freiheit. Und auf jeder Seite stellt sich dem Leser die Frage nach einem selbstbestimmten Leben.'
-  title: ""
+**Jenseits der blauen Grenze** schildert sehr anschaulich die Flucht zweier Menschen aus der DDR über die Ostsee. 50 Kilometer Wasser trennen die beiden von der Freiheit. Und auf jeder Seite stellt sich dem Leser die Frage nach einem selbstbestimmten Leben.
+
+Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, die man am liebsten in Stein meißeln möchte. Wie die Sätze in dem Buch "we all looked up": "Die besten Bücher handeln nicht von Dingen,über die du noch nie nachgedacht hast. Sie handeln von Dingen, über die du schon immer nachgedacht hast, bei denen du aber meintest, keiner sonst würde sich über sie Gedanken machen. Du liest sie und plötzlich bist du ein kleines bisschen weniger allein auf der Welt."
 
 ----
 
-Conclusion: Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, die man am liebsten in Stein meißeln möchte. Wie die Sätze in dem Buch "we all looked up": "Die besten Bücher handeln nicht von Dingen,über die du noch nie nachgedacht hast. Sie handeln von Dingen, über die du schon immer nachgedacht hast, bei denen du aber meintest, keiner sonst würde sich über sie Gedanken machen. Du liest sie und plötzlich bist du ein kleines bisschen weniger allein auf der Welt."
+Verdict: 
+
+----
+
+Conclusion: 
 
 ----
 
@@ -41,11 +34,17 @@ Date: 2016-10-26
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/we-all-looked-up-taschenbuch
 
 ----
 
-Isaward: false
+Isexternal: false
+
+----
+
+Isadvanced: true
 
 ----
 

@@ -6,25 +6,11 @@ Text: Die großen Ferien stehen an und Max kann es kaum erwarten endlich nach Fr
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/zuckerkringel-ferien-mit-marie-hardcover
-  text: >
-    Ein spannendes Ferienabenteuer über die
-    allererste Liebe und eine starke
-    Freundschaft.
-  title: ""
+Verdict: Ein spannendes Ferienabenteuer über die allererste Liebe und eine starke Freundschaft.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -32,11 +18,14 @@ Date: 2017-07-27
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/zuckerkringel-ferien-mit-marie-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 

@@ -1,0 +1,57 @@
+Title: Auf nach Yellowstone!
+
+----
+
+Text:
+
+Die Reise durch die Nationalparks wird anhand der Geschichte des Wisents Kuba und des Eichhörnchens Ula geschildert, die im polnischen Biatowieza-Park leben und enge Freunde sind, die alles gemeinsam machen. Deshalb lässt sich Kuba von Ula überreden, einem geheimnisvollen Brief aus Amerika zu folgen und nach seinen Verwandten dort zu suchen.
+
+Umweltschützer schlagen schon lange Alarm, weil die Gesellschaft immer wieder Gründe findet, unsere Ressourcen zu vergeuden, Müll im Überfluss zu produzieren und Gifte zu verbreiten. Darum müssen wir unsere Kinder so früh wie möglich auf die Wichtigkeit des Schutzes unserer Natur aufmerksam machen und sie anhalten, Verantwortung zu übernehmen. Das vorliegende Buch kann dieses Anliegen gut unterstützen.
+
+----
+
+Verdict: Dieses Buch erklärt mit einfachen Worten das Ökosystem und die Rolle des Menschen dabei. Es regt zum Nachdenken über Umwelt- und Artenschutz an und verdeutlicht: Nachhaltiger Umweltschutz ist ein lebenswichtiges Anliegen unserer Gesellschaft.
+
+----
+
+Conclusion:
+
+### An Erlebnissen teilhaben
+Kindliche Betrachter und Leserinnen und Leser können sich schnell in die Hauptpersonen hineinversetzen und Anteil an den Erlebnissen dieser nehmen. Das Buch ist im A3-Format und liegt schwer in der Hand. Aber große Nationalparks gehören in große Bücher. Das Buch ist in Comicform aufgebaut. Den Handlungsfaden kann man gut anhand der runden Sprechblasen verfolgen. Die Schrift hebt sich deutlich vom Hintergrund ab und hat eine ausreichende Größe. Leseanfängerinnen und -anfänger oder Lesemuffel können leicht die Inhalte erfassen und mit Erfolg lesen.
+
+### Viele Sachinformationen
+Die Geschichte wird mit vielen Sachinformationen bereichert. Es werden Fachbegriffe verwendet und lateinische Namen aufgeführt. Zu Beginn des Besuchs eines Parks erhalten Leserinnen und Leser einen Überblick. Damit wird die Neugier geweckt. Neben Größe und Gründungsjahr sind auf einer Doppelseite Besonderheiten gezeichnet und Namen von Tieren oder Orten vermerkt. Eine großartige Idee ist auch, dass Ula ein Reisetagebuch schreibt. Auf je einer Doppelseite findet man am Ende jedes Parkbesuchs eine Zusammenfassung der gezeigten Informationen. Die Autorin und der Autor erklären mit einfachen Worten das Ökosystem und die Rolle des Menschen dabei. Sie regen zum Nachdenken über Umwelt- und Artenschutz an.
+
+Ergänzend zum Buch gibt es (link: https://youtu.be/r5Z4hoke8MY text: einen kurzen Animationsfilm). Darin erfahren Kuba und Ula, wie ein natürlicher Waldbrand entstehen kann, und was dieser für Tiere und Pflanzen bedeutet.
+
+**Auf nach Yellowstone!**
+
+----
+
+Blocks: []
+
+----
+
+Date: 2021-03-05
+
+----
+
+Book:
+
+- buecher/auf-nach-yellowstone-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Isadvanced: 

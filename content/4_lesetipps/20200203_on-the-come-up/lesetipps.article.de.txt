@@ -15,27 +15,7 @@ Es ist ein erklärtes Anliegen von Angie Thomas, auf die Ungerechtigkeit in der 
 
 ----
 
-Entries:
-
--
-  book:
-    - buecher/on-the-come-up-hardcover
-  text: >
-    In ihrem zweiten Jugendroman nach "The
-    Hate U Give" erschafft Angie Thomas die
-    Figur Bri, die für Millionen junger
-    Leute eine Heldin sein kann und sein
-    sollte. Aber nicht nur für Jugendliche,
-    die alltäglich die Diskriminierung
-    Schwarzer in den USA erleben müssen,
-    sondern für alle. Denn auch jugendliche
-    Leserinnen und Leser weitab der
-    amerikanischen Hood blicken mit diesem
-    Roman einerseits in die fremde Welt des
-    fiktiven Ghettos Garden Heights und des
-    Hip-Hop und können sich doch zugleich
-    im Buch selbst erkennen.
-  title: ""
+Verdict: In ihrem zweiten Jugendroman nach "The Hate U Give" erschafft Angie Thomas die Figur Bri, die für Millionen junger Leute eine Heldin sein kann und sein sollte. Aber nicht nur für Jugendliche, die alltäglich die Diskriminierung Schwarzer in den USA erleben müssen, sondern für alle. Denn auch jugendliche Leserinnen und Leser weitab der amerikanischen Hood blicken mit diesem Roman einerseits in die fremde Welt des fiktiven Ghettos Garden Heights und des Hip-Hop und können sich doch zugleich im Buch selbst erkennen.
 
 ----
 
@@ -58,16 +38,22 @@ Date: 2020-02-03
 
 ----
 
-Conclusion-wanted: true
+Book:
+
+- buecher/on-the-come-up-hardcover
 
 ----
 
-Isaward: true
+Isexternal: true
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Isadvanced: 

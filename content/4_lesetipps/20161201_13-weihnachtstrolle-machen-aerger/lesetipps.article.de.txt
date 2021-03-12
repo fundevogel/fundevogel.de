@@ -6,32 +6,11 @@ Text: Eine Adventskalendergeschichte der besonderen Art: Jonas und seine kleine 
 
 ----
 
-Entries:
-
--
-  book:
-    - >
-      buecher/13-weihnachtstrolle-machen-aerger-hardcover
-  text: >
-    24 spannende und witzige Kapitel
-    entführen uns in richtiges
-    Winterweihnachtsabenteuer, das die Zeit
-    des Wartens auf den Weihnachtsmann
-    bestens und aufs Vergnüglichste
-    verkürzt. Eine unterhaltsame Geschichte
-    zum Selberlesen für Kinder ab 8 Jahren,
-    die sich aber auch auf wunderbare Weise
-    zum Vorlesen für die ganze Familie
-    eignet.
-  title: ""
+Verdict: 24 spannende und witzige Kapitel entführen uns in richtiges Winterweihnachtsabenteuer, das die Zeit des Wartens auf den Weihnachtsmann bestens und aufs Vergnüglichste verkürzt. Eine unterhaltsame Geschichte zum Selberlesen für Kinder ab 8 Jahren, die sich aber auch auf wunderbare Weise zum Vorlesen für die ganze Familie eignet.
 
 ----
 
-Conclusion:
-
-----
-
-Blocks: []
+Conclusion: 
 
 ----
 
@@ -39,11 +18,14 @@ Date: 2016-12-01
 
 ----
 
-Conclusion-wanted: false
+Book:
+
+- >
+  buecher/13-weihnachtstrolle-machen-aerger-hardcover
 
 ----
 
-Isaward: false
+Isexternal: false
 
 ----
 
