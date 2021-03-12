@@ -5,12 +5,14 @@ title:
 files: false
 
 tabs:
-  # Dashboard
-  dashboard:
-    icon: dashboard
+  # Lesetipps
+  lesetipps:
+    label:
+      de: Lesetipps
+      en: Reading tips
+    icon: template
     columns:
-      left:
-        width: 2/3
+      lesetipps_full:
         sections:
           lesetipps:
             extends: sections/articles
@@ -18,12 +20,18 @@ tabs:
               de: Lesetipps
               en: Recommendations
             parent: site.find("lesetipps")
-            template: lesetipps.article
             create: lesetipps.article
-            limit: 8
+            template: lesetipps.article
 
-      right:
-        width: 1/3
+  # Pages
+  pages:
+    label:
+      de: Alle Seiten
+      en: All pages
+    icon: layers
+    columns:
+      pages_left:
+        width: 2/3
         sections:
           news:
             extends: sections/articles
@@ -33,7 +41,6 @@ tabs:
               - news.article
               - news.recommendation
             layout: list
-            limit: 4
 
           events:
             extends: sections/articles
@@ -43,8 +50,24 @@ tabs:
             create: calendar.event
             layout: list
             subpages: false
-            limit: 4
             empty: Keine Veranstaltungen!
+
+      pages_right:
+        width: 1/3
+        sections:
+          default_pages:
+            headline:
+              de: Sonstige Seiten
+              en: Misc pages
+            type: pages
+            sortable: false
+            info: false
+            create: default
+            template:
+              - about
+              - assortment
+              - grid-list
+              - contact
 
           sort_out:
             type: fields
@@ -57,24 +80,14 @@ tabs:
                 progress: Durchsuchen ..
                 job: archiveEvents
 
-          default_pages:
-            headline:
-              de: Seiten
-              en: Pages
-            type: pages
-            create: default
-            template:
-              - about
-              - assortment
-              - grid-list
-              - contact
-            sortable: false
-
   # Books
   books: tabs/books
 
   # Settings
   settings:
+    label:
+      de: Einstellungen
+      en: Settings
     icon: settings
     preset: page
     pages: false
@@ -134,6 +147,13 @@ tabs:
               en: Description
             type: markdown
 
+      coronaMode:
+        extends: fields/toggle
+        label:
+          de: Corona-Modus aktivieren?
+          en: Activate "Corona" mode?
+        width: 1/3
+
       coronaText:
         label: Corona-Text
         type: markdown
@@ -142,14 +162,6 @@ tabs:
 
     sidebar:
       sidebar_files: false
-      sidebar_pages:
-        headline:
-          de: Sonstige Seiten
-          en: Other pages
-        type: pages
-        create: default
-        template: default
-        sortable: false
 
       sidebar_fields:
         type: fields
@@ -161,7 +173,4 @@ tabs:
               en: Fallback image
             query: site.images
             image:
-              ratio: 3/4
-          coronaMode:
-            extends: fields/toggle
-            label: Corona-Mode
+              ratio: 1/1
