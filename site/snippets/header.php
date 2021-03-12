@@ -39,17 +39,7 @@
                                 </div>
                                 <div class="flex flex-col items-center md:items-start leading-none">
                                     <h1 class="sketch tracking-wide<?php e($page->isHomePage(), ' text-6xl xs:text-page-heading sm:text-site-heading', ' text-center text-5xl sm:text-6xl lg:text-page-heading') ?>">
-                                        <?php
-                                            if ($page->intendedTemplate() == 'lesetipps.article') {
-                                                echo page('lesetipps')->title()->html();
-                                            } elseif ($page->slug() == 'vergangene-veranstaltungen') {
-                                                echo 'Kalenderarchiv';
-                                            } elseif ($page->isHomePage()) {
-                                                echo 'Fundevogel';
-                                            } else {
-                                                echo $page->title()->html();
-                                            }
-                                        ?>
+                                        <?= $page->getPageTitle() ?>
                                     </h1>
                                     <?php if ($page->isHomePage()) : ?>
                                     <h3 class="sketch text-black text-2xl sm:text-4xl text-center"><?= t('Kinder- und Jugendbuchhandlung') ?></h3>

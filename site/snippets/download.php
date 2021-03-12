@@ -1,10 +1,6 @@
 <?php
     if (!isset($details)) {
-        $details = $file->niceSize();
-
-        if ($file->type() === 'image') {
-            $details .= ' - ' . $file->width() . ' x ' . $file->height();
-        }
+        $details = $file->getDownloadDetails();
     }
 
     $caption = $caption ?? 'Download';

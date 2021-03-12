@@ -14,4 +14,13 @@ return [
 
         return $cover->createImage($classes, 'lesetipps.pdf', false, true);
     },
+    'getDownloadDetails' => function () {
+        $details = $this->niceSize();
+
+        if ($this->type() === 'image') {
+            $details .= ' - ' . $this->width() . ' x ' . $this->height();
+        }
+
+        return $details;
+    },
 ];
