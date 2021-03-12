@@ -225,7 +225,16 @@ return function ($kirby, $page) {
 
             # .. and enrich data with results
             if ($phpResponse->http_code() === 200) {
-                $data = $phpResponse->json(true)['packages'][$library]['dev-master'];
+                $phpRaw = $data = $phpResponse->json(true)['packages'][$library];
+
+                # Allow for libraries using `main` branch instead of `master`
+                $branch = 'dev-master';
+
+                if (!isset($phpRaw['dev-master'])) {
+                    $branch = 'dev-main';
+                }
+
+                $data = $phpRaw[$branch];
 
                 $node['desc'] = $data['description'];
                 $node['license'] = $data['license'][0] ?? '';
