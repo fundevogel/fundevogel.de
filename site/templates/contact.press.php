@@ -56,7 +56,7 @@
                             <span class="max-w-75 font-normal text-sm text-white text-shadow"><?= $image->caption()->html() ?></span>
                         </figcaption>
                     </figure>
-                    <?php snippet('download', ['file' => $image]) ?>
+                    <?php snippet('components/gradient-overlay', ['data' => $image]) ?>
                 </a>
             </li>
             <?php endforeach ?>

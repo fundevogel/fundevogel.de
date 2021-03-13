@@ -14,7 +14,8 @@ Text:
 > des Schicksals dunklen Lauf:
 > Der Hänsel nahm die Gabel
 > und aß den Knödel auf.
-> <cite>— Michael Ende</cite>
+>
+> <footer>Michael Ende</footer>
 
 ----
 
@@ -24,7 +25,7 @@ Blocks: [{"content":{"heading":"Sprache wachsen sehen","show_columns":"false","h
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -50,7 +51,7 @@ Favorites:
   age: ab 4 Jahren
   price: 12,95
   binding: gebunden
-- 
+-
   title: ""
   book:
     - >
@@ -78,7 +79,7 @@ Favorites:
   age: ab 6 Jahren
   price: 19,99
   binding: Halbleinen
-- 
+-
   title: ""
   book:
     - >
@@ -106,7 +107,7 @@ Favorites:
   age: ab 5 Jahren
   price: 14,00
   binding: gebunden
-- 
+-
   title: ""
   book:
     - >
@@ -132,7 +133,7 @@ Favorites:
   age: ab 4 Jahren
   price: 24,00
   binding: Halbleinen
-- 
+-
   title: ""
   book:
     - >
@@ -165,7 +166,7 @@ Favorites:
   age: ab 3 Jahren
   price: 24,95
   binding: Halbleinen
-- 
+-
   title: ""
   book:
     - >

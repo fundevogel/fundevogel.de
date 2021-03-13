@@ -4,8 +4,7 @@ Title: Woodwalkers - Tag der Rache
 
 Text:
 
-> Der sechste Band von "Woodwalkers" ist sehr spannend geschrieben. Er hat mir von allen Bänden der Reihe am besten gefallen, weil es eine Mischung aus Spannung und Witz ist, aber auch teilweise sehr traurig. Im 6. Band der Reihe gibt es oft überraschende Wendungen, mit denen man nicht gerechnet hätte. Es ist sehr gut geschrieben und die Illustrationen sind die besten, die ich je in einem Jugendbuch gesehen habe
-<cite>Paulina, 12 Jahre</cite>
+(quote: "Der sechste Band von "Woodwalkers" ist sehr spannend geschrieben. Er hat mir von allen Bänden der Reihe am besten gefallen, weil es eine Mischung aus Spannung und Witz ist, aber auch teilweise sehr traurig. Im 6. Band der Reihe gibt es oft überraschende Wendungen, mit denen man nicht gerechnet hätte. Es ist sehr gut geschrieben und die Illustrationen sind die besten, die ich je in einem Jugendbuch gesehen habe" author: Paulina, 12 Jahre)
 
 ----
 
@@ -13,7 +12,7 @@ Verdict: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunde
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 

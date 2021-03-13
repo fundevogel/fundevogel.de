@@ -45,5 +45,5 @@ return [
         }
 
         return $this->title()->html();
-    }
+    },
 ];

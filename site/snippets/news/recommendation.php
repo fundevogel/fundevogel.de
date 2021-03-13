@@ -41,26 +41,7 @@
                                                 </span>
                                                 <?php endif ?>
                                                 <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal', false, true) ?>
-                                                <?php
-                                                    $details = ' &middot; ' . $book->price() . ' €';
-
-                                                    if ($book->age()->isNotEmpty()) {
-                                                        $details = $book->age() . $details;
-                                                    } else {
-                                                        if ($book->isAudiobook()) {
-                                                            $details = A::join([$book->duration(), t('Minuten'), $details], ' ');
-                                                        } else {
-                                                            $details = A::join([$book->pageCount(), t('Seiten'), $details], ' ');
-                                                        }
-                                                    }
-
-                                                    snippet('download', [
-                                                        'file' => $image,
-                                                        'details' => $details,
-                                                        'caption' => t('Zum Shop'),
-                                                        'icon' => 'cart'
-                                                    ])
-                                                ?>
+                                                <?php snippet('components/gradient-overlay', ['data' => $image]) ?>
                                             </a>
                                         </div>
                                     </div>

@@ -8,7 +8,6 @@ return [
     ##
     # INCLUDES
     ##
-    'hooks' => require 'hooks.php',
     'routes' => require 'routes.php',
     'thumbs' => require_once 'thumbs.php',
     'bnomei.janitor.jobs' => require_once 'jobs.php',

@@ -8,7 +8,7 @@ Text:
 > Es gab nur noch Mos Stimme und die Bilder, die sich aus den Buchstaben formten wie ein Teppich auf dem Webstuhl [...] Was hätte er ihr alles ins Zimmer zaubern können mit seiner Stimme, die jedem Wort einen anderen Geschmack gab und jedem Satz eine Melodie! [...]
 >
 > Alle schwiegen. Kein Laut war zu hören außer Mos Stimme, die Buchstaben und Wörter zum Leben erweckte.
-> <cite>— "Tintenherz" von Cornelia Funke</cite>
+> <footer>"Tintenherz" von Cornelia Funke</footer>
 
 ----
 
@@ -18,7 +18,7 @@ Blocks: [{"content":{"heading":"Eine Reise f\u00fcr die Sinne","show_columns":"f
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -60,7 +60,7 @@ Favorites:
   age: ab 8 Jahren
   price: 12,95
   binding: CD
-- 
+-
   title: ""
   book:
     - buecher/der-raeuber-hotzenplotz-hoerbuch
@@ -85,7 +85,7 @@ Favorites:
   age: ab 5 Jahren
   price: 13,00
   binding: CD
-- 
+-
   title: Harry Potter
   book:
     - >
@@ -122,13 +122,13 @@ Favorites:
   age: ab 10 Jahren
   price: 29,95
   binding: CD
-- 
+-
   title: ""
   book:
     - buecher/krabat-hoerbuch
   text: |
     Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-    
+
     Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   hasquote: 'false'
   person: Janina B.
@@ -158,7 +158,7 @@ Favorites:
   age: ab 12 Jahren
   price: 15,00
   binding: CD
-- 
+-
   title: ""
   book:
     - >
@@ -172,7 +172,7 @@ Favorites:
     gesprochen und eignet sich so
     hervorragend als Einstieg in die Welt
     der Hörbücher / Hörspiele.
-- 
+-
   title: ""
   book:
     - buecher/die-kaenguruh-chroniken-hoerbuch
@@ -197,7 +197,7 @@ Favorites:
   age: ""
   price: 14,99
   binding: CD
-- 
+-
   title: ""
   book:
     - buecher/der-kleine-ritter-trenk-hoerbuch

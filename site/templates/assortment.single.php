@@ -51,26 +51,7 @@
                                         </span>
                                         <?php endif ?>
                                         <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal', false, true) ?>
-                                        <?php
-                                            $details = ' &middot; ' . $book->price() . ' €';
-
-                                            if ($book->age()->isNotEmpty()) {
-                                                $details = $book->age() . $details;
-                                            } else {
-                                                if ($book->isAudiobook()) {
-                                                    $details = A::join([$book->duration(), t('Minuten'), $details], ' ');
-                                                } else {
-                                                    $details = A::join([$book->pageCount(), t('Seiten'), $details], ' ');
-                                                }
-                                            }
-
-                                            snippet('download', [
-                                                'file' => $image,
-                                                'details' => $details,
-                                                'caption' => t('Zum Shop'),
-                                                'icon' => 'cart'
-                                            ])
-                                        ?>
+                                        <?php snippet('components/gradient-overlay', ['data' => $book]) ?>
                                     </a>
                                 </div>
                             </div>
@@ -82,17 +63,15 @@
                                         <?= $text ?>
                                     </div>
                                 </div>
-                                <?php if ($favorite->quote()->isNotEmpty()) : ?>
-                                <blockquote class="m-0 p-0 border-0 border-orange-medium">
-                                    <?= $favorite->quote()->kt() ?>
-                                    <?php if ($favorite->person()->isNotEmpty()) : ?>
-                                    <cite>
-                                        <?= useSVG(t('quote'), 'inline w-6 h-6 -mt-1 mr-1 text-orange-medium fill-current', 'message-filled') ?>
-                                        <span class="text-sm text-orange-medium not-italic font-normal"><?= $favorite->person()->html() ?></span>
-                                    </cite>
-                                    <?php endif ?>
-                                </blockquote>
-                                <?php endif ?>
+                                <?php
+                                    if ($favorite->quote()->isNotEmpty()) {
+                                        echo kirbytag([
+                                            'quote'  => $favorite->quote()->html(),
+                                            'author'  => $favorite->person()->html(),
+                                            'color' => 'orange',
+                                        ]);
+                                    }
+                                ?>
                             </div>
                         </div>
                     </div>

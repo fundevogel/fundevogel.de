@@ -38,21 +38,19 @@ time {
 
 blockquote {
   @apply my-6;
-  @apply pl-4;
-  @apply border-l-4;
-  @apply border-red-medium;
 }
 
 blockquote p {
   @apply italic;
 }
 
-cite {
+blockquote footer {
   @apply mt-2;
   @apply block;
-  @apply font-medium;
-  @apply text-xs;
-  @apply text-gray-dark;
+  @apply font-normal;
+  @apply not-italic;
+  @apply text-sm;
+  @apply text-red-medium;
 }
 
 hr {

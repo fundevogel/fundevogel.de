@@ -5,8 +5,7 @@ Title: Technik
 Text:
 
 ## Freiheit als Grundbedingung
-> Ein Kind, ein junger Mensch, die auf ihrem eigenen Wege irregehen, sind mir lieber als manche, die auf fremdem Wege rechtwandeln.
-> <cite>— Johann Wolfgang von Goethe</cite>
+(quote: "Ein Kind, ein junger Mensch, die auf ihrem eigenen Wege irregehen, sind mir lieber als manche, die auf fremdem Wege rechtwandeln." author: Johann Wolfgang von Goethe)
 
 Freiheit eröffnet Kindern und jungen Erwachsenen einen wichtigen Erfahrungsraum, in dem das Leben positiv als Chance, als Möglichkeit zu gestalten und sich zu beteiligen, begriffen werden kann.
 
@@ -19,8 +18,7 @@ Details:
 ## Freie Software für freie Menschen
 Digitale Freiheit ist eine kulturelle und soziale, aber auch ethische Frage. Auf unserer Webseite verwenden wir daher aus Überzeugung ausschließlich (link: https://www.gnu.org/philosophy/free-sw.de.html text: freie Software target: blank):
 
-> Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern.
-> <cite>— Richard Stallman (GNU-Projekt)</cite>
+(quote: "Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern." author: Richard Stallman (GNU-Projekt))
 
 Das *Online* wirkt sich in vielen Bereichen unseres Lebens schon heute auf das *Offline* aus, etwa "soziale" Medien auf zwischenmenschliche Beziehungen oder Online-Shopping auf das Kaufverhalten. Freie Software kann dabei demokratische Teilhabe ermöglichen, denn sie ist transparent und wird von EntwicklerInnen weltweit gemeinsam erdacht, umgesetzt und gepflegt.
 
