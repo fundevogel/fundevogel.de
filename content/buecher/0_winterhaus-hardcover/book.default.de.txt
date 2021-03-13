@@ -1,0 +1,135 @@
+Title: Winterhaus
+
+----
+
+Isbn: 978-3-7725-2891-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ben Guterson
+
+----
+
+Illustrator: Chloe Bristol
+
+----
+
+Translator: Alexandra Ernst
+
+----
+
+Publisher: Freies Geistesleben
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 408
+
+----
+
+Price: 20,00
+
+----
+
+Topics: Abenteuer, Fantasy, Rätsel, Geheimnis
+
+----
+
+Description: Elizabeth ist unglaublich gut im Spielen mit Wörtern und Rätsellösen. Aber wird das ausreichen, die codierten Botschaften zu entschlüsseln, die sie im Hotel Winterhaus erwarten? Und warum wurde sie überhaupt dorthin geschickt? Immerhin hat sie in letzter Zeit ungewöhnliche Kräfte an sich entdeckt ... Diese Geschichte hat alle Zutaten, die man sich für ein besonderes Buch mit viel Winteratmosphäre wünscht: ein zwielichtiges Paar (gefährlich?), einen netten Hotelbesitzer (nur manchmalverdächtig) mit langem Stammbaum, Riesenpuzzles und codierte Botschaften, eine sensationelle Bibliothek und ein magisches Buch, geisterhafte Erscheinungen und tolle Ausflüge in die verschneite Landschaft. Und mittendrin Elizabeth, die einen guten Freund sucht und ihre Eltern nicht kennt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001130260/63715/10002/-3/Buecher_Kinder--und-Jugend/Ben-Guterson/Winterhaus
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- winterhaus_ben-guterson.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Winterhaus
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

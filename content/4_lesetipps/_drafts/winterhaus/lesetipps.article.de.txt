@@ -1,0 +1,43 @@
+Title: Winterhaus
+
+----
+
+Text: Warum wurde Elizabeth in das Hotel Winterhaus geschickt? Sie ist unglaublich gut im Lösen von Rätseln und Spielen mit kniffligen Wörtern ist ihr Spezialgebiet. Aber wird das ausreichen, um die codierten Botschaften in Winterhaus zu lösen? Und was hat es mit den ungewöhnlichen Kräften auf sich, die sie in letzter Zeit an sich entdeckt hat? Eine mysteriöse Bibliothek, ein magisches Buch, geisterhafte Erscheinungen, ein neuer guter Freund, ein liebevoller Hotelbesitzer und mittendrin Elizabeth, die weder ihre Eltern kennt noch weiß, wieso sie in einem Abenteuer das einem riesen Puzzle gleicht steckt.
+
+----
+
+Verdict: Ein tolles rätselhaftes und magisches Buch mit Illustrationen zum Versinken an gemütlichen kalten Winterabenden.
+
+----
+
+Conclusion: 
+
+----
+
+Blocks: []
+
+----
+
+Date: 2021-03-13
+
+----
+
+Book:
+
+- buecher/winterhaus-hardcover
+
+----
+
+Isexternal: false
+
+----
+
+Isadvanced: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
