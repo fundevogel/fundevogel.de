@@ -41,7 +41,7 @@
                                                 </span>
                                                 <?php endif ?>
                                                 <?= $image->createImage('rounded-lg', 'lesetipps.article.cover-normal', false, true) ?>
-                                                <?php snippet('components/gradient-overlay', ['data' => $image]) ?>
+                                                <?php snippet('components/gradient-overlay', ['data' => $book]) ?>
                                             </a>
                                         </div>
                                     </div>
