@@ -78,7 +78,9 @@ return [
                 return false;
             }
 
-            return 'force';
+            // return 'force';
+            # Disabling CSP for now
+            return false;
         },
         # Disable security headers (see `.htaccess`)
         'headers' => [],
