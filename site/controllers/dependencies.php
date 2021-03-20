@@ -158,16 +158,19 @@ return function ($kirby, $page) {
         if ($observatoryResponse->http_code() === 200) {
             $observatoryData = $observatoryResponse->json(true);
 
-            # .. and cache data for one week (60 * 24 * 7)
-            $depsCache->set('observatory', $observatoryData, 10080);
+            # FIX: Check for key 'error' meaning no scan could be found / run
+            if (!isset($observatoryData['error'])) {
+                # .. and cache data for one week (60 * 24 * 7)
+                $depsCache->set('observatory', $observatoryData, 10080);
+            }
         }
     }
 
     # Add Observatory score
-    $source['observatory'] = [
-        'score' => $observatoryData['score'],
-        'grade' => $observatoryData['grade'],
-    ];
+    // $source['observatory'] = [
+    //     'score' => $observatoryData['score'],
+    //     'grade' => $observatoryData['grade'],
+    // ];
 
 
     # Add lines of code

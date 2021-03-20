@@ -127,18 +127,18 @@
                                 <span class="block text-sm sm:text-lg"><?= t('pro Monat') ?></span>
                             </div>
                             <?php endif ?>
+                            <?php if ($source['pagespeed'] !== '') : ?>
+                            <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
+                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $source['pagespeed'] ?>/100</span>
+                                <span class="block text-sm sm:text-lg">PageSpeed Score</span>
+                            </div>
+                            <?php endif ?>
                         </div>
                         <div class="flex mt-6 xl:mt-0">
                             <?php if ($source['observatory']['grade'] !== '') : ?>
                             <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
                                 <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= t('Note') . ' ' .  $source['observatory']['grade'] ?></span>
                                 <span class="block text-sm sm:text-lg">Mozilla Observatory</span>
-                            </div>
-                            <?php endif ?>
-                            <?php if ($source['pagespeed'] !== '') : ?>
-                            <div class="flex-1 xl:flex-none xl:mr-8 xl:text-center leading-tight">
-                                <span class="block text-lg sm:text-2xl text-orange-dark font-bold"><?= $source['pagespeed'] ?>/100</span>
-                                <span class="block text-sm sm:text-lg">PageSpeed Score</span>
                             </div>
                             <?php endif ?>
                         </div>
