@@ -1,0 +1,24 @@
+Title: Gemeinsam dem Virus die Stirn bieten
+
+----
+
+Text:
+
+In der aktuellen Situation suchen viele von uns nach Wegen, der Pandemie proaktiv zu begegnen, auch digital. Gerade die Kontaktnachverfolgung im Falle einer Infektion ist wichtig, um Infektionsketten zu ermitteln und - soweit möglich - zu unterbrechen.
+
+Für alle Kundinnen und Kunden, die hierfür auf die App "Luca" zurückgreifen, haben wir an der Eingangstür zum Fundevogel einen entsprechenden **QR-Code zum Check-In** angebracht. Wer diese Möglichkeit also ohnehin nutzt, kann dies nun auch im Fundevogel.
+
+Genießt den (noch etwas nasskalten) Frühling und bleibt gesund!
+Euer Fundevogel-Team
+
+----
+
+Subtitle-wanted: true
+
+----
+
+Subtitle: Check-In per Luca-App
+
+----
+
+Date: 2021-03-19
