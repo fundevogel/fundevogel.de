@@ -8,8 +8,8 @@ class LesetippsArticlePage extends Page {
     }
 
 
-    public function getBookCover(string $classes = '') {
-        return $this->book()->toPage()->getBookCover($classes);
+    public function getBookCover(string $classes = '', bool $noLazy = true) {
+        return $this->book()->toPage()->getBookCover($classes, $noLazy);
     }
 
 

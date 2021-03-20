@@ -15,56 +15,17 @@ Short: Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für 
 
 ----
 
-Blocks:
-
--
-  heading: Aus der Region in die Welt
-  show_columns: 'false'
-  horizontal_line: 'false'
-  text_full: |
-    ## Aus der Region in die Welt
-    Inspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St. Georg Rosen und Bücher zu verschenken, erklärte 1995 die (short: UNESCO desc: engl. 'United Nations Educational, Scientific and Cultural Organization') den 23. April zum "Welttag des Buches" - dem weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren.
-
-    Über diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von (link: https://klexikon.zum.de/wiki/William_Shakespeare text: William Shakespeare target: blank) und (link: https://klexikon.zum.de/wiki/Miguel_de_Cervantes text: Miguel de Cervantes target: blank).
-  text_left: ""
-  text_right: ""
-  _key: text
-  _uid: text_1593976589242_936
--
-  heading: Eindrücke
-  horizontal_line: 'false'
-  gallery:
-    - welttag-im-fundevogel-01.jpg
-    - welttag-im-fundevogel-02.jpg
-    - welttag-im-fundevogel-03.jpg
-  _key: gallery
-  _uid: gallery_1593976611633_1208
--
-  heading: 'Ablauf & Anmeldung'
-  show_columns: 'true'
-  horizontal_line: 'false'
-  text_full: ""
-  text_left: |
-    ### Ablauf
-    Mit viel Freude nehmen die SchülerInnen alljährlich an unserem Bücherquiz teil und stöbern begeistert durch die mit Rosen geschmückten Bücherregale. Am Ende des Besuchs kann jedes Kind sein Buch zum Welttag in Empfang nehmen.
-  text_right: |
-    ### Anmeldung
-    Jedes Jahr besuchen zahlreiche Schulklassen den Fundevogel, um auf Entdeckungsreise zu gehen - wenn ihr auch dabei sein wollt, kann euer Lehrer / eure Lehrerin uns gern eine (email: info@fundevogel.de text: E-Mail schreiben)!
-  _key: text
-  _uid: text_1593976640567_1411
--
-  info: |
-    - Auf der (link: https://welttag-des-buches.de text: offiziellen Seite target: blank) des Welttags gibt es jede Menge zu entdecken.
-    - Veranstaltungen in Freiburg und Umgebung auf den Seiten der (link: https://www.freiburg.de/pb/,Lde/594205.html text: Stadt Freiburg target: blank).
-    - Als Partner des Welttages in Deutschland ist auch die (link: https://stiftunglesen.de/aktionen/welttagdesbuches text: Stiftung Lesen target: blank) mit dabei.
-  _key: info
-  _uid: info_1593976701447_1657
+Blocks: [{"content":{"heading":"Aus der Region in die Welt","show_columns":"false","horizontal_line":"false","text_full":"## Aus der Region in die Welt\nInspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St. Georg Rosen und B\u00fccher zu verschenken, erkl\u00e4rte 1995 die (short: UNESCO desc: engl. 'United Nations Educational, Scientific and Cultural Organization') den 23. April zum \"Welttag des Buches\" - dem weltweiten Feiertag f\u00fcr das Lesen, f\u00fcr B\u00fccher und die Rechte der Autoren.\n\n\u00dcber diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von (link: https:\/\/klexikon.zum.de\/wiki\/William_Shakespeare text: William Shakespeare target: blank) und (link: https:\/\/klexikon.zum.de\/wiki\/Miguel_de_Cervantes text: Miguel de Cervantes target: blank).","text_left":"","text_right":""},"id":"a3017fb8-513b-4417-9130-9c94d0a51156","isHidden":false,"type":"text"},{"content":{"images":["welttag-im-fundevogel-01.jpg","welttag-im-fundevogel-02.jpg","welttag-im-fundevogel-03.jpg"],"heading":"","icon":""},"id":"5beb7ba5-c421-4058-a2e1-352ea1e8d5c0","isHidden":false,"type":"gallery"},{"content":{"heading":"Ablauf & Anmeldung","show_columns":"true","horizontal_line":"false","text_full":"","text_left":"### Ablauf\nMit viel Freude nehmen die Sch\u00fclerInnen allj\u00e4hrlich an unserem B\u00fccherquiz teil und st\u00f6bern begeistert durch die mit Rosen geschm\u00fcckten B\u00fccherregale. Am Ende des Besuchs kann jedes Kind sein Buch zum Welttag in Empfang nehmen.","text_right":"### Anmeldung\nJedes Jahr besuchen zahlreiche Schulklassen den Fundevogel, um auf Entdeckungsreise zu gehen - wenn ihr auch dabei sein wollt, kann euer Lehrer \/ eure Lehrerin uns gern eine (email: info@fundevogel.de text: E-Mail schreiben)!"},"id":"267e3af7-45fd-49f4-933d-f1dcd26fd95d","isHidden":false,"type":"text"},{"content":{"heading":"","info":"- Auf der (link: https:\/\/welttag-des-buches.de text: offiziellen Seite target: blank) des Welttags gibt es jede Menge zu entdecken.\n- Veranstaltungen in Freiburg und Umgebung auf den Seiten der (link: https:\/\/www.freiburg.de\/pb\/,Lde\/594205.html text: Stadt Freiburg target: blank).\n- Als Partner des Welttages in Deutschland ist auch die (link: https:\/\/stiftunglesen.de\/aktionen\/welttagdesbuches text: Stiftung Lesen target: blank) mit dabei."},"id":"128b612f-2a2e-4d33-905a-56acb490badc","isHidden":false,"type":"info"}]
 
 ----
 
 Cover:
 
 - welttag-des-buches.jpg
+
+----
+
+Previewimage: 
 
 ----
 

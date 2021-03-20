@@ -43,23 +43,6 @@ Favorites:
     Gitarrenklängen machen dieses Hörspiel
     zu einem echten Erlebnis. Mann kann den
     Mississippi fast vor sich sehen!
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-89940-559-0
-  book_cover:
-    - >
-      die-abenteuer-des-huckleberry-finn_mark-twain.jpg
-  book_title: Die Abenteuer des Huckleberry Finn
-  book_subtitle: ""
-  author: Mark Twain
-  illustrator: ""
-  translator: Sybil Gräfin Schönfeldt
-  participants: ""
-  page_count: ""
-  publisher: DHV Der HörVerlag
-  age: ab 8 Jahren
-  price: 12,95
-  binding: CD
 -
   title: ""
   book:
@@ -68,23 +51,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-7456-0164-0
-  book_cover:
-    - >
-      der-raeuber-hotzenplotz_otfried-preussler.jpg
-  book_title: Der Räuber Hotzenplotz
-  book_subtitle: ""
-  author: Otfried Preußler
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Silberfisch
-  age: ab 5 Jahren
-  price: 13,00
-  binding: CD
 -
   title: Harry Potter
   book:
@@ -105,23 +71,6 @@ Favorites:
   hasquote: 'true'
   person: Martin F.
   quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben - besser als die Kinofilme!'
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-86717-351-3
-  book_cover:
-    - >
-      harry-potter-und-der-stein-der-weisen_j-k-rowling.jpg
-  book_title: Harry Potter und der Stein der Weisen
-  book_subtitle: ""
-  author: J. K. Rowling
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: DHV Der HörVerlag
-  age: ab 10 Jahren
-  price: 29,95
-  binding: CD
 -
   title: ""
   book:
@@ -142,22 +91,6 @@ Favorites:
     Otfried Preußlers rollendes "R" und das
     Düstere und das Freundliche in seiner
     Stimme.
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-7456-0167-1
-  book_cover:
-    - krabat_otfried-preussler.jpg
-  book_title: Krabat
-  book_subtitle: ""
-  author: Otfried Preußler
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Silberfisch
-  age: ab 12 Jahren
-  price: 15,00
-  binding: CD
 -
   title: ""
   book:
@@ -180,23 +113,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-86909-108-2
-  book_cover:
-    - >
-      die-kaenguruh-chroniken_marc-uwe-kling.jpg
-  book_title: Die Känguruh-Chroniken
-  book_subtitle: ""
-  author: Marc-Uwe Kling
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Downtown
-  age: ""
-  price: 14,99
-  binding: CD
 -
   title: ""
   book:
@@ -219,22 +135,6 @@ Favorites:
   hasquote: 'true'
   person: Frieda T.
   quote: 'Durch viele verschiedene Stimmen und Dialekte wird dieses Hörbuch zum Genuss - es macht einfach Spaß, sich in die verschiedenen Sprechweisen hineinzuhören! Und jeder Charakter bekommt dadurch noch einmal mehr eine eigene Persönlichkeit.'
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-8337-1630-0
-  book_cover:
-    - der-kleine-ritter-trenk_kirsten-boie.jpg
-  book_title: Der kleine Ritter Trenk
-  book_subtitle: ""
-  author: Kirsten Boie
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: ""
-  publisher: Jumbo Neue Medien
-  age: ab 6 Jahren
-  price: 15,00
-  binding: CD
 
 ----
 

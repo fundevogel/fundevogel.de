@@ -25,7 +25,17 @@ tabs:
 
       blocks: fields/blocks
 
-      grid: fields/gallery
+      grid:
+        label:
+          de: Bildergalerie
+          en: Gallery
+        type: files
+        query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
+        layout: cards
+        image:
+          ratio: 16/9
+          cover: true
+        info: "{{ file.dimensions }} ({{ file.niceSize }})"
 
     sidebar:
       sidebar_fields:

@@ -1,0 +1,26 @@
+.taxonomy {
+  @apply mb-4;
+  @apply flex;
+  @apply flex-col;
+  @apply text-white;
+  @apply text-sm;
+}
+
+.taxonomy-icon {
+  @apply w-8;
+  @apply h-8;
+  @apply mr-2;
+  @apply text-white;
+  @apply fill-current;
+}
+
+.taxonomy-title {
+  @apply text-lg;
+  @apply text-white;
+  @apply mb-0;
+}
+
+.taxonomy-body {
+  @apply flex;
+  @apply flex-wrap;
+}

@@ -41,3 +41,16 @@
 .wave .title {
   @apply text-orange-medium;
 }
+
+/*
+ * Book wave - details
+ */
+.lesetipp-icon {
+  @apply w-10;
+  @apply h-10;
+  @apply p-2;
+  @apply text-white;
+  @apply fill-current;
+  @apply bg-orange-medium;
+  @apply rounded-full;
+}

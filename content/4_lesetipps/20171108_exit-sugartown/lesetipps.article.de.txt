@@ -36,12 +36,12 @@ Isexternal: true
 
 ----
 
+Isadvanced: false
+
+----
+
 Seotitle: 
 
 ----
 
 Seodescription: 
-
-----
-
-Isadvanced: 

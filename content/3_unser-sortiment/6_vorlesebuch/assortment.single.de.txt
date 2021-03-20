@@ -17,7 +17,7 @@ Blocks: []
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -41,24 +41,7 @@ Favorites:
     Geschichte, die Klein und Groß
     begeistert und mitfiebern lässt. Toll
     illustriert, mit viel Charme und Witz
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-522-18457-1
-  book_cover:
-    - >
-      ein-freund-wie-kein-anderer_oliver-scherz.jpg
-  book_title: Ein Freund wie kein anderer
-  book_subtitle: ""
-  author: Oliver Scherz
-  illustrator: Barbara Scholz
-  translator: ""
-  participants: ""
-  page_count: "128"
-  publisher: Thienemann Verlag
-  age: ab 6 Jahren
-  price: 14,00
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - buecher/das-kleine-gespenst-hardcover
@@ -82,26 +65,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-522-11080-8
-  book_cover:
-    - >
-      das-kleine-gespenst_otfried-preussler.jpg
-  book_title: Das kleine Gespenst
-  book_subtitle: ""
-  author: Otfried Preußler
-  illustrator: F. J. Tripp
-  translator: ""
-  participants: ""
-  page_count: "136"
-  publisher: >
-    Thienemann in der Thienemann-Esslinger
-    Verlag GmbH
-  age: ab 6 Jahren
-  price: 12,00
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - >
@@ -112,24 +76,7 @@ Favorites:
   quote: >
     Unsere Klassenlehrerin hat daraus immer
     vorgelesen. Faszination Magie.
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-522-18051-1
-  book_cover:
-    - >
-      latte-igel-und-der-wasserstein_sebastian-lybeck.jpg
-  book_title: Latte Igel und der Wasserstein
-  book_subtitle: ""
-  author: Sebastian Lybeck
-  illustrator: Daniel Napp
-  translator: ""
-  participants: ""
-  page_count: "144"
-  publisher: Thienemann
-  age: ab 6 Jahren
-  price: 15,00
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - >
@@ -153,24 +100,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-8251-7800-0
-  book_cover:
-    - >
-      das-grosse-buch-vom-kleinen-kapitaen_paul-biegel.jpg
-  book_title: Das grosse Buch vom kleinen Kapitän
-  book_subtitle: ""
-  author: Paul Biegel
-  illustrator: Carl Hollander
-  translator: Frank Berger
-  participants: ""
-  page_count: "395"
-  publisher: Urachhaus
-  age: ab 6 Jahren
-  price: 18,00
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - buecher/immer-dieser-michel-hardcover
@@ -184,23 +114,7 @@ Favorites:
     in Südschwedens Småland gehört zu den
     wundervollsten Schätzen der
     Kinderliteratur!
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-7891-2946-9
-  book_cover:
-    - immer-dieser-michel_astrid-lindgren.jpg
-  book_title: Immer dieser Michel
-  book_subtitle: ""
-  author: Astrid Lindgren
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: "360"
-  publisher: Oetinger
-  age: ab 8 Jahren
-  price: 17,00
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - >
@@ -224,24 +138,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3570175668
-  book_cover:
-    - >
-      der-kleine-drache-kokosnuss_ingo-siegner.jpg
-  book_title: Der kleine Drache Kokosnuss
-  book_subtitle: Seine ersten Abenteuer
-  author: Ingo Siegner
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: "112"
-  publisher: cbj
-  age: ab 6 Jahren
-  price: 14,99
-  binding: gebunden
-- 
+-
   title: ""
   book:
     - >

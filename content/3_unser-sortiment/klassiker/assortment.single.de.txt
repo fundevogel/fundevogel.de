@@ -6,7 +6,7 @@ Text: ## Absolute Klassiker
 
 ----
 
-Details: 
+Blocks: [{"content":{"heading":"dASDASD","icon":"camera-filled","books":[{"title":"","book":["buecher\/adresse-unbekannt-hardcover"],"text":"fsdefsdfsdfsdf"},{"title":"","book":["buecher\/am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo-hardcover"],"text":""}],"usedetails":"false","usetaxonomy":"false"},"id":"083b33b1-9fcd-4bbf-99cc-ec9a2fde4091","isHidden":false,"type":"books_new"}]
 
 ----
 
@@ -25,3 +25,7 @@ Seotitle: Klassiker
 ----
 
 Seodescription: Wir lieben Klassiker!
+
+----
+
+Details: 

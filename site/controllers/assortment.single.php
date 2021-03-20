@@ -3,7 +3,11 @@
 return function ($page) {
     $favorites = $page->favorites()->toStructure();
 
-    return compact(
-        'favorites',
-    );
+    $data = [
+        'heading' => t('Auswahl unserer Lieblinge'),
+        'icon' => 'book-closed-filled',
+        'data' => $favorites,
+    ];
+
+    return compact('favorites', 'data');
 };

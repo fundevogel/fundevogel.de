@@ -18,7 +18,7 @@ class BookPage extends Page {
     }
 
 
-    public function getBookCover(string $classes = '') {
+    public function getBookCover(string $classes = '', bool $noLazy = true) {
         $image = $this->getCover();
 
         $preset = $image->orientation() === 'portrait'
@@ -26,7 +26,7 @@ class BookPage extends Page {
             : 'lesetipps.article.cover-square'
         ;
 
-        return $image->createImage($classes, $preset);
+        return $image->createImage($classes, $preset, false, $noLazy);
     }
 
 

@@ -3,5 +3,12 @@
 return function ($page) {
     $book = $page->book()->toPage();
 
-    return compact('book');
+    $data = [
+        'data' => $page,
+        'verdict' => $page->verdict(),
+        'useTaxonomy' => true,
+        'useDetails' => true,
+    ];
+
+    return compact('book', 'data');
 };

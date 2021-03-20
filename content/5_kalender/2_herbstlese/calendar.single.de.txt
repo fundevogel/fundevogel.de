@@ -15,48 +15,7 @@ Short: Dieser Abend im Herbst hat Tradition und ist für uns immer ein besondere
 
 ----
 
-Blocks:
-
--
-  heading: 'Beispiel: Letztes Jahr'
-  show_columns: 'false'
-  horizontal_line: 'false'
-  text_full: |
-    ## Wie muss man sich das vorstellen?
-    Ein schönes Beispiel, wie ein solcher Abend ablaufen kann, war die letzte HerbstLese:
-
-    Unter dem Motto **Hurra, wir leben noch!** widmeten wir unser Rahmenprogramm den großen und kleinen Herausforderungen des Lebens - dem alljährlichen Wahnsinn des Weihnachtstrubels, der Nachricht von der (link: https://www.stuttgarter-zeitung.de/inhalt.stuttgarter-familienunternehmen-insolvenz-von-knv-schockt-die-buchbranche.138f52a1-b1ac-43d7-9c42-bab4d0aeec29.html text: Insolvenz des Großhändlers KNV target: blank), welche die Buchhandelsbranche 2019 aufrüttelte und, nicht zuletzt, der großen gesellschaftlichen Herausforderung des Klimawandels.
-
-    Ein besonderes Highlight war der Auftritt der drei jugendlichen Klimaaktivistinnen, die uns Einblicke gaben in das vielseitige Engagement der Jugendlichen für die Bekämpfung des Klimawandels. Mit einem selbstverfassten Text über die Zerstörung unseres Planeten regten sie uns zum Nachdenken an.
-  text_left: ""
-  text_right: ""
-  _key: text
-  _uid: text_1593965055512_1138
--
-  heading: Eindrücke
-  gallery:
-    - herbstlese-im-fundevogel-01.jpg
-    - herbstlese-im-fundevogel-02.jpg
-    - herbstlese-im-fundevogel-03.jpg
-    - herbstlese-im-fundevogel-04.jpg
-    - herbstlese-im-fundevogel-05.jpg
-    - herbstlese-im-fundevogel-06.jpg
-    - herbstlese-im-fundevogel-07.jpg
-  _key: gallery
-  _uid: gallery_1593965122330_1406
--
-  heading: 'Ablauf & Anmeldung'
-  show_columns: 'true'
-  horizontal_line: 'false'
-  text_full: ""
-  text_left: |
-    ### Nächster Termin
-    Aufgrund der besonderen Situation überlegen wir, ob und ggf. wie die Herbstlese dieses Jahr stattfinden kann. Wir werden Sie informieren, sobald es zur diesjährigen Veranstaltung Klarheit gibt.
-  text_right: |
-    ### Anmeldung
-    Aufgrund der begrenzten Anzahl verfügbarer Plätze bitten wir bei Interesse um vorherige Anmeldung, entweder im Laden oder jederzeit (email: info@fundevogel.de subject: Anmeldung zur HerbstLese 2020 text: per Mail) - wir freuen uns auf euch!
-  _key: text
-  _uid: text_1593965174771_1732
+Blocks: [{"content":{"heading":"Beispiel: Letztes Jahr","show_columns":"false","horizontal_line":"false","text_full":"## Wie muss man sich das vorstellen?\nEin sch\u00f6nes Beispiel, wie ein solcher Abend ablaufen kann, war die letzte HerbstLese:\n\nUnter dem Motto **Hurra, wir leben noch!** widmeten wir unser Rahmenprogramm den gro\u00dfen und kleinen Herausforderungen des Lebens - dem allj\u00e4hrlichen Wahnsinn des Weihnachtstrubels, der Nachricht von der (link: https:\/\/www.stuttgarter-zeitung.de\/inhalt.stuttgarter-familienunternehmen-insolvenz-von-knv-schockt-die-buchbranche.138f52a1-b1ac-43d7-9c42-bab4d0aeec29.html text: Insolvenz des Gro\u00dfh\u00e4ndlers KNV target: blank), welche die Buchhandelsbranche 2019 aufr\u00fcttelte und, nicht zuletzt, der gro\u00dfen gesellschaftlichen Herausforderung des Klimawandels.\n\nEin besonderes Highlight war der Auftritt der drei jugendlichen Klimaaktivistinnen, die uns Einblicke gaben in das vielseitige Engagement der Jugendlichen f\u00fcr die Bek\u00e4mpfung des Klimawandels. Mit einem selbstverfassten Text \u00fcber die Zerst\u00f6rung unseres Planeten regten sie uns zum Nachdenken an.","text_left":"","text_right":""},"id":"4329d4a3-4f2c-456a-a7a4-3de4779852d4","isHidden":false,"type":"text"},{"content":{"images":["herbstlese-im-fundevogel-01.jpg","herbstlese-im-fundevogel-02.jpg","herbstlese-im-fundevogel-03.jpg","herbstlese-im-fundevogel-04.jpg","herbstlese-im-fundevogel-05.jpg","herbstlese-im-fundevogel-06.jpg","herbstlese-im-fundevogel-07.jpg"],"heading":"","icon":""},"id":"cf5fa2f9-1e34-4700-9594-408729df550f","isHidden":false,"type":"gallery"},{"content":{"heading":"Ablauf & Anmeldung","show_columns":"true","horizontal_line":"false","text_full":"","text_left":"### N\u00e4chster Termin\nAufgrund der besonderen Situation \u00fcberlegen wir, ob und ggf. wie die Herbstlese dieses Jahr stattfinden kann. Wir werden Sie informieren, sobald es zur diesj\u00e4hrigen Veranstaltung Klarheit gibt.","text_right":"### Anmeldung\nAufgrund der begrenzten Anzahl verf\u00fcgbarer Pl\u00e4tze bitten wir bei Interesse um vorherige Anmeldung, entweder im Laden oder jederzeit (email: info@fundevogel.de subject: Anmeldung zur HerbstLese 2020 text: per Mail) - wir freuen uns auf euch!"},"id":"a1fcc945-fef0-4611-b66d-f4a0f23a03a7","isHidden":false,"type":"text"}]
 
 ----
 
@@ -72,7 +31,7 @@ Previewimage:
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 

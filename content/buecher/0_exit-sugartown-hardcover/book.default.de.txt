@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Martin Petersen
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

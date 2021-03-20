@@ -9,17 +9,7 @@
 <?php if ($page->isAdvanced()->bool()) : ?>
 <?= $page->blocks()->toBlocks() ?>
 <?php else : ?>
-<aside class="wave">
-    <?= useSeparator('orange-light', 'top') ?>
-    <div class="pt-4 pb-8 bg-orange-light">
-        <div class="flex pt-8">
-            <?php
-                $data = $page->verdict();
-                snippet('components/book-preview', compact('data', 'book')) ?>
-        </div>
-    </div>
-    <?= useSeparator('orange-light', 'bottom') ?>
-</aside>
+<?php snippet('components/book-wave', $data) ?>
 <?php if ($page->conclusion()->isNotEmpty()) : ?>
 <section class="container">
     <?= $page->conclusion()->kt() ?>

@@ -34,23 +34,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-407-75471-4
-  book_cover:
-    - >
-      ein-riese-warf-einen-stein_josef-guggenmos-sabine-kranz.jpg
-  book_title: Ein Riese warf einen Stein
-  book_subtitle: ""
-  author: Josef Guggenmos
-  illustrator: Sabine Kranz
-  translator: ""
-  participants: ""
-  page_count: "30"
-  publisher: Beltz
-  age: ab 4 Jahren
-  price: 12,95
-  binding: gebunden
 -
   title: ""
   book:
@@ -60,25 +43,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-570-15974-3
-  book_cover:
-    - >
-      ich-liebe-dich-wie-apfelmus_amelie-fried.jpg
-  book_title: Ich liebe dich wie Apfelmus
-  book_subtitle: >
-    Die schönsten Gedichte für Kleine und
-    Große
-  author: Amelie Fried
-  illustrator: Sybille Hein
-  translator: ""
-  participants: ""
-  page_count: "144"
-  publisher: cbj
-  age: ab 6 Jahren
-  price: 19,99
-  binding: Halbleinen
 -
   title: ""
   book:
@@ -88,25 +52,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-446-26055-9
-  book_cover:
-    - >
-      am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo_franz-hohler.jpg
-  book_title: >
-    Am liebsten aß der Hamster Hugo
-    Spaghetti mit Tomatensugo
-  book_subtitle: Tiergedichte
-  author: Franz Hohler
-  illustrator: Kathrin Schärer
-  translator: ""
-  participants: ""
-  page_count: "64"
-  publisher: Hanser
-  age: ab 5 Jahren
-  price: 14,00
-  binding: gebunden
 -
   title: ""
   book:
@@ -116,23 +61,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-8369-4285-0
-  book_cover:
-    - >
-      dunkel-war-s-der-mond-schien-helle_edmund-jacoby.jpg
-  book_title: "Dunkel war's, der Mond schien helle"
-  book_subtitle: Verse, Reime und Gedichte
-  author: Edmund Jacoby
-  illustrator: Rotraut Susanne Berner
-  translator: ""
-  participants: ""
-  page_count: "152"
-  publisher: Gerstenberg Verlag
-  age: ab 4 Jahren
-  price: 24,00
-  binding: Halbleinen
 -
   title: ""
   book:
@@ -149,23 +77,6 @@ Favorites:
     Nimm sie zu dir nach Haus!
     Und was machen die Wörter dann bei mir?
     Die Wörter, sie spielen, sie spielen mit dir!
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-407-79986-9
-  book_cover:
-    - >
-      wo-kommen-die-worte-her_hans-joachim-gelberg.jpg
-  book_title: Wo kommen die Worte her
-  book_subtitle: Neue Gedichte für Kinder und Erwachsene
-  author: Hans-Joachim Gelberg
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: "262"
-  publisher: Beltz
-  age: ab 3 Jahren
-  price: 24,95
-  binding: Halbleinen
 -
   title: ""
   book:
@@ -180,23 +91,6 @@ Favorites:
     Ja, das ist möglich. Inspiration
     gibt’s in diesem Buch, und zwar zum
     Immer-wieder-Lesen.
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-7913-7103-0
-  book_cover:
-    - >
-      mal-deine-wuensche-in-den-himmel_christine-knoedler.jpg
-  book_title: Mal deine Wünsche in den Himmel
-  book_subtitle: Kunst und Gedichte
-  author: Christine Knödler
-  illustrator: ""
-  translator: ""
-  participants: ""
-  page_count: "160"
-  publisher: Prestel
-  age: ab 6 Jahren
-  price: 19,99
-  binding: gebunden
 
 ----
 

@@ -17,7 +17,7 @@ Blocks: []
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -26,7 +26,7 @@ Favorites:
   hasquote: 'true'
   person: Julia F.
   quote: 'Ein geniales Sachbuch - mal über ein ganz anderes Thema! Spannend, informativ und super witzig zugleich!'
-- 
+-
   title: ""
   book:
     - buecher/bienen-hardcover
@@ -50,24 +50,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-8369-5915-5
-  book_cover:
-    - bienen_piotr-socha.jpg
-  book_title: Bienen
-  book_subtitle: ""
-  author: Piotr Socha
-  illustrator: Wojciech Grajkowski
-  translator: Thomas Weiler
-  participants: ""
-  page_count: "80"
-  publisher: Gerstenberg Verlag
-  age: ab 5 Jahren
-  price: 24,95
-  binding: gebunden
-  delimiter: null
-- 
+-
   title: ""
   book:
     - buecher/warum-gibt-es-uns-hardcover
@@ -79,26 +62,7 @@ Favorites:
     naturwissenschaftliches Fachwissen vom
     Urknall über die Entstehung des Lebens
     mit schönen Illustrationen!
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-407-75468-4
-  book_cover:
-    - warum-gibt-es-uns_johan-olsen.jpg
-  book_title: Warum gibt es uns?
-  book_subtitle: >
-    Die Entwicklung des Lebens vom Urknall
-    bis zu dir
-  author: Johan Olsen
-  illustrator: Lara Paulussen
-  translator: ""
-  participants: ""
-  page_count: "138"
-  publisher: Beltz
-  age: ab 8 Jahren
-  price: 16,95
-  binding: gebunden
-  delimiter: null
-- 
+-
   title: ""
   book:
     - >
@@ -119,25 +83,7 @@ Favorites:
   hasquote: 'true'
   person: Julia F.
   quote: 'Die Wahrheit steckt im Titel - ohne Wasser geht nichts. Ein super interessantes, lehrreiches und vielfältiges Buch über die wohl wichtigste Ressource der Welt. Toll illustriert!'
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-89565-217-2
-  book_cover:
-    - >
-      treppe-fenster-klo_aleksandra-machowiak-daniel-mizielinski.jpg
-  book_title: Treppe, Fenster, Klo
-  book_subtitle: Die ungewöhnlichsten Häuser der Welt
-  author: Aleksandra Machowiak; Daniel Mizielinski
-  illustrator: ""
-  translator: Dorota Stroinska
-  participants: ""
-  page_count: "155"
-  publisher: Moritz
-  age: ab 7 Jahren
-  price: 19,95
-  binding: gebunden
-  delimiter: null
-- 
+-
   title: ""
   book:
     - buecher/alle-welt-hardcover
@@ -145,27 +91,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-89565-370-4
-  book_cover:
-    - >
-      alle-welt_aleksandra-mizielinska-daniel-mizielinski.jpg
-  book_title: Alle Welt
-  book_subtitle: Das Landkartenbuch
-  author: >
-    Aleksandra Mizielinska; Daniel
-    Mizielinski
-  illustrator: ""
-  translator: Thomas Weiler
-  participants: ""
-  page_count: "152"
-  publisher: Moritz
-  age: ab 6 Jahren
-  price: 34,00
-  binding: gebunden
-  delimiter: null
-- 
+-
   title: ""
   book:
     - >
@@ -188,27 +114,7 @@ Favorites:
   hasquote: 'true'
   person: Martin F.
   quote: 'Aktuell wie nie: Nachhaltigkeit und Umweltschutz, kindgerecht erläutert von einem, der sich auskennt.'
-  isseries: 'false'
-  more_options: 'true'
-  isbn: 978-3-7891-0822-8
-  book_cover:
-    - >
-      hoerst-du-wie-die-baeume-sprechen_peter-wohlleben.jpg
-  book_title: Hörst du, wie die Bäume sprechen?
-  book_subtitle: >
-    Eine kleine Entdeckungsreise durch den
-    Wald
-  author: Peter Wohlleben
-  illustrator: Stefanie Reich; Dagmar Herrmann
-  translator: ""
-  participants: ""
-  page_count: "128"
-  publisher: Oetinger
-  age: ab 6 Jahren
-  price: 18,00
-  binding: gebunden
-  delimiter: null
-- 
+-
   title: ""
   book:
     - >
@@ -217,24 +123,6 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-  isseries: 'true'
-  more_options: 'true'
-  isbn: 978-3-8369-6029-8
-  book_cover:
-    - >
-      blauwal-seestern-oktopus_virginie-aladjidi.jpg
-  book_title: Blauwal, Seestern, Oktopus
-  book_subtitle: Die Welt der Meere
-  author: Virginie Aladjidi
-  illustrator: Emmanuelle Tchoukriel
-  translator: Cornelia Panzacchi
-  participants: ""
-  page_count: "72"
-  publisher: Gerstenberg Verlag
-  age: ab 5 Jahren
-  price: 15,00
-  binding: gebunden
-  delimiter: null
 
 ----
 

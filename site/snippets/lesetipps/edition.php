@@ -10,5 +10,5 @@
         <figcaption class="small-caption is-pdf"><?= $caption ?></figcaption>
         <?php endif ?>
     </figure>
-    <?php snippet('components/gradient-overlay', ['data' => $edition]) ?>
+    <?php snippet('components/shared/gradient-overlay', ['data' => $edition]) ?>
 </a>
