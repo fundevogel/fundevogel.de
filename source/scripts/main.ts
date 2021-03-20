@@ -53,6 +53,7 @@ class App {
         ];
 
         this.hasMasonry = [
+            'news',
             'about.team',
             'assortment',
             'assortment.single',
@@ -138,6 +139,7 @@ class App {
 
                         // Add lightbox listener to ajax'd images
                         runLightbox(page);
+                        runMasonry(page, template);
                     });
                 }
 

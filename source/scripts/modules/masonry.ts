@@ -25,6 +25,14 @@ const getPreset = (element: HTMLElement, template: string) => {
     }
 
     const presets: Record<string, any> = {
+        'news': {
+            columns: 3,
+            margin: 12,
+            breakAt: {
+                639: 1,
+                1023: 2,
+            },
+        },
         'about.team': {
             breakAt: {
                 639: 1,
