@@ -36,8 +36,8 @@
     </div>
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
-<?php if ($page->blocks()->isNotEmpty()) : ?>
-<?= $page->blocks()->toBlocks() ?>
+<?php if ($page->layouts()->isNotEmpty()) : ?>
+<?php snippet('layouts', compact('layouts')) ?>
 <hr>
 <?php endif ?><?php if ($grid) : ?>
 <section>
