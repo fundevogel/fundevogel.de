@@ -10,9 +10,9 @@
         </div>
     </div>
 </header>
-<?php if ($page->blocks()->isNotEmpty()) : ?>
+<?php if ($page->layouts()->isNotEmpty()) : ?>
 <hr>
-<?= $page->blocks()->toBlocks() ?>
+<?php snippet('layouts', compact('layouts')) ?>
 <?php endif ?>
 <?php if ($favorites->isNotEmpty()) : ?>
 <?php snippet('components/book-wave', $data) ?>
