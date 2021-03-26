@@ -1,6 +1,8 @@
 <?php
 
 return function ($page) {
+    $layouts = $page->layouts()->toLayouts();
+
     $allTopics = page('buecher')
         ->children()
         ->pluck('topics', ',')
@@ -16,7 +18,5 @@ return function ($page) {
         $topics[$firstCharacter][] = [$topic, $count];
     }
 
-    return compact(
-        'topics',
-    );
+    return compact('layouts', 'topics');
 };

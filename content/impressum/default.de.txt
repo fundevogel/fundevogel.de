@@ -2,51 +2,11 @@ Title: Impressum
 
 ----
 
-Blocks:
-
--
-  heading: Impressum
-  show_columns: 'true'
-  horizontal_line: 'false'
-  text_full: ""
-  text_left: |
-    ## Fundevogel
-    **Kinder- und Jugendbuchhandlung**
-    Marienstr. 13
-    79098 Freiburg i. Br.
-
-    Telefon: 0761 / 25218
-    Telefax: 0761 / 30041
-    E-Mail: info@fundevogel.de
-
-    **Inhaber**
-    Claus-Peter Jepsen
-
-    **Über diese Webseite:**
-    - Für Konzeption, Gestaltung & Umsetzung unserer Webseite danken wir (link: https://twobrain.io text: Martin Folkers target: blank).
-    - Weitere (technische) Informationen zu unserer Webseite sowie Bildquellen findet ihr (link: technisches text: hier).
-  text_right: |
-    **Bankverbindung:**
-    Volksbank Freiburg: BLZ 680 900 00
-    Kontonummer: 7240708
-
-    Für Zahlungen aus dem Ausland:
-    IBAN DE 266 809 0000000 7240708
-    Volksbank Freiburg
-    BIC GENO DE 61 FR 1
-
-    Handelsregisternummer: Nicht benötigt
-    Umsatzsteuer-ID: DE 142035994
-    Steuernummer: 06112/49132 - FA Freiburg-Stadt
-
-    **Haftungshinweis:**
-    Für Formen und Inhalte externer Links übernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber dafür verantwortlich sind.
-  _key: text
-  _uid: text_1594104972128_186
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Fundevogel"},"id":"2a7b28a9-552c-47e0-9e1a-842da79f3f51","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Kinder- und Jugendbuchhandlung<\/strong><br>Marienstr. 13<br>79098 Freiburg i. Br.<\/p><p>Telefon: 0761 \/ 25218<br>Telefax: 0761 \/ 30041<br>E-Mail: info@fundevogel.de<\/p><p><strong>Inhaber<\/strong><br>Claus-Peter Jepsen<\/p><p><strong>\u00dcber diese Webseite:<\/strong><\/p>"},"id":"7285a474-55d9-4b1f-bde1-b0726897b31f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>F\u00fcr Konzeption, Gestaltung &amp; Umsetzung unserer Webseite danken wir <a href=\"https:\/\/twobrain.io\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Martin Folkers<\/a>.<\/li><li>Weitere (technische) Informationen zu unserer Webseite sowie Bildquellen findet ihr <a href=\"https:\/\/fundevogel.de\/technisches\" rel=\"noopener noreferrer nofollow\">hier<\/a>.<\/li><\/ul>"},"id":"6beecc78-5d7f-469f-b8c5-c9f490eb408b","isHidden":false,"type":"list"}],"id":"b012d8ff-da26-4434-890a-2b6e081b7d83","width":"1\/2"},{"blocks":[{"content":{"text":"<p><strong>Bankverbindung:<\/strong><br>Volksbank Freiburg: BLZ 680&nbsp;900&nbsp;00<br>Kontonummer: 7240708<\/p><p>F\u00fcr Zahlungen aus dem Ausland:<br>IBAN DE 266&nbsp;809&nbsp;0000000&nbsp;7240708<br>Volksbank Freiburg<br>BIC GENO DE 61 FR 1<\/p><p>Handelsregisternummer: Nicht ben\u00f6tigt<br>Umsatzsteuer-ID: DE 142035994<br>Steuernummer: 06112\/49132 - FA Freiburg-Stadt<\/p><p><strong>Haftungshinweis:<\/strong><br>F\u00fcr Formen und Inhalte externer Links \u00fcbernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber daf\u00fcr verantwortlich sind.<\/p>"},"id":"73f2166e-2c1d-4544-94e6-87e25af43640","isHidden":false,"type":"text"}],"id":"5a2e3f65-65b3-4962-8293-da7a91490d06","width":"1\/2"}],"id":"9ceee18d-5c28-4a6f-b8c5-f38141ce1b06"}]
 
 ----
 
-Date: 2020-07-07
+Date: 2021-03-24
 
 ----
 
