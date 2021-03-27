@@ -14,6 +14,10 @@ Subtitle:
 
 ----
 
+Type: Taschenbuch
+
+----
+
 Author: David Safier
 
 ----
@@ -133,7 +137,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Taschenbuch
