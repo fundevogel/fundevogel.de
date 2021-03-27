@@ -9,6 +9,10 @@ a {
   transition: all theme('transitionDuration.250') theme('transitionTimingFunction.in');
 }
 
+article section + section {
+  @apply mt-16;
+}
+
 article h2,
 article h3,
 article h4,
@@ -54,7 +58,7 @@ blockquote footer {
 }
 
 hr {
-  @apply max-w-xs;
+  @apply max-w-lg;
   @apply h-6;
   @apply my-16;
   @apply mx-auto;
@@ -63,18 +67,6 @@ hr {
   @apply text-red-medium;
   @apply text-center;
   @apply border-0;
-}
-
-@screen sm {
-  hr {
-    @apply max-w-md;
-  }
-}
-
-@screen md {
-  hr {
-    @apply max-w-lg;
-  }
 }
 
 hr::before {
