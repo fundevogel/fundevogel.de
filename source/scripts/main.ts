@@ -50,6 +50,7 @@ class App {
             'news',
             'assortment.single',
             'lesetipps.article',
+            'calendar.single',
         ];
 
         this.hasMasonry = [

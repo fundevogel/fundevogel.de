@@ -11,8 +11,8 @@
     </div>
 </header>
 <hr>
-<?php if ($page->blocks()->isNotEmpty()) : ?>
-<?= $page->blocks()->toBlocks() ?>
+<?php if ($page->layouts()->isNotEmpty()) : ?>
+<?php snippet('layouts', compact('layouts')) ?>
 <hr class="max-w-sm">
 <?php endif ?>
 <section class="container leading-relaxed">

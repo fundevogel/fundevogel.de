@@ -8,7 +8,7 @@ tabs:
     fields:
       text: false
 
-      blocks: fields/blocks
+      layouts: fields/layouts
 
     sidebar:
       sidebar_fields:

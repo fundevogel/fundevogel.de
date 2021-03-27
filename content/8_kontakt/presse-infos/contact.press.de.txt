@@ -34,38 +34,7 @@ Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer
 
 ----
 
-Blocks:
-
--
-  heading: Gegenwart
-  show_columns: 'false'
-  horizontal_line: 'true'
-  text_full: |
-    ### Bücher öffnen Welten - Welten öffnen dich
-    Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Leseförderung mit vielfältigen Angeboten und Aktionen für Kindergärten und Schulen, anlässlich der Feierlichkeiten zum (link: kalender/welttag-des-buches text: Welttag des Buches) oder als (link: netzwerk text: Kooperationspartner) des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts "Fußball und Lesen".
-
-    Daneben veranstaltet der Fundevogel regelmäßig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkräftig an Planung und Durchführung des "(link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefestes)" der Stadt Freiburg, einem jährlich im Oktober stattfindenden Kinderliteraturfestival.
-
-    Ein besonderes Ereignis bildet die "(link: kalender/herbstlese text: HerbstLese)": in gemütlicher Atmosphäre stellen die MitarbeiterInnen der Buchhandlung ihre ganz persönlichen Lieblingsbücher aus der Flut herbstlicher Neuerscheinungen vor.
-  text_left: ""
-  text_right: ""
-  _key: text
-  _uid: text_1598944863065_231
--
-  heading: Zukunft
-  show_columns: 'false'
-  horizontal_line: 'false'
-  text_full: |
-    ### Gemeinsam in die Zukunft
-    Zusammen mit seinen Kundinnen und Kunden, FreundInnen und Förderern soll der Fundevogel als Genossenschaft fortgeführt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:
-
-    Der besondere Geist des Ladens soll auch für zukünftige Generationen erhalten bleiben, während die digitale Transformation des Buchmarktes fortwährend neue Herausforderungen hervorbringt.
-
-    **Einer für alle und alle für einen** - wir freuen uns darauf!
-  text_left: ""
-  text_right: ""
-  _key: text
-  _uid: text_1598944887019_231
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"B\u00fccher \u00f6ffnen Welten - Welten \u00f6ffnen dich"},"id":"653ac68e-8498-474b-a922-b695a31df11f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Lesef\u00f6rderung mit vielf\u00e4ltigen Angeboten und Aktionen f\u00fcr Kinderg\u00e4rten und Schulen, anl\u00e4sslich der Feierlichkeiten zum <a href=\"https:\/\/fundevogel.de\/kalender\/welttag-des-buches\" rel=\"noopener noreferrer nofollow\">Welttag des Buches<\/a> oder als <a href=\"https:\/\/fundevogel.de\/netzwerk\" rel=\"noopener noreferrer nofollow\">Kooperationspartner<\/a> des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts \u201cFu\u00dfball und Lesen\u201d.<\/p><p>Daneben veranstaltet der Fundevogel regelm\u00e4\u00dfig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkr\u00e4ftig an Planung und Durchf\u00fchrung des \u201c<a href=\"https:\/\/fundevogel.de\/kalender\/lirum-larum-lesefest\" rel=\"noopener noreferrer nofollow\">Lirum Larum Lesefestes<\/a>\u201d der Stadt Freiburg, einem j\u00e4hrlich im Oktober stattfindenden Kinderliteraturfestival.<\/p><p>Ein besonderes Ereignis bildet die \"<a href=\"https:\/\/fundevogel.de\/kalender\/herbstlese\" rel=\"noopener noreferrer nofollow\">HerbstLese<\/a>\": in gem\u00fctlicher Atmosph\u00e4re stellen die MitarbeiterInnen der Buchhandlung ihre ganz pers\u00f6nlichen Lieblingsb\u00fccher aus der Flut herbstlicher Neuerscheinungen vor.<\/p>"},"id":"99900931-4305-4e76-973d-84fa74c0ffc6","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"17bdc3f0-8890-4c69-bbe9-dd4d354719aa","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Gemeinsam in die Zukunft"},"id":"3a82c5d3-f467-426a-90c8-33d2078a00ab","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zusammen mit seinen Kundinnen und Kunden, FreundInnen und F\u00f6rderern soll der Fundevogel als Genossenschaft fortgef\u00fchrt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:<\/p><p>Der besondere Geist des Ladens soll auch f\u00fcr zuk\u00fcnftige Generationen erhalten bleiben, w\u00e4hrend die digitale Transformation des Buchmarktes fortw\u00e4hrend neue Herausforderungen hervorbringt.<\/p><p><strong>Einer f\u00fcr alle und alle f\u00fcr einen<\/strong> - wir freuen uns darauf!<\/p>"},"id":"b683b6cf-1e79-4b30-8bbe-2746dda098c0","isHidden":false,"type":"text"}],"id":"dfd305b3-a57d-475a-92a5-d2fbcf13fdd1","width":"1\/1"}],"id":"16833d52-1088-4531-a142-ab342f37f595"}]
 
 ----
 

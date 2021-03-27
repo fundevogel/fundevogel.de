@@ -6,27 +6,19 @@ Text:
 
 Derzeit gibt es so etwas wie einen Trend im Bereich der Jugendbücher: Geschichten, die einem unter die Haut gehen, nicht weil etwa die Handlung so spannend wäre, sondern sie tritt in den Hintergrund und gibt vielmehr die dramatische Kulisse ab, auf der sich ganz gegenwärtig zentrale Fragen an den Leser stellen:
 
-Wie willst Du eigentlich leben? Was und wer ist Dir in Deinem leben wichtig?
-
-In **we all looked up** rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
-
-Vordergründig handelt **28 Tage lang** vom historischen Aufstand und dem Widerstand im Warschauer Ghetto. Dahinter verbergen sich jedoch grundsätzliche Fragen, nach welchen Werten wir denn gedenken, unser Leben auszurichten.
-
-**Jenseits der blauen Grenze** schildert sehr anschaulich die Flucht zweier Menschen aus der DDR über die Ostsee. 50 Kilometer Wasser trennen die beiden von der Freiheit. Und auf jeder Seite stellt sich dem Leser die Frage nach einem selbstbestimmten Leben.
-
-Hinzu kommt, dass man in allen Büchern Zeilen und Stellen findet, die man am liebsten in Stein meißeln möchte. Wie die Sätze in dem Buch "we all looked up": "Die besten Bücher handeln nicht von Dingen,über die du noch nie nachgedacht hast. Sie handeln von Dingen, über die du schon immer nachgedacht hast, bei denen du aber meintest, keiner sonst würde sich über sie Gedanken machen. Du liest sie und plötzlich bist du ein kleines bisschen weniger allein auf der Welt."
+*Wie willst Du eigentlich leben? Was und wer ist Dir in Deinem leben wichtig?*
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
-Conclusion: 
+Conclusion:
 
 ----
 
-Blocks: []
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"heading":"","icon":"","books":[{"title":"","book":["buecher\/we-all-looked-up-taschenbuch"],"text":"In **we all looked up** rast ein gro\u00dfer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche m\u00fcssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit f\u00fcr Dein Leben bleiben? Was w\u00fcrdest Du tun? Wie w\u00fcrdest du handeln?"},{"title":"","book":["buecher\/28-tage-lang-taschenbuch"],"text":"Vordergr\u00fcndig handelt **28 Tage lang** vom historischen Aufstand und dem Widerstand im Warschauer Ghetto. Dahinter verbergen sich jedoch grunds\u00e4tzliche Fragen, nach welchen Werten wir denn gedenken, unser Leben auszurichten."},{"title":"","book":["buecher\/jenseits-der-blauen-grenze-hardcover"],"text":"**Jenseits der blauen Grenze** schildert sehr anschaulich die Flucht zweier Menschen aus der DDR \u00fcber die Ostsee. 50 Kilometer Wasser trennen die beiden von der Freiheit. Und auf jeder Seite stellt sich dem Leser die Frage nach einem selbstbestimmten Leben."}],"usedetails":"true","usetaxonomy":"true"},"id":"8485b1fe-181e-4cb2-abcb-aa08335ef72a","isHidden":false,"type":"books"},{"content":{"text":"<p>Hinzu kommt, dass man in allen B\u00fcchern Zeilen und Stellen findet, die man am liebsten in Stein mei\u00dfeln m\u00f6chte. Wie die S\u00e4tze in dem Buch \"we all looked up\": \"Die besten B\u00fccher handeln nicht von Dingen,\u00fcber die du noch nie nachgedacht hast. Sie handeln von Dingen, \u00fcber die du schon immer nachgedacht hast, bei denen du aber meintest, keiner sonst w\u00fcrde sich \u00fcber sie Gedanken machen. Du liest sie und pl\u00f6tzlich bist du ein kleines bisschen weniger allein auf der Welt.\"<\/p>"},"id":"2ed265b8-54c4-4129-b55a-a6a68ef62e93","isHidden":false,"type":"text"}],"id":"e0e629d1-72a9-4ca4-ac66-caae927dbb86","width":"1\/1"}],"id":"c4d660a5-c28e-43fe-9d58-92814892c090"}]
 
 ----
 

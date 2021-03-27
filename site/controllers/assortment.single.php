@@ -1,6 +1,8 @@
 <?php
 
 return function ($page) {
+    $layouts = $page->layouts()->toLayouts();
+
     $favorites = $page->favorites()->toStructure();
 
     $data = [
@@ -9,5 +11,5 @@ return function ($page) {
         'data' => $favorites,
     ];
 
-    return compact('favorites', 'data');
+    return compact('layouts', 'favorites', 'data');
 };

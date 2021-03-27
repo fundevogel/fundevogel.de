@@ -5,6 +5,12 @@ require_once __DIR__ . '/functions.php';
 
 # Kirby plugins
 Kirby::plugin('fundevogel/methods', [
+    # Blueprints
+    'blueprints' => [
+        'blocks/books' => __DIR__ . '/blueprints/books.yml',
+        'blocks/hr'    => __DIR__ . '/blueprints/hr.yml',
+    ],
+
     # Hooks
     'hooks'        => require_once __DIR__ . '/hooks.php',
 
@@ -18,6 +24,8 @@ Kirby::plugin('fundevogel/methods', [
 
     # Templates
     'snippets' => [
-        'webPicture' => __DIR__ . '/snippets/webPicture.php',
+        'blocks/books'  => __DIR__ . '/snippets/books.php',
+        'blocks/hr'     => __DIR__ . '/snippets/hr.php',
+        'webPicture'    => __DIR__ . '/snippets/webPicture.php',
     ],
 ]);

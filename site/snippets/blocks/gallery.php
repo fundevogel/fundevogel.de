@@ -6,6 +6,6 @@
             'images' => $block->images()->toFiles(),
         ];
 
-        snippet('components/image-gallery', $data);
+        snippet('components/gallery', $data);
     }
 ?>

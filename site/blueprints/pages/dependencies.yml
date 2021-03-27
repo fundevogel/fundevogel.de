@@ -15,7 +15,7 @@ tabs:
           label: Details
           type: markdown
 
-        blocks: fields/blocks
+        layouts: fields/layouts
 
     sidebar:
       sidebar_fields:

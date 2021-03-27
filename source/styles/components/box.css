@@ -1,0 +1,9 @@
+.box h2,
+.box h3,
+.box h4,
+.box h5,
+.box h6 {
+  @apply mb-4;
+  @apply underline;
+  @apply text-orange-medium;
+}

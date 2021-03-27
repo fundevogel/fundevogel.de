@@ -1,6 +1,8 @@
 <?php
 
 return function ($page) {
+    $layouts = $page->layouts()->toLayouts();
+
     $book = $page->book()->toPage();
 
     $data = [
@@ -10,5 +12,5 @@ return function ($page) {
         'useDetails' => true,
     ];
 
-    return compact('book', 'data');
+    return compact('layouts', 'book', 'data');
 };

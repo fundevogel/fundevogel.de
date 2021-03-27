@@ -3,16 +3,6 @@
   @apply overflow-hidden;
 }
 
-.wave .content a {
-  @apply text-orange-medium;
-}
-
-.wave .content a:active,
-.wave .content a:focus,
-.wave .content a:hover {
-  @apply text-orange-dark;
-}
-
 .wave .inner {
   @apply py-12;
   @apply bg-orange-light;
@@ -41,6 +31,25 @@
 .wave .title {
   @apply text-orange-medium;
 }
+
+.wave h2,
+.wave h3,
+.wave h4:not('taxonomy-title'),
+.wave h5,
+.wave h6 {
+  @apply text-orange-medium;
+}
+
+.wave .content a {
+  @apply text-orange-medium;
+}
+
+.wave .content a:active,
+.wave .content a:focus,
+.wave .content a:hover {
+  @apply text-orange-dark;
+}
+
 
 /*
  * Book wave - details

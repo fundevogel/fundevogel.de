@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
 
-<?= $page->blocks()->toBlocks() ?>
+<?php snippet('layouts', ['layouts' => $page->layouts()->toLayouts()]) ?>
 
 <?php snippet('footer') ?>
