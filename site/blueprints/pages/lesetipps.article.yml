@@ -31,8 +31,8 @@ tabs:
         when:
           isAdvanced: false
 
-      blocks:
-        extends: fields/blocks
+      layouts:
+        extends: fields/layouts
         when:
           isAdvanced: true
 

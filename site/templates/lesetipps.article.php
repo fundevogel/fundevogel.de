@@ -7,7 +7,7 @@
     <?= $page->text()->kt() ?>
 </header>
 <?php if ($page->isAdvanced()->bool()) : ?>
-<?= $page->blocks()->toBlocks() ?>
+<?php snippet('layouts', compact('layouts')) ?>
 <?php else : ?>
 <?php snippet('components/book-wave', $data) ?>
 <?php if ($page->conclusion()->isNotEmpty()) : ?>
