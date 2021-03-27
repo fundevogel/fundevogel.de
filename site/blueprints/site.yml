@@ -68,6 +68,8 @@ tabs:
               - assortment
               - grid-list
               - contact
+              - default
+              - dependencies
 
           sort_out:
             type: fields
