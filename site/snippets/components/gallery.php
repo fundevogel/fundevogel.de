@@ -13,7 +13,9 @@
         $heading = $heading->html();
     }
 
-    $heading = $heading != '' ? $heading : t('Eindrücke');
+    if ($heading !== false) {
+        $heading = $heading != '' ? $heading : t('Eindrücke');
+    }
 
     if (!isset($icon)) {
         $icon = '';
@@ -28,7 +30,7 @@
 <aside class="wave">
     <?= useSeparator('orange-light', 'top-reversed') ?>
     <div class="inner">
-        <?php if ($heading === false) : ?>
+        <?php if ($heading != false) : ?>
         <div class="text-center">
             <?= useSVG($heading, 'title-icon', $icon) ?>
         </div>

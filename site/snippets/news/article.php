@@ -26,6 +26,6 @@
 <?php
     if ($hasGallery) {
         $heading = false;
-        snippet('components/image-gallery', compact('heading', 'images'));
+        snippet('components/gallery', compact('heading', 'images'));
     }
 ?>
