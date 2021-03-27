@@ -1,0 +1,14 @@
+name:
+  de: Horizontale Linie
+  en: Horizontal line
+icon: dots
+fields:
+  size:
+    label:
+      de: Größe
+      en: Size
+    type: select
+    default: lg
+    options:
+      lg: Groß
+      sm: Klein
