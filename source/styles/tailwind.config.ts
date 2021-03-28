@@ -21,6 +21,11 @@ module.exports = {
           '-mb-px',
           // Text style used for `contact.press` quote
           'underline',
+          // Layout field
+          'md:w-1/2',
+          'md:w-1/3',
+          'md:w-2/3',
+          'md:w-1/4',
         ],
       }
     },

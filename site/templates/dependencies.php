@@ -21,7 +21,7 @@
             <div class="text-center">
                 <?= useSVG('', 'title-icon', 'heart-filled') ?>
             </div>
-            <h2 class="title"><?= t('Dankeschön') ?>!</h2>
+            <h2 class="title text-orange-medium"><?= t('Dankeschön') ?>!</h2>
             <?= $page->thanks()->kt() ?>
         </div>
     </div>

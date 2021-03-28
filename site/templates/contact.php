@@ -27,7 +27,7 @@
             <div class="text-center">
                 <?= useSVG(t('Kontakt-Überschrift'), 'title-icon', 'map-filled') ?>
             </div>
-            <h2 class="title"><?= t('Kontakt-Überschrift') ?></h2>
+            <h2 class="title text-orange-medium"><?= t('Kontakt-Überschrift') ?></h2>
             <div class="flex flex-col lg:flex-row">
                 <div class="lg:w-2/5 lg:mr-12 mb-6">
                     <h3 class="mb-2 text-center text-orange-medium"><?= t('Mit dem Fahrrad') ?></h3>

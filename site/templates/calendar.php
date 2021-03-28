@@ -46,7 +46,7 @@
             <div class="text-center">
                 <?= useSVG(t('Jährliche Höhepunkte'), 'title-icon', 'calendar-filled') ?>
             </div>
-            <h2 class="title"><?= t('Jährliche Höhepunkte') ?></h2>
+            <h2 class="title text-orange-medium"><?= t('Jährliche Höhepunkte') ?></h2>
             <div class="flex flex-col lg:flex-row">
                 <?php
                     $count = 1;

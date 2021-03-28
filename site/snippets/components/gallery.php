@@ -34,7 +34,7 @@
         <div class="text-center">
             <?= useSVG($heading, 'title-icon', $icon) ?>
         </div>
-        <h2 class="title"><?= $heading ?></h2>
+        <h2 class="title text-orange-medium"><?= $heading ?></h2>
         <?php endif ?>
         <div class="container">
             <div class="js-masonry js-lightbox">

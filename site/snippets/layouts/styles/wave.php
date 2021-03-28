@@ -11,7 +11,7 @@
             <?= useSVG($heading->html(), 'title-icon', $icon->value()) ?>
         </div>
         <?php endif ?>
-        <h2 class="title"><?= $heading->html() ?></h2>
+        <h2 class="title text-orange-medium"><?= $heading->html() ?></h2>
         <?php endif ?>
         <?php snippet('layouts/styles/default', compact('layout')) ?>
     </div>

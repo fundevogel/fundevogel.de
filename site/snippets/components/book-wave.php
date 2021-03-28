@@ -34,7 +34,7 @@
             <?= useSVG($heading, 'title-icon', $icon) ?>
         </div>
         <?php endif ?>
-        <h2 class="title"><?= $heading ?></h2>
+        <h2 class="title text-orange-medium"><?= $heading ?></h2>
         <?php endif ?>
         <?php
             # Enable slide functionality for multiple items only
