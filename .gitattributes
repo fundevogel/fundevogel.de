@@ -5,4 +5,7 @@
 # PHP != Hacklang
 *.php linguist-language=PHP
 
+# Jinja2 != HTML
+*.j2 linguist-language=Text
+
 Vagrantfile linguist-language=Ruby
