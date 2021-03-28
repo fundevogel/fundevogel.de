@@ -149,8 +149,8 @@
     </div>
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
-<?php if ($page->layoutsBottom()->isNotEmpty()) : ?>
-<?php snippet('layouts', ['layouts' => $page->layoutsBottom()->toLayouts()]) ?>
+<?php if ($page->layouts()->isNotEmpty()) : ?>
+<?php snippet('layouts', ['layouts' => $page->layouts()->toLayouts()]) ?>
 <?php endif ?>
 
 <?php snippet('footer') ?>
