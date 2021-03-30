@@ -1,0 +1,136 @@
+Title: Die Eisenbahn über den Wolken
+
+----
+
+Isbn: 978-3-03731-147-9
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Li Kunwu
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Christoph Schuler
+
+----
+
+Publisher: Edition Moderne
+
+----
+
+Age: ab 16 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2016
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 216
+
+----
+
+Price: 29,00
+
+----
+
+Topics: China, Graphic Novel
+
+----
+
+Description: Nach EIN LEBEN IN CHINA widmet sich Li Kunwu einem der spektakulärsten Bauwerk seiner Heimat, der "Yunnan-Bahn" in Südchina.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851029754/63715/10002/-3/Buecher/Li-Kunwu/Die-Eisenbahn-ueber-den-Wolken
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-eisenbahn-ueber-den-wolken_li-kunwu.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

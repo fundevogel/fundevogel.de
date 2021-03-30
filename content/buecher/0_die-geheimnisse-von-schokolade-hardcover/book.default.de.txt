@@ -1,0 +1,152 @@
+Title: Die Geheimnisse von Schokolade
+
+----
+
+Isbn: 978-3-551-76307-5
+
+----
+
+Subtitle: Eine Reise ins Atelier des Pariser Chocolatiers Jacques Genin
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Franckie Alarcon
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Hans Kantereit
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2015
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 112
+
+----
+
+Price: 24,99
+
+----
+
+Topics: Schokolade
+
+----
+
+Description:
+
+Die Pralinen des Pariser Star-Chocolatiers Jacques Genin sind magisch! Er lädt auf die Kakaoplantagen und in seine Pariser Manufaktur ein, verrät Tricks der Herstellung und gibt Rezepte zum Nachmachen preis.
+
+Der Comiczeichner Franckie Alarcon durfte den Meister ein Jahr lang begleiten und hat ein Buch gezeichnet, das alle Schokoladenliebhaber dahinschmelzen lässt.
+
+----
+
+Isavailable: false
+
+----
+
+Olacode: 7
+
+----
+
+Olamessage: Vergriffen, keine Neuauflage, Bestellung abgelegt
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460848885896/63715/10002/-3/weitere-Kategorien_Architektur-und-Kunst/Franckie-Alarcon/Die-Geheimnisse-von-Schokolade
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-geheimnisse-von-schokolade_franckie-alarcon.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Duration: 
+
+----
+
+Narrator: 

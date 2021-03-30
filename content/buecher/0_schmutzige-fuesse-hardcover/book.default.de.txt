@@ -1,0 +1,135 @@
+Title: Schmutzige Füße
+
+----
+
+Isbn: 978-3-86569-255-9
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Koldo Izagirre
+
+----
+
+Illustrator: Antton Olariaga
+
+----
+
+Translator: Mona Steigerwald
+
+----
+
+Publisher: Alibri
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2016
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 28
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Außenseiter, Fremde / Fremdheit, Integration
+
+----
+
+Description: Zur Mittagszeit, wenn alle anderen Bewohner der Stadt wegen der Hitze zu Hause bleiben, spielt "Schmutzige Füße" auf dem großen Platz neben der öffentlichen Telefonzelle. Zu dieser Tageszeit kommen viele Migranten auf den Platz, um dort vom öffentlichen Telefon aus mit ihren Familien und Freunden zu sprechen, die an weit entfernten Orten leben. Schmutzige Füße hört beim Spielen diesen Telefongesprächen zu und obwohl sie nicht genau versteht, was die Menschen sagen, weiß sie doch, was man denjenigen erzählt, die man in der Ferne zurückgelassen hat. Denn auch die Protagonistin des Buches hat eine Geschichte zu erzählen... Dieses etwas andere Kinderbuch für kleine und große Leser wirft auf fast poetische Weise einen Blick auf das Leben verschiedener Einwanderer. Aus der Perspektive eines Kindes erkennt man zwei oft ganz gegensätzliche Realitäten: Von der einen Realität erzählen die Migranten den Daheimgebliebenen und die andere ist die, in der sie tatsächlich leben. Die Aquarellcollagen von Antton Olariaga unterstreichen die künstlerische Note des Textes.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852138181/63715/10002/-3/Buecher_Bilderbuecher/Koldo-Izagirre/Schmutzige-Fuesse
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- schmutzige-fuesse_koldo-izagirre.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,136 @@
+Title: Ein Blick in die deutsche Geschichte
+
+----
+
+Isbn: 978-3-946593-08-9
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Jochen Oltmer; Nikolaus Barbian
+
+----
+
+Illustrator: Christine Rösch
+
+----
+
+Translator: 
+
+----
+
+Publisher: Jacoby & Stuart
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 20,00
+
+----
+
+Topics: Deutschland, Geschichte, Migration
+
+----
+
+Description: 150 Jahre deutsche Migrationsgeschichte Jochen Oltmer, einer der bekanntesten Experten zum Thema Internationale Migration in Deutschland, erklärt uns zusammen mit Nikolaus Barbian, der bei ihm promoviert hat, dass schon immer viele Menschen nach Deutschland ein- oder ausgewandert bzw. innerhalb Deutschlands gewandert sind. Während des Kaiserreichs etwa sind zahlreiche Polen ins Ruhrgebiet gewandert, während hunderttausende Deutsche in die USA auswanderten. Die Nazis zwangen viele Menschen zur Emigration; bei Kriegsende musste Deutschland Millionen Vertriebene aufnehmen, aber schon in den 1960er Jahren wurden "Gastarbeiter" nach Deutschland geholt, deren Kinder sich oft als Deutsche fühlen. Und das ist noch längst nicht das Ende der Geschichte der Wanderungen. Christine Rösch hat dazu pointiert und feinfühlig gezeichnet, wie sich in den letzten hundertfünfzig Jahren unsere Welt geändert hat, auch weil die Bevölkerung sich gewandelt hat.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460852085590/63715/10002/-3/Buecher_Kinder--und-Jugend/Jochen-Oltmer/Ein-Blick-in-die-deutsche-Geschichte
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  ein-blick-in-die-deutsche-geschichte_jochen-oltmer-nikolaus-barbian.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

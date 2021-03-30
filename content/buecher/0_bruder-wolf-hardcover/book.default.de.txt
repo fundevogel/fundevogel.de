@@ -1,0 +1,135 @@
+Title: Bruder Wolf
+
+----
+
+Isbn: 978-3-7373-5360-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Carla Maia de Almeida
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Claudia Stein
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2016
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 176
+
+----
+
+Price: 14,99
+
+----
+
+Topics: 
+
+----
+
+Description: Wie 'Tschick' und 'Räuberhände' und doch ganz anders ...Wenn man fünfzehn ist, sind sieben Jahre fast das halbe Leben. So lange ist es her, dass Bolotas Kindheit jäh endete. Dass in jenem Sommer alles außer Kontrolle geriet, weiß Bolota mit Sicherheit, warum und wie genau das passierte, jedoch nicht. Ihre Erinnerungen sind Bruchstücke. Da war die Autofahrt mit ihrem Vater zum Haus der Großeltern. Die Rückfahrt durch den Wald. Das Feuer, das immer näher kam. Der Vater, der Hilferufe hörte und in die Flammen lief. Und da war plötzlich ihr Hund, der aus dem Nichts neben dem Wagen auftauchte und ihr beistand - ihr Bruder Wolf. Mit zweifarbigen Bildern des preisgekrönten Illustrators Jorge António GoncalvesAusgewählt für den White Ravens Katalog
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460850739592/63715/10002/-3/Buecher_Kinder--und-Jugend/Carla-Maia-de-Almeida/Bruder-Wolf
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- bruder-wolf_carla-maia-de-almeida.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

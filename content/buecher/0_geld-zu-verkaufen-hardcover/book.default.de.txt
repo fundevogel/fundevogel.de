@@ -1,0 +1,135 @@
+Title: Geld zu verkaufen!
+
+----
+
+Isbn: 978-3-7152-0727-8
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Lorenz Pauli
+
+----
+
+Illustrator: Claudia de Weck
+
+----
+
+Translator: 
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2017
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Geld
+
+----
+
+Description: Abenteuer sind nicht teuer. Doch ohne Geld geht es auch bei Alma und Milan nicht. Denn die beiden brauchen eine Strickleiter für ihr Baumhaus. Sie machen nicht nur das Baumhaus selber, sondern auch das Geld, um ein Seil zu kaufen. Das ist gar keine schlechte Idee, wenn man sich aufs Verhandeln und Handeln versteht. Alma und Milan kommen ans Ziel und haben sogar noch Geld übrig. Das sparen sie. Denn Geld schimmelt nicht, auch wenn man es beiseitelegt für etwas Großes - und das schwirrt schon in den Köpfen herum.Dieses Bilderbuch ist auf Initiative der Stiftung Pro Juventute entstanden. Es behandelt die Themen Geld und Konsum, aber auch Werte, die weit darüber hinausgehen,und bringt diese Kindern näher.Begleitmaterialien für Lehrpersonen, Eltern und fremdsprachige Personen als kostenloser DownloadDas Buch ist in der Schweiz auch auf Französisch (www.rossolis.ch) und Italienisch (www.edizionicasagrande.com) erschienen.Weitere Sprachversionen: Der Text zum Bilderbuch kann in den Sprachen Albanisch, Englisch, Portugiesisch, Serbisch und Türkisch als PDF heruntergeladen werden.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460853584266/63715/10002/-3/Buecher_Bilderbuecher/Lorenz-Pauli/Geld-zu-verkaufen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- geld-zu-verkaufen_lorenz-pauli.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

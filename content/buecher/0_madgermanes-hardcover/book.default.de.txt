@@ -1,0 +1,135 @@
+Title: Madgermanes
+
+----
+
+Isbn: 978-3-945034-42-2
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Birgit Weyhe
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: avant-verlag
+
+----
+
+Age: ab 16 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2016
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 240
+
+----
+
+Price: 24,95
+
+----
+
+Topics: Historie, Mosambik, Vertragsarbeitnehmer, Deutsche Demokratische Republik (DDR)
+
+----
+
+Description: Von 1979 bis 1991 waren um die 20.000 Vertragsarbeiter innen aus Mosambik in der DDR beschäftigt.Ihr auf vier Jahre befristeter Aufenthalt sollte dazu dienen, ihnen eine Ausbildung zu ermöglichen und Berufserfahrung zu sammeln, um nach ihrer Rückkehr zum Aufbau eines unabhängigen sozialistischen Mosambiks beizutragen.Die Realität sah anders aus. Die "Madgermanes", wie sie in Mosambik genannt werden, eine Wortschöpfungaus "Verrückte Deutsche" und "Made in Germany", kehrten in ein vom Bürgerkrieg völlig zerstörtes Land zurück. Für ihre Berufsausbildunggab es keine Verwendung, und der von der Regierung treuhänderisch einbehaltene Lohn wurde nie ausgezahlt ...Birgit Weyhe recherchiert diese kaum bekannte Fußnote deutsch-mosambikanischer Geschichte, indem sie die Betroffenen selbst zu Wort kommen lässt. Sie dreht die übliche Perspektive eines deutschen Blicks auf die Welt um und porträtiert zugleich einen Staat vor dessen Untergang.Durch subtiles Einfügen von Erinnerungsobjekten und mit allegorischen Motiven angereichert entstand ein Comic, der in seiner Bild- und Erzählsprache selbst die Grenzen zwischen afrikanischer und europäischer Kultur überschreitet.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460851330732/63715/10002/-3/weitere-Kategorien_preisgekroente-Titel/Birgit-Weyhe/Madgermanes
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- madgermanes_birgit-weyhe.jpg
+
+----
+
+Categories: Comic, Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: Johann Ulrich
