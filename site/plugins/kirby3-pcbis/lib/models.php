@@ -62,11 +62,8 @@ class BookPage extends Page {
         $isbn = $props['content']['title'];
 
         try {
-            $isbn = new Isbn($props['content']['title']);
-
             # Check if valid ISBN was provided
-            $isbn->validate();
-            $isbn = $isbn->format('ISBN-13');
+            $isbn = Isbn::convertToIsbn13($isbn);
 
             # Fetch information from API
             $data = loadBook($isbn);
@@ -80,12 +77,14 @@ class BookPage extends Page {
         # Determine template
         $template = 'book.default';
 
-        if ($data['type'] == 'Hörbuch') {
-            $template = 'book.audio';
-        }
+        if (isset($data['type'])) {
+            if ($data['type'] == 'Hörbuch') {
+                $template = 'book.audio';
+            }
 
-        if ($data['type'] == 'ePublikation') {
-            $template = 'book.ebook';
+            if ($data['type'] == 'ePublikation') {
+                $template = 'book.ebook';
+            }
         }
 
         return parent::create(array_merge($props, [
