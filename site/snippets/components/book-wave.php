@@ -101,7 +101,7 @@
                                     </span>
                                 </div>
                                 <?php else : ?>
-                                <a class="group relative rounded-lg" href="<?= $book->shop() ?>" target="_blank">
+                                <a class="group relative rounded-lg" href="<?php e($book->isAvailable()->bool() && $book->shop()->isNotEmpty(), $book->shop(), 'mailto:' . $site->mail()) ?>" target="_blank">
                                     <?php if ($book->isSeries()->bool()) : ?>
                                     <span class="badge bg-red-medium absolute top-4 -left-6 z-10">
                                         <?= t('Serie') ?>

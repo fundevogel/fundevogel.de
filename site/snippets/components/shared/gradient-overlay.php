@@ -5,6 +5,10 @@
 
         if (is_a($data, 'BookPage')) {
             $caption = t('Zum Shop');
+
+            if (!$data->isAvailable()->bool()) {
+                $caption = 'Anfrage per Mail';
+            }
         }
     }
 
@@ -13,6 +17,10 @@
 
         if (is_a($data, 'BookPage')) {
             $icon = 'cart';
+
+            if (!$data->isAvailable()->bool()) {
+                $icon = 'envelope';
+            }
         }
     }
 
@@ -30,6 +38,10 @@
                 } else {
                     $details = A::join([$data->pageCount(), t('Seiten'), $details], ' ');
                 }
+            }
+
+            if (!$data->isAvailable()->bool()) {
+                $details = 'Titel nicht lieferbar / vergriffen';
             }
         }
 
