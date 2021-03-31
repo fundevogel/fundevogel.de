@@ -50,7 +50,7 @@ return [
             'sizes' => option('thumbs.sizes')[$preset],
             'preset' => $preset,
             'noLazy' => $noLazy,
-        ]);
+        ], true);
     },
     'getFront' => function ($classes = '') {
         // Try using default cover, otherwise use global fallback image
