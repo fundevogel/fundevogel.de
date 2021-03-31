@@ -1,0 +1,135 @@
+Title: Das Bilderbuch
+
+----
+
+Isbn: 978-3-407-75453-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Jan von Holleben
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 224
+
+----
+
+Price: 19,95
+
+----
+
+Topics: Fotobuch, Kunstbuch
+
+----
+
+Description: Jan von Holleben ist ein Meister der Irritation. In seinen Fotos scheint immer etwas nicht so ganz zu stimmen - und genau dadurch entsteht ein neuer Blick auf vertraute Dinge, die uns umgeben. Aus über 250 seiner Fotos hat Holleben eine großartige Erlebniswelt geschaffen: Jedes Foto hängt mit dem nächsten zusammen und macht große Lust, genau hinzusehen, zu entdecken, zu assoziieren, zu erzählen - und das alles immer wieder von Neuem.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002024539/63715/10002/-3/weitere-Kategorien_Architektur-und-Kunst/Jan-von-Holleben/Das-Bilderbuch
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- das-bilderbuch_jan-von-holleben.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

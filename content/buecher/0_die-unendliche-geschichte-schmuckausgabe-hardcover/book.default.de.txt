@@ -1,0 +1,136 @@
+Title: Die unendliche Geschichte (Schmuckausgabe)
+
+----
+
+Isbn: 978-3-522-20250-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Michael Ende
+
+----
+
+Illustrator: Sebastian Meschenmoser
+
+----
+
+Translator: 
+
+----
+
+Publisher: Thienemann in der Thienemann-Esslinger Verlag GmbH
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 416
+
+----
+
+Price: 35,00
+
+----
+
+Topics: Fantasy
+
+----
+
+Description: Bastian Balthasar Bux entdeckt in einem Antiquariat ein Buch, das ihn auf magische Weise anzieht: "Die unendliche Geschichte". Er liest vom Reich Phantásien, in dem sich auf unheimliche Weise das Nichts immer weiter ausbreitet. Schuld daran ist die geheimnisvolle Krankheit der Kindlichen Kaiserin, die einen neuen Namen braucht, um gesund zu werden. Den kann ihr aber nur ein Menschenkind geben. Sollte Bastian selbst jenes Kind sein, das Phantásien zu retten vermag? Zusammen mit dem jungen Krieger Atréju und dem Glücksdrachen Fuchur begibt er sich auf eine Reise durch Phantásien, in der bald jede Minute zählt.Der Klassiker der deutschen Phantastik über die Macht der Phantasie, jetzt mit ausdrucksstarken Bildern des Künstlers Sebastian Meschenmoser.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001941223/63715/10002/-3/Buecher_Fantasy/Michael-Ende/Die-unendliche-Geschichte-Schmuckausgabe
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-unendliche-geschichte-schmuckausgabe_michael-ende-sebastian-meschenmoser.jpg
+
+----
+
+Categories: Vorlesebuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

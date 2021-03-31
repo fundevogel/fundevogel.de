@@ -1,0 +1,136 @@
+Title: Eliot und Isabella in den Räuberbergen
+
+----
+
+Isbn: 978-3-407-75820-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ingo Siegner
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 136
+
+----
+
+Price: 13,95
+
+----
+
+Topics: Abenteuer, Freundschaft
+
+----
+
+Description: liot und seine Freundin Isabella sind ratzemäßig aufgeregt. Sie wollen in die Berge, mit Zelt und allem Drum und Dran. Doch wie der Zufall es will, wird aus dem Beerenpflücken bei Mondenschein erstmal nichts - Bocky Bockwurst und seine Rüpelbande rücken den beiden übel auf die Pelle! Es wird ziemlich brenzlig, als auch noch der gemeingefährliche Don Ratzo auftaucht. Das fünfte spannende und witzige Abenteuer der beiden beliebten Rattenkinder Eliot und Isabella. Viele Bilder, kurze Kapitel und ein großes Vergnügen zum Vorlesen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002935122/63715/10002/-3/Buecher_Vorlesebuecher/Ingo-Siegner/Eliot-und-Isabella-in-den-Raeuberbergen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  eliot-und-isabella-in-den-raeuberbergen_ingo-siegner.jpg
+
+----
+
+Categories: Vorlesebuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Eliot und Isabella
+
+----
+
+Volume: 5
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

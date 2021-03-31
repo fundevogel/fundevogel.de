@@ -1,0 +1,136 @@
+Title: Q-R-T: Nächste Stunde: Außerirdisch
+
+----
+
+Isbn: 978-3-95640-223-4
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ferdinand Lutz
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 88
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Außerirdische Wesen / Aliens / Weltraumwesen, Gestaltwandler, Abenteuer
+
+----
+
+Description: Seit Lara mit dem Außerirdischen Q-R-T und dessen Haustier Flummi befreundet ist, vergeht kein Tag ohne Abenteuer. Doch als Lara auf eine neue Schule wechselt, droht diesem aufregenden Leben ein jähes Ende. Kurzerhand fliegen Q-R-T und Flummi deshalb einfach mit ins neue Klassenzimmer. Ein Außerirdischer in der Schule? Da ist Chaos vorprogrammiert - und jede Menge neue Abenteuer!Ferdinand Lutz' liebevoll-schräge Geschichten um den Außerirdischen Q-R-T erscheinen monatlich im Kindermagazin Dein SPIEGEL. Der erste Band wurde von der Expertenjury des Tagesspiegel unter die besten Comics des Jahres 2015 gewählt. Band 2 wurde von der Deutschen Akademie für Kinder- und Jugendliteratur für den Serafina Nachwuchspreis Illustration 2017 nominiert.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002605447/63715/10002/-3/Buecher/Ferdinand-Lutz/Q-R-T-Naechste-Stunde-Ausserirdisch
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  q-r-t-naechste-stunde-ausserirdisch_ferdinand-lutz.jpg
+
+----
+
+Categories: Comic, Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Q-R-T
+
+----
+
+Volume: 2
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

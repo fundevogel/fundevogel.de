@@ -1,0 +1,135 @@
+Title: Mia und die aus der 19
+
+----
+
+Isbn: 978-3-96594-037-6
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Nicole Mahne
+
+----
+
+Illustrator: Kai Schüttler
+
+----
+
+Translator: 
+
+----
+
+Publisher: Südpol Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 176
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Detektiv, Freundschaft, Generationenkonflikt, Toleranz
+
+----
+
+Description: Mia geht in die 3. Klasse und ist auf der Suche nach ihrem ersten Detektivfall, als sie auf Herrn Rippel trifft. Der wohnt in der 19, bei den "schrägen Vögeln". So nennen alle die verrückten Alten, die in Mias Straße wohnen, aber Mia macht das nichts aus, sie ist nämlich to-le-rant. Zum Glück, denn von Herrn Rippel erfährt sie, dass Pirat, die Katze von Herrn Schlottmeier, gestohlen wurde. Mia legt los und ermittelt undercover, nur schade, dass ihre beste Freundin Jil lieber Superstar werden will ...
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002600615/63715/10002/-3/Buecher_Kinder--und-Jugend/Nicole-Mahne/Mia-und-die-aus-der-
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- mia-und-die-aus-der-19_nicole-mahne.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Mia und die aus der 19
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

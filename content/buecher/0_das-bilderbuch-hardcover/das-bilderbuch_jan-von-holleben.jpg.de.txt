@@ -1,0 +1,13 @@
+Titleattribute: "Das Bilderbuch" von Jan von Holleben
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Das Bilderbuch" von Jan von Holleben
+
+----
+
+Template: image

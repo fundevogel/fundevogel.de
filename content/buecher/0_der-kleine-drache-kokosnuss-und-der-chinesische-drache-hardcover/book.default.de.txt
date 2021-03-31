@@ -1,0 +1,136 @@
+Title: Der kleine Drache Kokosnuss und der chinesische Drache
+
+----
+
+Isbn: 978-3-570-17734-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ingo Siegner
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: cbj
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 80
+
+----
+
+Price: 8,99
+
+----
+
+Topics: Abenteuer, China, Freundschaft, Drachen
+
+----
+
+Description: Der kleine Drache Kokosnuss erkundet ChinaDer kleine Drache Kokosnuss und das Stachelschwein Matilda sind am Strand mit ihren Freund Oskar verabredet. Als der kleine Fressdrache endlich auftaucht, ist er ziemlich geknickt: In den Sommerferien soll er mit seinem Papa Herbert nach China zur Hochzeit von Onkel Helmut fahren. Da Kokosnuss sich schon lange für China interessiert, ist schnell beschlossen, dass die Freunde gemeinsam fahren. Außerdem muss sich ja auch jemand um Oskars Papa kümmern, der sich mit den chinesischen Sitten überhaupt nicht auskennt. Nicht, dass er sich danebenbenimmt! Und sollte er dem mächtigen chinesischen Drachen Long Long begegnen, könnte das gefährlich werden ...Die Geschichten über die aufregenden Abenteuer, die der kleine Drache Kokosnuss mit seinen Freunden erlebt, sind inzwischen wahre Kinderbuchklassiker. Ingo Siegner schreibt über Freundschaft und Mut und fügt liebenswert-originelle Illustrationen hinzu. Die »Dein-Spiegel-Bestseller«-Reihe eignet sich perfekt zum Vor- und Selberlesen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002535392/63715/10002/-3/Buecher_Abenteuer/Ingo-Siegner/Der-kleine-Drache-Kokosnuss-und-der-chinesische-Drache
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-kleine-drache-kokosnuss-und-der-chinesische-drache_ingo-siegner.jpg
+
+----
+
+Categories: Erstlesebuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Der kleine Drache Kokosnuss
+
+----
+
+Volume: 29
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

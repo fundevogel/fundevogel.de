@@ -1,0 +1,135 @@
+Title: Das kleine Ich bin ich
+
+----
+
+Isbn: 978-3-7026-4850-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Mira Lobe
+
+----
+
+Illustrator: Susi Weigel
+
+----
+
+Translator: 
+
+----
+
+Publisher: Jungbrunnen-Verlag
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 1972
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Identität, Selbstvertrauen
+
+----
+
+Description: Auf der bunten Blumenwiese geht ein kleines Tier spazieren. Es fühlt sich mit vielen anderen Tieren verwandt - obwohl es keinem ganz gleicht. Es ist kein Pferd, keine Kuh, kein Vogel, kein Nilpferd - und langsam beginnt es an sich zu zweifeln. Aber dann erkennt das kleine Tier: Ich bin nicht irgendwer, ich bin ich.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1558766/63715/10002/-3/Buecher_Bilderbuecher/Mira-Lobe/Das-kleine-Ich-bin-ich
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- das-kleine-ich-bin-ich_mira-lobe.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,136 @@
+Title: Die Hundebande in Paris
+
+----
+
+Isbn: 978-3-95640-221-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Dorothée de Monfreid
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Ulrich Pröfrock
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Hunde, Paris, Abenteuer
+
+----
+
+Description: Onkel Jakob feiert seinen hundertsten Geburtstag und lädt die Hundebande zu seiner Feier nach Paris ein! Die Hunde machen sich fertig und fahren mit dem Zug in die Hauptstadt. Aber Paris ist eine sehr große Stadt, wie soll man da die richtige Straße finden? Auf ihrem Weg gibt es in Paris für die Hunde jedenfalls einiges zu entdecken... aber kommen sie auch rechtzeitig zu Onkel Jakobs Party?In "Die Hundebande in Paris" erlebt das von Dorothée de Monfreid erschaffene bunte Rudel ein weiteres aufregendes Abenteuer. Nicht nur ein toller Spaß für Klein und Groß, sondern zugleich eine anschauliche Führung zu den weltbekannten Sehenswürdigkeiten der französischen Hauptstadt.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002605443/63715/10002/-3/Buecher_Kinder--und-Jugend/Dorothe-de-Monfreid/Die-Hundebande-in-Paris
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-hundebande-in-paris_dorothee-de-monfreid.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Die Hundebande
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

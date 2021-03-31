@@ -1,0 +1,136 @@
+Title: Grompel, Chaos im Anmarsch
+
+----
+
+Isbn: 978-3-96129-124-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Bettina Obrecht
+
+----
+
+Illustrator: Henning Löhlein
+
+----
+
+Translator: 
+
+----
+
+Publisher: Edel Germany GmbH
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 144
+
+----
+
+Price: 12,99
+
+----
+
+Topics: Fabelwesen, Abenteuer, Quatsch
+
+----
+
+Description: Matti und Milla finden im Garten ihres neuen Zuhauses ein Tier, das es so gar nicht gibt! Was für eine Sensation! Und so versuchen sie zusammen mit ihrem Vater, einem weitgereisten Wissenschaftler, herauszufinden, woher dieses seltsame Wesen kommt und was es ist. Aber das ist leichter gesagt als getan. Denn immer, wenn sie denken, dass sie einen Schritt weiter sind, passiert etwas Neues mit dem Grompel, wie Milla das Tier schließlich nennt: Es frisst merkwürdige Sachen, fängt an zu sprechen, leuchtet im Dunkeln und verursacht jede Menge Chaos. Für die Kinder wird es nicht einfacher, als Fremde davon Wind bekommen und den Grompel um jeden Preis entführen wollen. Jetzt müssen Milla und Matti alles in Bewegung setzen, um den Grompel zu retten.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002536805/63715/10002/-3/Buecher_Kinder--und-Jugend/Bettina-Obrecht/Grompel-Chaos-im-Anmarsch
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  grompel-chaos-im-anmarsch_bettina-obrecht.jpg
+
+----
+
+Categories: Kinderbuch, Vorlesebuch
+
+----
+
+Isseries: true
+
+----
+
+Series: 379 - Edel Kids Books
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

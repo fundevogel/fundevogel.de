@@ -1,0 +1,136 @@
+Title: Dann gehe ich jetzt, sagte die Zeit
+
+----
+
+Isbn: 978-3-86429-461-7
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Bettina Obrecht
+
+----
+
+Illustrator: Julie Völk
+
+----
+
+Translator: 
+
+----
+
+Publisher: Tulipan
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Zeit / Zeitmessung, Bilderbuch
+
+----
+
+Description: Wo ist denn nur die Zeit geblieben?Es ist Sonntag und die Zeit ist zu Besuch. Sie ist Laras Freundin. Doch Laras Familie scheint etwas gegen sie zu haben. Sie sprechen davon, sie sich zu vertreiben oder sie gar totzuschlagen. Da hat die Zeit genug. Sie geht. Lara versucht sie wiederzufinden. Doch außer der Katze kann ihr keiner helfen, denn niemand scheint Zeit für die Zeit zu haben.Ein poetisches Buch über die Zeit - und was ihr in unserem Sprachgebrauch widerfährt. Aber auch darüber, was sie eigentlich sein könnte: Eine gute Freundin, die den Blick für die kleinen und schönen Dinge schärft.- Der Sprache auf den Mund geschaut- Ein Buch über die Zeit und wie sie in Redewendungen verkannt wird.- Mit filigranen, außergewöhnlichen Bildern von der mehrfach ausgezeichneten Julie Völk.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002369000/63715/10002/-3/Buecher_Kinder--und-Jugend/Bettina-Obrecht/Dann-gehe-ich-jetzt-sagte-die-Zeit
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  dann-gehe-ich-jetzt-sagte-die-zeit_bettina-obrecht.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
