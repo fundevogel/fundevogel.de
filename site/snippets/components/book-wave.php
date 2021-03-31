@@ -52,7 +52,7 @@
                     $text = $verdict->kt();
                 }
             ?>
-            <div class="min-w-full relative">
+            <div class="min-w-full flex flex-col justify-center relative">
                 <div class="container lg:px-8 xl:px-12">
                     <div class="flex flex-col lg:flex-row">
                         <div class="flex-none flex justify-center">
