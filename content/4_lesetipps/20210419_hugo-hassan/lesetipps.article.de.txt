@@ -1,0 +1,43 @@
+Title: Hugo & Hassan
+
+----
+
+Text: Hugo und Hassan haben es faustdick hinter den Ohren: Sie sind rotzfrech, klopfen ständig irgendwelche Sprüche und haben jede Menge Unsinn im Kopf. Sie lieben Fußball, Computerspiele und Arschbomben im Schwimmbad. Sie streiten, prügeln sich und sind doch unzertrennlich. Der Leser taucht in ihren Alltag ein und begleitet die beiden bei all ihren witzigen und kleinen Abenteuern, z.B. als Hugo mit einer einzigen Rosine seinen Freund Hassan an Ramadan zur Weißglut bringt oder wenn sie sich einen ausgeklügelten „Deal“ ausdenken, um mit gesammelten Pfandflaschen und eingetauschten Süßigkeiten reich zu werden. Auf Vorschriften und Verhaltensregeln haben sie meistens keinen Bock und lehnen sich gerne gegen die Welt der Erwachsenen auf - zumindest so lang, bis sie irgendwann auf den Boden der Tatsachen zurückfallen.
+
+----
+
+Verdict: Ein lustiger und wirklichkeitsnaher Comic über zwei rotzfreche Jungs, bei dem kein Blatt vor den Mund genommen wird. Durch die kurzen und unabhängigen Geschichten eignet sich das Buch besonders gut für kleine Lesemuffel.
+
+----
+
+Conclusion: 
+
+----
+
+Layouts: []
+
+----
+
+Date: 2021-04-19
+
+----
+
+Book:
+
+- buecher/hugo-hassan-hardcover
+
+----
+
+Isexternal: false
+
+----
+
+Isadvanced: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

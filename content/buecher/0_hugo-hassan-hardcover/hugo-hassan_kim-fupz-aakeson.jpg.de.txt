@@ -1,0 +1,13 @@
+Titleattribute: "Hugo & Hassan" von Kim Fupz Aakeson
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Hugo & Hassan" von Kim Fupz Aakeson
+
+----
+
+Template: image

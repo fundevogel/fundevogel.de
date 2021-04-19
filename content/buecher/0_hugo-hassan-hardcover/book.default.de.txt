@@ -1,0 +1,135 @@
+Title: Hugo & Hassan
+
+----
+
+Isbn: 978-3-95470-238-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Kim Fupz Aakeson
+
+----
+
+Illustrator: Rasmus Bregnhoi
+
+----
+
+Translator: Franziska Gehm
+
+----
+
+Publisher: Klett Kinderbuch Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 104
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Freundschaft, Graphic Novel
+
+----
+
+Description: Witzig, wild und unwiderstehlich: Jungsleben von heute
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002938533/63715/10002/-3/Buecher_Kinder--und-Jugend/Kim-Fupz-Aakeson/Hugo--Hassan
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- hugo-hassan_kim-fupz-aakeson.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
