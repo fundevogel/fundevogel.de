@@ -24,10 +24,10 @@ tabs:
             template: lesetipps.article
 
   # Pages
-  pages:
+  overview:
     label:
-      de: Alle Seiten
-      en: All pages
+      de: Übersicht
+      en: Overview
     icon: layers
     columns:
       pages_left:
@@ -57,19 +57,21 @@ tabs:
         sections:
           default_pages:
             headline:
-              de: Sonstige Seiten
-              en: Misc pages
+              de: Verfügbare Seiten
+              en: Available pages
             type: pages
             sortable: false
             info: false
             create: default
             template:
+              - news
               - about
               - assortment
+              - lesetipps
+              - calendar
               - grid-list
               - contact
               - default
-              - dependencies
 
           sort_out:
             type: fields
