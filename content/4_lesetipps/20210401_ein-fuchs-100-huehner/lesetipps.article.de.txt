@@ -1,0 +1,53 @@
+Title: Ein Fuchs - 100 Hühner
+
+----
+
+Text:
+
+Ein hungriger Fuchs, zwei listige Augen“ so stellt Kate Read uns die Hauptfigur vor. Zum Sprung bereit, mit aufgestellten Ohren zeigt die Illustratorin seinen Kopf in Nahaufnahme, macht seine Fellmusterung und die grünlichen Augen, die eine Feder fixieren, sichtbar und lässt uns förmlich das Zittern der Barthaare spüren. Schnitt. Ahnungslos picken währenddessen drei dicke Hühner nach Regenwürmern und brüten später fünf warme Eier aus. Der Fuchs schleicht sich an, bis er mit lediglich sechs leisen Schritten den sehr klein wirkenden Hühnerstall vollständig umringt.
+
+Die Autorin spielt dabei mit dem Vorwissen aus Geschichten rund um den Fuchs und seine Vorliebe für das Federvieh und damit auch mit der Erwartungshaltung der Leser*innen. Dass sich hinter der vordergründigen Einfachheit des Bilderbuchs allerdings eine literarästhetische Komplexität versteckt, wird bei näherer Betrachtung der Gesamtkonzeption deutlich. Seite für Seite baut sich die Handlung auf und wird von eins bis zehn zählend vorangetrieben. Am Spannungsaufbau des bereits im Untertitel angekündigten „Bilderbuch-Thrillers“ sind die Leserinnen und Leser – durch eben dieses Vorwissen, durch das Blättern der Seiten und das Mitzählen – interaktiv beteiligt. Die Spannung wird nur dann unterbrochen, wenn entsprechend der Zahlen im Bild nach den zu zählenden Elementen gesucht wird. Aus dieser sicheren Position heraus können die Rezipient*innen die Spannung lustvoll genießen. Wird der Fuchs die Hühner fressen? Wie viele Hühner erwischt er?
+
+Den Konventionen eines Thrillers folgend, kommt die Bedrohung in der Nacht. Das Holz des Stalls, der Hof und der Himmel werden durch leicht strukturierte grau-schwarze Flächen zum Hintergrund, vor dem sich die Formen der Tiere in kraftvollen Farben abheben. Collagen aus recht grob geschnittenen Papieren, auf denen man noch den Pinselstrich sieht, formen die Tierfiguren. Mit Schnabel, Kamm, Halskranz und einzelnen Federn charakterisieren Details die Hühner. Kleine Schatten der aufeinander gelegten Papiere und sparsame grafische Ergänzungen verstärken die lebendige Wirkung. So wirken die Illustrationen expressiv und verstärken die Aussage nahezu fühlbar.
+
+----
+
+Verdict: Aufregend, imposant gestaltet und ohne Blutvergießen: Ein hungriger Fuchs macht sich auf zum Hühnerstall, um seinen Hunger zu stillen. Was dann kommt, glauben Leser*innen aus Vorbildern der Literatur zu wissen. Kate Read greift das Sujet auf und erzählt die Geschichte auf ganz besonders anschauliche Weise neu.
+
+----
+
+Conclusion:
+
+Während der Titel und die Figurenkonstellation eine mögliche Gefahr und auch negative Konsequenzen vermuten lassen, nutzt Read die enge Verbindung aus Spannung und Humor, um die Geschichte mit einer Pointe aufzulösen. Der Text beschränkt sich auf die Aufzählung: Ein Fuchs, zwei listige Augen, drei dicke Hühner und so weiter. Als zehn scharfe Zähne benannt und ins Bild gesetzt werden, ist die Geschichte am Höhepunkt und die Spannung kaum mehr auszuhalten. Es folgt eine Doppelseite mit einer Überzahl an Hühnern: Große, kleine, gelbe, rote, weiße Hühner rasen mit aufgerissenen Schnäbeln in eine Richtung. Einhundert. Doch statt vor dem Fuchs zu fliehen, vertreiben sie ihn aus ihrem Gehöft.
+
+Damit wird das überraschende Ende der Geschichte eingeläutet. Ein „Thriller“, der in einer Art Nachwort im Einband des Buches humorvoll den beruhigenden Satz bringt: „Für dieses Buch kamen keine Hühner oder Füchse zu Schaden.“ Ein großer Spaß und eine Augenweide! Ein Erzählschatz, der literarische, sprachliche und mathematische Grundbildung miteinander vereint.
+
+----
+
+Layouts: []
+
+----
+
+Date: 2021-04-01
+
+----
+
+Book:
+
+- buecher/ein-fuchs-100-huehner-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

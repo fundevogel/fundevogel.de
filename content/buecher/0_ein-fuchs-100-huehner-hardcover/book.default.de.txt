@@ -54,7 +54,7 @@ Price: 13,00
 
 ----
 
-Topics: Zählen, Bilderbuch
+Topics: Zählen, Krimis/Thriller
 
 ----
 
@@ -128,7 +128,7 @@ Awardedition: April 2021
 
 ----
 
-Leselink: 
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/buchtipp-lesepeter-april-bilderbuch-thriller
 
 ----
 
