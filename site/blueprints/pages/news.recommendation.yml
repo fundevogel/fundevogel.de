@@ -1,6 +1,6 @@
 title:
-  de: Bücher des Monats
-  en: Books of the month
+  de: Themenbücher
+  en: Topical books
 
 num: '{{ page.date.toDate("Ymd") }}'
 
@@ -20,28 +20,6 @@ tabs:
       sidebar_fields:
         fields:
           date: fields/date
-
-          month:
-            label:
-              de: Monat
-              en: Month
-            type: select
-            required: true
-            width: 1/3
-            options:
-              - Januar
-              - Februar
-              - März
-              - April
-              - Mai
-              - Juni
-              - Juli
-              - August
-              - September
-              - Oktober
-              - November
-              - Dezember
-
 
       sidebar_files: false
 

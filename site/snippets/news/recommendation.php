@@ -2,7 +2,7 @@
     <?php if ($article->books()->isNotEmpty()) : ?>
         <?php
             snippet('components/book-wave', [
-                'heading' => t('Unsere Bücher des Monats') . '<br>"' . $article->month()->value() . '"',
+                'heading' => t('Bücher zum Thema') . '<br>"' . $article->title()->html() . '"',
                 'icon' => 'star',
                 'data' => $article->books()->toStructure(),
         ])
