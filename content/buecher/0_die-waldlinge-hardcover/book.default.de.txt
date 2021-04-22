@@ -1,0 +1,135 @@
+Title: Die Waldlinge
+
+----
+
+Isbn: 978-3-7152-0794-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Maria Stalder
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Atlantis, Orell Füssli
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Natur, Bilderbuch, Wald
+
+----
+
+Description: Wer kennt es nicht: Spielfiguren aus Kastanien, Tannenzapfen und Nüssen basteln. In Maria Stalders Bilderbuch heißen diese Figuren "Waldlinge". Sie bauen sich Hütten und die Eichhörnchen und Mäuse helfen ihnen dabei.Als der starke Birkenkerl dem kleinen Lärchenzapfen ein Brett wegnimmt, gibt es Zoff. Doch wie Kinder sich mal streiten und bald wieder versöhnen, gibt es auch bei den Waldlingen mal Zusammenprall, mal Zusammengehen. Am Schluss treffen sich aber alle beim Festessen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002997427/63715/10002/-3/Buecher_Bilderbuecher/Maria-Stalder/Die-Waldlinge
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- die-waldlinge_maria-stalder.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

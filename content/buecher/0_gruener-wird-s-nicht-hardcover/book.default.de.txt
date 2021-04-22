@@ -1,0 +1,135 @@
+Title: Grüner wird's nicht!
+
+----
+
+Isbn: 978-3-89955-823-4
+
+----
+
+Subtitle: Das Buch für kleine Gärtner
+
+----
+
+Type: Hardcover
+
+----
+
+Author: 
+
+----
+
+Illustrator: Kirsten Bradley
+
+----
+
+Translator: 
+
+----
+
+Publisher: Die Gestalten Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 56
+
+----
+
+Price: 14,90
+
+----
+
+Topics: Garten, Pflanzen
+
+----
+
+Description: Ein Buch, das Gärtnern kinderleicht macht. Ganz egal wo. Ob auf dem Land oder in der Großstadt - Orte zum Pflanzen und Gärtnern finden sich überall. Für die neue Generation grüner Daumen gibt es vielerlei Wege, sich die Natur nach Hause zu holen. Kinder bauen sich Balkonkästen und Blumentöpfe, gestalten eigene Vogelhäuschen und freunden sich mit den Würmern im Erdreich an! Es geht darum, Lebensräume zu schaffen und die eigenen Wohnräume dabei nachhaltiger und lebenswerter zu machen. In einfachen Schritten erklärt und illustriert Gärtnern mit Zwergen allerhand praktische Anleitungen mit inhaltlichen Erläuterungen und Hintergrundinformationen zur wunderbaren Welt der Natur.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001674172/63715/10002/-3/Buecher_Sachbuecher//Gruener-wirds-nicht
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- gruener-wird-s-nicht_.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Kleine Gestalten
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: Robert Klanten; Angela Sangma Francis

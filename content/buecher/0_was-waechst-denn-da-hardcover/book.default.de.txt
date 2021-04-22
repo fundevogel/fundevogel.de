@@ -1,0 +1,135 @@
+Title: Was wächst denn da?
+
+----
+
+Isbn: 978-3-89565-274-5
+
+----
+
+Subtitle: Ein Jahr in Opas Garten
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Gerda Muller
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Tatjana Kröll
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 3. Klasse
+
+----
+
+Releaseyear: 2014
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Garten, Bilderbuch, Obst, Gemüse, Landwirtschaft
+
+----
+
+Description: Ein Bilderbuch für kleine Gärtner und für solche, die es gerne werden wollen.Sophie kennt Gemüse nur aus dem Supermarkt. Doch in diesem Jahr verbringt sie ganz viel Zeit bei den Großeltern. Die haben einen großen Garten, in dem Kartoffeln und Mais, Tomaten, Erbsen, Paprika und Gurken wachsen. Sophie lernt, was alles zu tun ist, bevor man ernten kann: Sie sät Radieschensamen und pflanzt kleine Salate, sie darf mulchen und gießen und beobachtet dabei Marienkäfer und Regenwürmer. Sie erfährt, warum Bienen so wichtig sind und schaut den Kürbissen beim Wachsen zu, bis irgendwann die Zeit kommt, den Garten winterfest zu machen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460844607398/63715/10002/-3/Buecher_Kinder--und-Jugend/Gerda-Muller/Was-waechst-denn-da
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- was-waechst-denn-da_gerda-muller.jpg
+
+----
+
+Categories: Bilderbuch, Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

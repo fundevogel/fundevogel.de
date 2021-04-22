@@ -1,0 +1,36 @@
+Title: Mit Abstand am schönsten - raus in die Natur!
+
+----
+
+Books:
+
+- 
+  title: ""
+  book:
+    - >
+      buecher/pflanz-dich-gluecklich-taschenbuch
+  text: ""
+- 
+  title: ""
+  book:
+    - buecher/gruener-wird-s-nicht-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - buecher/die-waldlinge-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - buecher/und-dann-ist-fruehling-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - buecher/was-waechst-denn-da-hardcover
+  text: ""
+
+----
+
+Date: 2021-04-22

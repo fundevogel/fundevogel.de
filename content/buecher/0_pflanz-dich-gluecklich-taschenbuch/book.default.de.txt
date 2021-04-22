@@ -1,0 +1,139 @@
+Title: Pflanz dich glücklich!
+
+----
+
+Isbn: 978-3-423-71773-1
+
+----
+
+Subtitle: 37 Ideen für Garten & Co.
+
+----
+
+Type: Taschenbuch
+
+----
+
+Author: Silke Schmidt
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2018
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 128
+
+----
+
+Price: 9,95
+
+----
+
+Topics: Garten, Natur, Pflanzen
+
+----
+
+Description:
+
+Kleiner Garten, großes Glück 37 Ideen rund um Garten und Pflanzen: Fensterbank verschönern, mit Pflanzenblättern drucken, mit Blütenblättern Bilder gestalten, Kosmetik aus Obst und Gemüse herstellen, herausfinden, welche Blüten man essen kann, Vasen und Blumentöpfe upcyclen und vieles mehr.
+
+Das Gartenbuch ohne große Theorie, gleich zum Loslegen - mit Pflanztagebuch zum Ausfüllen, Eintragen und Reinmalen!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000663514/63715/10002/-3/Buecher_Sachbuecher/Silke-Schmidt/Pflanz-dich-gluecklich
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- pflanz-dich-gluecklich_silke-schmidt.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: dtv Junior
+
+----
+
+Volume: 71773
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,140 @@
+Title: Und dann ist Frühling
+
+----
+
+Isbn: 978-3-7373-5153-9
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Julie Fogliano; Erin E. Stead
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: FISCHER Sauerländer
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 1. Klasse
+
+----
+
+Releaseyear: 2015
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 14,99
+
+----
+
+Topics: Frühling / Frühjahr, Poesie
+
+----
+
+Description:
+
+Wann kommt endlich der Frühling? Nach einem langen Winter kommt die Sehnsucht nach mehr Licht, frischen Farben und bunten Blumen. Alle können es kaum erwarten, bis der Frühling seine ersten Boten schickt.Auch der kleine Junge und sein Hund haben genug von all dem schmutzigen Braun, das der geschmolzene Schnee hinterlassen hat. Sie graben, sie pflanzen Samenkörner ein, sie spielen und sie warten ... Sie warten lange ... bis sich endlich zarte Frühlingsblumen zeigen und die Welt wieder in wunderschönes Grün getaucht ist.
+
+Warme Farben illustrieren einen poetischen Text - und verleihen der Zeit des Wartens und der Ungeduld eine ganz besondere Magie.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460846065348/63715/10002/-3/Buecher_Kinder--und-Jugend/Julie-Fogliano/Und-dann-ist-Fruehling
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  und-dann-ist-fruehling_julie-fogliano-erin-e-stead.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
