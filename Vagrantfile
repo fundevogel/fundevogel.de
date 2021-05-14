@@ -15,30 +15,31 @@ Vagrant.configure(2) do |config|
     # Settings
     conf = {
         name: 'KirbyDev',
-        lts: '20.04',
+        driver: 'kvm',
+        image: 'generic/ubuntu2004',
         ip: '192.168.69.69',
         cpus: 2,
         memory: 2048,
-        ansible: '2.9.0',
+        ansible: '2.7.7',
         playbook: 'lib/ansible/playbook.yml',
     }
 
     # Basic VM settings
     config.vm.define conf[:name]
     config.vm.hostname = conf[:name]
-    config.vm.box = 'bento/ubuntu-' + conf[:lts]
+    config.vm.box = conf[:image]
 
     # Network settings
     config.vm.network :forwarded_port, guest: 80, host: 8080
     config.vm.network :private_network, ip: conf[:ip]
 
-    # Create VM using VirtualBox
-    # See https://www.vagrantup.com/docs/providers/virtualbox
-    # TODO: Switch to `vagrant-libvirt`
-    config.vm.provider :virtualbox do |vb|
-        vb.name = conf[:name] + ' @ ' + conf[:lts]
-        vb.cpus = conf[:cpus]
-        vb.memory = conf[:memory]
+    # Create VM using KVM hypervisor
+    # See https://github.com/vagrant-libvirt/vagrant-libvirt
+    config.vm.provider :libvirt do |libvirt|
+        # Provider settings
+        libvirt.driver = conf[:driver]
+        libvirt.cpus = conf[:cpus]
+        libvirt.memory = conf[:memory]
     end
 
     # Disable default behavior introduced in Vagrant 1.7, ensuring
@@ -52,11 +53,7 @@ Vagrant.configure(2) do |config|
     config.vm.provision :ansible_local do |ansible|
         ansible.playbook = conf[:playbook]
         ansible.version = conf[:ansible]
-        ansible.install_mode = 'pip'
+        ansible.install_mode = 'pip3'
         ansible.verbose = 'vv'
-        ansible.extra_vars = {
-        ansible_python_interpreter: '/usr/bin/python3'
-    }
-
     end
 end
