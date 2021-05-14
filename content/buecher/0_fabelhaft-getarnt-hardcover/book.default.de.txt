@@ -1,0 +1,139 @@
+Title: Fabelhaft getarnt
+
+----
+
+Isbn: 978-3-95728-306-1
+
+----
+
+Subtitle: Tarnung im Tierreich
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Frédéric Clément
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Sarah Pasquay
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Tarnung (Biologie)
+
+----
+
+Description:
+
+Um sich vor Fressfeinden zu schützen oder beim Jagen erfolgreich zu sein, hat die Natur einige Pflanzen und Tiere mit der besonderen Fähigkeit ausgestattet, mit der Landschaft zu verschmelzen und ihre Umgebung perfekt zu imitieren. So sieht die Stabschrecke einem kleinen Ast zum Verwechseln ähnlich, und die Kupferglucke, ein Schmetterling, sieht aus wie zwei Wassertropfen auf einem Eichenblatt. Am Meeresgrund hat die Seezunge die gleiche Farbe wie der Sand, das Fell des Schneehasen ist im Winter so weiß wie der Schnee, und in der Pflanzenwelt gelingt es dem Lerchensporn, seine Farbe an jeden Untergrund anzupassen, um sich vor hungrigen Raupen zu schützen.
+
+In diesem Sachbuch für große und kleine Naturforscher stellt Frédéric Clément mit wunderschönen Illustrationen und poetischen Texten elf besondere Lebewesen vor, die wahre Meister in der Kunst der Tarnung sind.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002570861/63715/10002/-3/Buecher_Sachbuecher/Frdric-Clment/Fabelhaft-getarnt
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- fabelhaft-getarnt_frederic-clement.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
