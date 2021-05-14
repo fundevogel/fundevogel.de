@@ -1,0 +1,136 @@
+Title: Socke und Sophie
+
+----
+
+Isbn: 978-3-423-76325-7
+
+----
+
+Subtitle: Pferdesprache leicht gemacht
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Juli Zeh
+
+----
+
+Illustrator: Flix
+
+----
+
+Translator: 
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 240
+
+----
+
+Price: 14,95
+
+----
+
+Topics: Pferde, Pferdesprache, Reiten
+
+----
+
+Description: Das Problem sitzt im Sattel§§Irgendwie scheinen sich Sophie und ihr Pony Socke nicht so richtig zu verstehen. Um Socke davor zu bewahren als Problempferd eingestuft zu werden, muss sie Pferdesprache lernen, und zwar schnell.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003369005/63715/10002/-3/Buecher_Kinder--und-Jugend/Juli-Zeh/Socke-und-Sophie---Pferdesprache-leicht-gemacht
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  socke-und-sophie-pferdesprache-leicht-gemacht_juli-zeh.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

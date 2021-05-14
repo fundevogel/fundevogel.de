@@ -1,0 +1,44 @@
+Title: Socke und Sophie - Pferdesprache leicht gemacht
+
+----
+
+Text: Sophie hat einen Dachschaden und der lautet "Pferde". Das können Papa, Mama und ihr kleiner Bruder Sabbel nicht so ganz verstehen, denn Fußball ist doch viel spannender. Aber nicht für Sophie, für die gibt es nämlich nichts schöneres, als ihren Nachmittag auf dem Michaelis-Hof bei den Pferden im Stall zu verbringen. Und als sie dann auch noch das Pony Socke zum Wiederaufpäppeln und Pflegen bekommt, scheint das Glück perfekt zu sein. Doch schon bald merkt Sophie, dass Socke zu pflegen überhaupt nicht einfach ist. Ganz im Gegenteil, denn Socke hat schlimme Erfahrungen mit Menschen gemacht und traut ihnen nicht mehr. Deswegen kommt es auch immer wieder zu gefährlichen Situationen, die sie gemeinsam überwinden müssen. Aber am schlimmsten ist: Wenn Socke sich bis Weihnachten nicht reiten lässt, wird er endgültig als Problempferd abgeschrieben und weggegeben. Deswegen muss Sophie schnellstens sein Vertrauen gewinnen und Pferdesprache lernen ...
+
+----
+
+Verdict: Ein berührendes und zugleich spannendes Buch über die Freundschaft und das Band zwischen Menschen und Pferden und für alle, die selber ein bisschen in Pferde vernarrt sind oder etwas über sie lernen möchten.
+
+----
+
+Conclusion: Wusstet ihr, dass Juli Zeh nicht nur Autorin, sondern auch Pferdeexpertin ist? Deswegen findet ihr in der Geschichte auch lauter interessante Informationen rund um das Thema Pferde und ihre Haltung - und die werden am Ende des Buches sogar noch einmal erklärt. Ein berührendes und zugleich spannendes Buch über die Freundschaft und das Band zwischen Menschen und Pferden und für alle, die selber ein bisschen in Pferde vernarrt sind oder etwas über sie lernen möchten.
+
+----
+
+Layouts: []
+
+----
+
+Date: 2021-05-03
+
+----
+
+Book:
+
+- >
+  buecher/socke-und-sophie-pferdesprache-leicht-gemacht-hardcover
+
+----
+
+Isexternal: false
+
+----
+
+Isadvanced: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
