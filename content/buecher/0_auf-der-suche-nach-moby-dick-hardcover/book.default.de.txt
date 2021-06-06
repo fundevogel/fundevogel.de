@@ -1,0 +1,136 @@
+Title: Auf der Suche nach Moby Dick
+
+----
+
+Isbn: 978-3-95728-440-2
+
+----
+
+Subtitle: Nach Herman Melville
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Sylvain Venayre; Herman Melville
+
+----
+
+Illustrator: Isaac Wens
+
+----
+
+Translator: Anja Kootz
+
+----
+
+Publisher: Knesebeck
+
+----
+
+Age: 
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 224
+
+----
+
+Price: 28,00
+
+----
+
+Topics: Abenteuer, Action, Moby Dick, Mythologie
+
+----
+
+Description: Ein Klassiker der Weltliteratur, neu betrachtet: "Moby Dick oder: Der Wal", der weltberühmte Roman von Herman Melville aus dem Jahre 1851, handelt nicht nur von Kapitän Ahabs Jagd nach dem riesigen weißen Pottwal, der einst sein Beine abriss und dem er Rache schwor. Neben der Erzählung der Reise seiner Hauptfigur taucht Melville in zahlreiche Exkurse über komplexe philosophische, gesellschaftliche oder auch mythologische Themen ab, wie den sozialen Status, das Gute und das Böse oder die Existenz von Gott. Diese innovative Graphic-Novel-Adaption verwebt die Geschichte rund um Moby Dick mit der Erzählung eines jungen Journalisten, der sich dem monumentalen Werk, seinem Autor und seinen komplexen Ansichten aus heutiger Sicht nähert.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002985304/63715/10002/-3/Buecher/Sylvain-Venayre/Auf-der-Suche-nach-Moby-Dick
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  auf-der-suche-nach-moby-dick_sylvain-venayre-herman-melville.jpg
+
+----
+
+Categories: Jugendbuch, Comic
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juni 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juni-2021-jugendbuch-auf-der-suche-nach-moby-dick
+
+----
+
+Participant: 

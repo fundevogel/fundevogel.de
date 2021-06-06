@@ -1,0 +1,11 @@
+Titleattribute: Bild: Imago, imago images / Westend61
+----
+Altattribute: Lächelndes Kind mit Brille
+----
+Caption-wanted: false
+----
+Caption:
+----
+Source: Imago, imago images / Westend61
+----
+Template: image

@@ -1,0 +1,54 @@
+Title: Auf der Suche nach Moby Dick
+
+----
+
+Text:
+
+Herman Melvilles Klassiker um den weißen Riesenpottwal Moby Dick und seinen besessenen Jäger Kapitän Ahab erscheint hier 200 Jahre nach Melvilles Geburt wieder einmal in neuem Gewand. Der Historiker Sylvain Venayre und der Comic Künstler Isaac Wens setzen mit „Auf der Suche nach Moby Dick“ das anspruchsvolle Epos der Weltliteratur in Form einer großartigen Graphic Novel um.
+
+Venayre und Wens packen dazu die Geschichte in eine neue Rahmenhandlung. Alles beginnt in Paris, wo ein junger Journalist und ein Experte für Melvilles Werk zusammentreffen. Zusammen machen sie sich auf den folgenden mehr als 200 Seiten auf den Weg, um nicht nur die Jagd auf Moby Dick zu eröffnen, sondern darüber hinaus vielfältige Hintergrundinformationen zur Veröffentlichung des Klassikers oder kulturgeschichtliche und philosophische Fragestellungen aus der Entstehungszeit des Romans zu beantworten.
+
+Die inhaltliche Verflechtung der Erzählung um Ahabs geradezu besessene Getriebenheit, den riesigen weißen Wal zur Strecke zu bringen, bei gleichzeitiger Einordnung durch die Hintergrundinformationen und philosophischen Exkursionen machen die Graphic Novel erst einmal zu einem schwierigen, weil immer wieder unterbrochenen Lesestoff. Hier hilft es, wenn man das Original gelesen oder zumindest den 1956 erschienen Kinofilm mit Gregory Peck gesehen hat. Wenn man sich aber darauf einlassen kann, dann erschließt sich einem eine großartige Herangehensweise an Melvilles Werk.
+
+----
+
+Verdict: Sylvain Venayre schickt im Paris der Gegenwart einen Radioreporter zu einem Theaterregisseur, der eine Bühnenfassung des Romans "Moby Dick" inszenieren will – im wahrsten Wortsinne auf der Suche nach Moby Dick.
+
+----
+
+Conclusion:
+
+Die Darstellung der Graphic Novel in düsteren Naturfarbtönen passt dabei zum martialischen Stoff. Als Moby Dick geschrieben wurde, war Walfang noch eine gefährliche und blutige Angelegenheit. Der einfache, düstere und reduzierte Zeichenstil mit seiner bewusst verschwiegenen Genauigkeit lässt einen immer wieder in die Gedankenwelten der handelnden Protagonisten eintauchen. Besonders heraus stechen dabei die fünf Doppelseiten in der Mitte, in denen das Thema "Weiß" aus den unterschiedlichen Perspektiven behandelt wird.
+
+Für den schulischen Einsatz haben die Unterrichtenden ein Buch vor sich, das vielfältig didaktisch seinen Eingang ins Klassenzimmer finden kann. So eignet es sich besonders als Einzellektüre für Buchpräsentationen ab Klasse 8 in allen Schulformen. Darüber hinaus passt es gut in die Klassikerabteilung jeder Schulbibliothek. Durch den mehrperspektivischen Erzählzugang können Einzelpassagen darüber hinaus immer wieder als Unterrichtseinstieg oder Problemdiskussionen dienen.
+
+----
+
+Layouts: []
+
+----
+
+Date: 2021-05-27
+
+----
+
+Book:
+
+- >
+  buecher/auf-der-suche-nach-moby-dick-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
