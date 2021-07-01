@@ -138,8 +138,9 @@ class App {
                     infiniteScroll.on('append', () => {
                         button.classList.remove('cursor-wait');
 
-                        // Add lightbox listener to ajax'd images
+                        // Attach listeners after ajax'ing new content
                         runLightbox(page);
+                        runSlider(page, template);
                         runMasonry(page, template);
                     });
                 }
