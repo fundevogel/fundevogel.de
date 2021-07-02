@@ -87,13 +87,6 @@ return [
         'loader' => function () {
             return kirby()->root('config') . '/settings/csp.json';
         },
-        'setter' => function (\Bnomei\SecurityHeaders $instance) {
-            # See https://github.com/paragonie/csp-builder#build-a-content-security-policy-programmatically
-            $csp = $instance->csp();
-
-            $csp->nonce('style-src', $instance->setNonce('css'));
-            $csp->nonce('script-src', $instance->setNonce('js'));
-        },
     ],
 
     # Adding hash to {css,js} files for cache busting

@@ -14,7 +14,7 @@
         $cssPath = $kirby->root('assets') . '/styles/main.min.css';
         $css = F::read($cssPath);
     ?>
-    <style nonce="<?= $page->nonce('css') ?>"><?= $css ?></style>
+    <style nonce="<?= $site->nonce() ?>"><?= $css ?></style>
 
     <?php else : ?>
 
@@ -22,7 +22,7 @@
         # Development = Unminified CSS file
         $cssPath = '/assets/styles/main.css';
         $css = Bnomei\Fingerprint::css($cssPath, [
-            'nonce' => $page->nonce('css'),
+            'nonce' => $site->nonce(),
             'integrity' => true,
         ]);
 
@@ -31,7 +31,7 @@
     <?php endif ?>
 
     <?php if ($site->coronaMode()->toBool()) : ?>
-    <style nonce="<?= $page->nonce('css') ?>">
+    <style nonce="<?= $site->nonce() ?>">
       .warning {
         padding: 2rem 1rem;
         margin-bottom: 2rem;
@@ -99,7 +99,7 @@
         $jsPath = '/assets/scripts/' . $jsFile;
 
         echo Bnomei\Fingerprint::js($jsPath, [
-            'nonce' => $page->nonce('js'),
+            'nonce' => $site->nonce(),
             'defer' => true,
             'integrity' => true
         ]);
