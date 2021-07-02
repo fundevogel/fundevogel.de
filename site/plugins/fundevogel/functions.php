@@ -1,5 +1,43 @@
 <?php
 
+function loadCSS ()
+{
+    # Determine base path
+    $cssPath = url('assets/styles/');
+
+    # (1) When in production ..
+    if (option('environment') == 'production') {
+        # .. provide `style` tag & minified inline CSS
+        return Html::tag('style',
+            F::read($cssPath . 'main.min.css'),
+            ['nonce' => $site->nonce()],
+        );
+    }
+
+    # (2) Otherwise, provide `link` tag & unminified CSS file
+    return css($cssPath . 'main.css');
+}
+
+
+function loadJS ()
+{
+    # Determine base path
+    $jsPath = url('assets/scripts/');
+
+    # (1) When in production ..
+    if (option('environment') == 'production') {
+        # .. provide `script` tag & minified inline CSS
+        return Bnomei\Fingerprint::js($jsPath . 'main.min.js', [
+            'nonce' => site()->nonce(),
+            'defer' => true,
+            'integrity' => true,
+        ]);
+    }
+
+    return js($jsPath . 'main.js');
+}
+
+
 function getLangVars ($language = 'de')
 {
     $translations = Yaml::decode(F::read(
