@@ -6,7 +6,7 @@ Assets - Build
 ---------------------------------------
 */
 
-import {series, parallel} from 'gulp';
+import {src, dest, series, parallel} from 'gulp';
 
 import conf from '../config';
 
@@ -16,7 +16,8 @@ const
     images = require('./images'),
     fonts = require('./fonts'),
 
-    del = require('del')
+    del = require('del'),
+    rev = require('gulp-rev')
 ;
 
 
@@ -30,6 +31,19 @@ function clean() {
 
 
 /*
+ * Generate revision manifest
+ */
+
+function revision() {
+	return src([conf.dist.styles + '/*.min.css', conf.dist.scripts + '/*.min.js'], {base: conf.public})
+		.pipe(rev())
+		.pipe(dest(conf.public))
+		.pipe(rev.manifest('manifest.json'))
+		.pipe(dest(conf.assets))
+}
+
+
+/*
  * Exports
  */
 
@@ -39,7 +53,7 @@ const build = series(
         scripts,
         images,
         fonts
-    )
+    ), revision
 );
 
 export = build;

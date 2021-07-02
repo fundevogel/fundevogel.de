@@ -11,6 +11,7 @@ const
 
 const conf: Record<string, any> = {
     public: root,
+    assets: dist,
     src: {
         styles: src + 'styles',
         scripts: src + 'scripts',

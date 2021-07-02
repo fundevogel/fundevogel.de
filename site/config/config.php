@@ -89,35 +89,11 @@ return [
         },
     ],
 
-    # Adding hash to {css,js} files for cache busting
-    # See https://github.com/bnomei/kirby3-fingerprint
-    // 'bnomei.fingerprint.query' => false,
-    'bnomei.fingerprint.hash' => function ($file) {
-        $url = null;
-        $fileroot = is_a($file, 'Kirby\Cms\File') || is_a($file, 'Kirby\Cms\FileVersion')
-            ? $file->root()
-            : kirby()->roots()->index() . DIRECTORY_SEPARATOR . ltrim(str_replace(kirby()->site()->url(), '', $file), '/');
-
-        if (F::exists($fileroot)) {
-            $filename = implode('.', [
-                F::name($fileroot),
-                filemtime($fileroot),
-                F::extension($fileroot)
-            ]);
-
-            if (is_a($file, 'Kirby\Cms\File') || is_a($file, 'Kirby\Cms\FileVersion')) {
-                $url = str_replace($file->filename(), $filename, $file->url());
-            } else {
-                $dirname = str_replace(kirby()->roots()->index(), '', \dirname($fileroot));
-                $url = ($dirname === '.')
-                    ? $filename
-                    : ($dirname . '/' . $filename);
-            }
-        } else {
-            $url = $file;
-        }
-
-        return \url($url);
+    # Utilize manifest file with hashed assets
+    'ready' => function() {
+        return [
+            'bnomei.fingerprint.query' => kirby()->root('assets') . '/manifest.json',
+        ];
     },
 
     # Customizing MetaTags
