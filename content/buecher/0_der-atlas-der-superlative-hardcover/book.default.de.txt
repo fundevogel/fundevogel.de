@@ -1,0 +1,136 @@
+Title: Der Atlas der Superlative
+
+----
+
+Isbn: 978-3-96704-700-4
+
+----
+
+Subtitle: Die ultimative Sammlung der größten, schnellsten, längsten, heißesten, stärksten, riesigsten und gefährlichsten Rekordhalter der Welt
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Emily Hawkins
+
+----
+
+Illustrator: Lucy Letherland
+
+----
+
+Translator: 
+
+----
+
+Publisher: Die Gestalten Verlag
+
+----
+
+Age: ab 6 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 88
+
+----
+
+Price: 29,90
+
+----
+
+Topics: Erde, Natur, Rekorde, Wissen, Wissenschaft, Wunder
+
+----
+
+Description: Dieses Buch hält einige der unglaublichsten Rekordhalter in unserer Welt für den Leser bereit, von erstaunlichen Landschaften über rekordverdächtige Tiere und Pflanzen bis hin zu den Meisterwerken, das der Mensch geschaffen hat.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003457643/63715/10002/-3/Buecher_Kinder--und-Jugend/Emily-Hawkins/Der-Atlas-der-Superlative
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-atlas-der-superlative_emily-hawkins.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Kleine Gestalten
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Juli 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-2020-sachbuch-atlas-der-superlative-ausgzeichnet/
+
+----
+
+Participant: Maria-Elisabeth Niebius; Robert Klanten; Little Gestalten
