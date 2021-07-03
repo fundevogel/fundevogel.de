@@ -79,6 +79,7 @@ return [
             $page->update([
                 'cover' => Data::encode($file->filename(), 'yaml'),
             ]);
+
         } catch (Exception $e) {
             return [
                 'status' => 404,
@@ -170,4 +171,109 @@ return [
             'reload' => true,
         ];
     },
+    'fetchLanguages' => function ($page)
+    {
+        # Define request parameters
+        $parameters = [
+            'timeout' => 0,
+            'headers' => [
+                'User-Agent' => 'S1SYPHOS @fundevogel.de'
+            ],
+        ];
+
+        # Fetch languages data from GitHub API
+        $langDataURL = 'https://api.github.com/repos/fundevogel/fundevogel.de/languages';
+        $langDataResponse = Remote::get($langDataURL, $parameters);
+
+        # If everything goes well, process results ..
+        if ($langDataResponse->http_code() !== 200) {
+            return [
+                'status' => 404,
+                'label' => 'Mistikus totalus!',
+                'reload' => false,
+            ];
+        }
+
+        $langData = get_object_vars($langDataResponse->json(false));
+
+        # Add all programming languages detected by GitHub's `linguist`
+        #
+        # For unaccounted languages, we could loop over those (eg, `yaml`)
+        # and get their values too, like this:
+        # 'https://api.github.com/search/code?q=language:' . $language . '+repo:fundevogel.de/fundevogel+org:Fundevogel'
+        #
+        # See https://stackoverflow.com/a/26881503
+
+        $languages = array_keys($langData);
+        $numbers = array_values($langData);
+
+        $total = array_sum($numbers);
+
+        $percentages = [];
+
+        foreach ($numbers as $number) {
+            $percentage = ($number * 100) / $total;
+            $percentages[] = $percentage;
+        }
+
+        # Round percentages safely, using `largest remainder method`
+        # See https://en.wikipedia.org/wiki/Largest_remainder_method
+        $largestRemainder = new Aeq\LargestRemainder\Math\LargestRemainder($percentages);
+        // $largestRemainder->setPrecision(2);
+
+        $roundedPercentages = [];
+
+        foreach ($largestRemainder->round() as $number) {
+            $roundedPercentages[] = $number / 100;
+        }
+
+        # Fetch GitHub's language colors
+        $colorData = json_decode(F::read(kirby()->root('config') . '/colors.json'), true);
+
+        # Build languages array
+        $data = [];
+
+        foreach (array_combine($languages, $roundedPercentages) as $language => $percentage) {
+            $data[$language] = [
+                'value' => $percentage,
+                'color' => $colorData[$language],
+            ];
+        }
+
+        # Generate chart from language data
+        $page->toDonut($data, 'programmiersprachen', 15, null, 'w-56 h-56 block');
+
+        $file = $page->image('programmiersprachen.svg');
+
+        try {
+            $file->update([
+                'titleAttribute' => 'Mehr als nur HTML - die Webseite des Fundevogels',
+                'altAttribute' => 'Abbildung verwendeter Programmiersprachen als Ringdiagramm',
+            ]);
+
+            $languageArray = [];
+
+            foreach ($data as $language => $values) {
+                $languageArray[] = ['title' => $language, 'share' => $values['value'], 'color' => $values['color']];
+            }
+
+            $page->update([
+                'languages' => Data::encode($languageArray, 'yaml'),
+                'chart' => Data::encode($file->filename(), 'yaml'),
+            ]);
+
+        } catch(Exception $e) {
+            return [
+                'status' => 404,
+                'label' => $e->getMessage(),
+                'reload' => false,
+            ];
+        }
+
+        return [
+            'status' => 200,
+            'label' => 'Update erfolgreich!',
+            'reload' => true,
+        ];
+    }
 ];

@@ -9,3 +9,6 @@
 *.j2 linguist-language=Text
 
 Vagrantfile linguist-language=Ruby
+
+# TODO: Convert panel plugins to Vue components
+JavaScript linguist-language=Vue

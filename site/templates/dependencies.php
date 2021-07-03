@@ -48,14 +48,14 @@
             <h2 class="title"><?= t('Über unsere Webseite') ?></h2>
             <div class="flex flex-col lg:flex-row">
                 <div class="mb-12 lg:mb-0 flex-none flex flex-col sm:flex-row lg:flex-col justify-center sm:justify-around lg:justify-center items-center order-last lg:order-first">
-                    <?= $page->toDonut($source['languages'], 'programmiersprachen', 15, null, 'w-56 h-56 block') ?>
+                    <?= svg($page->chart()->toFile()) ?>
                     <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
                         <h3 class="text-orange-medium"><?= t('Programmiersprachen') ?></h3>
                         <ul class="table">
-                            <?php foreach ($source['languages'] as $language => $data) : ?>
+                            <?php foreach ($languages as $language) : ?>
                             <li>
-                                <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $data['color'] ?>"></span>
-                                <?= $data['value'] * 100 ?> % <?= $language ?>
+                                <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $language->color() ?>"></span>
+                                <?= $language->share()->toFloat() * 100 ?> % <?= $language->title() ?>
                             </li>
                             <?php endforeach ?>
                         </ul>

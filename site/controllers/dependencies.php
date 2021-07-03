@@ -1,7 +1,5 @@
 <?php
 
-use Aeq\LargestRemainder\Math\LargestRemainder;
-
 # TODO: Add card layout`
 
 return function ($kirby, $page) {
@@ -31,7 +29,6 @@ return function ($kirby, $page) {
 
             # .. and cache data for one week (60 * 24 * 7)
             $depsCache->set('repoData', $repoData, 10080);
-
         }
     }
 
@@ -42,7 +39,6 @@ return function ($kirby, $page) {
         'size' => $repoData['size'],
         'loc' => '',
         'activity' => '',
-        'languages' => [],
         'license' => [
             'short' => $repoData['license']['spdx_id'],
             'long' => $repoData['license']['name'],
@@ -53,74 +49,6 @@ return function ($kirby, $page) {
             'grade' => '',
         ],
     ];
-
-
-    # Fetch cached languages data
-    $langData  = $depsCache->get('langData');
-
-    # If not cached ..
-    if ($langData === null) {
-        # .. fetch information from GitHub (languages)
-        $langDataURL = 'https://api.github.com/repos/fundevogel/fundevogel.de/languages';
-        $langDataResponse = Remote::get($langDataURL, $parameters);
-
-        # If everything goes well, process results ..
-        if ($langDataResponse->http_code() === 200) {
-            $langData = get_object_vars($langDataResponse->json(false));
-
-            # .. and cache data for one week (60 * 24 * 7)
-            $depsCache->set('langData', $langData, 10080);
-        }
-    }
-
-    # Add all programming languages detected by GitHub's `linguist`
-    #
-    # For unaccounted languages, we could loop over those (eg, `yaml`)
-    # and get their values too, like this:
-    # 'https://api.github.com/search/code?q=language:' . $language . '+repo:fundevogel.de/fundevogel+org:Fundevogel'
-    #
-    # See https://stackoverflow.com/a/26881503
-
-    $languages = array_keys($langData);
-    $numbers = array_values($langData);
-
-    $total = array_sum($numbers);
-
-    $percentages = [];
-
-    foreach ($numbers as $number) {
-        $percentage = ($number * 100) / $total;
-        $percentages[] = $percentage;
-    }
-
-    # Round percentages safely, using `largest remainder method`
-    # See https://en.wikipedia.org/wiki/Largest_remainder_method
-    $largestRemainder = new LargestRemainder($percentages);
-    // $largestRemainder->setPrecision(1);
-
-    $roundedPercentages = [];
-
-    foreach ($largestRemainder->round() as $number) {
-        $roundedPercentages[] = $number / 100;
-    }
-
-    # Fetch GitHub's language colors
-    $path = $kirby->root('config');
-    $file = $path . '/colors.json';
-
-    // if (!file_exists($file)) {
-    //     exec('cd ' . $kirby->root('base') . ' && source .env/bin/activate && python toolset/github_colors.py ' . $path);
-    // }
-
-    $colorData = json_decode(file_get_contents($file), true);
-
-    # Build languages array
-    foreach (array_combine($languages, $roundedPercentages) as $language => $percentage) {
-        $source['languages'][$language] = [
-            'value' => $percentage,
-            'color' => $colorData[$language],
-        ];
-    }
 
 
     # Fetch cached PageSpeed performance score
@@ -160,8 +88,8 @@ return function ($kirby, $page) {
 
             # FIX: Check for key 'error' meaning no scan could be found / run
             if (!isset($observatoryData['error'])) {
-                # .. and cache data for one week (60 * 24 * 7)
-                $depsCache->set('observatory', $observatoryData, 10080);
+                # .. and cache data for one quarter (60 * 24 * 7 * 4 * 3)
+                $depsCache->set('observatory', $observatoryData, 120960);
             }
         }
     }
@@ -327,9 +255,12 @@ return function ($kirby, $page) {
         $depsCache->set('pkgData', $pkgData, 10080);
     }
 
+    $languages = $page->languages()->toStructure();
+
     return compact(
         'source',
         'phpData',
         'pkgData',
+        'languages',
     );
 };

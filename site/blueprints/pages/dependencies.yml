@@ -33,5 +33,46 @@ tabs:
               en: Giving thanks
             type: markdown
 
+          fetchLanguages:
+            type: janitor
+            label:
+              de: Daten erzeugen
+              en: Generate data
+            progress: Bitte warten ..
+            job: fetchLanguages
+
+          languages:
+            label:
+              de: Programmiersprachen
+              en: Programming languages
+            type: structure
+            columns:
+              title:
+              share:
+            fields:
+              title:
+                label: Name
+                type: text
+              share:
+                label:
+                  de: Anteil
+                  en: Share
+                type: number
+                step: .01
+              color:
+                label:
+                  de: Farbe
+                  en: Color
+                type: text
+
+          chart:
+            extends: fields/single-cover
+            label:
+              de: Diagramm
+              en: Chart
+            query: page.files.filterBy('extension', 'svg')
+            image:
+              ratio: 1/1
+
   # Metadata
   tab_seo: tabs/seo

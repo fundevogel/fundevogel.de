@@ -18,7 +18,7 @@ Details:
 ## Freie Software für freie Menschen
 Digitale Freiheit ist eine kulturelle und soziale, aber auch ethische Frage. Auf unserer Webseite verwenden wir daher aus Überzeugung ausschließlich (link: https://www.gnu.org/philosophy/free-sw.de.html text: freie Software target: blank):
 
-(quote: "Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern." author: Richard Stallman (GNU-Projekt))
+(quote: Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern. author: Richard Stallman (GNU-Projekt))
 
 Das *Online* wirkt sich in vielen Bereichen unseres Lebens schon heute auf das *Offline* aus, etwa "soziale" Medien auf zwischenmenschliche Beziehungen oder Online-Shopping auf das Kaufverhalten. Freie Software kann dabei demokratische Teilhabe ermöglichen, denn sie ist transparent und wird von EntwicklerInnen weltweit gemeinsam erdacht, umgesetzt und gepflegt.
 
@@ -52,36 +52,54 @@ Mit wachsendem Umfang der digitalen Anforderungen an unsere Buchhandlung sind ü
 
 ----
 
+Languages:
+
+- 
+  title: PHP
+  share: 0.67
+  color: '#4F5D95'
+- 
+  title: TypeScript
+  share: 0.23
+  color: '#2b7489'
+- 
+  title: CSS
+  share: 0.05
+  color: '#563d7c'
+- 
+  title: Python
+  share: 0.04
+  color: '#3572A5'
+- 
+  title: Shell
+  share: 0.01
+  color: '#89e051'
+- 
+  title: JavaScript
+  share: 0
+  color: '#f1e05a'
+
+----
+
+Chart:
+
+- programmiersprachen.svg
+
+----
+
 Seotitle: Freie Software für freie Menschen
 
 ----
 
-Seodescription: Auf dieser Seite möchten wir einen Blick “hinter den Vorhang” gewähren und aufzeigen, wie viele und welche Softwareprojekte in unserer Webseite stecken.
+Misc: 
 
 ----
 
-Details:
-
-## Freie Software für freie Menschen
-Digitale Freiheit ist eine kulturelle und soziale, aber auch ethische Frage. Auf unserer Webseite verwenden wir daher aus Überzeugung ausschließlich (link: https://www.gnu.org/philosophy/free-sw.de.html text: freie Software target: blank):
-
-(quote: Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern. author: Richard Stallman (GNU-Projekt))
-
-Das *Online* wirkt sich in vielen Bereichen unseres Lebens schon heute auf das *Offline* aus, etwa "soziale" Medien auf zwischenmenschliche Beziehungen oder Online-Shopping auf das Kaufverhalten. Freie Software kann dabei demokratische Teilhabe ermöglichen, denn sie ist transparent und wird von EntwicklerInnen weltweit gemeinsam erdacht, umgesetzt und gepflegt.
-
-Das bekannteste Beispiel dieser neuen Kulturtechnik ist der Betriebssystemkern (link: https://de.wikipedia.org/wiki/Linux text: Linux), an dem nach Angaben der (link: https://www.linuxfoundation.org/blog/2017/10/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change text: Linux Foundation) mehr als 4300 EntwicklerInnen (Stand: 2017) gemeinsam arbeiten und der mittlerweile in Kühlschränken und Getränkeautomaten ebenso wie in Smartphones und Autos zu finden ist - und **auch im Fundevogel** kommt mit (link: https://de.wikipedia.org/wiki/Ubuntu text: Ubuntu target: blank) ein auf Linux basierendes Betriebssystem zum Einsatz!
+Php: 
 
 ----
 
-Misc:
-
-----
-
-Php:
-
-----
-
-Pkg:
+Pkg: 
 
 ----
 
