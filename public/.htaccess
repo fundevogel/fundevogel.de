@@ -1,4 +1,4 @@
-# Apache Server Configs v4.0.0 | MIT License
+# Apache Server Configs v4.1.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
 
 # (!) Using `.htaccess` files slows down Apache, therefore, if you have
@@ -11,7 +11,13 @@
 # # KIRBY                                                              #
 # ######################################################################
 
+# Rewrite any session cookies to make them more secure
+# Make ALL cookies created by this server are HttpOnly and Secure
+# See https://www.tunetheweb.com/security/http-security-headers/secure-cookies/
+Header always edit Set-Cookie (.*) "$1;HttpOnly;Secure"
+
 # Kirby .htaccess
+# revision 2020-06-15
 
 # rewrite rules
 <IfModule mod_rewrite.c>
@@ -21,43 +27,30 @@
 RewriteEngine on
 
 # make sure to set the RewriteBase correctly
-# if you are running the site in a subfolder.
-# Otherwise links or the entire site will break.
+# if you are running the site in a subfolder;
+# otherwise links or the entire site will break.
 #
-# If your homepage is http://yourdomain.com/mysite
-# Set the RewriteBase to:
+# If your homepage is http://yourdomain.com/mysite,
+# set the RewriteBase to:
 #
 # RewriteBase /mysite
 
-# In some enviroments it's necessary to
+# In some environments it's necessary to
 # set the RewriteBase to:
 #
 # RewriteBase /
-
-# Enable asset fingerprinting
-# See https://github.com/bnomei/kirby3-fingerprint
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.+)\.([0-9]{10})\.(js|css)$ $1.$3 [L]
-# RewriteRule ^(.+)\.([0-9a-z]{32})\.(js|css)$ $1.$3 [L]
-
-# Set cookie headers
-Header always edit Set-Cookie (.*) "$1; HTTPOnly; Secure"
 
 # block files and folders beginning with a dot, such as .git
 # except for the .well-known folder, which is used for Let's Encrypt and security.txt
 RewriteRule (^|/)\.(?!well-known\/) index.php [L]
 
-# block text files in the content folder from being accessed directly
-RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
+# block all files in the content folder from being accessed directly
+RewriteRule ^content/(.*) index.php [L]
 
 # block all files in the site folder from being accessed directly
-# except for requests to plugin assets files
 RewriteRule ^site/(.*) index.php [L]
 
-# Enable authentication header
-SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
-
-# block direct access to kirby and the panel sources
+# block direct access to Kirby and the Panel sources
 RewriteRule ^kirby/(.*) index.php [L]
 
 # make site links work
@@ -67,7 +60,10 @@ RewriteRule ^(.*) index.php [L]
 
 </IfModule>
 
-# WebP support
+# pass the Authorization header to PHP
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# Enable WebP support
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
@@ -109,9 +105,15 @@ RewriteRule ^(.*) index.php [L]
 #     allowing access based on (sub)domain:
 #
 #         Header set Access-Control-Allow-Origin "subdomain.example.com"
+#
+# (1) When `Access-Control-Allow-Origin` points to a specific rule rather
+#     than `*`, then `Vary: Origin` should be sent along with the response.
 
 # <IfModule mod_headers.c>
 #     Header set Access-Control-Allow-Origin "*"
+
+#     # (1)
+#     # Header append Vary Origin
 # </IfModule>
 
 # ----------------------------------------------------------------------
@@ -125,7 +127,7 @@ RewriteRule ^(.*) index.php [L]
 
 <IfModule mod_setenvif.c>
     <IfModule mod_headers.c>
-        <FilesMatch "\.(bmp|cur|gif|ico|jpe?g|a?png|svgz?|webp)$">
+        <FilesMatch "\.(avifs?|bmp|cur|gif|ico|jpe?g|jxl|a?png|svgz?|webp)$">
             SetEnvIf Origin ":" IS_CORS
             Header set Access-Control-Allow-Origin "*" env=IS_CORS
         </FilesMatch>
@@ -262,7 +264,10 @@ Options -MultiViews
 
     AddType audio/mp4                                   f4a f4b m4a
     AddType audio/ogg                                   oga ogg opus
+    AddType image/avif                                  avif
+    AddType image/avif-sequence                         avifs
     AddType image/bmp                                   bmp
+    AddType image/jxl                                   jxl
     AddType image/svg+xml                               svg svgz
     AddType image/webp                                  webp
     AddType video/mp4                                   f4v f4p m4v mp4
@@ -533,8 +538,7 @@ AddDefaultCharset utf-8
 #
 # Keep in mind that while you could send the `X-Frame-Options` header for all
 # of your website's pages, this has the potential downside that it forbids even
-# non-malicious framing of your content (e.g.: when users visit your website
-# using a Google Image Search results page).
+# non-malicious framing of your content.
 #
 # Nonetheless, you should ensure that you send the `X-Frame-Options` header for
 # all pages that allow a user to make a state-changing operation (e.g: pages
@@ -545,10 +549,13 @@ AddDefaultCharset utf-8
 # more than just clickjacking attacks.
 # https://cure53.de/xfo-clickjacking.pdf.
 #
-# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+# (!) The `Content-Security-Policy` header has a `frame-ancestors` directive
+#     which obsoletes this header for supporting browsers.
+#
 # https://tools.ietf.org/html/rfc7034
-# https://blogs.msdn.microsoft.com/ieinternals/2010/03/30/combating-clickjacking-with-x-frame-options/
-# https://www.owasp.org/index.php/Clickjacking
+# https://owasp.org/www-project-secure-headers/#x-frame-options
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+# https://docs.microsoft.com/archive/blogs/ieinternals/combating-clickjacking-with-x-frame-options
 
 <IfModule mod_headers.c>
     Header always set X-Frame-Options "DENY" "expr=%{CONTENT_TYPE} =~ m#text/html#i"
@@ -561,7 +568,7 @@ AddDefaultCharset utf-8
 # Mitigate the risk of cross-site scripting and other content-injection
 # attacks.
 #
-# This can be done by setting a `Content Security Policy` which whitelists
+# This can be done by setting a Content Security Policy which permits
 # trusted sources of content for your website.
 #
 # There is no policy that fits all websites, you will have to modify the
@@ -597,10 +604,17 @@ AddDefaultCharset utf-8
 #      The `frame-ancestors` directive helps avoid "Clickjacking" attacks and
 #      is similar to the `X-Frame-Options` header.
 #
-#      Browsers that support the CSP header will ignore `X-Frame-Options` if
+#      Browsers that support the CSP header should ignore `X-Frame-Options` if
 #      `frame-ancestors` is also specified.
 #
-#  (5) Forces the browser to treat all the resources that are served over HTTP
+#  (5) Elements controlled by `object-src` are perhaps coincidentally
+#      considered legacy HTML elements and are not receiving new standardized
+#      features (such as the security attributes `sandbox` or `allow` for
+#      `<iframe>`).
+#      Therefore it is recommended to restrict this fetch-directive (e.g.,
+#      explicitly set `object-src 'none'` if possible).
+#
+#  (6) Forces the browser to treat all the resources that are served over HTTP
 #      as if they were loaded securely over HTTPS by setting the
 #      `upgrade-insecure-requests` directive.
 #
@@ -609,7 +623,7 @@ AddDefaultCharset utf-8
 #      loaded over HTTPS you must include the `Strict-Transport-Security`
 #      header.
 #
-#  (6) The `Content-Security-Policy` header is included in all responses
+#  (7) The `Content-Security-Policy` header is included in all responses
 #      that are able to execute scripting. This includes the commonly used
 #      file types: HTML, XML and PDF documents. Although Javascript files
 #      can not execute script in a "browsing context", they are still included
@@ -624,14 +638,15 @@ AddDefaultCharset utf-8
 # such as:
 # https://csp-evaluator.withgoogle.com
 #
-# https://csp.withgoogle.com/docs/
-# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
-# https://www.html5rocks.com/en/tutorials/security/content-security-policy/
 # https://www.w3.org/TR/CSP/
+# https://owasp.org/www-project-secure-headers/#content-security-policy
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
+# https://developers.google.com/web/fundamentals/security/csp
+# https://content-security-policy.com/
 
 # <IfModule mod_headers.c>
-#     #                                   (1)                 (2)              (3)                 (4)                     (5)                         (6)
-#     Header always set Content-Security-Policy "default-src 'self'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
+#     #                                          (1)                 (2)              (3)                 (4)                     (5)                (6)                                                 (7)
+#     Header always set Content-Security-Policy "default-src 'self'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; object-src 'none'; upgrade-insecure-requests" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
 # </IfModule>
 
 # ----------------------------------------------------------------------
@@ -724,9 +739,9 @@ AddDefaultCharset utf-8
 #     https://hstspreload.org/#deployment-recommendations
 #
 # https://tools.ietf.org/html/rfc6797#section-6.1
+# https://owasp.org/www-project-secure-headers/#http-strict-transport-security
 # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
 # https://www.html5rocks.com/en/tutorials/security/transport-layer-security/
-# https://blogs.msdn.microsoft.com/ieinternals/2014/08/18/strict-transport-security/
 # https://hstspreload.org/
 
 <IfModule mod_headers.c>
@@ -746,6 +761,7 @@ AddDefaultCharset utf-8
 # user-uploaded content or content that could potentially be treated as
 # executable by the browser.
 #
+# https://owasp.org/www-project-secure-headers/#x-content-type-options
 # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
 # https://blogs.msdn.microsoft.com/ie/2008/07/02/ie8-security-part-v-comprehensive-protection/
 # https://mimesniff.spec.whatwg.org/
@@ -764,9 +780,9 @@ AddDefaultCharset utf-8
 #     web browsers.
 #
 #     The filter is usually enabled by default, but in some cases, it may be
-#     disabled by the user. However, in Internet Explorer, for example, it can be
-#     re-enabled just by sending the  `X-XSS-Protection` header with the value
-#     of `1`.
+#     disabled by the user. However, in Internet Explorer, for example, it can
+#     be re-enabled just by sending the `X-XSS-Protection` header with the
+#     value of `1`.
 #
 # (2) Prevent web browsers from rendering the web page if a potential reflected
 #     (a.k.a non-persistent) XSS attack is detected by the filter.
@@ -815,13 +831,88 @@ AddDefaultCharset utf-8
 # https://securityheaders.com/
 # https://observatory.mozilla.org/
 #
-# https://scotthelme.co.uk/a-new-security-header-referrer-policy/
+# https://www.w3.org/TR/referrer-policy/
+# https://owasp.org/www-project-secure-headers/#referrer-policy
 # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy
+# https://scotthelme.co.uk/a-new-security-header-referrer-policy/
 
 <IfModule mod_headers.c>
     #                                                             (1)
     Header always set Referrer-Policy "strict-origin-when-cross-origin" "expr=%{CONTENT_TYPE} =~ m#text\/(css|html|javascript)|application\/pdf|xml#i"
 </IfModule>
+
+# ----------------------------------------------------------------------
+# | Cross Origin Policy                                                |
+# ----------------------------------------------------------------------
+
+# Set strict a Cross Origin Policy to mitigate information leakage.
+#
+# (1) Cross-Origin-Embedder-Policy prevents a document from loading any
+#     cross-origin resources that don’t explicitly grant the document
+#     permission.
+#     https://html.spec.whatwg.org/multipage/origin.html#coep
+#     https://owasp.org/www-project-secure-headers/#cross-origin-embedder-policy
+#     https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy
+#
+# (2) Cross-Origin-Opener-Policy allows you to ensure a top-level document does
+#     not share a browsing context group with cross-origin documents.
+#     https://html.spec.whatwg.org/multipage/origin.html#cross-origin-opener-policies
+#     https://owasp.org/www-project-secure-headers/#cross-origin-opener-policy
+#     https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Opener-Policy
+#
+# (3) Cross-Origin-Resource-Policy allows to define a policy that lets web
+#     sites and applications opt in to protection against certain requests from
+#     other origins, to mitigate speculative side-channel attacks.
+#     https://fetch.spec.whatwg.org/#cross-origin-resource-policy-header
+#     https://owasp.org/www-project-secure-headers/#cross-origin-resource-policy
+#     https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy
+#     https://resourcepolicy.fyi/
+#
+# To check your Cross Origin Policy, you can use an online service, such as:
+# https://securityheaders.com/
+# https://observatory.mozilla.org/
+#
+# https://web.dev/coop-coep/
+# https://web.dev/why-coop-coep/
+# https://web.dev/cross-origin-isolation-guide/
+# https://scotthelme.co.uk/coop-and-coep/
+
+<IfModule mod_headers.c>
+    # (1)
+    Header always set Cross-Origin-Embedder-Policy "require-corp" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
+
+    # (2)
+    Header always set Cross-Origin-Opener-Policy "same-origin" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
+
+    # (3)
+    Header always set Cross-Origin-Resource-Policy "same-origin" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
+</IfModule>
+
+# ----------------------------------------------------------------------
+# | Permissions Policy                                                 |
+# ----------------------------------------------------------------------
+
+# Set a strict Permissions Policy to mitigate access to browser features.
+#
+# The header uses a structured syntax, and allows sites to more tightly
+# restrict which origins can be granted access to features.
+# The list of available features: https://github.com/w3c/webappsec-permissions-policy/blob/main/features.md
+#
+# The example policy below aims to disable all features expect synchronous
+# `XMLHttpRequest` requests on the same origin.
+#
+# To check your Permissions Policy, you can use an online service, such as:
+# https://securityheaders.com/
+# https://observatory.mozilla.org/
+#
+# https://www.w3.org/TR/permissions-policy-1/
+# https://owasp.org/www-project-secure-headers/#permissions-policy
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Feature-Policy
+# https://scotthelme.co.uk/a-new-security-header-feature-policy/
+
+# <IfModule mod_headers.c>
+#     Header always set Permissions-Policy "accelerometer=(),autoplay=(),camera=(),display-capture=(),document-domain=(),encrypted-media=(),fullscreen=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),picture-in-picture=(),publickey-credentials-get=(),screen-wake-lock=(),sync-xhr=(self),usb=(),web-share=(),xr-spatial-tracking=()" "expr=%{CONTENT_TYPE} =~ m#text\/(html|javascript)|application\/pdf|xml#i"
+# </IfModule>
 
 # ----------------------------------------------------------------------
 # | Disable TRACE HTTP Method                                          |
@@ -986,7 +1077,10 @@ ServerSignature Off
 # (!) To make this part relevant, you need to generate encoded files by your
 #     own. Enabling this part will not auto-generate brotlied files.
 #
-# Note that some clients (eg. browsers) require a secure connection to request
+# (1) Remove default Content-Language header added for .br files.
+#     https://httpd.apache.org/docs/current/mod/mod_mime.html#multipleext
+#
+# Note that some clients (e.g. browsers) require a secure connection to request
 # brotli-compressed resources.
 # https://www.chromestatus.com/feature/5420797577396224
 #
@@ -1004,6 +1098,9 @@ ServerSignature Off
 #     <FilesMatch "\.br$">
 
 #         <IfModule mod_mime.c>
+#             # (1)
+#             RemoveLanguage .br
+
 #             # Serve correct content types
 #             AddType text/css              css.br
 #             AddType text/calendar         ics.br
@@ -1206,17 +1303,20 @@ FileETag None
 
   # Media files
 
-    ExpiresByType audio/ogg                             "access plus 1 year"
-    ExpiresByType image/apng                            "access plus 1 year"
-    ExpiresByType image/bmp                             "access plus 1 year"
-    ExpiresByType image/gif                             "access plus 1 year"
-    ExpiresByType image/jpeg                            "access plus 1 year"
-    ExpiresByType image/png                             "access plus 1 year"
-    ExpiresByType image/svg+xml                         "access plus 1 year"
-    ExpiresByType image/webp                            "access plus 1 year"
-    ExpiresByType video/mp4                             "access plus 1 year"
-    ExpiresByType video/ogg                             "access plus 1 year"
-    ExpiresByType video/webm                            "access plus 1 year"
+    ExpiresByType audio/ogg                             "access plus 1 month"
+    ExpiresByType image/apng                            "access plus 1 month"
+    ExpiresByType image/avif                            "access plus 1 month"
+    ExpiresByType image/avif-sequence                   "access plus 1 month"
+    ExpiresByType image/bmp                             "access plus 1 month"
+    ExpiresByType image/gif                             "access plus 1 month"
+    ExpiresByType image/jpeg                            "access plus 1 month"
+    ExpiresByType image/jxl                             "access plus 1 month"
+    ExpiresByType image/png                             "access plus 1 month"
+    ExpiresByType image/svg+xml                         "access plus 1 month"
+    ExpiresByType image/webp                            "access plus 1 month"
+    ExpiresByType video/mp4                             "access plus 1 month"
+    ExpiresByType video/ogg                             "access plus 1 month"
+    ExpiresByType video/webm                            "access plus 1 month"
 
 
   # WebAssembly
@@ -1227,28 +1327,28 @@ FileETag None
   # Web fonts
 
     # Collection
-    ExpiresByType font/collection                       "access plus 1 year"
+    ExpiresByType font/collection                       "access plus 1 month"
 
     # Embedded OpenType (EOT)
-    ExpiresByType application/vnd.ms-fontobject         "access plus 1 year"
-    ExpiresByType font/eot                              "access plus 1 year"
+    ExpiresByType application/vnd.ms-fontobject         "access plus 1 month"
+    ExpiresByType font/eot                              "access plus 1 month"
 
     # OpenType
-    ExpiresByType font/opentype                         "access plus 1 year"
-    ExpiresByType font/otf                              "access plus 1 year"
+    ExpiresByType font/opentype                         "access plus 1 month"
+    ExpiresByType font/otf                              "access plus 1 month"
 
     # TrueType
-    ExpiresByType application/x-font-ttf                "access plus 1 year"
-    ExpiresByType font/ttf                              "access plus 1 year"
+    ExpiresByType application/x-font-ttf                "access plus 1 month"
+    ExpiresByType font/ttf                              "access plus 1 month"
 
     # Web Open Font Format (WOFF) 1.0
-    ExpiresByType application/font-woff                 "access plus 1 year"
-    ExpiresByType application/x-font-woff               "access plus 1 year"
-    ExpiresByType font/woff                             "access plus 1 year"
+    ExpiresByType application/font-woff                 "access plus 1 month"
+    ExpiresByType application/x-font-woff               "access plus 1 month"
+    ExpiresByType font/woff                             "access plus 1 month"
 
     # Web Open Font Format (WOFF) 2.0
-    ExpiresByType application/font-woff2                "access plus 1 year"
-    ExpiresByType font/woff2                            "access plus 1 year"
+    ExpiresByType application/font-woff2                "access plus 1 month"
+    ExpiresByType font/woff2                            "access plus 1 month"
 
 
   # Other
@@ -1303,5 +1403,5 @@ FileETag None
 # <IfModule mod_rewrite.c>
 #     RewriteEngine On
 #     RewriteCond %{REQUEST_FILENAME} !-f
-#     RewriteRule ^(.+)\.(\w+)\.(bmp|css|cur|gif|ico|jpe?g|m?js|a?png|svgz?|webp|webmanifest)$ $1.$3 [L]
+#     RewriteRule ^(.+)\.(\w+)\.(avifs?|bmp|css|cur|gif|ico|jpe?g|jxl|m?js|a?png|svgz?|webp|webmanifest)$ $1.$3 [L]
 # </IfModule>
