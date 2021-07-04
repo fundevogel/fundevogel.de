@@ -70,6 +70,14 @@ tabs:
             fields:
               limit_perpage: fields/groups/limit-perpage
 
+              fallback:
+                extends: fields/single-cover
+                label:
+                  de: Reservebild
+                  en: Fallback image
+                image:
+                  ratio: 1/1
+
           sidebar_documents:
             headline:
               de: Ausgaben

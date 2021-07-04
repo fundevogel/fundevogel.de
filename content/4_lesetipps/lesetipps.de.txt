@@ -19,6 +19,12 @@ Perpage: 5
 
 ----
 
+Fallback:
+
+- fallback.jpg
+
+----
+
 Seotitle: Lesetipps
 
 ----

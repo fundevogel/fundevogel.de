@@ -57,7 +57,7 @@ return [
         // (1) Default cover image
         $default = $this->coverImage()->toFile();
         // (2) Fallback cover image
-        $fallback = site()->fallback()->toFile();
+        $fallback = page('lesetipps')->fallback()->toFile();
         $cover = $default !== null
             ? $default
             : $fallback

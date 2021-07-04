@@ -2,26 +2,18 @@ Title: Kinder- und Jugendbuchhandlung Fundevogel
 
 ----
 
-Mail: info@fundevogel.de
-
-----
-
-Shop: https://fundevogel.buchkatalog.de
-
-----
-
 Awards:
 
-- 
+-
   identifier: wolgast
   award: Heinrich-Wolgast-Preis
   donor: Gewerkschaft Erziehung und Wissenschaft
   donorlink: https://www.gew.de
   description: |
     Der Heinrich-Wolgast-Preis wird alle zwei Jahre von der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank) (GEW) vergeben und würdigt Kinder- und Jugendliteratur in allen medialen Formen, die sich in besonderer Weise der Darstellung von Arbeitswelten in der Kinder- und Jugendliteratur verpflichtet haben - weitere Informationen zur Preisverleihung findet ihr (link: https://www.gew.de/ausschuesse-arbeitsgruppen/weitere-gruppen/die-ajum/wolgast-preis text: hier target: blank).
-    
+
     Die GEW engagiert sich für Chancengleichheit und Mitbestimmung in einem demokratischen und inklusiven Bildungswesen und ist Mitglied im (link: https://www.dgb.de text: Deutschen Gewerkschaftsbund target: blank).
-- 
+-
   identifier: lesepeter
   award: LesePeter
   donor: >
@@ -30,15 +22,19 @@ Awards:
   donorlink: https://www.ajum.de
   description: |
     Die Auszeichnung "LesePeter" wird monatlich von der (link: https://www.ajum.de text: Arbeitsgemeinschaft Jugendliteratur und Medien target: blank) (AJuM) vergeben und würdigt herausragende Bücher. Die Vergabe erfolgt abwechselnd in den Sparten *Kinderbuch*, *Jugendbuch*, *Sachbuch* und *Bilderbuch* - die Liste aller Preisträger findet ihr (link: https://www.ajum.de/html/Lesepeter/chronos.htm text: hier target: blank).
-    
+
     Die AJuM engagiert sich bundesweit für Leseförderung und Medienbildung in Kindergarten, Schule, Bibliothek, Hort, Hochschule und anderen Einrichtungen und ist Teil der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank).
+
+----
+
+Coronamode: false
 
 ----
 
 Coronatext:
 
 ## Wir haben wieder geöffnet!
-Wir freuen uns sehr, dass wir ab dem 8.3.21 unsere Buchhandlung wieder für euch öffnen dürfen. 
+Wir freuen uns sehr, dass wir ab dem 8.3.21 unsere Buchhandlung wieder für euch öffnen dürfen.
 
 **Wir sind zu folgenden Zeiten für euch da:
 Mo-Fr: 9:30 Uhr - 18 Uhr
@@ -61,13 +57,15 @@ Fundevogel-Team
 
 ----
 
-Fallback:
-
-- fallback.jpg
+Mail: info@fundevogel.de
 
 ----
 
-Coronamode: false
+Shop: https://fundevogel.buchkatalog.de
+
+----
+
+Instagram:
 
 ----
 

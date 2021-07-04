@@ -9,7 +9,7 @@ return [
 
         if ($this->intendedTemplate() == 'lesetipps.article') {
             if ($this->books()->isEmpty()) {
-                return site()->fallback()->toFile();
+                return page('lesetipps')->fallback()->toFile();
             }
 
             $page = $this->books()->toPages()->first();
@@ -17,7 +17,7 @@ return [
 
         $cover = $page->hasCover()
             ? $page->cover()->toFile()
-            : site()->fallback()->toFile()
+            : page('lesetipps')->fallback()->toFile()
         ;
 
         if (!$page->cover()->exists()) {
