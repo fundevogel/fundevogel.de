@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die kleine Hexe hat Geburtstag, Audio-CD" von Li
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

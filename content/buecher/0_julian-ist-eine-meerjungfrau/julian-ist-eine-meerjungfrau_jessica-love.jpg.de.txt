@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Julian ist eine Meerjungfrau" von Jessica Love
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

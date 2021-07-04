@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Rübezahl" von Thomas Bachmann
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

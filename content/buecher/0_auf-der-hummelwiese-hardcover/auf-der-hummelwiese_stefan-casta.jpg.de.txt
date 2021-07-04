@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Auf der Hummelwiese" von Stefan Casta
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Und dann ist Frühling" von Julie Fogliano; Erin
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

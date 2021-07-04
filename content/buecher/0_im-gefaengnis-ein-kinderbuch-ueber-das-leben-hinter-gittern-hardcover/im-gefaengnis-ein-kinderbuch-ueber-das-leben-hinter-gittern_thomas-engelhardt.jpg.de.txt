@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Im Gefängnis" von Thomas Engelhardt
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

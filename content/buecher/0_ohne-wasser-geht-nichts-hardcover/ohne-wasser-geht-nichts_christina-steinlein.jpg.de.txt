@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ohne Wasser geht nichts!" von Christina Steinlei
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

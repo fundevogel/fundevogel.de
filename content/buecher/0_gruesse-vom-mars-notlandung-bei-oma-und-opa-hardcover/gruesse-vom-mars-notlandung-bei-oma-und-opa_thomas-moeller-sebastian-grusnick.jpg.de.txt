@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Grüße vom Mars" von Thomas Möller; Sebastian 
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

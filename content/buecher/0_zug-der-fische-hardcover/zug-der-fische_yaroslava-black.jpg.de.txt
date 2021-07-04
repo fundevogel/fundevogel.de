@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Zug der Fische" von Yaroslava Black
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

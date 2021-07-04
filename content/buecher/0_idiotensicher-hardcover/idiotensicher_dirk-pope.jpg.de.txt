@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Idiotensicher" von Dirk Pope
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

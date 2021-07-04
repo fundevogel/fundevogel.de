@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Känguruh-Chroniken" von Marc-Uwe Kling
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

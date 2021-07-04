@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Warum gibt es uns?" von Johan Olsen
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

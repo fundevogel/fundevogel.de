@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Alle Welt" von Aleksandra Mizielinska; Daniel Mi
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

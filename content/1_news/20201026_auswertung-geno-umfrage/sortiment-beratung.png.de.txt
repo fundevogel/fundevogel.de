@@ -2,11 +2,19 @@ Titleattribute: "Sind Sie mit Beratung und Sortimentsauswahl zufrieden?"
 
 ----
 
-Source: Kundenumfrage 2020
+Source: 
 
 ----
 
 Altattribute: Graphik zur Frage "Sind Sie mit Beratung und Sortimentsauswahl zufrieden?"
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
 
 ----
 

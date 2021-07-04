@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Abenteuer des Huckleberry Finn" von Mark Twa
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

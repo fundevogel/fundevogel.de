@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Klappe, Cut, Hurra" von Kerstin Wacker; Henrik H
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

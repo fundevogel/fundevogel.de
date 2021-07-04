@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Tod auf dem Apfelbaum" von Kathrin Schärer
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

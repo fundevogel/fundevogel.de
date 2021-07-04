@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Grompel, Chaos im Anmarsch" von Bettina Obrecht
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

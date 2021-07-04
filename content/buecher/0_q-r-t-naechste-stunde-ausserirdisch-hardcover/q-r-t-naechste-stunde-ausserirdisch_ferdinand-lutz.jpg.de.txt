@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Q-R-T: Nächste Stunde: Außerirdisch" von Ferdi
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

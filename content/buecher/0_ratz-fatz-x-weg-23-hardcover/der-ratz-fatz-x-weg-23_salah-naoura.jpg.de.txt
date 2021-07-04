@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Ratz-Fatz-x-weg 23" von Salah Naoura
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Briefe vom Weihnachtsmann" von John R. R. Tolkie
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

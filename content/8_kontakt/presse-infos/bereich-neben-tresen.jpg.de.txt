@@ -1,12 +1,12 @@
-Titleattribute:
+Titleattribute: 
 
 ----
 
-Source:
+Source: 
 
 ----
 
-Altattribute:
+Altattribute: 
 
 ----
 

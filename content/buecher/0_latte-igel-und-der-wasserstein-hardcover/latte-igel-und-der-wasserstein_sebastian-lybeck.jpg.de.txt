@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Latte Igel und der Wasserstein" von Sebastian Ly
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

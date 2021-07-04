@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Flätscher - Die Sache stinkt!" von Antje Szilla
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

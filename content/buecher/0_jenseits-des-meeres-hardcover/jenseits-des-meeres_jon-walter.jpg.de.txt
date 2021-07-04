@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Jenseits des Meeres" von Jon Walter
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

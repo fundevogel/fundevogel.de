@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Toni" von Philip Waechter
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

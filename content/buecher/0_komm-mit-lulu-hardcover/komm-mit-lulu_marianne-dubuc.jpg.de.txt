@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Komm mit, Lulu!" von Marianne Dubuc
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

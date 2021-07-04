@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hallo, Herr Eisbär!" von Maria Farrer
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -2,11 +2,19 @@ Titleattribute: Viel Platz für die Neuerscheinungen aus Herbst und Winter
 
 ----
 
-Source: Eva Killy, "buchreport.spezial 2020"
+Source: 
 
 ----
 
 Altattribute: Regal mit Neuerscheinungen im Fundevogel
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
 
 ----
 

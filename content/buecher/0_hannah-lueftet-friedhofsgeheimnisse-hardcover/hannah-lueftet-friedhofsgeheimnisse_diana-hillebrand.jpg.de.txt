@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hannah lüftet Friedhofsgeheimnisse" von Diana H
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

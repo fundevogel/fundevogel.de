@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Baum der Jahreszeiten" von Britta Teckentrup
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

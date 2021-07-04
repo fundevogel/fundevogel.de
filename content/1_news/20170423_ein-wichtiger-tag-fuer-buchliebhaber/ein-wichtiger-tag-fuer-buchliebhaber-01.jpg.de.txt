@@ -1,3 +1,19 @@
+Titleattribute: 
+
+----
+
+Source: 
+
+----
+
+Altattribute: 
+
+----
+
+Caption-wanted: false
+
+----
+
 Caption: Welttag des Buches am 23. April - Wir sind dabei!
 
 ----
@@ -7,11 +23,3 @@ Alt: Offizielles Poster zum Welttag des Buches am 23. April 2017 unter dem Motto
 ----
 
 Template: image
-
-----
-
-Titleattribute: 
-
-----
-
-Altattribute: 

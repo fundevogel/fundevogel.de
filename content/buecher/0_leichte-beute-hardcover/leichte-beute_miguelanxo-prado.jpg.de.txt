@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Leichte Beute" von Miguelanxo Prado
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

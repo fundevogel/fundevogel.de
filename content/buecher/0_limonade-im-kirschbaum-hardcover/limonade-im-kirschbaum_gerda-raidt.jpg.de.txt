@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Limonade im Kirschbaum" von Gerda Raidt
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

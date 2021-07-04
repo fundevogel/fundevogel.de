@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Eisbjörn" von Max Kaplan
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

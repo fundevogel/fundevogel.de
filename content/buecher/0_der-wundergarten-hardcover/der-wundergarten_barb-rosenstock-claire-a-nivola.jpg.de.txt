@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Wundergarten" von Barb Rosenstock; Claire A.
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

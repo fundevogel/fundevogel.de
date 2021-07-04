@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hörst du, wie die Bäume sprechen?" von Peter W
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

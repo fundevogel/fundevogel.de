@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Marienkäfer" von Bernadette Gervais
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Harry Potter und der Stein der Weisen" von J. K.
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

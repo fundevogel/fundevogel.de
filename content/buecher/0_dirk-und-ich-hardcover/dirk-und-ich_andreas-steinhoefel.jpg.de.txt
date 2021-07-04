@@ -1,13 +1,1 @@
-Titleattribute: "Dirk und ich, Jubiläumsausgabe" von Andreas Steinhöfel
-
-----
-
-Source: Deutsche Nationalbibliothek
-
-----
-
-Altattribute: Cover des Buches "Dirk und ich, Jubiläumsausgabe" von Andreas Steinhöfel
-
-----
-
 Template: image

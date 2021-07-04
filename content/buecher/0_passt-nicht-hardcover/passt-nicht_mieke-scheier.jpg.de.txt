@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Passt nicht" von Mieke Scheier
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Unter meinen Füßen" von Charlotte Guillain
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

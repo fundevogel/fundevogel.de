@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die magische Zahnspange" von Lukas Hartmann
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

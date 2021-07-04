@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Post aus Paidonesien" von Oriol Canosa
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

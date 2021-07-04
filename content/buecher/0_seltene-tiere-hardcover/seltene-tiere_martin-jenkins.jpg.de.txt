@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Seltene Tiere" von Martin Jenkins
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

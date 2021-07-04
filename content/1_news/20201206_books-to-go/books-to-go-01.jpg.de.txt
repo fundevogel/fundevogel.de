@@ -10,4 +10,12 @@ Altattribute: Abholfenster vorm Ladengeschäft
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

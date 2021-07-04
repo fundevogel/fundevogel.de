@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Wolfsbrot" von Kilian Leypold
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

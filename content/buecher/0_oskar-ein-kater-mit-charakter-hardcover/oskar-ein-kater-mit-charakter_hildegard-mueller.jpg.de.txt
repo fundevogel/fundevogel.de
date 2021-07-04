@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Oskar - Ein Kater mit Charakter" von Hildegard M
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

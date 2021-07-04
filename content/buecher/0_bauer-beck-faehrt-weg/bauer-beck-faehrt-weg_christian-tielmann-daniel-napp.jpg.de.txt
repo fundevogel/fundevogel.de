@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Bauer Beck fährt weg, Maxi-Ausgabe" von Christi
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

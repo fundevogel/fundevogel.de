@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein Strandtag" von Vessela Nikolova
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

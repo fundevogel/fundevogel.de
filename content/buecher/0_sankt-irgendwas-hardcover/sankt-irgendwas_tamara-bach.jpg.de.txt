@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Sankt Irgendwas" von Tamara Bach
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

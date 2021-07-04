@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Mondwandlerin" von Myriam Bendhif-Sylla
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

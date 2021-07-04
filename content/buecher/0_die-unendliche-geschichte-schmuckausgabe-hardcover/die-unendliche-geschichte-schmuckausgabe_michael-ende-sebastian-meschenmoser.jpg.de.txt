@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die unendliche Geschichte, Schmuckausgabe" von M
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

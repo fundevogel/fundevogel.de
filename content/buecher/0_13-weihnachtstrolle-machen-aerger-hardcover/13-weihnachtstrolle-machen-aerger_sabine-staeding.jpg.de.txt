@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "13 Weihnachtstrolle machen Ärger" von Sabine St
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

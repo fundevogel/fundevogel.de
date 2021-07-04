@@ -3,3 +3,7 @@ Caption:
 ----
 
 Alt: 
+
+----
+
+Template: image

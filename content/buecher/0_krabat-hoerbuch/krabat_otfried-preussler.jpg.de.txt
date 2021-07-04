@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Krabat" von Otfried Preußler
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

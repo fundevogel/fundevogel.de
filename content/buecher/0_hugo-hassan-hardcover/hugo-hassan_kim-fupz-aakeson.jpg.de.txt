@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hugo & Hassan" von Kim Fupz Aakeson
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

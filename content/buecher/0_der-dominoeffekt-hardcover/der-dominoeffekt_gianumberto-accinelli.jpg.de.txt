@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Dominoeffekt" von Gianumberto Accinelli
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

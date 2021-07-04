@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Linkslesestärke oder Die Sache mit den Borten u
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

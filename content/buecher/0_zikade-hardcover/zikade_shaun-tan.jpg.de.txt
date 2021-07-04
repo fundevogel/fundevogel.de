@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Zikade" von Shaun Tan
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

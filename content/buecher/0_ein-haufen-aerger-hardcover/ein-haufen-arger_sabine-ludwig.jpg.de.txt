@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein Haufen Ärger" von Sabine Ludwig
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

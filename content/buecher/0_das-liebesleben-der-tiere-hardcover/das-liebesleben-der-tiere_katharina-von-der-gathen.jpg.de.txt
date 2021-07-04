@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das Liebesleben der Tiere" von Katharina von der
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

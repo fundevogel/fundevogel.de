@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Americanah" von Chimamanda Ngozi Adichie
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

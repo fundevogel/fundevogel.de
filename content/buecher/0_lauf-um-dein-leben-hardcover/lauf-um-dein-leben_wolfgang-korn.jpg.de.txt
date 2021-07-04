@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Lauf um dein Leben!" von Wolfgang Korn
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

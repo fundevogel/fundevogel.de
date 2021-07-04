@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das Lied vom Ende" von Christoph Jehlicka
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

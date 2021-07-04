@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein Fuchs - 100 Hühner" von Kate Read
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

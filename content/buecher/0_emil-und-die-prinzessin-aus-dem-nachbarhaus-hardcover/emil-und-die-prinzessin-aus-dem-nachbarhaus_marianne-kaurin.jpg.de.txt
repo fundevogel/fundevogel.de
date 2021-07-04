@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Emil und die Prinzessin aus dem Nachbarhaus" von
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -1,9 +1,21 @@
-Template: image
-
-----
-
 Titleattribute: 
 
 ----
 
+Source: 
+
+----
+
 Altattribute: 
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

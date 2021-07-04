@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Affenbande" von Owen Davey
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

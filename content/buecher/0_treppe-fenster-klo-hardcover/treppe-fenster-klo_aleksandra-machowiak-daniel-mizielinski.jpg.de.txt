@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Treppe, Fenster, Klo" von Aleksandra Machowiak; 
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -2,11 +2,19 @@ Titleattribute: Auszug des Artikels "Das richtige Buch zur richtigen Zeit finden
 
 ----
 
-Source: Eva Killy, "buchreport.spezial 2020"
+Source: 
 
 ----
 
 Altattribute: Erste Seite eines Zeitungsartikels des "buchreport.spezial 2020"
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
 
 ----
 

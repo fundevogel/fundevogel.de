@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Max und die Wilde Sieben - Die Drachenbande" von
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

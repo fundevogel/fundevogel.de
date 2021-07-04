@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Bestimmt wird alles gut" von Kirsten Boie
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

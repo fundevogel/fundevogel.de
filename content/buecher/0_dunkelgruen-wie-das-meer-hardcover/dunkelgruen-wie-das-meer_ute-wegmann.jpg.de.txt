@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Dunkelgrün wie das Meer" von Ute Wegmann
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

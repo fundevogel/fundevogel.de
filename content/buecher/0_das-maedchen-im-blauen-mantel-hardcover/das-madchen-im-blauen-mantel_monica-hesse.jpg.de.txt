@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das Mädchen im blauen Mantel" von Monica Hesse
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

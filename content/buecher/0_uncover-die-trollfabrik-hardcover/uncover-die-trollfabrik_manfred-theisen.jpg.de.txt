@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Uncover - Die Trollfabrik" von Manfred Theisen
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

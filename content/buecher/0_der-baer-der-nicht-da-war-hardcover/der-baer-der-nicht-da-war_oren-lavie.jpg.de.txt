@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Bär, der nicht da war" von Oren Lavie
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

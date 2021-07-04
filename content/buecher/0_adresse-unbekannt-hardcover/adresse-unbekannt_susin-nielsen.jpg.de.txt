@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Adresse unbekannt" von Susin Nielsen
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

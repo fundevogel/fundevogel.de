@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Katze ist es ganz egal" von Franz Orghandl
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

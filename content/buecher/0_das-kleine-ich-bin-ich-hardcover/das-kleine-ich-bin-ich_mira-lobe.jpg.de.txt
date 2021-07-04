@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das kleine Ich bin ich" von Mira Lobe
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

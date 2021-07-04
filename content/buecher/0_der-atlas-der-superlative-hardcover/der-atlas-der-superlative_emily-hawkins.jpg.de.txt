@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Atlas der Superlative" von Emily Hawkins
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

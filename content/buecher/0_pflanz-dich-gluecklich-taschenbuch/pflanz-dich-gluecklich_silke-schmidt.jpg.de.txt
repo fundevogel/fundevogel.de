@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Pflanz dich glücklich!" von Silke Schmidt
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

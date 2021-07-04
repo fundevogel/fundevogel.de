@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Mehr Schwarz als Lila" von Lena Gorelik
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

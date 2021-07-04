@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Mia und die aus der 19" von Nicole Mahne
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

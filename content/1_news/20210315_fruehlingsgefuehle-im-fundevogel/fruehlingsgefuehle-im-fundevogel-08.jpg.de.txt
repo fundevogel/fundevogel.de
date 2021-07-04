@@ -1,1 +1,25 @@
+Titleattribute: 
+
+----
+
+Source: 
+
+----
+
+Altattribute: 
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Sort: 6
+
+----
+
+Template: image

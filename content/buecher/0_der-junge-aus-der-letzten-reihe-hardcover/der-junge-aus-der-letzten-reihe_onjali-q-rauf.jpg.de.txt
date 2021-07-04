@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Junge aus der letzten Reihe" von Onjali Q. R
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

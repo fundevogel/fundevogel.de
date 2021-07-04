@@ -10,4 +10,12 @@ Altattribute: Bild mit der Aufschrift "Keine Vorschau vorhanden!"
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

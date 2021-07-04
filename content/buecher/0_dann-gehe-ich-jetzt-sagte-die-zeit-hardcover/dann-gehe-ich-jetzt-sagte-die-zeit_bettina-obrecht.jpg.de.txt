@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Dann gehe ich jetzt, sagte die Zeit" von Bettina
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein Teich voll mit Tinte" von Annie M. G. Schmid
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

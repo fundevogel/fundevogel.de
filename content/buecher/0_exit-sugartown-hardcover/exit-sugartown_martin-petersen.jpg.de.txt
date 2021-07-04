@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Exit Sugartown" von Martin Petersen
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

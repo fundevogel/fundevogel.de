@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Grüner wird's nicht!" von
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -31,3 +31,5 @@ tabs:
       sidebar_fields:
         fields:
           date: fields/date
+
+      sidebar_files: sections/images

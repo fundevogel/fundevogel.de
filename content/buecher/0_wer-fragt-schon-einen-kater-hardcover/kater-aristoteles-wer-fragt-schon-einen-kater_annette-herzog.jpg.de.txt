@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Kater Aristoteles - Wer fragt schon einen Kater?
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

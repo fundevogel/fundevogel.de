@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Waldlinge" von Maria Stalder
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

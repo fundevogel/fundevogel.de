@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Bienen" von Piotr Socha
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

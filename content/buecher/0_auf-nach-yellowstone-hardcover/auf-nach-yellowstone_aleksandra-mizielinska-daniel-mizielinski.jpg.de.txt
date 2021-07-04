@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Auf nach Yellowstone!" von Aleksandra Mizielinsk
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

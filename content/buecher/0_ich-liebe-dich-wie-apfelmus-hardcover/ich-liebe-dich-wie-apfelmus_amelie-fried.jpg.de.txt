@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ich liebe dich wie Apfelmus" von Amelie Fried
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ich mag ... schaukeln, malen, Fußball, Krach" v
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

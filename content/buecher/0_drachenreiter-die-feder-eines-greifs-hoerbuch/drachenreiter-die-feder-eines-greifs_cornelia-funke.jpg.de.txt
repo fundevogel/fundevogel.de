@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Drachenreiter - Die Feder eines Greifs" von Corn
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

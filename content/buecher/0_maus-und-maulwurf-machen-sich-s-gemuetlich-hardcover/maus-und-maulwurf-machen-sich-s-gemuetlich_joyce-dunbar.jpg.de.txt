@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Maus und Maulwurf machen sich's gemütlich" von 
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

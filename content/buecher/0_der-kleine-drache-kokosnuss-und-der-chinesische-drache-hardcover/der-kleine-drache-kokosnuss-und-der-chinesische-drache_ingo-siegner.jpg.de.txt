@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der kleine Drache Kokosnuss und der chinesische 
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

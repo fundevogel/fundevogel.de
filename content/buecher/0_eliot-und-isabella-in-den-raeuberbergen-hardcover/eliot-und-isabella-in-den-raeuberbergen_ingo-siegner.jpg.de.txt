@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Eliot und Isabella in den Räuberbergen" von Ing
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

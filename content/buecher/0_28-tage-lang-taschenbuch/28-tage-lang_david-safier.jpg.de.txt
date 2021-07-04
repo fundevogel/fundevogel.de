@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "28 Tage lang" von David Safier
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

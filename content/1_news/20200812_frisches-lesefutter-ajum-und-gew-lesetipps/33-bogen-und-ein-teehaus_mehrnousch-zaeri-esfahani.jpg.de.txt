@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "33 Bogen und ein Teehaus" von Mehrnousch Zaeri-E
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

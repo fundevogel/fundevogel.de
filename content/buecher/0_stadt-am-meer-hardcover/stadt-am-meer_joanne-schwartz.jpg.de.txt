@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Stadt am Meer" von Joanne Schwartz
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

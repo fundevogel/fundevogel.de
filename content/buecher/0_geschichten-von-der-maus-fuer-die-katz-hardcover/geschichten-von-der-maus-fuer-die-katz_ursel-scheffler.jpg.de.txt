@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Geschichten von der Maus für die Katz" von Urse
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

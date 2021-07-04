@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hinter Glas" von Julya Rabinowich
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

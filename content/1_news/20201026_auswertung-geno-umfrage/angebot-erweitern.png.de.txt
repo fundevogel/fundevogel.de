@@ -2,11 +2,19 @@ Titleattribute: "Solllen wir unser Angebot erweitern?"
 
 ----
 
-Source: Kundenumfrage 2020
+Source: 
 
 ----
 
 Altattribute: Graphik zur Frage "Solllen wir unser Angebot erweitern?"
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
 
 ----
 

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Großer-Tiger und Christian" von Fritz Mühlenwe
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

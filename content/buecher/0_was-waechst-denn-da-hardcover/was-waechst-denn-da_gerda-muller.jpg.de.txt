@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Was wächst denn da?" von Gerda Muller
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

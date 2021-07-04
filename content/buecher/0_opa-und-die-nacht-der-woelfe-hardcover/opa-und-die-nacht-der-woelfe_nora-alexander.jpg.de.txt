@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Opa und die Nacht der Wölfe" von Nora Alexander
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

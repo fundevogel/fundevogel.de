@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das Leben meines besten Freundes" von Judith Gri
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

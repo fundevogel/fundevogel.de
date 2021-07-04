@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "George" von Alex Gino
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

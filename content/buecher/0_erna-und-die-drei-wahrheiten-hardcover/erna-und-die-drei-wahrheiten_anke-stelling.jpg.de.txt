@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Erna und die drei Wahrheiten" von Anke Stelling
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

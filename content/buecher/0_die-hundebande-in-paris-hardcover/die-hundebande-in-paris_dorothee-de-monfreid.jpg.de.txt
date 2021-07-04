@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Die Hundebande in Paris" von Dorothée de Monfre
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

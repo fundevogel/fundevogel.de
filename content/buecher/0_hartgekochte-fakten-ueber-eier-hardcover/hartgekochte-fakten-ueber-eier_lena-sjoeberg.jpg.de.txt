@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Hartgekochte Fakten über Eier" von Lena Sjöber
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Blauwal, Seestern, Oktopus" von Virginie Aladjid
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

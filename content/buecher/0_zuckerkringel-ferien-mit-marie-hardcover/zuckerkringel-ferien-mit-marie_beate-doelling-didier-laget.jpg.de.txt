@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Zuckerkringel-Ferien mit Marie" von Beate Dölli
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Vögel auf Weltreise" von Fleur Daugey; Sandrine
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

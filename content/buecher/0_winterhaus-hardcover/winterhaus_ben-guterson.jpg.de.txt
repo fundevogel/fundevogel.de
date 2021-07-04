@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Winterhaus" von Ben Guterson
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

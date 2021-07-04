@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Jenseits der blauen Grenze" von Dorit Linke
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

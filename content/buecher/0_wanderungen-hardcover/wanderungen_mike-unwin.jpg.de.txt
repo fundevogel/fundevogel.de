@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Wanderungen" von Mike Unwin
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

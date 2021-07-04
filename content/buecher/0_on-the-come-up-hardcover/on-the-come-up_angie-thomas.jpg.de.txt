@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "On The Come Up" von Angie Thomas
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

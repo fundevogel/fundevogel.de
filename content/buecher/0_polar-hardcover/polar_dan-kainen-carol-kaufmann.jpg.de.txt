@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Polar" von Dan Kainen; Carol Kaufmann
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

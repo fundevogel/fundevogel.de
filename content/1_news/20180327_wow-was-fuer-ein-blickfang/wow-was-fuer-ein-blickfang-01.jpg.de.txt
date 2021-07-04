@@ -1,3 +1,19 @@
+Titleattribute: 
+
+----
+
+Source: 
+
+----
+
+Altattribute: 
+
+----
+
+Caption-wanted: false
+
+----
+
 Caption: 
 
 ----
@@ -7,11 +23,3 @@ Alt:
 ----
 
 Template: image
-
-----
-
-Titleattribute: 
-
-----
-
-Altattribute: 

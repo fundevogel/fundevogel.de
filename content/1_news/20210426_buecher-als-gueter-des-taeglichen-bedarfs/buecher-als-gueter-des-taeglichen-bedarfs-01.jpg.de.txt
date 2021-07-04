@@ -1,11 +1,21 @@
 Titleattribute: Bild: Quint Buchholz
+
 ----
+
+Source: 
+
+----
+
 Altattribute: Kind schaut durch Buch wie ein Fernglas
+
 ----
+
 Caption-wanted: false
+
 ----
-Caption:
+
+Caption: 
+
 ----
-Source: Quint Buchholz
-----
+
 Template: image

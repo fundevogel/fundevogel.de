@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Löwen zählen" von Katie Cotton
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

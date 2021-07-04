@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "17 Erkenntnisse über Leander Blum" von Irmgard 
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

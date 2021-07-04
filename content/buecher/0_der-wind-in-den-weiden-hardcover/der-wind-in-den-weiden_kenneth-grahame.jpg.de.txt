@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Der Wind in den Weiden" von Kenneth Grahame
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

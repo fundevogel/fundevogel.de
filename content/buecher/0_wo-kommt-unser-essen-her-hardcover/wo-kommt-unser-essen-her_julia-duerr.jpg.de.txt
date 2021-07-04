@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Wo kommt unser Essen her?" von Julia Dürr
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

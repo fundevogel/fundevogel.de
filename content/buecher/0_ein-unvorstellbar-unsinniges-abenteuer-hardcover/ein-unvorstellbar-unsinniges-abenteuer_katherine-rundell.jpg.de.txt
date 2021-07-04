@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Ein unvorstellbar unsinniges Abenteuer" von Kath
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image

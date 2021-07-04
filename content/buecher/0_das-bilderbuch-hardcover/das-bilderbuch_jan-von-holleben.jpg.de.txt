@@ -10,4 +10,12 @@ Altattribute: Cover des Buches "Das Bilderbuch" von Jan von Holleben
 
 ----
 
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
 Template: image
