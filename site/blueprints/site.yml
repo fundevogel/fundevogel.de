@@ -73,16 +73,24 @@ tabs:
               - contact
               - default
 
-          sort_out:
+          jobs:
             type: fields
             fields:
-              move_events:
+              archiveEvents:
                 type: janitor
                 label:
                   de: Veranstaltungen aussortieren
                   en: Generate metadata
                 progress: Durchsuchen ..
                 job: archiveEvents
+
+              clearDejure:
+                type: janitor
+                label:
+                  de: DJO-Cache leeren
+                  en: Clear DJO cache
+                progress: Leeren ..
+                job: clearDejure
 
   # Books
   books: tabs/books

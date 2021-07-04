@@ -38,6 +38,9 @@ return [
     # PLUGIN OPTIONS
     ##
 
+    # Enable auto-linking to `dejure.org` (specific templates only)
+    'kirby3-dejure.allowList' => ['default'],
+
     # Define AVIF conversion options
     'fundevogel.colorist' => [
         'formats' => ['avif', 'webp'],

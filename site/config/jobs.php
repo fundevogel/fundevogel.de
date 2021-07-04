@@ -275,5 +275,15 @@ return [
             'label' => 'Update erfolgreich!',
             'reload' => true,
         ];
-    }
+    },
+    'clearDejure' => function ()
+    {
+        $success = clearDJO();
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label'  => $success ? 'Cache geleert!' : 'Cache nicht geleert!',
+            'reload' => $success,
+        ];
+    },
 ];
