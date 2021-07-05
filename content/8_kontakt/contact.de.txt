@@ -37,8 +37,146 @@ Samstag: 9:30 - 16:30 Uhr
 
 ----
 
+Meta-title: Für Euch erreichbar
+
+----
+
+Meta-description: Ihr erreicht uns wochentags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr im Ladengeschäft und unter 0761/25218 oder auch per Mail an info@fundevogel.de.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
 Seotitle: Kontakt - Euer Weg zu uns
 
 ----
 
-Seodescription: Ihr erreicht uns montags bis freitags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr in der idyllischen Altstadt Freiburgs, Marienstraße 13 und unter 0761/25218.
+Seodescription: 

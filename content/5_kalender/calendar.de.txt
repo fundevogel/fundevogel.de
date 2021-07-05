@@ -25,11 +25,147 @@ Cover:
 
 ----
 
-Seotitle: Unser Veranstaltungskalender
+Meta-title: Veranstaltungskalender
 
 ----
 
-Seodescription: Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!
+Meta-description: Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- kalender.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- kalender.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 

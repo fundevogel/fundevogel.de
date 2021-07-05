@@ -74,4 +74,5 @@ tabs:
   tab_books: tabs/books
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: seo
+  tab_seo1: tabs/seo

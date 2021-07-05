@@ -41,6 +41,8 @@ return [
     # Enable auto-linking to `dejure.org` (specific templates only)
     'kirby3-dejure.allowList' => ['default'],
 
+    'diesdasdigital.meta-knight.separator' => ' | ',
+    // $page->text()->excerpt(155)
     # Define AVIF conversion options
     'fundevogel.colorist' => [
         'formats' => ['avif', 'webp'],
@@ -98,90 +100,4 @@ return [
             'bnomei.fingerprint.query' => kirby()->root('assets') . '/manifest.json',
         ];
     },
-
-    # Customizing MetaTags
-    'pedroborges.meta-tags.default' => function ($page, $site) {
-        # General
-        $seoTitle = $page->isHomePage()
-            ? $site->title()
-            : $page->seoTitle();
-        $seoDescription = $page->seoDescription();
-        $delimiter = ' | ';
-
-        return [
-            'title' => $seoTitle->isNotEmpty()
-                ? $page->isHomePage() ? $seoTitle : $seoTitle . $delimiter . $site->title()
-                : $page->title() . $delimiter . $site->title(),
-            'meta' => [
-                'description' => $seoDescription->isNotEmpty()
-                    ? $seoDescription
-                    : $page->text()->excerpt(155),
-            ],
-            'link' => [
-                'canonical' => $page->url(),
-                # 'icon' => [
-                #     ['href' => url('assets/images/icons/favicon-62.png'), 'sizes' => '62x62', 'type' =>'image/png'],
-                #     ['href' => url('assets/images/icons/favicon-192.png'), 'sizes' => '192x192', 'type' =>'image/png']
-                # ],
-                'alternate' => function ($page) {
-                    $locales = [];
-
-                    foreach (kirby()->languages() as $language) {
-                        if ($language->code() == kirby()->language()) continue;
-
-                        $locales[] = [
-                            'hreflang' => $language->code(),
-                            'href' => $page->url($language->code())
-                        ];
-                    }
-
-                    return $locales;
-                }
-            ],
-            'og' => [
-                'title' => $seoTitle->isNotEmpty()
-                    ? $seoTitle
-                    : $page->title(),
-                'type' => 'website',
-                'site_name' => $site->title(),
-                'url' => $page->url()
-            ],
-            'twitter' => [
-                'card' => 'summary',
-                # 'site' => $site->twitter(),
-                'title' => $seoTitle->isNotEmpty()
-                    ? $seoTitle
-                    : $page->title(),
-                'namespace:image' => function ($page, $site) {
-                    $image = $site->homePage()->image();
-
-                    if ($page->hasImages()) {
-                        $image = $page->image();
-                    }
-
-                    return [
-                        'image' => $image->url(),
-                        'alt' => $image->altAttribute()
-                    ];
-                }
-            ]
-        ];
-    },
-    'pedroborges.meta-tags.templates' => function ($page, $site) {
-        return [
-            'lesetipps.article' => [
-                'json-ld' => [
-                    'Organization' => [
-                        'name' => $site->title()->value(),
-                        'url' => $site->url(),
-                        "contactPoint" => [
-                            '@type' => 'ContactPoint',
-                            # 'telephone' => $site->phoneNumber()->value(),
-                            'contactType' => 'customer service'
-                        ]
-                    ]
-                ]
-            ],
-        ];
-    }
 ];

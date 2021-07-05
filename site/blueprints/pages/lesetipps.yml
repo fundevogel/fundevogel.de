@@ -91,4 +91,5 @@ tabs:
             image: file.coverImage.toFile()
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: seo
+  tab_seo1: tabs/seo

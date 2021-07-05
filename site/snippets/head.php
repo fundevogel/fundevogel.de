@@ -14,7 +14,7 @@
     <?= loadJS() ?>
 
     <!-- Metadata -->
-    <?= $page->metaTags() ?>
+    <?php snippet('metadata') ?>
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="<?= url('favicon.ico') ?>">
