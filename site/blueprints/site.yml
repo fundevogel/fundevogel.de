@@ -19,7 +19,7 @@ tabs:
             headline:
               de: Lesetipps
               en: Recommendations
-            parent: site.find("lesetipps")
+            parent: site.find('lesetipps')
             create: lesetipps.article
             template: lesetipps.article
 
@@ -36,7 +36,7 @@ tabs:
           news:
             extends: sections/articles
             headline: Aktuelles
-            parent: site.find("news")
+            parent: site.find('news')
             create:
               - news.article
               - news.recommendation
@@ -170,11 +170,27 @@ tabs:
             label: Mail
             type: email
             translate: false
+            required: true
+
+          phone:
+            label:
+              de: Telefon
+              en: Phone
+            type: tel
+            translate: false
+            required: true
+
+          fax:
+            label: Fax
+            type: tel
+            translate: false
+            required: true
 
           shop:
             label: Online-Shop
             type: url
             translate: false
+            required: true
 
           instagram:
             label: Instagram
