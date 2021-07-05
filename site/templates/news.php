@@ -61,8 +61,8 @@
 <hr>
 <section class="js-list">
     <h2 class="mb-12 text-center"><?= t('Neues aus dem Fundevogel') ?></h2>
-    <?php foreach($news as $article) : ?>
-    <article class="js-article animation-fade-in">
+    <?php foreach ($news as $article) : ?>
+    <article id="<?= $article->slug() ?>" class="js-article animation-fade-in">
         <?php snippet(Str::replace($article->intendedTemplate(), '.', '/'), compact('article')) ?>
         <?php e($article !== $articleLast, '<hr class="max-w-sm">', $nothingLeft) ?>
     </article>
