@@ -1,0 +1,60 @@
+---
+- name: Add PHP repository
+  apt_repository:
+    repo: 'ppa:ondrej/php/ubuntu'
+  register: php_ppa_added
+
+- name: Install & configure PHP
+  block:
+    - name: Install PHP
+      apt:
+        name: php{{ php_version }}
+        state: present
+        update_cache: yes
+
+    - name: Install PHP packages
+      apt:
+        pkg: '{{ php_packages }}'
+        state: present
+
+    - name: Install composer
+      shell: 'curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer'
+
+    - name: Avoid using slow NFS
+      shell: 'composer config --global cache-dir /dev/shm/composer/cache'
+
+  when: php_ppa_added is success
+
+- name: Install ImageMagick
+  apt:
+    pkg: '{{ imagick }}'
+    state: present
+  register: imagick_added
+
+- name: Copy ImageMagick settings
+  template:
+    src: templates/policy.xml.j2
+    dest: /etc/ImageMagick-6/policy.xml
+  when: imagick_added is success
+
+- name: Install PHP-FPM
+  apt:
+    name: php{{ php_version }}-fpm
+    state: present
+  register: php_fpm_added
+
+- name: Configure PHP-FPM
+  block:
+    - name: Copy PHP settings
+      template:
+        src: templates/php.ini.j2
+        dest: /etc/php/{{ php_version }}/fpm/php.ini
+
+    - name: Copy Kirby-specific PHP-FPM pool settings
+      template:
+        src: templates/php-fpm.conf.j2
+        dest: /etc/php/{{ php_version }}/fpm/pool.d/kirby.conf
+      notify:
+        - Restart PHP-FPM
+
+  when: php_fpm_added is success

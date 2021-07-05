@@ -1,0 +1,58 @@
+---
+- name: Remove Apache2
+  apt:
+    pkg: apache2
+    state: absent
+    autoremove: yes
+
+- name: Install NGINX
+  apt:
+    name: nginx-core
+    state: present
+  register: nginx_added
+
+- name: Configure NGINX
+  block:
+    - name: Copy NGINX configuration
+      template:
+        src: templates/nginx.conf.j2
+        dest: /etc/nginx/nginx.conf
+
+    - name: Remove default VHost
+      file:
+        path: /etc/nginx/sites-enabled/default
+        state: absent
+
+    - name: Copy Kirby VHost
+      template:
+        src: templates/kirby.conf.j2
+        dest: /etc/nginx/sites-available/kirby.conf
+
+    - name: Enable Kirby VHost
+      file:
+        src: /etc/nginx/sites-available/kirby.conf
+        dest: /etc/nginx/sites-enabled/kirby.conf
+        state: link
+      notify:
+        - Restart NGINX
+
+  when: nginx_added is success
+
+- name: Generate SSL certificate & private key
+  block:
+    - name: Copy OpenSSL script
+      template:
+        src: templates/generate_ssl_cert.sh.j2
+        dest: /vagrant/generate_ssl_cert.sh
+
+    - name: Execute OpenSSL script
+      script: /vagrant/generate_ssl_cert.sh
+
+    - name: Remove OpenSSL script
+      file:
+        path: /vagrant/generate_ssl_cert.sh
+        state: absent
+      notify:
+        - Restart NGINX
+
+  when: nginx_added is success

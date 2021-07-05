@@ -1,0 +1,44 @@
+server {
+    # Redirect HTTP to HTTPS
+    listen 80 default_server;
+    listen [::]:80 default_server;
+    server_name {{ ip }};
+    return 302 https://$server_name$request_uri;
+}
+
+server {
+    listen 443 http2 ssl default_server;
+    listen [::]:443 http2 ssl default_server;
+
+    # Configure server
+    # (1) Host
+    server_name {{ ip }};
+    root {{ root }};
+    index index.php;
+
+    # (2) Encryption
+    ssl_certificate /etc/ssl/certs/ssl.crt;
+    ssl_certificate_key /etc/ssl/private/ssl.key;
+
+    # (3) Logging
+    access_log off;
+    error_log /var/log/nginx/kirby_error.log;
+
+    # Fix thumbnail creation issue
+    # See https://forum.getkirby.com/t/no-thumbnails-generated-on-nginx/13534/10
+    error_page 404 /error;
+
+    # Enable URL rewriting
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Enable FastCGI (PHP-FPM)
+    location ~ \.php$ {
+        try_files $uri = 404;
+        fastcgi_pass unix:/var/run/php{{ php_version }}-kirby.sock;
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+}

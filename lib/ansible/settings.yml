@@ -1,0 +1,56 @@
+---
+# Requirements
+required_packages:
+  - curl
+  - git
+  - unzip
+  - zip
+
+# Base setup
+root: /vagrant/public
+ip: 192.168.69.69
+www_user: vagrant
+www_group: vagrant
+
+# Current PHP version
+# See https://getkirby.com/docs/guide/quickstart#requirements
+php_version: 7.4
+
+# Server settings
+post_max_size: 0      # disabled
+execution_time: 180   # in s
+memory_limit: 256     # in MB
+max_upload: 512       # in MB
+max_file_uploads: 25
+
+# PHP settings
+php_packages:
+  # Kirby requirements (see above)
+  - php{{ php_version }}-curl
+  - php{{ php_version }}-mbstring
+  - php{{ php_version }}-gd
+
+  # Plugin requirements (custom)
+  - php{{ php_version }}-dom
+  - php{{ php_version }}-soap
+
+  # Just in case
+  - php{{ php_version }}-bcmath
+  - php{{ php_version }}-mcrypt
+  - php{{ php_version }}-mysql
+  - php{{ php_version }}-sqlite3
+  - php{{ php_version }}-ssh2
+  - php{{ php_version }}-xml
+  - php{{ php_version }}-zip
+
+  # Nice to have
+  # See https://cockpit-project.org
+  - cockpit
+
+# Image processing
+imagick:
+  - imagemagick
+  - php{{ php_version }}-imagick
+
+# See https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds
+composer_process_timeout: 600

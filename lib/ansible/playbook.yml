@@ -1,23 +1,23 @@
 ---
 - hosts: all
   become: true
-  vars_files:
-    - config/vars.yml
-  pre_tasks:
-    - name: Update APT cache
-      apt:
-        update_cache: yes
-        cache_valid_time: 3600
-  roles:
-    - base
-    - nginx
-    - php
-    - kirby
 
-  # TODO: Check performance
-  # post_tasks:
-  #   - name:  Update APT packages
-  #     apt:
-  #       pkg: '*'
-  #       state: latest
-  #       autoremove: yes
+  # Load configuration
+  vars_files:
+    - settings.yml
+
+  # Install prerequisites
+  pre_tasks:
+    - name: Install required packages
+      apt:
+        pkg: '{{ required_packages }}'
+        state: latest
+        update_cache: yes
+
+  # Party time
+  tasks:
+    - name: NGINX
+      include: nginx/play.yml
+
+    - name: PHP
+      include: php/play.yml

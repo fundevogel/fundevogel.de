@@ -1,0 +1,94 @@
+user {{ www_user }};
+worker_processes auto;
+pid /run/nginx.pid;
+
+events {
+	use epoll;
+	worker_connections 1536;
+	multi_accept on;
+	accept_mutex on;
+}
+
+http {
+	##
+	# General settings
+	##
+
+    charset utf-8;
+
+	# Optimize performance
+	sendfile on;
+	sendfile_max_chunk 512k;
+	tcp_nopush on;
+	tcp_nodelay on;
+	keepalive_timeout 120;
+	keepalive_requests 250;
+	types_hash_max_size 4096;
+	server_tokens off;
+	client_body_buffer_size 128k;
+    client_max_body_size {{ max_upload }}m;
+	client_header_buffer_size 64k;
+	large_client_header_buffers 4 64k;
+	output_buffers 1 32k;
+	postpone_output 1460;
+
+	# Serve static assets
+	open_file_cache max=1000 inactive=20s;
+	open_file_cache_valid 30s;
+	open_file_cache_min_uses 5;
+	open_file_cache_errors off;
+
+	server_names_hash_max_size 4096;
+	# server_names_hash_bucket_size 64;
+	# server_name_in_redirect off;
+
+  	include /etc/nginx/mime.types;
+	default_type application/octet-stream;
+
+
+	##
+	# Logging
+	##
+
+	access_log off;
+	error_log /var/log/nginx/error.log;
+
+
+	##
+	# Compression
+	##
+
+	gzip on;
+	gzip_disable "msie6";
+
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_types
+        application/xml
+        application/json
+        application/rss+xml
+        application/atom+xml
+        application/javascript
+        application/x-javascript
+        application/vnd.ms-fontobject
+        font/opentype
+        font/truetype
+        image/svg+xml
+        text/css
+        text/xml
+        text/plain
+        text/javascript
+        text/x-component;
+
+  	# gzip_buffers 16 8k;
+  	# gzip_http_version 1.1;
+
+
+	##
+	# Virtual hosts
+	##
+
+	include /etc/nginx/conf.d/*.conf;
+	include /etc/nginx/sites-enabled/*;
+}

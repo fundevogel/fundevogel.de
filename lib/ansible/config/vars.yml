@@ -1,7 +1,0 @@
----
-kirby_root: /vagrant/build/public
-host_ip: 192.168.69.69
-host_port: 8080
-www_user: vagrant
-www_group: vagrant
-max_upload: 64  # in MB

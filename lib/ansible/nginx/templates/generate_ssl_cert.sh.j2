@@ -1,0 +1,8 @@
+#!/bin/bash
+openssl req -reqexts SAN -extensions SAN \
+    -config <(cat /etc/ssl/openssl.cnf <(printf "\n[SAN]\nsubjectAltName=IP:{{ ip }},DNS:dev.local\n")) \
+    -x509 -newkey rsa:4096 -sha256 -nodes \
+    -keyout /etc/ssl/private/ssl.key \
+    -out /etc/ssl/certs/ssl.crt \
+    -subj "/CN={{ ip }}"\
+    -days 3650
