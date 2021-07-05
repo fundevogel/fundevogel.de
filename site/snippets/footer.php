@@ -26,12 +26,16 @@
                                 <?= useSVG('E-Mail', 'w-6 h-6 fill-current', 'envelope') ?>
                                 <span class="px-2"><?= t('Mail schreiben') ?></span>
                             </a>
-                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="https://github.com/Fundevogel" title="Fundevogel & Open Source">
+                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="https://github.com/Fundevogel" title="Fundevogel & Open Source" target="_blank">
                                 <?= useSVG('GitHub', 'w-6 h-6 fill-current') ?>
                                 <span class="px-2"><?= t('Unser Quellcode') ?></span>
                             </a>
+                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= page('feeds')->url() ?>" title="<?= t('Lesetipps abonnieren') ?>">
+                                <?= useSVG('Feed', 'w-6 h-6 fill-current') ?>
+                                <span class="px-2"><?= t('Abonnieren') ?></span>
+                            </a>
                             <?php if ($site->instagram()->isNotEmpty()) : ?>
-                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->instagram() ?>" title="<?= t('Digitale Geschichten') ?>">
+                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->instagram() ?>" title="<?= t('Digitale Geschichten') ?>" target="_blank">
                                 <?= useSVG('Instagram', 'w-6 h-6 fill-current') ?>
                                 <span class="px-2"><?= t('Instagram') ?></span>
                             </a>
