@@ -41,8 +41,6 @@ return [
     # Enable auto-linking to `dejure.org` (specific templates only)
     'kirby3-dejure.allowList' => ['default'],
 
-    'diesdasdigital.meta-knight.separator' => ' | ',
-    // $page->text()->excerpt(155)
     # Define AVIF conversion options
     'fundevogel.colorist' => [
         'formats' => ['avif', 'webp'],

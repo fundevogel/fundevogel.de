@@ -1,116 +1,103 @@
 <?php
-    $twitter_image_thumb = [
-        'width'   => 1200,
-        'height'  => 675,
-        'quality' => 80,
-        'crop'    => true
-    ];
+    # Title
+    $title = $page->isHomePage()
+        ? $page->meta_title()->or($site->title())
+        : $page->meta_title()->or($page->title()) . ' | ' . $site->meta_title()->or($site->title())
+    ;
 
-    $og_image_thumb = [
+    # Description
+    $description = $page->meta_description()->or($page->text()->excerpt(180))->or($site->meta_description());
+?>
+
+<!-- Schema -->
+<style itemscope itemtype="https://schema.org/WebSite" itemref="schema_name schema_description schema_image"></style>
+
+<!-- Title -->
+<title><?= $title ?></title>
+<meta id="schema_name" itemprop="name" content="<?= $title ?>">
+
+<!-- Description -->
+<meta name="description" content="<?= $description ?>">
+<meta id="schema_description" itemprop="description" content="<?= $description ?>">
+
+<!-- Keywords -->
+<meta name="keywords" content="<?= $page->meta_keywords()->or($site->meta_keywords()) ?>">
+
+<!-- Canonical & language URLs -->
+<link rel="canonical" href="<?= $page->meta_canonical_url()->or($page->url()) ?>">
+<?php foreach (kirby()->languages() as $language) : ?>
+<?php if ($language->code() == kirby()->language()) continue ?>
+<link rel="alternate" hreflang="<?= $language->code() ?>" href="<?= $page->url($language->code()) ?>">
+<?php endforeach ?>
+
+<!-- Image -->
+<?php if ($metaImage = $page->meta_image()->toFile() ?? $site->meta_image()->toFile()) : ?>
+<meta id="schema_image" itemprop="image" content="<?= $metaImage->url() ?>">
+<?php endif ?>
+
+<!-- Author -->
+<meta name="author" content="<?= $page->meta_author()->or($site->meta_author()) ?>">
+
+<!-- Last modified -->
+<meta name="date" content="<?= $page->modified('Y-m-d') ?>" scheme="YYYY-MM-DD">
+
+<!-- Open Graph -->
+<meta property="og:title" content="<?= $page->og_title()->or($page->meta_title())->or($site->og_title())->or($site->meta_title())->or($page->title()) ?>">
+<meta property="og:description" content="<?= $page->og_description()->or($description) ?>">
+<?php
+    if ($ogImage = $page->og_image()->toFile() ?? $site->og_image()->toFile()) :
+    $ogThumb = $ogImage->thumb([
         'width'   => 1200,
         'height'  => 630,
         'quality' => 80,
-        'crop'    => true
-    ];
-
-    $full_title = $page->isHomePage()
-        ? $page->meta_title()->or($site->title())
-        : $page->meta_title()->or($page->title()) . option('diesdasdigital.meta-knight.separator', ' - ') . $site->meta_title()->or($site->title())
-    ;
+        'crop'    => true,
+    ]);
 ?>
-
-<?php // Basic Meta Information ?>
-
-<?php // Schema ?>
-
-<style itemscope itemtype="https://schema.org/WebSite" itemref="schema_name schema_description schema_image"></style>
-
-<?php // Page Title ?>
-
-<?php if (option('diesdasdigital.meta-knight.siteTitleAfterPageTitle', true)) : ?>
-    <title><?= $full_title ?></title>
-    <meta id="schema_name" itemprop="name" content="<?= $full_title ?>">
-<?php else : ?>
-    <title><?= $full_title ?></title>
-    <meta id="schema_name" itemprop="name" content="<?= $full_title ?>">
-<?php endif ?>
-
-<?php // Description ?>
-
-<meta name="description" content="<?= $page->meta_description()->or($site->meta_description()) ?>">
-<meta id="schema_description" itemprop="description" content="<?= $page->meta_description()->or($site->meta_description()) ?>">
-
-<?php // Keywords ?>
-
-<meta name="keywords" content="<?= $page->meta_keywords()->or($site->meta_keywords()) ?>">
-
-<?php // Canonical URL & alternate languages ?>
-
-<link rel="canonical" href="<?= $page->meta_canonical_url()->or($page->url()) ?>">
-<?php
-    foreach (kirby()->languages() as $language) {
-        if ($language->code() == kirby()->language()) continue;
-        echo '<link rel="alternate" hreflang="' . $language->code() . '" href="' . $page->url($language->code()) .'">';
-    }
-?>
-
-<?php // Image ?>
-
-<?php if ($meta_image = $page->meta_image()->toFile() ?? $site->meta_image()->toFile()) : ?>
-    <meta id="schema_image" itemprop="image" content="<?= $meta_image->url() ?>">
-<?php endif ?>
-
-<?php // Author ?>
-
-<meta name="author" content="<?= $page->meta_author()->or($site->meta_author()) ?>">
-
-<?php // Date ?>
-
-<meta name="date" content="<?= $page->modified('Y-m-d') ?>" scheme="YYYY-MM-DD">
-
-<?php // Open Graph ?>
-
-<meta property="og:title" content="<?= $page->og_title()->or($page->meta_title())->or($site->og_title())->or($site->meta_title())->or($page->title()) ?>">
-<meta property="og:description" content="<?= $page->og_description()->or($page->meta_description())->or($site->meta_description()) ?>">
-<?php if ($og_image = $page->og_image()->toFile() ?? $site->og_image()->toFile()) : ?>
-    <meta property="og:image" content="<?= $og_image->thumb($og_image_thumb)->url() ?>">
-    <meta property="og:width" content="<?= $og_image->thumb($og_image_thumb)->width() ?>">
-    <meta property="og:height" content="<?= $og_image->thumb($og_image_thumb)->height() ?>">
+<meta property="og:image" content="<?= $ogThumb->url() ?>">
+<meta property="og:width" content="<?= $ogThumb->width() ?>">
+<meta property="og:height" content="<?= $ogThumb->height() ?>">
 <?php endif ?>
 <meta property="og:site_name" content="<?= $page->og_site_name()->or($site->og_site_name()) ?>">
 <meta property="og:url" content="<?= $page->og_url()->or($page->url()) ?>">
 <meta property="og:type" content="<?= $page->og_type()->or($site->og_type()) ?>">
 <?php if ($page->og_determiner()->or($site->og_determiner())->isNotEmpty()) : ?>
-    <meta property="og:determiner" content="<?= $page->og_determiner()->or($site->og_determiner())->or("auto") ?>">
+<meta property="og:determiner" content="<?= $page->og_determiner()->or($site->og_determiner())->or("auto") ?>">
 <?php endif ?>
 <?php if ($page->og_audio()->isNotEmpty()) : ?>
-    <meta property="og:audio" content="<?= $page->og_audio() ?>">
+<meta property="og:audio" content="<?= $page->og_audio() ?>">
 <?php endif ?>
 <?php if ($page->og_video()->isNotEmpty()) : ?>
-    <meta property="og:video" content="<?= $page->og_video() ?>">
+<meta property="og:video" content="<?= $page->og_video() ?>">
 <?php endif ?>
 <?php if ($kirby->language() !== null) : ?>
-    <meta property="og:locale" content="<?= $kirby->language()->locale(LC_ALL) ?>">
-    <?php foreach($kirby->languages() as $language) : ?>
-        <?php if ($language !== $kirby->language()) : ?>
-            <meta property="og:locale:alternate" content="<?= $language->locale(LC_ALL) ?>">
-        <?php endif ?>
-    <?php endforeach; ?>
+<meta property="og:locale" content="<?= $kirby->language()->locale(LC_ALL) ?>">
+<?php foreach($kirby->languages() as $language) : ?>
+<?php if ($language !== $kirby->language()) : ?>
+<meta property="og:locale:alternate" content="<?= $language->locale(LC_ALL) ?>">
+<?php endif ?>
+<?php endforeach ?>
 <?php endif ?>
 <?php
-    $og_authors = $page->og_type_article_author()->or($site->og_type_article_author());
+    $ogAuthors = $page->og_type_article_author()->or($site->og_type_article_author());
+    foreach ($ogAuthors->toStructure() as $ogAuthor) :
 ?>
-<?php foreach ($og_authors->toStructure() as $og_author) : ?>
-    <meta property="article:author" content="<?= $og_author->url()->html() ?>">
+<meta property="article:author" content="<?= $ogAuthor->url()->html() ?>">
 <?php endforeach ?>
 
-<?php // Twitter Card ?>
-
+<!-- Twitter Card -->
 <meta name="twitter:card" content="<?= $page->twitter_card_type()->or($site->twitter_card_type())->value() ?>">
 <meta name="twitter:title" content="<?= $page->twitter_title()->or($page->meta_title())->or($site->twitter_title())->or($site->meta_title())->or($page->title()) ?>">
-<meta name="twitter:description" content="<?= $page->twitter_description()->or($page->meta_description())->or($site->meta_description()) ?>">
-<?php if ($twitter_image = $page->twitter_image()->toFile() ?? $site->twitter_image()->toFile()) : ?>
-    <meta name="twitter:image" content="<?= $twitter_image->thumb($twitter_image_thumb)->url() ?>">
+<meta name="twitter:description" content="<?= $page->twitter_description()->or($description) ?>">
+<?php
+    if ($twitterImage = $page->twitter_image()->toFile() ?? $site->twitter_image()->toFile()) :
+    $twitterThumb = $twitterImage->thumb([
+        'width'   => 1200,
+        'height'  => 675,
+        'quality' => 80,
+        'crop'    => true,
+    ]);
+?>
+<meta name="twitter:image" content="<?= $twitterThumb->url() ?>">
 <?php endif ?>
 <meta name="twitter:site" content="<?= $page->twitter_site()->or($site->twitter_site()) ?>">
 <meta name="twitter:creator" content="<?= $page->twitter_creator()->or($site->twitter_creator()) ?>">
