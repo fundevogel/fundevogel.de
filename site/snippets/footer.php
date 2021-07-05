@@ -4,11 +4,20 @@
             <footer id="site-footer" class="py-8 flex-none relative text-white text-center text-shadow bg-red-medium" role="contentinfo" itemscope itemtype="https://schema.org/WPFooter">
                 <div class="zigzag-border w-full absolute z-10"></div>
                 <div class="container">
-                    <h4 class="mb-4 sm:text-xl md:text-2xl lg:text-3xl"><?= $site->title()->html() ?></h4>
-                    <p class="mb-8 text-sm md:text-lg leading-relaxed">
-                        Marienstraße 13, 79098 Freiburg<br>
-                        <?= t('Telefon') ?>: 0761/25218 &middot; <?= t('Fax') ?>: 0761/30041
-                    </p>
+                    <h4 class="mb-4 text-lg sm:text-xl md:text-2xl lg:text-3xl"><?= $site->title()->html() ?></h4>
+                    <div class="mb-8 text-sm md:text-lg leading-relaxed">
+                        <p>Marienstraße 13, 79098 Freiburg</p>
+                        <div class="flex justify-center mb-4">
+                            <div class="flex spread-out">
+                                <span class="pr-1"><?= t('Telefon') ?>: </span>
+                                <a class="js-tippy outline-none" href="tel:<?= $site->phone()->toPhone() ?>" title="<?= t('Ruft an!') ?>">
+                                    <span><?= $site->phone() ?></span>
+                                </a>
+                            </div>
+                            <span class="px-2">&middot;</span>
+                            <span><?= t('Fax') ?>: <?= $site->fax() ?></span>
+                        </div>
+                    </div>
                 </div>
                 <div class="container">
                     <div class="text-sm lg:flex justify-between spread-out">
