@@ -377,7 +377,7 @@ expose_php = Off
 ; Maximum execution time of each script, in seconds
 ; http://php.net/max-execution-time
 ; Note: This directive is hardcoded to 0 for the CLI SAPI
-max_execution_time = 30
+max_execution_time = {{ execution_time }}
 
 ; Maximum amount of time each script may spend parsing request data. It's a good
 ; idea to limit this time on productions servers in order to eliminate unexpectedly
@@ -396,9 +396,9 @@ max_input_time = -1
 ; How many GET/POST/COOKIE input variables may be accepted
 ;max_input_vars = 1000
 
-; Maximum amount of memory a script may consume (128MB)
+; Maximum amount of memory a script may consume ({{ memory_limit }}B)
 ; http://php.net/memory-limit
-memory_limit = 128M
+memory_limit = {{ memory_limit }}M
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Error handling and logging ;
@@ -686,7 +686,7 @@ auto_globals_jit = On
 ; Its value may be 0 to disable the limit. It is ignored if POST data reading
 ; is disabled through enable_post_data_reading.
 ; http://php.net/post-max-size
-post_max_size = 16M
+post_max_size = {{ post_max_size }}
 
 ; Automatically add files before PHP document.
 ; http://php.net/auto-prepend-file
@@ -841,7 +841,7 @@ file_uploads = On
 upload_max_filesize = {{ max_upload }}M
 
 ; Maximum number of files that can be uploaded via a single request
-max_file_uploads = 20
+max_file_uploads = {{ max_file_uploads }}
 
 ;;;;;;;;;;;;;;;;;;
 ; Fopen wrappers ;

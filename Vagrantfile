@@ -15,12 +15,14 @@ Vagrant.configure(2) do |config|
     # Settings
     conf = {
         name: 'KirbyDev',
-        driver: 'kvm',
         image: 'generic/ubuntu2004',
+        driver: 'kvm',
         ip: '192.168.69.69',
+        synced_folder: '/vagrant',
+        mount_options: ['nolock, vers=3, udp, actimeo=2'],
         cpus: 2,
         memory: 2048,
-        ansible: '2.7.7',
+        ansible: '2.9.6',
         playbook: 'lib/ansible/playbook.yml',
     }
 
@@ -28,10 +30,13 @@ Vagrant.configure(2) do |config|
     config.vm.define conf[:name]
     config.vm.hostname = conf[:name]
     config.vm.box = conf[:image]
+    config.vm.synced_folder '.', conf[:synced_folder], type: 'nfs', mount_options: conf[:mount_options]
 
     # Network settings
-    config.vm.network :forwarded_port, guest: 80, host: 8080
     config.vm.network :private_network, ip: conf[:ip]
+    config.vm.network :forwarded_port, guest: 80, host: 80
+    config.vm.network :forwarded_port, guest: 443, host: 443
+    config.vm.network :forwarded_port, guest: 9090, host: 9090
 
     # Create VM using KVM hypervisor
     # See https://github.com/vagrant-libvirt/vagrant-libvirt
@@ -48,12 +53,16 @@ Vagrant.configure(2) do |config|
     config.ssh.insert_key = false
     config.ssh.keep_alive = true
 
+    # Enable SSH agent forwarding
+    config.ssh.forward_agent = true
+
     # Provision VM using Ansible
     # See https://www.vagrantup.com/docs/provisioning/ansible_local
     config.vm.provision :ansible_local do |ansible|
         ansible.playbook = conf[:playbook]
         ansible.version = conf[:ansible]
         ansible.install_mode = 'pip3'
-        ansible.verbose = 'vv'
+        # Enable as needed
+        # ansible.verbose = 'vv'
     end
 end

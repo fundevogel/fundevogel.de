@@ -1,5 +1,0 @@
----
-dependencies:
-  - { role: base }
-  - { role: nginx }
-  - { role: php }
