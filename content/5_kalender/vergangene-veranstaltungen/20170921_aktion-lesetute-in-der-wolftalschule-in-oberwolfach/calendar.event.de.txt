@@ -2,11 +2,15 @@ Title: Aktion Lesetüte in der Wolftalschule in Oberwolfach
 
 ----
 
+Location: Wolftalschule in Oberwolfach
+
+----
+
 Date: 2017-09-21
 
 ----
 
-Location: Wolftalschule in Oberwolfach
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Wir sind mit dem SC-Freiburg und dem Füchsle in Sachen "Fußball und lese
 
 ----
 
-Begin-time: 09:45
+Begin-time: 09:45:00
 
 ----
 
-End-time: 10:45
+End-time: 10:45:00
 
 ----
 
 End-date: 2017-09-21
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

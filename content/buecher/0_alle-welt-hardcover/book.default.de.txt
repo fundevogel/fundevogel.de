@@ -10,6 +10,10 @@ Subtitle: Das Landkartenbuch
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Aleksandra Mizielinska; Daniel Mizielinski
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

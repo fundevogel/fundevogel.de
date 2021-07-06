@@ -2,12 +2,16 @@ Title: Eine Reise nach Walle Wacke
 
 ----
 
-Date: 2016-10-12
-
-----
-
 Text: Gestern durften Kinder und ihre Eltern in Billy Backes Welt eintauchen. Im Rahmen des Lirum Larum Lesefestes war Markus Orths zu Gast im Fundevogel. Er las und erzählte von seinem neuen Kinderbuch Billy Backe und Mini Murmel. Mit seinem Humor und zahlreichen Wortspielen begeisterte er Klein und Groß. Nach der Lesung kamen viele Fragen von den Kindern, die beeindruckt wissen wollten, wie Markus Orths so witzig und spannend schreiben kann. Er ließ sich viel Zeit, alle Fragen zu beantworten und signierte seine Bücher. Die Figuren in der Geschichte waren für die Kinder so lebendig geworden, dass ein jedes sie gerne mit nach Hause genommen hat. Unsere Regale waren jedenfalls nach der Lesung leer! Wir brauchen dringend neue Exemplare von Billy Backe und seinen Freunden aus Walle Wacke. Es war eine sehr schöne und lebendige Lesung, gerne bis zum nächsten Mal!
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Markus Orths zu Gast
+
+----
+
+Date: 2016-10-12

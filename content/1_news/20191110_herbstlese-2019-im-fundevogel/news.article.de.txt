@@ -2,14 +2,6 @@ Title: Herbstlese 2019 im Fundevogel
 
 ----
 
-Date: 2019-11-10
-
-----
-
-Subtitle: Hurra, wir leben noch!
-
-----
-
 Text:
 
 Welch ein schöner Abend war das wieder im Fundevogel! Erneut waren viele Bücherfans gekommen um sich an unserer traditionellen *HerbstLese* vom Team des Fundevogels eine ganz persönliche Auswahl der schönsten Neuererscheinungen aus dem Herbst vorstellen zu lassen. In wunderbar familiärer Atmosphäre sind wir gemeinsam auf Buchfühlung gegangen.
@@ -17,3 +9,15 @@ Unter dem Motto: *Hurra, wir leben noch!* widmeten wir uns in unserem Rahmenprog
 Ein besonderes Highlight war der Auftritt der drei jugendlichen Klimaaktivistinnen, die uns Einblicke gaben in das vielseitige Engagement der Jugendlichen für die Bekämpfung des Klimawandels. Mit einem selbstverfassten Text über die Zerstörung unseres Planeten, regten sie uns zum Nachdenken an.
 
 Wir haben uns sehr über die vielen positiven Rückmeldungen gefreut und diesen wunderbaren Abend mit euch wieder sehr genossen! Wir freuen uns schon auf die Herbstlese im nächsten Jahr und darauf euch alle schon bald wieder im Fundevogel zu sehen!
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Hurra, wir leben noch!
+
+----
+
+Date: 2019-11-10

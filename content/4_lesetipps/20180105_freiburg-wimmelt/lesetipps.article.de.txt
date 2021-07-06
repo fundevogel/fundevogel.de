@@ -10,7 +10,11 @@ Verdict: All das und noch viel mehr lässt sich auf den prall gefüllten Seiten 
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -28,8 +32,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Freiburg wimmelt
+Isadvanced: false
 
 ----
 
-Seodescription: All das und noch viel mehr lässt sich auf den prall gefüllten Seiten finden. Ein Buch nicht nur für Bobbele, sondern eine Stadterkundung der besonderen Art für jedes Alter.
+Meta-title: Freiburg wimmelt
+
+----
+
+Meta-description: All das und noch viel mehr l&auml;sst sich auf den prall gef&uuml;llten Seiten finden. Ein Buch nicht nur f&uuml;r Bobbele, sondern eine Stadterkundung der besonderen Art f&uuml;r jedes Alter.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

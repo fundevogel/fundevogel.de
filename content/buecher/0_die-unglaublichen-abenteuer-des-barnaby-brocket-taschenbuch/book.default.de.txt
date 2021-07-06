@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Taschenbuch
+
+----
+
 Author: John Boyne
 
 ----
@@ -130,7 +134,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Taschenbuch

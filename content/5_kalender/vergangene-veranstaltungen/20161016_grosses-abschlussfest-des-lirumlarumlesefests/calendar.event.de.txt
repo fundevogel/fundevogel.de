@@ -2,11 +2,15 @@ Title: Großes Abschlussfest des LirumLarumLesefests
 
 ----
 
+Location: Stadttheater Freiburg
+
+----
+
 Date: 2016-10-16
 
 ----
 
-Location: Stadttheater Freiburg
+Link: 
 
 ----
 
@@ -30,12 +34,12 @@ End-date: 2016-10-16
 
 ----
 
-Draft: 1
-
-----
-
 Show-time: true
 
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

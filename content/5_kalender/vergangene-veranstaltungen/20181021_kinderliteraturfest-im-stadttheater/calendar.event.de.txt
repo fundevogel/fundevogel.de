@@ -2,11 +2,15 @@ Title: Kinderliteraturfest im Stadttheater
 
 ----
 
+Location: Stadttheater Freiburg
+
+----
+
 Date: 2018-10-21
 
 ----
 
-Location: Stadttheater Freiburg
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Zum großen Abschlussfest des diesjährigen **Lirum Larum Lesefestes** im 
 
 ----
 
-Begin-time: 12:30
+Begin-time: 12:30:00
 
 ----
 
-End-time: 18:00
+End-time: 18:00:00
 
 ----
 
 End-date: 2018-10-21
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

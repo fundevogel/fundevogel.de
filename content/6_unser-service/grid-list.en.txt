@@ -6,12 +6,6 @@ Slug: our-service
 
 ----
 
-Cover:
-
-- unser-service.jpg
-
-----
-
 Text:
 
 ## Come on in!
@@ -21,25 +15,141 @@ Relax, take a deep breath and have a look around: Before you lies a world full o
 
 Cards:
 
--
+- 
   entry: 'We offer competent **advice** (at your option) to find just the right book - for every age, for every occasion.'
--
+- 
   entry: 'Many different **events** regarding the support and development of reading - annual highlights include (but are not limited to) the World Book Day, and also inviting authors to read from their books at **Lirum Larum Lesefest* as well as our autumnal in-house **„Bücherlese“**, where we talk about compelling novelties, simply having a good time. For more **information**, see our (link: /kalender/ text: calendar).'
--
+- 
   entry: '**Fast delivery** of all available books (pretty much anything). Tell us what you need,  in the store, (email: info@fundevogel.de text: via email), call us or order it through our (link: /shop/ text: online shop).'
--
+- 
   entry: 'Organising **exhibitions and presentations** in different institutions and at certain events, in which case we put together a **fine selection** of matching books. Please be sure however to contact us in good time prior to the event.'
--
+- 
   entry: 'Well-researched **recommendations** on specific topics. Just  (email: info@fundevogel.de text: let us know) what you have  in mind.'
--
+- 
   entry: '**School classes** as well as **kindergartners** often come to visit Fundevogel. If you are interested or planning such a trip yourself, please talk to us early on.'
--
+- 
   entry: "The bookstore includes a **kid's corner** as well as a **changing table**, various seating accommodations (even a sofa) to simply relax or bury oneself in a book; our **motivated team**, always at your fingertips - and last but not least **lots of select books** for just about everyone!"
 
 ----
 
-Seotitle: Our Service
+Cover:
+
+- unser-service.jpg
 
 ----
 
-Seodescription: Have a look around: Before you lies a world full of adventure and mystery - and we are there to guide you through the mist of written wonder!
+Meta-title: 
+
+----
+
+Meta-description: Have a look around: Before you lies a world full of adventure and mystery - and we are there to guide you through the mist of written wonder!
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- unser-service.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- unser-service.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- unser-service.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

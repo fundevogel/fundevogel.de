@@ -14,7 +14,11 @@ Verdict: Für Kinder ab acht Jahren und für all diejenigen, die in die wunderba
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,15 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Ozeane - Die wunderbare Welt der Meere
+Isadvanced: false
 
 ----
 
-Seodescription:
+Meta-title: Ozeane
 
-Wusstest du, dass es ganz tief auf Meeresgrund „rauchende Riesen“ gibt, vulkanartige Schlote, in denen Riesenwürmer und Seespinnen leben? Oder dass in der Tiefsee lebende Quallen, wenn sie auf Nahrungssuche sind, auf den Leuchtorganen ihrer unzähligen, giftigen Tentakeln ein wahres Feuerwerk entzünden? Wie tarnt sich ein Vampirtintenfisch? Und wie genau hängt Ebbe und Flut eigentlich mit dem Mond zusammen?
+----
 
-Das Sachbuch im wunderschönen Großformat zeigt uns die faszinierende Welt der Meere und erklärt auf anschauliche Art und Weise allerlei Wissenswertes: Von der Entstehung einer Welle, dem Kreislauf des Wasser bis zum Leben in den Korallenriffen. Das Besondere an dem Buch ist aber, dass sich neben den informativen Texten zahlreiche Klappen, filigrane Scherenschnitte, bunte Illustrationen und aufklappbare Seiten zum dahinter Schauen und Entdecken befinden. So wird das Lesen und Durchblättern zu einem richtigen Erlebnis!
+Meta-description: Für Kinder ab acht Jahren und für all diejenigen, die in die wunderbare Welt des Ozeans abtauchen wollen.
 
-Für Kinder ab 8 Jahren und für all diejenigen, die in die wunderbare Welt des Ozeans abtauchen wollen.
-Gerstenberg Verlag
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

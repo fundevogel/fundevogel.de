@@ -19,3 +19,7 @@ Caption: Bereich neben dem Tresen
 ----
 
 Template: image
+
+----
+
+Sort: 8

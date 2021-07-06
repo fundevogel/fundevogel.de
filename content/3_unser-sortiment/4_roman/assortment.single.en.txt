@@ -15,6 +15,10 @@ For older children and adolescents, we have a wide range of novels of all genres
 
 ----
 
+Layouts: []
+
+----
+
 Favorites:
 
 ----
@@ -25,8 +29,118 @@ Cover:
 
 ----
 
-Seotitle: Novels & Stories
+Meta-title: Novels & Stories
 
 ----
 
-Seodescription: We've got wonderful first-time reading books that just make you want to read, as well as many novels of all genres for older children and adolescents.
+Meta-description: We've got wonderful first-time reading books that just make you want to read, as well as many novels of all genres for older children and adolescents.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- roman.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- roman.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- roman.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

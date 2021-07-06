@@ -2,7 +2,15 @@ Title: C’est l’heure de l’histoire!
 
 ----
 
-Date: 2017-03-27
+Text:
+
+La librairie Fundevogel et le Café Marcel, fraîchement amis, sont heureux de vous proposer, ainsi qu’à vos enfants, des moments cafés-lectures en français, autour du Café Marcel dans le Stadtgarten. La première lecture de l’année aura lieu le **samedi 18 mars à 10h30**. IL VA PLEUVOIR !!! Rendez-vous donc à la librairie Fundevogel. Pour enfants de 3 à 6 ans, accompagnés des parents. Entrée libre et sans réservation.
+
+Der Fundevogel und der Café Marcel freuen sich, euch und eure Kinder zu Kaffee-Lesungen vor dem Café Marcel im Stadtgarten einzuladen. Die nächste Lesung findet am **Samstag, 18. März um 10:30** statt. ES WIRD REGNEN! Gelesen wird es also in der Buchhandlung Fundevogel. Für Kinder von 3 bis 6 Jahren (begleitet von den Eltern). Eintritt frei, keine Anmeldung nötig.
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,8 +18,4 @@ Subtitle: Französische Lesungen im Café Marcel - Lectures en français au Caf�
 
 ----
 
-Text: 
-
-La librairie Fundevogel et le Café Marcel, fraîchement amis, sont heureux de vous proposer, ainsi qu’à vos enfants, des moments cafés-lectures en français, autour du Café Marcel dans le Stadtgarten. La première lecture de l’année aura lieu le **samedi 18 mars à 10h30**. IL VA PLEUVOIR !!! Rendez-vous donc à la librairie Fundevogel. Pour enfants de 3 à 6 ans, accompagnés des parents. Entrée libre et sans réservation.
-
-Der Fundevogel und der Café Marcel freuen sich, euch und eure Kinder zu Kaffee-Lesungen vor dem Café Marcel im Stadtgarten einzuladen. Die nächste Lesung findet am **Samstag, 18. März um 10:30** statt. ES WIRD REGNEN! Gelesen wird es also in der Buchhandlung Fundevogel. Für Kinder von 3 bis 6 Jahren (begleitet von den Eltern). Eintritt frei, keine Anmeldung nötig.
+Date: 2017-03-27

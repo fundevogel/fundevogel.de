@@ -2,14 +2,6 @@ Title: "Herr Fundevogel" auf Reisen
 
 ----
 
-Date: 2018-04-23
-
-----
-
-Subtitle: Sommerzeit im Fundevogel
-
-----
-
 Text:
 
 Alles neu macht der Mai!
@@ -22,3 +14,15 @@ Das gilt auch für den Fundevogel. Denn vom **8. Mai bis einschließlich 22. Mai
 10:00 - 16:00 Uhr
 
 Wir freuen uns schon auf die Rückkehr der beiden mit vielen Urlaubsgeschichten im Gepäck!
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Sommerzeit im Fundevogel
+
+----
+
+Date: 2018-04-23

@@ -9,6 +9,10 @@ Am Ende eines schönen Abends bleibt ein Gefühl: **Bücher verbinden!**
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Herbstlese im Fundevogel
 
 ----

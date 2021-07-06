@@ -2,7 +2,11 @@ Title: Goûter-lecture
 
 ----
 
-Date: 2018-03-22
+Text: Die **"Semaine de la langue française et de la Francophonie"** hat uns ins *Zusammen Kaffee*, beziehungsweise nach Afrika geführt! Dort haben Kinder zwei Geschichten vorgelesen bekommen. Sie haben aufmerksam zugehört, obwohl nicht alle französisch konnten. Die Magie der Geschichten und der Klang der Sprache jedoch fesselten die kleinen Zuhörer. Danke an das *Zusammen Kaffee* für die Kooperation und bis zum nächsten Mal!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Lesenachmittag auf französisch
 
 ----
 
-Text: Die **"Semaine de la langue française et de la Francophonie"** hat uns ins *Zusammen Kaffee*, beziehungsweise nach Afrika geführt! Dort haben Kinder zwei Geschichten vorgelesen bekommen. Sie haben aufmerksam zugehört, obwohl nicht alle französisch konnten. Die Magie der Geschichten und der Klang der Sprache jedoch fesselten die kleinen Zuhörer. Danke an das *Zusammen Kaffee* für die Kooperation und bis zum nächsten Mal!
+Date: 2018-03-22

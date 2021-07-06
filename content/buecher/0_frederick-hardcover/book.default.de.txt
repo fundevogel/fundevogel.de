@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Leo Lionni
 
 ----
@@ -133,7 +137,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

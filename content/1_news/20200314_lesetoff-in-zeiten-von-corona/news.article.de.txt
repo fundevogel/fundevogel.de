@@ -2,14 +2,6 @@ Title: "Wenn es mir schlecht geht, gehe ich nicht in die Apotheke, sondern zu me
 
 ----
 
-Date: 2020-03-14
-
-----
-
-Subtitle: Lesestoff in Zeiten von Corona
-
-----
-
 Text:
 
 In Zeiten abgesagter Veranstaltungen und Hamsterkäufen machen die Auswirkungen des Corona-Virus auch vor uns nicht halt. Auch bei uns werden reihenweise die bereits gebuchten Ausstellungen in Kindergärten und Schulen abgesagt. Wir bleiben gelassen.
@@ -17,3 +9,15 @@ Und solltet ihr Lese-Tipps für in Zeiten der Quarantäne brauchen. Wir sind fü
 Wir lassen Euch nicht im Stich!
 
 Bleibt gesund und gebt der Panik keine Chance!
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Lesestoff in Zeiten von Corona
+
+----
+
+Date: 2020-03-14

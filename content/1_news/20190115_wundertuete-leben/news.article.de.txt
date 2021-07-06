@@ -11,6 +11,10 @@ Nähere Informationen zum Programmablauf unter www.malteser-freiburg.de
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Tag der Kinder- und Jugendhospizarbeit
 
 ----

@@ -2,7 +2,11 @@ Title: 24 literarische Anregungen und poetische Bilder
 
 ----
 
-Date: 2016-11-29
+Text: Hinter jedem Türchen unseres Fensters begleitet Sie Tag für Tag ein Bild, ein Gedicht oder ein kurzer Text durch die Adventszeit.
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Literarischer Weihnachtskalender
 
 ----
 
-Text: Hinter jedem Türchen unseres Fensters begleitet Sie Tag für Tag ein Bild, ein Gedicht oder ein kurzer Text durch die Adventszeit.
+Date: 2016-11-29

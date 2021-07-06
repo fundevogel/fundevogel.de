@@ -10,6 +10,10 @@ Subtitle: Das große Herbarium
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Stefan Casta
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-juli-fu
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

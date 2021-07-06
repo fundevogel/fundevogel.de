@@ -22,7 +22,7 @@ Symbolisch zieht sich durch das ganze Buch von Seite zu Seite ein Faden. Der far
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -40,12 +40,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Der Dominoeffekt
 
 ----
 
-Isadvanced: 
+Meta-description: Das Eingreifen des Menschen in die Natur hat meist weitreichende Folgen. Durch unkontrolliertes Importieren fremder Lebewesen kann erheblicher Schaden angerichtet werden. Versuche, den angerichteten Schaden r&uuml;ckg&auml;ngig zu machen, l&ouml;sen meist Dominoeffekte aus. Von 18 unglaublichen aber wahren Geschichten berichtet der Autor Accinelli in anekdotischer Erz&auml;hlweise.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

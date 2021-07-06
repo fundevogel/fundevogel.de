@@ -141,32 +141,4 @@ Twitter-creator:
 
 ----
 
-Robots-noindex: 
-
-----
-
-Robots-nofollow: 
-
-----
-
-Robots-noarchive: 
-
-----
-
-Robots-noimageindex: 
-
-----
-
-Robots-nosnippet: 
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
 Date: 2017-02-10

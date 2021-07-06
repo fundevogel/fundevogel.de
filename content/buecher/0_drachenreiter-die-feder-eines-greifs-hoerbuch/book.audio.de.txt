@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hörbuch
+
+----
+
 Author: Cornelia Funke
 
 ----
@@ -138,7 +142,3 @@ Participant:
 ----
 
 Composer: German Wahnsinn
-
-----
-
-Type: Hörbuch

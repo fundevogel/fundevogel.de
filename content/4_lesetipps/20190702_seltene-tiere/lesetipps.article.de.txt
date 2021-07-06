@@ -23,7 +23,7 @@ Der Autor Martin Jenkins versteht auf besondere Weise Fakten in historische Hint
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -41,12 +41,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Seltene Tiere
 
 ----
 
-Isadvanced: 
+Meta-description: Das Buch der seltenen Tiere wartet mit einem besonderen Konzept auf, denn die Tiere werden als großformatige Briefmarken präsentiert. Neben den beeindruckenden Tierdarstellungen gibt es zahlreiche gut recherchierte Sachinformationen über Besonderheiten, das Verbreitungsgebiet, den Bestand der bedrohten Arten und warum diese bedroht sind.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

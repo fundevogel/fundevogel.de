@@ -2,11 +2,15 @@ Title: Lecture en français - Lesung auf französisch
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2019-03-20
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Lesung
 
 ----
 
-Text: 
+Text:
 
 De conte en conte ... Promenons-nous dans les rues !
 Début du parcours : 15h à la librairie
@@ -25,19 +29,15 @@ Entrée libre - Sur inscription : 0761/25218 ou info@fundevogel.de
 
 ----
 
-Begin-time: 15:00
+Begin-time: 15:00:00
 
 ----
 
-End-time: 17:00
+End-time: 17:00:00
 
 ----
 
 End-date: 2019-03-20
-
-----
-
-Draft: 1
 
 ----
 
@@ -46,3 +46,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

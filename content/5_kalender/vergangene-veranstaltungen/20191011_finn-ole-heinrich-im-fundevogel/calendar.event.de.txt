@@ -22,11 +22,11 @@ Text: Wir freuen uns im Rahmen des Lirum Larum Lesefestes den Autor **Finn-Ole H
 
 ----
 
-Begin-time: 17:00
+Begin-time: 17:00:00
 
 ----
 
-End-time: 18:30
+End-time: 18:30:00
 
 ----
 

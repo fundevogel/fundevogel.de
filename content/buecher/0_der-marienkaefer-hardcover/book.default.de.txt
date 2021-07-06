@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Bernadette Gervais
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.ajum.de/html/Lesepeter/201707.html
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

@@ -18,7 +18,7 @@ Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingefloch
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -36,12 +36,116 @@ Isexternal: true
 
 ----
 
-Seotitle: Hallo, Herr Eisbär!
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Hallo, Herr Eisbär!
 
 ----
 
-Isadvanced: 
+Meta-description: Liam ist ein besonderes Kind. Schon mit kleinen Veränderungen der täglichen Routine kommt er nur schlecht zurecht und die ganze Familie muss Rücksicht auf ihn nehmen. Darunter leidet vor allem sein Bruder Arthur, der quasi in letzter Sekunde Hilfe von einem Eisbären erhält. Ein ebenso ernsthaftes wie humorvolles Kinderbuch, in dem die Empfindungen des Geschwisterkindes von einem Autisten feinfühlig zum Ausdruck kommen.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

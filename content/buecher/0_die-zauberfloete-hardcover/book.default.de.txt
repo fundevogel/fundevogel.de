@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Ingrid Leser-Matthesius
 
 ----
@@ -126,7 +130,3 @@ Awardedition: März 2016
 ----
 
 Leselink: https://www.ajum.de/html/Lesepeter/201603.html
-
-----
-
-Type: Hardcover

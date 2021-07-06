@@ -19,3 +19,7 @@ Caption: Vorderer Bereich des Ladens mit Tisch zu wechselnden Themen
 ----
 
 Template: image
+
+----
+
+Sort: 5

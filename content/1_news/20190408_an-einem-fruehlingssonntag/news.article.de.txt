@@ -2,7 +2,11 @@ Title: An einem Frühlingssonntag ...
 
 ----
 
-Date: 2019-04-08
+Text: Gemeinsam sind wir den Sonnenscheinen gefolgt und in der schönen, zum faulenzen einladenden Eslässischen Stadt Straßburg gelandet. Der Frühling kann beginnen!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Teamausflug nach Straßburg!
 
 ----
 
-Text: Gemeinsam sind wir den Sonnenscheinen gefolgt und in der schönen, zum faulenzen einladenden Eslässischen Stadt Straßburg gelandet. Der Frühling kann beginnen!
+Date: 2019-04-08

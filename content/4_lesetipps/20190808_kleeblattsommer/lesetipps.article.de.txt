@@ -14,7 +14,11 @@ Verdict: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,8 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Kleeblattsommer
+Isadvanced: false
 
 ----
 
-Seodescription: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen möchte und ins kühle Fjordwasser springen möchte. Mit lustigen Streichen, verrückten Ideen und ein bisschen Fußball. Eine Geschichte über Freundschaft, Eifersucht, Streit und darüber, dass es ganz schön viel Mut braucht um für etwas zu kämpfen, das einem wichtig ist – vor allem dann, wenn es um die weltbesten Freunde geht.
+Meta-title: Kleeblattsommer
+
+----
+
+Meta-description: Eine Sommergeschichte, bei der man am liebsten selbst die Koffer packen möchte und ins kühle Fjordwasser springen möchte. Mit lustigen Streichen, verrückten Ideen und ein bisschen Fußball. Eine Geschichte über Freundschaft, Eifersucht, Streit und darüber, dass es ganz schön viel Mut braucht um für etwas zu kämpfen, das einem wichtig ist – vor allem dann, wenn es um die weltbesten Freunde geht.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

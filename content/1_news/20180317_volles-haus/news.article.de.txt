@@ -2,7 +2,11 @@ Title: Volles Haus!
 
 ----
 
-Date: 2018-03-17
+Text: Am 8.03 hatten wir Besuch aus Frankreich, bzw. aus Grenoble. Der alljährliche Besuch der Partnerklassen der Schule in Merdingen ist inzwischen zu einer schönen Tradition geworden. Wie heißen Tim und Struppi auf französisch? Warum hat Pipi auf französisch keine lange Strümpfe, sondern Drahtzöpfe? Solche Fragen haben die Vier- und Fünfklässler zum Nachdenken über interkulturelle Unterschiede gebracht. Nach einer Geschichte, die auf deutsch vorgelesen worden ist, konnten die Schüler  in Ruhe durch unser Sortiment stöbern und in die deutsche Kinder- und Jugendliteratur eintauchen. Danke für den Besuch!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Grenoble zu Besuch
 
 ----
 
-Text: Am 8.03 hatten wir Besuch aus Frankreich, bzw. aus Grenoble. Der alljährliche Besuch der Partnerklassen der Schule in Merdingen ist inzwischen zu einer schönen Tradition geworden. Wie heißen Tim und Struppi auf französisch? Warum hat Pipi auf französisch keine lange Strümpfe, sondern Drahtzöpfe? Solche Fragen haben die Vier- und Fünfklässler zum Nachdenken über interkulturelle Unterschiede gebracht. Nach einer Geschichte, die auf deutsch vorgelesen worden ist, konnten die Schüler  in Ruhe durch unser Sortiment stöbern und in die deutsche Kinder- und Jugendliteratur eintauchen. Danke für den Besuch!
+Date: 2018-03-17

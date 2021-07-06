@@ -2,12 +2,16 @@ Title: Post für den Fundevogel!
 
 ----
 
-Date: 2016-08-17
-
-----
-
 Text: Dabei hoffen wir, dass unsere Auswahl Ihnen nach wie vor gefällt!
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Unser Kartensortiment erweitern wir immer wieder ...
+
+----
+
+Date: 2016-08-17

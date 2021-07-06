@@ -23,7 +23,7 @@ Die Graphic Novel eignet sich zur Unterhaltung ebenso wie für den Literaturunte
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -42,12 +42,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Mira #freunde #verliebt #einjahrmeineslebens
 
 ----
 
-Isadvanced: 
+Meta-description: Es ist kompliziert. Mira möchte gerne ebenso cool wie die Neue aus der Klasse sein. Leider war Mira noch nie verliebt und das gehört zum Coolsein definitiv dazu. Ob sich ihr bester Freund dafür eignet, mit dem sie hervorragend, aber leider viel zu kindisch spielen kann? Ein turbulenter und witziger Comic über ein Mädchen an der Schwelle zum Teenageralter.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

@@ -2,11 +2,15 @@ Title: Lesung mit Oliver Scherz
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2017-10-17
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Lesung
 
 ----
 
-Text: 
+Text:
 
 Was tut man, wenn spätabends ein Elefant ans Fenster klopft? Wenn dieser Elefant aus dem Zoo ausgebrochen ist, um seine Großfamilie in Afrika zu besuchen? Und wenn er gar nicht weiß, wo Afrika überhaupt liegt? Man packt Äpfel, Kekse und einen Globus in den Rucksack und begleitet ihn. Genau das tun Joscha und Marie. So weit wird Afrika nicht sein, denken sie und erleben eine Reise, die alles übertrifft, was sie sich vorgestellt haben. Mit seinem Buch "Wir sind nachher wieder da, wir müssen kurz nach Afrika" ist Oliver Scherz zu Gast im Fundevogel.
 
@@ -22,19 +26,15 @@ Was tut man, wenn spätabends ein Elefant ans Fenster klopft? Wenn dieser Elefan
 
 ----
 
-Begin-time: 15:00
+Begin-time: 15:00:00
 
 ----
 
-End-time: 16:30
+End-time: 16:30:00
 
 ----
 
 End-date: 2017-10-17
-
-----
-
-Draft: 1
 
 ----
 
@@ -43,3 +43,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

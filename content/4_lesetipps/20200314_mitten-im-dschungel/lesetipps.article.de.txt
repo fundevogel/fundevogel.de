@@ -4,17 +4,21 @@ Title: Mitten im Dschungel
 
 Text:
 
-Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich gestellt: Der Junge Fred aus London, das Mädchen Lila und ihr kleiner Bruder Max aus Brasilien und das englische Mädchen Con. Für die vier Kinder beginnt ein Kampf ums Überleben. Ihr Plan ist es, den nächstgelegenen Ort zu erreichen, um dort Hilfe zu erhalten.
+"Mitten im Dschungel", im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich gestellt: Der Junge Fred aus London, das Mädchen Lila und ihr kleiner Bruder Max aus Brasilien und das englische Mädchen Con. Für die vier Kinder beginnt ein Kampf ums Überleben. Ihr Plan ist es, den nächstgelegenen Ort zu erreichen, um dort Hilfe zu erhalten.
 
 Fred hat zwar viele Abenteuerromane gelesen und weiß, wie man ein Floß baut und ein Feuer entzündet; Lila kennt sich gut in der heimischen Tier- und Pflanzenwelt aus. Doch wird es ihnen gelingen, im Dschungel zu überleben und aus dem Urwald herauszufinden?
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,8 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Mitten im Dschungel
+Isadvanced: false
 
 ----
 
-Seodescription: Mitten im Dschungel“, im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich …
+Meta-title: Mitten im Dschungel
+
+----
+
+Meta-description: "Mitten im Dschungel", im brasilianischen Amazonasgebiet, stürzt eine kleine Propellermaschine ab, und fortan sind die vier überlebenden Kinder auf sich ..
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

@@ -10,7 +10,11 @@ Verdict: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel,
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Das U-Boot auf dem Berg
+Isadvanced: false
 
 ----
 
-Seodescription: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
+Meta-title: Das U-Boot auf dem Berg
+
+----
+
+Meta-description: Eine witzige und berührende Geschichte über einen wahnsinnigen Onkel, der eigentlich eine psychische Krankheit hat.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

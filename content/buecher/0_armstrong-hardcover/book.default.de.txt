@@ -10,6 +10,10 @@ Subtitle: Die abenteuerliche Reise einer Maus zum Mond
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Torben Kuhlmann
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.ajum.de/html/Lesepeter/201612.html
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

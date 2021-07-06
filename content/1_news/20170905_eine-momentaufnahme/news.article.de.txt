@@ -2,7 +2,11 @@ Title: Eine Momentaufnahme
 
 ----
 
-Date: 2017-09-05
+Text: Der Buchhändler, der hinter den Kisten verschwand und in Schulbüchern versank
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: ...
 
 ----
 
-Text: Der Buchhändler, der hinter den Kisten verschwand und in Schulbüchern versank
+Date: 2017-09-05

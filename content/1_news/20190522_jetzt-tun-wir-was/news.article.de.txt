@@ -2,14 +2,6 @@ Title: Jetzt tun wir was!
 
 ----
 
-Date: 2019-05-22
-
-----
-
-Subtitle: Was tust du gegen den Klimawandel?
-
-----
-
 Text:
 
 Es ist nie zu spät, aber kurz davor.
@@ -22,3 +14,15 @@ Wir laden Euch herzlich ein,  den Baum mit Euren eigenen Ideen weiter wachsen zu
 Außerdem haben wir rund um das Thema Klimawandel und Naturschutz viele Bücher für Euch auf Lager, die informieren, nachdenklich stimmen und Lust machen selbst aktiv zu werden.
 
 Kommt vorbei! Wir freuen uns auf Eure Ideen!
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Was tust du gegen den Klimawandel?
+
+----
+
+Date: 2019-05-22

@@ -6,6 +6,10 @@ Text: Am Sonntag das große Finale des Freibuger Lesefestivals im Stadttheater! 
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Lirum Larum Lesezeit
 
 ----

@@ -20,7 +20,7 @@ Durch diese Verbindung von Zugänglichkeit und Komplexität gestaltet sich der R
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -38,12 +38,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Das Lied vom Ende
 
 ----
 
-Isadvanced: 
+Meta-description: Aus wechselnder Perspektive einzelner Familienmitglieder werden die Grenzerfahrungen der Familie Schult erzählt, die Folgen des erweiterten Suizids durch den Vater in der Nachbarsfamilie sind. In einer Mischung aus Coming-of-Age-Geschichte und Familiendrama gibt der Roman Einblick in eine komplexe Figurenpsychologie im Moment existenzieller Krisen.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

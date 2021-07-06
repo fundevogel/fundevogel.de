@@ -6,6 +6,10 @@ Text: Wo sie herkamen, wissen wir nicht. Auch nicht, wer sie uns geschenkt hat o
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Ein Abschied
 
 ----

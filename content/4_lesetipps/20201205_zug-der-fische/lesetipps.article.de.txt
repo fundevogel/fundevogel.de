@@ -30,7 +30,7 @@ Die Bilder bieten nicht nur eine Veranschaulichung der ukrainisch-ländlichen Al
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -48,12 +48,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Zug der Fische
 
 ----
 
-Isadvanced: 
+Meta-description: Marika vermisst ihre Mutter, die in Westeuropa arbeitet, um ihrer Familie in der Ukraine den Lebensunterhalt zu finanzieren. Die Sehnsucht des Mädchens zeigt sich eindrücklich im poetischen Text und in den feinsinnigen Illustrationen. Als beispielhaftes Einzelschicksal dieser sogenannten Eurowaisen – einem realen Problem unserer Gegenwart – schildert das Bilderbuch "Zug der Fische" auf beeindruckende Weise in Wort und Bild den Alltag der Heranwachsenden und vor allem den Wunsch nach einer intakten Familie.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

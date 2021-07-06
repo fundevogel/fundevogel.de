@@ -10,6 +10,10 @@ Subtitle: Nek Chand baut sein geheimes Reich
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Barb Rosenstock; Claire A. Nivola
 
 ----
@@ -126,10 +130,6 @@ Awardedition:
 ----
 
 Leselink: 
-
-----
-
-Type: Hardcover
 
 ----
 

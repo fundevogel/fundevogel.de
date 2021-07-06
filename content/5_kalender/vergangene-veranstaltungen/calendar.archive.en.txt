@@ -25,19 +25,19 @@ Meta-title: Previous events
 
 ----
 
-Meta-description: Here you will find all information about the past events of the Fundevogel.
+Meta-description: Here you will find all information about our previous events.
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -47,15 +47,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -65,23 +65,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -89,35 +89,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -131,16 +131,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
+Twitter-creator:

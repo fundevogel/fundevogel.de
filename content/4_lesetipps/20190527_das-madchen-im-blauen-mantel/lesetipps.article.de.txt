@@ -20,6 +20,10 @@ Conclusion: Ihre emotionale Abschottung hat aber auch noch einen anderen Grund, 
 
 ----
 
+Layouts: []
+
+----
+
 Date: 2019-05-27
 
 ----
@@ -35,8 +39,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Das Mädchen im blauen Mantel
+Isadvanced: false
 
 ----
 
-Seodescription: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
+Meta-title: Das Mädchen im blauen Mantel
+
+----
+
+Meta-description: Hanneke findet bei ihrer Suche heraus, dass es auf manche Fragen mehr als nur eine Antwort gibt. Und dass der Krieg alle Menschen dazu zwingt, ihr Äußerstes zu geben.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

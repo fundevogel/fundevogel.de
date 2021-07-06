@@ -22,11 +22,11 @@ Text: Der Friedhof ist nicht immer ein Ort der Trauer. An diesem Wochenende wird
 
 ----
 
-Begin-time: 13:00
+Begin-time: 13:00:00
 
 ----
 
-End-time: 16:30
+End-time: 16:30:00
 
 ----
 

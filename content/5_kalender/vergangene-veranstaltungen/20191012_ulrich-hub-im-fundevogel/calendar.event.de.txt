@@ -22,11 +22,11 @@ Text: Im Rahmen des Lirum Larum Lesefestes werden wir dieses Jahr den den Schrif
 
 ----
 
-Begin-time: 15:00
+Begin-time: 15:00:00
 
 ----
 
-End-time: 16:30
+End-time: 16:30:00
 
 ----
 

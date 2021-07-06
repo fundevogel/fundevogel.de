@@ -40,7 +40,7 @@ Tamara Bach entwirft ein unterhaltsames Manifest über die Gerechtigkeit und die
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -62,8 +62,112 @@ Isadvanced: false
 
 ----
 
-Seotitle: 
+Meta-title: Sankt Irgendwas
 
 ----
 
-Seodescription: Books: - buecher/sankt-irgendwas-hardcover
+Meta-description: "Sankt Irgendwas" von Tamara Bach erzählt aus Sicht der Jugendlichen und in einem ausgefallenen Protokollstil von den Erlebnissen einer Klassenfahrt.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

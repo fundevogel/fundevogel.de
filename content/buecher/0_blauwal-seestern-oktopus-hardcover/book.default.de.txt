@@ -10,6 +10,10 @@ Subtitle: Die Welt der Meere
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Virginie Aladjidi
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

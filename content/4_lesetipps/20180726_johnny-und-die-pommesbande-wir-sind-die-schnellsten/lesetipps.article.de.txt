@@ -10,7 +10,11 @@ Verdict: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Johnny und die Pommesbande - Wir sind die Schnellsten
+Isadvanced: false
 
 ----
 
-Seodescription: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren
+Meta-title: Johnny und die Pommesbande - Wir sind die Schnellsten
+
+----
+
+Meta-description: Ein spannender Vorlesespaß für Kinder ab 7 Jahren und zum Selberlesen ab 9 Jahren.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

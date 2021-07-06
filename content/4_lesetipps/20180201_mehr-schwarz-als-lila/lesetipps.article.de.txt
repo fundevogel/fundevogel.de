@@ -26,7 +26,7 @@ Aber Alex geht es nicht um Erinnerungskultur. Sie verspielt auf der Gedenkstätt
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -44,12 +44,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Mehr Schwarz als Lila
 
 ----
 
-Isadvanced: 
+Meta-description: &quot;Ich sehne mich nach Zahnpastageschmack, ich sehne mich nach Tagen, an denen ich keine Angst hatte vor Antworten auf Fragen, die ich nun nicht zu stellen wage.&quot; S&auml;tze wie dieser sind es, die &quot;Mehr Schwarz als Lila&quot; von Lena Gorelik zu einem beeindruckenden Roman &uuml;ber Freundschaft, Liebe, Erinnerung und den einen Moment machen, in dem alles aufs Spiel gesetzt wird.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

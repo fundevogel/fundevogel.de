@@ -2,11 +2,15 @@ Title: Aktion Lesetüte
 
 ----
 
+Location: Maria Sybilla Merian Grundschule Kiechlinsbergen Königschaffhausen
+
+----
+
 Date: 2017-10-17
 
 ----
 
-Location: Maria Sybilla Merian Grundschule Kiechlinsbergen Königschaffhausen
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Wir sind mit dem SC-Freiburg und dem Füchsle in Sachen "Fußball und lese
 
 ----
 
-Begin-time: 09:15
+Begin-time: 09:15:00
 
 ----
 
-End-time: 10:15
+End-time: 10:15:00
 
 ----
 
 End-date: 2017-10-17
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

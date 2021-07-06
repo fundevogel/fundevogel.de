@@ -10,6 +10,10 @@ Subtitle: Alles über Mandrill, Gibbon, Schimpanse und Co.
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Owen Davey
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.ajum.de/html/Lesepeter/201607.html
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

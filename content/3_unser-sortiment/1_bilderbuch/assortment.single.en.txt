@@ -15,7 +15,11 @@ The picture book is the focus of the first years of reading - because "reading" 
 
 ----
 
-Favorites:
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Bilderwelten zum Anfassen"},"id":"b72ef00b-fd09-49c7-acfe-75e6a78247fe","isHidden":false,"type":"heading"},{"content":{"text":"<p>Auch gibt es bei uns eine tolle Auswahl an kurzen Bilderbuchgeschichten, bei denen schon die Kleinsten viel Spa\u00df haben, beim gemeinsamen Betrachten und Lesen mitzumachen. Hier k\u00f6nnen sie zum Beispiel viele Tiere und Dinge aus ihrem Alltag (wieder)entdecken und kennenlernen, Tierstimmen und Ger\u00e4usche nachahmen, den leicht verst\u00e4ndlichen Reimen lauschen und vielleicht auch schon mitsprechen und sich in die sch\u00f6nen und bunten Bildwelten hineintr\u00e4umen.<\/p><p>F\u00fcr Kindergartenkinder haben wir eine gro\u00dfe Auswahl der allersch\u00f6nsten Bilderb\u00fccher: So zauberhaft illustrierte Geschichten wie die vom \"schlafenden Tiger\" von Pamela Zagarenski und Mary Logue, spannende Wimmelb\u00fccher wie die von Rotraut Susanne Berner, die zum Entdecken und gemeinsamen Erz\u00e4hlen einladen, poetische Bilderb\u00fccher wie \"Leben\" von Cynthia Rylan und Brendan Wenzel, die zum gemeinsamen Tr\u00e4umen und Philosophieren anregen und jede Menge lustiger Geschichten wie \"Ein Wolf im Nachthemd\" von Mario Ramos oder \"Superman im Supermarkt\" von Arne Rautenberg und Eva Muggenthaler.<\/p>"},"id":"539dabc2-f0fd-48df-bce3-c1d05f3c3a5b","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"f78d7e46-3076-453b-a416-3fca719a220d","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Textlose Bilderb\u00fccher"},"id":"889f7410-8456-4b3b-82d8-396b3b69f989","isHidden":false,"type":"heading"},{"content":{"text":"<p>Besonders Bilderb\u00fccher ohne Text eignen sich f\u00fcr Kinder aller Altersstufen, um in die atemberaubenden, detailreichen und k\u00fcnstlerisch anspruchsvollen Bildwelten einzutauchen und sich vielseitig \u2013 erz\u00e4hlend, phantasierend, schreibend, gestaltend \u2013 mit ihnen auseinanderzusetzen.<\/p><p>Zu unseren Lieblingen geh\u00f6ren unter anderem die witzig turbulenten Bilderb\u00fccher \"Die Torte ist weg!\" von Th\u00e9 Tjong-Khing und \"Der H\u00fchnerdieb\" von B\u00e9atrice Rodriguez, genauso wie die fantastische Bilderbuch-Trilogie \"Die Reise\", \"Die Suche\" und \"Die R\u00fcckkehr\" von Aaron Becker und das liebevolle Einschlafbuch \"Gute Nacht, Gorilla\" von Peggy Rathman.<\/p>"},"id":"fb9e5053-1351-45ba-bbda-decdc3c5e9b7","isHidden":false,"type":"text"}],"id":"7cefff64-72c2-49a6-acd7-9822727b0484","width":"1\/1"}],"id":"0d543e99-9a9f-4c39-aae6-43d34b15eed4"}]
+
+----
+
+Favorites: 
 
 ----
 
@@ -25,8 +29,118 @@ Cover:
 
 ----
 
-Seotitle: Picture books
+Meta-title: Picture Books
 
 ----
 
-Seodescription: Come along on a fantastic journey between the covers of wonderful picture books, to their colorful scenery and friendly residents.
+Meta-description: Come along on a fantastic journey between the covers of wonderful picture books, to their colorful scenery and friendly residents.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- bilderbuch.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- bilderbuch.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- bilderbuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

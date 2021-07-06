@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hörbuch
+
+----
+
 Author: Marc-Uwe Kling
 
 ----
@@ -142,7 +146,3 @@ Participant:
 ----
 
 Composer: 
-
-----
-
-Type: Hörbuch

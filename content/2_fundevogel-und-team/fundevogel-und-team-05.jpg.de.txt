@@ -19,3 +19,7 @@ Caption: Wechselnd gestaltete Auslagen im Eingangsbereich
 ----
 
 Template: image
+
+----
+
+Sort: 4

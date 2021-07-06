@@ -2,7 +2,14 @@ Title: Signierstunde mit Aurélie Guetz
 
 ----
 
-Date: 2019-10-12
+Text:
+
+Liebe Kazhen-Freunde,
+am Sonntag um 14 Uhr freuen wir uns sehr Euch bei unserem Stand zur Signierstunde mit Aurélie Guetz begrüßen zu dürfen!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,7 +17,4 @@ Subtitle: Im Stadttheater
 
 ----
 
-Text:
-
-Liebe Kazhen-Freunde,
-am Sonntag um 14 Uhr freuen wir uns sehr Euch bei unserem Stand zur Signierstunde mit Aurélie Guetz begrüßen zu dürfen!
+Date: 2019-10-12

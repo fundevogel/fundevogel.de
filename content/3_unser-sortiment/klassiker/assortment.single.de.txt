@@ -6,11 +6,11 @@ Text: ## Absolute Klassiker
 
 ----
 
-Blocks: [{"content":{"heading":"dASDASD","icon":"camera-filled","books":[{"title":"","book":["buecher\/adresse-unbekannt-hardcover"],"text":"fsdefsdfsdfsdf"},{"title":"","book":["buecher\/am-liebsten-ass-der-hamster-hugo-spaghetti-mit-tomatensugo-hardcover"],"text":""}],"usedetails":"false","usetaxonomy":"false"},"id":"083b33b1-9fcd-4bbf-99cc-ec9a2fde4091","isHidden":false,"type":"books_new"}]
+Layouts: []
 
 ----
 
-Favorites: 
+Favorites:
 
 ----
 
@@ -20,12 +20,116 @@ Cover:
 
 ----
 
-Seotitle: Klassiker
+Meta-title:
 
 ----
 
-Seodescription: Wir lieben Klassiker!
+Meta-description:
 
 ----
 
-Details: 
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type:
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
+Details:

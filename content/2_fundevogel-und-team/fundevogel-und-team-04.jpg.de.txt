@@ -19,3 +19,7 @@ Caption: Blick in den Laden, vom Fenster aus
 ----
 
 Template: image
+
+----
+
+Sort: 7

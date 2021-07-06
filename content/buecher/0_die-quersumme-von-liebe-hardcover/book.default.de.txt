@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Katrin Zipse
 
 ----
@@ -125,7 +129,3 @@ Awardedition: Oktober 2016
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-fuer-die-quersumme-von-liebe
-
-----
-
-Type: Hardcover

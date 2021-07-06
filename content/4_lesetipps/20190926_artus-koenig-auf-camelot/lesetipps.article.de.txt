@@ -14,7 +14,11 @@ Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen 
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -33,8 +37,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Artus - König auf Camelot
+Isadvanced: false
 
 ----
 
-Seodescription: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
+Meta-title: Artus - König auf Camelot
+
+----
+
+Meta-description: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

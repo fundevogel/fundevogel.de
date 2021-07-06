@@ -10,6 +10,10 @@ Subtitle: Tiergedichte
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Franz Hohler
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

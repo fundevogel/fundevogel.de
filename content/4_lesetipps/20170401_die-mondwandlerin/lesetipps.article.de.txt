@@ -22,7 +22,7 @@ Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustr
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -40,12 +40,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Die Mondwandlerin
 
 ----
 
-Isadvanced: 
+Meta-description: Schon immer verwandeln sich – so die Geschichte im Buch – junge Frauen zu bestimmten Mondzeiten in sogenannte Werwölfe. Das Mädchen im Buch, das keinen Namen erhält, gehört dazu. Sie will sich diesem Schicksal entgegenstellen. Die Eltern bestellen die Dorfheilerin, die einen Rat weiß. Ein Umhang, ein Feuerstein, eine Schleuder und viel Vertrauen führen das Mädchen in einen Wettlauf mit der Verwandlung des Mondes, die mit ihrer eigenen Verwandlung einhergeht.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

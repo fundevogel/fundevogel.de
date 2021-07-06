@@ -2,11 +2,15 @@ Title: Büchertisch zum Gemeindefest in der Friedenskirche
 
 ----
 
+Location: Friedenskirche Hirzbergstraße
+
+----
+
 Date: 2018-09-30
 
 ----
 
-Location: Friedenskirche Hirzbergstraße
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Wir freuen uns das Gemeindefest der Friedenskirche zum Erntedank mit einem
 
 ----
 
-Begin-time: 11:00
+Begin-time: 11:00:00
 
 ----
 
-End-time: 16:00
+End-time: 16:00:00
 
 ----
 
 End-date: 2018-09-30
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

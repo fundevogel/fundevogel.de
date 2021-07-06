@@ -174,14 +174,6 @@ Twitter-creator:
 
 ----
 
-Seotitle: 
-
-----
-
-Seodescription: 
-
-----
-
 Date: 2020-08-28
 
 ----

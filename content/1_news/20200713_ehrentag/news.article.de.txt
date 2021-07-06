@@ -16,7 +16,7 @@ Subtitle-wanted: false
 
 ----
 
-Subtitle:
+Subtitle: 
 
 ----
 

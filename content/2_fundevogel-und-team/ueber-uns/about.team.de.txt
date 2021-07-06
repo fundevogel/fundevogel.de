@@ -13,7 +13,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam quidem quia min
 
 Team:
 
-- 
+-
   name: Martin F.
   isactive: 'true'
   desc: >
@@ -24,7 +24,7 @@ Team:
     - martinf-back.jpg
   front:
     - martinf-front.jpg
-- 
+-
   name: Nofretete
   isactive: 'false'
   desc: >
@@ -35,7 +35,7 @@ Team:
     - queen-back.jpg
   front:
     - queen-front.jpg
-- 
+-
   name: Nitram F.
   isactive: 'true'
   desc: >
@@ -45,7 +45,7 @@ Team:
   back:
     - nitramf-back.jpg
   front: [ ]
-- 
+-
   name: Nitram F.
   isactive: 'false'
   desc: >
@@ -55,7 +55,7 @@ Team:
   back:
     - nitramf-back.jpg
   front: [ ]
-- 
+-
   name: Martin F.
   isactive: 'false'
   desc: >
@@ -66,7 +66,7 @@ Team:
     - martinf-back.jpg
   front:
     - martinf-front.jpg
-- 
+-
   name: Nitram F.
   isactive: 'true'
   desc: >
@@ -76,7 +76,7 @@ Team:
   back:
     - nitramf-back.jpg
   front: [ ]
-- 
+-
   name: Nofretete
   isactive: 'false'
   desc: >
@@ -87,7 +87,7 @@ Team:
     - queen-back.jpg
   front:
     - queen-front.jpg
-- 
+-
   name: Nofretete
   isactive: 'false'
   desc: >
@@ -98,7 +98,7 @@ Team:
     - queen-back.jpg
   front:
     - queen-front.jpg
-- 
+-
   name: Martin F.
   isactive: 'true'
   desc: >
@@ -115,11 +115,3 @@ Team:
 Cover:
 
 - unser-team.jpg
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

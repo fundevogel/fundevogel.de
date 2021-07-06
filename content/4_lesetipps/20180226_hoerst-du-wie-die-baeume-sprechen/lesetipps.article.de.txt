@@ -22,7 +22,7 @@ Auch Umweltschutz und Nachhaltigkeit sowie biochemische Vorgänge sind Gegenstan
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -45,8 +45,112 @@ Isadvanced: false
 
 ----
 
-Seotitle: 
+Meta-title: Hörst du, wie die Bäume sprechen?
 
 ----
 
-Seodescription: 
+Meta-description: "Hörst du, wie die Bäume sprechen&#8221; ist das erste Buch des berühmten Försters Peter Wohlleben für Kinder. Die Sichtweise über den Wald und seine Bewohner ist ungewöhnlich, fast spannend und höchst vergnüglich.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

@@ -10,6 +10,10 @@ Subtitle: Seine ersten Abenteuer
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Ingo Siegner
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

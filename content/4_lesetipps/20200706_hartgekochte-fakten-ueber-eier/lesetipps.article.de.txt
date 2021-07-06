@@ -24,7 +24,7 @@ Aufgrund der vielen Begrifflichkeiten ist das Buch eher für ein Lesealter ab 8 
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -43,12 +43,116 @@ Isexternal: true
 
 ----
 
-Seotitle: Hartgekochte Fakten über Eier
+Isadvanced: false
 
 ----
 
-Seodescription: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
+Meta-title: Hartgekochte Fakten über Eier
 
 ----
 
-Isadvanced: 
+Meta-description: Das Buch ist ein Sammelsurium gespickt mit Fakten rund ums Ei. Neben wissenschaftlichen Fakten haben auch Redewendungen, Bastelideen und Rezepte Platz im Buch gefunden.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

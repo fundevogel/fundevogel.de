@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Vessela Nikolova
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

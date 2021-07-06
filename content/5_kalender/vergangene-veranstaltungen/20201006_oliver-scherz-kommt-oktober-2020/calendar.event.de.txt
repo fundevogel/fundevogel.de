@@ -31,11 +31,11 @@ Wir freuen uns auf euch!
 
 ----
 
-Begin-time: 16:00
+Begin-time: 16:00:00
 
 ----
 
-End-time: 17:00
+End-time: 17:00:00
 
 ----
 

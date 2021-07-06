@@ -38,6 +38,19 @@ Caption: So sieht's bei uns aus!
 
 ----
 
+Gallery:
+
+- fundevogel-und-team-08.jpg
+- fundevogel-und-team-02.jpg
+- fundevogel-und-team-03.jpg
+- fundevogel-und-team-05.jpg
+- fundevogel-und-team-07.jpg
+- fundevogel-und-team-06.jpg
+- fundevogel-und-team-04.jpg
+- fundevogel-und-team-01.jpg
+
+----
+
 Meta-title: 
 
 ----
@@ -153,31 +166,3 @@ Twitter-site:
 ----
 
 Twitter-creator: 
-
-----
-
-Robots-noindex: 
-
-----
-
-Robots-nofollow: 
-
-----
-
-Robots-noarchive: 
-
-----
-
-Robots-noimageindex: 
-
-----
-
-Robots-nosnippet: 
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 

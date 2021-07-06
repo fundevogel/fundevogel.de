@@ -10,7 +10,11 @@ Verdict: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -28,8 +32,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Warum gibt es uns? Die Entwicklung des Lebens vom Urknall bis zu dir.
+Isadvanced: false
 
 ----
 
-Seodescription: Ein spannender Titel und ebenso spannende Antworten, die uns der Autor dieses Sachbuches gibt. Wie ist die Welt entstanden? Warum gibt es uns Menschen? …
+Meta-title: Warum gibt es uns?
+
+----
+
+Meta-description: Da muss dann schon einmal eine Sahnetorte herhalten, um die Schwerkraft zu veranschaulichen. Diese Anschaulichkeit wird unterstützt durch sehr ansprechende farbige Bebilderung, die dies herausragende Sachbuch abrundet.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

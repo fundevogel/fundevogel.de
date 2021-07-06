@@ -2,7 +2,11 @@ Title: Atelier-couture
 
 ----
 
-Date: 2018-03-22
+Text: Kaum zu glauben aber wahr! Die Buchhandlung wurde kurzerhand zum Nähatelier für die Kinder. In nur einer knappen Stunde entstanden bunte Fische, die sie als Glücksbringer gleich mit nach Hause nehmen konnten. Danke an Federica, die den Kindern geduldig und warmherzig mit Nadeln und Faden immer zur Seite stand. Federica selbst ist in Sachen Nähen eine wahre Künstlerin. Wer sich ihre genähten Buch-Werke einmal anschauen will, kann gerne bei uns vorbei schauen.
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Nähatelier im Fundevogel
 
 ----
 
-Text: Kaum zu glauben aber wahr! Die Buchhandlung wurde kurzerhand zum Nähatelier für die Kinder. In nur einer knappen Stunde entstanden bunte Fische, die sie als Glücksbringer gleich mit nach Hause nehmen konnten. Danke an Federica, die den Kindern geduldig und warmherzig mit Nadeln und Faden immer zur Seite stand. Federica selbst ist in Sachen Nähen eine wahre Künstlerin. Wer sich ihre genähten Buch-Werke einmal anschauen will, kann gerne bei uns vorbei schauen.
+Date: 2018-03-22

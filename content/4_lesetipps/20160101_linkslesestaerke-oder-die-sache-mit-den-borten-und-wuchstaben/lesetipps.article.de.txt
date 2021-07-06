@@ -14,7 +14,7 @@ Stück für Stück verschärft Janotta für Mira im Plot die Situation, bis am E
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
@@ -32,7 +32,7 @@ Insgesamt bleibt Janotta mit ihren Figuren und Szenen ganz dicht bei den Kindern
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -51,12 +51,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Linkslesestärke oder Die Sache mit den Borten und Wuchstaben
 
 ----
 
-Isadvanced: 
+Meta-description: Mira hat kein besonders gutes Verhältnis zu Wörtern und Namen. Sie hat eine Lese-Rechtschreib-Schwäche. Zudem kann sie Namen sich nur schwer merken. Dafür …
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

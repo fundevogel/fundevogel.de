@@ -2,10 +2,6 @@ Title: Neues aus dem Fundevogel
 
 ----
 
-Date: 2016-03-15
-
-----
-
 Text:
 
 Endlich ist es geschafft – der Frühling ist da und der FUNDEVOGEL präsentiert sich Euch mit einem frischen Nest im Netz, nachdem die alte Seite, nun ja, … alt war. Hier geben wir Euch Einblicke in das Ladenleben und teilen unsere Leselust mit Euch. Außerdem notieren wir auf diesen Seiten feste Termine und hilfreiche Infos rund um den FUNDEVOGEL. Klickt Euch durch und kommt vorbei – wir freuen uns über Euren Besuch!
@@ -14,4 +10,12 @@ Endlich ist es geschafft – der Frühling ist da und der FUNDEVOGEL präsentier
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Wir zeigen eine neue Seite!
+
+----
+
+Date: 2016-03-15

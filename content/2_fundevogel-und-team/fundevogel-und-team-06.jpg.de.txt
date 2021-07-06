@@ -19,3 +19,7 @@ Caption: Ob Sofa, Schaukelpferd oder Sitzecke - macht es euch bequem!
 ----
 
 Template: image
+
+----
+
+Sort: 6
