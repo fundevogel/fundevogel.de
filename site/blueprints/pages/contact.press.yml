@@ -51,5 +51,4 @@ tabs:
       sidebar_files: sections/images
 
   # Metadata
-  tab_seo: seo
-  tab_seo1: tabs/seo
+  tab_seo: tabs/seo

@@ -33,5 +33,4 @@ tabs:
               en: Preview image
 
   # Metadata
-  tab_seo: seo
-  tab_seo1: tabs/seo
+  tab_seo: tabs/seo
