@@ -15,35 +15,35 @@ Wir suchen Partnerschaften dort, wo uns eine gemeinsame Idee verbindet:
 
 Cards:
 
--
+- 
   entry: 'Nicht mehr vor Ort und trotzdem dabei: Kollegin (link: http://nadjaruemelin.de text: Nadja Rümelin target: blank) steuert von Erfurt aus Grafisches, Gezeichnetes und Gedachtes bei und ist auch sonst ganz dem (Kinder)buch verschrieben – als Illustratorin, Autorin und Setzerin. Wer genau hinschaut, kann ihren Namen ab und zu in unseren Regalen entdecken …'
--
+- 
   entry: 'Als (link: https://www.scfreiburg.com/verein/engagement/netzwerk text: Kooperationspartner des SC Freiburg target: blank) unterstützen wir den (link: http://www.fuechsleclub.de text: Füchsle Club target: blank) bei seinem Projekt "(link: https://www.scfreiburg.com/verein/engagement/bildung/fussball-und-lesen text: Fußball und Lesen target: blank)", u.a. mit der Aktion LeseTüte, mit regelmäßigen Rezensionen und gemeinsamen Veranstaltungen. Wer mag, findet uns auch alljährlich mit einem Stand bei der Saisoneröffnung im Stadion.'
--
+- 
   entry: 'Auch bei uns sind (link: http://www.traeume-am-werk.de/index.html text: Träume am Werk target: blank): Seit einiger Zeit zieren die schönen Schriftzüge von Monika Schwab unsere Blumenkästen im Schaufenster. Da wir oft gefragt werden, wo man diese denn herbekommt, möchten wir alle Fans der „Wortschätze“ auf die Website der Künstlerin verweisen.'
--
+- 
   entry: 'Die fortlaufende Betreuung unserer Webseite ist bei (link: https://twobrain.io text: Martin Folkers target: blank) in guten Händen - Kompetenz mit Liebe zum Detail, Hut ab!'
--
+- 
   entry: 'Unter Federführung des (link: https://www.freiburg.de/pb/1432868.html text: Kulturamts Freiburg target: blank), des Jungen Theaters Freiburg und des Literaturhauses begleiten wir die Vorbereitungen und Durchführung des großen (link: http://www.freiburg.de/pb/,Lde/230520.html text: Lirum Larum Lesefestes target: blank), das jährlich im Oktober stattfindet.'
--
+- 
   entry: 'In Zusammenarbeit mit der (short: AJuM desc: Arbeitsgemeinschaft Jugendliteratur und Medien color: orange) veröffentlichen wir monatlich herausragende, mit dem (link: https://www.lesepeter.de text: LesePeter target: blank) ausgezeichnete Bücher. Daneben danken wir der (short: GEW desc: Gewerkschaft Erziehung und Wissenschaft color: orange) für die freundliche Genehmigung, die Preisträger des (link: https://www.gew.de/wolgast-preis text: Heinrich-Wolgast-Preises target: blank) als Lesetipps aufzunehmen.'
--
+- 
   entry: 'Hier sind wir öfters zu Gast, dem (link: http://www.cafe-goldene-krone.de/index.php text: Café Goldene Krone target: blank) in St. Märgen: Ein absolut vorbildliches und unterstützenswertes Projekt der dortigen Landfrauen. Schöne Bücher für die kleinen Gäste zum Anschauen gibts dort auch!'
--
+- 
   entry: 'Die Schauspielerin (link: http://www.petra-gack.de/ text: Petra Gack target: blank) und der Musiker (link: http://www.mike-schweizer.de/Home.html text: Mike Schweizer target: blank) sind Teil unseres Netzwerks, weil wir mit ihnen wundervolle Veranstaltungen machen können.'
--
+- 
   entry: |
     (link: http://kathinkamarcks.com text: Kathinka Marcks target: blank):
     Sprache ist kein Hindernis, sondern eine Möglichkeit!
--
+- 
   entry: 'Das (link: https://www.literaturhaus-freiburg.de text: Literaturhaus Freiburg target: blank) gehört zu unseren Partnern, weil man dort unter anderem so tolle Projekte wie die "Freileser" findet.'
--
+- 
   entry: 'Zu unseren liebsten Nachbarn gehört das (link: http://www.freiburg.de/pb/,Lde/237848.html text: Museum für Neue Kunst target: blank). Nicht allein, weil es direkt gegenüber vom Fundevogel liegt, sondern auch weil Kunst und Literatur im Alltag nicht weit voneinander entfernt sind.'
--
+- 
   entry: '(link: http://www.traeumothek.de/ text: Träumothek - Innehalten, Erzählen, Träumen target: blank). Ein Kulturzentrum zum Tagträumen ... Es ist ein Ort des Innehaltens in Zeiten von allgemeiner Hektik, eine Ruheoase, in der Schäferwägen, aussergewöhnliche Hängezelte und Hängematten dazu einladen, einfach mal nichts zu tun, und der eigenen Vorstellungskraft und Kreativität freien Raum zu lassen. Wir freuen uns, dass unsere Postkarten die Tagträumereien anspornen dürfen.'
--
+- 
   entry: 'Die Sonne scheint und die Stühle vom (link: https://www.cafemarcel.de/ text: Café Marcel target: blank) sind wieder im Stadtgarten zu sehen! Während die Eltern Freiburger Kaffee und französische Croissants genießen, können sich die Kinder auf dem nahgelegenen Spielplatz vergnügen.'
--
+- 
   entry: 'Seit der Eröffnung unserer "französischen Ecke" zählt das (link: https://ccf-fr.de/ text: Centre Culturel Francais target: blank) zu unseren treuen Kooperationspartnern. Zusammen bauen wir Brücken zwischen den Ländern und bemühen uns, Euch einen aktuellen und originellen Blick in die französische Kinder- und Jugendliteratur zu vermitteln.'
 
 ----
@@ -54,11 +54,121 @@ Cover:
 
 ----
 
-Seotitle: Unser Netzwerk
+Meta-title: 
 
 ----
 
-Seodescription: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden.
+Meta-description: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- unser-netzwerk.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- unser-netzwerk.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- unser-netzwerk.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
 
 ----
 

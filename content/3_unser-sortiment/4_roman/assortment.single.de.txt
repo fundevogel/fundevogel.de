@@ -11,6 +11,10 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 ----
 
+Layouts: []
+
+----
+
 Favorites:
 
 -
@@ -163,8 +167,118 @@ Cover:
 
 ----
 
-Seotitle: Romane & Erzählungen
+Meta-title: Romane & Erzählungen
 
 ----
 
-Seodescription: Wir lieben Romane!
+Meta-description: In unseren Regalen findet wunderbare Erstlesebücher ebenso wie ein breites Sortiment an Romanen aller Genres: ob Krimi, Abenteuer, Fantasy und vieles mehr.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- roman.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- roman.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- roman.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

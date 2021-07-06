@@ -2,7 +2,14 @@ Title: Weihnachtsfeier im Fundevogel
 
 ----
 
-Date: 2019-12-22
+Text:
+
+Bei Sekt und feinen Speisen feiert das Team vom Fundevogel ein erfolgreiches Weihnachtsgeschäft und ein spannendes Jahr 2019.
+Wir heben das Glas auf Euch alle und wünschen Euch ein frohes Fest!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,7 +17,4 @@ Subtitle: Unser Team in Weihnachtsstimmung
 
 ----
 
-Text:
-
-Bei Sekt und feinen Speisen feiert das Team vom Fundevogel ein erfolgreiches Weihnachtsgeschäft und ein spannendes Jahr 2019.
-Wir heben das Glas auf Euch alle und wünschen Euch ein frohes Fest!
+Date: 2019-12-22

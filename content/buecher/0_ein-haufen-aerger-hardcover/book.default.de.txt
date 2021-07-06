@@ -6,7 +6,7 @@ Isbn: 978-3-596-80479-5
 
 ----
 
-Subtitle:
+Subtitle: 
 
 ----
 
@@ -18,11 +18,11 @@ Author: Sabine Ludwig
 
 ----
 
-Illustrator:
+Illustrator: 
 
 ----
 
-Translator:
+Translator: 
 
 ----
 
@@ -66,11 +66,11 @@ Isavailable: false
 
 ----
 
-Olacode:
+Olacode: 
 
 ----
 
-Olamessage:
+Olamessage: 
 
 ----
 
@@ -78,19 +78,19 @@ Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/160229
 
 ----
 
-Drawer:
+Drawer: 
 
 ----
 
-Photographer:
+Photographer: 
 
 ----
 
-Editor:
+Editor: 
 
 ----
 
-Participants:
+Participants: 
 
 ----
 
@@ -108,11 +108,11 @@ Isseries: false
 
 ----
 
-Series:
+Series: 
 
 ----
 
-Volume:
+Volume: 
 
 ----
 
@@ -120,12 +120,12 @@ Hasaward: false
 
 ----
 
-Award:
+Award: 
 
 ----
 
-Awardedition:
+Awardedition: 
 
 ----
 
-Leselink:
+Leselink: 

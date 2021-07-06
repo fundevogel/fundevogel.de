@@ -10,6 +10,10 @@ Subtitle: König auf Camelot
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Ilka Sokolowski
 
 ----
@@ -130,7 +134,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

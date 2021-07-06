@@ -10,6 +10,10 @@ Subtitle: Roman mit Bildern. Nominiert für den Deutschen Jugendliteraturpreis 2
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Taran Bjørnstad
 
 ----
@@ -125,7 +129,3 @@ Awardedition:
 ----
 
 Leselink: 
-
-----
-
-Type: Hardcover

@@ -2,6 +2,54 @@ Title: fasfasf
 
 ----
 
+Isbn: 
+
+----
+
+Subtitle: 
+
+----
+
+Type: 
+
+----
+
+Author: 
+
+----
+
+Director: 
+
+----
+
+Producer: 
+
+----
+
+Publisher: 
+
+----
+
+Age: 
+
+----
+
+Duration: 
+
+----
+
+Releaseyear: 
+
+----
+
+Narrator: 
+
+----
+
+Price: 
+
+----
+
 Topics: 
 
 ----
@@ -11,6 +59,42 @@ Description:
 ----
 
 Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: 
+
+----
+
+Translator: 
+
+----
+
+Editor: 
+
+----
+
+Illustrator: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Participants: 
 
 ----
 
@@ -26,4 +110,24 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

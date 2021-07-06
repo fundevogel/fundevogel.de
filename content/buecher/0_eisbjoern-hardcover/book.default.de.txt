@@ -10,6 +10,10 @@ Subtitle: Das unglaubliche Abenteuer eines tapferen Mäuserichs
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Max Kaplan
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/bilderbuch-mit-le
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

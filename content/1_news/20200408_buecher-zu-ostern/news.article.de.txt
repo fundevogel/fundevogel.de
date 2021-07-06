@@ -2,7 +2,16 @@ Title: Bücher im Osternest
 
 ----
 
-Date: 2020-04-08
+Text:
+
+Das Osterfest steht vor der Tür - doch viele von uns werden es dieses Jahr nicht in dem Rahmen feiern können, wie wir das gewohnt sind. Um so wichtiger mag es vielleicht sein, dass die Ostergeschenke auch ohne den persönlichen Besuch, rechtzeitig im Osternest der Kinder landen. Deshalb erreichen uns in den letzten Tagen viele Anfragen zu Büchern, die über unseren Online-Shop bestellt wurden und noch nicht bei den Empfängern eingetroffen sind.
+Die Corona-Krise zieht sich durch alle Lebensbereiche und trifft auch den Buchhandel. Unsere Großhändler, die Paketzulieferer und wir, das Team vom Fundevogel, arbeiten auf Hochtouren daran, dass alle bestellten Bücher auch in diesen Zeiten schnellstmöglich den Weg zu Euch finden. Leider kommt es trotzdem zu verlängerten Lieferzeiten. Wir richten deshalb die Bitte an Euch alle: Bitte habt Verständnis für die erschwerte Situation in der wir uns alle befinden und nehmt etwaige Lieferverzögerungen mit Gelassenheit.
+Sollte Euch die Wartezeit doch zu lange werden, dann zögert bitte nicht und wendet Euch telefonisch unter **0761-25218** oder per Mail **info@fundevogel.de** an uns. Wir werden eine Lösung finden und Eure Bestellung auf anderen Wegen schnellstmöglich zu Euch bringen.
+Denn der Fundevogel-Osterhase verteilt auch in der Corona-Krise brav seine Geschenke - nur manchmal etwas langsamer.
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,9 +19,4 @@ Subtitle: Der Osterhase hoppelt auch in der Corona-Krise - nur etwas langsamer.
 
 ----
 
-Text:
-
-Das Osterfest steht vor der Tür - doch viele von uns werden es dieses Jahr nicht in dem Rahmen feiern können, wie wir das gewohnt sind. Um so wichtiger mag es vielleicht sein, dass die Ostergeschenke auch ohne den persönlichen Besuch, rechtzeitig im Osternest der Kinder landen. Deshalb erreichen uns in den letzten Tagen viele Anfragen zu Büchern, die über unseren Online-Shop bestellt wurden und noch nicht bei den Empfängern eingetroffen sind.
-Die Corona-Krise zieht sich durch alle Lebensbereiche und trifft auch den Buchhandel. Unsere Großhändler, die Paketzulieferer und wir, das Team vom Fundevogel, arbeiten auf Hochtouren daran, dass alle bestellten Bücher auch in diesen Zeiten schnellstmöglich den Weg zu Euch finden. Leider kommt es trotzdem zu verlängerten Lieferzeiten. Wir richten deshalb die Bitte an Euch alle: Bitte habt Verständnis für die erschwerte Situation in der wir uns alle befinden und nehmt etwaige Lieferverzögerungen mit Gelassenheit.
-Sollte Euch die Wartezeit doch zu lange werden, dann zögert bitte nicht und wendet Euch telefonisch unter **0761-25218** oder per Mail **info@fundevogel.de** an uns. Wir werden eine Lösung finden und Eure Bestellung auf anderen Wegen schnellstmöglich zu Euch bringen.
-Denn der Fundevogel-Osterhase verteilt auch in der Corona-Krise brav seine Geschenke - nur manchmal etwas langsamer.
+Date: 2020-04-08

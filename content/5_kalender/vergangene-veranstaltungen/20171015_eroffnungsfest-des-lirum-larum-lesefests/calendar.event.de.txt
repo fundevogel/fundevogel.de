@@ -2,11 +2,15 @@ Title: Eröffnungsfest des Lirum Larum Lesefests
 
 ----
 
+Location: Stadttheater Freiburg
+
+----
+
 Date: 2017-10-15
 
 ----
 
-Location: Stadttheater Freiburg
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: An diesem Sonntag startet das große Lirum Larum Lesefest mit einem Feuerw
 
 ----
 
-Begin-time: 12:30
+Begin-time: 12:30:00
 
 ----
 
-End-time: 18:30
+End-time: 18:30:00
 
 ----
 
 End-date: 2017-10-15
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

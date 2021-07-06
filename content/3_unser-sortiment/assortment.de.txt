@@ -11,12 +11,6 @@ Unser Anliegen ist es, für jeden von euch das passende Buch zu finden - ob Stau
 
 ----
 
-Cover:
-
-- unser-sortiment.jpg
-
-----
-
 Details:
 
 ## Kommt mit auf Entdeckungsreise!
@@ -27,6 +21,7 @@ Außerdem haben wir für euch in jeder Kategorie eine Auswahl unserer Lieblinge 
 ----
 
 Conclusion:
+
 ## Eintauchen, abschalten
 Diese Liste könnte man noch ewig fortführen. Es gibt einfach so viele wunderbare Bücher, die uns geprägt und begleitet haben und die wir immer wieder zur Hand nehmen. Daneben gibt es im Bereich "Kinder- und Jugendliteratur" jährlich fast zehntausend Neuerscheinungen!
 
@@ -34,8 +29,124 @@ Aber keine Sorge, wir behalten für euch (link: lesetipps text: den Überblick) 
 
 ----
 
-Seotitle: Unser Sortiment
+Cover:
+
+- unser-sortiment.jpg
 
 ----
 
-Seodescription: Wir bieten ein breites Sortiment aus dem Bereich der Kinder- und Jugendliteratur, mit (Hör)Büchern zum Lachen und Staunen, Träumen und Nachdenken.
+Meta-title: 
+
+----
+
+Meta-description: Wir bieten ein breites Sortiment aus dem Bereich der Kinder- und Jugendliteratur, mit (Hör)Büchern zum Lachen und Staunen, Träumen und Nachdenken.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- unser-sortiment.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- unser-sortiment.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- unser-sortiment.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

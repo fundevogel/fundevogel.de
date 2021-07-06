@@ -6,6 +6,10 @@ Text: Zum Start der Fussballsaison 2018/19 gab es im Schwarzwaldstadion ein gro�
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Hübscher Stand, gemütliche Ecke und nette Boys...
 
 ----

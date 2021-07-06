@@ -11,6 +11,10 @@ Warum ändern wir unsere Öffnungszeiten? Das ist so: Unser Großhandelspartner 
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Änderung unserer Öffnungszeiten
 
 ----

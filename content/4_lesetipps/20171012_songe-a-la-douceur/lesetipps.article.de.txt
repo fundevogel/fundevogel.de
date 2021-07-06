@@ -14,7 +14,11 @@ Verdict: In Versen geschrieben, verwirrend, fesselt diese zeitlose Liebesgeschic
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,8 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Songe à la douceur
+Isadvanced: false
 
 ----
 
-Seodescription: In Versen geschrieben, verwirrend, fesselt diese zeitlose Liebesgeschichte und trägt uns weit, sehr weit. Lassen wir uns von diesem Fluss mitreißen, um auch an Süße zu denken.
+Meta-title: Songe à la douceur
+
+----
+
+Meta-description: In Versen geschrieben, verwirrend, fesselt diese zeitlose Liebesgeschichte und trägt uns weit, sehr weit. Lassen wir uns von diesem Fluss mitreißen, um auch an Süße zu denken.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

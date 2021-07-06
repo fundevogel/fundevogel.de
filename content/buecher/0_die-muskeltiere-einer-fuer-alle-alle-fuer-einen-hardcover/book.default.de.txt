@@ -10,6 +10,10 @@ Subtitle: Einer für alle, alle für einen
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Ute Krause
 
 ----
@@ -130,7 +134,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

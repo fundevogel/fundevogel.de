@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Mehrnousch Zaeri-Esfahani
 
 ----
@@ -130,7 +134,3 @@ Leselink: https://www.ajum.de/html/Lesepeter/201702.html
 ----
 
 Participant: Illustrationen von Mehrdad Zaeri-Esfahani
-
-----
-
-Type: Hardcover

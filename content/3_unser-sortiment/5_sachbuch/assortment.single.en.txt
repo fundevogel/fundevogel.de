@@ -15,6 +15,10 @@ We offer you a great selection of non-fiction books on many exciting topics acro
 
 ----
 
+Layouts: []
+
+----
+
 Favorites:
 
 ----
@@ -25,8 +29,118 @@ Cover:
 
 ----
 
-Seotitle: Non-fiction books
+Meta-title: Non-fiction books
 
 ----
 
-Seodescription: Explore breathtaking mountains, mysterious jungles and wild seas or learn more about the most brilliant inventions of all time with our non-fiction books!
+Meta-description: Explore breathtaking mountains, mysterious jungles and wild seas or learn more about the most brilliant inventions of all time with our non-fiction books!
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- sachbuch.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- sachbuch.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- sachbuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

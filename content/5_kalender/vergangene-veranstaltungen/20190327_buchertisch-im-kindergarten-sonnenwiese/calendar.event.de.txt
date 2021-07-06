@@ -2,11 +2,15 @@ Title: Büchertisch im Kindergarten Sonnenwiese
 
 ----
 
+Location: Kindergarten Sonnenwiese
+
+----
+
 Date: 2019-03-27
 
 ----
 
-Location: Kindergarten Sonnenwiese
+Link: 
 
 ----
 
@@ -30,12 +34,12 @@ End-date: 2019-03-27
 
 ----
 
-Draft: 1
-
-----
-
 Show-time: true
 
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

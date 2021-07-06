@@ -6,6 +6,10 @@ Text: Das 25. LirumLarumLesefest ging am Sonntag - gebührend dem Anlass glamour
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Das große Finale des LirumLarumLesefestes im Stadtheater
 
 ----

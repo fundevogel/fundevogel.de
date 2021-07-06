@@ -10,6 +10,10 @@ Subtitle: Reimgeschichten
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Annie M. G. Schmidt & Sieb Posthuma
 
 ----
@@ -130,7 +134,3 @@ Leselink: https://www.ajum.de/html/Lesepeter/201705.html
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

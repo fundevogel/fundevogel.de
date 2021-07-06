@@ -14,6 +14,10 @@ Conclusion: Die szenische Lesung ist die erste Produktion von "Atmende Bücher",
 
 ----
 
+Layouts: []
+
+----
+
 Date: 2020-07-27
 
 ----
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Drachenreiter – Die Feder eines Greifs
+
+----
+
+Meta-description: Ein spannungsreiches, fantastisches Hör-Abenteuer, das von Tapferkeit und Freundschaft, den Wundern der Natur und der Bedeutsamkeit, sie zu schützen und zu erhalten, erzählt.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

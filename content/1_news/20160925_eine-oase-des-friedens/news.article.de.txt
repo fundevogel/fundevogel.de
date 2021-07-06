@@ -2,12 +2,16 @@ Title: Eine Oase des Friedens
 
 ----
 
-Date: 2016-09-25
-
-----
-
 Text: Am Sonntag, vorm Erntedankfest, waren wir wieder zum Gemeindefest der Friedensgemeinde eingeladen. Eine Veranstaltung, zu der wir besonders gerne beitragen. Einfach weil wir dort immer eine sehr warmherzige und freundliche Atmosphäre vorfinden. Dieses Jahr hatten wir uns für die Präsentation den Schwerpunkt „Fremdsein“ gesetzt. Mit viel Sonnenschein haben wir den Tag genossen!
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Büchertisch mit dem Schwerpunkt "Fremdsein"
+
+----
+
+Date: 2016-09-25

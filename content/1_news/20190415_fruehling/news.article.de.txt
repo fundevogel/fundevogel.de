@@ -2,14 +2,6 @@ Title: Frühling
 
 ----
 
-Date: 2019-04-15
-
-----
-
-Subtitle: Ein Frühlingsgedicht
-
-----
-
 Text:
 
 Die Amsel singt
@@ -27,3 +19,15 @@ du so fröhlich bist?
 Weil Frühling ist!
 
 *Ilse Kleberger*
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Ein Frühlingsgedicht
+
+----
+
+Date: 2019-04-15

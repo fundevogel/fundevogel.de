@@ -2,7 +2,14 @@ Title: Weise Narren
 
 ----
 
-Date: 2018-03-17
+Text:
+
+Geschichten verbinden die Menschen, und das weit über die Sprachen hinaus. Das hat uns am 17.03 die deutsch-französische Erzählerin Odile Néri-Kaiser deutlich gezeigt. Erzählt hat sie in beiden Sprachen, verstehen konnten wir alle, ohne Fremdsprachkenntnisse. Durch verschiedene Geschichten aus Deutschland und Frankreich hat uns die Erzählerin auf eine Reise geführt und Kinder sowie Erwachsene zum Träumen und  zum Lachen gebracht.
+Begleitet war die Gruppe bis zum Fundevogel von zwei schönen, bunten, langen Wesen (die sich auf etwas Warmes gefreut haben!)
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,7 +17,4 @@ Subtitle: Odile Néri-Kaiser im Fundevogel
 
 ----
 
-Text:
-
-Geschichten verbinden die Menschen, und das weit über die Sprachen hinaus. Das hat uns am 17.03 die deutsch-französische Erzählerin Odile Néri-Kaiser deutlich gezeigt. Erzählt hat sie in beiden Sprachen, verstehen konnten wir alle, ohne Fremdsprachkenntnisse. Durch verschiedene Geschichten aus Deutschland und Frankreich hat uns die Erzählerin auf eine Reise geführt und Kinder sowie Erwachsene zum Träumen und  zum Lachen gebracht.
-Begleitet war die Gruppe bis zum Fundevogel von zwei schönen, bunten, langen Wesen (die sich auf etwas Warmes gefreut haben!)
+Date: 2018-03-17

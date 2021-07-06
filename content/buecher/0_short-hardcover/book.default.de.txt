@@ -10,6 +10,10 @@ Subtitle: Manchmal wächst man über sich hinaus
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Holly Goldberg Sloan
 
 ----
@@ -125,10 +129,6 @@ Awardedition:
 ----
 
 Leselink: 
-
-----
-
-Type: Hardcover
 
 ----
 

@@ -10,7 +10,7 @@ Date: 2016-12-05
 
 ----
 
-Link:
+Link: 
 
 ----
 
@@ -18,15 +18,15 @@ Category: Kindergarteninterne Veranstaltung
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Begin-time:
+Begin-time: 
 
 ----
 
-End-time:
+End-time: 
 
 ----
 

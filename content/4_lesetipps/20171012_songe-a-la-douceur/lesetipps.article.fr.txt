@@ -14,87 +14,142 @@ Verdict: Ecrite en vers, cette histoire d'amour intemporelle déroute, envôute,
 
 ----
 
+Conclusion:
+
+----
+
+Layouts: []
+
+----
+
 Date: 2017-10-12
 
 ----
 
+Book:
+
+- buecher/songe-a-la-douceur-hardcover
+
+----
+
+Isexternal: false
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title:
+
+----
+
+Meta-description: Ecrite en vers, cette histoire d'amour intemporelle déroute, envôute, et emmène loin, très loin. Laissons-nous porter par ce flot pour songer, nous aussi, à la douceur.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: book
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
 Conclusion-wanted: false
-
-----
-
-Conclusion: 
-
-----
-
-Isbn: 978-2-84-865908-4
-
-----
-
-Shop: 
-
-----
-
-Book-title: Songe à la douceur
-
-----
-
-Book-subtitle: 
-
-----
-
-Author: Clémentine Beauvais
-
-----
-
-Illustrator: 
-
-----
-
-Translator: 
-
-----
-
-Participants: 
-
-----
-
-Page-count: 240
-
-----
-
-Publisher: Editions Sarbacane
-
-----
-
-Age: de 13 Années
-
-----
-
-Price: 22,80
-
-----
-
-Binding: kartoniert
-
-----
-
-Categories: 
-
-----
-
-Topics: 
-
-----
-
-Cover:
-
-- >
-  songe-a-la-douceur_clementine-beauvais.jpg
-
-----
-
-Seotitle: Songe à la douceur
-
-----
-
-Seodescription: Ecrite en vers, cette histoire d'amour intemporelle déroute, envôute, et emmène loin, très loin. Laissons-nous porter par ce flot pour songer, nous aussi, à la douceur.

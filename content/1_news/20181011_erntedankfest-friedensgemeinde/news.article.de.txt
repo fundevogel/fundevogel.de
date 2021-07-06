@@ -6,6 +6,10 @@ Text: Ein Fest mit Spiel und Spaß für Groß und Klein rund um die Friedenskirc
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Gemeindefest in der Friedensgemeinde
 
 ----

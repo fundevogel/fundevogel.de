@@ -10,7 +10,11 @@ Verdict: Ein spannendes Ferienabenteuer über die allererste Liebe und eine star
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Zuckerkringel-Ferien mit Marie
+Isadvanced: false
 
 ----
 
-Seodescription: Ein spannendes Ferienabenteuer über die allererste Liebe und eine starke Freundschaft.
+Meta-title: Zuckerkringel-Ferien mit Marie
+
+----
+
+Meta-description: Ein spannendes Ferienabenteuer über die allererste Liebe und eine starke Freundschaft.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

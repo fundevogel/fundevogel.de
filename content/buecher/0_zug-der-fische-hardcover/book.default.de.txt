@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Yaroslava Black
 
 ----
@@ -125,10 +129,6 @@ Awardedition: Dezember 2020
 ----
 
 Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-dezember-geht-an-bilderbuch-zug-der-fische
-
-----
-
-Type: Hardcover
 
 ----
 

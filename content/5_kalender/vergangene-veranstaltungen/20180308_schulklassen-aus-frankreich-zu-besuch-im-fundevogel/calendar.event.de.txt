@@ -2,11 +2,15 @@ Title: Schulklassen aus Frankreich zu Besuch im Fundevogel
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2018-03-08
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Veranstaltung für angemeldete Schulklassen
 
 ----
 
-Text: 
+Text:
 
 Wir freuen uns die vierte und fünfte Klasse der Schule aus Grenoble im Fundevogel begrüßen zu dürfen!
 Der alljährliche Besuch der Partnerklassen der Schule in Merdingen ist inzwischen zu einer schönen Tradition geworden.
@@ -34,12 +38,12 @@ End-date: 2018-03-08
 
 ----
 
-Draft: 1
-
-----
-
 Show-time: true
 
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

@@ -2,7 +2,15 @@ Title: Und du? Wo liest du am liebsten?
 
 ----
 
-Date: 2018-06-26
+Text:
+
+Große Bastelarbeiten gehen im Fundevogel vor. Was für eine künstlerische Überraschung unsere liebe Kollegin wohl im Sinn hat?…
+...es ist unsere neue Außendeko, die einen Hauch von Sommer und Ferien zu uns in die Buchhandlung bringt.
+„Und du, wo liest du am liebsten?“ lautet die Frage über der Hängematte, deswegen fühlt euch alle herzlich eingeladen euren Lieblingsleseplatz mit uns zu teilen.
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,8 +18,4 @@ Subtitle: Im Fundevogel!
 
 ----
 
-Text:
-
-Große Bastelarbeiten gehen im Fundevogel vor. Was für eine künstlerische Überraschung unsere liebe Kollegin wohl im Sinn hat?…
-...es ist unsere neue Außendeko, die einen Hauch von Sommer und Ferien zu uns in die Buchhandlung bringt.
-„Und du, wo liest du am liebsten?“ lautet die Frage über der Hängematte, deswegen fühlt euch alle herzlich eingeladen euren Lieblingsleseplatz mit uns zu teilen.
+Date: 2018-06-26

@@ -6,7 +6,7 @@ files: false
 
 tabs:
   # Lesetipps
-  lesetipps:
+  tab_lesetipps:
     label:
       de: Lesetipps
       en: Reading tips
@@ -24,7 +24,7 @@ tabs:
             template: lesetipps.article
 
   # Pages
-  overview:
+  tab_overview:
     label:
       de: Übersicht
       en: Overview
@@ -93,10 +93,10 @@ tabs:
                 job: clearDejure
 
   # Books
-  books: tabs/books
+  tab_books: tabs/books
 
   # Settings
-  settings:
+  tab_settings:
     label:
       de: Einstellungen
       en: Settings
@@ -196,3 +196,6 @@ tabs:
             label: Instagram
             type: url
             translate: false
+
+  # Metadata fallbacks
+  tab_seo: tabs/seo

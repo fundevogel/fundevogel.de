@@ -10,6 +10,10 @@ Subtitle: Bericht über einen Unterrichtsversuch, der zu weit ging.
 
 ----
 
+Type: Taschenbuch
+
+----
+
 Author: Morton Rhue
 
 ----
@@ -129,7 +133,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Taschenbuch

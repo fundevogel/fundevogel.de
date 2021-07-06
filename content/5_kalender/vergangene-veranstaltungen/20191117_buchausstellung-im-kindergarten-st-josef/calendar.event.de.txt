@@ -1,0 +1,41 @@
+Title: Buchausstellung im Kindergarten St. Josef
+
+----
+
+Location: 
+
+----
+
+Date: 2019-11-17
+
+----
+
+Link: 
+
+----
+
+Category: 
+
+----
+
+Text: 
+
+----
+
+Begin-time: 
+
+----
+
+End-time: 
+
+----
+
+End-date: 
+
+----
+
+Show-time: true
+
+----
+
+Multiple-days: false

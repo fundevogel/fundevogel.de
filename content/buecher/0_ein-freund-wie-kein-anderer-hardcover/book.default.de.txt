@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Oliver Scherz
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

@@ -2,9 +2,7 @@ Title: Woodwalkers - Tag der Rache
 
 ----
 
-Text:
-
-(quote: "Der sechste Band von "Woodwalkers" ist sehr spannend geschrieben. Er hat mir von allen Bänden der Reihe am besten gefallen, weil es eine Mischung aus Spannung und Witz ist, aber auch teilweise sehr traurig. Im 6. Band der Reihe gibt es oft überraschende Wendungen, mit denen man nicht gerechnet hätte. Es ist sehr gut geschrieben und die Illustrationen sind die besten, die ich je in einem Jugendbuch gesehen habe" author: Paulina, 12 Jahre)
+Text: (quote: "Der sechste Band von "Woodwalkers" ist sehr spannend geschrieben. Er hat mir von allen Bänden der Reihe am besten gefallen, weil es eine Mischung aus Spannung und Witz ist, aber auch teilweise sehr traurig. Im 6. Band der Reihe gibt es oft überraschende Wendungen, mit denen man nicht gerechnet hätte. Es ist sehr gut geschrieben und die Illustrationen sind die besten, die ich je in einem Jugendbuch gesehen habe" author: Paulina, 12 Jahre)
 
 ----
 
@@ -13,6 +11,10 @@ Verdict: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunde
 ----
 
 Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -31,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Woodwalkers - Tag der Rache
+Isadvanced: false
 
 ----
 
-Seodescription: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunden nichts anderes mehr getan, als darin zu lesen. Man kann es auch sehr gut mehrmals lesen, ohne die Lust zu verlieren!
+Meta-title: Woodwalkers - Tag der Rache
+
+----
+
+Meta-description: Als ich "Woodwalkers" bekommen habe, habe ich die nächsten vier Stunden nichts anderes mehr getan, als darin zu lesen. Man kann es auch sehr gut mehrmals lesen, ohne die Lust zu verlieren!
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

@@ -11,6 +11,10 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
+Layouts: []
+
+----
+
 Favorites:
 
 -
@@ -128,8 +132,118 @@ Cover:
 
 ----
 
-Seotitle: Sachbücher
+Meta-title: Sachbücher
 
 ----
 
-Seodescription: Erkundet atemberaubende Tier- und Pflanzenwelten, macht Bekanntschaft mit Kunst und Kultur oder erfahrt mehr über die genialsten Erfindungen aller Zeiten!
+Meta-description: Erkundet atemberaubende Tier- und Pflanzenwelten, macht Bekanntschaft mit Kunst und Kultur oder erfahrt mehr über die genialsten Erfindungen aller Zeiten!
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- sachbuch.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- sachbuch.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- sachbuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

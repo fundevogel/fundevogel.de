@@ -2,10 +2,6 @@ Title: Ein Vorgeschmack auf das Lirum Larum Lesefest
 
 ----
 
-Date: 2016-07-03
-
-----
-
 Text:
 
 Eine schöne Überraschung haben uns die Schüler von der Klasse 2b der Lindenbergschule bereitet! Zusammen mit Ihrer Lehrerin lesen Sie gerade Billy Backe aus Walle Wacke, das beim Lirum Larum Lesefest im Oktober von Markus Orths vorgestellt werden wird.
@@ -13,4 +9,12 @@ Tolle Zeichnungen haben sie uns gemalt, von dem Buch treu inspiriert! Vielen Dan
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Danke an die Patenklasse!
+
+----
+
+Date: 2016-07-03

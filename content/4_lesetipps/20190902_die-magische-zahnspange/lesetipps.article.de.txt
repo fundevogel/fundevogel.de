@@ -18,7 +18,11 @@ Verdict: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsa
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -37,8 +41,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Die magische Zahnspange
+Isadvanced: false
 
 ----
 
-Seodescription: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsamen Plan spielen?
+Meta-title: Die magische Zahnspange
+
+----
+
+Meta-description: Wer ist er? Was hat er vor? Und welche Rolle soll Tobi in seinem seltsamen Plan spielen?
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

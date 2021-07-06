@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Car: You can also reach our book store by car via Wallstraße, turning into Marienstraße, although you are only allowed to halt for quick loading and unloading. For parking, check out the parking garages Schlossberg and Schwabentor (within five minutes walking distance).
+Slug: contact
 
 ----
 
@@ -10,7 +10,17 @@ Bike: The Fundevogel book store is centrally located in Freiburg's picturesque O
 
 ----
 
+Car: You can also reach our book store by car via Wallstraße, turning into Marienstraße, although you are only allowed to halt for quick loading and unloading. For parking, check out the parking garages Schlossberg and Schwabentor (within five minutes walking distance).
+
+----
+
 Tram: Or you just take the tram - the nearest tram stops are „Bertoldsbrunnen“, „Holzmarkt“ (multiple tramlines) and „Oberlinden“(tramline 1).
+
+----
+
+Cover:
+
+- stadtkarte-fundevogel.jpg
 
 ----
 
@@ -31,12 +41,118 @@ Saturday: 9am - 4pm
 
 ----
 
-Seotitle: Contact
+Meta-title: Contact Us
 
 ----
 
-Seodescription: Get in touch, call us, send an email or visit our lovely bookstore, where the latest and greatest children's books are waiting for you.
+Meta-description: Get in touch, call us, send an email or visit our lovely bookstore, where the latest and greatest children's books are waiting for you.
 
 ----
 
-slug: contact
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

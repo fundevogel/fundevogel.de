@@ -2,14 +2,6 @@ Title: GRATULATION! Bücherfreund 2017
 
 ----
 
-Date: 2017-09-18
-
-----
-
-Subtitle: Wir gratulieren unserem Kooperationspartner!
-
-----
-
 Text:
 
 Christian Streich, Trainer des SC Freiburg, wurde aus zahlreichen Vorschlägen zum BÜCHERFREUND 2017 gewählt. "Er schätzt die positive Wirkung des Lesens und wirbt dafür in der Öffentlichkeit. Er unterstützt damit auch das gesellschaftliche Engagement des SC Freiburg, speziell das Projekt "Fußball und Lesen"." (Aus der Begründung der Jury.)
@@ -17,3 +9,15 @@ Christian Streich, Trainer des SC Freiburg, wurde aus zahlreichen Vorschlägen z
 Das mit der Auszeichnung verbundene Preisgeld erhalten acht Schulen, zur Förderung ihrer Buch- und Leseprojekte. Wir finden das großartig!
 
 Hier findet ihr die Mitteilung beim (link: https://www.scfreiburg.com/verein/engagement/bildung/fussball-und-lesen text: SC Freiburg target: blank).
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Wir gratulieren unserem Kooperationspartner!
+
+----
+
+Date: 2017-09-18

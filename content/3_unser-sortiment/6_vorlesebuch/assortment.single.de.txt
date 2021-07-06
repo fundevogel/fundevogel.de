@@ -11,6 +11,10 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
+Layouts: []
+
+----
+
 Favorites:
 
 -
@@ -164,8 +168,118 @@ Cover:
 
 ----
 
-Seotitle: Vorlesebücher
+Meta-title: Vorlesebücher
 
 ----
 
-Seodescription: Wir haben für euch viele tolle Vorlesebücher ausgesucht, mit denen Kinder und Eltern gemeinsam neue Welten entdecken und erleben können.
+Meta-description: Wir haben für euch viele tolle Vorlesebücher ausgesucht, mit denen Kinder und Eltern gemeinsam neue Welten entdecken und erleben können.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- vorlesebuch.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- vorlesebuch.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- vorlesebuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

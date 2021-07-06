@@ -2,7 +2,7 @@ Title: Calendar
 
 ----
 
-Date: 2017-02-10
+Slug: calendar
 
 ----
 
@@ -15,16 +15,134 @@ If you want to see what we have done in the past, you can also find the past eve
 
 ----
 
+Perpage-wanted: true
+
+----
+
 Perpage: 10
 
 ----
 
-Slug: calendar
+Cover:
+
+- kalender.jpg
 
 ----
 
-Seotitle: Our Event Calendar
+Meta-title: Upcoming events
 
 ----
 
-Seodescription: We organize all kinds of book-related events from readings and book tables for school classes to the Lirum-Larum reading festival - Be sure to stop by!
+Meta-description: We organize all kinds of book-related events from readings and book tables for school classes to the Lirum-Larum reading festival - see you there!
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- kalender.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- kalender.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Date: 2017-02-10

@@ -14,6 +14,10 @@ Subtitle: Wasserwesen aus aller Welt
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Anna Claybourne
 
 ----
@@ -134,7 +138,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/atlas-der-meerjun
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

@@ -2,7 +2,11 @@ Title: Ein kleines, deutsch-französisches Fest
 
 ----
 
-Date: 2017-03-18
+Text: In einer schönen, musikalischen Atmosphäre wurde am Samstag, dem 11. März die kleine Abteilung mit Büchern auf französisch eröffnet. Viele Interessierte sind gekommen und hatten eine große Freude bei dieser fröhlichen, deutsch-französischen Feier!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Les copains d'abord
 
 ----
 
-Text: In einer schönen, musikalischen Atmosphäre wurde am Samstag, dem 11. März die kleine Abteilung mit Büchern auf französisch eröffnet. Viele Interessierte sind gekommen und hatten eine große Freude bei dieser fröhlichen, deutsch-französischen Feier!
+Date: 2017-03-18

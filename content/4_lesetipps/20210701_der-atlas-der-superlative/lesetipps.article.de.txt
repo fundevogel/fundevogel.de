@@ -24,6 +24,9 @@ Spannende Sachen aus der ganzen Welt sind in diesem gut recherchierten Werk zusa
 
 ----
 
+Layouts: []
+
+----
 
 Date: 2021-07-01
 
@@ -44,8 +47,112 @@ Isadvanced: false
 
 ----
 
-Seotitle:
+Meta-title: Der Atlas der Superlative
 
 ----
 
-Seodescription:
+Meta-description: "Der Atlas der Superlative" wird nicht nur kleine Leserinnen und Leser begeistern. Durch umfangreiche Recherchen ist ein spannendes Werk entstanden, das zu einer Weltreise zu den ganz verschiedenen Rekordhaltern einlädt. Es gibt einen Gewitterrekordhalter, einen Ort, an dem es in 260 Nächten im Jahr gewittert, eine unterirdische Stadt in 60 Metern Tiefe und viele andere Merkwürdigkeiten.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

@@ -2,11 +2,15 @@ Title: Deutsch-französischer Tag für Familien
 
 ----
 
+Location: Centre Culturel Français Freiburg  Münsterplatz 11 | im Kornhaus | 79098 Freiburg
+
+----
+
 Date: 2019-02-02
 
 ----
 
-Location: Centre Culturel Français Freiburg  Münsterplatz 11 | im Kornhaus | 79098 Freiburg
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Lesung
 
 ----
 
-Text: 
+Text:
 
 **Journée franco-allemande** - Wir feiern zusammen!
 Zu Gast ist die Autorin** Aurélie Guetz** mit ihrem zweisprachigen Comic* Die Abenteuer von Kazh – Meine deutsch-französische Familie*.
@@ -24,19 +28,15 @@ Der Eintritt ist frei! Anmeldung bitte telefonisch: 0761 / 207 39 0 oder per Mai
 
 ----
 
-Begin-time: 11:00
+Begin-time: 11:00:00
 
 ----
 
-End-time: 14:00
+End-time: 14:00:00
 
 ----
 
 End-date: 2019-02-02
-
-----
-
-Draft: 1
 
 ----
 
@@ -45,3 +45,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

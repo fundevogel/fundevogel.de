@@ -2,14 +2,6 @@ Title: Und wieder erwacht das Leben!
 
 ----
 
-Date: 2020-02-07
-
-----
-
-Subtitle: Die ersten Frühlingsboten wurden gesichtet!
-
-----
-
 Text:
 
 **Knospen ...
@@ -17,3 +9,15 @@ Knospen?
 Knospen!**
 
 von Hans-Peter Kraus
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Die ersten Frühlingsboten wurden gesichtet!
+
+----
+
+Date: 2020-02-07

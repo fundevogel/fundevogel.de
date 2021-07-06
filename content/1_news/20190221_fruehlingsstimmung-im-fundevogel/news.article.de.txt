@@ -6,6 +6,10 @@ Text: Das schöne Wetter der letzten Tage hat uns im Fundevogel in Frühlingssti
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Wir lassen die Blumen erblühen!
 
 ----

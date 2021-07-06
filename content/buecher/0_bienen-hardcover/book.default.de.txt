@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Piotr Socha
 
 ----
@@ -133,7 +137,3 @@ Isaward: false
 ----
 
 Participant: Wojciech Grajkowski
-
-----
-
-Type: Hardcover

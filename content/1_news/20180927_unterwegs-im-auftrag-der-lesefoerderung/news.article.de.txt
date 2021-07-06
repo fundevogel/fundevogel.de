@@ -6,6 +6,10 @@ Text: Gemeinsam mit unserem Kooperationspartner dem Füchsleclub des SC-Freiburg
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Fussball und Lesen
 
 ----

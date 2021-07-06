@@ -52,6 +52,7 @@ tabs:
 
               cover:
                 extends: fields/single-cover
+                query: site.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
                 image:
                   ratio: 16/9
 

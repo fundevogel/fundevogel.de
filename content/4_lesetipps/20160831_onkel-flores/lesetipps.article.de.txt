@@ -10,11 +10,15 @@ Die Geschichte nimmt uns mit in eine kleine Stadt in Brasilien, in der der Junge
 
 ----
 
-Verdict: 
+Verdict:
 
 ----
 
 Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der jedoch ungemütliche Themen wie Umweltverschmutzung und die Auswirkungen der Globalisierung eine wesentliche Rolle spielen. Rauchwolken aus Zeitungspapier, Wiesen und Pflanzen aus grünem Transparentpapier und natürlich viele bunte Stoffreste … ein Blick in das Buch lohnt sich!
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,8 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Onkel Flores
+Isadvanced: false
 
 ----
 
-Seodescription: Das Bilderbuch „Onkel Flores – eine ziemlich wahre Geschichte aus Brasilien“ ist mir gleich durch seine besondere Art aufgefallen: die Bilder sind nämlich …
+Meta-title: Onkel Flores
+
+----
+
+Meta-description: Das Bilderbuch „Onkel Flores – eine ziemlich wahre Geschichte aus Brasilien“ ist mir gleich durch seine besondere Art aufgefallen: die Bilder sind nämlich von …
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

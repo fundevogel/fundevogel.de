@@ -10,6 +10,10 @@ Subtitle: Ein Krimi zur Fußballweltmeisterschaft 1954
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Fabian Lenk
 
 ----
@@ -130,7 +134,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

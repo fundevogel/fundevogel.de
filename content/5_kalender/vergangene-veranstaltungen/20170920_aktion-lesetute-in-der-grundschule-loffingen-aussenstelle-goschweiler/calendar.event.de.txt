@@ -2,11 +2,15 @@ Title: Aktion Lesetüte in der Grundschule Löffingen Außenstelle Göschweiler
 
 ----
 
+Location: Grundschule Löffingen Außenstelle Göschweiler
+
+----
+
 Date: 2017-09-20
 
 ----
 
-Location: Grundschule Löffingen Außenstelle Göschweiler
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Wir sind mit dem SC-Freiburg und dem Füchsle in Sachen "Fußball und lese
 
 ----
 
-Begin-time: 11:00
+Begin-time: 11:00:00
 
 ----
 
-End-time: 12:00
+End-time: 12:00:00
 
 ----
 
 End-date: 2017-09-20
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

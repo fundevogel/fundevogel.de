@@ -2,7 +2,11 @@ Title: Frankreich liegt um die Ecke - im Fundevogel auch!
 
 ----
 
-Date: 2017-01-12
+Text: Wer nach französischen Büchern sucht, braucht nicht mehr unbedingt über die Rheinbrücke zu fahren! 2017 breitet der Fundevogel seine Flügel aus, um eine Brücke zu unseren französischen Nachbarn zu bauen. Auf seinen Schwingen wird er versuchen, das Angebot an französischen Büchern für Sie zu pflegen. Schon jetzt finden Sie bei uns eine große Auswahl, und was wir nicht vor Ort haben, versuchen wir gerne für Sie zu besorgen. Besuchen Sie uns et à bientôt!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Jetzt neu bei uns
 
 ----
 
-Text: Wer nach französischen Büchern sucht, braucht nicht mehr unbedingt über die Rheinbrücke zu fahren! 2017 breitet der Fundevogel seine Flügel aus, um eine Brücke zu unseren französischen Nachbarn zu bauen. Auf seinen Schwingen wird er versuchen, das Angebot an französischen Büchern für Sie zu pflegen. Schon jetzt finden Sie bei uns eine große Auswahl, und was wir nicht vor Ort haben, versuchen wir gerne für Sie zu besorgen. Besuchen Sie uns et à bientôt!
+Date: 2017-01-12

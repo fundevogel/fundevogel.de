@@ -1,18 +1,121 @@
-Title: Seite existiert nicht
+Title: Fehler
 
 ----
 
-Text:
-
-Mögliche Gründe dafür sind, dass die Seite ..
-- .. die ausgewählte Sprache nicht versteht
-- .. ihren Wohnort gewechselt hat
-- .. an einem Zeugenschutzprogramm teilnimmt und unter anderem Namen lebt
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Mistikus totalus!"},"id":"accf7970-6c0e-4550-add5-165f57bdbad4","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die gew\u00fcnschte Seite existiert nicht; m\u00f6gliche Gr\u00fcnde daf\u00fcr sind, dass die Seite ..<\/p>"},"id":"15b4c88d-aef3-4421-a3bd-51852fba881e","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>.. die ausgew\u00e4hlte Sprache nicht versteht<\/li><li>.. ihren Wohnort gewechselt hat<\/li><li>.. an einem Zeugenschutzprogramm teilnimmt<\/li><\/ul>"},"id":"d36ec838-c626-4044-82f3-2a053c3f3385","isHidden":false,"type":"list"},{"content":{"text":"<p>In der Zwischenzeit laden wir Euch ein, andere Seiten zu besuchen!<\/p>"},"id":"727f0207-4298-42ec-aea2-6eb560ecd385","isHidden":false,"type":"text"}],"id":"1ce19bbe-9d22-44e2-8a23-f9515e5c4622","width":"1\/1"}],"id":"2b68b06d-2409-4709-b19d-27cf0da59f2c"}]
 
 ----
 
-Seotitle: Error
+Date: 
 
 ----
 
-Seodescription: Das kam so plötzlich, wir wissen auch noch nicht, wohin solch etwas führen kann - wir kümmern uns darum: besuche einige Seiten und komm später wieder!
+Meta-title: 
+
+----
+
+Meta-description: Das kam so plötzlich, wir wissen auch noch nicht, was hier los ist!
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

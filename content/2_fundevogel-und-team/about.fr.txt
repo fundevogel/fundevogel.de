@@ -2,6 +2,10 @@ Title: Fundevogel & Team
 
 ----
 
+Slug: fundevogel-et-team
+
+----
+
 Text:
 
 ## Fundevogel ...
@@ -34,6 +38,10 @@ Nous en sommes convaincus. De même qu'il n'existe pas un, mais des mondes, et q
 
 ----
 
+Caption: C'est chez nous!
+
+----
+
 Gallery:
 
 - fundevogel-und-team-08.jpg
@@ -47,16 +55,118 @@ Gallery:
 
 ----
 
-Caption: C'est chez nous!
+Meta-title: À propos de nous
 
 ----
 
-Seotitle: À propos de nous
+Meta-description: Nous sommes une équipe colorée de libraires, d'éducateurs et de free-lances avec notre propre petit univers de littérature pour enfants et adolescents.
 
 ----
 
-Seodescription: Nous sommes une équipe colorée de libraires, d'éducateurs et de free-lances avec notre propre petit univers de littérature pour enfants et adolescents.
+Meta-keywords:
 
 ----
 
-Slug: fundevogel-et-team
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- fundevogel-und-team-08.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- fundevogel-und-team-08.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- fundevogel-und-team-08.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

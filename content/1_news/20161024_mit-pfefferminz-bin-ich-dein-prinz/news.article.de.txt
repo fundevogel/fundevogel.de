@@ -2,10 +2,6 @@ Title: "Mit Pfefferminz bin ich dein Prinz!"
 
 ----
 
-Date: 2016-10-24
-
-----
-
 Text:
 
 **Eine besondere Lieferung**
@@ -16,4 +12,12 @@ Eine Großlieferung Pfefferminzbonbons - Herr Jepsens Vorrat war zur Neige gegan
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Eine besondere Lieferung
+
+----
+
+Date: 2016-10-24

@@ -6,6 +6,10 @@ Text: Mit einer Lesung aus „Edison“ ging ein lang gehegter Wunsch in Erfüll
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Lesung mit Torben Kuhlmann
 
 ----

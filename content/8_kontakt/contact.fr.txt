@@ -2,6 +2,28 @@ Title: Contact
 
 ----
 
+Slug: contact
+
+----
+
+Bike: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribourg, à deux minutes à pieds de l'Augustinerplatz. Pour venir, c'est simple : passez devant la brasserie Feierling, traversez le pont au dessus du petit canal (regardez le crocodile à l'occasion !). En continuant tout droit, vous découvrirez la librairie sur votre gauche, juste en face du musée d'art moderne.
+
+----
+
+Car: Si venez en voiture, le plus simple est d'emprunter la Wallstraße, jusqu'à notre rue, la Marienstraße.  Vous pouvez stationner juste devant la librairie pour charger ou décharger des livres, si besoin. Pour vous garer, il y a plusieurs parkings aux alentours : le Schlossberggarage ou le Schwabentorgarage (tous deux à 5 minutes à pieds).
+
+----
+
+Tram: Si vous venez en tram : arrêtez-vous à „Bertoldsbrunnen“, „Holzmarkt“ ou „Oberlinden“  de la ligne 1.
+
+----
+
+Cover:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
 Kontaktinfos:
 
 ## Contact
@@ -19,24 +41,118 @@ Le samedi de 9h30 à 16h30
 
 ----
 
-Bike: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribourg, à deux minutes à pieds de l'Augustinerplatz. Pour venir, c'est simple : passez devant la brasserie Feierling, traversez le pont au dessus du petit canal (regardez le crocodile à l'occasion !). En continuant tout droit, vous découvrirez la librairie sur votre gauche, juste en face du musée d'art moderne.
+Meta-title:
 
 ----
 
-Car: Si venez en voiture, le plus simple est d'emprunter la Wallstraße, jusqu'à notre rue, la Marienstraße.  Vous pouvez stationner juste devant la librairie pour charger ou décharger des livres, si besoin. Pour vous garer, il y a plusieurs parkings aux alentours : le Schlossberggarage ou le Schwabentorgarage (tous deux à 5 minutes à pieds).
+Meta-description: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribourg.
 
 ----
 
-Tram: Si vous venez en tram : arrêtez-vous à „Bertoldsbrunnen“, „Holzmarkt“ ou „Oberlinden“  de la ligne 1.
+Meta-keywords:
 
 ----
 
-Seotitle: Contact
+Meta-canonical-url:
 
 ----
 
-Seodescription: La librairie Fundevogel est au coeur de la vielle ville idyllique de Fribourg.
+Meta-author:
 
 ----
 
-Slug: contact
+Meta-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

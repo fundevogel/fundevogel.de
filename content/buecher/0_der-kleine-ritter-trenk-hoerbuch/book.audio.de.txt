@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hörbuch
+
+----
+
 Author: Kirsten Boie
 
 ----
@@ -141,7 +145,3 @@ Participant:
 ----
 
 Composer: 
-
-----
-
-Type: Hörbuch

@@ -29,11 +29,119 @@ Cover:
 
 ----
 
-Seotitle: Notre Calendrier des Événements
+Meta-title: Événements à venir
 
 ----
 
-Seodescription: Nous organisons toutes sortes d'événements liés au livre, des lectures et des tables de lecture pour les classes scolaires au festival de lecture Lirum-Larum.
+Meta-description: Nous organisons toutes sortes d'événements liés au livre, des lectures et des tables de lecture pour les classes scolaires au festival de lecture Lirum-Larum.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- kalender.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- kalender.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
 
 ----
 

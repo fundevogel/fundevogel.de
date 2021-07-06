@@ -26,7 +26,7 @@ Das äußerst humorvolle fantastische Bilderbuch ohne Text kann mit seiner charm
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -44,12 +44,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Ausflug zum Mond
 
 ----
 
-Isadvanced: 
+Meta-description: Dieses Bilderbuch erzählt eine fantastische Geschichte ganz ohne Worte. Passend zum Jubiläumsjahr "Fünfzig Jahre Mondlandung" wird ein hypothetisches Zukunftsszenario entworfen, das einen schulischen "Ausflug zum Mond" für Kinder thematisiert; mit überraschendem Verlauf.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

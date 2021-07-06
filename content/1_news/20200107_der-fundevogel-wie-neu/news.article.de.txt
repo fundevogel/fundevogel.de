@@ -2,7 +2,11 @@ Title: Der Fundevogel - Wie neu!
 
 ----
 
-Date: 2020-01-07
+Text: Es glänzt und strahlt wieder im Fundevogel. Mit Lappen und Staubsauger bewaffnet wuselte das Team vom Fundevogel heute den ganzen Tag durch den Laden. Es wurde viel gelacht und viel geplaudert. Und ganz nebenbei zählten wir Bücher, Postkarten und Kalender bis es schließlich vollbracht war. Nach einer erfolgreichen Inventur sind die Regale wieder tip top aufgeräumt und alles steht am richtigen Platz. Kommt vorbei und stöbert durch die frisch sortierten Regale. Wir freuen uns auf euch!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,4 +14,4 @@ Subtitle: Nach der Inventur
 
 ----
 
-Text: Es glänzt und strahlt wieder im Fundevogel. Mit Lappen und Staubsauger bewaffnet wuselte das Team vom Fundevogel heute den ganzen Tag durch den Laden. Es wurde viel gelacht und viel geplaudert. Und ganz nebenbei zählten wir Bücher, Postkarten und Kalender bis es schließlich vollbracht war. Nach einer erfolgreichen Inventur sind die Regale wieder tip top aufgeräumt und alles steht am richtigen Platz. Kommt vorbei und stöbert durch die frisch sortierten Regale. Wir freuen uns auf euch!
+Date: 2020-01-07

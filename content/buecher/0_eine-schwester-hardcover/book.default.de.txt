@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Bastien Vivès
 
 ----
@@ -129,7 +133,3 @@ Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/graphic-novel-ein
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

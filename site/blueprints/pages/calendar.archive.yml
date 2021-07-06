@@ -1,0 +1,25 @@
+title:
+  de: Veranstaltungsarchiv
+  en: Previous events
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+
+    sidebar:
+      sidebar_fields: sections/sidebar.cover
+
+      sidebar_files: false
+
+      sidebar_pages:
+        extends: sections/articles
+        headline:
+          de: Veranstaltungen
+          en: Events
+        create: false
+        layout: list
+
+  # Metadata
+  tab_seo: tabs/seo

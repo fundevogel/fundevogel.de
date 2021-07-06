@@ -18,7 +18,11 @@ Verdict: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphä
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -37,11 +41,119 @@ Isexternal: false
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Malamander - Die Geheimnisse von Eerie-on-Sea
+
+----
+
+Meta-description: Ein rasantes, spannendes Leseabenteuer mit schaurig-düsterer Atmosphäre und voll eigenwilliger Gestalten von dem britischen Autor Thomas Taylor, der als Illustrator unter anderem das Cover zur englischen Ausgabe von „Harry Potter und der Stein der Weisen“ gestaltet hat.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
 
 ----
 

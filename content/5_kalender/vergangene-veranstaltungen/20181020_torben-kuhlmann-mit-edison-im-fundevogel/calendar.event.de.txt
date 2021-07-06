@@ -2,11 +2,15 @@ Title: Torben Kuhlmann mit "Edison" im Fundevogel
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2018-10-20
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Lirum Larum Lesefest
 
 ----
 
-Text: 
+Text:
 
 Es ist uns eine große Freude im Rahmen des **Lirum Larum Lesefestes** den Kinderbuchautor und Illustrator **Torben Kuhlmann** bei uns begrüßen zu dürfen. Nach den beiden Büchern „Armstrong“ und „Lindberg“ wird er uns an diesem Tag mit seinem neuen Buch **„Edison“** den dritten Band der Mäuseabenteuer vorstellen. Die Lesung des spannenden Abenteuers aus der Mäusewelt wird von Projektionen, der stimmungsvollen und eindrücklichen Bildern aus der Feder des Autors begleitet. Ein Highlight der Veranstaltung wird sicherlich für viele junge Mäusefans der Moment sein, wenn Torben Kuhlmann vorführt, wie jeder mit wenigen Strichen eine Maus malen kann. Im Rahmen der Veranstaltung wird uns Torben Kuhlmann von sich und seiner Arbeit erzählen. Außerdem werden die Zuschauer die Gelegenheit haben dem Autor Fragen zu stellen und sich ihr ganz persönliches Autogramm abzuholen. Wenn ihr vorab nähere Informationen zu dem im August erscheinenden Buch „Edison“ haben oder euch gleich ein Exemplar vormerken lassen möchtet, dann schaut gerne im Shop auf unserer Website www.fundevogel.de vorbei.
 
@@ -22,19 +26,15 @@ Die Veranstaltung richtet sich an Kinder und Erwachsene ab 5 Jahren und wird ca.
 
 ----
 
-Begin-time: 14:00
+Begin-time: 14:00:00
 
 ----
 
-End-time: 15:30
+End-time: 15:30:00
 
 ----
 
 End-date: 2018-10-20
-
-----
-
-Draft: 1
 
 ----
 
@@ -43,3 +43,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

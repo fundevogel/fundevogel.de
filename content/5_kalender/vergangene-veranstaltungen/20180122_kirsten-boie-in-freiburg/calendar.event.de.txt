@@ -6,17 +6,6 @@ Location: Katholische Akademie, Wintererstraße 1, 79104 Freiburg
 
 ----
 
-Mymap: 
-
-lat: "47.9926345"
-lon: "7.8524614"
-number: "13"
-city: Freiburg im Breisgau
-country: Germany
-postcode: "79098"
-
-----
-
 Date: 2018-01-22
 
 ----
@@ -29,7 +18,7 @@ Category: Autorengespräch
 
 ----
 
-Text: 
+Text:
 
 Am 22. Januar 2018 ist Kirsten Boie zu Gast in der Katholischen Akademie. Um 16 Uhr  wird sie die Kinder auf eine Reise in Ihre Bücherwelt entführen. Erwachsene dürfen die Schriftstellerin um 19 Uhr im Gespräch mit dem Redakteur Karsten Umlauf (SWR 2) erleben, und so die verschiedenen Gesichter ihrer Person und ihres Werkes erfahren. Das Ende der Veranstaltung ist ca. um 20.30 Uhr.
 Ausklang bei Wein und Brot.
@@ -44,11 +33,11 @@ Internet: www.katholische-akademie-freiburg.de
 
 ----
 
-Begin-time: 16:00
+Begin-time: 16:00:00
 
 ----
 
-End-time: 20:30
+End-time: 20:30:00
 
 ----
 
@@ -61,6 +50,17 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Mymap:
+
+lat: "47.9926345"
+lon: "7.8524614"
+number: "13"
+city: Freiburg im Breisgau
+country: Germany
+postcode: "79098"
 
 ----
 

@@ -2,11 +2,15 @@ Title: Büchertisch anlässlich der Lesung von Andreas Venzke
 
 ----
 
+Location: Schwarzwald-Stadion. Schwarzwaldstraße 193, 79117 Freiburg
+
+----
+
 Date: 2017-10-17
 
 ----
 
-Location: Schwarzwald-Stadion. Schwarzwaldstraße 193, 79117 Freiburg
+Link: 
 
 ----
 
@@ -18,19 +22,15 @@ Text: Büchertisch bei der Veranstaltung mit dem Füchsleclub des SC-Freiburg: �
 
 ----
 
-Begin-time: 11:30
+Begin-time: 11:30:00
 
 ----
 
-End-time: 12:30
+End-time: 12:30:00
 
 ----
 
 End-date: 2017-10-17
-
-----
-
-Draft: 1
 
 ----
 
@@ -39,3 +39,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

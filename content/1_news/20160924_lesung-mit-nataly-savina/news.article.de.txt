@@ -2,12 +2,16 @@ Title: Lesung mit Nataly Savina
 
 ----
 
-Date: 2016-09-24
-
-----
-
 Text: Die ehemalige Abiturientin des Goethe-Gymnasiums, Nataly Savina, las aus ihrem preisgekrönten Jugendroman Love Alice. Anlass für diese Lesung war das 125-jährige Jubiläums des Goethe-Gymnasiums, das in unmittelbaren Nachbarschaft von uns liegt.
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Nataly Savina zu Gast
+
+----
+
+Date: 2016-09-24

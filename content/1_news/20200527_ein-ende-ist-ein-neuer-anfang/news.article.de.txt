@@ -1,12 +1,12 @@
-Tab1:
-
-----
-
 Title: Ein Ende ist ein neuer Anfang
 
 ----
 
-Date: 2020-05-27
+Text: Nach über 4 Jahren beschreitet unsere Kollegin Chloé neue Wege, die sie aus dem Fundevogel führen. Der Abschied darf gefeiert werden: ein idyllischer Ort, offenes Feuer und französische Köstlichkeiten! Wir freuen uns auf die Zukunft, auch wenn der Weggang schwer fällt. Die Kollegin geht, unsere Freundschaft bleibt!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -14,4 +14,8 @@ Subtitle: Schön gefeiert!
 
 ----
 
-Text: Nach über 4 Jahren beschreitet unsere Kollegin Chloé neue Wege, die sie aus dem Fundevogel führen. Der Abschied darf gefeiert werden: ein idyllischer Ort, offenes Feuer und französische Köstlichkeiten! Wir freuen uns auf die Zukunft, auch wenn der Weggang schwer fällt. Die Kollegin geht, unsere Freundschaft bleibt!
+Date: 2020-05-27
+
+----
+
+Tab1: 

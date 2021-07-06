@@ -2,12 +2,16 @@ Title: Der Sommer ist da!
 
 ----
 
-Date: 2016-07-04
-
-----
-
 Text: Am Strand, im Garten, für längere Autofahrten … bei uns entdecken Sie die passende Sommerlektüre und spannende Hörabenteuer, für klein und groß!
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Die Lesezeit in der Sonne ist eröffnet!
+
+----
+
+Date: 2016-07-04

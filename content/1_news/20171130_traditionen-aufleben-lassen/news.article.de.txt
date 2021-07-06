@@ -2,14 +2,6 @@ Title: Am 4. Dezember ist Barbaratag!
 
 ----
 
-Date: 2017-11-30
-
-----
-
-Subtitle: Traditionen aufleben lassen
-
-----
-
 Text:
 
 **Barbaratag**
@@ -24,3 +16,15 @@ Ist er auch kahl, ich nehm ihn mit mir.
 Und er wird blühen in seliger Pracht
 mitten im Winter in der heiligen Nacht.
 (Josef Guggenmos)
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Traditionen aufleben lassen
+
+----
+
+Date: 2017-11-30

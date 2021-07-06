@@ -10,6 +10,10 @@ Subtitle: Verse, Reime und Gedichte
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Edmund Jacoby
 
 ----
@@ -134,7 +138,3 @@ Isaward: false
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

@@ -2,6 +2,58 @@ Title: fasfasfa
 
 ----
 
+Isbn: 
+
+----
+
+Subtitle: 
+
+----
+
+Type: 
+
+----
+
+Author: 
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: 
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 
+
+----
+
+Binding: 
+
+----
+
+Pagecount: 
+
+----
+
+Price: 
+
+----
+
 Topics: 
 
 ----
@@ -11,6 +63,34 @@ Description:
 ----
 
 Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
 
 ----
 
@@ -26,4 +106,24 @@ Isseries: false
 
 ----
 
+Series: 
+
+----
+
+Volume: 
+
+----
+
 Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 

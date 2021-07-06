@@ -2,11 +2,15 @@ Title: Antje Damm im Fundevogel
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2018-10-16
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -14,7 +18,7 @@ Category: Lirum Larum Lesefest
 
 ----
 
-Text: 
+Text:
 
 Wir freuen uns sehr im Rahmen des **Lirum Larum Lesefestes** die Kinderbuchautorin und Illustratorin **Antje Damm** im Fundevogel begrüßen zu dürfen. Mit einem traditionellen japanischen Erzähltheater (Kamishibai) wird sie an diesem Tag kleine und große Besucher in das Buch "Der Besuch" entführen. Wenn in dem hölzernen Kasten kleine Szenen und große Gefühle lebendig werden, öffnet sich ein Raum für Gespräche und gemeinsames Erzählen. Während der Veranstaltung erklärt die Autorin auch wie ein Buch entsteht, wer alles daran mitarbeitet und wie lange die Arbeit an einem Buch dauert. Inspiriert von der Geschichte des Buches basteln die Kinder mit der Autorin Papierflieger und malen sie bunt an.
 
@@ -22,19 +26,15 @@ Die Veranstaltung richtet sich an Kinder im Alter von 4-7 Jahren und wird ca. 1,
 
 ----
 
-Begin-time: 15:00
+Begin-time: 15:00:00
 
 ----
 
-End-time: 16:30
+End-time: 16:30:00
 
 ----
 
 End-date: 2018-10-16
-
-----
-
-Draft: 1
 
 ----
 
@@ -43,3 +43,7 @@ Show-time: true
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

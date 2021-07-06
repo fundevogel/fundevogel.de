@@ -2,14 +2,6 @@ Title: Von Rittern, Nixen und Seeräubern
 
 ----
 
-Date: 2018-01-23
-
-----
-
-Subtitle: Ein Tag mit Kirsten Boie
-
-----
-
 Text:
 
 *Wie lange brauchst du für ein Buch?*
@@ -20,3 +12,15 @@ Diese und noch viel mehr Fragen stellten die jungen Besucher der Schriftstelleri
 In einer weiteren Veranstaltung am Abend, die sich an Erwachsene richtete, unterhielt sich die Autorin mit SWR 2 Redakteur Karsten Umlauf über ihre sozialen Projekte in Swasiland, die Aufgaben und Möglichkeiten der Kinderliteratur und vieles mehr.
 
 Wir freuen uns, dass wir diese schöne Veranstaltung mit einem großen Büchertisch begleiten durften.
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Ein Tag mit Kirsten Boie
+
+----
+
+Date: 2018-01-23

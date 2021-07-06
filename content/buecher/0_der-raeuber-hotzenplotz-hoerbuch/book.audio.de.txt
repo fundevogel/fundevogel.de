@@ -10,6 +10,10 @@ Subtitle:
 
 ----
 
+Type: Hörbuch
+
+----
+
 Author: Otfried Preußler
 
 ----
@@ -142,7 +146,3 @@ Participant: Frank Gustavus
 ----
 
 Composer: 
-
-----
-
-Type: Hörbuch

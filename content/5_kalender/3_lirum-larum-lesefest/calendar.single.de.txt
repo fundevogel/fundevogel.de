@@ -13,7 +13,7 @@ Short: Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktob
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Blick zur\u00fcck"},"id":"0072b9c7-4001-48a5-9070-76d98ed48e9e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erz\u00e4hltheater brachte die K\u00fcnstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und gro\u00dfe Zuh\u00f6rer. Das Buch erz\u00e4hlt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem \u00dcbermut und Freude Farbe und Schwung in das Leben der \u00e4ngstlichen Dame bringt.<\/p><p>Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.<\/p>"},"id":"90e8cc99-db38-4b27-b0b6-040136af8be0","isHidden":false,"type":"text"},{"content":{"images":["lirum-larum-lesefest-01.jpg","lirum-larum-lesefest-02.jpg","lirum-larum-lesefest-03.jpg","lirum-larum-lesefest-04.jpg","lirum-larum-lesefest-05.jpg","lirum-larum-lesefest-06.jpg","lirum-larum-lesefest-07.jpg","lirum-larum-lesefest-08.jpg","lirum-larum-lesefest-09.jpg","lirum-larum-lesefest-10.jpg","lirum-larum-lesefest-11.jpg","lirum-larum-lesefest-12.jpg","lirum-larum-lesefest-13.jpg","lirum-larum-lesefest-14.jpg","lirum-larum-lesefest-15.jpg","lirum-larum-lesefest-16.jpg"],"heading":"","icon":""},"id":"81b8a4a7-6ad5-40dd-86f7-9024ce811633","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erz\u00e4hltheater brachte die K\u00fcnstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und gro\u00dfe Zuh\u00f6rer. Das Buch erz\u00e4hlt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem \u00dcbermut und Freude Farbe und Schwung in das Leben der \u00e4ngstlichen Dame bringt.<\/p><p>Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.<\/p>"},"id":"a42182b1-8fae-4485-969b-109891f837e2","isHidden":false,"type":"text"},{"content":{"heading":"\"Leseb\u00fccher\" 2020","icon":"book-closed-filled","books":[{"title":"Alles immer","book":["buecher\/das-bilderbuch-hardcover"],"text":"Jan von Holleben ist ein Meister der Irritation. In seinen Fotos scheint immer etwas nicht so ganz zu stimmen - und genau dadurch entsteht ein neuer Blick auf vertraute Dinge, die uns umgeben. Aus \u00fcber 250 seiner Fotos hat Holleben eine gro\u00dfartige Erlebniswelt geschaffen: Jedes Foto h\u00e4ngt mit dem n\u00e4chsten zusammen und macht gro\u00dfe Lust, genau hinzusehen, zu entdecken, zu assoziieren, zu erz\u00e4hlen \u2013 und das alles immer wieder von Neuem."},{"title":"","book":["buecher\/die-hundebande-in-paris-hardcover"],"text":"Onkel Jakob feiert seinen hundertsten Geburtstag und l\u00e4dt die Hundebande zu seiner Feier nach Paris ein! Die Hunde machen sich fertig und fahren mit dem Zug in die Hauptstadt. Aber Paris ist eine sehr gro\u00dfe Stadt, wie soll man da die richtige Stra\u00dfe finden? Auf ihrem Weg gibt es in Paris fu\u0308r die Hunde jedenfalls einiges zu entdecken\u2026 aber kommen sie auch rechtzeitig zu Onkel Jakobs Party?\n\nIn \"Die Hundebande in Paris\" erlebt das von Doroth\u00e9e de Monfreid erschaffene bunte Rudel ein weiteres aufregendes Abenteuer. Nicht nur ein toller Spa\u00df fu\u0308r Klein und Gro\u00df, sondern zugleich eine anschauliche Fu\u0308hrung zu den weltbekannten Sehenswu\u0308rdigkeiten der franz\u00f6sischen Hauptstadt."},{"title":"","book":["buecher\/grompel-chaos-im-anmarsch-hardcover"],"text":"Matti und Milla finden im Garten ihres neuen Zuhauses ein Tier, das es so gar nicht gibt. Was f\u00fcr eine Sensation! Und so versuchen sie zusammen mit ihrem Vater, einem weitgereisten Wissenschaftler, herauszufinden, woher dieses seltsame Wesen kommt und was es ist. Aber das ist leichter gesagt als getan. Denn immer, wenn sie denken, dass sie einen Schritt weiter sind, passiert etwas Neues mit dem Grompel, wie Milla das Tier schlie\u00dflich nennt: Es frisst merkw\u00fcrdige Sachen, f\u00e4ngt an zu sprechen, leuchtet im Dunkeln und verursacht jede Menge Chaos. F\u00fcr die Kinder wird es nicht einfacher, als Fremde davon Wind bekommen und den Grompel um jeden Preis entf\u00fchren wollen. Jetzt m\u00fcssen Milla und Matti alles in Bewegung setzen, um den Grompel zu retten."},{"title":"","book":["buecher\/dann-gehe-ich-jetzt-sagte-die-zeit-hardcover"],"text":"Es ist Sonntag und die Zeit ist zu Besuch. Sie ist Laras Freundin. Doch Laras Familie scheint etwas gegen sie zu haben. Sie sprechen davon, sie sich zu vertreiben oder sie gar totzuschlagen. Da hat die Zeit genug. Sie geht. Lara versucht sie wiederzufinden. Doch au\u00dfer der Katze kann ihr keiner helfen, denn niemand scheint Zeit f\u00fcr die Zeit zu haben.\n\nEin poetisches Buch \u00fcber die Zeit \u2013 und was ihr in unserem Sprachgebrauch widerf\u00e4hrt. Aber auch dar\u00fcber, was sie eigentlich sein k\u00f6nnte: eine gute Freundin, die den Blick f\u00fcr die kleinen und sch\u00f6nen Dinge sch\u00e4rft."},{"title":"","book":["buecher\/q-r-t-naechste-stunde-ausserirdisch-hardcover"],"text":"Seit Lara mit dem Au\u00dferirdischen Q-R-T und dessen Haustier Flummi befreundet ist, vergeht kein Tag ohne Abenteuer. Doch als Lara auf eine neue Schule wechselt, droht diesem aufregenden Leben ein j\u00e4hes Ende. Kurzerhand fliegen Q-R-T und Flummi deshalb einfach mit ins neue Klassenzimmer. Ein Au\u00dferirdischer in der Schule? Da ist Chaos vorprogrammiert \u2013 und jede Menge neue Abenteuer!\n\nFerdinand Lutz\u2019 liebevoll-schr\u00e4ge Geschichten um den Au\u00dferirdischen Q-R-T erscheinen monatlich im Kindermagazin \u201cDein SPIEGEL\u201d. Der erste Band wurde von der Expertenjury des \u201cTagesspiegels\u201d unter die besten Comics des Jahres 2015 gew\u00e4hlt. Band 2 wurde von der Deutschen Akademie fu\u0308r Kinder- und Jugendliteratur fu\u0308r den Serafina Nachwuchspreis Illustration 2017 nominiert."},{"title":"","book":["buecher\/mia-und-die-aus-der-19-hardcover"],"text":"Mia geht in die 3. Klasse und ist auf der Suche nach ihrem ersten Detektivfall, als sie auf Herrn Rippel trifft. Der wohnt in der 19, bei den \u201eschr\u00e4gen V\u00f6geln\u201c. So nennen alle die verr\u00fcckten Alten, die in Mias Stra\u00dfe wohnen, aber Mia macht das nichts aus, sie ist n\u00e4mlich to-le-rant. Zum Gl\u00fcck, denn von Herrn Rippel erf\u00e4hrt sie, dass Pirat, die Katze von Herrn Schlottmeier, gestohlen wurde. Mia legt los und ermittelt undercover, nur schade, dass ihre beste Freundin Jil lieber Superstar werden will ...\n\nNicole Mahnes umwerfendes Kinderbuchdeb\u00fct \u2013  voller Humor, Leichtigkeit und Ironie - erz\u00e4hlt herrlich naiv aus Kindersicht \u00fcber das Miteinander der Generationen, wobei die \u201eNormalen\u201c oft schr\u00e4ger wirken als die \u201eschr\u00e4gen\u201c V\u00f6gel aus der Senioren-WG. Wunderbar wortwitzig ist Mias unbefangener Umgang mit den kauzigen Alten und ihre Sicht auf Freundschaft, Familie und das Leben."},{"title":"","book":["buecher\/eliot-und-isabella-in-den-raeuberbergen-hardcover"],"text":"Eliot und seine Freundin Isabella sind ratzem\u00e4\u00dfig aufgeregt. Sie wollen in die Berge, mit Zelt und allem Drum und Dran. Doch wie der Zufall es will, wird aus dem Beerenpfl\u00fccken bei Mondenschein erstmal nichts \u2013 Bocky Bockwurst und seine R\u00fcpelbande r\u00fccken den beiden \u00fcbel auf die Pelle! Es wird ziemlich brenzlig, als auch noch der gemeingef\u00e4hrliche Don Ratzo auftaucht.\n\nDas f\u00fcnfte spannende und witzige Abenteuer der beiden beliebten Rattenkinder Eliot und Isabella. Viele Bilder, kurze Kapitel und ein gro\u00dfes Vergn\u00fcgen zum Vorlesen."},{"title":"","book":["buecher\/der-kleine-drache-kokosnuss-und-der-chinesische-drache-hardcover"],"text":"Der kleine Drache Kokosnuss und das Stachelschwein Matilda sind am Strand mit ihren Freund Oskar verabredet. Als der kleine Fressdrache endlich auftaucht, ist er ziemlich geknickt: In den Sommerferien soll er mit seinem Papa Herbert nach China zur Hochzeit von Onkel Helmut fahren. Da Kokosnuss sich schon lange f\u00fcr China interessiert, ist schnell beschlossen, dass die Freunde gemeinsam fahren. Au\u00dferdem muss sich ja auch jemand um Oskars Papa k\u00fcmmern, der sich mit den chinesischen Sitten \u00fcberhaupt nicht auskennt. Nicht, dass er sich danebenbenimmt! Und sollte er dem m\u00e4chtigen chinesischen Drachen Long Long begegnen, k\u00f6nnte das gef\u00e4hrlich werden .."}],"usedetails":"false","usetaxonomy":"false"},"id":"f35938cc-7db7-432c-ac3e-55b5cde984cc","isHidden":false,"type":"books"}],"id":"e2dddf91-73e1-40d8-8005-334e9e67a85a","width":"1\/1"}],"id":"0906b4ce-a940-4d45-b17d-d22c3882e84e"},{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Aktuelle Situation"},"id":"91f92480-3f66-4272-99c1-7d4adcfd13ed","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir hoffen zwar, dass auch das 27. Lirum Larum Lesefest vom 3.-11. Oktober 2020 stattfindet, aufgrund der aktuellen Lage kann man aber nicht sicher sein.<\/p>"},"id":"f2e0d44a-0fdd-45e5-b26c-e49d2a1e6216","isHidden":false,"type":"text"}],"id":"751c5532-b7b1-4cad-bf9b-82459cbea130","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Informationen"},"id":"5ea403e0-d35a-4aca-b89d-fb2d3a2c40ce","isHidden":false,"type":"heading"},{"content":{"text":"<p>\u00dcberall in der Stadt finden Veranstaltungen statt, auch bei uns! Wir informieren euch rechtzeitig \u00fcber unsere Webseite oder auf Wunsch auch <a href=\"mailto:info@fundevogel.de\" rel=\"noopener noreferrer nofollow\">per Mail<\/a>.<\/p>"},"id":"02f38dba-0bac-41e1-9f0b-50595acfb6be","isHidden":false,"type":"text"}],"id":"82f0d20a-8989-4452-b659-6ad2fc89220b","width":"1\/2"}],"id":"a3d97855-efe4-4a79-a6cb-c5d543d103bf"},{"attrs":{"style":"box","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"N\u00fctzliche Infos"},"id":"0a1fc86b-8f01-49fe-8e44-9a02b886f891","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Auf der <a href=\"https:\/\/www.freiburg.de\/pb\/,Lde\/230520.html\" target=\"blank\" rel=\"noopener noreferrer nofollow\">offiziellen Seite<\/a> des Freiburger Lesefests findet ihr aktuelle Informationen.<\/li><li>Wenn es dann soweit ist, findet ihr tolle Veranstaltungstipps auch \u00fcber das <a href=\"https:\/\/theater.freiburg.de\/de_DE\/suche?q=lirum+larum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Theater Freiburg<\/a> sowie das <a href=\"https:\/\/literaturhaus-freiburg.de\/?s=lirum+larum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Literaturhaus<\/a> - und nat\u00fcrlich bei uns!<\/li><li>Eine kurze Zusammenfassung zur Geschichte des Kinderliteraturfestivals gibt\u2019s <a href=\"https:\/\/www.chilli-freiburg.de\/findefuchs\/25-jahre-und-kein-bisschen-erwachsen-lirum-larum-lesefest-feiert-jubilaeum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">hier<\/a>.<\/li><\/ul>"},"id":"692fe7b0-4ed5-4b3f-9658-2a9ed8c5057e","isHidden":false,"type":"list"}],"id":"2a13635c-41cf-4f37-ae4e-52c195bc3a19","width":"1\/1"}],"id":"fc2be947-b411-449b-836c-c1079b920d10"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Ein Blick zur\u00fcck"},"id":"0072b9c7-4001-48a5-9070-76d98ed48e9e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erz\u00e4hltheater brachte die K\u00fcnstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und gro\u00dfe Zuh\u00f6rer. Das Buch erz\u00e4hlt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem \u00dcbermut und Freude Farbe und Schwung in das Leben der \u00e4ngstlichen Dame bringt.<\/p><p>Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.<\/p>"},"id":"90e8cc99-db38-4b27-b0b6-040136af8be0","isHidden":false,"type":"text"},{"content":{"images":["kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-01.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-02.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-03.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-04.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-05.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-06.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-07.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-08.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-09.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-10.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-11.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-12.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-13.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-14.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-15.jpg","kalender\/lirum-larum-lesefest\/lirum-larum-lesefest-16.jpg"],"heading":"","icon":""},"id":"81b8a4a7-6ad5-40dd-86f7-9024ce811633","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Zuletzt war Antje Damm zu Gast bei uns in der Buchhandlung. Mit dabei ein Kamishibai. Mit diesem traditionellen japanischen Erz\u00e4hltheater brachte die K\u00fcnstlerin ihr Buch den Kindern nahe und faszinierte damit kleine und gro\u00dfe Zuh\u00f6rer. Das Buch erz\u00e4hlt die Begegnung der menschenscheuen alten Elise mit Emil, dem kleinen neugierigen Jungen, der mit kindlichem \u00dcbermut und Freude Farbe und Schwung in das Leben der \u00e4ngstlichen Dame bringt.<\/p><p>Bei einer Bastelaktion im Anschluss an die Lesung wurde es im Fundevogel bunt und lebendig. Inspiriert von der Geschichte des Buches bastelten die Kinder mit der Autorin Papierflieger und malten sie bunt an.<\/p>"},"id":"a42182b1-8fae-4485-969b-109891f837e2","isHidden":false,"type":"text"},{"content":{"heading":"\"Leseb\u00fccher\" 2020","icon":"book-closed-filled","books":[{"title":"Alles immer","book":["buecher\/das-bilderbuch-hardcover"],"text":"Jan von Holleben ist ein Meister der Irritation. In seinen Fotos scheint immer etwas nicht so ganz zu stimmen - und genau dadurch entsteht ein neuer Blick auf vertraute Dinge, die uns umgeben. Aus \u00fcber 250 seiner Fotos hat Holleben eine gro\u00dfartige Erlebniswelt geschaffen: Jedes Foto h\u00e4ngt mit dem n\u00e4chsten zusammen und macht gro\u00dfe Lust, genau hinzusehen, zu entdecken, zu assoziieren, zu erz\u00e4hlen \u2013 und das alles immer wieder von Neuem."},{"title":"","book":["buecher\/die-hundebande-in-paris-hardcover"],"text":"Onkel Jakob feiert seinen hundertsten Geburtstag und l\u00e4dt die Hundebande zu seiner Feier nach Paris ein! Die Hunde machen sich fertig und fahren mit dem Zug in die Hauptstadt. Aber Paris ist eine sehr gro\u00dfe Stadt, wie soll man da die richtige Stra\u00dfe finden? Auf ihrem Weg gibt es in Paris fu\u0308r die Hunde jedenfalls einiges zu entdecken\u2026 aber kommen sie auch rechtzeitig zu Onkel Jakobs Party?\n\nIn \"Die Hundebande in Paris\" erlebt das von Doroth\u00e9e de Monfreid erschaffene bunte Rudel ein weiteres aufregendes Abenteuer. Nicht nur ein toller Spa\u00df fu\u0308r Klein und Gro\u00df, sondern zugleich eine anschauliche Fu\u0308hrung zu den weltbekannten Sehenswu\u0308rdigkeiten der franz\u00f6sischen Hauptstadt."},{"title":"","book":["buecher\/grompel-chaos-im-anmarsch-hardcover"],"text":"Matti und Milla finden im Garten ihres neuen Zuhauses ein Tier, das es so gar nicht gibt. Was f\u00fcr eine Sensation! Und so versuchen sie zusammen mit ihrem Vater, einem weitgereisten Wissenschaftler, herauszufinden, woher dieses seltsame Wesen kommt und was es ist. Aber das ist leichter gesagt als getan. Denn immer, wenn sie denken, dass sie einen Schritt weiter sind, passiert etwas Neues mit dem Grompel, wie Milla das Tier schlie\u00dflich nennt: Es frisst merkw\u00fcrdige Sachen, f\u00e4ngt an zu sprechen, leuchtet im Dunkeln und verursacht jede Menge Chaos. F\u00fcr die Kinder wird es nicht einfacher, als Fremde davon Wind bekommen und den Grompel um jeden Preis entf\u00fchren wollen. Jetzt m\u00fcssen Milla und Matti alles in Bewegung setzen, um den Grompel zu retten."},{"title":"","book":["buecher\/dann-gehe-ich-jetzt-sagte-die-zeit-hardcover"],"text":"Es ist Sonntag und die Zeit ist zu Besuch. Sie ist Laras Freundin. Doch Laras Familie scheint etwas gegen sie zu haben. Sie sprechen davon, sie sich zu vertreiben oder sie gar totzuschlagen. Da hat die Zeit genug. Sie geht. Lara versucht sie wiederzufinden. Doch au\u00dfer der Katze kann ihr keiner helfen, denn niemand scheint Zeit f\u00fcr die Zeit zu haben.\n\nEin poetisches Buch \u00fcber die Zeit \u2013 und was ihr in unserem Sprachgebrauch widerf\u00e4hrt. Aber auch dar\u00fcber, was sie eigentlich sein k\u00f6nnte: eine gute Freundin, die den Blick f\u00fcr die kleinen und sch\u00f6nen Dinge sch\u00e4rft."},{"title":"","book":["buecher\/q-r-t-naechste-stunde-ausserirdisch-hardcover"],"text":"Seit Lara mit dem Au\u00dferirdischen Q-R-T und dessen Haustier Flummi befreundet ist, vergeht kein Tag ohne Abenteuer. Doch als Lara auf eine neue Schule wechselt, droht diesem aufregenden Leben ein j\u00e4hes Ende. Kurzerhand fliegen Q-R-T und Flummi deshalb einfach mit ins neue Klassenzimmer. Ein Au\u00dferirdischer in der Schule? Da ist Chaos vorprogrammiert \u2013 und jede Menge neue Abenteuer!\n\nFerdinand Lutz\u2019 liebevoll-schr\u00e4ge Geschichten um den Au\u00dferirdischen Q-R-T erscheinen monatlich im Kindermagazin \u201cDein SPIEGEL\u201d. Der erste Band wurde von der Expertenjury des \u201cTagesspiegels\u201d unter die besten Comics des Jahres 2015 gew\u00e4hlt. Band 2 wurde von der Deutschen Akademie fu\u0308r Kinder- und Jugendliteratur fu\u0308r den Serafina Nachwuchspreis Illustration 2017 nominiert."},{"title":"","book":["buecher\/mia-und-die-aus-der-19-hardcover"],"text":"Mia geht in die 3. Klasse und ist auf der Suche nach ihrem ersten Detektivfall, als sie auf Herrn Rippel trifft. Der wohnt in der 19, bei den \u201eschr\u00e4gen V\u00f6geln\u201c. So nennen alle die verr\u00fcckten Alten, die in Mias Stra\u00dfe wohnen, aber Mia macht das nichts aus, sie ist n\u00e4mlich to-le-rant. Zum Gl\u00fcck, denn von Herrn Rippel erf\u00e4hrt sie, dass Pirat, die Katze von Herrn Schlottmeier, gestohlen wurde. Mia legt los und ermittelt undercover, nur schade, dass ihre beste Freundin Jil lieber Superstar werden will ...\n\nNicole Mahnes umwerfendes Kinderbuchdeb\u00fct \u2013  voller Humor, Leichtigkeit und Ironie - erz\u00e4hlt herrlich naiv aus Kindersicht \u00fcber das Miteinander der Generationen, wobei die \u201eNormalen\u201c oft schr\u00e4ger wirken als die \u201eschr\u00e4gen\u201c V\u00f6gel aus der Senioren-WG. Wunderbar wortwitzig ist Mias unbefangener Umgang mit den kauzigen Alten und ihre Sicht auf Freundschaft, Familie und das Leben."},{"title":"","book":["buecher\/eliot-und-isabella-in-den-raeuberbergen-hardcover"],"text":"Eliot und seine Freundin Isabella sind ratzem\u00e4\u00dfig aufgeregt. Sie wollen in die Berge, mit Zelt und allem Drum und Dran. Doch wie der Zufall es will, wird aus dem Beerenpfl\u00fccken bei Mondenschein erstmal nichts \u2013 Bocky Bockwurst und seine R\u00fcpelbande r\u00fccken den beiden \u00fcbel auf die Pelle! Es wird ziemlich brenzlig, als auch noch der gemeingef\u00e4hrliche Don Ratzo auftaucht.\n\nDas f\u00fcnfte spannende und witzige Abenteuer der beiden beliebten Rattenkinder Eliot und Isabella. Viele Bilder, kurze Kapitel und ein gro\u00dfes Vergn\u00fcgen zum Vorlesen."},{"title":"","book":["buecher\/der-kleine-drache-kokosnuss-und-der-chinesische-drache-hardcover"],"text":"Der kleine Drache Kokosnuss und das Stachelschwein Matilda sind am Strand mit ihren Freund Oskar verabredet. Als der kleine Fressdrache endlich auftaucht, ist er ziemlich geknickt: In den Sommerferien soll er mit seinem Papa Herbert nach China zur Hochzeit von Onkel Helmut fahren. Da Kokosnuss sich schon lange f\u00fcr China interessiert, ist schnell beschlossen, dass die Freunde gemeinsam fahren. Au\u00dferdem muss sich ja auch jemand um Oskars Papa k\u00fcmmern, der sich mit den chinesischen Sitten \u00fcberhaupt nicht auskennt. Nicht, dass er sich danebenbenimmt! Und sollte er dem m\u00e4chtigen chinesischen Drachen Long Long begegnen, k\u00f6nnte das gef\u00e4hrlich werden .."}],"usedetails":"false","usetaxonomy":"false"},"id":"f35938cc-7db7-432c-ac3e-55b5cde984cc","isHidden":false,"type":"books"}],"id":"e2dddf91-73e1-40d8-8005-334e9e67a85a","width":"1\/1"}],"id":"0906b4ce-a940-4d45-b17d-d22c3882e84e"},{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Aktuelle Situation"},"id":"91f92480-3f66-4272-99c1-7d4adcfd13ed","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir hoffen zwar, dass auch das 27. Lirum Larum Lesefest vom 3.-11. Oktober 2020 stattfindet, aufgrund der aktuellen Lage kann man aber nicht sicher sein.<\/p>"},"id":"f2e0d44a-0fdd-45e5-b26c-e49d2a1e6216","isHidden":false,"type":"text"}],"id":"751c5532-b7b1-4cad-bf9b-82459cbea130","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Informationen"},"id":"5ea403e0-d35a-4aca-b89d-fb2d3a2c40ce","isHidden":false,"type":"heading"},{"content":{"text":"<p>\u00dcberall in der Stadt finden Veranstaltungen statt, auch bei uns! Wir informieren euch rechtzeitig \u00fcber unsere Webseite oder auf Wunsch auch <a href=\"mailto:info@fundevogel.de\" rel=\"noopener noreferrer nofollow\">per Mail<\/a>.<\/p>"},"id":"02f38dba-0bac-41e1-9f0b-50595acfb6be","isHidden":false,"type":"text"}],"id":"82f0d20a-8989-4452-b659-6ad2fc89220b","width":"1\/2"}],"id":"a3d97855-efe4-4a79-a6cb-c5d543d103bf"},{"attrs":{"style":"box","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"N\u00fctzliche Infos"},"id":"0a1fc86b-8f01-49fe-8e44-9a02b886f891","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Auf der <a href=\"https:\/\/www.freiburg.de\/pb\/,Lde\/230520.html\" target=\"blank\" rel=\"noopener noreferrer nofollow\">offiziellen Seite<\/a> des Freiburger Lesefests findet ihr aktuelle Informationen.<\/li><li>Wenn es dann soweit ist, findet ihr tolle Veranstaltungstipps auch \u00fcber das <a href=\"https:\/\/theater.freiburg.de\/de_DE\/suche?q=lirum+larum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Theater Freiburg<\/a> sowie das <a href=\"https:\/\/literaturhaus-freiburg.de\/?s=lirum+larum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Literaturhaus<\/a> - und nat\u00fcrlich bei uns!<\/li><li>Eine kurze Zusammenfassung zur Geschichte des Kinderliteraturfestivals gibt\u2019s <a href=\"https:\/\/www.chilli-freiburg.de\/findefuchs\/25-jahre-und-kein-bisschen-erwachsen-lirum-larum-lesefest-feiert-jubilaeum\" target=\"blank\" rel=\"noopener noreferrer nofollow\">hier<\/a>.<\/li><\/ul>"},"id":"692fe7b0-4ed5-4b3f-9658-2a9ed8c5057e","isHidden":false,"type":"list"}],"id":"2a13635c-41cf-4f37-ae4e-52c195bc3a19","width":"1\/1"}],"id":"fc2be947-b411-449b-836c-c1079b920d10"}]
 
 ----
 
@@ -29,11 +29,121 @@ Previewimage:
 
 ----
 
-Seotitle: Freiburger Kinderliteraturfest "Lirum Larum Lesefest"
+Meta-title: Lirum Larum Lesefest
 
 ----
 
-Seodescription: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktober mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen tollen Mitmachaktionen.
+Meta-description: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktober mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen tollen Mitmachaktionen.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
 
 ----
 

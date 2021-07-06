@@ -28,7 +28,7 @@ Dank gründlicher Recherche der Autorin, die selbst für mehrere Naturschutz-NGO
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -46,12 +46,116 @@ Isexternal: true
 
 ----
 
-Seotitle: 
+Isadvanced: false
 
 ----
 
-Seodescription: 
+Meta-title: Vögel auf Weltreise
 
 ----
 
-Isadvanced: 
+Meta-description: Wer hat nicht schon mal davon geträumt, sich mit den Vögeln auf Weltreise zu begeben und deren Geheimnis zu lüften? Das Buch „Vögel auf Weltreise“ kommt diesem Traum ein großes Stück näher.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

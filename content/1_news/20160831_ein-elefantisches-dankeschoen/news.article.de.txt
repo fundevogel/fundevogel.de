@@ -2,12 +2,16 @@ Title: Ein elefantisches Dankeschön!
 
 ----
 
-Date: 2016-08-31
-
-----
-
 Text: Ein lang gehegter Wunsch geht in Erfüllung: unsere Elefantendeko, installiert und dekoriert von unserer hochgeschätzten ehemaligen Kollegin Christiane, die bei einem Besuch an ihrer alten Wirkungsstätte Inspiration und Zeit genug fand, unseren Wunsch umzusetzen.
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Als der Elefant kam ...
+
+----
+
+Date: 2016-08-31

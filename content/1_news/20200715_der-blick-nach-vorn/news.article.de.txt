@@ -12,12 +12,12 @@ Damit dies gelingen kann, **brauchen wir Ihre Unterstützung**. Ihre Meinung lie
 
 ----
 
-Date: 2020-07-15
-
-----
-
 Subtitle-wanted: true
 
 ----
 
 Subtitle: Umfrage zur Gründung einer Genossenschaft
+
+----
+
+Date: 2020-07-15

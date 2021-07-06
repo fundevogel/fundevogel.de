@@ -6,6 +6,10 @@ Text: Das Jahr neigt sich dem Ende entgegen und das Weihnachtsfest steht vor der
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Weihnachtsgrüße aus dem Fundevogel
 
 ----

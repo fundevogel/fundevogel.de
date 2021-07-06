@@ -7,6 +7,7 @@ Slug: our-assortment
 ----
 
 Text:
+
 ## World of books
 From the large-format Big Bang non-fiction book to exciting adventure novels to the wonderfully illustrated picture book about the friendship of an old man and his lively cat - with us you will find the whole variety of children's and youth literature.
 
@@ -14,11 +15,8 @@ It is our goal to find the right book for each of you - whether you seek amazeme
 
 ----
 
-Cover: - unser-sortiment.jpg
-
-----
-
 Details:
+
 ## Come on a journey of discovery!
 On the following pages, we will provide information on the special features of individual types of books and present our distinguished assortment: whether it be novelties or classics, come by and see for yourselves!
 
@@ -27,6 +25,7 @@ We have also prepared a selection of our favourites for you in each category –
 ----
 
 Conclusion:
+
 ## Take a moment to relax
 This list could be continued forever. There are simply so many wonderful books that have shaped and accompanied us and which we keep on taking into our hands. In addition, almost ten thousand new books are published (short: each year desc: .. and that's in Germany alone!) in children's and youth literature.
 
@@ -34,8 +33,124 @@ But don’t worry, we’ll keep an overview for you and we’ll be happy to advi
 
 ----
 
-Seotitle: Our Assortment
+Cover:
+
+- unser-sortiment.jpg
 
 ----
 
-Seodescription: We offer a wide range of children’s and youth literature, with books for laughter and amazement, dreams and reflection.
+Meta-title:
+
+----
+
+Meta-description: We offer a wide range of children’s and youth literature, with books for laughter and amazement, dreams and reflection.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- unser-sortiment.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- unser-sortiment.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- unser-sortiment.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

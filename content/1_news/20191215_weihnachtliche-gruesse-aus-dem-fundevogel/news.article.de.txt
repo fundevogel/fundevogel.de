@@ -2,7 +2,14 @@ Title: Frohe Weihnachten und ein gutes neues Jahr!
 
 ----
 
-Date: 2019-12-15
+Text:
+
+Das Weihnachtsfest steht vor der Tür und das Jahr geht langsam zu Ende. Wir bedanken uns bei Euch allen für das gemeinsame Jahr 2019! Für das uns entgegengebrachte Vertrauen, die Verbundenheit und die vielen schönen Momente. Möge auch das kommende Jahr wieder viele wertvolle literarische Entdeckungen für uns alle bereithalten.
+Wir wünschen Euch allen eine schöne Weihnachtszeit und einen guten Start ins neue Jahr!
+
+----
+
+Subtitle-wanted: false
 
 ----
 
@@ -10,7 +17,4 @@ Subtitle: Weihnachtliche Grüße aus dem Fundevogel
 
 ----
 
-Text:
-
-Das Weihnachtsfest steht vor der Tür und das Jahr geht langsam zu Ende. Wir bedanken uns bei Euch allen für das gemeinsame Jahr 2019! Für das uns entgegengebrachte Vertrauen, die Verbundenheit und die vielen schönen Momente. Möge auch das kommende Jahr wieder viele wertvolle literarische Entdeckungen für uns alle bereithalten.
-Wir wünschen Euch allen eine schöne Weihnachtszeit und einen guten Start ins neue Jahr!
+Date: 2019-12-15

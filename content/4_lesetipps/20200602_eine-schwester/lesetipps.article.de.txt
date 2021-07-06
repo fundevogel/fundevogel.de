@@ -22,7 +22,7 @@ Antoine entwickelt sich zum Beispiel auch in seiner Rolle als großer Bruder wei
 
 ----
 
-Blocks: []
+Layouts: []
 
 ----
 
@@ -40,12 +40,116 @@ Isexternal: true
 
 ----
 
-Seotitle: Eine Schwester
+Isadvanced: false
 
 ----
 
-Seodescription: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
+Meta-title: Eine Schwester
 
 ----
 
-Isadvanced: 
+Meta-description: Der dreizehnjährige Antoine fährt wie jedes Jahr mit seiner Familie zum Strandurlaub in die Bretagne. Doch dieses Mal hat eine Freundin der Mutter ihre sechzehnjährige Tochter, Hélène, mitgebracht. Sie führt Antoine in eine ihm bisher verschlossene Gefühlswelt ein.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

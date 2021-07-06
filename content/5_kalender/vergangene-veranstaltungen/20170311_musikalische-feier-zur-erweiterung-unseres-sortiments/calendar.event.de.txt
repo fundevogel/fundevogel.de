@@ -2,11 +2,15 @@ Title: Musikalische Feier zur Erweiterung unseres Sortiments
 
 ----
 
+Location: Buchhandlung Fundevogel
+
+----
+
 Date: 2017-03-11
 
 ----
 
-Location: Buchhandlung Fundevogel
+Link: 
 
 ----
 
@@ -18,7 +22,7 @@ Text: Am 11. März, 18 Uhr feiern wir bei uns im Fundevogel die Erweiterung unse
 
 ----
 
-Begin-time: 18:00
+Begin-time: 18:00:00
 
 ----
 
@@ -30,12 +34,12 @@ End-date: 2017-03-11
 
 ----
 
-Draft: 1
-
-----
-
 Show-time: true
 
 ----
 
 Multiple-days: false
+
+----
+
+Draft: 1

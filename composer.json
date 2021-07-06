@@ -32,8 +32,8 @@
         "k-community/markdown-field": "1.0.9",
         "kschu91/largest-remainder-method": "1.0.0",
         "oblik/kirby-plurals": "1.0.0",
-        "pedroborges/kirby-meta-tags": "2.0.2",
-        "s1syphos/kirby3-dejure": "1.3.0"
+        "s1syphos/kirby3-dejure": "1.3.0",
+        "diesdasdigital/kirby-meta-knight": "^1.1"
     },
     "extra": {
         "kirby-cms-path": false

@@ -10,7 +10,11 @@ Verdict: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, 
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Superhelden fliegen geheim
+Isadvanced: false
 
 ----
 
-Seodescription: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.
+Meta-title: Superhelden fliegen geheim
+
+----
+
+Meta-description: Ein Buch, das alles hat, was dein Leseherz begehrt: Rasante Abenteuer, Spannung, kühne Helden und Retter. Und einen witzigen Text, der auch von Comics und Bildern lebt. Ein Lesevergnügen für alle, denen Ganz-Normal-Sein viel zu langweilig ist.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

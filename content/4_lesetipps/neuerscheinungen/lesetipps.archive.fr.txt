@@ -3,27 +3,141 @@ Title: Livres récemment publiés
 ----
 
 Text:
-## Thorough selection
+
+## Sélection approfondie
 Chaque année, au printemps et à l'automne, nous collectons une sélection de (short: nouvelles publications desc: En Allemagne, c'est près de 10 000 chaque année!) dans une liste de recommandations.
 
 Ici vous pouvez trouver toutes les éditions précédentes en un coup d'œil - et qui sait, peut-être que l'un ou l'autre trésor de lecture est enterré!
 
 ----
 
+Cover:
+
+- neuerscheinungen.jpg
+
+----
+
+Meta-title: Toutes les listes de recommandations
+
+----
+
+Meta-description: Avec 10 000 nouveaux livres chaque année, vous perdez rapidement la trace - nous collectons le meilleur pour vous deux fois par an!
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- neuerscheinungen.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- neuerscheinungen.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- neuerscheinungen.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
 Info:
+
 - Chaque numéro est **divisé en âges de lecture**, des tout-petits aux premiers lecteurs en passant par les jeunes adultes.
 - De plus, nous trions les nouveaux livres ** selon les catégories **, c'est-à-dire les livres d'images, les livres à lire à haute voix, les livres audio et les ouvrages non romanesques.
 - Au printemps, il y a de la lecture fraîche pour **Pâques**, en automne pour **Noël** et de super **calendriers** avec des motifs de la littérature pour enfants et adolescents pour l'année prochaine.
 - Nouveau: dans l'édition d'automne 2020, vous trouverez également **Graphic Novels** et **Creative Crafts**!
-
-----
-
-Cover: neuerscheinungen.jpg
-
-----
-
-Seotitle: Toutes les listes de recommandations
-
-----
-
-Seodescription: Avec 10 000 nouveaux livres chaque année, vous perdez rapidement la trace - nous collectons le meilleur pour vous deux fois par an!

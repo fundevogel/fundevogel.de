@@ -2,10 +2,6 @@ Title: Abschluss des Lirum Larum Lesefestes 2016
 
 ----
 
-Date: 2016-10-20
-
-----
-
 Text:
 
 **Ein Sonnentag für Leseratten!**
@@ -15,4 +11,12 @@ Wir haben uns sehr über die vielen großen und kleinen Leseratten gefreut, die 
 
 ----
 
+Subtitle-wanted: false
+
+----
+
 Subtitle: Ein Sonnentag für Leseratten!
+
+----
+
+Date: 2016-10-20

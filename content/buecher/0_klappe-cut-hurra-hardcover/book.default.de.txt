@@ -10,6 +10,10 @@ Subtitle: Aufregende Drehtage in Berlin
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Kerstin Wacker; Henrik Hitzbleck
 
 ----
@@ -126,10 +130,6 @@ Awardedition:
 ----
 
 Leselink: 
-
-----
-
-Type: Hardcover
 
 ----
 

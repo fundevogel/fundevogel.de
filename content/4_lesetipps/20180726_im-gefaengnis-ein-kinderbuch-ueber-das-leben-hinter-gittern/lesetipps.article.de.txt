@@ -10,7 +10,11 @@ Verdict: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- u
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -29,8 +33,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Im Gefängnis - Ein Kinderbuch über das Leben hinter Gittern
+Isadvanced: false
 
 ----
 
-Seodescription: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.
+Meta-title: Im Gefängnis - Ein Kinderbuch über das Leben hinter Gittern
+
+----
+
+Meta-description: Verzeichnisse und Adressen finden sich im Anhang des Buches. Ein Vor- und Nachwort der Autoren runden dieses gelungene und einfühlsame Buch zu einem Thema ab, das kaum jemand wirklich kennt, und von dem doch ca. hunderttausend Kinder unmittelbar betroffen sind.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

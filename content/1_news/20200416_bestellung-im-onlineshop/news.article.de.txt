@@ -2,14 +2,6 @@ Title: Bestellung im Onlineshop
 
 ----
 
-Date: 2020-04-16
-
-----
-
-Subtitle: Transparenz schafft Verständnis
-
-----
-
 Text:
 
 In der Corona-Krise bleiben viele Geschäfte geschlossen und wir alle sind dazu aufgefordert zu Hause zu bleiben. Dieser Umstand hat zu einem starken Anstieg der Online-Bestellungen geführt - auch in der Buchbranche.
@@ -28,3 +20,15 @@ Deshalb möchten wir Ihnen den zweiten Lieferweg nahelegen, die Bestellung der B
 Wir hoffen, mit diesen Informationen zum Verständnis der aktuellen Situation beitragen zu können. Auch möchten wir uns bei Allen bedanken, die uns in diesen Zeiten mit einer Bestellung unterstützen.
 
 Bleiben Sie gesund, und  -  auf ein baldiges Wiedersehen im Fundevogel!
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Transparenz schafft Verständnis
+
+----
+
+Date: 2020-04-16

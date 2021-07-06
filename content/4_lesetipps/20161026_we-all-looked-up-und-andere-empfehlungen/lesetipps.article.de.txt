@@ -10,11 +10,11 @@ Derzeit gibt es so etwas wie einen Trend im Bereich der Jugendbücher: Geschicht
 
 ----
 
-Verdict:
+Verdict: 
 
 ----
 
-Conclusion:
+Conclusion: 
 
 ----
 
@@ -40,8 +40,112 @@ Isadvanced: true
 
 ----
 
-Seotitle: We all looked up ... und andere Empfehlungen
+Meta-title: "We all looked up" und andere Empfehlungen
 
 ----
 
-Seodescription: In dem Buch „we all looked up“ rast ein großer Asteroid auf die Erde zu. Vier noch so unterschiedliche Jugendliche müssen sich kurz vor ihrem Schulabschluss der Frage stellen: Was ist, wenn Dir nur noch zehn Wochen Zeit für Dein Leben bleiben? Was würdest Du tun? Wie würdest du handeln?
+Meta-description: Derzeit gibt es so etwas wie einen Trend im Bereich der Jugendbücher: Geschichten, die einem unter die Haut gehen, nicht weil etwa die Handlung so spannend …
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

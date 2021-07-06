@@ -10,6 +10,10 @@ Subtitle: Das Rätsel des verschollenen Mauseschatzes
 
 ----
 
+Type: Hardcover
+
+----
+
 Author: Torben Kuhlmann
 
 ----
@@ -130,7 +134,3 @@ Leselink:
 ----
 
 Participant: 
-
-----
-
-Type: Hardcover

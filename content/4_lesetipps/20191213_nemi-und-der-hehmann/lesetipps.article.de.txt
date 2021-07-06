@@ -14,7 +14,11 @@ Verdict: Eine berührende Geschichte, die von den zauberhaften Illustrationen vo
 
 ----
 
-Conclusion: 
+Conclusion:
+
+----
+
+Layouts: []
 
 ----
 
@@ -32,8 +36,116 @@ Isexternal: false
 
 ----
 
-Seotitle: Nemi und der Hehmann
+Isadvanced: false
 
 ----
 
-Seodescription: Eine berührende Geschichte, die von den zauberhaften Illustrationen von Hannah Jung lebt und uns die Kostbarkeit und Vielfältigkeit der Natur bewusst macht.
+Meta-title: Nemi und der Hehmann
+
+----
+
+Meta-description: Eine berührende Geschichte, die von den zauberhaften Illustrationen von Hannah Jung lebt und uns die Kostbarkeit und Vielfältigkeit der Natur bewusst macht.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type:
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:

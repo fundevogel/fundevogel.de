@@ -19,3 +19,7 @@ Caption: Im Fundevogel gibt es allerhand "Schätze" zu entdecken
 ----
 
 Template: image
+
+----
+
+Sort: 3

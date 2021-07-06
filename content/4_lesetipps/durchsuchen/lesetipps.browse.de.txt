@@ -1,21 +1,147 @@
 Title: Bücher-Suche
+
 ----
+
 Text:
+
 ## Vom Verweilen & stöbern
 Solltet ihr nicht auf Anhieb den richtigen Lesetipp finden, könnt ihr mithilfe unserer Bücher-Suche alle Lesetipps durchsuchen.
 
 Dabei ist es ganz egal, ob ihr nach dem Namen des Buches, einem bestimmten (link: lesetipps/themen text: Thema) oder sogar einer (short: ISBN desc: engl. 'International Standard Book Number') sucht, vielleicht ja auch nach AutorInnen, von denen ihr bereits etwas gelesen habt oder ob ihr wissen wollt, welche Verlage beteiligt sind: einfach Suchbegriff eingeben und rausfinden!
+
 ----
-Cover: durchsuchen.jpg
-----
+
 Details:
+
 ## Neue Suche
 Hier kannst du deine Suche starten, aber auch jederzeit ändern - los geht's!
+
 ----
+
 Perpage-wanted: true
+
 ----
+
 Perpage: 5
+
 ----
-Seotitle: Lesetipps durchsuchen
+
+Meta-title: Lesetipps durchsuchen
+
 ----
-Seodescription: Durchsucht unsere Lesetipps nach Belieben - hier wird jeder fündig!
+
+Meta-description: Durchsucht unsere Lesetipps nach Belieben - hier wird jede:r fündig!
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- durchsuchen.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- durchsuchen.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- durchsuchen.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Cover: durchsuchen.jpg

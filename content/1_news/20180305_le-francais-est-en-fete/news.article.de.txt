@@ -2,14 +2,6 @@ Title: Le français est en fête !
 
 ----
 
-Date: 2018-03-05
-
-----
-
-Subtitle: Ein Fest für die französische Sprache
-
-----
-
 Text:
 
 Vom 17.03. bis zum 25.03. wird weltweit die "Woche der französischen Sprache und der Frankophonie" (*Semaine de la langue française et de la Francophonie*) gefeiert.
@@ -27,3 +19,15 @@ Das Nähatelier kostet 5 € pro Kind (für das Material)
 Wir freuen uns auf Sie, à bientôt !
 
 Mehr Infos über die Woche hier: https://semainelanguefrancaise.culturecommunication.gouv.fr/
+
+----
+
+Subtitle-wanted: false
+
+----
+
+Subtitle: Ein Fest für die französische Sprache
+
+----
+
+Date: 2018-03-05

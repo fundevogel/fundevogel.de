@@ -19,3 +19,7 @@ Caption: Der Blick durchs Fenster ins Reich der "Phantasie"
 ----
 
 Template: image
+
+----
+
+Sort: 2

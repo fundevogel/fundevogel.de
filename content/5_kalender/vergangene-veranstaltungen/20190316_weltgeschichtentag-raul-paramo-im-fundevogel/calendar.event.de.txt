@@ -18,7 +18,7 @@ Category: Weltgeschichtentag
 
 ----
 
-Text: 
+Text:
 
 *"In einer Welt der konstanten Berieselung ist es vielleicht wichtiger denn je, innezuhalten und zu lauschen. Geschichten aktiv zuzuhören. Zu beobachten, wie erzählt wird und wie sich dadurch die Stimmung in einem Raum verändern kann. Einzutauchen in das Erzählte und Bilder im Kopf entstehen zu lassen."* (Hanna Böhme, Schirmherrin Weltgeschichtentage Freiburg)
 
@@ -30,11 +30,11 @@ Das komplette Programm der Weltgeschichtentage gibt es unter: www.weltgeschichte
 
 ----
 
-Begin-time: 12:00
+Begin-time: 12:00:00
 
 ----
 
-End-time: 13:30
+End-time: 13:30:00
 
 ----
 
