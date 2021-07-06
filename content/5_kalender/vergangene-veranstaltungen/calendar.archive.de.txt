@@ -11,16 +11,132 @@ Wenn ihr sehen wollt, welche aktuellen Veranstaltungen wir auf die Beine stellen
 
 ----
 
-Perpage-wanted: true
+Cover:
+
+- kalender.jpg
 
 ----
 
-Perpage: 10
+Meta-title: Veranstaltungsarchiv
 
 ----
 
-Seotitle: Veranstaltungsarchiv
+Meta-description: Hier findet ihr alle Informationen zu den vergangenen Veranstaltungen des Fundevogels.
 
 ----
 
-Seodescription: Hier findet ihr alle Informationen zu den vergangenen Veranstaltungen des Fundevogels.
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- kalender.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- kalender.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- kalender.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
+Seotitle:
+
+----
+
+Seodescription:

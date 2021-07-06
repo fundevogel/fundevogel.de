@@ -1,0 +1,21 @@
+Titleattribute: Nous attendons votre visite!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Signez avec le logo Fundevogel à l'extérieur de notre librairie
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Il se passe beaucoup de choses au Fundevogel - venez!
+
+----
+
+Template: image
