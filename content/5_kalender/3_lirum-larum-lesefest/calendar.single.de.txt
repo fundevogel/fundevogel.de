@@ -29,11 +29,129 @@ Previewimage:
 
 ----
 
-Seotitle: Freiburger Kinderliteraturfest "Lirum Larum Lesefest"
+Meta-title: Lirum Larum Lesefest
 
 ----
 
-Seodescription: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktober mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen tollen Mitmachaktionen.
+Meta-description: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktober mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen tollen Mitmachaktionen.
+
+----
+
+Meta-keywords:
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- lirum-larum-lesefest_logo.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
+Seotitle:
+
+----
+
+Seodescription:
 
 ----
 

@@ -25,7 +25,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 Favorites:
 
--
+- 
   title: ""
   book:
     - >
@@ -34,7 +34,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - >
@@ -43,7 +43,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - >
@@ -52,7 +52,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - >
@@ -61,7 +61,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - >
@@ -77,7 +77,7 @@ Favorites:
     Nimm sie zu dir nach Haus!
     Und was machen die Wörter dann bei mir?
     Die Wörter, sie spielen, sie spielen mit dir!
--
+- 
   title: ""
   book:
     - >
@@ -100,8 +100,146 @@ Cover:
 
 ----
 
-Seotitle: Gedichte & Lyrisches
+Meta-title: Gedichte & Lyrisches
 
 ----
 
-Seodescription: Kinder lieben Wiederholungen und Reime und haben Spaß dabei, Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und dabei Neues zu kreieren.
+Meta-description: Kinder lieben Wiederholungen und Reime und haben Spaß dabei, Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und dabei Neues zu kreieren.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- gedichtband.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- gedichtband.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- gedichtband.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -18,7 +18,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 Favorites:
 
--
+- 
   title: ""
   book:
     - >
@@ -43,7 +43,7 @@ Favorites:
     Gitarrenklängen machen dieses Hörspiel
     zu einem echten Erlebnis. Mann kann den
     Mississippi fast vor sich sehen!
--
+- 
   title: ""
   book:
     - buecher/der-raeuber-hotzenplotz-hoerbuch
@@ -51,7 +51,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: Harry Potter
   book:
     - >
@@ -71,13 +71,13 @@ Favorites:
   hasquote: 'true'
   person: Martin F.
   quote: 'Rufus Becks wandelbare Stimme erweckt Charaktere und Kreaturen der weltberühmten Zaubererwelt zum Leben - besser als die Kinofilme!'
--
+- 
   title: ""
   book:
     - buecher/krabat-hoerbuch
   text: |
     Ein Traum lockt Krabat zur Mühle am Koselbruch, vor der alle warnen, weil es dort nicht ganz geheuer sei. Ein leichtes und schönes Leben wird Krabat hier versprochen. Doch der Preis dafür ist hoch. Und aus der Verstrickung mit dem Bösen kann ihn nur die bedingungslose Liebe eines Mädchens retten ..
-
+    
     Otfried Preußlers Meisterwerk vom magisch-düsteren Spiel um die Freiheit des Menschen - vom Autor selbst gelesen!
   hasquote: 'false'
   person: Janina B.
@@ -91,7 +91,7 @@ Favorites:
     Otfried Preußlers rollendes "R" und das
     Düstere und das Freundliche in seiner
     Stimme.
--
+- 
   title: ""
   book:
     - >
@@ -105,7 +105,7 @@ Favorites:
     gesprochen und eignet sich so
     hervorragend als Einstieg in die Welt
     der Hörbücher / Hörspiele.
--
+- 
   title: ""
   book:
     - buecher/die-kaenguruh-chroniken-hoerbuch
@@ -113,7 +113,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
--
+- 
   title: ""
   book:
     - buecher/der-kleine-ritter-trenk-hoerbuch
@@ -144,8 +144,146 @@ Cover:
 
 ----
 
-Seotitle: Hörbücher
+Meta-title: Hörbücher
 
 ----
 
-Seodescription: Hörbüchern gelingt es durch betontes Lesen und die Untermalung mit Musik und Geräuschen, uns auf eine akkustische Reise in die Geschichte mitzunehmen.
+Meta-description: Hörbüchern gelingt es durch betontes Lesen und die Untermalung mit Musik und Geräuschen, uns auf eine akkustische Reise in die Geschichte mitzunehmen.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- hoerbuch.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- hoerbuch.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- hoerbuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
