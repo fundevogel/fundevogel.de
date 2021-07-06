@@ -6,7 +6,7 @@
     ;
 
     # Description
-    $description = $page->meta_description()->or($page->text()->excerpt(180))->or($site->meta_description());
+    $description = $page->meta_description()->or($page->text()->excerpt(160))->or($site->meta_description());
 ?>
 
 <!-- Schema -->
@@ -61,7 +61,7 @@
 <meta property="og:url" content="<?= $page->og_url()->or($page->url()) ?>">
 <meta property="og:type" content="<?= $page->og_type()->or($site->og_type()) ?>">
 <?php if ($page->og_determiner()->or($site->og_determiner())->isNotEmpty()) : ?>
-<meta property="og:determiner" content="<?= $page->og_determiner()->or($site->og_determiner())->or("auto") ?>">
+<meta property="og:determiner" content="<?= $page->og_determiner()->or($site->og_determiner())->or('auto') ?>">
 <?php endif ?>
 <?php if ($page->og_audio()->isNotEmpty()) : ?>
 <meta property="og:audio" content="<?= $page->og_audio() ?>">
