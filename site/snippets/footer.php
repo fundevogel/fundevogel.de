@@ -35,9 +35,9 @@
                                 <span class="px-2"><?= t('Abonnieren') ?></span>
                             </a>
                             <?php if ($site->instagram()->isNotEmpty()) : ?>
-                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->instagram() ?>" title="<?= t('Digitale Geschichten') ?>" target="_blank">
+                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->instagram() ?>" title="<?= t('Instagram') ?>" target="_blank">
                                 <?= useSVG('Instagram', 'w-6 h-6 fill-current') ?>
-                                <span class="px-2"><?= t('Instagram') ?></span>
+                                <span class="px-2"><?= t('Digitale Geschichten') ?></span>
                             </a>
                             <?php endif ?>
                         </div>
