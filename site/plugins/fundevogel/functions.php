@@ -2,20 +2,14 @@
 
 function loadCSS ()
 {
-    # Determine base path
-    $cssPath = url('assets/styles/');
-
     # (1) When in production ..
     if (option('environment') == 'production') {
         # .. provide `style` tag & minified inline CSS
-        return Html::tag('style',
-            F::read($cssPath . 'main.min.css'),
-            ['nonce' => site()->nonce()],
-        );
+        return '<style nonce="' . site()->nonce() . '">' . F::read(kirby()->root('assets') . '/styles/main.min.css') . '</style>';
     }
 
     # (2) Otherwise, provide `link` tag & unminified CSS file
-    return css($cssPath . 'main.css');
+    return css('assets/styles/main.css');
 }
 
 
