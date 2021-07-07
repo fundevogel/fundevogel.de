@@ -10,7 +10,7 @@ function loadCSS ()
         # .. provide `style` tag & minified inline CSS
         return Html::tag('style',
             F::read($cssPath . 'main.min.css'),
-            ['nonce' => $site->nonce()],
+            ['nonce' => site()->nonce()],
         );
     }
 
