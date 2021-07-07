@@ -19,7 +19,7 @@ Vagrant.configure(2) do |config|
         driver: 'kvm',
         ip: '192.168.69.69',
         synced_folder: '/vagrant',
-        mount_options: ['nolock, vers=3, udp, actimeo=2'],
+        mount_options: ['nolock,actimeo=2'],
         cpus: 2,
         memory: 2048,
         ansible: '2.9.6',
@@ -31,6 +31,7 @@ Vagrant.configure(2) do |config|
     config.vm.hostname = conf[:name]
     config.vm.box = conf[:image]
     config.vm.synced_folder '.', conf[:synced_folder], type: 'nfs', mount_options: conf[:mount_options]
+    # config.vm.synced_folder '.', conf[:synced_folder], type: 'nfs'
 
     # Network settings
     config.vm.network :private_network, ip: conf[:ip]
@@ -52,9 +53,6 @@ Vagrant.configure(2) do |config|
     # See https://github.com/mitchellh/vagrant/issues/5005
     config.ssh.insert_key = false
     config.ssh.keep_alive = true
-
-    # Enable SSH agent forwarding
-    config.ssh.forward_agent = true
 
     # Provision VM using Ansible
     # See https://www.vagrantup.com/docs/provisioning/ansible_local

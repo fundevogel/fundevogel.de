@@ -58,7 +58,6 @@ fieldsets:
       - image
       - video
       - books
-
       gallery:
         extends: blocks/gallery
         fields:

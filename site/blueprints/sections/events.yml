@@ -1,7 +1,6 @@
 type: pages
 headline: Events
-parent: site.find("kalender")
-sortBy: from asc
+parent: site.find('kalender')
 template: calendar.event
 empty: No events yet
 sortBy: date desc
