@@ -2,12 +2,15 @@
 
 <header class="container">
     <div class="flex flex-col lg:flex-row">
-        <div class="flex-1 text-center">
-            <div class="mb-4">
-                <?= $page->kontaktinfos()->kt() ?>
+        <div class="flex-1">
+            <div class="mb-8">
+                <?= $page->text()->kt() ?>
             </div>
-            <div>
-                <?= $page->oeffnungszeiten()->kt() ?>
+            <div class="mb-4 text-center">
+                <?= snippet('contact/contact-details') ?>
+            </div>
+            <div class="text-center">
+                <?php snippet('contact/opening-hours') ?>
             </div>
         </div>
         <div class="mt-12 flex-none text-center">

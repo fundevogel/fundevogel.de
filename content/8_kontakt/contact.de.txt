@@ -2,7 +2,14 @@ Title: Kontakt
 
 ----
 
-Bike: Der Fundevogel liegt zentral in der idyllischen Altstadt Freiburgs, nur zwei Gehminuten entfernt vom Augustinerplatz. Es führen viele Wege zu uns. Vom Augustinerplatz kommend, geht Ihr an der Brauerei Feierling vorbei und überquert rechts den Gewerbebach über die Brücke beim Krokodil. Nun geht es noch einige Meter geradeaus, bis Ihr den Fundevogel auf der linken Seite sehen könnt. Die Buchhandlung befindet sich direkt gegenüber dem Museum für Neue Kunst.
+Text:
+
+## Euer Weg zu uns
+Unsere Buchhandlung befndet sich in der idyllischen Marienstraße am Rande der südlichen Altstadt, noch innerhalb der Fußgängerzone, in einem gemütlichen Viertel, dessen ganz eigene Magie Einheimische und Touristen gleichermaßen zum Verweilen einlädt - kommt und seht selbst!
+
+----
+
+Bike: Der Fundevogel ist nur zwei Gehminuten entfernt vom Augustinerplatz. Es führen viele Wege zu uns. Vom Augustinerplatz kommend, geht Ihr an der Brauerei Feierling vorbei und überquert rechts den Gewerbebach über die Brücke beim Krokodil. Nun geht es noch einige Meter geradeaus, bis Ihr den Fundevogel auf der linken Seite sehen könnt. Die Buchhandlung befindet sich direkt gegenüber dem Museum für Neue Kunst.
 
 ----
 
@@ -20,20 +27,19 @@ Cover:
 
 ----
 
-Kontaktinfos:
-
-## Kontaktinfos
-Marienstr. 13 - 79098 Freiburg
-Tel.: 0761/25218 - Fax: 0761/30041
-info@fundevogel.de
+Weekstart: 09:30:00
 
 ----
 
-Oeffnungszeiten:
+Weekend: 18:00:00
 
-## Öffnungszeiten
-Montag bis Freitag: 9:30 Uhr - 18:30 Uhr
-Samstag: 9:30 - 16:30 Uhr
+----
+
+Weekendstart: 09:30:00
+
+----
+
+Weekendend: 16:00:00
 
 ----
 
@@ -41,7 +47,7 @@ Meta-title: Für Euch erreichbar
 
 ----
 
-Meta-description: Ihr erreicht uns wochentags 9:00–18:30 Uhr, samstags 9:00–16:00 Uhr im Ladengeschäft und unter 0761/25218 oder auch per Mail an info@fundevogel.de.
+Meta-description: Ihr erreicht uns wochentags 9:30–18:30 Uhr, samstags 9:30–16:00 Uhr im Ladengeschäft und unter 0761/25218 oder auch per Mail an info@fundevogel.de.
 
 ----
 
@@ -152,3 +158,24 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Kontaktinfos:
+
+## Kontaktinfos
+Marienstr. 13 - 79098 Freiburg
+Tel.: 0761/25218 - Fax: 0761/30041
+info@fundevogel.de
+
+----
+
+Oeffnungszeiten: 
+
+----
+
+Time-start: 09:30:00
+
+----
+
+Time-end: 18:00:00

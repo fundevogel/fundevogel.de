@@ -6,7 +6,14 @@ Slug: contact
 
 ----
 
-Bike: The Fundevogel book store is centrally located in Freiburg's picturesque Old Town, only two minutes afoot from Augustinerplatz. From there you go past the famous Feierling Brewery, turn right and cross the bridge spanning the Gewerbebach (beware of the crocodile). Following the street you can see our book store on the left, opposite to the (link: http://www.freiburg.de/pb/,Len/237848.html text: Museum für Neue Kunst target: blank).
+Text:
+
+## Your way to us
+Our bookshop is located on the idyllic Marienstraße in Freiburg's picturesque southern Old Town, within the pedestrian zone, in a comfortable neighbourhood whose very own magic invites indigenous people and tourists alike to indulge – come and see for yourselves!
+
+----
+
+Bike: The Fundevogel bookstore is only two minutes afoot from central Augustinerplatz. From there you go past the famous Feierling Brewery, turn right and cross the bridge spanning the Gewerbebach (beware of the crocodile). Following the street you can see our book store on the left, opposite to the (link: http://www.freiburg.de/pb/,Len/237848.html text: Museum für Neue Kunst target: blank).
 
 ----
 
@@ -14,13 +21,131 @@ Car: You can also reach our book store by car via Wallstraße, turning into Mari
 
 ----
 
-Tram: Or you just take the tram - the nearest tram stops are „Bertoldsbrunnen“, „Holzmarkt“ (multiple tramlines) and „Oberlinden“(tramline 1).
+Tram: Or you just take the tram - the nearest tram stops are "Bertoldsbrunnen", "Holzmarkt" (multiple tramlines) and "Oberlinden" (tramline 1).
 
 ----
 
 Cover:
 
 - stadtkarte-fundevogel.jpg
+
+----
+
+Meta-title: Contact Us
+
+----
+
+Meta-description: Get in touch, call us, send an email or visit our lovely bookstore, where the latest and greatest children's books are waiting for you.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- stadtkarte-fundevogel.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
 
 ----
 
@@ -36,123 +161,13 @@ Mail: info@fundevogel.de
 Oeffnungszeiten:
 
 ## Opening hours
-Monday to friday: 9am - 6.30pm
-Saturday: 9am - 4pm
+Monday to friday: 9am - 6.00pm
+Saturday: 9am - 4.00pm
 
 ----
 
-Meta-title: Contact Us
+Time-start: 09:30:00
 
 ----
 
-Meta-description: Get in touch, call us, send an email or visit our lovely bookstore, where the latest and greatest children's books are waiting for you.
-
-----
-
-Meta-keywords:
-
-----
-
-Meta-canonical-url:
-
-----
-
-Meta-author:
-
-----
-
-Meta-image:
-
-- stadtkarte-fundevogel.jpg
-
-----
-
-Meta-phone-number:
-
-----
-
-Og-title:
-
-----
-
-Og-description:
-
-----
-
-Og-image:
-
-- stadtkarte-fundevogel.jpg
-
-----
-
-Og-site-name:
-
-----
-
-Og-url:
-
-----
-
-Og-audio:
-
-----
-
-Og-video:
-
-----
-
-Og-determiner:
-
-----
-
-Og-type: website
-
-----
-
-Og-type-article-published-time:
-
-----
-
-Og-type-article-modified-time:
-
-----
-
-Og-type-article-expiration-time:
-
-----
-
-Og-type-article-author:
-
-----
-
-Og-type-article-section:
-
-----
-
-Og-type-article-tag:
-
-----
-
-Twitter-title:
-
-----
-
-Twitter-description:
-
-----
-
-Twitter-image:
-
-- stadtkarte-fundevogel.jpg
-
-----
-
-Twitter-card-type: summary_large_image
-
-----
-
-Twitter-site:
-
-----
-
-Twitter-creator:
+Time-end: 18:00:00
