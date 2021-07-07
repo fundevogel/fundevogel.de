@@ -28,7 +28,7 @@ Ergänzend zum Buch gibt es (link: https://youtu.be/r5Z4hoke8MY text: einen kurz
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

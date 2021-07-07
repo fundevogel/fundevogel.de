@@ -22,7 +22,7 @@ Die kurzen, aber gut formulierten Texte ergeben zusammen mit den anschaulichen u
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

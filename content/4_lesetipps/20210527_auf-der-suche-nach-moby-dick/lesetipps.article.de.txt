@@ -24,7 +24,7 @@ Für den schulischen Einsatz haben die Unterrichtenden ein Buch vor sich, das vi
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

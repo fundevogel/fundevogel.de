@@ -14,7 +14,7 @@ Conclusion: Wusstet ihr, dass Juli Zeh nicht nur Autorin, sondern auch Pferdeexp
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

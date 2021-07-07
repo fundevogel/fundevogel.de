@@ -22,7 +22,7 @@ Neben der spannenden Geschichte mit dem halb-versöhnlichen Ende und den Illustr
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

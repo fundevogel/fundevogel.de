@@ -22,7 +22,7 @@ Symbolisch zieht sich durch das ganze Buch von Seite zu Seite ein Faden. Der far
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

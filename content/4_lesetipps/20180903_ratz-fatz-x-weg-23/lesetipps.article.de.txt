@@ -25,7 +25,7 @@ Will der Rektor ihre Lügengeschichte anfangs noch aufdecken, lässt er sich bal
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

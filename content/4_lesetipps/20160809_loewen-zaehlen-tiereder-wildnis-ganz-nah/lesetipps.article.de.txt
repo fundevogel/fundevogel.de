@@ -23,7 +23,7 @@ Das Buch sprengt nicht nur die Genres von Sach- bis Bilderbuch, es lässt auch k
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

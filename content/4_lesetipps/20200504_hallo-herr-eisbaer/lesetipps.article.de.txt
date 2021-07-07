@@ -18,7 +18,7 @@ Conclusion: Neben der Erzählung, in die Tagebucheinträge von Arthur eingefloch
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

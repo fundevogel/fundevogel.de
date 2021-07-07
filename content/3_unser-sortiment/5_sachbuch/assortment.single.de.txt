@@ -11,7 +11,7 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

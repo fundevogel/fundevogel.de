@@ -14,7 +14,7 @@ Conclusion:
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

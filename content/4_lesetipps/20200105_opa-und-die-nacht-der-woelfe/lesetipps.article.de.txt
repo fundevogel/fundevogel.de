@@ -22,7 +22,7 @@ In den letzten Jahren wurden einige sehr gute Kinderbücher zum Thema Demenz ver
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

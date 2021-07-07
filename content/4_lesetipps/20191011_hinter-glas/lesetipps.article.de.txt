@@ -24,7 +24,7 @@ Die intertextuellen Bezüge zu Lewis Carrolls "Alice im Wunderland" sind nicht n
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

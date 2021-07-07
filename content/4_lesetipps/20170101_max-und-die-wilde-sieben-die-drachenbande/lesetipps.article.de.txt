@@ -22,7 +22,7 @@ Im Gewand einer humorvollen Detektivgeschichte wird ein relevantes Thema unserer
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

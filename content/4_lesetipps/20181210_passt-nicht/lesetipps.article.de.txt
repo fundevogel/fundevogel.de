@@ -28,7 +28,7 @@ So müssen Bilderbücher sein! Vordergründig illustrieren sie zumeist eine Gesc
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

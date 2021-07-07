@@ -29,7 +29,7 @@ Der "Atlas der Meerjungfrauen" gibt einen Einblick in das fantastische Reich der
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

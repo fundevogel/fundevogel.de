@@ -24,7 +24,7 @@ Deutschs Graphic Novel ist ein herausragend berauschendes Bilderwerk über eine 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

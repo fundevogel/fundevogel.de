@@ -18,7 +18,7 @@ Conclusion: Das Buch liefert uns eine Geschichte mit positivem Ausgang, in der j
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

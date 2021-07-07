@@ -19,7 +19,7 @@
     },
     "require": {
         "php": ">=7.2.0",
-        "getkirby/cms": "3.5.7",
+        "getkirby/cms": "3.5.7.1",
         "afbora/kirby-minify-html": "1.5.0",
         "bnomei/kirby3-feed": "1.3.10",
         "bnomei/kirby3-fingerprint": "3.0.13",

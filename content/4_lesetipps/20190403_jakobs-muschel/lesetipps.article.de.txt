@@ -20,7 +20,7 @@ Conclusion:
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

@@ -22,7 +22,7 @@ Auch Umweltschutz und Nachhaltigkeit sowie biochemische Vorgänge sind Gegenstan
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

@@ -28,7 +28,7 @@ Die sehr sympathische kleine Maus mit dem starken Willen und ihr Erschaffer habe
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

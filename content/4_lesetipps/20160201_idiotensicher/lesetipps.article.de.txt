@@ -24,7 +24,7 @@ So hat man hier ein Buch, das sich den Themen Freundschaft, Moral und Erwachsenw
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

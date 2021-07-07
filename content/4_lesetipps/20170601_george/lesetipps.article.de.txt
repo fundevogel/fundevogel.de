@@ -20,7 +20,7 @@ Wenn Alex Gino zugibt, dass er aus eigener Erfahrung weiß, dass "transgender Ki
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

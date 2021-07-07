@@ -28,7 +28,7 @@ Die vorhandenen Widersprüche irritieren zunächst und lösen sich letztlich woh
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

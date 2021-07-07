@@ -26,7 +26,7 @@ Abgerundet wird das ganze durch eine Weltkarte, die die Routen der einzelnen Tie
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

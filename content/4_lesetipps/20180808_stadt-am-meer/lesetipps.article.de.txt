@@ -27,7 +27,7 @@ Die Geschichte wie die Bilder sind für Kinder ab 4 Jahren verständlich und nac
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

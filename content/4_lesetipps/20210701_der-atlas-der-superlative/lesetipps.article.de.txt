@@ -24,7 +24,7 @@ Spannende Sachen aus der ganzen Welt sind in diesem gut recherchierten Werk zusa
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

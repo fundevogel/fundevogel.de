@@ -20,7 +20,7 @@ Durch diese Verbindung von Zugänglichkeit und Komplexität gestaltet sich der R
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

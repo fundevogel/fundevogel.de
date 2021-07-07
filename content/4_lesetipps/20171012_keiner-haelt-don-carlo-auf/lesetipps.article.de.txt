@@ -14,7 +14,7 @@ Conclusion: Übrigens: Oliver Scherz, der Autor dieser Geschichte, ist im Oktobe
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

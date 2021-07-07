@@ -24,7 +24,7 @@ Der Autorin Charlotte Guillain und dem Illustrator Yuval Zommer ist mit dem Lepo
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

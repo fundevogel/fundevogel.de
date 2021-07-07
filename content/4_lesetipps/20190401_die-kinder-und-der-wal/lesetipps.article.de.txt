@@ -24,7 +24,7 @@ Das Herz geht einem über am Ende der Geschichte, und man muss danach erst einma
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

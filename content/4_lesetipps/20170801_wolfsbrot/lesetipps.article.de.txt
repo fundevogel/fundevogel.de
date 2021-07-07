@@ -28,7 +28,7 @@ Ein sehr beeindruckendes Buch, das Sonja Müller-Späth als Gesamtkunstwerk konz
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

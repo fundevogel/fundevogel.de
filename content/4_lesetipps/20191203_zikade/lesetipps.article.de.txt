@@ -22,7 +22,7 @@ Es ist eine bittere Hoffnung, die gerade wegen ihrer grotesken Einzigartigkeit e
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

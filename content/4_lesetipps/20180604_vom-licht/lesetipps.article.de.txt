@@ -27,7 +27,7 @@ Wenn Adams Schwester mit ihrem Freund zusammenzieht, scheint der innerfamiliäre
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

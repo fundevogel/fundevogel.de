@@ -11,7 +11,7 @@ Wir haben für euch viele tolle Vorlesebücher ausgewählt, mit denen sich gemei
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

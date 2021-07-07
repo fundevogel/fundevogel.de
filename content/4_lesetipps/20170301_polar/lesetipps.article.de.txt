@@ -22,7 +22,7 @@ Während schon kleine Kinder Freude an diesen tollen Bildern haben werden, dürf
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

@@ -22,7 +22,7 @@ Antoine entwickelt sich zum Beispiel auch in seiner Rolle als großer Bruder wei
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

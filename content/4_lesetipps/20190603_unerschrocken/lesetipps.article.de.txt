@@ -22,7 +22,7 @@ Es handelt sich bei den Darstellungen der Lebensgeschichten nicht um historisch 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

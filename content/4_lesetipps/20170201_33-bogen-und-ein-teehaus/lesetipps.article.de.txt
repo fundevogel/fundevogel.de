@@ -24,7 +24,7 @@ Die Aufzählung der bewegenden, unvergesslichen - zu keiner Zeit rührseligen - 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

@@ -24,7 +24,7 @@ Für Kinder ab dem Kindergartenalter ist es ein lehrreiches Buch mit vielen Info
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

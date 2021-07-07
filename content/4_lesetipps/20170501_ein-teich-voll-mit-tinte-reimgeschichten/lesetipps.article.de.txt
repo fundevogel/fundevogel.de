@@ -23,7 +23,7 @@ Alle in dem Band versammelten Geschichten befördern nicht nur inhaltlich, sonde
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

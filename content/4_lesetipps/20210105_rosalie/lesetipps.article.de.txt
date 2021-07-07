@@ -30,7 +30,7 @@ Trotz einer Altersempfehlung ab 9 Jahren sollte dieses Buch aufgrund der Themati
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

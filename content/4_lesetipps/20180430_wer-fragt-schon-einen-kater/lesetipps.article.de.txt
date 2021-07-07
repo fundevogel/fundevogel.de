@@ -24,7 +24,7 @@ Die Illustrationen greifen Teile der Handlung auf und stellen diese überspitzt 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

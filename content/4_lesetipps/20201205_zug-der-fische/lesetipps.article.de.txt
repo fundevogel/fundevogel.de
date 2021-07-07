@@ -30,7 +30,7 @@ Die Bilder bieten nicht nur eine Veranschaulichung der ukrainisch-ländlichen Al
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

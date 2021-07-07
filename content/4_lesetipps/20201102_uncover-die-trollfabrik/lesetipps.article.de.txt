@@ -24,7 +24,7 @@ Neben der Haupthandlung entwirft Manfred Theisen einen interessanten Hauptcharak
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

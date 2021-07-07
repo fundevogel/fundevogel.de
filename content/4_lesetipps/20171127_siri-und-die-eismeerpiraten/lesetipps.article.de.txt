@@ -20,7 +20,7 @@ Conclusion: Mich hat das Buch oft an Ronja und Birk erinnert, an Momo oder Jim K
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

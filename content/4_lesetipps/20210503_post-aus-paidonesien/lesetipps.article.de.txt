@@ -27,7 +27,7 @@ Die insgesamt 57 Briefe und E-Mails bilden mit jeweils ein, maximal zwei Seiten 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

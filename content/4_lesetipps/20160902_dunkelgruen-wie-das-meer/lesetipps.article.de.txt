@@ -22,7 +22,7 @@ Mit seinen etwas dickeren Seiten und einem gewellten, kräftigen Vorsatzpapier i
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

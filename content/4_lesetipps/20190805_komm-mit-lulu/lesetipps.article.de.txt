@@ -25,7 +25,7 @@ Die ganze Botschaft der Geschichte zeigt sich zum Schluss, wenn nämlich der Kat
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

@@ -22,7 +22,7 @@ Die Aufnahmen der CD sind von guter Qualität und die ausgewählten Stücke mit 
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

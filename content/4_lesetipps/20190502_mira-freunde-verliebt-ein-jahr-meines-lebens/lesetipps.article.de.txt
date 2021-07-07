@@ -23,7 +23,7 @@ Die Graphic Novel eignet sich zur Unterhaltung ebenso wie für den Literaturunte
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

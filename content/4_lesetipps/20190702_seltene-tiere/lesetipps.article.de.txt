@@ -23,7 +23,7 @@ Der Autor Martin Jenkins versteht auf besondere Weise Fakten in historische Hint
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

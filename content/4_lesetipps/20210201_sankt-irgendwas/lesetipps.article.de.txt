@@ -40,7 +40,7 @@ Tamara Bach entwirft ein unterhaltsames Manifest über die Gerechtigkeit und die
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 

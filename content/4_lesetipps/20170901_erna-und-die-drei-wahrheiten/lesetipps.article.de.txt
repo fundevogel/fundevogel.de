@@ -24,7 +24,7 @@ Ernas Leidenschaft für besondere Wörter inspiriert, sich mit unbekannten Worte
 
 ----
 
-Layouts: []
+Layouts:
 
 ----
 
