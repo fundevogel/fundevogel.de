@@ -33,7 +33,17 @@ return [
                 return kirby()->collection('news')->limit(12)->feed($options);
             }
 
-            return go('news/#' . $any);
+            $identifiers = [];
+
+            foreach (kirby()->collection('news')->limit(page()->perpage()->int()) as $article) {
+                $identifiers[] = $article->slug();
+            }
+
+            if (in_array($any, $identifiers) === true) {
+                return go('/#' . $any);
+            }
+
+            return go('/');
         }
     ],
     [
