@@ -33,8 +33,6 @@
         src: /etc/nginx/sites-available/kirby.conf
         dest: /etc/nginx/sites-enabled/kirby.conf
         state: link
-      notify:
-        - Restart NGINX
 
   when: nginx_added is success
 
@@ -52,7 +50,5 @@
       file:
         path: /vagrant/generate_ssl_cert.sh
         state: absent
-      notify:
-        - Restart NGINX
 
   when: nginx_added is success

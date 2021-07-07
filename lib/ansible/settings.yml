@@ -19,7 +19,7 @@ php_version: 7.4
 # Server settings
 post_max_size: 0      # disabled
 execution_time: 180   # in s
-memory_limit: 256     # in MB
+memory_limit: 2048    # in MB
 max_upload: 512       # in MB
 max_file_uploads: 25
 

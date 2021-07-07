@@ -1,12 +1,13 @@
 ---
-- hosts: all
+- name: Initialize "KirbyDev" VM
+  hosts: all
   become: true
 
-  # Load configuration
+  # Write grocery list
   vars_files:
     - settings.yml
 
-  # Install prerequisites
+  # Buy snacks & drinks
   pre_tasks:
     - name: Install required packages
       apt:
@@ -14,10 +15,22 @@
         state: latest
         update_cache: yes
 
-  # Party time
+  # Party time!
   tasks:
+    - name: PHP
+      include: php/play.yml
+
     - name: NGINX
       include: nginx/play.yml
 
-    - name: PHP
-      include: php/play.yml
+  # Clean up the mess
+  post_tasks:
+    - name: Restart PHP-FPM
+      service:
+        name: php{{ php_version }}-fpm
+        state: restarted
+
+    - name: Restart NGINX
+      service:
+        name: nginx
+        state: restarted

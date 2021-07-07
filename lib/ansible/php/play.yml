@@ -54,7 +54,5 @@
       template:
         src: templates/php-fpm.conf.j2
         dest: /etc/php/{{ php_version }}/fpm/pool.d/kirby.conf
-      notify:
-        - Restart PHP-FPM
 
   when: php_fpm_added is success
