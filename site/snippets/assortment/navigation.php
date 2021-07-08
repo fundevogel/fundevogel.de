@@ -1,7 +1,7 @@
 <div class="container xl:px-8">
     <h2 class="mb-12 text-center"><?= t('Sortiment-Überschrift') ?></h2>
     <div class="js-masonry">
-        <?php foreach (page('unser-sortiment')->children()->listed()->sortBy('title', 'asc')->onlyTranslated() as $category) : ?>
+        <?php foreach ($kirby->collection('assortment') as $category) : ?>
         <?php if ($category->hasCover()) : ?>
         <div class="flex justify-center">
             <figure class="group table relative<?php e($category->isOpen(), ' cursor-default') ?>"<?php e($category->isOpen(), ' title="' . t('Du bist hier') . '"') ?>>

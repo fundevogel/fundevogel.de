@@ -21,9 +21,7 @@ Favorites:
 
 ----
 
-Cover:
-
-- hoerbuch.jpg
+Short: Audiobooks bring stories to life and take their listeners with them: read aloud by one or more speakers, accompanied with ambient or exciting music or sound effects, the audience embarks on an acoustic journey.
 
 ----
 

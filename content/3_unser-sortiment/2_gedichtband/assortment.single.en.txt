@@ -13,7 +13,7 @@ Children love repetitions and rhymes and have a lot of fun playing with the lang
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Sprache wachsen sehen"},"id":"992d6bc0-fb0c-4288-bf23-7ed27567e059","isHidden":false,"type":"heading"},{"content":{"text":"<p>Kinder lieben Wiederholungen und Reime und haben viel Spa\u00df dabei, selbst mit der Sprache zu spielen: Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und Wortneusch\u00f6pfungen zu kreieren. Gute Kindergedichte, die Sprache zum Klingen bringen, die Freude an Lyrik wecken und die Phantasie befl\u00fcgeln finden sich etwa in dem wundervollen Gedichtb\u00e4nden \"Ich liebe dich wie Apfelmus\" von Amelie Fried und Sybille Hein.<\/p>"},"id":"8ea60aa6-9566-42ef-8d11-65604402f658","isHidden":false,"type":"text"}],"id":"7e4852d1-e4ce-461f-ad73-597520269569","width":"1\/1"}],"id":"273f0028-a8a1-4a7b-b6f8-fd97679ad803"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[],"id":"7e4852d1-e4ce-461f-ad73-597520269569","width":"1\/1"}],"id":"273f0028-a8a1-4a7b-b6f8-fd97679ad803"}]
 
 ----
 
@@ -21,9 +21,7 @@ Favorites:
 
 ----
 
-Cover:
-
-- gedichtband.jpg
+Short: Children's poems touch a cord, they turn language into melodies! Children love repetitions and rhymes and enjoy playing with their own language: twisting letters and words, forming (sometimes nonsensical) rhymes and creating new words.
 
 ----
 

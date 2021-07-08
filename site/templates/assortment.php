@@ -17,8 +17,9 @@
     <?= $page->details()->kt() ?>
 </section>
 <hr>
-<footer>
-    <?php snippet('assortment/navigation') ?>
-</footer>
+<section class="container">
+    <h2 class="mb-0 text-center"><?= t('Sortiment-Überschrift') ?></h2>
+    <?php snippet('assortment/overview') ?>
+</section>
 
 <?php snippet('footer') ?>

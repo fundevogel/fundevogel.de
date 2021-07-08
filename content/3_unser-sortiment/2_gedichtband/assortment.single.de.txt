@@ -25,7 +25,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -34,7 +34,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -43,7 +43,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -52,7 +52,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -61,7 +61,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -77,7 +77,7 @@ Favorites:
     Nimm sie zu dir nach Haus!
     Und was machen die Wörter dann bei mir?
     Die Wörter, sie spielen, sie spielen mit dir!
-- 
+-
   title: ""
   book:
     - >
@@ -100,6 +100,10 @@ Cover:
 
 ----
 
+Short: So manches Kindergedicht bringt Sprache zum Klingen! Kinder lieben Wiederholungen und Reime und haben viel Spaß dabei, selbst mit der Sprache zu spielen: Buchstaben und Worte zu verdrehen, (unsinnige) Reime zu bilden und Wortneuschöpfungen zu kreieren.
+
+----
+
 Meta-title: Gedichte & Lyrisches
 
 ----
@@ -108,15 +112,15 @@ Meta-description: Kinder lieben Wiederholungen und Reime und haben Spaß dabei, 
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -126,15 +130,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -144,23 +148,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -168,35 +172,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -210,8 +214,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:

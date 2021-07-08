@@ -12,10 +12,7 @@ tabs:
           type: markdown
 
         short:
-          label:
-            de: Kurzbeschreibung
-            en: Short description
-          type: markdown
+          extends: fields/short
           help:
             de: Erscheint auf der 'Kalender'-Seite.
             en: Displayed on 'calendar' page.

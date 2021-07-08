@@ -1,6 +1,8 @@
 <?php
 
-return function ($page) {
+return function ($page, $kirby) {
+    $categories = $kirby->collection('assortment');
+
     # Gather gallery images
     $images = new Files();
 
@@ -8,11 +10,12 @@ return function ($page) {
     $images->add($page->cover()->toFile());
 
     # (2) Add 'assortment.single' cover images
-    foreach ($page->children()->listed()->filterBy('intendedTemplate', 'assortment.single') as $child) {
-        $images->add($child->cover()->toFile());
+    foreach ($kirby->collection('assortment') as $category) {
+        $images->add($category->cover()->toFile());
     }
 
     return [
+        'categories' => $categories,
         'images' => $images,
         'caption' => $page->caption()->html(),
     ];

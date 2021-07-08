@@ -11,13 +11,13 @@ Für ältere Kinder und Jugendliche haben wir ein breites Sortiment an Romanen a
 
 ----
 
-Layouts:
+Layouts: 
 
 ----
 
 Favorites:
 
--
+- 
   title: ""
   book:
     - buecher/momo-hardcover
@@ -28,7 +28,7 @@ Favorites:
     Zeitlos gut! Ein Buch, das voller
     Weisheit steckt und Klein und Groß zum
     Nachdenken bringt.
--
+- 
   title: ""
   book:
     - >
@@ -52,9 +52,9 @@ Favorites:
   person: Ips
   quote: |
     Als Kind konnte ich mit Karl May überhaupt nichts anfangen. Statt dessen verschlang ich die Bücher von Fritz Mühlenweg. Erst viel später begriff ich, warum das so war. In seinen Büchern stimmt jede km Angabe. Hier spürst Du beim Lesen den Wüstensand zwischen den Zähnen. Hier bist Du wirklich mittendrin im Abenteuer. Christians Vater ist Arzt und praktiziert in China. Eines Tages wollen Christian und sein chinesischer Freund vor den Toren der Stadt einen Drachen steigen lassen. Ein Zug nähert sich und die Passagiere winken den Jungs zu. Vom fahrenden Zug aus lässt sich der Drache doch bestens steigen. Nur - der Zug hält erst hunderte von Kilometern weiter. Und so beginnt das spannende Abenteuer. Der Rückweg der beiden, die uns 752 Seiten lang mitnehmen auf ihre Reise, die uns u.a. mitten durch die Wüste Gobi und die asiatische Lebenswelt führt.
-
+    
     Einer der schönsten klassischen Abenteuerromane. Spannender geht‘s kaum. Lesen! Unbedingt! Und zwar am besten ungekürzt
--
+- 
   title: ""
   book:
     - >
@@ -84,7 +84,7 @@ Favorites:
     Intelligentere Phantasieliteratur gibt
     es nicht. Ein Muss für alle
     Bücherfans!
--
+- 
   title: ""
   book:
     - buecher/herr-der-diebe-hardcover
@@ -104,7 +104,7 @@ Favorites:
   hasquote: 'true'
   person: Sandra H.
   quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
--
+- 
   title: Der Herr der Ringe
   book:
     - >
@@ -115,7 +115,7 @@ Favorites:
   hasquote: 'true'
   person: Rüdiger B.
   quote: 'Sagengestalten, Abenteuer, Magie, Zauberer - idealer Lesestoff für gelegentliche Träumer.'
--
+- 
   title: ""
   book:
     - >
@@ -124,7 +124,7 @@ Favorites:
   hasquote: 'true'
   person: Lena M.
   quote: 'Eine zeitlose und großartig erzählte Geschichte von John Boyne. Der liebevolle Charakter von Barnaby lässt den Leser gründlich darüber nachdenken, was die Konstrukte von "Normal-" und "Anderssein" bedeuten und macht Mut, sich in das Abenteuer des Lebens stürzen zu wollen und dabei die Menschen zu finden, die zu einem passen und einem nahe sind - auch wenn das nicht die sind, bei denen man aufwächst. Eine Geschichte, die einen hoffnungsvoll stimmt.'
--
+- 
   title: ""
   book:
     - >
@@ -139,7 +139,7 @@ Favorites:
     Heldengeschichte. Wie viele gute
     Heldengeschichten ist sie ein bisschen
     erfunden und ein bisschen wahr.
--
+- 
   title: ""
   book:
     - buecher/die-welle-taschenbuch
@@ -150,7 +150,7 @@ Favorites:
     Ein faszinierendes und gleichzeitig
     erschreckendes Buch. Die Menschheit ist
     immer noch anfällig.
--
+- 
   title: ""
   book:
     - buecher/americanah
@@ -167,6 +167,10 @@ Cover:
 
 ----
 
+Short: In unseren Regalen findet ihr Romane für ältere Kinder und Jugendliche ebenso wie wunderbare Erstlesebücher, voller spannender Geschichten; mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustrationen machen sie Lust auf Lesen.
+
+----
+
 Meta-title: Romane & Erzählungen
 
 ----
@@ -175,15 +179,15 @@ Meta-description: In unseren Regalen findet wunderbare Erstlesebücher ebenso wi
 
 ----
 
-Meta-keywords:
+Meta-keywords: 
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -193,15 +197,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -211,23 +215,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -235,35 +239,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -277,8 +281,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
