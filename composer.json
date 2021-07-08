@@ -25,7 +25,7 @@
         "bnomei/kirby3-fingerprint": "3.0.13",
         "bnomei/kirby3-janitor": "2.6.9",
         "bnomei/kirby3-security-headers": "2.5.1",
-        "fundevogel/php-pcbis": "2.0.1",
+        "fundevogel/php-pcbis": "2.0.2",
         "fundevogel/kirby3-colorist": "1.8.2",
         "fundevogel/kirby3-donuts": "1.2.0",
         "guzzlehttp/guzzle": "7.3.0",

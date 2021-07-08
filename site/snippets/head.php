@@ -4,9 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Fonts -->
-    <link rel="preload" href="/assets/fonts/CabinSketch.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="/assets/fonts/Dosis-Light.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="/assets/fonts/Dosis-Bold.subset.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="<?= url('assets/fonts/CabinSketch.subset.woff2') ?>" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="<?= url('assets/fonts/Dosis-Light.subset.woff2') ?>" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="<?= url('assets/fonts/Dosis-Bold.subset.woff2') ?>" as="font" type="font/woff2" crossorigin>
 
     <!-- CSS -->
     <?= loadCSS() ?>

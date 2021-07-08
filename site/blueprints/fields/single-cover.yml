@@ -8,3 +8,4 @@ image:
   ratio: 2/1
   cover: true
 info: "{{ file.dimensions }} ({{ file.niceSize }})"
+translate: false
