@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Gemeinsam Bücher lesen - eine schöne Erfahrung.
+Caption: Gemeinsam Bücher lesen - eine schöne Erfahrung!
 
 ----
 

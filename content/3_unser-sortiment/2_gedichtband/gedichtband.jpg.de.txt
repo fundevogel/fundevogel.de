@@ -1,4 +1,4 @@
-Titleattribute: Gedichte verleihen dem Leben eine Melodie.
+Titleattribute: Lustige Reime und tiefgründige Verse, bei uns gibt's Lyrik für alle!
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bilderbücher machen Spaß
+Caption: Gedichte verleihen dem Leben eine Melodie!
 
 ----
 

@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Bei uns gibt es Sachbücher zu jedem Thema.
+Caption: Sachbücher begeistern große und kleine Forscher!
 
 ----
 

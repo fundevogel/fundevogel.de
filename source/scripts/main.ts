@@ -41,6 +41,7 @@ class App {
         this.hasLightbox = [
             'news',
             'about',
+            'assortment',
             'lesetipps.article',
             'calendar.single',
             'contact',

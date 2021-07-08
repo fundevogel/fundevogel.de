@@ -24,7 +24,7 @@ export const runLightbox = (container: HTMLElement, template: string = '') => {
         // Fill items ..
         let items: {src: string, caption: string}[] | NodeListOf<HTMLImageElement> = [];
 
-        if (template === 'about') {
+        if (template === 'about' || template === 'assortment') {
             // .. with data from lightbox element
             const urls = lightbox.dataset.images.split(';');
             const captions = lightbox.dataset.captions.split(';');

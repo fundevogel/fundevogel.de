@@ -8,7 +8,7 @@ Slug: our-assortment
 
 Text:
 
-## World of books
+## The world of books
 From the large-format Big Bang non-fiction book to exciting adventure novels to the wonderfully illustrated picture book about the friendship of an old man and his lively cat - with us you will find the whole variety of children's and youth literature.
 
 It is our goal to find the right book for each of you - whether you seek amazement, knowledge, or want to go on an adventure, this is the place to be!
@@ -33,13 +33,11 @@ But don’t worry, we’ll keep an overview for you and we’ll be happy to advi
 
 ----
 
-Cover:
-
-- unser-sortiment.jpg
+Caption: Look around!
 
 ----
 
-Meta-title:
+Meta-title: 
 
 ----
 
@@ -47,15 +45,15 @@ Meta-description: We offer a wide range of children’s and youth literature, wi
 
 ----
 
-Meta-keywords:
+Meta-keywords: 
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -65,15 +63,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -83,23 +81,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -107,35 +105,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -149,8 +147,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 

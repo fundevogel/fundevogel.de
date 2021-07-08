@@ -5,8 +5,10 @@
         <div class="flex-1">
             <?= $page->text()->kt() ?>
         </div>
-        <div class="mt-12 flex-none text-center">
-            <?php snippet('cover') ?>
+        <div class="mt-12 flex-none flex justify-center items-center">
+            <div class="lg:ml-12">
+                <?php snippet('components/caption-gallery', compact('images', 'caption')) ?>
+            </div>
         </div>
     </div>
 </header>
