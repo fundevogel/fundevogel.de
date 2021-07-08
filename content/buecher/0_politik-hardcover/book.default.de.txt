@@ -1,0 +1,135 @@
+Title: Politik
+
+----
+
+Isbn: 978-3-551-25491-7
+
+----
+
+Subtitle: 100 Begriffe aus Politik und Gesellschaft in 100 Wörtern erklärt
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Eleanor Levenson
+
+----
+
+Illustrator: Paul Boston
+
+----
+
+Translator: Britta Meinass
+
+----
+
+Publisher: Carlsen
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 112
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Schule, Politik, Enzyklopädie, Wissen, Gesellschaft, Kapitalismus, Wirtschaft, Gerechtigkeit
+
+----
+
+Description: Die 100 wichtigsten Begriffe aus Politik und Gesellschaft klipp und klar erklärt: in nur je 100 Wörtern und einem Bild.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003483067/63715/10002/-3/Buecher_Kinder--und-Jugend/Eleanor-Levenson/Politik
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- politik_eleanor-levenson.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
