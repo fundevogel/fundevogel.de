@@ -52,6 +52,9 @@ return [
     # Generate donuts charts as inline SVG
     'fundevogel.donuts.inline' => true,
 
+    # Store redirects as JSON
+    'distantnative.retour.config' => __DIR__ . '/settings/redirects.json',
+
     # Markdown field settings
     # See https://github.com/sylvainjule/kirby-markdown-field
     'community.markdown-field' => [
