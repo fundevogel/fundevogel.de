@@ -35,10 +35,10 @@ tabs:
       sidebar_files: false
 
       sidebar_pages:
-        extends: sections/articles
         headline:
           de: Kategorien
           en: Categories
+        type: pages
         create: assortment.single
         layout: list
 
