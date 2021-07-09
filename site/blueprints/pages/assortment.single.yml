@@ -20,6 +20,7 @@ tabs:
         label:
           de: Unsere Lieblinge
           en: Our favorites
+        translate: false
         columns:
           book:
           hasQuote:

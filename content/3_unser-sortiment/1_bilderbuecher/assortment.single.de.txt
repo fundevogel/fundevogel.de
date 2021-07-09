@@ -1,4 +1,4 @@
-Title: Bilderbuch
+Title: Bilderbücher
 
 ----
 
@@ -17,7 +17,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - buecher/frederick-hardcover
@@ -35,7 +35,7 @@ Favorites:
     Herz im Winter versorgt sein will. Und
     dass "Nichtstun" nicht immer sinnlos ist
     … !
-- 
+-
   title: ""
   book:
     - buecher/die-drei-raeuber-hardcover
@@ -51,7 +51,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -76,7 +76,7 @@ Favorites:
     trägt – und unterwegs weitaus
     interessantere Wesen kennenlernt als zu
     zählende Schäfchen.
-- 
+-
   title: Willkommen in Wimmlingen!
   book:
     - buecher/sommer-wimmelbuch-hardcover
@@ -86,7 +86,7 @@ Favorites:
   quote: >
     Eintauchen in Bilder, die Geschichten
     erzählen. Es gibt so viel zu entdecken!
-- 
+-
   title: ""
   book:
     - buecher/pippilothek-hardcover
@@ -94,7 +94,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - buecher/julian-ist-eine-meerjungfrau
@@ -105,7 +105,7 @@ Favorites:
     Die Illustrationen in diesem Buch sind
     einfach wunderschön. Wenig Worte, aber
     viel Aussagekraft.
-- 
+-
   title: 'Petterson & Findus'
   book:
     - >
@@ -114,7 +114,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - buecher/bauer-beck-faehrt-weg
@@ -122,7 +122,7 @@ Favorites:
   hasquote: 'true'
   person: Julia F.
   quote: '"Urlaub hin, Urlaub her - es geht doch nichts über einen ordentlichen Hof" - ein geniales und witziges Bilderbuch!'
-- 
+-
   title: Pu der Bär trifft Alice im Wunderland
   book:
     - >
@@ -137,7 +137,7 @@ Favorites:
 
 Cover:
 
-- bilderbuch.jpg
+- bilderbuecher.jpg
 
 ----
 
@@ -153,15 +153,15 @@ Meta-description: Kommt mit auf eine phantastische Reise zwischen die Buchdeckel
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -171,15 +171,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -189,23 +189,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -213,35 +213,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -255,8 +255,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:

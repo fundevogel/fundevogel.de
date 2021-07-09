@@ -13,11 +13,7 @@ Children love repetitions and rhymes and have a lot of fun playing with the lang
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[],"id":"7e4852d1-e4ce-461f-ad73-597520269569","width":"1\/1"}],"id":"273f0028-a8a1-4a7b-b6f8-fd97679ad803"}]
-
-----
-
-Favorites: 
+Layouts: 
 
 ----
 

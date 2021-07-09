@@ -1,4 +1,4 @@
-Title: Gedichtband
+Title: Gedichte
 
 ----
 
@@ -96,7 +96,7 @@ Favorites:
 
 Cover:
 
-- gedichtband.jpg
+- gedichte.jpg
 
 ----
 

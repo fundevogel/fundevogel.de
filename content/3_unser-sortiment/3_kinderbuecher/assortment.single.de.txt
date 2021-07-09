@@ -1,0 +1,312 @@
+Title: Kinderbücher
+
+----
+
+Text:
+
+## Geschichten über das Leben
+In unseren Regalen findet ihr so wunderbare Erstlesebücher wie die spannenden Geschichten über den liebenswerten "Kommissar Gordon" sowie die Schulfreundinnengeschichten über Dunne von Rose Lagercrantz:
+
+Mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustrationen machen Kinderbücher einfach Lust auf Lesen!
+
+----
+
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Gemeinsam B\u00fccher erleben"},"id":"fdac748a-e9d1-4062-9a61-974a1b88f947","isHidden":false,"type":"heading"},{"content":{"text":"<p>In gem\u00fctlicher Atmosph\u00e4re und fernab des oft so trubeligen Alltags kann das Vorlesen f\u00fcr Kinder und Eltern ein wunderbarer Moment der N\u00e4he, Geborgenheit und Erholung sein.<\/p><p>Wir haben f\u00fcr euch viele tolle Vorleseb\u00fccher ausgew\u00e4hlt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.<\/p>"},"id":"f859f65a-e877-44ad-9952-29318cad5571","isHidden":false,"type":"text"}],"id":"372b36ef-be50-4031-8275-2f6f493243eb","width":"1\/1"}],"id":"acbc4eef-075d-4ac1-9484-c92f1bd5deda"}]
+
+----
+
+Favorites:
+
+-
+  title: ""
+  book:
+    - >
+      buecher/ein-freund-wie-kein-anderer-hardcover
+  text: >
+    Erdhörnchen Habbi ist mit einem Wolf
+    zusammengeprallt, dem größten Feind
+    der Erdhörnchen! Doch statt sich auf
+    ihn zu stürzen, blinzelt der Wolf ihn
+    nur kraftlos an. Er scheint schwer
+    verletzt zu sein. Wie könnte Habbi ihn
+    da einfach allein lassen? Täglich
+    versorgt er ihn mit Futter und nach und
+    nach freunden die beiden sich an. Bis
+    ihre Freundschaft auf eine harte Probe
+    gestellt wird ..
+  hasquote: 'true'
+  person: Frieda T.
+  quote: >
+    Eine wunderbar lebendig erzählte
+    Geschichte, die Klein und Groß
+    begeistert und mitfiebern lässt. Toll
+    illustriert, mit viel Charme und Witz
+-
+  title: ""
+  book:
+    - buecher/immer-dieser-michel-hardcover
+  text: 'Michel, fünf Jahre alt und stark wie ein kleiner Ochse, lebt auf dem Hof Katthult in Lönneberga, das ist ein Dorf in Småland in Südschweden. Mit seinen runden blauen Augen und dem hellen wolligen Haar könnte man ihn fast für einen Engel halten - wenn er schläft. Aber wenn er nicht schläft, dann hat er mehr Unsinn im Kopf als irgendein anderer Junge in ganz Lönneberga oder ganz Småland oder ganz Schweden oder vielleicht sogar auf der ganzen Welt!'
+  hasquote: 'true'
+  person: Sandra H.
+  quote: >
+    Astrid Lindgrens Geschichten über den
+    den kleinen, liebenswerten Lausejungen
+    Michel aus Lönneberga vom Hof Katthult
+    in Südschwedens Småland gehört zu den
+    wundervollsten Schätzen der
+    Kinderliteratur!
+-
+  title: ""
+  book:
+    - buecher/herr-der-diebe-hardcover
+  text: >
+    Im winterlichen Venedig treibt eine
+    Kinderbande ihr Unwesen. Sie wird von
+    einem maskierten Unbekannten angeführt.
+    Doch keiner kennt seine Herkunft,
+    niemand hat je sein Gesicht gesehen. Er
+    wird von allen nur "Herr der Diebe"
+    genannt. Eines Tages führt ein
+    rätselhafter Auftrag die Kinder auf
+    eine scheinbar unbewohnte Laguneninsel.
+    Welches Geheimnis birgt diese Insel? Und
+    wer versteckt sich hinter der Maske des
+    Anführers?
+  hasquote: 'true'
+  person: Sandra H.
+  quote: 'Ein spannender, fantastischer Abenteuerroman über eine Kinderbande von Ausreißern und Dieben vor dem Hintergrund der atmosphärisch dichten Szenerie Venedigs mit seinem Gewirr aus kleinen Gassen, schmalen Kanälen und gewölbten Brücken, der von Freundschaft, Enttäuschungen, Hoffnungen und vom Erwachsenwerden erzählt - nicht nur für Kinder!'
+-
+  title: ""
+  book:
+    - buecher/das-kleine-gespenst-hardcover
+  text: >
+    Jede Nacht pünktlich zur Geisterstunde
+    erwacht das kleine Gespenst. Vergnügt
+    geistert es durch Burg Eulenstein und
+    besucht seinen Freund, den Uhu Schuhu.
+    Sein größter Wunsch ist es, die Welt
+    einmal bei Tageslicht zu sehen. Doch
+    alle Versuche, nach dem Ende der
+    Geisterstunde wach zu bleiben, schlagen
+    fehl. Doch als dieser Wunsch unversehens
+    Wirklichkeit wird, beginnt ein
+    aufregendes Abenteuer. Vom Sonnenlicht
+    getroffen wird aus dem weißen
+    Nachtgepenst ein schwarzes
+    Tagesgespenst, das in der Stadt für
+    jede Menge Unheil und Verwirrung sorgt
+    ..
+  hasquote: 'false'
+  person: ""
+  quote: ""
+-
+  title: ""
+  book:
+    - >
+      buecher/geschichten-von-der-maus-fuer-die-katz-hardcover
+  text: >
+    Wie dumm, dass die freche Maus
+    ausgerechnet der Katze in die Arme
+    laufen muss. Doch zu ihrem Glück
+    erweist sich die Maus als wunderbare
+    Geschichtenerzählerin. Und wie
+    Sheherazade in 1001 Nacht erzählt sie
+    um ihr Leben. Die Katze ist so gebannt
+    von den Geschichten, dass sie ganz
+    vergisst, die Maus zu fressen.
+  hasquote: 'true'
+  person: Julia F.
+  quote: >
+    Schöne, abwechslungsreiche und manchmal
+    auch lustige Geschichten, die sich super
+    als Gute-Nacht-Geschichten eignen.
+-
+  title: ""
+  book:
+    - >
+      buecher/der-kleine-drache-kokosnuss-hardcover
+  text: >
+    Kokosnuss ist ein mutiger und vor allem
+    neugieriger kleiner Feuerdrache, der mit
+    seinen Eltern auf einer bisher
+    unentdeckten Insel lebt. Wie alle Kinder
+    müssen auch kleine Drachen in die
+    Schule gehen, wo sie das Fliegen lernen.
+    Können sie dann fliegen, verbringen sie
+    den Winter auf der Sommerinsel in der
+    südlichen Südsee. Doch das mit dem
+    Fliegen ist gar nicht so einfach! Wie
+    Kokosnuss auch ohne abgeschlossene
+    Flugausbildung zu einem Winterurlaub auf
+    der Sommerinsel kommt, ist nur eines der
+    aufregenden Abenteuer, die er und seine
+    Freunde erleben ..
+  hasquote: 'true'
+  person: Martin F.
+  quote: 'Kokosnuss ist - um es kurz zu sagen - ein feiner Kerl: ein treuer Freund, pfiffig und - wenn es um seine Freunde Mathilda, das Stachelschwein, und Oskar, den Fressdrachen geht, gerade mutig genug, jedes noch so waghalsige Abenteuer zu bestehen!'
+-
+  title: ""
+  book:
+    - >
+      buecher/das-grosse-buch-vom-kleinen-kapitaen-hardcover
+  text: >
+    Der kleine Kapitän und seine Freunde
+    Martinka, Tonne und Heini Hasenfuß
+    segeln über die Weltmeere, trotzen den
+    größten Gefahren und bestehen die
+    kühnsten Abenteuer. Dabei begegnen sie
+    einer mysteriösen Stadt auf Pfählen,
+    statten den Töchtern von König
+    Blaukrabbe auf dem Meeresboden einen
+    Besuch ab oder kapern ein Geisterschiff,
+    das sieben Schatzkisten an Bord hat.
+    Nebenbei retten sie sechs
+    Schiffbrüchige und eine Truppe
+    dressierter Zirkustiere, verkuppeln
+    einen König und bestehen viele
+    Mutproben.
+  hasquote: 'false'
+  person: ""
+  quote: ""
+-
+  title: ""
+  book:
+    - >
+      buecher/latte-igel-und-der-wasserstein-hardcover
+  text: |
+    Latte Igel und seine Freunde sind verzweifelt: Im Wald herrscht eine fürchterliche Dürre, sogar der See ist nur noch eine Pfütze. Ihre einzige Rettung ist der Wasserstein. Doch den bewacht der böse Bärenkönig Bantur im Nordwald ..
+
+    Mutig begibt sich Latte Igel auf einen Weg voller Abenteuer und Gefahren.
+  hasquote: 'true'
+  person: Rüdiger B.
+  quote: >
+    Unsere Klassenlehrerin hat daraus immer
+    vorgelesen. Faszination Magie.
+
+----
+
+Cover:
+
+- kinderbuecher.jpg
+
+----
+
+Short: Gemeinsam neue Welten entdecken und erleben: In gemütlicher Atmosphäre und fernab des oft so trubeligen Alltags kann das Vorlesen für Kinder und Eltern gleichermaßen ein wunderbarer Moment der Nähe, Geborgenheit und Erholung sein.
+
+----
+
+Meta-title:
+
+----
+
+Meta-description: Wir haben für euch nicht nur Erstlesebücher, sondern auch Vorlesebücher ausgesucht, um gemeinsam mit den Großen neue Welten entdecken und erleben können.
+
+----
+
+Meta-canonical-url:
+
+----
+
+Meta-author:
+
+----
+
+Meta-image:
+
+- vorlesebuch.jpg
+
+----
+
+Meta-phone-number:
+
+----
+
+Og-title:
+
+----
+
+Og-description:
+
+----
+
+Og-image:
+
+- vorlesebuch.jpg
+
+----
+
+Og-site-name:
+
+----
+
+Og-url:
+
+----
+
+Og-audio:
+
+----
+
+Og-video:
+
+----
+
+Og-determiner:
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time:
+
+----
+
+Og-type-article-modified-time:
+
+----
+
+Og-type-article-expiration-time:
+
+----
+
+Og-type-article-author:
+
+----
+
+Og-type-article-section:
+
+----
+
+Og-type-article-tag:
+
+----
+
+Twitter-title:
+
+----
+
+Twitter-description:
+
+----
+
+Twitter-image:
+
+- vorlesebuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site:
+
+----
+
+Twitter-creator:
+
+----
+
+Meta-keywords:

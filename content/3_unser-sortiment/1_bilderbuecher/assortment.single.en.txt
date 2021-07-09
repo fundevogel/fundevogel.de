@@ -1,0 +1,140 @@
+Title: Picture books
+
+----
+
+Slug: picture-books
+
+----
+
+Text:
+
+## Enter the colorful world of picture books
+Come on a fantastic journey between the covers of our favorite picture books, whose colorful pictures and friendly residents invite you to marvel, discover, fantasize and linger:
+
+The picture book is the focus of the first years of reading - because "reading" does not need letters! Children look at the world in astonishment and explore it with joy with all their senses. For the little ones, we therefore have a lot of stimulating cloth and cardboard picture books that they can feel, fold, twist and explore with great pleasure.
+
+----
+
+Layouts: 
+
+----
+
+Short: Come on a fantastic journey between the covers of our favorite picture books, whose colorful pictures and friendly residents invite you to marvel, discover, fantasize and linger - it's an amazing world out there to be enjoyed with all senses.
+
+----
+
+Meta-title: Picture Books
+
+----
+
+Meta-description: Come along on a fantastic journey between the covers of wonderful picture books, to their colorful scenery and friendly residents.
+
+----
+
+Meta-keywords: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- bilderbuch.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- bilderbuch.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- bilderbuch.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

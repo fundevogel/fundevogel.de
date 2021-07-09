@@ -1,4 +1,4 @@
-Title: Sachbuch
+Title: Sachbücher
 
 ----
 
@@ -11,13 +11,13 @@ Wir bieten euch eine tolle Auswahl an Sachbüchern zu vielen spannenden Themen q
 
 ----
 
-Layouts: 
+Layouts:
 
 ----
 
 Favorites:
 
-- 
+-
   title: ""
   book:
     - >
@@ -26,7 +26,7 @@ Favorites:
   hasquote: 'true'
   person: Julia F.
   quote: 'Ein geniales Sachbuch - mal über ein ganz anderes Thema! Spannend, informativ und super witzig zugleich!'
-- 
+-
   title: ""
   book:
     - buecher/bienen-hardcover
@@ -50,7 +50,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - buecher/warum-gibt-es-uns-hardcover
@@ -62,7 +62,7 @@ Favorites:
     naturwissenschaftliches Fachwissen vom
     Urknall über die Entstehung des Lebens
     mit schönen Illustrationen!
-- 
+-
   title: ""
   book:
     - >
@@ -83,7 +83,7 @@ Favorites:
   hasquote: 'true'
   person: Julia F.
   quote: 'Die Wahrheit steckt im Titel - ohne Wasser geht nichts. Ein super interessantes, lehrreiches und vielfältiges Buch über die wohl wichtigste Ressource der Welt. Toll illustriert!'
-- 
+-
   title: ""
   book:
     - buecher/alle-welt-hardcover
@@ -91,7 +91,7 @@ Favorites:
   hasquote: 'false'
   person: ""
   quote: ""
-- 
+-
   title: ""
   book:
     - >
@@ -114,7 +114,7 @@ Favorites:
   hasquote: 'true'
   person: Martin F.
   quote: 'Aktuell wie nie: Nachhaltigkeit und Umweltschutz, kindgerecht erläutert von einem, der sich auskennt.'
-- 
+-
   title: ""
   book:
     - >
@@ -128,7 +128,7 @@ Favorites:
 
 Cover:
 
-- sachbuch.jpg
+- sachbuecher.jpg
 
 ----
 
@@ -136,7 +136,7 @@ Short: Kommt mit auf eine faszinierende Entdeckungsreise und erkundet mit der gr
 
 ----
 
-Meta-title: Sachbücher
+Meta-title:
 
 ----
 
@@ -144,15 +144,15 @@ Meta-description: Erkundet atemberaubende Tier- und Pflanzenwelten, macht Bekann
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -162,15 +162,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -180,23 +180,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -204,35 +204,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -246,8 +246,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:

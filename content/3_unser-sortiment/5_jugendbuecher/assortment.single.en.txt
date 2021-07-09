@@ -1,8 +1,8 @@
-Title: Novel
+Title: Young Adult Books
 
 ----
 
-Slug: novels-and-stories
+Slug: young-adult-books
 
 ----
 
@@ -16,10 +16,6 @@ For older children and adolescents, we have a wide range of novels of all genres
 ----
 
 Layouts:
-
-----
-
-Favorites:
 
 ----
 
