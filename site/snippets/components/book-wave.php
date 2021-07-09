@@ -128,8 +128,8 @@
                                     # TODO: Remove legacy code for template 'assortment.single'
                                     if ($item->quote()->isNotEmpty()) {
                                         echo kirbytag([
-                                            'quote'  => $item->quote()->html(),
-                                            'author'  => $item->person()->html(),
+                                            'quote'  => $item->quote()->kti(),
+                                            'author'  => $item->person(),
                                             'color' => 'orange',
                                         ]);
                                     }
