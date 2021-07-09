@@ -13,4 +13,5 @@ return [
 
     # Disable plugins @ development
     'afbora.kirby-minify-html.enabled' => false,
+    'distantnative.retour.logs' => false,
 ];

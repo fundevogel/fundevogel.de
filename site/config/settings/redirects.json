@@ -1,0 +1,60 @@
+{
+    "redirects": [
+        {
+            "from": "en/our-assortment/novels-and-stories",
+            "to": "en/our-assortment/young-adult-books",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "en/our-assortment/reading-books-together",
+            "to": "en/our-assortment/childrens-books",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/bilderbuch",
+            "to": "unser-sortiment/bilderbuecher",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/gedichtband",
+            "to": "unser-sortiment/gedichte",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/hoerbuch",
+            "to": "unser-sortiment/hoerbuecher",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/roman",
+            "to": "unser-sortiment/jugendbuch",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/sachbuch",
+            "to": "unser-sortiment/sachbuecher",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        },
+        {
+            "from": "unser-sortiment/vorlesebuch",
+            "to": "unser-sortiment/kinderbuecher",
+            "status": 301,
+            "priority": false,
+            "comment": null
+        }
+    ]
+}
