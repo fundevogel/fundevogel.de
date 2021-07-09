@@ -13,7 +13,7 @@
     </div>
     <?php endif ?>
     <div class="flex-1 mt-8 lg:mt-0 flex flex-col justify-center">
-        <h3><?= $category->title()->html() ?></h3>
+        <h3><a class="link" href="<?= $category->url() ?>"><?= $category->title()->html() ?></a></h3>
         <?= $category->short()->kt() ?>
         <?= $category->moreLink('link font-bold font-small-caps text-sm outline-none') ?>
     </div>
