@@ -137,7 +137,7 @@ Favorites:
 
 Cover:
 
-- bilderbuch.jpg
+- bilderbuecher.jpg
 
 ----
 

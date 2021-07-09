@@ -128,7 +128,7 @@ Favorites:
 
 Cover:
 
-- sachbuch.jpg
+- sachbuecher.jpg
 
 ----
 

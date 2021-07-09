@@ -96,7 +96,7 @@ Favorites:
 
 Cover:
 
-- gedichtband.jpg
+- gedichte.jpg
 
 ----
 
