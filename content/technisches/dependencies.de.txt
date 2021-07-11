@@ -54,30 +54,30 @@ Mit wachsendem Umfang der digitalen Anforderungen an unsere Buchhandlung sind ü
 
 Languages:
 
-- 
+-
   title: PHP
-  share: 0.67
+  share: 0.68
   color: '#4F5D95'
-- 
+-
   title: TypeScript
-  share: 0.23
+  share: 0.22
   color: '#2b7489'
-- 
+-
   title: CSS
   share: 0.05
   color: '#563d7c'
-- 
+-
   title: Python
-  share: 0.04
+  share: 0.03
   color: '#3572A5'
-- 
+-
   title: Shell
-  share: 0.01
+  share: 0.02
   color: '#89e051'
-- 
-  title: JavaScript
+-
+  title: Vue
   share: 0
-  color: '#f1e05a'
+  color: '#2c3e50'
 
 ----
 
@@ -95,15 +95,11 @@ Meta-description: Wir alle wollen ausprobieren und Neues entdecken, machen Fehle
 
 ----
 
-Meta-keywords: 
+Meta-canonical-url:
 
 ----
 
-Meta-canonical-url: 
-
-----
-
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -113,15 +109,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -131,23 +127,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -155,35 +151,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -197,23 +193,11 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
-
-----
-
-Misc: 
-
-----
-
-Php: 
-
-----
-
-Pkg: 
+Twitter-creator:
 
 ----
 

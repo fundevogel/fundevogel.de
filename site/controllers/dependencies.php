@@ -1,5 +1,7 @@
 <?php
 
+use S1SYPHOS\Thx;
+
 # TODO: Add card layout`
 
 return function ($kirby, $page) {
@@ -116,146 +118,56 @@ return function ($kirby, $page) {
         $source['activity'] = (string) $outputCommits[0];
     }
 
-
-    # Fetch cached PHP / Composer packages
-    $phpData  = $depsCache->get('phpData');
-
-    # If not cached ..
-    if ($phpData === null) {
-        $phpData = [];
-
-        # .. load current PHP / Composer packages
-        $phpJSON = F::read($kirby->root('base') . '/composer.json');
-
-        # Define blocklist
-        $phpBlockList = [
-            'php',
-        ];
-
-        foreach (json_decode($phpJSON, false)->require as $library => $version) {
-            # .. block unwanted libraries (such as `php`)
-            if (in_array($library, $phpBlockList) === true) continue;
-
-            # Split maintainer & library name
-            $splitList = Str::split($library, '/');
-
-            # .. prepare data for each repository
-            $node = [
-                'maintainer' => $splitList[0],
-                'repo' => $splitList[1],
-                'version' => $version,
-                'desc' => '',
-                'license' => '',
-                'url' => '',
-                'forked' => false,
-            ];
-
-            # .. fetch additional information from https://packagist.org
-            $phpURL = 'https://repo.packagist.org/p/' . $library . '.json';
-            $phpResponse = Remote::get($phpURL);
-
-            # .. and enrich data with results
-            if ($phpResponse->http_code() === 200) {
-                $phpRaw = $data = $phpResponse->json(true)['packages'][$library];
-
-                # Allow for libraries using `main` branch instead of `master`
-                $branch = 'dev-master';
-
-                if (!isset($phpRaw['dev-master'])) {
-                    $branch = 'dev-main';
-                }
-
-                $data = $phpRaw[$branch];
-
-                $node['desc'] = $data['description'];
-                $node['license'] = $data['license'][0] ?? '';
-                $node['url'] = Str::rtrim($data['source']['url'], '.git');
-            }
-
-            $phpData[] = $node;
-        }
-
-        # Sort data ..
-        array_multisort(
-            array_column($phpData, 'maintainer'), SORT_ASC,
-            array_column($phpData, 'repo'), SORT_ASC,
-            $phpData
-        );
-
-        # .. and cache data for one week (60 * 24 * 7)
-        $depsCache->set('phpData', $phpData, 10080);
-    }
-
-
-    # Fetch cached JavaScript / Node packages
-    $pkgData  = $depsCache->get('pkgData');
-
-    # If not cached ..
-    if ($pkgData === null) {
-        $pkgData = [];
-
-        # .. load current JavaScript / Node packages
-        $pkgJSON = F::read($kirby->root('base') . '/package.json');
-
-        # Define blocklist
-        $pkgBlockList = [
-            # Nothing so far
-        ];
-
-        foreach (json_decode($pkgJSON, false)->dependencies as $library => $version) {
-            # .. block unwanted libraries (such as `php`)
-            if (in_array($library, $pkgBlockList) === true) continue;
-
-            # .. prepare data for each repository
-            $node = [
-                'maintainer' => '',
-                'repo' => Str::replace($library, '@', ''),
-                'version' => $version,
-                'desc' => '',
-                'url' => '',
-                'license' => '',
-                'forked' => false,
-            ];
-
-            # .. fetch additional information from https://packagist.org
-            $pkgURL = 'https://api.npms.io/v2/package/' . rawurlencode($library);
-            $pkgResponse = Remote::get($pkgURL);
-
-            # .. and enrich data with results
-            if ($pkgResponse->http_code() === 200) {
-                $data = $pkgResponse->json(false)->collected->metadata;
-
-                # Split URL & set pointer to last entry
-                $splitList = Str::split($data->links->repository, '/');
-                end($splitList);
-
-                $node['maintainer'] = prev($splitList);
-                $node['desc'] = $data->description;
-                $node['license'] = $data->license ?? '';
-                $node['url'] = $data->links->repository;
-
-                # Check if it's a forked repository
-                if (preg_match('/(([0-9])+(\.{0,1}([0-9]))*)/', $node['version']) == false) {
-                    $node['version'] = $data->version;
-                    $node['forked'] = true;
-                }
-            }
-
-            $pkgData[] = $node;
-        }
-
-        # Sort data ..
-        array_multisort(
-            array_column($pkgData, 'maintainer'), SORT_ASC,
-            array_column($pkgData, 'repo'), SORT_ASC,
-            $pkgData
-        );
-
-        # .. and cache data for one week (60 * 24 * 7)
-        $depsCache->set('pkgData', $pkgData, 10080);
-    }
-
     $languages = $page->languages()->toStructure();
+
+
+    # Fetch information about packages being used throughout the website
+    # Define cache settings
+    $cacheConfig = ['storage' => $kirby->root('cache') . '/php-thx'];
+    $cacheDuration = 14;  # in days
+
+    # (1) Composer
+    $dataFile = $kirby->root('base') . '/composer.json';
+    $lockFile = $kirby->root('base') . '/composer.lock';
+
+    $phpDriver = new Thx($dataFile, $lockFile, 'file', $cacheConfig);
+
+    # Block unwanted libraries
+    $phpDriver->setBlockList(['php']);
+
+    # Set cache expiry (two weeks)
+    $phpDriver->setCacheDuration($cacheDuration);
+
+    # Fetch data
+    $phpData = $phpDriver->giveBack()->pkgs();
+
+    # Sort it
+    array_multisort(
+        array_column($phpData, 'maintainer'), SORT_ASC,
+        array_column($phpData, 'name'), SORT_ASC,
+        $phpData
+    );
+
+
+    # (2) (Node)JS packages
+    $dataFile = $kirby->root('base') . '/package.json';
+    $lockFile = $kirby->root('base') . '/yarn.lock';
+
+    $pkgDriver = new Thx($dataFile, $lockFile, 'file', $cacheConfig);
+
+    # Set cache expiry (two weeks)
+    $pkgDriver->setCacheDuration($cacheDuration);
+
+    # Fetch data
+    $pkgData = $pkgDriver->giveBack()->pkgs();
+
+    # Sort it
+    array_multisort(
+        array_column($pkgData, 'maintainer'), SORT_ASC,
+        array_column($pkgData, 'name'), SORT_ASC,
+        $pkgData
+    );
+
 
     return compact(
         'source',
