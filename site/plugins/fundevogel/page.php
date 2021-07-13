@@ -46,4 +46,16 @@ return [
 
         return $this->title()->html();
     },
+    'toLocalDate' => function (string $type): string
+    {
+        # French & English
+        $format = 'd/m/Y';
+
+        # German
+        if (kirby()->language() == 'de') {
+            $format = 'd.m.Y';
+        }
+
+        return date($format, $this->$type());
+    }
 ];

@@ -26,6 +26,9 @@ module.exports = {
           'md:w-1/3',
           'md:w-2/3',
           'md:w-1/4',
+          // SVG used on 'dependencies'
+          'w-56',
+          'h-56',
         ],
       }
     },

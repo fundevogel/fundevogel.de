@@ -11,8 +11,10 @@ tabs:
           label: Text
           type: markdown
 
-        details:
-          label: Details
+        details: fields/layouts
+
+        software:
+          label: Software
           type: markdown
 
         layouts: fields/layouts
@@ -33,37 +35,124 @@ tabs:
               en: Giving thanks
             type: markdown
 
-          fetchLanguages:
-            type: janitor
-            label:
-              de: Daten erzeugen
-              en: Generate data
-            progress: Bitte warten ..
-            job: fetchLanguages
+  # Generated content
+  tab_generated:
+    preset: page
+    icon: cog
+    label: Extras
 
-          languages:
+    fields:
+      fetchLanguages:
+        type: janitor
+        label:
+          de: Sprachen laden
+          en: Load languages
+        progress: Bitte warten ..
+        job: fetchLanguages
+        width: 1/3
+
+      fetchStatistics:
+        type: janitor
+        label:
+          de: Statistik laden
+          en: Generate statistics
+        progress: Bitte warten ..
+        job: fetchStatistics
+        width: 1/3
+
+      fetchPackages:
+        type: janitor
+        label:
+          de: Pakete laden
+          en: Load packages
+        progress: Bitte warten ..
+        job: fetchPackages
+        width: 1/3
+
+      languages:
+        label:
+          de: Programmiersprachen
+          en: Programming languages
+        type: structure
+        columns:
+          title:
+          share:
+        fields:
+          title:
+            label: Name
+            type: text
+            width: 1/3
+          share:
             label:
-              de: Programmiersprachen
-              en: Programming languages
-            type: structure
-            columns:
-              title:
-              share:
-            fields:
-              title:
-                label: Name
-                type: text
-              share:
-                label:
-                  de: Anteil
-                  en: Share
-                type: number
-                step: .01
-              color:
-                label:
-                  de: Farbe
-                  en: Color
-                type: text
+              de: Anteil
+              en: Share
+            type: number
+            step: .001
+            width: 1/3
+          color:
+            label:
+              de: Farbe
+              en: Color
+            type: text
+            width: 1/3
+        translate: false
+
+      phpData:
+        extends: fields/packages
+        label: Composer (PHP)
+
+      pkgData:
+        extends: fields/packages
+        label: JavaScript & TypeScript
+
+    sidebar:
+      generated_files:
+        type: fields
+        fields:
+          licenseFull:
+            label:
+              de: Lizenz (lang)
+              en: License (long)
+            type: text
+            icon: key
+            disabled: true
+            translate: false
+
+          licenseToken:
+            label:
+              de: Lizenz (kurz)
+              en: License (short)
+            type: text
+            icon: key
+            disabled: true
+            translate: false
+
+          loc:
+            label:
+              de: Codezeilen
+              en: Lines of code
+            type: text
+            after: lines
+            disabled: true
+            translate: false
+
+          commits:
+            type: text
+            after: / month
+            disabled: true
+            translate: false
+
+          observatory:
+            type: text
+            after: grade
+            disabled: true
+            translate: false
+
+          pagespeed:
+            type: text
+            after: / 100
+            disabled: true
+            translate: false
 
           chart:
             extends: fields/single-cover

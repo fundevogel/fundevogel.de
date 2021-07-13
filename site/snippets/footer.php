@@ -26,7 +26,7 @@
                                 <?= useSVG('E-Mail', 'w-6 h-6 fill-current', 'envelope') ?>
                                 <span class="px-2"><?= t('Mail schreiben') ?></span>
                             </a>
-                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="https://github.com/Fundevogel" title="Fundevogel & Open Source" target="_blank">
+                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?php e($kirby->language()->code() === 'de', page('technisches')->url(), 'https://github.com/Fundevogel') ?>" title="Fundevogel & Open Source" target="<?php e($kirby->language()->code() !== 'de', '_blank') ?>">
                                 <?= useSVG('GitHub', 'w-6 h-6 fill-current') ?>
                                 <span class="px-2"><?= t('Unser Quellcode') ?></span>
                             </a>
