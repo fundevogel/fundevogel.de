@@ -1,23 +1,27 @@
-<strong><?= $title ?></strong>
+<strong><?= $page->blueprint()->field($field)['label'] ?></strong>
 <ul class="list">
-    <?php foreach ($data as $library) : ?>
+    <?php foreach ($page->$field()->toStructure() as $library) : ?>
     <?php
-        if (!isset($library['url'])) {
-            $tag = Html::tag('span', $library['name'], [
-                'class' => isset($library['license']) ? 'js-tippy' : '',
-                'title' => isset($library['license']) ? A::join([t('Lizenz'), $library['license']], ': ') : '',
+        # Check if license is available
+        $hasLicense = $library->license()->isNotEmpty();
+
+        # Take care of libraries not yet available via API
+        if ($library->url()->isNotEmpty()) {
+            $tag = Html::a($library->url(), $library->name()->html(), [
+                'class' => $hasLicense ? 'js-tippy' : '',
+                'title' => $hasLicense ? A::join([t('Lizenz'), $library->license()], ': ') : '',
+                'target' => '_blank',
             ]);
 
         } else {
-            $tag = Html::a($library['url'], $library['name'], [
-                'class' => isset($library['license']) ? 'js-tippy' : '',
-                'title' => isset($library['license']) ? A::join([t('Lizenz'), $library['license']], ': ') : '',
-                'target' => '_blank',
+            $tag = Html::tag('span', $library->name()->html(), [
+                'class' => $hasLicense ? 'js-tippy' : '',
+                'title' => $hasLicense ? A::join([t('Lizenz'), $library->license()], ': ') : '',
             ]);
         }
     ?>
     <li>
-        <?= $library['maintainer'] ?>/<?= $tag ?> (v<?= $library['version'] ?>)
+        <?= $library->maintainer() ?>/<?= $tag ?><?php e($library->version()->isNotEmpty(), ' (v' . $library->version() . ')') ?>
     </li>
     <?php endforeach ?>
 </ul>

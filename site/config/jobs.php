@@ -1,5 +1,11 @@
 <?php
 
+# Define request parameters
+$parameters = [
+    'timeout' => 0,
+    'headers' => ['User-Agent' => 'maschinenraum@fundevogel.de'],
+];
+
 return [
     'upgradeBook' => function ($page, $data) {
         if ($page === null) {
@@ -171,21 +177,109 @@ return [
             'reload' => true,
         ];
     },
-    'fetchLanguages' => function ($page)
+    'fetchStatistics' => function ($page) use ($parameters)
     {
-        # Define request parameters
-        $parameters = [
-            'timeout' => 0,
-            'headers' => [
-                'User-Agent' => 'S1SYPHOS @fundevogel.de'
-            ],
-        ];
+        $source = [];
 
-        # Fetch languages data from GitHub API
+        # Fetch statistics
+        $toolsetDir = kirby()->root('base') . '/lib/toolset';
+
+        # (1) Lines of code
+        exec(sprintf('bash %s/lines_of_code.bash', $toolsetDir), $outputLines);
+
+        if (is_array($outputLines) && count($outputLines) >= 1) {
+            $source['loc'] = number_format((string) $outputLines[0], 0, ',', '.');
+        }
+
+        # (2) Average commits/month for last three months
+        exec(sprintf('bash %s/average_commits_per_month.bash', $toolsetDir), $outputCommits);
+
+        if (is_array($outputCommits) && count($outputCommits) >= 1) {
+            $source['commits'] = (string) $outputCommits[0];
+        }
+
+        # (3) PageSpeed performance score
+        # Fetch data from Google's PageSpeed API
+        $pagespeedURL = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https://fundevogel.de&category=performance';
+        $pagespeedResponse = Remote::get($pagespeedURL, $parameters);
+
+        # If everything goes as planned ..
+        if ($pagespeedResponse->http_code() === 200) {
+            # .. process response
+            $pagespeedData = $pagespeedResponse->json(true);
+
+            # .. and add PageSpeed score
+            $source['pagespeed'] = 100 * $pagespeedData['lighthouseResult']['categories']['performance']['score'];
+        }
+
+        # (4) Observatory security grade
+        # Fetch data from Mozilla's Observatory API
+        $observatoryURL = 'https://http-observatory.security.mozilla.org/api/v1/analyze?host=fundevogel.de&rescan=true';
+        $observatoryResponse = Remote::get($observatoryURL, $parameters);
+
+        # If everything goes as planned ..
+        if ($observatoryResponse->http_code() === 200) {
+            # .. process response
+            $observatoryData = $observatoryResponse->json(true);
+
+            # .. ensure test validity
+            if (!isset($observatoryData['error'])) {
+                # .. and add Observatory grade
+                $source['observatory'] = $observatoryData['grade'];
+            }
+        }
+
+        # (5) Repository data
+        # Fetch data from GitHub GitHub's repository API
+        $repoDataURL = 'https://api.github.com/repos/fundevogel/fundevogel.de';
+        $repoDataResponse = Remote::get($repoDataURL, $parameters);
+
+        # If everything goes as planned ..
+        if ($repoDataResponse->http_code() === 200) {
+            # .. process response
+            $repoData = $repoDataResponse->json(true);
+
+            # .. and add repository data
+            # TODO: Think about `size` and stuff like that
+            $source['licenseFull'] = $repoData['license']['name'];
+            $source['licenseToken'] = $repoData['license']['spdx_id'];
+        }
+
+        # Report back results
+        $success = true;
+        $message = 'Update erfolgreich!';
+
+        if (empty($source)) {
+            $message = 'Nichts zu tun!';
+
+        } else {
+            try {
+                # Attempt page update
+                $page->update($source);
+
+            } catch(Exception $e) {
+                # Save error message
+                $message = $e->getMessage();
+                $success = false;
+            }
+        }
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label' => $message,
+            'reload' => $success,
+        ];
+    },
+    'fetchLanguages' => function ($page) use ($parameters)
+    {
+        # Fetch programming languages from GitHub's API as detected by `linguist`
+        #
+        # For unaccounted languages (eg, `yaml`),
+        # see https://stackoverflow.com/a/26881503
         $langDataURL = 'https://api.github.com/repos/fundevogel/fundevogel.de/languages';
         $langDataResponse = Remote::get($langDataURL, $parameters);
 
-        # If everything goes well, process results ..
+        # Toss it if something goes wrong, otherwise ..
         if ($langDataResponse->http_code() !== 200) {
             return [
                 'status' => 404,
@@ -194,16 +288,10 @@ return [
             ];
         }
 
+        # .. process response
         $langData = get_object_vars($langDataResponse->json(false));
 
-        # Add all programming languages detected by GitHub's `linguist`
-        #
-        # For unaccounted languages, we could loop over those (eg, `yaml`)
-        # and get their values too, like this:
-        # 'https://api.github.com/search/code?q=language:' . $language . '+repo:fundevogel.de/fundevogel+org:Fundevogel'
-        #
-        # See https://stackoverflow.com/a/26881503
-
+        # Determine language ratios as percentages
         $languages = array_keys($langData);
         $numbers = array_values($langData);
 
@@ -218,8 +306,8 @@ return [
 
         # Round percentages safely, using `largest remainder method`
         # See https://en.wikipedia.org/wiki/Largest_remainder_method
-        $largestRemainder = new Aeq\LargestRemainder\Math\LargestRemainder($percentages);
-        // $largestRemainder->setPrecision(2);
+        $largestRemainder = new \Aeq\LargestRemainder\Math\LargestRemainder($percentages);
+        $largestRemainder->setPrecision(1);
 
         $roundedPercentages = [];
 
@@ -254,12 +342,84 @@ return [
             $languageArray = [];
 
             foreach ($data as $language => $values) {
-                $languageArray[] = ['title' => $language, 'share' => $values['value'], 'color' => $values['color']];
+                $languageArray[] = [
+                    'title' => $language,
+                    'share' => (float) $values['value'] * 100,
+                    'color' => $values['color']
+                ];
             }
 
             $page->update([
                 'languages' => Data::encode($languageArray, 'yaml'),
                 'chart' => Data::encode($file->filename(), 'yaml'),
+            ]);
+
+        } catch(Exception $e) {
+            return [
+                'status' => 404,
+                'label' => $e->getMessage(),
+                'reload' => false,
+            ];
+        }
+
+        return [
+            'status' => 200,
+            'label' => 'Update erfolgreich!',
+            'reload' => true,
+        ];
+    },
+    'fetchPackages' => function ($page)
+    {
+        # Define cache settings
+        $cacheConfig = ['storage' => kirby()->root('cache') . '/php-thx'];
+        $cacheDuration = 14 * 24 * 60 * 60;  # two weeks
+
+        # Fetch information about packages being used throughout the website
+        # (1) Composer
+        $dataFile = kirby()->root('base') . '/composer.json';
+        $lockFile = kirby()->root('base') . '/composer.lock';
+
+        $phpDriver = new \S1SYPHOS\Thx($dataFile, $lockFile, 'file', $cacheConfig);
+
+        # Block unwanted libraries
+        $phpDriver->setBlockList(['php']);
+
+        # Set cache expiry (two weeks)
+        $phpDriver->setCacheDuration($cacheDuration);
+
+        # (2) (Node)JS packages
+        $dataFile = kirby()->root('base') . '/package.json';
+        $lockFile = kirby()->root('base') . '/yarn.lock';
+
+        $pkgDriver = new \S1SYPHOS\Thx($dataFile, $lockFile, 'file', $cacheConfig);
+
+        # Set cache expiry
+        $pkgDriver->setCacheDuration($cacheDuration);
+
+        try {
+            # Update package data
+            # (1) Process & sort PHP data
+            $phpData = $phpDriver->giveBack()->pkgs();
+
+            array_multisort(
+                array_column($phpData, 'maintainer'), SORT_ASC,
+                array_column($phpData, 'name'), SORT_ASC,
+                $phpData
+            );
+
+            # (2) Process & sort (Node)JS data
+            $pkgData = $pkgDriver->giveBack()->pkgs();
+
+            array_multisort(
+                array_column($pkgData, 'maintainer'), SORT_ASC,
+                array_column($pkgData, 'name'), SORT_ASC,
+                $pkgData
+            );
+
+            # (3) Attempt page update
+            $page->update([
+                'phpData' => Data::encode($phpData, 'yaml'),
+                'pkgData' => Data::encode($pkgData, 'yaml'),
             ]);
 
         } catch(Exception $e) {

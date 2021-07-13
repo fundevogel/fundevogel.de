@@ -11,13 +11,12 @@
     </div>
 </header>
 
-<?php snippet('dependencies/website') ?>
-
-<section class="container">
-    <?= $page->details()->kt() ?>
-</section>
-
+<?php if ($page->details()->isNotEmpty()) : ?>
 <hr>
+<?php snippet('layouts', ['layouts' => $page->details()->toLayouts()]) ?>
+<?php endif ?>
+
+<?php snippet('dependencies/website') ?>
 
 <?php snippet('dependencies/lists') ?>
 
