@@ -1,0 +1,21 @@
+Titleattribute: .. Hintergründe und weiterführende Infos gehören für uns dazu!
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Ausschnitt der Seite "Unsere Technik"
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,4 +1,4 @@
-Title: Über unsere Technik
+Title: Unsere Technik
 
 ----
 
@@ -28,9 +28,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 ----
 
-Cover:
-
-- technisches.jpg
+Cover: - technisches.jpg
 
 ----
 
@@ -353,9 +351,7 @@ Pagespeed: 100
 
 ----
 
-Chart:
-
-- programmiersprachen.svg
+Chart: - programmiersprachen.svg
 
 ----
 
@@ -375,9 +371,7 @@ Meta-author:
 
 ----
 
-Meta-image:
-
-- technisches.jpg
+Meta-image: - technisches.jpg
 
 ----
 
@@ -393,9 +387,7 @@ Og-description:
 
 ----
 
-Og-image:
-
-- technisches.jpg
+Og-image: - technisches.jpg
 
 ----
 
@@ -455,9 +447,7 @@ Twitter-description:
 
 ----
 
-Twitter-image:
-
-- technisches.jpg
+Twitter-image: - technisches.jpg
 
 ----
 
