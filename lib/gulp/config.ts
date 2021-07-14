@@ -65,7 +65,7 @@ const conf: Record<string, any> = {
         },
         minify: {
             // For more options, see https://github.com/jakubpawlowicz/clean-css#constructor-options
-            level: 2,
+            level: 1,
         },
     },
     scripts: {
