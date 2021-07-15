@@ -53,6 +53,9 @@
 </aside>
 
 <section class="container">
+    <div class="mb-8">
+        <?= $page->form()->kt() ?>
+    </div>
     <?php snippet('contact/form') ?>
     <?php if ($form->success()) : ?>
     Success!

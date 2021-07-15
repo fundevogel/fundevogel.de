@@ -44,6 +44,7 @@ return [
             ]);
         }
 
+        return Html::img($source, A::update($attributes, $extra));
         return snippet('webPicture', [
             'src' => $this,
             'tag' => Html::img($source, A::update($attributes, $extra)),

@@ -35,6 +35,12 @@ tabs:
           en: By tram
         type: markdown
 
+      form:
+        label:
+          de: Kontaktformular
+          en: Contact form
+        type: markdown
+
     sidebar:
       sidebar_fields:
         type: fields
