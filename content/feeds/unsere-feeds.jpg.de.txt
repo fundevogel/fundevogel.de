@@ -1,0 +1,21 @@
+Titleattribute: Immer aktuell: Lesetipps & Aktuelles aus dem Fundevogel
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Der Bildschirm eines Smartphones zeigt die Webseite des Fundevogels. Im Hintergrund sieht man Bücherregale.
+
+----
+
+Caption-wanted: true
+
+----
+
+Caption: Immer gut beraten: Neues aus dem Fundevogel!
+
+----
+
+Template: image

@@ -1,0 +1,149 @@
+Title: Unsere Feeds
+
+----
+
+Text:
+
+## Immer auf dem Laufenden
+Lesenswerte Angebote im Internet gibt es viele und ihre Bandbreite und reicht von Informationsschnipseln über Erfahrungsberichte und Produkttests bishin zu aufwendigen Recherchen. Damit Nutzer:innen nicht den Überblick verlieren und sämtliche Webseiten im Blick behalten müssen, bieten viele Anbieter die Möglichkeit, einen (short: Feed desc: Laut Duden handelt es sich dabei um eine 'digitale Nachricht aus dem Internet, die kostenlos abonniert werden kann') zu abonnieren: veröffentlicht dieser neue Inhalte, werden sie automatisch an alle Abonnent:innen verteilt.
+
+Die in den Formaten in den Formaten (short: JSON desc: engl. für 'JavaScript Object Notation') oder (short: RSS desc: engl. für 'Rich Site Summary') bereitgestellten Feeds werden mittels "Feedreader" aufbereitet und können dann jederzeit bequem nachgelesen werden.
+
+----
+
+Details:
+
+## Neues Lesefutter als Abo
+Unsere Lesetipps sind in beiden Formaten verfügbar:
+- Lesetipps als Feed im (link: feeds/json text: JSON target: blank)-Format
+- Lesetipps als Feed im (link: feeds/rss text: RSS target: blank)-Format
+
+Gelegentlich informieren wir auf unserer Webseite auch über Neuigkeiten aus dem Laden, aktuelle Entwicklungen im Buchhandel sowie geplante Veranstaltungen - ebenfalls als Abonnement verfügbar:
+- Neuigkeiten als Feed im (link: news/json text: JSON target: blank)-Format
+- Neuigkeiten als Feed im (link: news/rss text: RSS target: blank)-Format
+
+----
+
+Cover:
+
+- unsere-feeds.jpg
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: Mit unseren Lesetipps als JSON/RSS-Feed halten wir Euch auf dem Laufenden in Sachen Kinder- und Jugendbuch: einfach abonnieren und loslesen!
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-03-24
+
+----
+
+Meta-keywords: 
