@@ -1,0 +1,16 @@
+title: Feeds
+
+options: options/default
+
+tabs:
+  tab_content:
+    extends: tabs/content
+    fields:
+      details:
+        type: markdown
+
+    sidebar:
+      sidebar_fields: sections/sidebar.cover
+
+  # Metadata
+  tab_seo: tabs/seo
