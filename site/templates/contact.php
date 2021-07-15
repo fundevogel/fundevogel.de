@@ -52,4 +52,13 @@
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
 
+<section class="container">
+    <?php snippet('contact/form') ?>
+    <?php if ($form->success()) : ?>
+    Success!
+    <?php else : ?>
+    <?php snippet('uniform/errors', ['form' => $form]) ?>
+    <?php endif ?>
+</section>
+
 <?php snippet('footer') ?>

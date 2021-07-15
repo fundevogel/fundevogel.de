@@ -142,6 +142,11 @@ Mit dem Fahrrad: By bicycle
 Auf der Schiene: By tram
 Presse-Überschrift: Everything at a glance
 
+# Contact: form
+Betreff: Subject
+Nachricht: Message
+erforderlich: required
+
 # Contact: misc
 Montag bis Freitag: Monday to friday
 Samstag: Saturday
