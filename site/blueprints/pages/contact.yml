@@ -77,5 +77,14 @@ tabs:
 
       sidebar_files: sections/images
 
+      sidebar_form:
+        type: fields
+        fields:
+          error:
+            label:
+              de: Fehlermeldung
+              en: Error message
+            type: markdown
+
   # Metadata
   tab_seo: tabs/seo

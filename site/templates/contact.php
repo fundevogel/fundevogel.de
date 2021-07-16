@@ -56,12 +56,8 @@
     <div class="mb-8">
         <?= $page->form()->kt() ?>
     </div>
+    <?php if (!$form->success()) snippet('contact/error', ['form' => $form]) ?>
     <?php snippet('contact/form') ?>
-    <?php if ($form->success()) : ?>
-    Success!
-    <?php else : ?>
-    <?php snippet('uniform/errors', ['form' => $form]) ?>
-    <?php endif ?>
 </section>
 
 <?php snippet('footer') ?>
