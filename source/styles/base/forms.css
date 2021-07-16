@@ -1,3 +1,17 @@
+label {
+  @apply block;
+  @apply mb-2;
+  @apply font-medium text-xs;
+}
+
+input {
+  @apply h-16;
+}
+
+textarea {
+  @apply resize-none;
+}
+
 .form-select {
   @apply m-0;
   @apply py-2;
@@ -39,29 +53,14 @@
   box-shadow: 0 0 0 3px -moz-mac-focusring;
 }
 
-/* Kirby Uniform plugin */
-/* stylelint-disable-next-line selector-class-pattern */
-.uniform__potty {
-  left: -9999px;
-  position: absolute;
-}
-
-label {
-  @apply block;
-  @apply mb-4;
-}
-
 .form-input {
   @apply w-full;
-  @apply h-16;
   @apply px-4;
-  @apply pr-2;
+  @apply py-2;
   @apply font-medium;
   @apply text-orange-medium;
   @apply bg-orange-light;
-  @apply border-4;
-  @apply border-dashed;
-  @apply border-orange-medium;
+  @apply border-4 border-dashed border-orange-medium;
   @apply rounded-lg;
   @apply leading-relaxed ;
   @apply appearance-none;

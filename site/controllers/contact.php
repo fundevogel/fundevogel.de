@@ -2,15 +2,15 @@
 
 use Uniform\Form;
 
-return function ($kirby, $site) {
+return function ($kirby) {
    $form = new Form([
         'email' => [
             'rules' => ['required', 'email'],
-            'message' => 'Email is required',
+            'message' => t('Eine Email wird benötigt!'),
         ],
         'message' => [
             'rules' => ['required'],
-            'message' => 'Message is required',
+            'message' => t('Eine Nachricht wird benötigt!'),
         ],
     ]);
 
@@ -18,9 +18,10 @@ return function ($kirby, $site) {
         # Save form data
         # (1) Create directory & log data
         $dataDir = $kirby->root('logs') . '/contact-form/';
+
         if (Dir::make($dataDir)) {
             # Build unique token from current time & email
-            $timestamp = date('Y-m-d-H-i-s');
+            $timestamp = date('Y-m-d_H-i-s');
             $hash = md5($timestamp . $form->data()['email']);
 
             # Log data
@@ -37,7 +38,11 @@ return function ($kirby, $site) {
                 'to' => 'maschinenraum@fundevogel.de',
                 'subject' => 'Neue Anfrage von {{ email }}'
             ]);
-        } catch (\Throwable $th) {}
+        } catch (Exception $e) {}
+
+        if ($form->success()) {
+            go(page('kontakt/vielen-dank')->url());
+        }
     }
 
     return compact('form');
