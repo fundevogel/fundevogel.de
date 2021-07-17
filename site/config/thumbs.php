@@ -6,12 +6,12 @@
 
 return [
     # General thumbnail settings
-    'driver' => 'gd',
-    // 'quality' => [
-    //     'jpg' => 85,
-    //     'webp' => 80,
-    //     'avif' => 40,
-    // ],
+    'driver' => 'colorist',
+    'quality' => [
+        'jpg' => 85,
+        'webp' => 80,
+        'avif' => 40,
+    ],
 
     # AVIF support
     'avif' => [
