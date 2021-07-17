@@ -141,6 +141,15 @@ Mit dem Fahrrad: By bicycle
 Über den Asphalt: By car
 Auf der Schiene: By tram
 Presse-Überschrift: Everything at a glance
+Dank-Überschrift: What happens now?
+
+# Contact: form
+Betreff: Subject
+Nachricht: Message
+erforderlich: required
+Absenden: Submit
+Eine Email wird benötigt!: Email is required!
+Eine Nachricht wird benötigt!: Message is required!
 
 # Contact: misc
 Montag bis Freitag: Monday to friday

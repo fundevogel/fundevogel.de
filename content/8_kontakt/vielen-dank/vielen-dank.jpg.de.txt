@@ -1,0 +1,11 @@
+Titleattribute: Wir bearbeiten Eure Anliegen schnell und zuverlässig.
+----
+Altattribute: Vogelhäuschen im Briefkastenlook
+----
+Caption-wanted: true
+----
+Caption: Die offizielle Fundevogel-Postzentrale!
+----
+Source: Mika Baumeister @Unsplash - https://unsplash.com/@mbaumi
+----
+Template: image

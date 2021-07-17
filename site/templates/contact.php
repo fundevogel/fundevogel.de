@@ -52,4 +52,12 @@
     <?= useSeparator('orange-light', 'bottom-reversed') ?>
 </aside>
 
+<section class="container">
+    <div class="mb-8">
+        <?= $page->form()->kt() ?>
+    </div>
+    <?php if (!$form->success()) snippet('contact/error', ['form' => $form]) ?>
+    <?php snippet('contact/form') ?>
+</section>
+
 <?php snippet('footer') ?>
