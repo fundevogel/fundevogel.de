@@ -1,0 +1,144 @@
+Title: Vielen Dank!
+
+----
+
+Text:
+
+## Wir melden uns bei Euch!
+Unsere Begeisterung für die Kinder- und Jugendliteratur ist der Antrieb unserer Arbeit und unseres Einsatzes für die Leseförderung. **Anregungen und Kritik** erinnern uns daran, stets auch unsere gesellschaftliche Verantwortung mitzudenken:
+
+> Wie die Welt von morgen aussehen wird, hängt in großem Maß von der Einbildungskraft jener ab, die gerade jetzt lesen lernen.
+> <footer>Astrid Lindgren</footer>
+
+**Danke für Euer Vertrauen!**
+
+----
+
+Cards:
+
+- 
+  entry: 'Im Falle einer **Bestellung** benachrichtigen wir Euch, sobald diese bei uns eingetroffen ist. Wenn Ihr bis 16 Uhr bestellt habt, kommt die Lieferung bereits am Folgetag der Bestellung.'
+- 
+  entry: 'Für Kindergärten organisieren wir auf Anfrage einen **Büchertisch** - hierzu setzen wir uns zeitnah mit Euch in Verbindung, in der Regel innerhalb von vierundzwanzig Stunden.'
+- 
+  entry: '**Allgemeine Nachfragen** beantworten wir - innerhalb unserer Öffnungszeiten - sofort.'
+- 
+  entry: '**Kritik** macht uns nachdenklich, aber nicht sprachlos: selbstverständlich antworten wir auch in Fällen von Unzufriedenheit oder Unverständnis schnellstmöglich, um Missverständnisse aufzuklären und Probleme gemeinsam zu lösen.'
+- 
+  entry: 'Besonders knifflige, **komplexe Fragen** bedürfen einer sorgfältigen Untersuchung; vielleicht bietet sich hierfür eher ein Telefongespräch oder ein Treffen im Laden bei einer Tasse Kaffee an?'
+- 
+  entry: 'Eine **Fernberatung** ist zwar - je nach Anforderungen - mit vielen Nachfragen verbunden und damit schwieriger als ein Austausch vor Ort, aber nicht unmöglich. Wir nehmen uns die Zeit, das richtige Buch zu finden!'
+
+----
+
+Cover:
+
+- vielen-dank.jpg
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
