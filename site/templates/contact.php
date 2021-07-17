@@ -7,10 +7,10 @@
                 <?= $page->text()->kt() ?>
             </div>
             <div class="mb-4 text-center">
-                <?= snippet('contact/contact-details') ?>
+                <?php snippet('contact/details', ['type' => 'contact']) ?>
             </div>
             <div class="text-center">
-                <?php snippet('contact/opening-hours') ?>
+                <?php snippet('contact/details', ['type' => 'hours']) ?>
             </div>
         </div>
         <div class="mt-12 flex-none text-center">
