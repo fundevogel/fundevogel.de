@@ -36,7 +36,8 @@ return function ($kirby) {
             $form->emailAction([
                 'from' => 'noreply@fundevogel.de',
                 'to' => 'maschinenraum@fundevogel.de',
-                'subject' => 'Neue Anfrage von {{ email }}'
+                'subject' => 'Neue Anfrage von {{ email }}',
+                'template' => 'contact/email',
             ]);
         } catch (Exception $e) {}
 
