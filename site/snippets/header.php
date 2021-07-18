@@ -28,7 +28,6 @@
                             <div class="flex items-end justify-center md:justify-start">
                                 <div class="-mb-4 md:-mb-12 mr-4 hidden md:flex">
                                     <?php $image = new Asset('assets/images/logo_square.png'); ?>
-                                    <div class="aspect-ratio-square"></div>
                                     <img
                                         class="w-32 lg:w-auto z-30"
                                         src="<?= $image->url() ?>"

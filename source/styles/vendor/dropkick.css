@@ -152,13 +152,13 @@
 
 .dk-select-open-up .dk-selected::before,
 .dk-select-open-down .dk-selected::before {
-  border-bottom-color: theme('colors', 'orange-medium');
+  border-bottom-color: theme('colors.orange.medium');
   border-width: 0 0.25em 0.25em;
 }
 
 .dk-select-open-up .dk-selected::after,
 .dk-select-open-down .dk-selected::after {
-  border-left-color: theme('colors', 'orange-medium');
+  border-left-color: theme('colors.orange.medium');
 }
 
 .dk-select-open-up .dk-select-options,
@@ -180,12 +180,12 @@
 
 .dk-selected:hover::before,
 .dk-selected:focus::before {
-  border-top-color: theme('colors', 'orange-medium');
+  border-top-color: theme('colors.orange.medium');
 }
 
 .dk-selected:hover::after,
 .dk-selected:focus::after {
-  border-left-color: theme('colors', 'orange-medium');
+  border-left-color: theme('colors.orange.medium');
 }
 
 .dk-select-disabled {
