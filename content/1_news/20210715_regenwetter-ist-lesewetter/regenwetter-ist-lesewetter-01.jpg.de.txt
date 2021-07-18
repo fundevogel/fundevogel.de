@@ -1,0 +1,21 @@
+Titleattribute: Zeichnung: Loriot
+
+----
+
+Source: 
+
+----
+
+Altattribute: Ein Mann blättert mit Handschuhen in einem Buch.
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
