@@ -28,7 +28,9 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 ----
 
-Cover: - technisches.jpg
+Cover:
+
+- technisches.jpg
 
 ----
 
@@ -110,7 +112,7 @@ Phpdata:
 - 
   maintainer: bnomei
   name: kirby3-janitor
-  version: 2.6.9
+  version: 2.8.0
   license: MIT
   description: >
     Kirby 3 Plugin for running jobs like
@@ -202,6 +204,15 @@ Phpdata:
   url: >
     https://github.com/kschu91/largest-remainder-method
 - 
+  maintainer: mzur
+  name: kirby-uniform
+  version: 4.3.2
+  license: GPL-2.0-or-later
+  description: >
+    A versatile Kirby plugin to handle web
+    form actions.
+  url: https://github.com/mzur/kirby-uniform
+- 
   maintainer: oblik
   name: kirby-plurals
   version: 1.0.0
@@ -222,7 +233,7 @@ Phpdata:
 - 
   maintainer: s1syphos
   name: php-thx
-  version: 1.2.0
+  version: 1.2.1
   license: MIT
   description: 'Acknowledge the people behind your frontend dependencies - and give thanks!'
   url: https://github.com/S1SYPHOS/php-thx
@@ -307,23 +318,13 @@ Pkgdata:
 - 
   maintainer: tailwindlabs
   name: tailwindcss
-  version: 1.8.12
+  version: 2.2.4
   license: MIT
   description: >
     A utility-first CSS framework for
     rapidly building custom user interfaces.
   url: >
     https://github.com/tailwindlabs/tailwindcss
-- 
-  maintainer: webdna
-  name: tailwindcss-aspect-ratio
-  version: 3.0.0
-  license: MIT
-  description: >
-    Tailwind CSS plugin to generate aspect
-    ratio utilities
-  url: >
-    https://github.com/webdna/tailwindcss-aspect-ratio
 
 ----
 
@@ -335,11 +336,11 @@ Licensetoken: GPL-3.0
 
 ----
 
-Loc: 4.960
+Loc: 5.027
 
 ----
 
-Commits: 15
+Commits: 17
 
 ----
 
@@ -351,7 +352,9 @@ Pagespeed: 100
 
 ----
 
-Chart: - programmiersprachen.svg
+Chart:
+
+- programmiersprachen.svg
 
 ----
 
@@ -371,7 +374,9 @@ Meta-author:
 
 ----
 
-Meta-image: - technisches.jpg
+Meta-image:
+
+- technisches.jpg
 
 ----
 
@@ -387,7 +392,9 @@ Og-description:
 
 ----
 
-Og-image: - technisches.jpg
+Og-image:
+
+- technisches.jpg
 
 ----
 
@@ -447,7 +454,9 @@ Twitter-description:
 
 ----
 
-Twitter-image: - technisches.jpg
+Twitter-image:
+
+- technisches.jpg
 
 ----
 

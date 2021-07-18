@@ -32,7 +32,6 @@ return [
                 'loading' => 'lazy',
                 'data-src' => $image->url(),
                 'data-sizes' => 'auto',
-                'data-aspectratio' => '',
             ]);
         }
 
