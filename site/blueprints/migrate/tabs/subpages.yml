@@ -1,0 +1,19 @@
+preset: pages
+label:
+  de: Unterseiten
+  en: Subpages
+icon: layers
+
+drafts:
+  extends: migrate/sections/drafts
+  info: "Stand: {{ page.modified('d.m.Y, H:i') }} Uhr"
+
+unlisted:
+  extends: migrate/sections/unlisted
+  info: "Stand: {{ page.modified('d.m.Y, H:i') }} Uhr"
+
+listed:
+  extends: migrate/sections/listed
+  layout: cards
+  size: medium
+  info: "Stand: {{ page.modified('d.m.Y') }}"

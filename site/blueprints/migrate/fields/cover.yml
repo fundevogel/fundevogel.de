@@ -1,0 +1,7 @@
+extends: migrate/fields/base/images
+label: Cover
+layout: cards
+multiple: false
+size: huge
+image:
+  ratio: 4/3

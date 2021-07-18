@@ -1,0 +1,8 @@
+label:
+  de: Zeit
+  en: Time
+type: time
+step: 15
+display: HH:mm
+after: Uhr
+translate: false

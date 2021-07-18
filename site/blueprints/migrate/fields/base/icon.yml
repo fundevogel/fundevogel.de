@@ -1,0 +1,8 @@
+label: Icon
+type: select
+options:
+  camera-filled: Kamera
+  book-closed-filled: Buch
+  star: Stern
+  heart-filled: Herz
+translate: false

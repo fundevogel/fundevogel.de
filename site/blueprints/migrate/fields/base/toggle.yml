@@ -1,0 +1,9 @@
+type: toggle
+text:
+  -
+    de: Nein
+    en: No
+  -
+    de: Ja
+    en: Yes
+translate: false

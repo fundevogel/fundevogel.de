@@ -1,0 +1,10 @@
+label:
+  de: Bilder
+  en: Images
+type: files
+query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
+image:
+  cover: true
+info: "{{ file.dimensions }} ({{ file.niceSize }})"
+uploads: image
+translate: false

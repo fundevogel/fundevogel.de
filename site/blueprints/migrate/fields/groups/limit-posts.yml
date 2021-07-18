@@ -1,0 +1,24 @@
+type: group
+fields:
+  headline_limit_posts:
+    extends: migrate/fields/base/headline
+    label:
+      de: Beiträge begrenzen
+      en: Limit displayed posts
+
+  perpage_wanted:
+    extends: migrate/fields/base/toggle
+    label:
+      de: Beiträge begrenzen?
+      en: Limit posts?
+    icon: funnel
+
+  perpage:
+    extends: migrate/fields/base/number
+    label:
+      de: Beiträge pro Seite
+      en: Posts per page
+    max: 20
+    default: 5
+    when:
+      perpage_wanted: true

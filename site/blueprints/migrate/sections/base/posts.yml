@@ -1,0 +1,11 @@
+headline:
+  de: Beiträge
+  en: Posts
+type: pages
+layout: list
+sortBy: date desc
+info: "{{ page.date.toDate('d.m.Y') }}"
+image:
+  query: page.getCover
+  ratio: 4/3
+  cover: true
