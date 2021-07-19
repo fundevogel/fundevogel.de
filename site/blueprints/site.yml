@@ -33,7 +33,11 @@ tabs:
             headline:
               de: Sonstige Seiten
               en: Miscellaneous
-            template: default
+            sortBy: intendedTemplate desc title asc
+            templates:
+              - dependencies
+              - feeds
+              - default
             info: "Zuletzt bearbeitet am {{ page.modified('d.m.Y') }}"
 
           jobs:
