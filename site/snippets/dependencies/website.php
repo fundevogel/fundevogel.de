@@ -12,7 +12,7 @@
                     <div class="mt-8 sm:mt-0 lg:mt-8 flex flex-col items-center">
                         <h3 class="text-orange-medium"><?= t('Programmiersprachen') ?></h3>
                         <ul class="table">
-                            <?php foreach ($page->languages()->toStructure() as $language) : ?>
+                            <?php foreach ($page->langData()->toStructure() as $language) : ?>
                             <li>
                                 <span class="js-label mr-2 w-4 h-4 inline-block rounded-full" data-color="<?= $language->color() ?>"></span>
                                 <?= $language->share() ?> % <?= $language->title() ?>

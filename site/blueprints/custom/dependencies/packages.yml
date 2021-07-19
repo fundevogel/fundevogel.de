@@ -1,0 +1,15 @@
+type: group
+fields:
+  headline_packages:
+    extends: fields/base/headline
+    label:
+      de: Pakete
+      en: Packages
+
+  phpData:
+    extends: custom/dependencies/package-list
+    label: Composer (PHP)
+
+  pkgData:
+    extends: custom/dependencies/package-list
+    label: JavaScript & TypeScript

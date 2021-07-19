@@ -5,13 +5,24 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: fields/cover
 
-      sidebar_files: sections/images
+  # PDF editions
+  tab_editions:
+    extends: tabs/media
+    columns:
+      column_files:
+        sections:
+          files:
+            extends: sections/documents
+            parent: site.find('lesetipps')
 
   # Metadata
   tab_seo: tabs/seo

@@ -5,86 +5,32 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    preset: page
-    icon: text
-    label:
-      de: Inhalt
-      en: Content
-
+    extends: tabs/content
     fields:
-      text:
-        label: Text
-        type: markdown
-
-      bike:
-        label:
-          de: Anfahrt mit Fahrrad
-          en: By bike
-        type: markdown
-
-      car:
-        label:
-          de: Anfahrt mit Auto
-          en: By car
-        type: markdown
-
-      tram:
-        label:
-          de: Anfahrt mit Tram
-          en: By tram
-        type: markdown
-
-      form:
-        label:
-          de: Kontaktformular
-          en: Contact form
-        type: markdown
+      directions: custom/contact/directions
+      form: custom/constact/form
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: fields/single-cover
+          cover: fields/cover
 
-          weekStart:
-            extends: fields/time
-            label:
-              de: Beginn (Woche)
-              en: Start (Week)
-            width: 1/2
+          hours: custom/contact/hours
 
-          weekEnd:
-            extends: fields/time
-            label:
-              de: Ende (Woche)
-              en: End (Week)
-            width: 1/2
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      create: false
 
-          weekendStart:
-            extends: fields/time
-            label:
-              de: Beginn (Wochenende)
-              en: Start (Weekend)
-            width: 1/2
+    unlisted:
+      create: false
 
-          weekendEnd:
-            extends: fields/time
-            label:
-              de: Ende (Wochenende)
-              en: End (Weekend)
-            width: 1/2
-
-      sidebar_files: sections/images
-
-      sidebar_form:
-        type: fields
-        fields:
-          error:
-            label:
-              de: Fehlermeldung
-              en: Error message
-            type: markdown
+    listed:
+      create: false
 
   # Metadata
   tab_seo: tabs/seo

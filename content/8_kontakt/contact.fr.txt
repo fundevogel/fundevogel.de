@@ -31,7 +31,7 @@ Cover:
 
 ----
 
-Meta-title: 
+Meta-title:
 
 ----
 
@@ -39,15 +39,15 @@ Meta-description: La librairie Fundevogel est au coeur de la vielle ville idylli
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -57,15 +57,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -75,23 +75,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -99,35 +99,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -141,33 +141,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
-
-----
-
-Kontaktinfos:
-
-## Contact
-Marienstr. 13 - 79098 Freiburg
-Tel.: 0761/25218 - Fax: 0761/30041
-info@fundevogel.de
-
-----
-
-Oeffnungszeiten:
-
-## Nos horaires d'ouverture
-Du lundi au vendredi, de 9h30 à 18h00
-Le samedi de 9h30 à 16h00
-
-----
-
-Time-start: 09:30:00
-
-----
-
-Time-end: 18:00:00
+Twitter-creator:

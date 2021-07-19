@@ -9,7 +9,7 @@ Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktober für
 
 ----
 
-Short: Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktober für mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen Aktionen - ein Fest, das ganz und gar der Leidenschaft des Lesens gewidmet ist, und viele spannende Stunden in der Welt der Bücher für groß und klein bereithält.
+Previewdescription: Das große Kinderliteraturfest im Stadtheater Freiburg bietet Mitte Oktober für mehrere Tage ein buntes Programm von Lesungen, Workshops und vielen Aktionen - ein Fest, das ganz und gar der Leidenschaft des Lesens gewidmet ist, und viele spannende Stunden in der Welt der Bücher für groß und klein bereithält.
 
 ----
 
@@ -37,15 +37,15 @@ Meta-description: Das große Kinderliteraturfest in Freiburg bietet Mitte Oktobe
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -55,15 +55,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -73,23 +73,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -97,35 +97,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -139,11 +139,11 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:
 
 ----
 

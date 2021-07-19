@@ -1,0 +1,19 @@
+type: group
+fields:
+  headline_form:
+    extends: fields/base/headline
+    label:
+      de: Kontaktformular
+      en: Contact form
+
+  formText:
+    label:
+      de: Kontaktformular
+      en: Contact form
+    type: markdown
+
+  formError:
+    label:
+      de: Fehlermeldung
+      en: Error message
+    type: markdown

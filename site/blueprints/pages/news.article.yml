@@ -4,32 +4,28 @@ title:
 
 num: '{{ page.date.toDate("Ymd") }}'
 
-options: options/article
+options: options/post
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
-    fields:
-      subtitle_wanted:
-        extends: fields/toggle
-        label:
-          de: Mit Unterittel?
-          en: Include subtitle?
-        width: 1/3
-
-      subtitle:
-        label:
-          de: Untertitel
-          en: Subtitle
-        type: text
-        width: 2/3
-        when:
-          subtitle_wanted: true
-
     sidebar:
       sidebar_fields:
+        type: fields
         fields:
-          date: fields/date
+          date: fields/base/date
 
-      sidebar_files: sections/images
+          subtitle_wanted:
+            extends: fields/base/toggle
+            label:
+              de: Mit Unterittel?
+              en: Include subtitle?
+
+          subtitle:
+            label:
+              de: Untertitel
+              en: Subtitle
+            type: text
+            when:
+              subtitle_wanted: true

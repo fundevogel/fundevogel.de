@@ -3,3 +3,5 @@ label:
   en: Date
 type: date
 default: today
+display: dd.mm.YYYY
+translate: false

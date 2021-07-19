@@ -4,17 +4,13 @@ title:
 
 num: "{{ page.date.toDate('Ymd') }}"
 
-options: options/article
+options: options/post
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
-      text:
-        label: Text
-        type: markdown
-
       verdict:
         label:
           de: Einschätzung
@@ -32,7 +28,7 @@ tabs:
           isAdvanced: false
 
       layouts:
-        extends: fields/layouts
+        extends: fields/base/layouts
         when:
           isAdvanced: true
 
@@ -40,7 +36,7 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          date: fields/date
+          date: fields/base/date
 
           book:
             extends: fields/book
@@ -50,7 +46,7 @@ tabs:
               cover: true
 
           isExternal:
-            extends: fields/toggle
+            extends: fields/base/toggle
             label:
               de: Rezension
               en: Review
@@ -63,12 +59,10 @@ tabs:
                 - External
 
           isAdvanced:
-            extends: fields/toggle
+            extends: fields/base/toggle
             label:
               de: Erweiterte Optionen anzeigen
               en: Show advanced options
-
-      sidebar_files: false
 
   # Books
   tab_books: tabs/books

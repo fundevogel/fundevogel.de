@@ -1,11 +1,10 @@
-label: Cover
+label:
+  de: Bilder
+  en: Images
 type: files
 query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
-layout: cards
-multiple: false
-size: huge
 image:
-  ratio: 2/1
   cover: true
 info: "{{ file.dimensions }} ({{ file.niceSize }})"
+uploads: image
 translate: false

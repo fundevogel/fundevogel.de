@@ -5,9 +5,9 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
       about_us:
         label:
@@ -33,17 +33,29 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          captionGallery: fields/groups/caption-gallery
+          gallery:
+            extends: fields/base/images
+            label:
+              de: Bildergalerie
+              en: Gallery
 
-      sidebar_files: false
+          caption:
+            extends: fields/caption
+            help:
+              de: Die Bildunterschrift erscheint, wenn der Mauszeiger über das Bild bewegt wird.
+              en: The caption appears when hovering the mouse pointer over the image.
 
-      sidebar_pages:
-        extends: sections/articles
-        headline:
-          de: Unterseiten
-          en: Subpages
-        create: false
-        layout: list
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      create: false
+
+    unlisted:
+      create: false
+
+    listed:
+      create: false
 
   # Metadata
   tab_seo: tabs/seo

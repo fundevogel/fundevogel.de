@@ -5,90 +5,87 @@ title:
 options: options/default
 
 tabs:
-  # Lesetipps
-  tab_articles:
-    extends: tabs/articles
+  # Content
+  tab_content:
+    extends: tabs/content
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          fallback:
+            extends: fields/cover
+            label:
+              de: Reservebild
+              en: Fallback image
 
+  # Lesetipps
+  tab_lesetipps:
+    extends: tabs/posts
+    label:
+      de: Lesetipps
+      en: Reading tips
     columns:
       left:
-        sections:
-          drafts:
-            template: lesetipps.article
-
-          unlisted:
-            template: lesetipps.article
-
-      right:
         sections:
           info:
             text:
               de: |
-                Um einen **neuen Lesetipp** anzulegen, wähle links "Hinzufügen", gib den Namen des Lesetipps an und bestätige mit "Entwurf anlegen".
+                Um einen **neuen Lesetipp** anzulegen, wähle links "Hinzufügen", gib die ISBN des Lesetipps an und bestätige mit "Entwurf anlegen".
 
                 **Hinweis:** Danach muss der Lesetipp noch "veröffentlicht" werden: Klicke einfach unter der Überschrift des Beitrags auf "Entwurf" und ändere den Status auf "Öffentlich".
               en: |
-                Adding a **new recommendation** is pretty simple, just choose "Add" on the left side, enter the title of the recommendation and hit "Create draft".
+                Adding a **new recommendation** is pretty simple, just choose "Add" on the left side, enter the ISBN of the recommendation and hit "Create draft".
 
                 **Note:** After that the recommendation still has to be "published". In order to do that, click on "Draft" (below the recommendation's title) and change the status to "Published".
 
-      full:
+          limit:
+            fields:
+              headline_limit_posts: false
+
+      right:
         sections:
-          listed:
+          posts_drafts:
             template: lesetipps.article
 
-  tab_content:
-    extends: tabs/default
+          posts_unlisted:
+            template: lesetipps.article
 
+      full:
+        sections:
+          posts_listed:
+            template: lesetipps.article
+
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      templates:
+        - lesetipps.browse
+        - lesetipps.archive
+        - lesetipps.topics
+      create: false
+
+    unlisted:
+      templates:
+        - lesetipps.browse
+        - lesetipps.archive
+        - lesetipps.topics
+      create: false
+
+    listed:
+      templates:
+        - lesetipps.browse
+        - lesetipps.archive
+        - lesetipps.topics
+      create: false
+
+  # PDF editions
+  tab_editions:
+    extends: tabs/media
     columns:
-      column_main:
+      column_files:
         sections:
-          main_fields:
-            type: fields
-            fields:
-              text:
-                label: Text
-                type: markdown
-
-          child_pages:
-            extends: sections/articles
-            headline:
-              de: Unterseiten
-              en: Subpages
-            template:
-              - lesetipps.browse
-              - lesetipps.archive
-              - lesetipps.topics
-            create: false
-            size: small
-            image:
-              ratio: 3/2
-
-      column_sidebar:
-        sections:
-          sidebar_fields:
-            type: fields
-            fields:
-              limit_perpage: fields/groups/limit-perpage
-
-              fallback:
-                extends: fields/single-cover
-                label:
-                  de: Reservebild
-                  en: Fallback image
-                image:
-                  ratio: 1/1
-
-          sidebar_documents:
-            headline:
-              de: Ausgaben
-              en: Editions
-            type: files
-            sortBy: year desc edition desc
-            text: "{{ file.edition }} ({{ file.year }})"
-            template: pdf
-            create: pdf
-            info: "{{ file.niceSize }}"
-            image: file.coverImage.toFile()
+          files: sections/documents
 
   # Metadata
   tab_seo: tabs/seo

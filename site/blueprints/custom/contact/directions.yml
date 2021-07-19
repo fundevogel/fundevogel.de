@@ -1,0 +1,25 @@
+type: group
+fields:
+  headline_directions:
+    extends: fields/base/headline
+    label:
+      de: Anfahrt
+      en: Directions
+
+  bike:
+    label:
+      de: Anfahrt mit Fahrrad
+      en: By bike
+    type: markdown
+
+  car:
+    label:
+      de: Anfahrt mit Auto
+      en: By car
+    type: markdown
+
+  tram:
+    label:
+      de: Anfahrt mit Tram
+      en: By tram
+    type: markdown

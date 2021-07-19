@@ -50,19 +50,19 @@ Mit wachsendem Umfang der digitalen Anforderungen an unsere Buchhandlung sind ü
 
 ----
 
-Languages:
+Langdata:
 
 - 
   title: PHP
-  share: 67.9
+  share: 68.6
   color: '#4F5D95'
 - 
   title: TypeScript
-  share: 22.3
+  share: 21.7
   color: '#2b7489'
 - 
   title: CSS
-  share: 4.5
+  share: 4.4
   color: '#563d7c'
 - 
   title: Python

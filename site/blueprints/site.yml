@@ -2,68 +2,23 @@ title:
   de: Seite
   en: Site
 
-files: false
-
 tabs:
-  # Lesetipps
-  tab_lesetipps:
-    label:
-      de: Lesetipps
-      en: Reading tips
-    icon: template
-    columns:
-      lesetipps_full:
-        sections:
-          lesetipps:
-            extends: sections/articles
-            headline:
-              de: Lesetipps
-              en: Recommendations
-            parent: site.find('lesetipps')
-            create: lesetipps.article
-            template: lesetipps.article
-
-  # Pages
-  tab_overview:
+  # Index
+  tab_index:
     label:
       de: Übersicht
       en: Overview
     icon: layers
     columns:
-      pages_left:
-        width: 2/3
+      full:
         sections:
-          news:
-            extends: sections/articles
-            headline: Aktuelles
-            parent: site.find('news')
-            create:
-              - news.article
-              - news.recommendation
-            layout: list
-
-          events:
-            extends: sections/articles
-            headline: Veranstaltungen
-            parent: site.find('kalender')
-            template: calendar.event
-            create: calendar.event
-            layout: list
-            subpages: false
-            empty: Keine Veranstaltungen!
-
-      pages_right:
-        width: 1/3
-        sections:
-          default_pages:
+          pages_main:
+            extends: sections/base/posts
             headline:
-              de: Verfügbare Seiten
-              en: Available pages
-            type: pages
-            sortable: false
-            info: false
-            create: default
-            template:
+              de: Hauptseiten
+              en: Main pages
+            sortBy: num asc
+            templates:
               - news
               - about
               - assortment
@@ -71,54 +26,119 @@ tabs:
               - calendar
               - grid-list
               - contact
-              - default
+            info: "{{ page.children.count }} Unterseite(n), {{ page.files.filterBy('extension', 'not in', ['webp', 'avif']).count }} Datei(en)"
+
+          pages_rest:
+            extends: sections/base/posts
+            headline:
+              de: Sonstige Seiten
+              en: Miscellaneous
+            template: default
+            info: "Zuletzt bearbeitet am {{ page.modified('d.m.Y') }}"
 
           jobs:
             type: fields
             fields:
+              headline_jobs:
+                extends: fields/base/headline
+                label:
+                  de: Tätigkeiten
+                  en: Various jobs
+
               archiveEvents:
-                type: janitor
+                extends: fields/base/job
                 label:
                   de: Veranstaltungen aussortieren
                   en: Generate metadata
                 progress: Durchsuchen ..
                 job: archiveEvents
+                width: 1/4
 
               clearDejure:
-                type: janitor
+                extends: fields/base/job
                 label:
                   de: DJO-Cache leeren
                   en: Clear DJO cache
                 progress: Leeren ..
                 job: clearDejure
+                width: 1/4
 
-  # Books
-  tab_books: tabs/books
+  # Lesetipps
+  tab_lesetipps:
+    extends: tabs/custom/lesetipps
+    icon: book
+    columns:
+      left:
+        sections:
+          limit: false
+
+      right:
+        sections:
+          posts_drafts:
+            parent: site.find('lesetipps')
+
+          posts_unlisted:
+            parent: site.find('lesetipps')
+
+      full:
+        sections:
+          posts_listed:
+            parent: site.find('lesetipps')
+
+  # News
+  tab_news:
+    extends: tabs/custom/news
+    label:
+      de: Aktuelles
+      en: News
+    columns:
+      left:
+        sections:
+          limit: false
+
+      right:
+        sections:
+          posts_drafts:
+            parent: site.find('news')
+
+          posts_unlisted:
+            parent: site.find('news')
+
+      full:
+        sections:
+          posts_listed:
+            parent: site.find('news')
 
   # Settings
   tab_settings:
+    extends: tabs/content
     label:
       de: Einstellungen
       en: Settings
     icon: settings
-    preset: page
-    pages: false
-
     fields:
+      text: false
+
+      shop:
+        extends: fields/base/url
+        label: Online-Shop
+        required: true
+
+      instagram:
+        extends: fields/base/url
+        label: Instagram
+
       awards:
         label:
           de: Auszeichnungen
           en: Awards
         type: structure
         columns:
-          award:
           donor:
-          donorLink:
+          award:
         fields:
           identifier:
-            label:
-              de: ID
-              en: ID
+            label: ID
             type: text
             width: 1/2
 
@@ -147,22 +167,7 @@ tabs:
               en: Description
             type: markdown
 
-      coronaMode:
-        extends: fields/toggle
-        label:
-          de: Corona-Modus aktivieren?
-          en: Activate "Corona" mode?
-        width: 1/3
-
-      coronaText:
-        label: Corona-Text
-        type: markdown
-        when:
-          coronaMode: true
-
     sidebar:
-      sidebar_files: false
-
       sidebar_fields:
         type: fields
         fields:
@@ -186,16 +191,5 @@ tabs:
             translate: false
             required: true
 
-          shop:
-            label: Online-Shop
-            type: url
-            translate: false
-            required: true
-
-          instagram:
-            label: Instagram
-            type: url
-            translate: false
-
-  # Metadata fallbacks
+  # Default metadata
   tab_seo: tabs/seo

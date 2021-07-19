@@ -5,21 +5,34 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: fields/cover
 
-      sidebar_files: false
+  # Events
+  tab_events:
+    extends: tabs/posts
+    label:
+      de: Veranstaltungen
+      en: Events
+    icon: calendar
+    columns:
+      left: false
 
-      sidebar_pages:
-        extends: sections/articles
-        headline:
-          de: Veranstaltungen
-          en: Events
-        create: false
-        layout: list
+      right: false
+
+      full:
+        sections:
+          posts_listed:
+            extends: sections/listed
+            template: calendar.event
+            image:
+              ratio: 1/1
 
   # Metadata
   tab_seo: tabs/seo

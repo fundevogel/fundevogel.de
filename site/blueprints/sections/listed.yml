@@ -1,0 +1,5 @@
+extends: sections/base/posts
+headline:
+  de: Öffentlich
+  en: Published
+status: listed

@@ -3,20 +3,17 @@ title:
   en: Topics
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
-        text:
-          label: Text
-          type: markdown
-
-        layouts: fields/layouts
+        layouts: fields/base/layouts
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
-
-      sidebar_files: sections/images
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: fields/cover
 
   # Metadata
   tab_seo: tabs/seo

@@ -5,42 +5,40 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
-        text:
-          label: Text
-          type: markdown
+      details:
+        label: Details
+        type: markdown
 
-        details:
-          label: Details
-          type: markdown
-
-        conclusion:
-          label:
-            de: Schluss
-            en: Conclusion
-          type: markdown
+      conclusion:
+        label:
+          de: Schluss
+          en: Conclusion
+        type: markdown
 
     sidebar:
       sidebar_fields:
-        extends: sections/sidebar.cover
+        type: fields
         fields:
-          captionGallery:
-            extends: fields/groups/caption-gallery
-            fields:
-              gallery: false
+          cover: fields/cover
 
-      sidebar_files: false
+          caption: fields/caption
 
-      sidebar_pages:
-        headline:
-          de: Kategorien
-          en: Categories
-        type: pages
-        create: assortment.single
-        layout: list
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      template: assortment.single
+      create: false
+
+    unlisted: false
+
+    listed:
+      template: assortment.single
+      create: false
 
   # Metadata
   tab_seo: tabs/seo

@@ -3,14 +3,13 @@ headline:
   en: All books
 type: pages
 parent: site.find('buecher')
-template:
+templates:
   - book.audio
   - book.default
   - book.ebook
 sortBy: date desc
 text: "{{ page.title }}"
 info: "{{ page.author }}"
-layout: cards
 size: small
 image:
   ratio: 3/4

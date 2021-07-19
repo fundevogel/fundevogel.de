@@ -3,6 +3,7 @@ title: Feeds
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
     fields:
@@ -10,7 +11,10 @@ tabs:
         type: markdown
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: fields/cover
 
   # Metadata
   tab_seo: tabs/seo

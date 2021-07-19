@@ -1,7 +1,3 @@
-headline:
-  de: Bilder
-  en: Images
-type: files
+extends: sections/base/files
 template: image
-create: image
-info: "{{ file.dimensions }} - {{ file.niceSize }}"
+info: "{{ file.dimensions }} ({{ file.niceSize }})"

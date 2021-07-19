@@ -8,13 +8,16 @@ fields:
   maintainer:
     type: text
     width: 1/4
+
   name:
     type: text
     width: 1/4
+
   version:
     type: text
     disabled: true
     width: 1/4
+
   license:
     label:
       de: Lizenz
@@ -22,12 +25,15 @@ fields:
     type: text
     disabled: true
     width: 1/4
+
   description:
     label:
       de: Beschreibung
       en: Description
     type: markdown
+
   url:
     label: Homepage
     type: url
+
 translate: false

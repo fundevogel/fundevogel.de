@@ -1,51 +1,44 @@
 title:
   de: BiblioListe
   en: BiblioList
-extends: tabs/default
+extends: tabs/content
 
 accept: application/pdf
 
-columns:
-  column_main:
-    sections:
-      section_fields:
-        type: fields
-        fields:
-          edition:
-            label:
-              de: Ausgabe
-              en: Edition
-            type: radio
-            columns: 2
-            options:
-              - Frühjahr
-              - Herbst
-            width: 1/2
+fields:
+  text: false
 
-          year:
-            label:
-              de: Jahr
-              en: Year
-            type: number
-            width: 1/2
+  edition:
+    label:
+      de: Ausgabe
+      en: Edition
+    type: radio
+    icon: book
+    columns: 2
+    options:
+      - Frühjahr
+      - Herbst
+    width: 2/3
 
-      info: sections/info-ux
+  year:
+    label:
+      de: Jahr
+      en: Year
+    icon: calendar
+    type: text
+    width: 1/3
 
-  column_sidebar:
-    sections:
-      section_cover:
-        type: fields
-        fields:
-          coverImage:
-            extends: fields/single-cover
-            query: file.parent.images
-            image:
-              ratio: 2/3
-          createMetadata:
-            type: janitor
-            label:
-              de: Daten erzeugen
-              en: Generate data
-            progress: Bitte warten ..
-            job: createMetadata
-            data: "{{ file.filename }}"
+  createMetadata:
+    extends: fields/base/job
+    job: createMetadata
+    data: "{{ file.filename }}"
+
+sidebar:
+  sidebar_fields:
+    type: fields
+    fields:
+      coverImage:
+        extends: fields/cover
+        query: file.parent.images
+        image:
+          ratio: 2/3

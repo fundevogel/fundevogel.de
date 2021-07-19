@@ -1,0 +1,5 @@
+extends: sections/base/posts
+headline:
+  de: Entwürfe
+  en: Drafts
+status: draft

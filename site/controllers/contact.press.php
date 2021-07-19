@@ -3,8 +3,8 @@
 return function ($page) {
     $layouts = $page->layouts()->toLayouts();
 
-    $grid = $page->grid()->toFiles();
+    $gallery = $page->gallery()->toFiles();
     $dossier = $page->file('dossier.pdf');
 
-    return compact('layouts', 'grid','dossier');
+    return compact('layouts', 'gallery','dossier');
 };

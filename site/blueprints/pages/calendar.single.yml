@@ -3,31 +3,19 @@ title:
   en: Annual highlights
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
-        text:
-          label: Text
-          type: markdown
-
-        short:
-          extends: fields/short
-          help:
-            de: Erscheint auf der 'Kalender'-Seite.
-            en: Displayed on 'calendar' page.
-
-        layouts: fields/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:
-        extends: sections/sidebar.cover
+        type: fields
         fields:
-          previewImage:
-            extends: fields/single-cover
-            label:
-              de: Vorschaubild
-              en: Preview image
+          cover: fields/cover
+
+          preview: custom/calendar/preview
 
   # Metadata
   tab_seo: tabs/seo

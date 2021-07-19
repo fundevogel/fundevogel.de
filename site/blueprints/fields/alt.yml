@@ -1,8 +1,8 @@
 label:
   de: Alternativtext
   en: Alternative text
-icon: alert
-type: markdown
+icon: title
+type: text
 help:
   de: >
     Der Alternativtext wird für Bilder benötigt, um den Richtlinien für ein

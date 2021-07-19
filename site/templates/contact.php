@@ -54,7 +54,7 @@
 
 <section class="container">
     <div class="mb-8">
-        <?= $page->form()->kt() ?>
+        <?= $page->formText()->kt() ?>
     </div>
     <?php if (!$form->success()) snippet('contact/error', ['form' => $form]) ?>
     <?php snippet('contact/form') ?>

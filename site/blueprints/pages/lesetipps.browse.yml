@@ -5,9 +5,9 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
       details:
         label: Details
@@ -15,10 +15,11 @@ tabs:
 
     sidebar:
       sidebar_fields:
+        type: fields
         fields:
-          limit_perpage: fields/groups/limit-perpage
+          cover: fields/cover
 
-      sidebar_files: sections/images
+          limit_posts: fields/groups/limit-posts
 
   # Metadata
   tab_seo: tabs/seo

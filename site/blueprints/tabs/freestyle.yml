@@ -1,7 +1,7 @@
-icon: text
 label:
   de: Inhalt
   en: Content
+icon: text
 
 columns:
   column_main:

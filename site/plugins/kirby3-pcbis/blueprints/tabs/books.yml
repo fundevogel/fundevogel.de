@@ -1,29 +1,10 @@
-icon: book
 label:
   de: Bücher
   en: Books
+icon: book
 
 columns:
   left:
-    width: 1/2
-    sections:
-      drafts:
-        extends: sections/books
-        headline:
-          de: Entwürfe
-          en: Drafts
-        status: draft
-        layout: list
-
-      unlisted:
-        extends: sections/books
-        headline:
-          de: Überarbeitung
-          en: In review
-        status: unlisted
-        layout: list
-
-  right:
     width: 1/2
     sections:
       info:
@@ -41,9 +22,27 @@ columns:
 
             **Note:** After that the book still has to be "published". In order to do that, click on "Draft" (below the book's title) and change the status to "Published".
 
+  right:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/books
+        headline:
+          de: Entwürfe
+          en: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/books
+        headline:
+          de: Überarbeitung
+          en: In review
+        status: unlisted
+
   full:
     width: 1/1
     sections:
       listed:
         extends: sections/books
         status: listed
+        layout: cards

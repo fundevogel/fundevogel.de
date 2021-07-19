@@ -3,26 +3,23 @@ title:
   en: Programming
 
 tabs:
+  # Content
   tab_content:
     extends: tabs/content
-
     fields:
-        text:
-          label: Text
-          type: markdown
+      details: fields/base/layouts
 
-        details: fields/layouts
+      software:
+        label: Software
+        type: markdown
 
-        software:
-          label: Software
-          type: markdown
-
-        layouts: fields/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:
-        extends: sections/sidebar.cover
+        type: fields
         fields:
+          cover: fields/cover
           source:
             label:
               de: Über den Quelltext
@@ -35,133 +32,21 @@ tabs:
               en: Giving thanks
             type: markdown
 
-  # Generated content
-  tab_generated:
+  # Data
+  tab_data:
     preset: page
-    icon: cog
     label: Extras
-
+    icon: cog
     fields:
-      fetchLanguages:
-        type: janitor
-        label:
-          de: Sprachen laden
-          en: Load languages
-        progress: Bitte warten ..
-        job: fetchLanguages
-        width: 1/3
-
-      fetchStatistics:
-        type: janitor
-        label:
-          de: Statistik laden
-          en: Generate statistics
-        progress: Bitte warten ..
-        job: fetchStatistics
-        width: 1/3
-
-      fetchPackages:
-        type: janitor
-        label:
-          de: Pakete laden
-          en: Load packages
-        progress: Bitte warten ..
-        job: fetchPackages
-        width: 1/3
-
-      languages:
-        label:
-          de: Programmiersprachen
-          en: Programming languages
-        type: structure
-        columns:
-          title:
-          share:
-        fields:
-          title:
-            label: Name
-            type: text
-            width: 1/3
-          share:
-            label:
-              de: Anteil
-              en: Share
-            type: number
-            step: .001
-            width: 1/3
-          color:
-            label:
-              de: Farbe
-              en: Color
-            type: text
-            width: 1/3
-        translate: false
-
-      phpData:
-        extends: fields/packages
-        label: Composer (PHP)
-
-      pkgData:
-        extends: fields/packages
-        label: JavaScript & TypeScript
+      jobs: custom/dependencies/jobs
+      languages: custom/dependencies/languages
+      packages: custom/dependencies/packages
 
     sidebar:
-      generated_files:
+      data_fields:
         type: fields
         fields:
-          licenseFull:
-            label:
-              de: Lizenz (lang)
-              en: License (long)
-            type: text
-            icon: key
-            disabled: true
-            translate: false
-
-          licenseToken:
-            label:
-              de: Lizenz (kurz)
-              en: License (short)
-            type: text
-            icon: key
-            disabled: true
-            translate: false
-
-          loc:
-            label:
-              de: Codezeilen
-              en: Lines of code
-            type: text
-            after: lines
-            disabled: true
-            translate: false
-
-          commits:
-            type: text
-            after: / month
-            disabled: true
-            translate: false
-
-          observatory:
-            type: text
-            after: grade
-            disabled: true
-            translate: false
-
-          pagespeed:
-            type: text
-            after: / 100
-            disabled: true
-            translate: false
-
-          chart:
-            extends: fields/single-cover
-            label:
-              de: Diagramm
-              en: Chart
-            query: page.files.filterBy('extension', 'svg')
-            image:
-              ratio: 1/1
+          statistics: custom/dependencies/statistics
 
   # Metadata
   tab_seo: tabs/seo

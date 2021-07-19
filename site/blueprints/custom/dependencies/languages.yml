@@ -1,0 +1,40 @@
+type: group
+fields:
+  headline_languages:
+    extends: fields/base/headline
+    label:
+      de: Sprachen
+      en: Languages
+
+  langData:
+    label:
+      de: Verwendete Programmiersprachen
+      en: Used programming languages
+    type: structure
+
+    columns:
+      title:
+      share:
+
+    fields:
+      title:
+        label: Name
+        type: text
+        width: 1/3
+
+      share:
+        label:
+          de: Anteil
+          en: Share
+        type: number
+        step: .001
+        width: 1/3
+
+      color:
+        label:
+          de: Farbe
+          en: Color
+        type: text
+        width: 1/3
+
+    translate: false
