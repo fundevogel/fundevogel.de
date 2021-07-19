@@ -5,21 +5,22 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     sidebar:
       sidebar_fields:
         type: fields
         fields:
           fallback:
-            extends: migrate/fields/cover
+            extends: fields/cover
             label:
               de: Reservebild
               en: Fallback image
 
   # Lesetipps
-  tab_articles:
-    extends: migrate/tabs/posts
+  tab_lesetipps:
+    extends: tabs/posts
     label:
       de: Lesetipps
       en: Reading tips
@@ -54,8 +55,9 @@ tabs:
           posts_listed:
             template: lesetipps.article
 
+  # Subpages
   tab_subpages:
-    extends: migrate/tabs/subpages
+    extends: tabs/subpages
     drafts:
       templates:
         - lesetipps.browse
@@ -77,13 +79,13 @@ tabs:
         - lesetipps.topics
       create: false
 
-  # Documents
+  # PDF editions
   tab_editions:
-    extends: migrate/tabs/media
+    extends: tabs/media
     columns:
       column_files:
         sections:
-          files: migrate/sections/documents
+          files: sections/documents
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

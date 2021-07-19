@@ -5,15 +5,15 @@ label:
 icon: layers
 
 drafts:
-  extends: migrate/sections/drafts
+  extends: sections/drafts
   info: "Stand: {{ page.modified('d.m.Y') }}"
 
 unlisted:
-  extends: migrate/sections/unlisted
+  extends: sections/unlisted
   info: "Stand: {{ page.modified('d.m.Y') }}"
 
 listed:
-  extends: migrate/sections/listed
+  extends: sections/listed
   layout: cards
   size: medium
   info: "Stand: {{ page.modified('d.m.Y') }}"

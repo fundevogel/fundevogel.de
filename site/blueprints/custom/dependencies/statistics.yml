@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_statistics:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Statistiken
       en: Statistics
@@ -52,7 +52,7 @@ fields:
     translate: false
 
   chart:
-    extends: migrate/fields/cover
+    extends: fields/cover
     label:
       de: Diagramm
       en: Chart

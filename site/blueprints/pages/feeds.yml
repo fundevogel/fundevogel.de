@@ -3,8 +3,9 @@ title: Feeds
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     fields:
       details:
         type: markdown
@@ -13,7 +14,7 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

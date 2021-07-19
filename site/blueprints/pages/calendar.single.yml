@@ -3,17 +3,17 @@ title:
   en: Annual highlights
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
-
+    extends: tabs/content
     fields:
-      layouts: migrate/fields/base/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
           preview: custom/calendar/preview
 

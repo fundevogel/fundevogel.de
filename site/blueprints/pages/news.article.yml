@@ -4,19 +4,20 @@ title:
 
 num: '{{ page.date.toDate("Ymd") }}'
 
-options: options/article
+options: options/post
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          date: migrate/fields/base/date
+          date: fields/base/date
 
           subtitle_wanted:
-            extends: migrate/fields/base/toggle
+            extends: fields/base/toggle
             label:
               de: Mit Unterittel?
               en: Include subtitle?

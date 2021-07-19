@@ -1,5 +1,0 @@
-type: files
-query: page.documents
-multiple: false
-info: "{{ file.niceSize }}"
-translate: false

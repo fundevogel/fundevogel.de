@@ -5,17 +5,18 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     fields:
       text: false
-      layouts: migrate/fields/base/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
   # Metadata
   tab_seo: tabs/seo

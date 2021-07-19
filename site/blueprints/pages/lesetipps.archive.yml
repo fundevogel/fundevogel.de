@@ -5,23 +5,24 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
-  # Documents
+  # PDF editions
   tab_editions:
-    extends: migrate/tabs/media
+    extends: tabs/media
     columns:
       column_files:
         sections:
           files:
-            extends: migrate/sections/documents
+            extends: sections/documents
             parent: site.find('lesetipps')
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

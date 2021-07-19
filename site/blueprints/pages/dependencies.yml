@@ -3,27 +3,23 @@ title:
   en: Programming
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
-
+    extends: tabs/content
     fields:
-      text:
-        label: Text
-        type: markdown
-
-      details: migrate/fields/base/layouts
+      details: fields/base/layouts
 
       software:
         label: Software
         type: markdown
 
-      layouts: migrate/fields/base/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
           source:
             label:
               de: Über den Quelltext
@@ -36,22 +32,21 @@ tabs:
               en: Giving thanks
             type: markdown
 
-  # Generated content
-  tab_generated:
+  # Data
+  tab_data:
     preset: page
     label: Extras
     icon: cog
-
     fields:
       jobs: custom/dependencies/jobs
       languages: custom/dependencies/languages
       packages: custom/dependencies/packages
 
     sidebar:
-      generated_fields:
+      data_fields:
         type: fields
         fields:
           statistics: custom/dependencies/statistics
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

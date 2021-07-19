@@ -5,8 +5,9 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     fields:
       directions: custom/contact/directions
       form: custom/constact/form
@@ -15,9 +16,21 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
           hours: custom/contact/hours
 
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      create: false
+
+    unlisted:
+      create: false
+
+    listed:
+      create: false
+
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_downloads:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label: Downloads
 
   subtitle:
@@ -12,7 +12,7 @@ fields:
     icon: image
 
   gallery:
-    extends: migrate/fields/base/images
+    extends: fields/base/images
     image:
       ratio: 16/9
 

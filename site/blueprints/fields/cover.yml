@@ -1,4 +1,4 @@
-extends: migrate/fields/base/images
+extends: fields/base/images
 label: Cover
 layout: cards
 multiple: false

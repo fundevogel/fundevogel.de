@@ -1,4 +1,4 @@
-extends: migrate/sections/base/files
+extends: sections/base/files
 headline:
   de: Ausgaben
   en: Editions

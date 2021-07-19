@@ -1,4 +1,4 @@
-extends: migrate/sections/base/posts
+extends: sections/base/posts
 headline:
   de: Überarbeitung
   en: In review

@@ -1,8 +1,0 @@
-label:
-  de: Titeltext
-  en: Title attribute
-icon: title
-type: text
-help:
-  de: Dieser Text wird eingeblendet, wenn der Mauszeiger kurzzeitig über dem Bild bleibt.
-  en: This text is shown when the cursor hovers and stands still for a brief moment.

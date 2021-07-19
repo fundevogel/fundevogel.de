@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_languages:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Sprachen
       en: Languages

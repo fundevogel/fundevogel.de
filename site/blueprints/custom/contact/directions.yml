@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_directions:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Anfahrt
       en: Directions

@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_form:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Kontaktformular
       en: Contact form

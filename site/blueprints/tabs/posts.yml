@@ -1,29 +1,10 @@
-icon: document
 label:
   de: Beiträge
   en: Posts
+icon: template
 
 columns:
   left:
-    width: 1/2
-    sections:
-      drafts:
-        extends: sections/articles
-        headline:
-          de: Entwürfe
-          en: Drafts
-        status: draft
-        layout: list
-
-      unlisted:
-        extends: sections/articles
-        headline:
-          de: Überarbeitung
-          en: In review
-        status: unlisted
-        layout: list
-
-  right:
     width: 1/2
     sections:
       info:
@@ -41,12 +22,25 @@ columns:
 
             **Note:** After that the post still has to be "published". In order to do that, click on "Draft" (below the post's title) and change the status to "Published".
 
+      limit:
+        type: fields
+        fields:
+          limit_posts:
+            extends: fields/groups/limit-posts
+            headline_limit_posts: false
+
+  right:
+    width: 1/2
+    sections:
+      posts_drafts:
+        extends: sections/drafts
+
+      posts_unlisted:
+        extends: sections/unlisted
+
   full:
     width: 1/1
     sections:
-      listed:
-        extends: sections/articles
-        headline:
-          de: Öffentlich
-          en: Published
-        status: listed
+      posts_listed:
+        extends: sections/listed
+        layout: cards

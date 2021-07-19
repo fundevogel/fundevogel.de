@@ -1,20 +1,9 @@
 preset: page
-icon: text
 label:
   de: Inhalt
   en: Content
+icon: text
 
 fields:
   text:
-    label: Text
     type: markdown
-
-sidebar:
-  sidebar_fields:
-    type: fields
-
-  sidebar_files:
-    headline:
-      de: Dateien
-      en: Files
-    type: files

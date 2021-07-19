@@ -5,11 +5,12 @@ icon: calendar
 
 num: '{{ page.date.toDate("Ymd") }}'
 
-options: options/article
+options: options/post
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     fields:
       location:
         label:
@@ -19,11 +20,11 @@ tabs:
         width: 2/3
 
       date:
-        extends: migrate/fields/base/date
+        extends: fields/base/date
         width: 1/3
 
       link:
-        extends: migrate/fields/base/url
+        extends: fields/base/url
         width: 2/3
 
       category:

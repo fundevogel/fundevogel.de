@@ -1,19 +1,19 @@
 type: group
 fields:
   headline_range:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Zeitraum
       en: Time period
 
   multiple_days:
-    extends: migrate/fields/base/toggle
+    extends: fields/base/toggle
     label:
       de: Mehrtägige Veranstaltung?
       en: Multi-day event?
 
   end_date:
-    extends: migrate/fields/base/date
+    extends: fields/base/date
     label:
       de: Letzter Veranstaltungstag
       en: Last day of the event
@@ -22,14 +22,14 @@ fields:
       multiple_days: true
 
   show_time:
-    extends: migrate/fields/base/toggle
+    extends: fields/base/toggle
     label:
       de: Zeitangabe notwendig?
       en: Exact time needed?
     default: true
 
   begin_time:
-    extends: migrate/fields/base/time
+    extends: fields/base/time
     label:
       de: Beginn (Zeit)
       en: Start (Time)
@@ -37,7 +37,7 @@ fields:
       show_time: true
 
   end_time:
-    extends: migrate/fields/base/time
+    extends: fields/base/time
     label:
       de: Ende (Zeit)
       en: End (Time)

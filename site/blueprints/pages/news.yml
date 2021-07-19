@@ -5,40 +5,20 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     sidebar:
       sidebar_fields:
         type: fields
         fields:
           cover:
-            extends: migrate/fields/cover
+            extends: fields/cover
             image:
               ratio: 16/9
 
-          limit_perpage: migrate/fields/groups/limit-posts
-
-  tab_posts:
-    extends: migrate/tabs/posts
-    columns:
-      right:
-        sections:
-          posts_drafts:
-            templates:
-              - news.article
-              - news.recommendation
-
-          posts_unlisted:
-            templates:
-              - news.article
-              - news.recommendation
-
-      full:
-        sections:
-          posts_listed:
-            templates:
-              - news.article
-              - news.recommendation
+  # News
+  tab_posts: tabs/custom/news
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

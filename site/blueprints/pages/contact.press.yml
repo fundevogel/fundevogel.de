@@ -5,15 +5,15 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
-
+    extends: tabs/content
     fields:
       details:
         label: Details
         type: markdown
 
-      layouts: migrate/fields/base/layouts
+      layouts: fields/base/layouts
 
     sidebar:
       sidebar_fields:

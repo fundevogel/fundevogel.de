@@ -4,11 +4,12 @@ title:
 
 num: '{{ page.date.toDate("Ymd") }}'
 
-options: options/article
+options: options/post
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     fields:
       text: false
 
@@ -20,7 +21,7 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          date: migrate/fields/base/date
+          date: fields/base/date
 
   # Books
   tab_books: tabs/books

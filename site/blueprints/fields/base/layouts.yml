@@ -13,8 +13,8 @@ settings:
   fields:
     style:
       label:
-        de: Art der Darstellung
-        en: Depiction style
+        de: Art
+        en: Type
       type: radio
       columns: 3
       options:
@@ -33,11 +33,10 @@ settings:
         style: wave
 
     icon:
-      extends: fields/icon
+      extends: fields/base/icon
       width: 1/3
       when:
         style: wave
-
 
 fieldsets:
   text:
@@ -69,7 +68,7 @@ fieldsets:
             width: 3/4
 
           icon:
-            extends: fields/icon
+            extends: fields/base/icon
             default: camera
             width: 1/4
 

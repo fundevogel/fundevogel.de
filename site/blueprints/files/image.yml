@@ -1,7 +1,7 @@
 title:
   de: Bild
   en: Image
-extends: migrate/tabs/content
+extends: tabs/content
 
 accept: image/jpeg, image/png
 
@@ -9,7 +9,7 @@ fields:
   text: false
 
   titleAttribute:
-    extends: migrate/fields/title
+    extends: fields/title
     width: 2/3
 
   source:
@@ -26,21 +26,21 @@ fields:
     width: 1/3
 
   altAttribute:
-    extends: migrate/fields/alt
+    extends: fields/alt
 
 sidebar:
   sidebar_fields:
     type: fields
     fields:
       caption_wanted:
-        extends: migrate/fields/base/toggle
+        extends: fields/base/toggle
         label:
           de: Bildunterschrift?
           en: Caption?
         width: 1/3
 
       caption:
-        extends: migrate/fields/caption
+        extends: fields/caption
         width: 2/3
         when:
           caption_wanted: true

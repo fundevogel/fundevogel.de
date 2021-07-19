@@ -1,13 +1,13 @@
 type: group
 fields:
   headline_jobs:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Daten laden
       en: Load data
 
   fetchLanguages:
-    extends: migrate/fields/base/job
+    extends: fields/base/job
     label:
       de: Sprachen laden
       en: Load languages
@@ -15,7 +15,7 @@ fields:
     width: 1/3
 
   fetchStatistics:
-    extends: migrate/fields/base/job
+    extends: fields/base/job
     label:
       de: Statistik laden
       en: Load statistics
@@ -23,7 +23,7 @@ fields:
     width: 1/3
 
   fetchPackages:
-    extends: migrate/fields/base/job
+    extends: fields/base/job
     label:
       de: Pakete laden
       en: Load packages

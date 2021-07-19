@@ -1,7 +1,7 @@
-icon: search
 label:
   de: Metadaten
   en: Metadata
+icon: chart
 
 columns:
   basic_meta_main:
@@ -10,7 +10,14 @@ columns:
       basic_meta_section:
         type: fields
         fields:
-          basic_meta_fields: fields/basic_meta
+          basic_meta_fields:
+            extends: fields/basic_meta
+            fields:
+              meta_headline:
+                label:
+                  de: Allgemeine Metadaten
+                  en: General Metadata
+
   basic_meta_sidebar:
     width: 1/3
     sticky: true
@@ -18,6 +25,7 @@ columns:
       google_search_preview:
         headline: Google Search Preview
         type: google_search_preview
+
   open_graph_main:
     width: 2/3
     sections:
@@ -25,6 +33,7 @@ columns:
         type: fields
         fields:
           open_graph_fields: fields/open_graph
+
   open_graph_sidebar:
     width: 1/3
     sticky: true
@@ -32,6 +41,7 @@ columns:
       facebook_sharing_preview:
         headline: Facebook Sharing Preview
         type: facebook_sharing_preview
+
   twitter_main:
     width: 2/3
     sections:
@@ -39,6 +49,7 @@ columns:
         type: fields
         fields:
           twitter_fields: fields/twitter
+
   twitter_sidebar:
     width: 1/3
     sticky: true

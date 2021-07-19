@@ -1,7 +1,7 @@
 type: group
 fields:
   headline_preview:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Vorschau
       en: Preview
@@ -10,7 +10,7 @@ fields:
       en: These information are displayed on the 'calendar' page as short introduction for this event.
 
   previewImage:
-    extends: migrate/fields/cover
+    extends: fields/cover
     label:
       de: Vorschaubild
       en: Preview image

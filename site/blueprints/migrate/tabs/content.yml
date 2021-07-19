@@ -1,9 +1,0 @@
-preset: page
-label:
-  de: Inhalt
-  en: Content
-icon: text
-
-fields:
-  text:
-    type: markdown

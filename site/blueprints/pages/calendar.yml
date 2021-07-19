@@ -5,44 +5,46 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
+    extends: tabs/content
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
-          limit_posts: migrate/fields/groups/limit-posts
+          limit_posts: fields/groups/limit-posts
 
+  # Events
   tab_events:
-    extends: migrate/tabs/posts
+    extends: tabs/posts
     label:
       de: Veranstaltungen
       en: Events
     icon: calendar
-
     columns:
       right:
         sections:
           posts_drafts:
-            extends: migrate/sections/drafts
+            extends: sections/drafts
             template: calendar.event
 
           posts_unlisted:
-            extends: migrate/sections/unlisted
+            extends: sections/unlisted
             template: calendar.event
 
       full:
         sections:
           posts_listed:
-            extends: migrate/sections/listed
+            extends: sections/listed
             template: calendar.event
             image:
               ratio: 1/1
 
+  # Subpages
   tab_subpages:
-    extends: migrate/tabs/subpages
+    extends: tabs/subpages
     drafts:
       template: calendar.single
       create: false
@@ -54,4 +56,4 @@ tabs:
       create: false
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

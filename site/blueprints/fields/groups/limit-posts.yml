@@ -1,13 +1,13 @@
 type: group
 fields:
   headline_limit_posts:
-    extends: migrate/fields/base/headline
+    extends: fields/base/headline
     label:
       de: Beiträge begrenzen
       en: Limit displayed posts
 
   perpage_wanted:
-    extends: migrate/fields/base/toggle
+    extends: fields/base/toggle
     label:
       de: Beiträge begrenzen?
       en: Limit posts?
@@ -15,7 +15,7 @@ fields:
     width: 1/2
 
   perpage:
-    extends: migrate/fields/base/number
+    extends: fields/base/number
     label:
       de: Beiträge pro Seite
       en: Posts per page

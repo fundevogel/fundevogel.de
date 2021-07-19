@@ -8,4 +8,4 @@ columns:
     width: 1/1
     sections:
       files:
-        extends: migrate/sections/base/files
+        extends: sections/base/files

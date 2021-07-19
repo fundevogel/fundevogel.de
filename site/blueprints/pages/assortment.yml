@@ -5,9 +5,9 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
-
+    extends: tabs/content
     fields:
       details:
         label: Details
@@ -23,12 +23,13 @@ tabs:
       sidebar_fields:
         type: fields
         fields:
-          cover: migrate/fields/cover
+          cover: fields/cover
 
-          caption: migrate/fields/caption
+          caption: fields/caption
 
+  # Subpages
   tab_subpages:
-    extends: migrate/tabs/subpages
+    extends: tabs/subpages
     drafts:
       template: assortment.single
       create: false
@@ -40,4 +41,4 @@ tabs:
       create: false
 
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo

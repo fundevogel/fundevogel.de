@@ -5,9 +5,9 @@ title:
 options: options/default
 
 tabs:
+  # Content
   tab_content:
-    extends: migrate/tabs/content
-
+    extends: tabs/content
     fields:
       about_us:
         label:
@@ -34,16 +34,28 @@ tabs:
         type: fields
         fields:
           gallery:
-            extends: migrate/fields/base/images
+            extends: fields/base/images
             label:
               de: Bildergalerie
               en: Gallery
 
           caption:
-            extends: migrate/fields/caption
+            extends: fields/caption
             help:
               de: Die Bildunterschrift erscheint, wenn der Mauszeiger über das Bild bewegt wird.
               en: The caption appears when hovering the mouse pointer over the image.
 
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    drafts:
+      create: false
+
+    unlisted:
+      create: false
+
+    listed:
+      create: false
+
   # Metadata
-  tab_seo: migrate/tabs/seo
+  tab_seo: tabs/seo
