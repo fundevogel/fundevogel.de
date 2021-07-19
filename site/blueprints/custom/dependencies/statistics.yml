@@ -1,0 +1,61 @@
+type: group
+fields:
+  headline_statistics:
+    extends: migrate/fields/base/headline
+    label:
+      de: Statistiken
+      en: Statistics
+
+  licenseFull:
+    label:
+      de: Lizenz (lang)
+      en: License (long)
+    type: text
+    icon: key
+    disabled: true
+    translate: false
+
+  licenseToken:
+    label:
+      de: Lizenz (kurz)
+      en: License (short)
+    type: text
+    icon: key
+    disabled: true
+    translate: false
+
+  loc:
+    label:
+      de: Codezeilen
+      en: Lines of code
+    type: text
+    after: lines
+    disabled: true
+    translate: false
+
+  commits:
+    type: text
+    after: / month
+    disabled: true
+    translate: false
+
+  observatory:
+    type: text
+    after: grade
+    disabled: true
+    translate: false
+
+  pagespeed:
+    type: text
+    after: / 100
+    disabled: true
+    translate: false
+
+  chart:
+    extends: migrate/fields/cover
+    label:
+      de: Diagramm
+      en: Chart
+    query: page.files.filterBy('extension', 'svg')
+    image:
+      ratio: 1/1

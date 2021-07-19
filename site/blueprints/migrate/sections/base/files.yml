@@ -1,0 +1,8 @@
+headline:
+  de: Dateien
+  en: Files
+type: files
+image:
+  cover: true
+sortBy: filename desc
+info: "{{ file.niceSize }}"

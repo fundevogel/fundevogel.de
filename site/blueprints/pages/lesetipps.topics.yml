@@ -4,19 +4,15 @@ title:
 
 tabs:
   tab_content:
-    extends: tabs/content
-
+    extends: migrate/tabs/content
     fields:
-        text:
-          label: Text
-          type: markdown
-
-        layouts: fields/layouts
+        layouts: migrate/fields/base/layouts
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
-
-      sidebar_files: sections/images
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

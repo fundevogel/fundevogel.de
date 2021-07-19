@@ -6,7 +6,7 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
 
     fields:
       details:
@@ -15,10 +15,11 @@ tabs:
 
     sidebar:
       sidebar_fields:
+        type: fields
         fields:
-          limit_perpage: fields/groups/limit-perpage
+          cover: migrate/fields/cover
 
-      sidebar_files: sections/images
+          limit_posts: migrate/fields/groups/limit-posts
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

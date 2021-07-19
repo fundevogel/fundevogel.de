@@ -6,12 +6,22 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
-
+    extends: migrate/tabs/content
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
 
-      sidebar_files: sections/images
+  # Documents
+  tab_editions:
+    extends: migrate/tabs/media
+    columns:
+      column_files:
+        sections:
+          files:
+            extends: migrate/sections/documents
+            parent: site.find('lesetipps')
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

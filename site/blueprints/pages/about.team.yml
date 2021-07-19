@@ -6,15 +6,9 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
-
+    extends: migrate/tabs/content
     fields:
-      text:
-        label: Text
-        type: markdown
-
       team:
-        label: Team
         type: structure
         columns:
           name:
@@ -55,7 +49,7 @@ tabs:
             width: 1/2
 
           front:
-            extends: fields/single-cover
+            extends: migrate/fields/cover
             label:
               de: Vorderseite
               en: Front
@@ -63,11 +57,10 @@ tabs:
             width: 1/2
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
-
-      sidebar_files:
-        extends: sections/images
-        layout: list
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
 
   # Metadata
   tab_seo: tabs/seo

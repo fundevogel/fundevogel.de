@@ -3,5 +3,4 @@ headline:
   en: Images
 type: files
 template: image
-create: image
 info: "{{ file.dimensions }} - {{ file.niceSize }}"

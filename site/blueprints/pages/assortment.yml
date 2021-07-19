@@ -6,41 +6,38 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
 
     fields:
-        text:
-          label: Text
-          type: markdown
+      details:
+        label: Details
+        type: markdown
 
-        details:
-          label: Details
-          type: markdown
-
-        conclusion:
-          label:
-            de: Schluss
-            en: Conclusion
-          type: markdown
+      conclusion:
+        label:
+          de: Schluss
+          en: Conclusion
+        type: markdown
 
     sidebar:
       sidebar_fields:
-        extends: sections/sidebar.cover
+        type: fields
         fields:
-          captionGallery:
-            extends: fields/groups/caption-gallery
-            fields:
-              gallery: false
+          cover: migrate/fields/cover
 
-      sidebar_files: false
+          caption: migrate/fields/caption
 
-      sidebar_pages:
-        headline:
-          de: Kategorien
-          en: Categories
-        type: pages
-        create: assortment.single
-        layout: list
+  tab_subpages:
+    extends: migrate/tabs/subpages
+    drafts:
+      template: assortment.single
+      create: false
+
+    unlisted: false
+
+    listed:
+      template: assortment.single
+      create: false
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

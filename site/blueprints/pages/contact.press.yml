@@ -1,54 +1,25 @@
 title:
-  de: Fundevogel & Team
-  en: About us
+  de: Presseinfos
+  en: Press infos
 
 options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
 
     fields:
-      text:
-        label: Text
-        type: markdown
-
       details:
         label: Details
         type: markdown
 
-      press_kit:
-        label:
-          de: Pressemappe
-          en: Press kit
-        type: markdown
-
-      layouts: fields/layouts
-
-      grid:
-        label:
-          de: Bildergalerie
-          en: Gallery
-        type: files
-        query: page.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
-        layout: cards
-        image:
-          ratio: 16/9
-          cover: true
-        info: "{{ file.dimensions }} ({{ file.niceSize }})"
+      layouts: migrate/fields/base/layouts
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          subtitle:
-            label:
-              de: Zwischenüberschrift
-              en: Subtitle
-            type: text
-            icon: image
-
-      sidebar_files: sections/images
+          downloads: custom/contact/downloads
 
   # Metadata
   tab_seo: tabs/seo

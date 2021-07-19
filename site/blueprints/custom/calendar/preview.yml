@@ -1,0 +1,22 @@
+type: group
+fields:
+  headline_preview:
+    extends: migrate/fields/base/headline
+    label:
+      de: Vorschau
+      en: Preview
+    help:
+      de: Diese Informationen erscheinen auf der 'Kalender'-Seite als Kurzinfo zur Veranstaltung.
+      en: These information are displayed on the 'calendar' page as short introduction for this event.
+
+  previewImage:
+    extends: migrate/fields/cover
+    label:
+      de: Vorschaubild
+      en: Preview image
+
+  previewDescription:
+    label:
+      de: Kurzbeschreibung
+      en: Short description
+    type: markdown

@@ -1,0 +1,39 @@
+type: group
+fields:
+  headline_recommendations:
+    extends: migrate/fields/base/headline
+    label:
+      de: Empfehlungen des Teams
+      en: Our recommendations
+
+  favorites:
+    extends: fields/books
+    label:
+      de: Unsere Lieblinge
+      en: Our favorites
+    translate: false
+    columns:
+      book:
+      hasQuote:
+        width: 1/4
+    fields:
+      hasQuote:
+        extends: migrate/fields/base/toggle
+        label:
+          de: Zitat vorhanden?
+          en: Quote?
+        default: true
+        width: 1/3
+
+      person:
+        label: Person
+        type: text
+        width: 2/3
+        when:
+          hasQuote: true
+
+      quote:
+        label: Zitat
+        type: markdown
+        when:
+          hasQuote: true

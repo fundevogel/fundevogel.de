@@ -120,9 +120,9 @@ return [
         'calendar.single.gallery.120' => ['width' => 120],
 
         # Contact
-        # Press images grid
-        'contact.press.grid' => ['width' => 768, 'height' => 768, 'crop' => true],
-        'contact.press.grid.768' => ['width' => 768, 'height' => 768, 'crop' => true],
+        # Press images gallery
+        'contact.press.gallery' => ['width' => 768, 'height' => 768, 'crop' => true],
+        'contact.press.gallery.768' => ['width' => 768, 'height' => 768, 'crop' => true],
     ],
 
     'sizes' => [

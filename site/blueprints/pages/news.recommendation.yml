@@ -8,7 +8,7 @@ options: options/article
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
     fields:
       text: false
 
@@ -18,10 +18,9 @@ tabs:
 
     sidebar:
       sidebar_fields:
+        type: fields
         fields:
-          date: fields/date
-
-      sidebar_files: false
+          date: migrate/fields/base/date
 
   # Books
   tab_books: tabs/books

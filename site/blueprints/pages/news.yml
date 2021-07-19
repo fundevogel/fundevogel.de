@@ -1,60 +1,44 @@
 title:
-  de: Menü-Startseite
+  de: Startseite
   en: Home
 
 options: options/default
 
 tabs:
-  tab_articles:
-    extends: tabs/articles
+  tab_content:
+    extends: migrate/tabs/content
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover:
+            extends: migrate/fields/cover
+            image:
+              ratio: 16/9
 
+          limit_perpage: migrate/fields/groups/limit-posts
+
+  tab_posts:
+    extends: migrate/tabs/posts
     columns:
-      left:
+      right:
         sections:
-          drafts:
-            template:
+          posts_drafts:
+            templates:
               - news.article
               - news.recommendation
 
-          unlisted:
-            template:
+          posts_unlisted:
+            templates:
               - news.article
               - news.recommendation
 
       full:
         sections:
-          listed:
-            template:
+          posts_listed:
+            templates:
               - news.article
               - news.recommendation
-            image:
-              ratio: 1/1
-
-  tab_content:
-    extends: tabs/default
-
-    columns:
-      column_main:
-        sections:
-          main_fields:
-            type: fields
-            fields:
-              text:
-                label: Text
-                type: markdown
-
-      column_sidebar:
-        sections:
-          sidebar_fields:
-            type: fields
-            fields:
-              limit_perpage: fields/groups/limit-perpage
-
-              cover:
-                extends: fields/single-cover
-                query: site.images.filterBy('extension', 'in', ['jpg', 'jpeg', 'png'])
-                image:
-                  ratio: 16/9
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

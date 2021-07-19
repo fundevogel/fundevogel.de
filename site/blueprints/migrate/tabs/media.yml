@@ -1,0 +1,11 @@
+label:
+  de: Dateien
+  en: Files
+icon: folder
+
+columns:
+  column_files:
+    width: 1/1
+    sections:
+      files:
+        extends: migrate/sections/base/files

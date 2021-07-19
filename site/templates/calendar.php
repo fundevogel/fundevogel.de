@@ -60,7 +60,7 @@
                     </div>
                     <div class="text-center">
                         <h3><a class="text-orange-medium hover:text-orange-dark" href="<?= $annualEvent->url() ?>"><?= $annualEvent->title()->html() ?></a></h3>
-                        <?= $annualEvent->short()->kt() ?>
+                        <?= $annualEvent->previewDescription()->kt() ?>
                     </div>
                 </div>
                 <?php

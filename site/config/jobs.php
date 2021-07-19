@@ -350,7 +350,7 @@ return [
             }
 
             $page->update([
-                'languages' => Data::encode($languageArray, 'yaml'),
+                'langData' => Data::encode($languageArray, 'yaml'),
                 'chart' => Data::encode($file->filename(), 'yaml'),
             ]);
 

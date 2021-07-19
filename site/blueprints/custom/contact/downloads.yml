@@ -1,0 +1,23 @@
+type: group
+fields:
+  headline_downloads:
+    extends: migrate/fields/base/headline
+    label: Downloads
+
+  subtitle:
+    label:
+      de: Überschrift
+      en: Heading
+    type: text
+    icon: image
+
+  gallery:
+    extends: migrate/fields/base/images
+    image:
+      ratio: 16/9
+
+  pressKit:
+    label:
+      de: Pressemappe
+      en: Press kit
+    type: markdown

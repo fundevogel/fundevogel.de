@@ -11,7 +11,7 @@ Am Ende eines schönen Abends bleibt ein Gefühl: **Bücher verbinden**!
 
 ----
 
-Short: Dieser Abend im Herbst hat Tradition und ist für uns immer ein besonderes Ereignis: In gemütlicher Atmosphäre stellen wir Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vor.
+Previewdescription: Dieser Abend im Herbst hat Tradition und ist für uns immer ein besonderes Ereignis: In gemütlicher Atmosphäre stellen wir Stammgästen wie auch neuen Buchbegeisterten unsere ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen vor.
 
 ----
 
@@ -31,7 +31,7 @@ Previewimage:
 
 ----
 
-Meta-title: 
+Meta-title:
 
 ----
 
@@ -39,107 +39,107 @@ Meta-description: Ein Abend mit Tradition: In gemütlicher Atmosphäre stellen w
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
-Meta-image: 
+Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
-Og-image: 
+Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
-Og-type: 
+Og-type:
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
-Twitter-image: 
+Twitter-image:
 
 ----
 
-Twitter-card-type: 
+Twitter-card-type:
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:
 
 ----
 

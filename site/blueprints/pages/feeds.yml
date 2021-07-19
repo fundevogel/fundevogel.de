@@ -4,13 +4,16 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
     fields:
       details:
         type: markdown
 
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

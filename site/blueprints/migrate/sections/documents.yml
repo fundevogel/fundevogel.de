@@ -1,0 +1,11 @@
+extends: migrate/sections/base/files
+headline:
+  de: Ausgaben
+  en: Editions
+template: pdf
+layout: cards
+image:
+  query: file.coverImage.toFile()
+  ratio: 3/4
+sortBy: year desc edition desc
+text: "{{ file.edition }} ({{ file.year }})"

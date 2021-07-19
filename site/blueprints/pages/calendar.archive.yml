@@ -6,20 +6,32 @@ options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
-
+    extends: migrate/tabs/content
     sidebar:
-      sidebar_fields: sections/sidebar.cover
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
 
-      sidebar_files: false
+  tab_events:
+    extends: migrate/tabs/posts
+    label:
+      de: Veranstaltungen
+      en: Events
+    icon: calendar
 
-      sidebar_pages:
-        extends: sections/articles
-        headline:
-          de: Veranstaltungen
-          en: Events
-        create: false
-        layout: list
+    columns:
+      left: false
+
+      right: false
+
+      full:
+        sections:
+          posts_listed:
+            extends: migrate/sections/listed
+            template: calendar.event
+            image:
+              ratio: 1/1
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo

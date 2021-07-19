@@ -1,0 +1,3 @@
+extends: migrate/sections/base/files
+template: image
+info: "{{ file.dimensions }} ({{ file.niceSize }})"

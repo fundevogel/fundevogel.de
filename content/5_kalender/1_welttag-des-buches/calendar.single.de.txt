@@ -11,11 +11,7 @@ Rund um den Welttag des Buches besuchen uns in einem Zeitraum von einem Monat za
 
 ----
 
-Short: Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren am 23. April zahlreiche Schulklassen in der Buchhandlung, um in den mit Rosen geschmückten Regalen zu stöbern und spielerisch mit uns die Welt der Bücher zu feiern.
-
-----
-
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Aus der Region in die Welt"},"id":"623a2669-7db6-4f7c-86db-17b023183348","isHidden":false,"type":"heading"},{"content":{"text":"<p>Inspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St. Georg Rosen und B\u00fccher zu verschenken, erkl\u00e4rte 1995 die (short: UNESCO desc: engl. 'United Nations Educational, Scientific and Cultural Organization') den 23. April zum \u201cWelttag des Buches\u201d - dem weltweiten Feiertag f\u00fcr das Lesen, f\u00fcr B\u00fccher und die Rechte der Autoren.<\/p><p>\u00dcber diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von <a href=\"https:\/\/klexikon.zum.de\/wiki\/William_Shakespeare\" target=\"blank\" rel=\"noopener noreferrer nofollow\">William Shakespeare<\/a> und <a href=\"https:\/\/klexikon.zum.de\/wiki\/Miguel_de_Cervantes\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Miguel de Cervantes<\/a>.<\/p>"},"id":"8564b156-5ade-4362-8c78-d825d3378c6c","isHidden":false,"type":"text"},{"content":{"images":["kalender\/welttag-des-buches\/welttag-im-fundevogel-01.jpg","kalender\/welttag-des-buches\/welttag-im-fundevogel-02.jpg","kalender\/welttag-des-buches\/welttag-im-fundevogel-03.jpg"],"heading":"","icon":""},"id":"13b95821-f219-49ee-8990-15305aebf3af","isHidden":false,"type":"gallery"}],"id":"d3b0d1da-98c8-41cb-942e-5237953ac713","width":"1\/1"}],"id":"b241393a-142d-4e00-a868-9bcc5fb4111c"},{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Ablauf"},"id":"d835b3ba-421b-4dfd-9452-e6a5fb3a012b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mit viel Freude nehmen die Sch\u00fclerInnen allj\u00e4hrlich an unserem B\u00fccherquiz teil und st\u00f6bern begeistert durch die mit Rosen geschm\u00fcckten B\u00fccherregale. Am Ende des Besuchs kann jedes Kind sein Buch zum Welttag in Empfang nehmen.<\/p>"},"id":"146383ae-b9e2-4318-b31c-98f1041031c4","isHidden":false,"type":"text"}],"id":"454ffd13-64fc-40d6-a527-a92c7828a81c","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Anmeldung"},"id":"614f4acc-d935-46e0-b58a-233c90330d19","isHidden":false,"type":"heading"},{"content":{"text":"<p>Jedes Jahr besuchen zahlreiche Schulklassen den Fundevogel, um auf Entdeckungsreise zu gehen - wenn ihr auch dabei sein wollt, kann euer Lehrer \/ eure Lehrerin uns gern eine <a href=\"mailto:info@fundevogel.de\" rel=\"noopener noreferrer nofollow\">E-Mail schreiben<\/a>!<\/p>"},"id":"2d86dcc3-9ab8-4553-8323-6878bf3a2db1","isHidden":false,"type":"text"}],"id":"1fc3249c-7682-47e9-9a49-e0357cac2173","width":"1\/2"}],"id":"9d564f6f-1ed2-41a3-a38f-ee773f31d66d"},{"attrs":{"style":"box","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"N\u00fctzliche Infos"},"id":"1432fdff-2986-4817-9bab-0ddb40f126cf","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Auf der <a href=\"https:\/\/welttag-des-buches.de\" target=\"blank\" rel=\"noopener noreferrer nofollow\">offiziellen Seite<\/a> des Welttags gibt es jede Menge zu entdecken.<\/li><li>Veranstaltungen in Freiburg und Umgebung auf den Seiten der <a href=\"https:\/\/www.freiburg.de\/pb\/,Lde\/594205.html\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Stadt Freiburg<\/a>.<\/li><li>Als Partner des Welttages in Deutschland ist auch die <a href=\"https:\/\/stiftunglesen.de\/aktionen\/welttagdesbuches\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Stiftung Lesen<\/a> mit dabei.<\/li><\/ul>"},"id":"d32a726b-616b-432d-82f2-ed4f41619c24","isHidden":false,"type":"list"}],"id":"7233638e-dcaa-4b83-b5f7-feb9af7a9832","width":"1\/1"}],"id":"14195198-0a5d-45ed-8800-f5a65144a2a9"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Aus der Region in die Welt"},"id":"623a2669-7db6-4f7c-86db-17b023183348","isHidden":false,"type":"heading"},{"content":{"text":"<p>Inspiriert von dem alten katalanischen Brauch, am Namenstag des Volksheiligen St. Georg Rosen und B\u00fccher zu verschenken, erkl\u00e4rte 1995 die (short: UNESCO desc: engl. 'United Nations Educational, Scientific and Cultural Organization') den 23. April zum \u201cWelttag des Buches\u201d - dem weltweiten Feiertag f\u00fcr das Lesen, f\u00fcr B\u00fccher und die Rechte der Autoren.<\/p><p>\u00dcber diesen Brauch hinaus hat dieser Tag auch aus einem weiteren Grund besondere Bedeutung: Er ist der Todestag von <a href=\"https:\/\/klexikon.zum.de\/wiki\/William_Shakespeare\" target=\"blank\" rel=\"noopener noreferrer nofollow\">William Shakespeare<\/a> und <a href=\"https:\/\/klexikon.zum.de\/wiki\/Miguel_de_Cervantes\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Miguel de Cervantes<\/a>.<\/p>"},"id":"8564b156-5ade-4362-8c78-d825d3378c6c","isHidden":false,"type":"text"},{"content":{"images":["welttag-im-fundevogel-01.jpg","welttag-im-fundevogel-02.jpg","welttag-im-fundevogel-03.jpg"],"heading":"","icon":""},"id":"13b95821-f219-49ee-8990-15305aebf3af","isHidden":false,"type":"gallery"}],"id":"d3b0d1da-98c8-41cb-942e-5237953ac713","width":"1\/1"}],"id":"b241393a-142d-4e00-a868-9bcc5fb4111c"},{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Ablauf"},"id":"d835b3ba-421b-4dfd-9452-e6a5fb3a012b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mit viel Freude nehmen die Sch\u00fclerInnen allj\u00e4hrlich an unserem B\u00fccherquiz teil und st\u00f6bern begeistert durch die mit Rosen geschm\u00fcckten B\u00fccherregale. Am Ende des Besuchs kann jedes Kind sein Buch zum Welttag in Empfang nehmen.<\/p>"},"id":"146383ae-b9e2-4318-b31c-98f1041031c4","isHidden":false,"type":"text"}],"id":"454ffd13-64fc-40d6-a527-a92c7828a81c","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Anmeldung"},"id":"614f4acc-d935-46e0-b58a-233c90330d19","isHidden":false,"type":"heading"},{"content":{"text":"<p>Jedes Jahr besuchen zahlreiche Schulklassen den Fundevogel, um auf Entdeckungsreise zu gehen - wenn ihr auch dabei sein wollt, kann euer Lehrer \/ eure Lehrerin uns gern eine <a href=\"mailto:info@fundevogel.de\" rel=\"noopener noreferrer nofollow\">E-Mail schreiben<\/a>!<\/p>"},"id":"2d86dcc3-9ab8-4553-8323-6878bf3a2db1","isHidden":false,"type":"text"}],"id":"1fc3249c-7682-47e9-9a49-e0357cac2173","width":"1\/2"}],"id":"9d564f6f-1ed2-41a3-a38f-ee773f31d66d"},{"attrs":{"style":"box","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"N\u00fctzliche Infos"},"id":"1432fdff-2986-4817-9bab-0ddb40f126cf","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Auf der <a href=\"https:\/\/welttag-des-buches.de\" target=\"blank\" rel=\"noopener noreferrer nofollow\">offiziellen Seite<\/a> des Welttags gibt es jede Menge zu entdecken.<\/li><li>Veranstaltungen in Freiburg und Umgebung auf den Seiten der <a href=\"https:\/\/www.freiburg.de\/pb\/,Lde\/594205.html\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Stadt Freiburg<\/a>.<\/li><li>Als Partner des Welttages in Deutschland ist auch die <a href=\"https:\/\/stiftunglesen.de\/aktionen\/welttagdesbuches\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Stiftung Lesen<\/a> mit dabei.<\/li><\/ul>"},"id":"d32a726b-616b-432d-82f2-ed4f41619c24","isHidden":false,"type":"list"}],"id":"7233638e-dcaa-4b83-b5f7-feb9af7a9832","width":"1\/1"}],"id":"14195198-0a5d-45ed-8800-f5a65144a2a9"}]
 
 ----
 
@@ -25,7 +21,13 @@ Cover:
 
 ----
 
-Previewimage: 
+Previewimage:
+
+- welttag-des-buches.jpg
+
+----
+
+Previewdescription: Jedes Jahr besuchen uns rund um weltweiten Feiertag für das Lesen, für Bücher und die Rechte der Autoren am 23. April zahlreiche Schulklassen in der Buchhandlung, um in den mit Rosen geschmückten Regalen zu stöbern und spielerisch mit uns die Welt der Bücher zu feiern.
 
 ----
 
@@ -34,10 +36,6 @@ Meta-title:
 ----
 
 Meta-description: Rund um den "Welttag des Buches" besuchen uns viele Schulklassen, stöbern in mit Rosen geschmückten Regalen und feiern mit uns die Welt der Bücher.
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -144,6 +142,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 

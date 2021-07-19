@@ -22,14 +22,23 @@ columns:
 
             **Note:** After that the post still has to be "published". In order to do that, click on "Draft" (below the post's title) and change the status to "Published".
 
+      limit:
+        type: fields
+        fields:
+          limit_posts: migrate/fields/groups/limit-posts
+
   right:
     width: 1/2
     sections:
-      posts_drafts: migrate/sections/drafts
+      posts_drafts:
+        extends: migrate/sections/drafts
 
-      posts_unlisted: migrate/sections/unlisted
+      posts_unlisted:
+        extends: migrate/sections/unlisted
 
   full:
     width: 1/1
     sections:
-      posts_listed: migrate/sections/listed
+      posts_listed:
+        extends: migrate/sections/listed
+        layout: cards

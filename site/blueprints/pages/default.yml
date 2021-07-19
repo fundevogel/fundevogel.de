@@ -1,24 +1,21 @@
-title: Standard
+title:
+  de: Normal
+  en: Default
 
 options: options/default
 
 tabs:
   tab_content:
-    extends: tabs/content
+    extends: migrate/tabs/content
     fields:
       text: false
-
-      layouts: fields/layouts
+      layouts: migrate/fields/base/layouts
 
     sidebar:
       sidebar_fields:
         type: fields
         fields:
-          date:
-            extends: fields/date
-            label:
-              de: Zuletzt aktualisiert
-              en: Last updated
+          cover: migrate/fields/cover
 
   # Metadata
   tab_seo: tabs/seo

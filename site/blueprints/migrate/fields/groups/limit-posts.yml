@@ -12,6 +12,7 @@ fields:
       de: Beiträge begrenzen?
       en: Limit posts?
     icon: funnel
+    width: 1/2
 
   perpage:
     extends: migrate/fields/base/number
@@ -20,5 +21,6 @@ fields:
       en: Posts per page
     max: 20
     default: 5
+    width: 1/2
     when:
       perpage_wanted: true

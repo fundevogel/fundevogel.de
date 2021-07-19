@@ -6,11 +6,11 @@ icon: layers
 
 drafts:
   extends: migrate/sections/drafts
-  info: "Stand: {{ page.modified('d.m.Y, H:i') }} Uhr"
+  info: "Stand: {{ page.modified('d.m.Y') }}"
 
 unlisted:
   extends: migrate/sections/unlisted
-  info: "Stand: {{ page.modified('d.m.Y, H:i') }} Uhr"
+  info: "Stand: {{ page.modified('d.m.Y') }}"
 
 listed:
   extends: migrate/sections/listed

@@ -5,59 +5,53 @@ title:
 options: options/default
 
 tabs:
+  tab_content:
+    extends: migrate/tabs/content
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: migrate/fields/cover
+
+          limit_posts: migrate/fields/groups/limit-posts
+
   tab_events:
-    extends: tabs/articles
+    extends: migrate/tabs/posts
+    label:
+      de: Veranstaltungen
+      en: Events
+    icon: calendar
 
     columns:
-      left:
+      right:
         sections:
-          drafts:
+          posts_drafts:
+            extends: migrate/sections/drafts
             template: calendar.event
 
-          unlisted:
+          posts_unlisted:
+            extends: migrate/sections/unlisted
             template: calendar.event
 
       full:
         sections:
-          listed:
+          posts_listed:
+            extends: migrate/sections/listed
             template: calendar.event
             image:
               ratio: 1/1
 
-  tab_content:
-    extends: tabs/default
+  tab_subpages:
+    extends: migrate/tabs/subpages
+    drafts:
+      template: calendar.single
+      create: false
 
-    columns:
-      column_main:
-        sections:
-          main_fields:
-            type: fields
-            fields:
-              text:
-                label: Text
-                type: markdown
+    unlisted: false
 
-          annual_highlights:
-            extends: sections/articles
-            headline:
-              de: Jährliche Highlights
-              en: Annual highlights
-            template: calendar.single
-            create: false
-            size: small
-            image:
-              ratio: 3/2
-
-      column_sidebar:
-        sections:
-          sidebar_fields:
-            type: fields
-            fields:
-              limit_perpage: fields/groups/limit-perpage
-
-              cover: fields/single-cover
-
-          sidebar_files: sections/images
+    listed:
+      template: calendar.single
+      create: false
 
   # Metadata
-  tab_seo: tabs/seo
+  tab_seo: migrate/tabs/seo
