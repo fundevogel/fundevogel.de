@@ -25,6 +25,9 @@ max_file_uploads: 25
 
 # PHP settings
 php_packages:
+  # Sending mails, useful for testing purposes
+  - sendmail
+
   # Kirby requirements (see above)
   - php{{ php_version }}-curl
   - php{{ php_version }}-mbstring
