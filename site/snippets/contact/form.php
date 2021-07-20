@@ -7,7 +7,7 @@
                 id="subject"
                 name="subject"
                 type="text"
-                value="<?= $form->old('email') ?>"
+                value="<?= $form->old('subject') ?>"
             >
         </div>
         <div class="flex-1 mb-4 md:ml-2">

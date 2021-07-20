@@ -4,6 +4,7 @@ use Uniform\Form;
 
 return function ($kirby) {
    $form = new Form([
+        'subject' => [],
         'email' => [
             'rules' => ['required', 'email'],
             'message' => t('Eine Email wird benötigt!'),
@@ -35,9 +36,9 @@ return function ($kirby) {
         try {
             $form->emailAction([
                 'from' => 'noreply@fundevogel.de',
-                'to' => 'maschinenraum@fundevogel.de',
+                'to' => 'info@fundevogel.de',
                 'subject' => 'Neue Anfrage von {{ email }}',
-                'template' => 'contact/email',
+                'template' => 'email',
             ]);
         } catch (Exception $e) {}
 
