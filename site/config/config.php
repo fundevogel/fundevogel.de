@@ -1,5 +1,12 @@
 <?php
 
+use Beebmx\KirbyEnv as Dotenv;
+
+
+# Load credentials & secrets
+Dotenv::load(__DIR__ . '/../..');
+
+
 ##
 # GLOBAL SETTINGS
 ##
@@ -10,7 +17,6 @@ return [
     ##
     'routes' => require 'routes.php',
     'thumbs' => require_once 'thumbs.php',
-    'bnomei.janitor.jobs' => require_once 'jobs.php',
 
 
     ##
@@ -24,19 +30,22 @@ return [
     'languages' => true,
 
     # Sitemap settings
-    'sitemap.ignore' => ['error'],
+    'sitemap.ignore' => [
+        'error',
+        'kontakt/vielen-dank',
+    ],
 
     # Typography settings
     # See https://getkirby.com/docs/reference/system/options/smartypants
     'smartypants' => true,
 
-    # Enable API cache for `dependencies`
-    'cache.deps' => true,
-
 
     ##
     # PLUGIN OPTIONS
     ##
+
+    # Janitor jobs
+    'bnomei.janitor.jobs' => require_once 'jobs.php',
 
     # Enable auto-linking to `dejure.org` (specific templates only)
     'kirby3-dejure.allowList' => ['default'],
@@ -93,6 +102,19 @@ return [
         'loader' => function () {
             return kirby()->root('config') . '/settings/csp.json';
         },
+    ],
+
+    # Send emails from contact form
+    'email' => [
+        'transport' => [
+            'type' => 'smtp',
+            'host' => env('mail_server'),
+            'security' => true,
+            'port' => 587,
+            'auth' => true,
+            'username' => env('mail_username'),
+            'password' => env('mail_password'),
+        ],
     ],
 
     # Utilize manifest file with hashed assets

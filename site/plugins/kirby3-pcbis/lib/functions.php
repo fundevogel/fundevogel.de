@@ -8,8 +8,11 @@ use GuzzleHttp\TransferStats;
 function pcbis()
 {
     # Initializing Webservice object
-    $login = file_get_contents(kirby()->root('config') . '/knv.json');
-    $login = json_decode($login, true);
+    $login = [
+        'VKN' => env('knv_vkn'),
+        'Benutzer' =>env('knv_username'),
+        'Passwort' => env('knv_password'),
+    ];
 
     return new Webservice($login, kirby()->root('cache') . '/books');
 }
