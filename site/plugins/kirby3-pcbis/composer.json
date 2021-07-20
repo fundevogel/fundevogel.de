@@ -25,7 +25,8 @@
         "test": "phpunit"
     },
     "require": {
-        "getkirby/composer-installer": "^1.1"
+        "getkirby/composer-installer": "^1.1",
+        "beebmx/kirby-env": "3.0.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14",

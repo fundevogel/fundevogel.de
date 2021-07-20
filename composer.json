@@ -21,6 +21,7 @@
         "php": ">=7.2.0",
         "getkirby/cms": "3.5.7.1",
         "afbora/kirby-minify-html": "1.5.0",
+        "beebmx/kirby-env": "3.0.0",
         "bnomei/kirby3-feed": "1.3.10",
         "bnomei/kirby3-fingerprint": "3.0.13",
         "bnomei/kirby3-janitor": "2.6.9",

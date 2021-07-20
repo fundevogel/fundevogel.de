@@ -42,6 +42,7 @@
 
 # Login credentials
 # ---------------
+/.env
 /site/config/*.json
 
 # License
