@@ -1,7 +1,7 @@
 type: fields
 fields:
   cover:
-    extends: fields/single-cover
+    extends: fields/cover
     image:
       ratio: 3/4
 
@@ -22,18 +22,11 @@ fields:
       Hörbuch: Hörbuch
 
   isSeries:
+    extends: fields/base/toggle
     label:
       de: Serie?
       en: Series?
-    type: toggle
     width: 1/3
-    text:
-      -
-        de: Nein
-        en: No
-      -
-        de: Ja
-        en: Yes
 
   series:
     label:
@@ -52,7 +45,7 @@ fields:
       isSeries: true
 
   hasAward:
-    extends: fields/toggle
+    extends: fields/base/toggle
     label:
       de: Auszeichnung erhalten?
       en: Award received?
