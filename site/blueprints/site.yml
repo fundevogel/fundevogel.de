@@ -69,29 +69,50 @@ tabs:
 
   # Lesetipps
   tab_lesetipps:
-    extends: tabs/custom/lesetipps
+    label:
+      de: Lesetipps
+      en: Reading tips
     icon: book
     columns:
       left:
+        width: 1/2
         sections:
-          limit: false
+          lesetipps_info:
+            extends: sections/info
+            text:
+              de: |
+                Um einen **neuen Lesetipp** anzulegen, wähle links "Hinzufügen", gib die ISBN des Lesetipps an und bestätige mit "Entwurf anlegen".
+
+                **Hinweis:** Danach muss der Lesetipp noch "veröffentlicht" werden: Klicke einfach unter der Überschrift des Beitrags auf "Entwurf" und ändere den Status auf "Öffentlich".
+              en: |
+                Adding a **new recommendation** is pretty simple, just choose "Add" on the left side, enter the ISBN of the recommendation and hit "Create draft".
+
+                **Note:** After that the recommendation still has to be "published". In order to do that, click on "Draft" (below the recommendation's title) and change the status to "Published".
 
       right:
+        width: 1/2
         sections:
-          posts_drafts:
+          lesetipps_drafts:
+            extends: sections/drafts
+            template: lesetipps.article
             parent: site.find('lesetipps')
 
-          posts_unlisted:
+          lesetipps_unlisted:
+            extends: sections/unlisted
+            template: lesetipps.article
             parent: site.find('lesetipps')
 
       full:
         sections:
-          posts_listed:
+          lesetipps_listed:
+            extends: sections/listed
+            layouts: cards
+            template: lesetipps.article
             parent: site.find('lesetipps')
 
   # News
   tab_news:
-    extends: tabs/custom/news
+    extends: tabs/posts
     label:
       de: Aktuelles
       en: News
@@ -103,14 +124,23 @@ tabs:
       right:
         sections:
           posts_drafts:
+            templates:
+              - news.article
+              - news.recommendation
             parent: site.find('news')
 
           posts_unlisted:
+            templates:
+              - news.article
+              - news.recommendation
             parent: site.find('news')
 
       full:
         sections:
           posts_listed:
+            templates:
+              - news.article
+              - news.recommendation
             parent: site.find('news')
 
   # Settings

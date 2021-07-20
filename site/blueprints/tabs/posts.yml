@@ -8,10 +8,7 @@ columns:
     width: 1/2
     sections:
       info:
-        headline:
-          de: Anleitung
-          en: Manual
-        type: info
+        extends: sections/info
         text:
           de: |
             Um einen **neuen Beitrag** anzulegen, wähle links "Hinzufügen", gib den Namen des Beitrags an und bestätige mit "Entwurf anlegen". Anschließend kannst du Texte schreiben und Bilder hochladen bzw. bearbeiten.
