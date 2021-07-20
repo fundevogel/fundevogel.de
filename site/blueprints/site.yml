@@ -162,6 +162,10 @@ tabs:
         extends: fields/base/url
         label: Instagram
 
+      mastodon:
+        extends: fields/base/url
+        label: Mastodon
+
       awards:
         label:
           de: Auszeichnungen
