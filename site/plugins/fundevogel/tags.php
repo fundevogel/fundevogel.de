@@ -1,6 +1,75 @@
 <?php
 
 return [
+    'link' => [
+        # Default attributes:
+        # - class
+        # - lang
+        # - rel
+        # - role
+        # - target
+        # - text
+        # - title
+        'attr' => A::merge(Kirby\Text\KirbyTag::$types['link']['attr'], [
+            'color',
+        ]),
+        'html' => function($tag) {
+            # Check if target is Wikipedia article
+            if (Str::startsWith($tag->value, 'wiki')) {
+                # Determine article name
+                $article = $tag->text;
+
+                if (Str::contains($tag->value, '=')) {
+                    $article = Str::split($tag->value, '=')[1];
+                }
+
+                # Determine `title` attribute
+                if (empty($tag->title) === true) {
+                    $tag->title = sprintf('\'%s\' auf Wikipedia', $article);
+                }
+
+                # Set `href` attribute
+                $tag->value = Str::replace('https://de.wikipedia.org/wiki/' . $article, ' ', '_');
+
+            # .. otherwise, default Kirby stuff
+            } else {
+                if (empty($tag->lang) === false) {
+                    $tag->value = Url::to($tag->value, $tag->lang);
+                }
+            }
+
+            # Check if URL is external
+            if (Url::stripPath(Url::to($tag->value)) !== Url::stripPath(site()->url())) {
+                $tag->target = 'blank';
+            }
+
+            # Determine attributes
+            # (1) Kirby defaults
+            $attributes = [
+                'rel'    => $tag->rel,
+                'class'  => $tag->class,
+                'role'   => $tag->role,
+                'title'  => $tag->title,
+                'target' => $tag->target,
+            ];
+
+            # (2) Add tooltips if `title` attribute present
+            if (empty($tag->title) === false) {
+                # Determine base color
+                if (in_array($tag->color, ['red', 'orange']) === false) {
+                    $tag->color = 'red';
+                }
+
+                # Add proper classes & theme
+                $attributes = A::merge($attributes, [
+                    'class' => Str::replace('js-tippy font-normal text-%s-medium hover:text-%s-dark', '%s', $tag->color),
+                    'data-tippy-theme' => 'fundevogel ' . $tag->color,
+                ]);
+            }
+
+            return Html::a($tag->value, $tag->text, $attributes);
+        },
+    ],
     'date' => [
         'html' => function($tag) {
             if ($tag->value === 'created') {
@@ -8,35 +77,6 @@ return [
             }
 
             return $tag->parent()->toLocalDate('modified');
-        },
-    ],
-    'wiki' => [
-        'attr' => [
-            'title',
-            'color',
-        ],
-        'html' => function($tag) {
-            # Determine base color
-            $color = in_array($tag->color, ['red', 'orange']) === true
-                ? $tag->color
-                : 'red'
-            ;
-
-            # Determine base color
-            $title = empty($tag->title)
-                ? $tag->value
-                : $tag->title
-            ;
-
-            # Build Wikipedia URL
-            $url = 'https://de.wikipedia.org/wiki/' . $title;
-
-            return Html::a($url, $tag->value, [
-                'class' => sprintf('js-tippy font-normal text-%s-medium hover:text-%s-dark', $color, $color, $color, $color),
-                'data-tippy-theme' => 'fundevogel ' . $color,
-                'title' => sprintf('%s auf Wikipedia', $title),
-                'target' => '_blank',
-            ]);
         },
     ],
     'short' => [
