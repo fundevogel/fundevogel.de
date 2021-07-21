@@ -6,7 +6,7 @@ Text:
 
 Freiheit eröffnet Kindern und jungen Erwachsenen einen wichtigen Erfahrungsraum, in dem das Leben positiv als Chance, als Möglichkeit zu gestalten und sich zu beteiligen, begriffen werden kann. Wir alle wollen ausprobieren und Neues entdecken, machen Fehler und finden Lösungen. Dafür braucht es Freiheit - in der analogen wie der digitalen Welt.
 
-Freie und quelloffene Software ermöglicht es, auf Entdeckungsreise in die Welt aus Buchstaben und Zeichen, den (short: Quelltext desc: So nennt man den Text, aus dem eine Webseite bzw. ein Computerprogramm besteht.), aufzubrechen und unsere digitale Welt "von innen" mitzugestalten. Im Fundevogel arbeiten wir seit Langem mit freier Software: Auf unseren Computern läuft (wiki: Ubuntu), in unserem Büro steht ein (link: https://freiburg.freifunk.net text: Freifunk target: blank)-Router und auf unserer Webseite ist Open Source im Dauereinsatz, zum Teil vom Fundevogel selbst entwickelt!
+Freie und quelloffene Software ermöglicht es, auf Entdeckungsreise in die Welt aus Buchstaben und Zeichen, den (short: Quelltext desc: So nennt man den Text, aus dem eine Webseite bzw. ein Computerprogramm besteht.), aufzubrechen und unsere digitale Welt "von innen" mitzugestalten. Im Fundevogel arbeiten wir seit Langem mit freier Software: Auf unseren Computern läuft (link: wiki text: Ubuntu), in unserem Büro steht ein (link: https://freiburg.freifunk.net text: Freifunk)-Router und auf unserer Webseite ist Open Source im Dauereinsatz, zum Teil vom Fundevogel selbst entwickelt!
 
 Wir laden Euch ein, einen Blick hinter die Kulissen zu werfen: Auf (link: technisches text: dieser Seite) haben wir viele Informationen über unsere Webseite, ihren Entwicklungsprozess und mehr für Euch zusammengestellt!
 
