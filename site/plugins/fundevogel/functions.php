@@ -1,6 +1,6 @@
 <?php
 
-function loadCSS ()
+function loadCSS()
 {
     # (1) When in production ..
     if (option('environment') == 'production') {
@@ -13,7 +13,7 @@ function loadCSS ()
 }
 
 
-function loadJS ()
+function loadJS()
 {
     # Determine base path
     $jsPath = url('assets/scripts/');
@@ -32,7 +32,7 @@ function loadJS ()
 }
 
 
-function getLangVars ($language = 'de')
+function getLangVars($language = 'de')
 {
     $translations = Yaml::decode(F::read(
         kirby()->root('languages') . '/vars/' . $language . '.yml')
@@ -42,7 +42,7 @@ function getLangVars ($language = 'de')
 }
 
 
-function useSVG ($title, $classes = '', $file = '', $customAttribute = '')
+function useSVG($title, $classes = '', $file = '', $customAttribute = '')
 {
     if ($file === '') {
         $file = str_replace('-', '', $title);
@@ -55,7 +55,7 @@ function useSVG ($title, $classes = '', $file = '', $customAttribute = '')
     return Str::replace($svg, '<svg', '<svg class="' . $classes . '" title="' . $title . '" role="img"' . r($customAttribute !== '', ' ' . $customAttribute), 1);
 }
 
-function useSeparator ($color = 'orange-light', $position = 'top') {
+function useSeparator($color = 'orange-light', $position = 'top') {
     $svgPath = 'assets/images/icons/' . $position . '.svg';
     $svg = (new Asset($svgPath))->read();
 

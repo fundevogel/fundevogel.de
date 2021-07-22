@@ -4,7 +4,7 @@
 require_once __DIR__ . '/functions.php';
 
 # Kirby plugins
-Kirby::plugin('fundevogel/methods', [
+Kirby::plugin('fundevogel/fv', [
     # Blueprints
     'blueprints' => [
         'blocks/books' => __DIR__ . '/blueprints/books.yml',
