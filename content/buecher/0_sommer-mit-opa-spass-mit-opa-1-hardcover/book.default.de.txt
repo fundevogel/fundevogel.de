@@ -1,0 +1,136 @@
+Title: Sommer mit Opa
+
+----
+
+Isbn: 978-3-8458-4381-0
+
+----
+
+Subtitle: Spaß mit Opa
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Sarah Welk
+
+----
+
+Illustrator: Alexander von Knorre
+
+----
+
+Translator: 
+
+----
+
+Publisher: ars edition
+
+----
+
+Age: ab 9 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 10,00
+
+----
+
+Topics: Ferien, Großeltern, Grundschule
+
+----
+
+Description: Eine lustiges Ferienabenteuer für Jungen und Mädchen ab 9 Jahren Diese fröhliche Sommergeschichte der Erfolgsautorin Sarah Welk ist das perfekte Lesefutter für Kinder ab der 3. Klasse zum Selberlesen und zum Vorlesen für die Kleineren.    Sommer, Badespaß und der coolste Opa der Welt Weil Jonas' Eltern arbeiten müssen, dürfen er und seine Schwester Marie mit Opa Franz nach Italien in Urlaub fahren. Schule ade! Sommer, Sonne, Freiheit, hurra!  Doch als Opas alter VW-Bus schon nach wenigen Kilometern an einem Baggersee den Geist aufgibt, sieht es schlecht aus mit Pizza, Pasta und Gelati. Zum Glück kann Opa Franz nichts aus der Ruhe bringen, er hat immer die tollsten Ideen. Und aus einer Autopanne wird für Jonas und Marie ganz unerwartet der beste Sommer aller Zeiten!   Mit Herz und Humor: Lustige Feriengeschichte mit TiefgangLesen macht Freude: Das ideale Geschenk für Kinder ab der 3. KlasseAufgelockerter Text: Mit vielen lustigen Zeichnungen von Alexander von KnorreNoch mehr Lesespaß: Kurze Kapitel und leicht lesbare SchriftExtra-Motivation: Zu diesem Buch gibt es ein Quiz bei Antolin Ein humorvolles und warmherziges Kinderbuch über Familie, Freundschaft und die Kunst, aus allem das Beste zu machen - als praktische Klappenbroschur!   Weitere Bände der Reihe: Weihnachten mit Opa ISBN 9783845835884 (erscheint im September 2020)
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003314504/63715/10002/-3/Buecher_Kinder--und-Jugend/Sarah-Welk/Sommer-mit-Opa-Spass-mit-Opa-
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  sommer-mit-opa-spass-mit-opa-1_sarah-welk.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Spaß mit Opa
+
+----
+
+Volume: 1
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
