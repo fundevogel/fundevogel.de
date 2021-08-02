@@ -58,7 +58,7 @@ tabs:
             icon: smile
             translate: false
           show_website:
-            extends: fields/toggle
+            extends: fields/base/toggle
             label:
               de: Webseite?
               en: Website?
