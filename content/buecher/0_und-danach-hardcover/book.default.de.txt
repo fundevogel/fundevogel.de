@@ -1,0 +1,140 @@
+Title: Und danach
+
+----
+
+Isbn: 978-3-95939-096-5
+
+----
+
+Subtitle: Gedanken über das große Jenseits
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Silvia Fernández; David Fernández
+
+----
+
+Illustrator: Mercè López
+
+----
+
+Translator: Alexandra González-Calatayud
+
+----
+
+Publisher: Bohem Press
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 52
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Jenseits, Leben nach dem Tod, Religion, Sterben, Weltreligionen
+
+----
+
+Description:
+
+Die Artisten des Zirkus "Galaxie" riskieren jeden Tag ihr Leben am Trapez, auf dem Drahtseil, beim Schwert- und Feuerschlucken ...vielleicht sprechen sie deshalb so oft über den Tod? Denn was kommt danach? Vom Seiltänzer bis zur Entfesselungskünstlerin, erzählen alle, was sie sich vorstellen. Und was denkst Du?
+
+Ein Buch über Möglichkeiten, Vermutungen und unterschiedliche Glaubensrichtungen und über die große Frage nach dem Jenseits.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003341349/63715/10002/-3/Buecher_Bilderbuecher/Silvia-Fernndez/Und-danach
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  und-danach_silvia-fernandez-david-fernandez.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: August 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-august-2021-ajum-praemiert-bilderbuch-und-danach
+
+----
+
+Participant: 

@@ -1,0 +1,160 @@
+Title: Und danach
+
+----
+
+Text:
+
+Die Künstlerinnen und Künstler des Zirkus Galaxie sind so unterschiedlich wie ihre Vorstellungen vom Jenseits selbst. Während Goldfisch Fritz Engelhardt glaubt, dass wir nach dem Tod in den Himmel kommen, meint Hieronymus, der jonglierende Kojote, dass wir uns in Geister verwandeln und über die vier Elemente miteinander kommunizieren. Kuh Pema Houdini, die Entfesselungskünstlerin auf dem Einrad, hingegen denkt, dass wir als andere Tiere wiedergeboren werden.
+
+Und was glaubst du? Nachdem die Leserinnen und Leser mit zehn sehr unterschiedlichen Vorstellungen zum Jenseits bekannt gemacht wurden, werden sie nun selbst aufgefordert, sich eine Meinung zu bilden und die vorgestellten Gedanken zum Leben nach dem Tod zu hinterfragen. Diese bieten einen guten Einblick in die Annahmen verschiedener Kulturen, Religionen und Philosophien, ganz ohne zu werten oder eine über die andere zu stellen.
+
+### Leichtigkeit trotz Schwere des Themas
+Den Autorinnen und Autoren gelingt es ganz ohne Schwermut, die doch eher schwer zu beantwortende Frage nach dem Tod bereits für junge Rezipientinnen und Rezipienten zu thematisieren. Der Zirkus bietet Kindern hierbei als bekannter Handlungsort eine ausgezeichnete Manege für die Umsetzung des Gedankenspiels „Und danach“. Gerade die stringente Erzählstruktur, bei der die unterschiedlichen Tierfiguren nacheinander vom Seil fallen und dabei jeweils ihre individuelle Vorstellung präsentieren, verleiht der linearen Handlung am Ende sogar eine witzige Pointe.
+
+Die Illustrationen tragen ihren Teil dazu bei, dem Bilderbuch die thematische Schwere zu nehmen. Zart und locker im Strich einerseits und andererseits farblich ausdrucksstark werden die Figuren zum Leben erweckt. Die Unglückssituationen stehen dabei nicht im Zentrum, sondern sind an den Bildrand gerückt, während der Blick auf den auf dem Seil verbliebenen Artistinnen und Artisten und ihren Kunststücken verweilt.
+
+----
+
+Verdict: In diesem Bilderbuch werden sehr unterschiedliche kulturelle, religiöse und philosophische Vorstellungen vom Jenseits aufgezeigt. Ästhetisch äußerst ansprechend werden Kinder so zur Auseinandersetzung mit einer essentiellen Frage des Lebens angeregt.
+
+----
+
+Conclusion:
+
+### Aufbau des Buches und Ästhetik der Bilder
+Jede zweite Doppelseite präsentiert mit den zehn unterschiedlichen Protagonist*innen ein anderes Todeskonzept. Gerade eben noch mit allen Artistinnen und Artisten zusammen auf einem Seil balancierend, denkt ein Tier nach dem anderen im Fallen über seinen Tod und das Danach nach. Die jeweilige Vorstellung zeigt sich daraufhin in einer sich über das gesamte Buchformat erstreckenden Illustration und wird begleitet von einem kurzen Text.
+
+Der malerische, dezente Stil in gedeckten Farbtönen lädt durch seine Details zum Entdecken ein. So finden sich neben literarischen und bildnerischen Zitaten (z. B. Schauspielernamen auf Grabsteinbeschriftungen oder ein Bhavachakra (Lebensrad)), die oft auf bestimmte Religionen anspielen, immer wieder auch die Zirkuskünstlerinnen und -künstler selbst, die in den Gedanken der Herabstürzenden im Jenseits auf sie warten.
+
+### Anregung zum eigenen Philosophieren
+Die letzte Doppelseite löst die Ungewissheit auf. Alle haben den Sturz überlebt, wenn auch mit Hals- und Beinbruch. Mit der abschließenden Frage „Und was glaubst du?“ wird der Weg geebnet, sich selbst Gedanken zu machen und die Anschlusskommunikation zu beginnen, die dieses besondere Bilderbuch ohne Zweifel herausfordert. Ein rundum gelungenes Debüt der spanischen Autorinnen und Autoren Silvia und David Fernández und der spanischen Illustratorin Mercè López.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-08-02
+
+----
+
+Book:
+
+- buecher/und-danach-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-08-02 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-08-02 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-08-02 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
