@@ -49,12 +49,9 @@ Cards:
 - 
   entry: |
     Since the opening of our "French corner", the (link: https://ccf-fr.de/ text: Centre Culturel Francais target: blank) has been one of our most loyal cooperation partners. Together we build bridges between our countries and strive to provide you with a current and original look at French children's and youth literature.
-
-----
-
-Cover:
-
-- unser-netzwerk.jpg
+- 
+  entry: |
+    The association (link: https://wir.freiburg.social text: freiburg.social) is committed to free software and social networks for Freiburg and its proximity. We support their undertaking and regularly "(short: toot desc: A 'toot' on Mastodon is comparable to a 'tweet' on Twitter and means 'publishing a post'. color: orange)" on their (link: wiki=Mastodon (software) text: Mastodon color: orange lang: en) server.
 
 ----
 
@@ -63,10 +60,6 @@ Meta-title:
 ----
 
 Meta-description: We are looking for cooperation and partnerships to spark interest in books and literature together with the aim of having fun and enjoying reading.
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -173,6 +166,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 

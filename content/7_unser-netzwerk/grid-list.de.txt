@@ -45,6 +45,9 @@ Cards:
   entry: 'Die Sonne scheint und die Stühle vom (link: https://www.cafemarcel.de/ text: Café Marcel target: blank) sind wieder im Stadtgarten zu sehen! Während die Eltern Freiburger Kaffee und französische Croissants genießen, können sich die Kinder auf dem nahgelegenen Spielplatz vergnügen.'
 - 
   entry: 'Seit der Eröffnung unserer "französischen Ecke" zählt das (link: https://ccf-fr.de/ text: Centre Culturel Francais target: blank) zu unseren treuen Kooperationspartnern. Zusammen bauen wir Brücken zwischen den Ländern und bemühen uns, Euch einen aktuellen und originellen Blick in die französische Kinder- und Jugendliteratur zu vermitteln.'
+- 
+  entry: |
+    Der Verein (link: https://wir.freiburg.social text: freiburg.social) engagiert sich für freie Software und soziale Netzwerke für Freiburg und Region. Wir unterstützen ihn dabei und "(short: tröten desc: Ein  'Tröt' auf Mastodon ist vergleichbar mit einem 'Tweet', also 'Gezwitscher', auf Twitter und meint das Veröffentlichen einer Nachricht. color: orange)" kräftig mit auf dessen (link: wiki=Mastodon (Software) text: Mastodon color: orange)-Server.
 
 ----
 
@@ -59,10 +62,6 @@ Meta-title:
 ----
 
 Meta-description: Wir suchen Kooperation & Partnerschaften, um gemeinsam das Interesse an Büchern und Literatur zu wecken mit dem Ziel, Spaß und Lust am Lesen zu finden.
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -169,6 +168,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 
