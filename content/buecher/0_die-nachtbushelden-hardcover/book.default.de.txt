@@ -1,0 +1,135 @@
+Title: Die Nachtbushelden
+
+----
+
+Isbn: 978-3-85535-656-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Onjali Q. Raúf
+
+----
+
+Illustrator: Pippa Curnick
+
+----
+
+Translator: Katharina Diestelmeier
+
+----
+
+Publisher: Atrium Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Abenteuer, England, Freundschaft, London, Mobbing, Obdachlosigkeit, Toleranz
+
+----
+
+Description: Ich heiße Hector - meine Eltern haben eine Schwäche für griechische Helden. Aber ich glaube, dass sie es bereuen, mir diesen Namen gegeben zu haben. Sie hätten mich lieber »Katastrophe« oder »Hoffnungsloser Fall« nennen sollen. Eigentlich habe ich mich damit abgefunden, dass ich immer nur Ärger bekomme. Aber seit ich dem Mann, der im Park wohnt, einen Streich gespielt habe, ignorieren mich alle nur noch. Dabei habe ich sogar versucht, es wiedergutzumachen! Noch nicht mal jetzt, wo ich einem Komplott gegen die Obdachlosen der Stadt auf die Schliche gekommen bin, hört mir jemand zu! Alle denken, dass ich nur ein Mobber bin. Aber ich werde ihnen beweisen, dass auch ich ein Held sein kann!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003340690/63715/10002/-3/Buecher_Kinder--und-Jugend/Onjali-Q-Raf/Die-Nachtbushelden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- die-nachtbushelden_onjali-q-rauf.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
