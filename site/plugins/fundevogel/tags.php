@@ -28,8 +28,10 @@ return [
                     $tag->title = sprintf('\'%s\' auf Wikipedia', $article);
                 }
 
+                $lang = empty($tag->lang) === false ? $tag->lang : 'de';
+
                 # Set `href` attribute
-                $tag->value = Str::replace('https://de.wikipedia.org/wiki/' . $article, ' ', '_');
+                $tag->value = Str::replace('https://' . $lang . '.wikipedia.org/wiki/' . $article, ' ', '_');
 
             # .. otherwise, default Kirby stuff
             } else {
