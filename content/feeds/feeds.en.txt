@@ -1,0 +1,151 @@
+Title: Our feeds
+
+----
+
+Text:
+
+## Always up-to-date
+The internet offers a wide variety of texts worth reading, on nearly every topic imaginable: from short informational snippets, product reviews and personal customer experiences to well-researched background stories or scientific articles. Normally, users would have to revisit websites every now and then, so they don't miss out on what they are looking for, which would eat up a lot of time - that's where (link: wiki=Web feed text: news feeds lang: en) come into the picture:
+
+(quote: On the World Wide Web, a web feed (or news feed) is a data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). author: Wikipedia on 'Web feed')
+
+They are typically available as (short: JSON desc: 'JavaScript Object Notation') or (short: RSS desc: 'Rich Site Summary') feeds.
+
+----
+
+Details:
+
+## Books for everyone
+Our reading tips are available in both formats:
+- Reading tips as (link: feeds/json text: JSON target: blank) feed
+- Reading tips as  (link: feeds/rss text: RSS target: blank) feed
+
+If you want to receive updates on our bookstore, upcoming events and recent developments in book trade and the publishing industry, you may subscribe to our news, too:
+- News and recent events as (link: news/json text: JSON target: blank) feed
+- News and recent events as (link: news/rss text: RSS target: blank) feed
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: Staying up-to-date on everything children's & youth literature is easy: just subscribe to our JSON/RSS feeds and enjoy our reading tips!
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- unsere-feeds.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- unsere-feeds.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- unsere-feeds.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-03-24
+
+----
+
+Meta-keywords: 
