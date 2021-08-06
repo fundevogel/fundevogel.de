@@ -48,12 +48,9 @@ Cards:
   entry: "Le soleil brille et invite à la farniente dans les chaises longues du (link: https://www.cafemarcel.de text: Café Marcel target: blank) ! De temps en temps (consultez pour cela notre agenda), des lectures en français se mêlent au goût divin d'un croissant chaud ..."
 - 
   entry: "Depuis l'ouverture du rayon de livres en français, le (link: https://ccf-fr.de text: Centre Culturel Francais target: blank) compte parmi nos partenaires fidèles. Nous essayons ensemble de donner un aperçu actuel et original de la littérature jeunesse française."
-
-----
-
-Cover:
-
-- unser-netzwerk.jpg
+- 
+  entry: |
+    L'association (link: https://wir.freiburg.social text: freiburg.social) s'engage en faveur des logiciels libres et des réseaux sociaux pour Fribourg et sa région. Nous les soutenons et "(short: tootons desc: Un 'toot' sur Mastodon est comparable à un 'tweet' sur Twitter et se traduit par la publication d'un message. color: orange)" vigoureusement sur leur serveur (link: wiki=Mastodon (réseau social) text: Mastodon color: orange lang: fr).
 
 ----
 
@@ -62,10 +59,6 @@ Meta-title:
 ----
 
 Meta-description: Nous recherchons une coopération et des partenariats pour susciter l'intérêt pour les livres et la littérature dans le but de s'amuser et de profiter de la lecture.
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -172,6 +165,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 
