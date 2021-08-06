@@ -1,0 +1,17 @@
+Titleattribute: Toujours à jour: L'actualité du Fundevogel
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: L’écran d’un smartphone affiche le site web du Fundevogel. En arrière-plan, on voit les rayons des livres.
+
+----
+
+Caption: Toujours à jour: L'actualité du Fundevogel
+
+----
+
+Template: image

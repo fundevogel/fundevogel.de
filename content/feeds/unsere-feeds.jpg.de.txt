@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Immer gut beraten: Neues aus dem Fundevogel!
+Caption: Immer aktuell: Neues aus dem Fundevogel!
 
 ----
 

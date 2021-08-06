@@ -1,0 +1,143 @@
+Title: Nos flux web
+
+----
+
+Text:
+
+## Toujours informé
+L’internet propose un large éventail de textes méritant d’être lus, sur presque tous les sujets imaginables: De courts extraits informationnels, des revues de produits et des expériences personnelles des clients jusqu’à des récits de fond ou des articles scientifiques bien documentés. Normalement, les utilisateurs devraient consulter à nouveau les sites web dès maintenant, de sorte qu’ils ne manqueront pas ce qu’ils recherchent, ce qui manierait beaucoup de temps — c’est là que les "(link: wiki=Flux web text: news feeds lang: fr)" apparaissent dans l’image:
+
+(quote: Un flux Web (ou « news feed ») est une technique d'Internet pour transmettre des nouvelles ou des changements récents. Les distributeurs de contenus, grâce à la syndication de contenu, proposent un canal de transmission auquel peuvent s'abonner des internautes (on parle alors de « syndicated feed ») author: Wikipédia sur la "Flux web")
+
+----
+
+Details:
+
+## Nouvelle substance de lecture
+Nos conseils de lecture sont disponibles dans les deux formats:
+- Nos conseils de lecture en format (link: feeds/json text: JSON target: blank)
+- Nos conseils de lecture en format (link: feeds/rss text: RSS target: blank)
+
+Occasionnellement, nous informons également sur notre site web de l’actualité du magasin, de l’évolution récente du commerce du livre et des manifestations prévues, également disponibles sous forme d’abonnement:
+- L'actualité en format (link: news/json text: JSON target: blank)
+- L'actualité en format (link: news/rss text: RSS target: blank)
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: Mit unseren Lesetipps als JSON/RSS-Feed halten wir Euch auf dem Laufenden in Sachen Kinder- und Jugendbuch: einfach abonnieren und loslesen!
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-03-24
+
+----
+
+Meta-keywords: 
