@@ -25,7 +25,7 @@ return [
 
                 # Determine `title` attribute
                 if (empty($tag->title) === true) {
-                    $tag->title = sprintf('\'%s\' auf Wikipedia', $article);
+                    $tag->title = sprintf('\'%s\' @ Wikipedia', $article);
                 }
 
                 $lang = empty($tag->lang) === false ? $tag->lang : 'de';
