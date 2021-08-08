@@ -5,7 +5,7 @@ Title: Unsere Feeds
 Text:
 
 ## Immer auf dem Laufenden
-Lesenswerte Angebote im Internet gibt es viele und ihre Bandbreite und reicht von Informationsschnipseln über Erfahrungsberichte und Produkttests bishin zu aufwendigen Recherchen. Damit Nutzer:innen nicht regelmäßig alle Webseiten einzeln im Blick behalten müssen, bieten viele Anbieter die Möglichkeit, einen (short: Feed desc: Laut Duden handelt es sich dabei um eine 'digitale Nachricht aus dem Internet, die kostenlos abonniert werden kann') zu abonnieren:
+Lesenswerte Angebote im Internet gibt es viele - ihre Bandbreite reicht von Informationsschnipseln über Erfahrungsberichte und Produkttests bis hin zu aufwendigen Recherchen. Damit Nutzer:innen nicht regelmäßig alle Webseiten einzeln im Blick behalten müssen, bieten viele Anbieter die Möglichkeit, einen (short: Feed desc: Laut Duden handelt es sich dabei um eine 'digitale Nachricht aus dem Internet, die kostenlos abonniert werden kann') zu abonnieren:
 
 Werden neue Beiträge veröffentlicht, in unserem Fall etwa ein neuer Lesetipp, können diese anschließend über den Feed, eine Datei in den Formaten (short: JSON desc: engl. für 'JavaScript Object Notation') oder (short: RSS desc: engl. für 'Rich Site Summary'), abgerufen werden. Dafür benötigen Interessierte lediglich ein geeignetes Programm für das gewünschte Gerät: Über einen sogenannten "(link: wiki text: Feedreader title: Artikel über 'Feedreader' sowie eine Liste geeigneter Programme)" werden Feeds abonniert, also bei Bedarf heruntergeladen, und können dann jederzeit bequem nachgelesen werden.
 
@@ -30,7 +30,7 @@ Cover:
 
 ----
 
-Meta-title:
+Meta-title: 
 
 ----
 
@@ -38,51 +38,51 @@ Meta-description: Mit unseren Lesetipps als JSON/RSS-Feed halten wir Euch auf de
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
-Meta-author:
+Meta-author: 
 
 ----
 
-Meta-image:
+Meta-image: 
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
-Og-image:
+Og-image: 
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -90,55 +90,55 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
-Twitter-image:
+Twitter-image: 
 
 ----
 
-Twitter-card-type:
+Twitter-card-type: 
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
 
 ----
 
-Layouts:
+Layouts: 
 
 ----
 
@@ -146,4 +146,4 @@ Date: 2021-03-24
 
 ----
 
-Meta-keywords:
+Meta-keywords: 

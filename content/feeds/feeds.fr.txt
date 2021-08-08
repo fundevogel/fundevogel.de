@@ -5,7 +5,7 @@ Title: Nos flux web
 Text:
 
 ## Toujours informé
-L’internet propose un large éventail de textes méritant d’être lus, sur presque tous les sujets imaginables: De courts extraits informationnels, des revues de produits et des expériences personnelles des clients jusqu’à des récits de fond ou des articles scientifiques bien documentés. Normalement, les utilisateurs devraient consulter à nouveau les sites web dès maintenant, de sorte qu’ils ne manqueront pas ce qu’ils recherchent, ce qui manierait beaucoup de temps — c’est là que les "(link: wiki=Flux web text: news feeds lang: fr)" apparaissent dans l’image:
+L’internet propose un large éventail de textes méritant d’être lus, sur presque tous les sujets imaginables: De courts bribes d'informations, des revues de produits et des expériences personnelles des clients jusqu’à des articles scientifiques bien documentés. Normalement, pour ne pas manquer les actualités et les nouvelles informations, les utilisateurs devraient reconsulter chaque site web régulièrement. Mais cela demanderait beaucoup de temps - et c'est à ce moment là que les "(link: wiki=Flux web text: news feeds lang: fr)" apparaissent sur scène:
 
 (quote: Un flux Web (ou « news feed ») est une technique d'Internet pour transmettre des nouvelles ou des changements récents. Les distributeurs de contenus, grâce à la syndication de contenu, proposent un canal de transmission auquel peuvent s'abonner des internautes (on parle alors de « syndicated feed ») author: Wikipédia sur la "Flux web")
 
