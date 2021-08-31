@@ -1,0 +1,21 @@
+Titleattribute: Eine abenteuerliche Zeitreise .. so hat alles angefangen!
+
+----
+
+Source: 
+
+----
+
+Altattribute: Screenshot der alten Fundevogel-Webseite.
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,0 +1,25 @@
+Title: Eine Zeitreise: Die erste Fundevogel-Webseite
+
+----
+
+Text:
+
+Unsere "neue" Internetseite ist vor fünf Jahren, im Frühjahr 2016, an den Start gegangen; seitdem wurde sie beständig überarbeitet und erweitert:
+
+So gab es am Anfang die Kategorie "(link: unser-sortiment text: Unser Sortiment)" noch nicht, auch fehlten Unterseiten zu unseren jährlichen Highlights: der (link: kalender/welttag-des-buches text: Welttag des Buches), der weltweite Feiertag für das Lesen, für Bücher und die Rechte der Autor:innen am 23. April; die (link: kalender/herbstlese text: HerbstLese), die Vorstellung unserer ganz persönlichen Lieblingsbücher aus der Flut der Herbst-Neuerscheinungen in gemütlicher Atmosphäre; und natürlich das (link: kalender/lirum-larum-lesefest text: Lirum Larum Lesefest), das große Kinderliteraturfest im Stadtheater Freiburg Mitte Oktober mit buntem Programm von Lesungen, Workshops und vielen Aktionen für mehrere Tage. Unsere Empfehlungslisten haben ein optisches "Update" erhalten und sind nun auch (link: lesetipps/neuerscheinungen text: gesammelt einsehbar). Außerdem gab es weder (link: feeds text: Feeds) noch (link: technisches text: technische Infos).
+
+Heute nehmen wir Euch mit auf (link: https://zeitreise.fundevogel.de text: eine Zeitreise target: blank) zu den Anfängen unserer Webseite:
+
+(quote: Bereits kurz nach Betreten des digitalen Archivs wurden wir von Viren überrascht ... dutzende, sie kamen aus allen Richtungen auf uns zu! Außerdem mussten wir unbemerkt an Heerscharen unbekannter Dateiendungen vorbeischleichen und unzählige Fehlermeldungen wegklicken ... schließlich aber stießen wir auf die ramponierten Überreste der Vorgänger-Webseite, die wir bereits verloren geglaubt hatten. Das war wirklich ein unbeschreibliches Gefühl - ein echter Schatz! author: Martin F. - Leiter der Digitalexpedition)
+
+----
+
+Date: 2021-08-07
+
+----
+
+Subtitle-wanted: true
+
+----
+
+Subtitle: Update aus dem Maschinenraum

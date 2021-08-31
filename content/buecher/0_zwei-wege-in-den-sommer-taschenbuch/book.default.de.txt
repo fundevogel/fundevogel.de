@@ -1,0 +1,136 @@
+Title: Zwei Wege in den Sommer
+
+----
+
+Isbn: 978-3-423-71865-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Taschenbuch
+
+----
+
+Author: Robert Habeck; Andrea Paluch
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: DTV
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: kartoniert
+
+----
+
+Pagecount: 224
+
+----
+
+Price: 9,95
+
+----
+
+Topics: Erwachsenwerden, Freundschaft, Road-Novel, Selbstfindung
+
+----
+
+Description: Der letzte Sommer vor dem Abitur soll etwas Besonderes werden. Max will per Segelschiff und ohne Geld nach Finnland. Svenja und Ole schließen sich auf einem zweiten Weg trampend auf Güterzügen an. In Tornio wollen die drei sich treffen, nicht ahnend, dass sie am Ende ihrer Reise nicht mehr dieselben sein werden. Svenja ist mit Ole zusammen, jedoch heimlich in Max verliebt. Ole weiß nichts von Svenjas Gefühlen für Max, will sich aber nach dem Urlaub von ihr trennen. Und Max hat nach dem Suizid seiner Zwillingsschwester vor, niemals in Finnland anzukommen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002523397/63715/10002/-3/Buecher_Kinder--und-Jugend/Robert-Habeck/Zwei-Wege-in-den-Sommer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  zwei-wege-in-den-sommer_robert-habeck-andrea-paluch.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: dtv Taschenbücher
+
+----
+
+Volume: 71865
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

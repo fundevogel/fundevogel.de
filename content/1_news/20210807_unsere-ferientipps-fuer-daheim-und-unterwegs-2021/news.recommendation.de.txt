@@ -1,0 +1,44 @@
+Title: Ferientipps - für daheim und unterwegs
+
+----
+
+Books:
+
+- 
+  title: ""
+  book:
+    - buecher/zack-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - >
+      buecher/irgendwo-ist-immer-sueden-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - buecher/the-hate-u-give-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - >
+      buecher/ach-so-schoen-ist-panama-hardcover
+  text: ""
+- 
+  title: ""
+  book:
+    - >
+      buecher/zwei-wege-in-den-sommer-taschenbuch
+  text: ""
+- 
+  title: ""
+  book:
+    - >
+      buecher/ein-sommer-mit-percy-und-buffalo-bill-hardcover
+  text: ""
+
+----
+
+Date: 2021-08-07

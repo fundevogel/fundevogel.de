@@ -1,0 +1,145 @@
+Title: Ach, so schön ist Panama
+
+----
+
+Isbn: 978-3-407-79964-7
+
+----
+
+Subtitle: Alle Tiger und Bär-Geschichten in einem Band
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Janosch
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2009
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 288
+
+----
+
+Price: 15,95
+
+----
+
+Topics: Freundschaft, Heimat
+
+----
+
+Description:
+
+Tiger und Bär sind dicke Freunde und sie fürchten sich vor nichts, weil sie zusammen wunderbar stark sind. Der Klassiker, der in keinem Bücherregal fehlen sollte!
+
+All ihre Panama-Abenteuer in einem Band:
+- Oh, wie schön ist Panama
+- Komm, wir finden einen Schatz
+- Post für den Tiger
+- Ich mach dich gesund, sagte der Bär
+- Guten Tag, kleines Schweinchen
+- Riesenparty für den Tiger
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/1266244/63715/10002/-3/Buecher_Kinder--und-Jugend/Janosch/Ach-so-schoen-ist-Panama
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- ach-so-schoen-ist-panama_janosch.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

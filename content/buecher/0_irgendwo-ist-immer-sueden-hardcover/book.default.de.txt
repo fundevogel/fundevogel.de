@@ -1,0 +1,136 @@
+Title: Irgendwo ist immer Süden
+
+----
+
+Isbn: 978-3-96177-050-2
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Marianne Kaurin
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Woow Books
+
+----
+
+Age: ab 11 Jahren
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 240
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Außenseiter, Ferien, Freundschaft, Selbstfindung
+
+----
+
+Description: Am letzten Schultag soll jeder aus der Klasse von seinen Plänen für die Sommerferien erzählen. Alle verreisen. Ins Ausland. Inas Mitschüler sind geradezu versessen aufs Ausland - es gibt sogar einen Wettstreit, wer schon in den meisten Ländern war. Als Ina an der Reihe ist, pocht es in ihrem Bauch, fast ganz oben beim Herzen. Und dann hört sie sich vor der Klasse sagen, sie würde in den Süden fahren. Nur, um dazuzugehören, dabei hat ihre Mutter für einen Urlaub gar kein Geld. Jetzt gibt es kein Zurück mehr: Damit die Lüge nicht auffliegt, bleibt Ina ab dem ersten Ferientag von morgens bis abends in ihrem Zimmer. Bis der Neue aus ihrer Klasse, der in derselben Siedlung wohnt, Ina am Fenster entdeckt und ihr einen verrückten Vorschlag macht ...
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002541192/63715/10002/-3/Buecher_Kinder--und-Jugend/Marianne-Kaurin/Irgendwo-ist-immer-Sueden
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  irgendwo-ist-immer-sueden_marianne-kaurin.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

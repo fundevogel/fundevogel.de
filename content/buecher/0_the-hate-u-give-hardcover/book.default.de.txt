@@ -1,0 +1,135 @@
+Title: The Hate U Give
+
+----
+
+Isbn: 978-3-570-16482-2
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Angie Thomas
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Henriette Zeltner-Shane
+
+----
+
+Publisher: cbt
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2017
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 512
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Rassismus, USA, Polizeigewalt
+
+----
+
+Description: Die 16-jährige Starr lebt in zwei Welten: in dem verarmten Viertel, in dem sie wohnt, und in der Privatschule, an der sie fast die einzige Schwarze ist. Als Starrs bester Freund Khalil vor ihren Augen von einem Polizisten erschossen wird, rückt sie ins Zentrum der öffentlichen Aufmerksamkeit. Khalil war unbewaffnet. Bald wird landesweit über seinen Tod berichtet; viele stempeln Khalil als Gangmitglied ab, andere gehen in seinem Namen auf die Straße. Die Polizei und ein Drogenboss setzen Starr und ihre Familie unter Druck. Was geschah an jenem Abend wirklich? Die Einzige, die das beantworten kann, ist Starr. Doch ihre Antwort würde ihr Leben in Gefahr bringen ...
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000000069320/63715/10002/-3/Buecher_Kinder--und-Jugend/Angie-Thomas/The-Hate-U-Give
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- the-hate-u-give_angie-thomas.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

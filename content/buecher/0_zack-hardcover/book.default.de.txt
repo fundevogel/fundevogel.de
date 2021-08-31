@@ -1,0 +1,139 @@
+Title: Zack!
+
+----
+
+Isbn: 978-3-948690-09-0
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Volker Schmitt
+
+----
+
+Illustrator: Màriam Ben-Arab
+
+----
+
+Translator: 
+
+----
+
+Publisher: Kibitz, Berlin
+
+----
+
+Age: ab 4 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 96
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Abenteuer, Piraten, Freundschaft
+
+----
+
+Description:
+
+"Bist du ... ein Pirat?" Der rauschebärtige Mann, den Bonny schnarchend am Strand entdeckt, erinnert sich weder daran, wo er herkommt noch an seinen Namen. Doch mit seinem einen Bein MUSS er einfach ein Pirat sein! Und als solcher braucht er einen Namen und eine Crew! Ehe Bonnys Pirat sich's versieht, heißt er Zack und sticht auch schon mit ihr in See ...
+
+Phantasie- und temperamentvoll erzählen Autor Volker Schmitt und Zeichnerin Màriam Ben-Arab von einem beherzten Mädchen, der Suche nach dem Glück und - aye! - von einem wildschönen Piratenabenteuer.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003431633/63715/10002/-3/Buecher/Volker-Schmitt/Zack
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- zack_volker-schmitt.jpg
+
+----
+
+Categories: Comic
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
