@@ -15,21 +15,25 @@ count=$(git ls-files \
     Gulpfile.ts lib/gulp \
     public/index.php site/**/*.php \
     source/**/*.{css,js,ts} \
-    toolset/*.{bash,py} \
-    | grep -Ev 'site/plugins|site/logs' \
+    lib/toolset/*.{bash,php,py} \
+    | grep -Ev 'site/plugins' \
     | xargs wc -l \
     | tail -1 \
     | cut -d ' ' -f3
 )
 
-# Count FV plugins separately
-fv=$(git ls-files site/plugins/fundevogel/*.php \
+# Count version-controlled FV plugins separately
+# (1) FV helper methods
+fv=$(git ls-files site/plugins/fundevogel/**/*.php \
+    | grep -Ev 'vendor' \
     | xargs wc -l \
     | tail -1 \
     | cut -d ' ' -f2
 )
 
-pcbis=$(git ls-files site/plugins/fundevogel/*.php \
+# (2) Kirby plugin for `pcbis.de` (unpublished)
+pcbis=$(git ls-files site/plugins/kirby3-pcbis/**/*.php \
+    | grep -Ev 'vendor' \
     | xargs wc -l \
     | tail -1 \
     | cut -d ' ' -f2
