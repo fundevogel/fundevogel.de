@@ -1,0 +1,136 @@
+Title: Die ganze Wahrheit (wie Mason Buttle sie erzählt)
+
+----
+
+Isbn: 978-3-446-26802-9
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Leslie Connor
+
+----
+
+Illustrator: 
+
+----
+
+Translator: André Mumot
+
+----
+
+Publisher: Hanser
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: ab 7. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 320
+
+----
+
+Price: 16,00
+
+----
+
+Topics: Außenseiter, Empathie, Familie, Freundschaft, Geheimnis, Herz, Liebe, Mitgefühl, Mobbing
+
+----
+
+Description: Die Welt wäre mit Mason Buttles Augen betrachtet sehr viel menschlicher. Leslie Connors liebenswerte Geschichte über Freundschaft, Familie und ZugehörigkeitMason Buttle ist grundehrlich und liebenswert, er hat ein Herz aus Gold. Dafür würde er niemals einen Buchstabierwettbewerb gewinnen, denn er kann kaum lesen und schreiben. Die anderen Kinder lachen ihn aus und hänseln ihn. Aber Mason hat Calvin. Calvin ist ungewöhnlich klein und dünn, dafür aber besonders schlau. Gemeinsam bauen die beiden Jungs ein Geheimversteck, eine Art unterirdische Höhle. So können sie sich vor den Angriffen der anderen verstecken. Als Calvin vermisst wird, gerät Mason in Schwierigkeiten. Es ist nicht lange her, dass Masons bester Freund Benny im Obstgarten der Buttles verunglückt ist. Noch immer sind viele Fragen offen. Und der verwirrte Mason muss endlich Antworten finden.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003363079/63715/10002/-3/Buecher_Kinder--und-Jugend/Leslie-Connor/Die-ganze-Wahrheit-wie-Mason-Buttle-sie-erzaehlt
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  die-ganze-wahrheit-wie-mason-buttle-sie-erzaehlt_leslie-connor.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: September 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-september-die-ganze-wahrheit-ausgezeichnet
+
+----
+
+Participant: 

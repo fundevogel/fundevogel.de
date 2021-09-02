@@ -1,0 +1,159 @@
+Title: Die ganze Wahrheit (wie Mason Buttle sie erzählt)
+
+----
+
+Text:
+
+Der 12-jährige Protagonist Mason Butttle ist in vielerlei Hinsicht besonders. In Diagnosen ausgedrückt hat er Legasthenie, Diaphoresis (übermäßig starkes Schwitzen) und ist Synästhetiker. Vor allem ist er grundehrlich, ausgesprochen gutmütig und (wohlwollend formuliert) etwas naiv. Mit dieser Mischung aus vermeintlichen Schwächen und Charaktereigenschaften weist er sich als ideales Mobbingopfer aus. Mason hat sich daran gewöhnt, dass die Klassenkameraden Matts und Lance jede Gelegenheit nutzen, ihn bloßzustellen, über die Apfelplantagen zu jagen und ihn als Zielscheibe für ihre Wurfübungen zu benutzen. Mit Masons Worten formuliert: Es gibt Schlimmeres!
+
+### Erinnerungen an Benny
+Schlimmeres, das sind zum Beispiel die Erinnerungen an seinen besten Freund Benny. Mason hat ihn eines Tages leblos unter ihrem gemeinsamen Baumhaus gefunden. Seit diesem Tag vor zwei Jahren kommt Lieutenant Baird regelmäßig vorbei und stellt Fragen. Diese klingen stets sehr ähnlich und Mason spürt, dass seine Antworten den Lieutenant nicht zufriedenstellen. Miss Blinny, die Sozialpädagogin aus der Schule, hat ihm eingebläut, dass er niemals, nur um endlich Ruhe zu haben, von der Wahrheit abweichen darf.
+
+Während Mason darum bemüht ist, die Vergangenheit zu bewältigen, gewinnt er mit Calvin einen neuen Freund. Als dieser spurlos verschwindet, wird Mason verdächtig und er begreift endlich, was dem Lesenden längst klar ist, warum der Lieutenant ihn immer noch über Benny befragt.
+
+----
+
+Verdict: Eine berührende Erzählung, die letztendlich mit wohltuender Gerechtigkeit aufgelöst wird.
+
+----
+
+Conclusion:
+
+### Wahre Stärke
+"Die ganze Wahrheit (wie Mason Buttle sie erzählt)" weist sowohl Elemente eines Kriminalromans, als auch eines Abenteuer- und Coming of Age-Romans auf und ist an der Grenze zwischen Kinder- und Jugendbuch angesiedelt.
+
+Die Erzählung beginnt in gemächlichem Tempo. Über zahlreiche Rückblenden und computergeschriebene Tagebucheinträge kombiniert mit aktuellen Geschehnissen enthüllt sich die gesamte Tragik von Masons bisherigem Leben. Dabei ist es erstaunlich, mit welch leichtfüßigem Plauderton der Junge als Ich-Erzähler auftritt. Entsprechend seiner augenscheinlich geringeren Intelligenz sind die sprachlichen Formulierungen einfach gewählt und wirken authentisch. "Man sieht nur mit dem Herzen gut" trifft es bei einem derartigen Protagonisten auf den Punkt. Im Verlauf der Erzählung reift Mason zu einem Helden heran, der sich seiner eigenen Stärken zunehmend bewusst wird.
+
+### Fazit
+"Die ganze Wahrheit (wie Mason Buttle sie erzählt)" ist eine komplexe und tragische Geschichte, die einfühlsam und bildhaft erzählt wird und eine große Portion Hoffnung transportiert. Aufgrund des nicht unerheblichen Seitenumfangs kann das gleichnamige Hörbuch gegebenenfalls eine geeignete Alternative oder Ergänzung sein.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-09-01
+
+----
+
+Book:
+
+- >
+  buecher/die-ganze-wahrheit-wie-mason-buttle-sie-erzaehlt-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-09-01 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-09-01 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-09-01 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
