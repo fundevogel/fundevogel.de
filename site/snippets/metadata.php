@@ -31,17 +31,7 @@
 <?php endforeach ?>
 
 <!-- Image -->
-<?php
-    # Provide fallback
-    $metaImage = $page->meta_image()->toFile() ?? $site->meta_image()->toFile();
-
-    # Use cover for reading tips
-    if ($page->intendedTemplate() == 'lesetipps.article') {
-        $metaImage = $page->book()->toPage()->cover()->toFile();
-    }
-
-    if ($metaImage) :
-?>
+<?php if ($metaImage = $page->getMetaImage()) : ?>
 <meta id="schema_image" itemprop="image" content="<?= $metaImage->url() ?>">
 <?php endif ?>
 
@@ -54,26 +44,10 @@
 <!-- Open Graph -->
 <meta property="og:title" content="<?= $page->og_title()->or($page->meta_title())->or($site->og_title())->or($site->meta_title())->or($page->title()) ?>">
 <meta property="og:description" content="<?= htmlspecialchars($page->og_description()->or($description)) ?>">
-<?php
-    # Provide fallback
-    $ogImage = $page->og_image()->toFile() ?? $site->og_image()->toFile();
-
-    # Use cover for reading tips
-    if ($page->intendedTemplate() == 'lesetipps.article') {
-        $ogImage = $page->book()->toPage()->cover()->toFile();
-    }
-
-    if ($ogImage) :
-    $ogThumb = $ogImage->thumb([
-        'width'   => 1200,
-        'height'  => 630,
-        'quality' => 80,
-        'crop'    => true,
-    ]);
-?>
-<meta property="og:image" content="<?= $ogThumb->url() ?>">
-<meta property="og:width" content="<?= $ogThumb->width() ?>">
-<meta property="og:height" content="<?= $ogThumb->height() ?>">
+<?php if ($opengraphImage = $page->getOpengraphImage()) : ?>
+<meta property="og:image" content="<?= $opengraphImage->url() ?>">
+<meta property="og:width" content="<?= $opengraphImage->width() ?>">
+<meta property="og:height" content="<?= $opengraphImage->height() ?>">
 <?php endif ?>
 <meta property="og:site_name" content="<?= $page->og_site_name()->or($site->og_site_name()) ?>">
 <meta property="og:url" content="<?= $page->og_url()->or($page->url()) ?>">
@@ -106,24 +80,8 @@
 <meta name="twitter:card" content="<?= $page->twitter_card_type()->or($site->twitter_card_type())->value() ?>">
 <meta name="twitter:title" content="<?= $page->twitter_title()->or($page->meta_title())->or($site->twitter_title())->or($site->meta_title())->or($page->title()) ?>">
 <meta name="twitter:description" content="<?= htmlspecialchars($page->twitter_description()->or($description)) ?>">
-<?php
-    # Provide fallback
-    $twitterImage = $page->twitter_image()->toFile() ?? $site->twitter_image()->toFile();
-
-    # Use cover for reading tips
-    if ($page->intendedTemplate() == 'lesetipps.article') {
-        $twitterImage = $page->book()->toPage()->cover()->toFile();
-    }
-
-    if ($twitterImage) :
-    $twitterThumb = $twitterImage->thumb([
-        'width'   => 1200,
-        'height'  => 675,
-        'quality' => 80,
-        'crop'    => true,
-    ]);
-?>
-<meta name="twitter:image" content="<?= $twitterThumb->url() ?>">
+<?php if ($twittercardImage = $page->getTwittercardImage()) : ?>
+<meta name="twitter:image" content="<?= $twittercardImage->url() ?>">
 <?php endif ?>
 <meta name="twitter:site" content="<?= $page->twitter_site()->or($site->twitter_site()) ?>">
 <meta name="twitter:creator" content="<?= $page->twitter_creator()->or($site->twitter_creator()) ?>">

@@ -57,5 +57,51 @@ return [
         }
 
         return date($format, $this->$type());
-    }
+    },
+    'getMetaImage' => function (): Kirby\Cms\File
+    {
+        # Provide fallback
+        $metaImage = $this->meta_image()->toFile() ?? site()->meta_image()->toFile();
+
+        # Use cover for reading tips
+        if ($this->intendedTemplate() == 'lesetipps.article') {
+            $metaImage = $this->book()->toPage()->cover()->toFile();
+        }
+
+        return $metaImage;
+    },
+    'getOpengraphImage' => function (): Kirby\Cms\FileVersion
+    {
+        # Provide fallback
+        $opengraphImage = $this->og_image()->toFile() ?? site()->og_image()->toFile();
+
+        # Use cover for reading tips
+        if ($this->intendedTemplate() == 'lesetipps.article') {
+            $opengraphImage = $this->book()->toPage()->cover()->toFile();
+        }
+
+        return $opengraphImage->thumb([
+            'width'   => 1200,
+            'height'  => 630,
+            'quality' => 85,
+            'crop'    => true,
+        ]);
+    },
+    'getTwittercardImage' => function (): Kirby\Cms\FileVersion
+    {
+        # Provide fallback
+        $twittercardImage = $this->twitter_image()->toFile() ?? site()->twitter_image()->toFile();
+
+        # Use cover for reading tips
+        if ($this->intendedTemplate() == 'lesetipps.article') {
+            $twittercardImage = $this->book()->toPage()->cover()->toFile();
+        }
+
+        return $twittercardImage->thumb([
+            'width'   => 1200,
+            'height'  => 675,
+            'quality' => 85,
+            'crop'    => true,
+        ]);
+    },
 ];
