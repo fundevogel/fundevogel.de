@@ -24,6 +24,9 @@
         "source": "https://github.com/Fundevogel/fundevogel.de",
         "issues": "https://github.com/Fundevogel/fundevogel.de/issues"
     },
+    "scripts": {
+        "dev": "cd public && php -S localhost:3000 kirby/router.php"
+    },
     "require": {
         "php": ">=7.2.0",
         "getkirby/cms": "3.5.7.1",

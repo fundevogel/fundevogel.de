@@ -4,8 +4,11 @@
 *.bak
 /.ideas
 /.vagrant
-/node_modules
+
 /vendor
+/node_modules
+
+public/kirby
 
 # Temporary files
 # ---------------
