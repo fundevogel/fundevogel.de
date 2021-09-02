@@ -1,0 +1,29 @@
+extends: tabs/posts
+label:
+  de: Aktuelles
+  en: News
+columns:
+  left:
+    sections:
+      limit:
+        fields:
+          headline_limit_posts: false
+
+  right:
+    sections:
+      posts_drafts:
+        templates:
+          - news.article
+          - news.recommendation
+
+      posts_unlisted:
+        templates:
+          - news.article
+          - news.recommendation
+
+  full:
+    sections:
+      posts_listed:
+        templates:
+          - news.article
+          - news.recommendation
