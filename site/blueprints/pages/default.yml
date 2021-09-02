@@ -18,5 +18,8 @@ tabs:
         fields:
           cover: fields/cover
 
+  # Files
+  tab_files: tabs/files
+
   # Metadata
   tab_seo: tabs/seo

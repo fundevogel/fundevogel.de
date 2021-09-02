@@ -17,6 +17,8 @@ tabs:
             label:
               de: Reservebild
               en: Fallback image
+            image:
+              cover: false
 
   # Lesetipps
   tab_posts: tabs/custom/lesetipps
@@ -47,10 +49,12 @@ tabs:
 
   # PDF editions
   tab_editions:
-    extends: tabs/media
+    extends: tabs/files
     columns:
       column_files:
         sections:
+          images: false
+
           files: sections/documents
 
   # Metadata

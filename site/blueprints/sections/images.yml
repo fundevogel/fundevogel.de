@@ -1,3 +1,6 @@
 extends: sections/base/files
+headline:
+  de: Bilder
+  en: Images
 template: image
 info: "{{ file.dimensions }} ({{ file.niceSize }})"

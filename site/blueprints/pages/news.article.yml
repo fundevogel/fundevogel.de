@@ -29,3 +29,6 @@ tabs:
             type: text
             when:
               subtitle_wanted: true
+
+  # Files
+  tab_files: tabs/files

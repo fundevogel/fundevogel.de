@@ -48,5 +48,8 @@ tabs:
         fields:
           statistics: custom/dependencies/statistics
 
+  # Files
+  tab_files: tabs/files
+
   # Metadata
   tab_seo: tabs/seo

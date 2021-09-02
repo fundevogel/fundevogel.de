@@ -1,0 +1,2 @@
+extends: sections/base/files
+template: file
