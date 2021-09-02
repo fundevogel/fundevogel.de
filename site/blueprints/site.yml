@@ -106,7 +106,7 @@ tabs:
         sections:
           lesetipps_listed:
             extends: sections/listed
-            layouts: cards
+            layout: cards
             template: lesetipps.article
             parent: site.find('lesetipps')
 
