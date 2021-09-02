@@ -35,13 +35,14 @@ foreach ($pages as $page) {
     try {
         # Authenticate as almighty & update book data
         $kirby->impersonate('kirby');
+
+        # Update book page
         $page->updateBook(true, ['shop']);
 
-        sleep(5);
-    } catch (\Exception $e) {
-        echo ' .. failed! Moving on .. ' . "\n";
-        continue;
-    }
+        echo 'Successfully updated ' . $page->uid() . "\n";
 
-    echo ' .. done' . "\n";
+        # Wait three seconds
+        sleep(3);
+
+    } catch (Exception $e) {}
 }

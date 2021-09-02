@@ -2,7 +2,7 @@
 
 include 'vendor/autoload.php';
 
-# Init Kirby
+# Initialize Kirby
 $kirby = new Kirby([
     'roots' => [
         'base'     => $base = '.',
@@ -25,11 +25,12 @@ foreach ($pages as $page) {
         # Request shop link
         $response = Remote::get($page->shop(), ['timeout' => 0]);
 
-        # Wait five seconds
-        sleep(5);
+        # Wait three seconds
+        sleep(3);
 
         # Move on to next page if shop link is reachable
         if ($response->http_code() === 200) continue;
+
     } catch (Exception $e) {
         echo $e->getMessage();
     }
@@ -42,5 +43,5 @@ foreach ($pages as $page) {
     }
 
     # Report pages with unreachable shop link
-    echo $page->uid() . "\n";
+    echo 'Unreachable shoplink: ' . $page->uid() . "\n";
 }

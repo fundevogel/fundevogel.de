@@ -37,11 +37,10 @@ foreach ($pages as $page) {
         $kirby->impersonate('kirby');
         $page->updateOla();
 
-        sleep(5);
-    } catch (\Exception $e) {
-        echo ' .. failed! Moving on .. ' . "\n";
-        continue;
-    }
+        echo 'OLA updated for ' . $page->id() . "\n";
 
-    echo ' .. done' . "\n";
+        # Wait three seconds
+        sleep(3);
+
+    } catch (Exception $e) {}
 }

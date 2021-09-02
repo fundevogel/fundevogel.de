@@ -30,13 +30,11 @@ foreach ($pages as $page) {
         continue;
     }
 
-    echo $page->uid();
-
     try {
         $book = $page->toBook(true);
 
         if (!$book->hasUpgrade()) {
-            echo ' .. not needed! Moving on .. ' . "\n";
+            # Wait two seconds
             sleep(2);
 
             continue;
@@ -44,13 +42,14 @@ foreach ($pages as $page) {
 
         # Authenticate as almighty & update book data
         $kirby->impersonate('kirby');
+
+        # Upgrade book page
         $page->upgradeBook();
 
-        sleep(5);
-    } catch (\Exception $e) {
-        echo ' .. failed! Moving on .. ' . "\n";
-        continue;
-    }
+        echo 'Successfully upgraded ' . $page->uid() . "\n";
 
-    echo ' .. done' . "\n";
+        # Wait three seconds
+        sleep(3);
+
+    } catch (Exception $e) {}
 }

@@ -15,9 +15,9 @@ for dir in content \
            site/templates \
            source
 do
-    # Directories
+    # (1) Directories
     find "$dir" -type d -exec chmod 0755 {} \;
 
-    # Files
+    # (2) Files
     find "$dir" -type f -exec chmod 0644 {} \;
 done

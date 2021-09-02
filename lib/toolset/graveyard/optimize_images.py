@@ -29,7 +29,6 @@ def optimize_images(path: str):
         if file.name not in data and file.suffix.lower() in extensions:
             try:
                 image = Image.open(file)
-                file.unlink()
 
                 # Create optimized version of original image
                 print('Processing {} ..'.format(file.name))
@@ -51,6 +50,9 @@ def optimize_images(path: str):
 
                 # Close file pointer
                 image.close()
+
+                # Delete original image
+                file.unlink()
 
                 # Create optimized WebP image
                 image = Image.open(file)

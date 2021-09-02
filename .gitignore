@@ -26,6 +26,7 @@
 
 # Toolset
 # ---------------
+.doit.db
 /lib/toolset/*
 !/lib/toolset/*.py
 !/lib/toolset/*.php

@@ -2,7 +2,7 @@
 
 include 'vendor/autoload.php';
 
-# Init Kirby
+# Initialize Kirby
 $kirby = new Kirby([
     'roots' => [
         'base'     => $base = '.',
@@ -20,14 +20,11 @@ $kirby = new Kirby([
 foreach ($kirby->site()->index() as $page) {
     try {
         # Render page
-        echo 'Rendering ' . $page->id() . ' ..';
         $page->render();
 
-        # Report either `render()` being successful ..
-        echo " done!\n";
-    } catch (\Exception $e) {
-        # .. or output error message upon failure
-        echo " failed!\n";
-        echo $e->getMessage();
+    } catch (Exception $e) {
+        # Report pages throwing errors
+        echo 'Rendering ' . $page->id() . ' failed: ';
+        echo $e->getMessage() . "\n";
     }
 }
