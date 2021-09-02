@@ -14,8 +14,6 @@ tabs:
         fields:
           cover: fields/cover
 
-          limit_posts: fields/groups/limit-posts
-
   # Events
   tab_events:
     extends: tabs/posts
