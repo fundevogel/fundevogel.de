@@ -15,8 +15,4 @@ fields:
       de: Vorschaubild
       en: Preview image
 
-  previewDescription:
-    label:
-      de: Kurzbeschreibung
-      en: Short description
-    type: markdown
+  previewDescription: fields/short
