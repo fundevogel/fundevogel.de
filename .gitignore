@@ -47,7 +47,7 @@ public/kirby
 # Login credentials
 # ---------------
 /.env
-/site/config/*.json
+
 
 # License
 # ---------------
