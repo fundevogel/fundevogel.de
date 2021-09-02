@@ -1,0 +1,34 @@
+extends: tabs/posts
+label:
+  de: Lesetipps
+  en: Reading tips
+columns:
+  left:
+    sections:
+      info:
+        text:
+          de: |
+            Um einen **neuen Lesetipp** anzulegen, wähle links "Hinzufügen", gib die ISBN des Lesetipps an und bestätige mit "Entwurf anlegen".
+
+            **Hinweis:** Danach muss der Lesetipp noch "veröffentlicht" werden: Klicke einfach unter der Überschrift des Beitrags auf "Entwurf" und ändere den Status auf "Öffentlich".
+          en: |
+            Adding a **new recommendation** is pretty simple, just choose "Add" on the left side, enter the ISBN of the recommendation and hit "Create draft".
+
+            **Note:** After that the recommendation still has to be "published". In order to do that, click on "Draft" (below the recommendation's title) and change the status to "Published".
+
+      limit:
+        fields:
+          headline_limit_posts: false
+
+  right:
+    sections:
+      posts_drafts:
+        template: lesetipps.article
+
+      posts_unlisted:
+        template: lesetipps.article
+
+  full:
+    sections:
+      posts_listed:
+        template: lesetipps.article
