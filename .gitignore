@@ -1,54 +1,58 @@
-# Development
-# -----
-
+# General
 *.bak
 /.ideas
 /.vagrant
-
-/vendor
-/node_modules
-
 public/kirby
 
-# Temporary files
-# ---------------
 
-/yarn.lock
+# Development
+# (1) PHP
+/vendor
 /composer.lock
 
-/public/media
-/public/assets
-/public/favicons
-/site/logs
+# (2) Python
+venv
+/.doit.db
+/__pycache__/
 
-# Plugins
-# ---------------
-/site/plugins/*
-!/site/plugins/fundevogel
-!/site/plugins/kirby3-pcbis
+# (3) Node
+/yarn.lock
+/node_modules
 
-# Toolset
-# ---------------
-.doit.db
+# (4) Custom scripts
 /lib/toolset/*
 !/lib/toolset/*.py
 !/lib/toolset/*.php
 !/lib/toolset/*.bash
 !/lib/toolset/graveyard
 
+
+# Temporary files
+/public/media
+/public/assets
+/public/favicons
+
+
+# Plugins
+/site/plugins/*
+!/site/plugins/fundevogel
+!/site/plugins/kirby3-pcbis
+
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
-# Accounts + Cache + Sessions
-# ---------------
-/storage
-
-# Login credentials
-# ---------------
+# Sensible files
+# (1) Credentials
 /.env
 
-
-# License
-# ---------------
+# (2) License
 /site/config/.license
+
+
+# Storage
+# (1) User accounts
+# (2) Site & plugin cache
+# (3) Session files
+/storage
