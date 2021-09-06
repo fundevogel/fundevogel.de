@@ -1,6 +1,12 @@
 <?php
 
 class CalendarPage extends Page {
+    public function subpages()
+    {
+        return Pages::factory($this->inventory()['children'], $this);
+    }
+
+
     public function children()
     {
         return parent::children()->add(Pages::factory([
