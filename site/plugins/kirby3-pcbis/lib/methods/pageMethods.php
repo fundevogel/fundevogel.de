@@ -2,7 +2,11 @@
 
 return [
     'isTranslated' => function (string $language): bool {
-        // Check if translation file for given language exists
+        # Check if translation file for given language exists
+        if ($this->intendedTemplate() == 'calendar.archive') {
+            return true;
+        }
+
         return $this->translation($language)->exists();
     },
     'hasTranslatedSiblings' => function (): bool {
@@ -26,7 +30,7 @@ return [
         $languages = kirby()->languages()->not(kirby()->defaultLanguage()->code());
 
         foreach ($languages as $language) {
-            if ($this->translation($language)->exists()) {
+            if ($this->isTranslated($language)) {
                 return true;
             }
         }
