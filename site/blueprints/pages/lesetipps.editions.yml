@@ -1,0 +1,36 @@
+title:
+  de: Ausgaben
+  en: Editions
+
+status:
+  unlisted: true
+  listed: false
+
+options: options/post
+
+tabs:
+  # Content
+  tab_content:
+    extends: tabs/content
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          cover: false
+
+  # PDF editions
+  tab_editions:
+    extends: tabs/files
+    label:
+      de: Biblio-Listen
+      en: Biblio lists
+
+    columns:
+      column_files:
+        sections:
+          images: false
+
+          files: sections/documents
+
+  # Metadata
+  # tab_seo: tabs/seo

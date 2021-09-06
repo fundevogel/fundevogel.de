@@ -23,39 +23,24 @@ tabs:
   # Lesetipps
   tab_posts: tabs/custom/lesetipps
 
-  # Subpages
-  tab_subpages:
-    extends: tabs/subpages
-    drafts:
-      templates:
-        - lesetipps.browse
-        - lesetipps.archive
-        - lesetipps.topics
-      create: false
-
-    unlisted:
-      templates:
-        - lesetipps.browse
-        - lesetipps.archive
-        - lesetipps.topics
-      create: false
-
-    listed:
-      templates:
-        - lesetipps.browse
-        - lesetipps.archive
-        - lesetipps.topics
-      create: false
-
   # PDF editions
   tab_editions:
-    extends: tabs/files
-    columns:
-      column_files:
-        sections:
-          images: false
+    extends: tabs/subpages
+    label:
+      de: Jahrgänge
+      en: Volumes
 
-          files: sections/documents
+    drafts:
+      template: lesetipps.editions
+      parent: site.find('lesetipps/neuerscheinungen')
+
+    unlisted:
+      template: lesetipps.editions
+      parent: site.find('lesetipps/neuerscheinungen')
+      sortBy: title desc
+      info: "{{ page.files.filterBy('extension', 'pdf').count }} Ausgabe(n)"
+
+    listed: false
 
   # Metadata
   tab_seo: tabs/seo
