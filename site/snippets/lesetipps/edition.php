@@ -7,7 +7,7 @@
     <figure class="rounded-lg">
         <?= $edition->getFront($class) ?>
         <?php if (!$isDossier) : ?>
-        <figcaption class="small-caption is-pdf"><?= $caption ?></figcaption>
+        <figcaption class="small-caption is-pdf"><?= t($edition->edition()->value()) ?></figcaption>
         <?php endif ?>
     </figure>
     <?php snippet('components/shared/gradient-overlay', ['data' => $edition]) ?>
