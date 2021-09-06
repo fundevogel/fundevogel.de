@@ -47,25 +47,25 @@ return [
         }
     ],
     [
-      'pattern' => 'sitemap.xml',
-      'action' => function() {
-          $pages = site()->pages()->index();
+       'pattern' => 'sitemap.xml',
+       'action' => function() {
+            $pages = site()->pages()->index();
 
-          # fetch the pages to ignore from the config settings,
-          # if nothing is set, we ignore the error page
-          $ignore = kirby()->option('sitemap.ignore', 'error');
+            # fetch the pages to ignore from the config settings,
+            # if nothing is set, we ignore the error page
+            $ignore = kirby()->option('sitemap.ignore', 'error');
 
-          $content = snippet('sitemap', compact('pages', 'ignore'), true);
+            $content = snippet('sitemap', compact('pages', 'ignore'), true);
 
-          # return response with correct header type
-          return new Kirby\Cms\Response($content, 'application/xml');
-      }
+            # return response with correct header type
+            return new Kirby\Cms\Response($content, 'application/xml');
+        },
     ],
     [
         'pattern' => 'sitemap',
         'action' => function() {
             return go('sitemap.xml', 301);
-        }
+        },
     ],
     [
         'pattern' => 'news/json',
@@ -80,7 +80,7 @@ return [
             ];
 
             return kirby()->collection('news')->limit(12)->feed($options);
-        }
+        },
     ],
     [
         'pattern' => 'news/rss',
@@ -95,7 +95,7 @@ return [
             ];
 
             return kirby()->collection('news')->limit(12)->feed($options);
-        }
+        },
     ],
     [
         'pattern' => 'feeds/json',
@@ -110,7 +110,7 @@ return [
             ];
 
             return kirby()->collection('lesetipps')->limit(48)->feed($options);
-        }
+        },
     ],
     [
         'pattern' => 'feeds/rss',
@@ -125,6 +125,6 @@ return [
             ];
 
             return kirby()->collection('lesetipps')->limit(48)->feed($options);
-        }
+        },
     ],
 ];
