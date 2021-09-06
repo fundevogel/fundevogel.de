@@ -1,10 +1,12 @@
 <?php
 
 return [
-    'hasCover' => function (): bool {
+    'hasCover' => function (): bool
+    {
         return $this->cover()->isNotEmpty();
     },
-    'getCover' => function () {
+    'getCover' => function ()
+    {
         $page = $this;
 
         if ($this->intendedTemplate() == 'lesetipps.article') {
@@ -26,7 +28,8 @@ return [
 
         return $cover;
     },
-    'moreLink' => function($classes = '') {
+    'moreLink' => function($classes = '')
+    {
         $link = Html::tag('a', '→ ' . t('Weiterlesen'), [
             'href' => $this->url(),
             'class' => $classes,
@@ -34,7 +37,8 @@ return [
 
         return $link;
     },
-    'getPageTitle' => function () {
+    'getPageTitle' => function ()
+    {
         if ($this->intendedTemplate() == 'lesetipps.article') {
             return page('lesetipps')->title()->html();
         } elseif ($this->intendedTemplate() == 'calendar.archive') {
@@ -58,10 +62,19 @@ return [
 
         return date($format, $this->$type());
     },
+
+    /**
+     * SEO & metadata
+     */
     'getMetaImage' => function (): Kirby\Cms\File
     {
         # Provide fallback
         $metaImage = $this->meta_image()->toFile() ?? site()->meta_image()->toFile();
+
+        # Use cover (if available)
+        if ($this->hasCover()) {
+            $metaImage = $this->cover()->toFile();
+        }
 
         # Use cover for reading tips
         if ($this->intendedTemplate() == 'lesetipps.article') {
@@ -74,6 +87,11 @@ return [
     {
         # Provide fallback
         $opengraphImage = $this->og_image()->toFile() ?? site()->og_image()->toFile();
+
+        # Use cover (if available)
+        if ($this->hasCover()) {
+            $opengraphImage = $this->cover()->toFile();
+        }
 
         # Use cover for reading tips
         if ($this->intendedTemplate() == 'lesetipps.article') {
@@ -91,6 +109,11 @@ return [
     {
         # Provide fallback
         $twittercardImage = $this->twitter_image()->toFile() ?? site()->twitter_image()->toFile();
+
+        # Use cover (if available)
+        if ($this->hasCover()) {
+            $twittercardImage = $this->cover()->toFile();
+        }
 
         # Use cover for reading tips
         if ($this->intendedTemplate() == 'lesetipps.article') {
