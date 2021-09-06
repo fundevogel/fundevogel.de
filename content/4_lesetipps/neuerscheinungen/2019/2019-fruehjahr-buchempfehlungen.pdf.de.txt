@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2019
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2019/2019-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

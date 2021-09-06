@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2021
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2021/2021-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

@@ -2,16 +2,13 @@
 
 return function ($kirby, $page) {
     # Defining PDF editions
-    $files = $page->files()
-                  ->flip()
-                  ->filterBy('extension', 'pdf')
-                  ->group(function($file) {
-                      if (Str::contains($file->filename(), 'herbst')) {
-                          return 'autumn';
-                      }
+    $files = $kirby->collection('bibliolists')->flip()->group(function($file) {
+        if (Str::contains($file->filename(), 'herbst')) {
+            return 'autumn';
+        }
 
-                      return 'spring';
-                  });
+        return 'spring';
+    });
 
     $editions = [
         $files->spring()->first(),
@@ -28,6 +25,7 @@ return function ($kirby, $page) {
         # Listing by category
         $lesetipps = $lesetipps->filterBooks('categories', rawurldecode($category));
         $parameter = 'Kategorie';
+
     } elseif ($topic = param('Thema')) {
         # Listing by tag
         $lesetipps = $lesetipps->filterBooks('topics', rawurldecode($topic));

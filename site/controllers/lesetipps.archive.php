@@ -1,12 +1,7 @@
 <?php
 
-return function ($page) {
-    $editions = $page->parent()
-                  ->files()
-                  ->flip()
-                  ->filterBy('extension', 'pdf');
+return function ($kirby) {
+    $editions = $kirby->collection('bibliolists')->flip();
 
-    return compact(
-        'editions',
-    );
+    return compact('editions');
 };

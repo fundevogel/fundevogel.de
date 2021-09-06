@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2018
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2018/2018-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf
