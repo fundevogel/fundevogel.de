@@ -39,16 +39,19 @@ tabs:
           posts_drafts:
             extends: sections/drafts
             template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
 
           posts_unlisted:
             extends: sections/unlisted
             template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
 
       full:
         sections:
           posts_listed:
             extends: sections/listed
             template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
             image:
               ratio: 1/1
 

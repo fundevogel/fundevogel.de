@@ -1,0 +1,36 @@
+title:
+  de: Kalender
+  en: Calendar
+
+options: options/default
+
+tabs:
+  # Events
+  tab_events:
+    extends: tabs/posts
+    label:
+      de: Veranstaltungen
+      en: Events
+    icon: calendar
+    columns:
+      left:
+        sections:
+          limit: false
+
+      right:
+        sections:
+          posts_drafts:
+            extends: sections/drafts
+            template: calendar.event
+
+          posts_unlisted:
+            extends: sections/unlisted
+            template: calendar.event
+
+      full:
+        sections:
+          posts_listed:
+            extends: sections/listed
+            template: calendar.event
+            image:
+              ratio: 1/1

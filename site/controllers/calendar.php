@@ -1,9 +1,7 @@
 <?php
 
-return function ($page) {
-    $events = $page->children()
-                   ->listed()
-                   ->filterBy('intendedTemplate', 'calendar.event');
+return function ($kirby, $page) {
+    $events = $kirby->collection('events/current');
 
     $closedEvents = $events->filter(function ($event) {
         $closed = [
