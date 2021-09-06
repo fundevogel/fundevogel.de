@@ -47,6 +47,18 @@ return [
         }
     ],
     [
+        'pattern' => 'kalender/veranstaltungen',
+        'action' => function() {
+            return go('kalender', 301);
+        },
+    ],
+    [
+        'pattern' => 'kalender/veranstaltungen/(:any)',
+        'action' => function() {
+            return go('kalender', 301);
+        },
+    ],
+    [
        'pattern' => 'sitemap.xml',
        'action' => function() {
             $pages = site()->pages()->index();
