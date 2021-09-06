@@ -158,25 +158,6 @@ return [
             'reload' => $file ? true : false,
         ];
     },
-    'archiveEvents' => function ($page) {
-        $oldEvents = page('kalender')->children()->listed()->filterBy('intendedTemplate', 'calendar.event')->filter(function ($child) {
-            if ($child->multiple_days()->toBool() === true) {
-                return $child->end_date()->toDate() < time();
-            }
-
-            return $child->date()->toDate() < time();
-        });
-
-        foreach ($oldEvents as $child) {
-            Dir::move($child->root(), page('kalender/vergangene-veranstaltungen')->root() . '/' . $child->dirname());
-        }
-
-        return [
-            'status' => 200,
-            'label' => 'Erfolgreich!',
-            'reload' => true,
-        ];
-    },
     'fetchStatistics' => function ($page) use ($parameters)
     {
         $source = [];

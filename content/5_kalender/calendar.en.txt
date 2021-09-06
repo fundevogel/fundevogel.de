@@ -15,17 +15,12 @@ If you want to see what we have done in the past, you can also find the past eve
 
 ----
 
-Perpage-wanted: true
+Archive:
 
-----
+## Good times
+Here you will find all information about the past events of the Fundevogel.
 
-Perpage: 10
-
-----
-
-Cover:
-
-- kalender.jpg
+If you want to see what we're currently up to, you can also find the upcoming events (link: kalender text: here).
 
 ----
 
@@ -34,10 +29,6 @@ Meta-title: Upcoming events
 ----
 
 Meta-description: We organize all kinds of book-related events from readings and book tables for school classes to the Lirum-Larum reading festival - see you there!
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -142,6 +133,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 

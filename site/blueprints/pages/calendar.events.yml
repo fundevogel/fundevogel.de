@@ -1,19 +1,10 @@
 title:
-  de: Veranstaltungsarchiv
-  en: Previous events
+  de: Kalender
+  en: Calendar
 
 options: options/default
 
 tabs:
-  # Content
-  tab_content:
-    extends: tabs/content
-    sidebar:
-      sidebar_fields:
-        type: fields
-        fields:
-          cover: fields/cover
-
   # Events
   tab_events:
     extends: tabs/posts
@@ -22,9 +13,19 @@ tabs:
       en: Events
     icon: calendar
     columns:
-      left: false
+      left:
+        sections:
+          limit: false
 
-      right: false
+      right:
+        sections:
+          posts_drafts:
+            extends: sections/drafts
+            template: calendar.event
+
+          posts_unlisted:
+            extends: sections/unlisted
+            template: calendar.event
 
       full:
         sections:
@@ -33,6 +34,3 @@ tabs:
             template: calendar.event
             image:
               ratio: 1/1
-
-  # Metadata
-  tab_seo: tabs/seo

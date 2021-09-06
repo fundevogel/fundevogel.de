@@ -40,33 +40,6 @@ tabs:
               - default
             info: "Zuletzt bearbeitet am {{ page.modified('d.m.Y') }}"
 
-          jobs:
-            type: fields
-            fields:
-              headline_jobs:
-                extends: fields/base/headline
-                label:
-                  de: Tätigkeiten
-                  en: Various jobs
-
-              archiveEvents:
-                extends: fields/base/job
-                label:
-                  de: Veranstaltungen aussortieren
-                  en: Generate metadata
-                progress: Durchsuchen ..
-                job: archiveEvents
-                width: 1/4
-
-              clearDejure:
-                extends: fields/base/job
-                label:
-                  de: DJO-Cache leeren
-                  en: Clear DJO cache
-                progress: Leeren ..
-                job: clearDejure
-                width: 1/4
-
   # Lesetipps
   tab_lesetipps:
     label:
@@ -228,6 +201,21 @@ tabs:
             type: tel
             translate: false
             required: true
+
+          headline_jobs:
+            extends: fields/base/headline
+            label:
+              de: Tätigkeiten
+              en: Various jobs
+
+          clearDejure:
+            extends: fields/base/job
+            label:
+              de: DJO-Cache leeren
+              en: Clear DJO cache
+            progress: Leeren ..
+            job: clearDejure
+            width: 1/4
 
   # Default metadata
   tab_seo: tabs/seo

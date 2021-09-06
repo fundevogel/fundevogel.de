@@ -24,7 +24,7 @@
                 </li>
                 <?php endforeach ?>
             </ul>
-            <?php e($events !== $last, '<hr class="max-w-sm">') ?>
+            <?php e($event !== $last, '<hr class="max-w-sm">') ?>
     <?php
         endforeach
     ?>
