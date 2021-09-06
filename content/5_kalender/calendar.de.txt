@@ -11,11 +11,12 @@ Wenn ihr sehen wollt, was wir in der Vergangenheit so auf die Beine gestellt hab
 
 ----
 
-Perpage-wanted: true
+Archive:
 
-----
+## Wir haben uns gefreut!
+Hier findet ihr alle Informationen zu den vergangenen Veranstaltungen des Fundevogels.
 
-Perpage: 10
+Wenn ihr sehen wollt, welche aktuellen Veranstaltungen wir auf die Beine stellen, dann schaut doch mal vorbei in unserem (link: kalender text: Kalender).
 
 ----
 
@@ -25,15 +26,19 @@ Cover:
 
 ----
 
+Perpage-wanted: true
+
+----
+
+Perpage: 10
+
+----
+
 Meta-title: Veranstaltungskalender
 
 ----
 
 Meta-description: Wir veranstalten von Lesungen und Büchertischen für Schulklassen bis zum Lirum-Larum-Lesefest alle möglichen Veranstaltungen rund um Bücher - seid dabei!
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -138,6 +143,10 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 

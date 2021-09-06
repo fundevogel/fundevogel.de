@@ -8,6 +8,18 @@ tabs:
   # Content
   tab_content:
     extends: tabs/content
+    fields:
+      archive:
+        label:
+          de: Vergangene Veranstaltungen
+          en: Previous events
+        type: markdown
+        help:
+          de: |
+            Dieser Text wird auf der 'Archiv'-Seite angezeigt.
+          en: |
+            This text is being displayed on the 'archive' page.
+
     sidebar:
       sidebar_fields:
         type: fields
