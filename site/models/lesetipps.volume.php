@@ -12,14 +12,11 @@ class LesetippsVolumePage extends Page {
         $children = [];
 
         foreach ($this->files()->filterBy('template', 'pdf') as $edition) {
-            $files = new Files();
-            $files->add($edition);
-
             $children[] = [
-                'slug'     => Str::slug($edition->edition()),
+                'slug'     => Str::slug($edition->edition()->value()),
                 'template' => 'lesetipps.edition',
                 'model'    => 'lesetipps.edition',
-                'files'    => $files->toArray(),
+                'files'    => (new Files())->add($edition)->toArray(),
                 'content'  => [
                     'title' => $edition->edition()->value() . ' ' . $edition->year()->value(),
                     'edition' => $edition->edition()->value(),
