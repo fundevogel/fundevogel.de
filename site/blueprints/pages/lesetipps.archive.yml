@@ -27,6 +27,8 @@ tabs:
     unlisted:
       template: lesetipps.volume
       sortBy: title desc
+      image:
+        query: page.files.filterBy('extension', 'jpg').first
       info: "{{ page.files.filterBy('extension', 'pdf').count }} Ausgabe(n)"
 
     listed: false
