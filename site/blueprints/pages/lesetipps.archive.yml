@@ -1,6 +1,6 @@
 title:
   de: Neuerscheinungen
-  en: Recommendation lists
+  en: Novelty books
 
 options: options/default
 
@@ -14,17 +14,24 @@ tabs:
         fields:
           cover: fields/cover
 
-  # PDF editions
-  tab_editions:
-    extends: tabs/files
-    columns:
-      column_files:
-        sections:
-          images: false
+  # Subpages
+  tab_subpages:
+    extends: tabs/subpages
+    label:
+      de: Jahrgänge
+      en: Volumes
 
-          files:
-            extends: sections/documents
-            parent: site.find('lesetipps')
+    drafts:
+      template: lesetipps.volume
+
+    unlisted:
+      template: lesetipps.volume
+      sortBy: title desc
+      image:
+        query: page.files.filterBy('extension', 'jpg').first
+      info: "{{ page.files.filterBy('extension', 'pdf').count }} Ausgabe(n)"
+
+    listed: false
 
   # Metadata
   tab_seo: tabs/seo

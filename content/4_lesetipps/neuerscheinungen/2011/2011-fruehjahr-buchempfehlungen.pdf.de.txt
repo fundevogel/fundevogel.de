@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2011
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2011/2011-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

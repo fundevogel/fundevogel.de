@@ -7,7 +7,15 @@ Text:
 ## Unsere Empfehlungen
 Hier teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben.
 
-Außerdem sammeln wir jedes Jahr im Herbst und Frühling eine Auswahl der Neuerscheinungen in einer Empfehlungsliste. Die aktuelle Liste bekommt Ihr als PDF per Klick auf die nebenstehenden Bilder, ältere Ausgaben findet ihr in unserem (link: lesetipps/neuerscheinungen text: Archiv) - auf Wunsch natürlich auch (email: info@fundevogel.de text: per Mail).
+Außerdem sammeln wir jedes Jahr im Herbst und Frühling eine Auswahl der Neuerscheinungen in einer Empfehlungsliste.
+
+Die aktuelle Liste bekommt Ihr als PDF per Klick auf die nebenstehenden Bilder, ältere Ausgaben findet ihr in unserem (link: lesetipps/neuerscheinungen text: Archiv) - auf Wunsch natürlich auch (email: info@fundevogel.de text: per Mail).
+
+----
+
+Fallback:
+
+- fallback.jpg
 
 ----
 
@@ -19,21 +27,11 @@ Perpage: 5
 
 ----
 
-Fallback:
-
-- fallback.jpg
-
-----
-
 Meta-title: Unsere Lesetipps
 
 ----
 
 Meta-description: Mit unseren aktuellen Empfehlungen teilen wir unsere Lesefreuden mit Euch und erzählen von Büchern, die uns besonders inspiriert und begeistert haben!
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -45,9 +43,7 @@ Meta-author:
 
 ----
 
-Meta-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Meta-image: 
 
 ----
 
@@ -63,9 +59,7 @@ Og-description:
 
 ----
 
-Og-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Og-image: 
 
 ----
 
@@ -125,9 +119,7 @@ Twitter-description:
 
 ----
 
-Twitter-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Twitter-image: 
 
 ----
 
@@ -140,3 +132,7 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Meta-keywords: 

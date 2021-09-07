@@ -1,10 +1,14 @@
-Title: Livres récemment publiés
+Title: Nouveautés
+
+----
+
+nouveautes
 
 ----
 
 Text:
 
-## Sélection approfondie
+## Tous les ans
 Chaque année, au printemps et à l'automne, nous collectons une sélection de (short: nouvelles publications desc: En Allemagne, c'est près de 10 000 chaque année!) dans une liste de recommandations.
 
 Ici vous pouvez trouver toutes les éditions précédentes en un coup d'œil - et qui sait, peut-être que l'un ou l'autre trésor de lecture est enterré!

@@ -1,19 +1,17 @@
-Title: Newly published books
+Title: Novelties
+
+----
+
+Slug: novelties
 
 ----
 
 Text:
 
-## Thorough selection
+## Time and again
 Every year in spring and autumn we collect a selection of (short: new releases desc: In Germany, there are almost 10,000 every year!) in a list of recommendations.
 
 Here you can find all previous editions at a glance - and who knows, maybe there's one or another buried reading treasure to find!
-
-----
-
-Cover:
-
-- neuerscheinungen.jpg
 
 ----
 
@@ -25,15 +23,11 @@ Meta-description: With 10,000 new books a year you quickly lose track - we colle
 
 ----
 
-Meta-keywords:
+Meta-canonical-url: 
 
 ----
 
-Meta-canonical-url:
-
-----
-
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -43,15 +37,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -61,23 +55,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -85,35 +79,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -127,11 +121,15 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 

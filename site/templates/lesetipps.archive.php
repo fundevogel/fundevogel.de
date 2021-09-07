@@ -12,18 +12,10 @@
 </header>
 <hr>
 <section class="container">
-    <h2 class="mb-12 text-center"><?= t('Alle Empfehlungslisten') ?></h2>
-    <div class="js-masonry">
-        <?php
-            foreach ($editions as $edition) :
-            $caption = implode(' ', [t($edition->edition()->value()), $edition->year()]);
-        ?>
-        <div class="flex justify-center">
-            <?php snippet('lesetipps/edition', compact('edition', 'caption')) ?>
-        </div>
-        <?php endforeach ?>
-    </div>
+    <h2 class="mb-0 text-center"><?= t('Alle Empfehlungslisten') ?></h2>
+    <?php snippet('lesetipps/volumes') ?>
 </section>
+
 <?php snippet('blocks/info', ['block' => $page]) ?>
 
 <?php snippet('footer') ?>

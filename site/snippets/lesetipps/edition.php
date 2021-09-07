@@ -1,13 +1,10 @@
-<?php
-    $isDossier = $page->intendedTemplate() == 'contact.press';
-    $class = $isDossier ? 'rounded-lg' : 'rounded-t-lg';
-?>
+<?php $isDossier = $page->intendedTemplate() == 'contact.press'; ?>
 
-<a class="<?php e($page->intendedTemplate() != 'lesetipps.archive', 'last:ml-4 xs:last:ml-6 sm:last:ml-10 ') ?> group table relative" href="<?= $edition->url() ?>" download="<?= $edition->filename() ?>">
+<a class="last:ml-4 xs:last:ml-6 sm:last:ml-10 group table relative" href="<?= $edition->url() ?>" download="<?= $edition->filename() ?>">
     <figure class="rounded-lg">
-        <?= $edition->getFront($class) ?>
+        <?= $edition->getFront(r($isDossier, 'rounded-lg', 'rounded-t-lg')) ?>
         <?php if (!$isDossier) : ?>
-        <figcaption class="small-caption is-pdf"><?= $caption ?></figcaption>
+        <figcaption class="small-caption is-pdf"><?= t($edition->edition()->value()) ?></figcaption>
         <?php endif ?>
     </figure>
     <?php snippet('components/shared/gradient-overlay', ['data' => $edition]) ?>

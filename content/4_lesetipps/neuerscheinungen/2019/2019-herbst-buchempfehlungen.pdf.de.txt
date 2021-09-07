@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2019
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2019/2019-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

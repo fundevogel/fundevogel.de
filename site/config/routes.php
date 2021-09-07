@@ -47,6 +47,24 @@ return [
         }
     ],
     [
+        'pattern' => 'lesetipps/neuerscheinungen/(:num)',
+        'action'  => function ($num) {
+            return go('lesetipps/neuerscheinungen', 301);
+        }
+    ],
+    [
+        'pattern' => 'en/recommendations/novelties/(:num)',
+        'action'  => function ($num) {
+            return go('en/recommendations/novelties', 301);
+        }
+    ],
+    [
+        'pattern' => 'fr/coin-de-livres/nouveautes/(:num)',
+        'action'  => function ($num) {
+            return go('fr/coin-de-livres/nouveautes', 301);
+        }
+    ],
+    [
         'pattern' => 'kalender/veranstaltungen',
         'action' => function() {
             return go('kalender', 301);

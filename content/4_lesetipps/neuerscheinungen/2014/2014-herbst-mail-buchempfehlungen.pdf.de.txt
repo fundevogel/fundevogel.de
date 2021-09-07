@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2014
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2014/2014-herbst-mail-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

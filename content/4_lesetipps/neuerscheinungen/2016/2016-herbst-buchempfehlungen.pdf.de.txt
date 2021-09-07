@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2016
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2016/2016-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

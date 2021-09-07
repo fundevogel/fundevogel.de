@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2020
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2020/2020-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

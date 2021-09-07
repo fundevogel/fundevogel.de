@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2013
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2013/2013-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

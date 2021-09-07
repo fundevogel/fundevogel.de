@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2017
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2017/2017-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf
