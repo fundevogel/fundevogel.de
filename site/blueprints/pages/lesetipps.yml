@@ -31,11 +31,11 @@ tabs:
       en: Volumes
 
     drafts:
-      template: lesetipps.editions
+      template: lesetipps.volume
       parent: site.find('lesetipps/neuerscheinungen')
 
     unlisted:
-      template: lesetipps.editions
+      template: lesetipps.volume
       parent: site.find('lesetipps/neuerscheinungen')
       sortBy: title desc
       info: "{{ page.files.filterBy('extension', 'pdf').count }} Ausgabe(n)"

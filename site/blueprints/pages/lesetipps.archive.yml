@@ -22,10 +22,10 @@ tabs:
       en: Volumes
 
     drafts:
-      template: lesetipps.editions
+      template: lesetipps.volume
 
     unlisted:
-      template: lesetipps.editions
+      template: lesetipps.volume
       sortBy: title desc
       info: "{{ page.files.filterBy('extension', 'pdf').count }} Ausgabe(n)"
 
