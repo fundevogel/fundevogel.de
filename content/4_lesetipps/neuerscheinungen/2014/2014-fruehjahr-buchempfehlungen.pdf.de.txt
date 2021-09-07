@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2014
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2014/2014-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

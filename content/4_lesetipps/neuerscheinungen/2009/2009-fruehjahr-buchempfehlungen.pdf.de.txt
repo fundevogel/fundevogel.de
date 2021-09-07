@@ -1,0 +1,16 @@
+Edition: Frühjahr
+
+----
+
+Year: 2009
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2009/2009-fruehjahr-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

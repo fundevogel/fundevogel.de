@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2008
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2008/2008-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf

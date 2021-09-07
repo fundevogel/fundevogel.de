@@ -1,0 +1,16 @@
+Edition: Herbst
+
+----
+
+Year: 2010
+
+----
+
+Coverimage:
+
+- >
+  lesetipps/neuerscheinungen/2010/2010-herbst-buchempfehlungen.pdf.jpg
+
+----
+
+Template: pdf
