@@ -9,27 +9,15 @@ Slug: recommendations
 Text:
 
 ## Our recommendations
-We just love reading new and exciting books, but we don't stop there - whenever we discover something truly inspiring and fascinating, we want to share it with you. Check out the reviews and read about some of our favorite books.
+We just love reading new and exciting books, but we don't stop there - whenever we discover something truly inspiring and fascinating, we want to share it with you.
 
-Aside from that, every year we put together two lists of selected novelties, forming our spring and autumn recommendation editions. Be sure to download the latest issues from the links to the right or  subscribe to our (email: info@fundevogel.de text: mailing list). For earlier editions, have a look at the (link: lesetipps/neuerscheinungen text: archive).
+Aside from that, every year we put together two lists of selected novelties, forming our spring and autumn recommendation editions.
 
-----
-
-Perpage-wanted: true
+Be sure to download the latest issues from the links to the right or  subscribe to our (email: info@fundevogel.de text: mailing list). For earlier editions, have a look at the (link: lesetipps/neuerscheinungen text: archive).
 
 ----
 
-Perpage: 5
-
-----
-
-Fallback:
-
-- fallback.jpg
-
-----
-
-Meta-title:
+Meta-title: 
 
 ----
 
@@ -37,59 +25,51 @@ Meta-description: We just love reading new and exciting books - and whenever we 
 
 ----
 
-Meta-keywords:
+Meta-canonical-url: 
 
 ----
 
-Meta-canonical-url:
+Meta-author: 
 
 ----
 
-Meta-author:
+Meta-image: 
 
 ----
 
-Meta-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Meta-phone-number: 
 
 ----
 
-Meta-phone-number:
+Og-title: 
 
 ----
 
-Og-title:
+Og-description: 
 
 ----
 
-Og-description:
+Og-image: 
 
 ----
 
-Og-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Og-site-name: 
 
 ----
 
-Og-site-name:
+Og-url: 
 
 ----
 
-Og-url:
+Og-audio: 
 
 ----
 
-Og-audio:
+Og-video: 
 
 ----
 
-Og-video:
-
-----
-
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -97,41 +77,39 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
-Twitter-image:
-
-- 2021-fruehjahr-buchempfehlungen.pdf.jpg
+Twitter-image: 
 
 ----
 
@@ -139,8 +117,12 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
+
+----
+
+Meta-keywords: 
