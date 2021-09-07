@@ -1,9 +1,15 @@
 <?php
 
 class LesetippsEditionPage extends Page {
+    public function volume()
+    {
+        return $this->siblings()->unlisted()->find($this->year()->value());
+    }
+
+
     public function pdf()
     {
-        return $this->parent()->file($this->file()->filename());
+        return $this->volume()->files()->filterBy('edition', $this->edition()->value())->first();
     }
 
 
@@ -23,7 +29,8 @@ class LesetippsEditionPage extends Page {
     {
         $children = [];
 
-        if ($file = $this->parent()->file(Str::slug($this->edition()) . '.json')) {
+        if ($file = $this->volume()->file(Str::slug($this->edition()->value()) . '.json')) {
+            # Load JSON data
             $data = Json::read($file->root());
 
             $count = 1;
@@ -31,8 +38,8 @@ class LesetippsEditionPage extends Page {
             foreach ($data as $chapter => $books) {
                 $data = [];
 
+                # Add books to chapters ..
                 foreach ($books as $book) {
-                    # Add book data
                     $data[] = [
                         'title' => $book['header'][1] ?? $book['header'][0],
                         'author' => $book['header'][0],
@@ -41,7 +48,7 @@ class LesetippsEditionPage extends Page {
                     ];
                 }
 
-                # Add chapter as child
+                # .. and chapters as children
                 $children[] = [
                     'slug'     => Str::slug($chapter),
                     'num'      => $count,
