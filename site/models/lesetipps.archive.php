@@ -19,7 +19,6 @@ class LesetippsArchivePage extends Page {
                     'slug'     => Str::slug($title),
                     'template' => 'lesetipps.edition',
                     'model'    => 'lesetipps.edition',
-                    'files'    => (new Files())->add($edition)->toArray(),
                     'content'  => [
                         'title' => $title,
                         'edition' => $edition->edition()->value(),

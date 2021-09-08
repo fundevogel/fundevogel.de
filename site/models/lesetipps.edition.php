@@ -30,12 +30,9 @@ class LesetippsEditionPage extends Page {
         $children = [];
 
         if ($file = $this->volume()->file(Str::slug($this->edition()->value()) . '.json')) {
-            # Load JSON data
-            $data = Json::read($file->root());
-
             $count = 1;
 
-            foreach ($data as $chapter => $books) {
+            foreach (Json::read($file->root()) as $chapter => $books) {
                 $data = [];
 
                 # Add books to chapters ..
@@ -44,7 +41,7 @@ class LesetippsEditionPage extends Page {
                         'title' => $book['header'][1] ?? $book['header'][0],
                         'author' => $book['header'][0],
                         'isbn' => $book['isbn'],
-                        'body' => $book['body'],
+                        'body' => A::join($book['body'], "\n"),
                     ];
                 }
 
@@ -54,10 +51,9 @@ class LesetippsEditionPage extends Page {
                     'num'      => $count,
                     'template' => 'lesetipps.edition.chapter',
                     'model'    => 'lesetipps.edition.chapter',
-                    'files'    => $this->parent()->images()->toArray(),
                     'content'  => [
                         'title' => $chapter,
-                        'books' => Yaml::encode($books),
+                        'books' => Yaml::encode($data),
                     ],
                 ];
 
