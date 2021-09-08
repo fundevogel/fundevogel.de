@@ -29,6 +29,8 @@ venv
 
 # Large files
 /content/4_lesetipps/neuerscheinungen/**/**/*.jpg
+/content/4_lesetipps/neuerscheinungen/**/**/*.webp
+/content/4_lesetipps/neuerscheinungen/**/**/*.avif
 /content/4_lesetipps/neuerscheinungen/**/**/.cache
 
 
