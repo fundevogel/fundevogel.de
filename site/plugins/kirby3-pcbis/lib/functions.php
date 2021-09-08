@@ -5,7 +5,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\TransferStats;
 
 
-function pcbis()
+function pcbis(string $cacheDir = '')
 {
     # Initializing Webservice object
     $login = [
@@ -14,14 +14,19 @@ function pcbis()
         'Passwort' => env('knv_password'),
     ];
 
-    return new Webservice($login, kirby()->root('cache') . '/books');
+    # Provide fallback for cache
+    if (empty($cacheDir)) {
+        $cacheDir = kirby()->root('cache') . '/books';
+    }
+
+    return new Webservice($login, $cacheDir);
 }
 
 
-function loadBook(string $isbn)
+function loadBook(string $isbn, string $cacheDir = '')
 {
     try {
-        $book = pcbis()->load($isbn);
+        $book = pcbis($cacheDir)->load($isbn);
 
         # Basic dataset
         $data = [
@@ -80,6 +85,7 @@ function loadBook(string $isbn)
         }
 
         return $data;
+
     } catch (\Exception $e) {
         return [];
     }
