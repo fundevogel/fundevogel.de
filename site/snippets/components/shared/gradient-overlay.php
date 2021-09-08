@@ -3,7 +3,7 @@
     if (!isset($caption)) {
         $caption = 'Download';
 
-        if (is_a($data, 'BookPage')) {
+        if (is_a($data, 'BookPage') || is_a($data, 'LesetippsEditionBookPage')) {
             $caption = t('Zum Shop');
 
             if (!$data->isAvailable()->bool()) {
@@ -15,7 +15,7 @@
     if (!isset($icon)) {
         $icon = 'download';
 
-        if (is_a($data, 'BookPage')) {
+        if (is_a($data, 'BookPage') || is_a($data, 'LesetippsEditionBookPage')) {
             $icon = 'cart';
 
             if (!$data->isAvailable()->bool()) {
@@ -27,11 +27,12 @@
     if (!isset($details)) {
         $details = '';
 
-        if (is_a($data, 'BookPage')) {
+        if (is_a($data, 'BookPage') || is_a($data, 'LesetippsEditionBookPage')) {
             $details = ' &middot; ' . $data->price() . ' €';
 
             if ($data->age()->isNotEmpty()) {
                 $details = $data->age() . $details;
+
             } else {
                 if ($data->isAudiobook()) {
                     $details = A::join([$data->duration(), t('Minuten'), $details], ' ');

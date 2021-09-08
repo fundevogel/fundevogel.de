@@ -2,7 +2,7 @@
 
 return function ($kirby, $page) {
     # Defining PDF editions
-    $files = $kirby->collection('bibliolists')->flip()->group(function($file) {
+    $files = $kirby->collection('bibliolists/files')->flip()->group(function($file) {
         if (Str::contains($file->filename(), 'herbst')) {
             return 'autumn';
         }

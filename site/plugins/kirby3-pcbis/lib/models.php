@@ -68,8 +68,9 @@ class BookPage extends Page {
             # Fetch information from API
             $data = loadBook($isbn);
 
-            # Get shop link
+            # Add shop link
             $data['shop'] = getShopLink($isbn);
+
         } catch(\Exception $e) {
             return parent::create($props);
         }
@@ -88,9 +89,9 @@ class BookPage extends Page {
         }
 
         return parent::create(array_merge($props, [
-            'content' => $data,
             'slug' => Str::slug($data['title']) . ' ' . Str::slug($data['type']),
             'template' => $template,
+            'content' => $data,
         ]));
     }
 }

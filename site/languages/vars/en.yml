@@ -76,9 +76,7 @@ Ladenpreis: Retail Price
 Zum Shop: Buy it
 
 # Lesetipps: buttons
-als PDF: as PDF
-im Browser anzeigen: show in browser
-Du bist hier:
+Du bist hier: You are here
 Neuere Lesetipps: Newer reading tips
 Ältere Lesetipps: Older reading tips
 Zum Anfang springen: Jump to first page
@@ -95,6 +93,13 @@ Thema auswählen: Filter by topic
 Auszeichnung auswählen: Filter by award
 Zurücksetzen: Reset
 Alles zurücksetzen: Reset everything
+
+# Lesetipps: editions
+Download: Download
+als PDF: as PDF
+Online: Online
+im Browser anzeigen: show in browser
+Alle Kategorien: All categories
 
 # Lesetipps: misc
 Frühjahr: Spring
