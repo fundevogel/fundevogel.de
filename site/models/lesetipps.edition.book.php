@@ -3,12 +3,13 @@
 class LesetippsEditionBookPage extends Page {
     public function getCover()
     {
+        # Define filename
         $fileName = Str::slug($this->title()->value()) . '.jpg';
 
-        return $this->parent()->volume()->images()->find($fileName)
-            ? $this->parent()->volume()->image($fileName)
-            : page('lesetipps')->fallback()->toFile()
-        ;
+        # Grab image file
+        $image = $this->parent()->parent()->data()->image($fileName);
+
+        return $image ? $image : page('lesetipps')->fallback()->toFile();
     }
 
 

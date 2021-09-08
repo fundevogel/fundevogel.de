@@ -19,6 +19,12 @@ class LesetippsEditionPage extends Page {
     }
 
 
+    public function data()
+    {
+        return $this->volume()->find(Str::slug($this->edition()->value())) ?? $this->volume();
+    }
+
+
     public function subpages()
     {
         return Pages::factory($this->inventory()['children'], $this);
@@ -29,7 +35,7 @@ class LesetippsEditionPage extends Page {
     {
         $children = [];
 
-        if ($file = $this->volume()->file(Str::slug($this->edition()->value()) . '.json')) {
+        if ($file = $this->data()->file('data.json')) {
             $count = 1;
 
             foreach (Json::read($file->root()) as $chapter => $books) {

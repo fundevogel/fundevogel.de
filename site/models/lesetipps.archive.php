@@ -20,9 +20,9 @@ class LesetippsArchivePage extends Page {
                     'template' => 'lesetipps.edition',
                     'model'    => 'lesetipps.edition',
                     'content'  => [
-                        'title' => $title,
+                        'title'   => $title,
                         'edition' => $edition->edition()->value(),
-                        'year' => $edition->year()->value(),
+                        'year'    => $edition->year()->value(),
                     ],
                 ];
             }

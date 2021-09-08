@@ -27,6 +27,11 @@ venv
 !/lib/toolset/graveyard
 
 
+# Large files
+/content/4_lesetipps/neuerscheinungen/**/**/*.jpg
+/content/4_lesetipps/neuerscheinungen/**/**/.cache
+
+
 # Temporary files
 /public/media
 /public/assets
