@@ -78,10 +78,6 @@ Vergriffen: Vergriffen
 Bitte besorgen: Auf Wunsch versuchen wir, diesen Titel zu besorgen. Schreiben Sie uns!
 
 # Lesetipps: buttons
-Download: Download
-als PDF: als PDF
-Online: Online
-im Browser anzeigen: im Browser anzeigen
 Du bist hier: Du bist hier
 Neuere Lesetipps: Neuere Lesetipps
 Ältere Lesetipps: Ältere Lesetipps
@@ -99,6 +95,13 @@ Thema auswählen: Thema auswählen
 Auszeichnung auswählen: Auszeichnung auswählen
 Zurücksetzen: Zurücksetzen
 Alles zurücksetzen: Alles zurücksetzen
+
+# Lesetipps: editions
+Download: Download
+als PDF: als PDF
+Online: Online
+im Browser anzeigen: im Browser anzeigen
+Alle Kategorien: Alle Kategorien
 
 # Lesetipps: misc
 Frühjahr: Frühjahr

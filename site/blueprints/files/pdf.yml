@@ -33,6 +33,12 @@ fields:
     job: createMetadata
     data: "{{ file.filename }}"
 
+  intro:
+    label:
+      de: Einleitung
+      en: Introduction
+    type: markdown
+
 sidebar:
   sidebar_fields:
     type: fields

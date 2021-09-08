@@ -23,6 +23,7 @@ class LesetippsArchivePage extends Page {
                         'title'   => $title,
                         'edition' => $edition->edition()->value(),
                         'year'    => $edition->year()->value(),
+                        'intro'   => $edition->intro()->value(),
                     ],
                 ];
             }

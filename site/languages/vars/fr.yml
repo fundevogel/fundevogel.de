@@ -76,10 +76,6 @@ Ladenpreis: Prix de vente
 Zum Shop: Acquérir
 
 # Lesetipps: buttons
-Download: Télécharger
-als PDF: en PDF
-Online: En ligne
-im Browser anzeigen: dans le navigateur
 Du bist hier: Tu es là
 Neuere Lesetipps: Livres suivants
 Ältere Lesetipps: Livres précédents
@@ -97,6 +93,13 @@ Thema auswählen: Choisissez un sujet
 Auszeichnung auswählen: Sélectionnez le prix
 Zurücksetzen: Réinitialiser
 Alles zurücksetzen: Réinitialiser par défaut
+
+# Lesetipps: editions
+Download: Télécharger
+als PDF: en PDF
+Online: En ligne
+im Browser anzeigen: dans le navigateur
+Alle Kategorien: Toutes catégories
 
 # Lesetipps: misc
 Frühjahr: Printemps
