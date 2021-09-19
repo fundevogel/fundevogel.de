@@ -13,11 +13,13 @@ columns:
     sections:
       posts_drafts:
         templates:
+          - news.toot
           - news.article
           - news.recommendation
 
       posts_unlisted:
         templates:
+          - news.toot
           - news.article
           - news.recommendation
 
@@ -25,5 +27,6 @@ columns:
     sections:
       posts_listed:
         templates:
+          - news.toot
           - news.article
           - news.recommendation
