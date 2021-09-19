@@ -6,8 +6,11 @@ return function ($page) {
     $newsTotal = $page
         ->children()
         ->listed()
-        ->filterBy('intendedTemplate', 'in', ['news.article', 'news.recommendation'])
-        ->flip();
+        ->filterBy('intendedTemplate', 'in', [
+            'news.toot',
+            'news.article',
+            'news.recommendation',
+        ])->flip();
 
     $newsPerPage = $newsTotal->paginate(($perPage >= 1) ? $perPage : 5);
 
