@@ -427,4 +427,54 @@ return [
             'reload' => $success,
         ];
     },
+    'fetchToot' => function ($page, $data)
+    {
+        if ($page === null) {
+            $page = site()->index(true)->findByID($data);
+        }
+
+        $success = false;
+
+        if ($id = $page->toot()->value()) {
+            # Create API object
+            $api = new \Fundevogel\Mastodon\Api('freiburg.social');
+
+            # Assign access token
+            $api->accessToken = env('access_token');
+
+            # Fetch toot
+            $toot = $api->statuses()->get($id);
+
+            # Update page
+            $page->update([
+                'text' => $toot->content(),
+            ]);
+
+            # Download images
+            foreach ($toot->downloadMedia($page->root()) as $index => $file) {
+                # Build path
+                $name = basename($file);
+                $path = $page->root() . '/' . $name;
+
+                # Update file
+                $file = new File([
+                    'filename' => basename($path),
+                    'parent' => $page,
+                ]);
+
+                $file->update([
+                    'template' => 'image',
+                    'description' => $toot->data['media_attachments'][$index]['description'],
+                ]);
+            }
+
+            $success = true;
+        }
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label'  => $success ? 'Update erfolgreich!' : 'Mistikus totalus!',
+            'reload' => $success,
+        ];
+    },
 ];
