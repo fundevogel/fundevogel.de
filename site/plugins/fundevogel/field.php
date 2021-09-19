@@ -41,4 +41,23 @@ return [
             : $time
         ;
     },
+    'toContent' => function (Kirby\Cms\Field $field): string
+    {
+        # Add class to paragraph & list elements
+        # See https://forum.getkirby.com/t/add-classes-to-textarea-field-output/14060/5
+
+        $from = [
+            '/<p>/',
+            '/<ul>/',
+            '/<ol>/',
+        ];
+
+        $to = [
+            '<p class="content">',
+            '<ul class="list">',
+            '<ol class="list">',
+        ];
+
+        return preg_replace($from, $to, $field->value());
+    },
 ];

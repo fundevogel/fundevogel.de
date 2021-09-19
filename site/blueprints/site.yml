@@ -98,12 +98,14 @@ tabs:
         sections:
           posts_drafts:
             templates:
+              - news.toot
               - news.article
               - news.recommendation
             parent: site.find('news')
 
           posts_unlisted:
             templates:
+              - news.toot
               - news.article
               - news.recommendation
             parent: site.find('news')
@@ -112,6 +114,7 @@ tabs:
         sections:
           posts_listed:
             templates:
+              - news.toot
               - news.article
               - news.recommendation
             parent: site.find('news')
