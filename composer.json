@@ -41,6 +41,7 @@
         "distantnative/retour-for-kirby": "4.0.0-beta.1",
         "fundevogel/kirby3-colorist": "1.8.2",
         "fundevogel/kirby3-donuts": "1.2.0",
+        "fundevogel/php-mastodon": "0.6.0",
         "fundevogel/php-pcbis": "2.5.0",
         "guzzlehttp/guzzle": "7.3.0",
         "k-community/markdown-field": "1.0.9",
