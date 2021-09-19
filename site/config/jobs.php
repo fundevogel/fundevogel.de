@@ -447,7 +447,9 @@ return [
 
             # Update page
             $page->update([
-                'text' => $toot->content(),
+                'tootText' => $toot->content(),
+                'tootDate' => $toot->createdAt(),
+                'tootLink' => $toot->url(),
             ]);
 
             # Download images
