@@ -1,20 +1,20 @@
 <p>
     <?php
         $category = $event->category();
-        $start_time = $event->begin_time();
-        $end_time = $event->end_time();
         $start_date = $event->date();
+        $start_time = $event->begin_time();
         $end_date = $event->end_date();
+        $end_time = $event->end_time();
         $start = strtotime($start_date . ' ' . $start_time);
-        $end = strtotime($event->end_date() . ' ' . $event->end_time());
+        $end = strtotime($end_date . ' ' . $end_time);
         $location = $event->location();
 
         e($category->isNotEmpty(), t('Was') . ': ' . $category->html() . '<br>');
         e($start, t('Wann') . ': ' . date('d.m.Y', $start) . '<br>');
 
-        if($start_time->isNotEmpty()) {
+        if ($start_time->isNotEmpty()) {
             echo t('Zeit') . ': ' . date('H:i', $start);
-            e($end_time && date('H:i', $end) !== date('H:i', $start), '- '. date('H:i', $end));
+            e($end_time && date('H:i', $end) !== date('H:i', $start), '- ' . date('H:i', $end));
             echo ' ' . t('Uhr') . '<br>';
         }
 
