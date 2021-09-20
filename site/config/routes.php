@@ -6,6 +6,26 @@
 
 return [
     [
+        'pattern' => 'kalender/(:all).ics',
+        'action' => function($all) {
+            # Check if page for given event exists ..
+            if ($event = page('kalender/veranstaltungen/' . $all)) {
+                # Generate iCal body
+                $snippet = snippet('calendar/ical', ['event' => $event]);
+
+                # Set headers
+                Header::download([
+                    'name' => $event->uid() . '.ics',
+                    'size' => strlen($snippet),
+                    'mime'=>'text/calendar',
+                ]);
+
+                # Send response
+                return new Response($snippet, 'text/calendar');
+            }
+        },
+    ],
+    [
         'pattern' => 'news/(:any)',
         'action' => function($any) {
             if ($any == 'json') {
