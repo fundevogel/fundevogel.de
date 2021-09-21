@@ -33,7 +33,7 @@
     </article>
     <?php e($event !== $events->last(), '<hr class="max-w-xs">') ?>
     <?php endforeach ?>
-    <?php e($event !== $openEvents->last(), '<hr class="max-w-sm">') ?>
+    <?php e($event === $events->last() && $timeRange === t('In der Ferne'), '<hr class="max-w-sm">') ?>
     <?php endforeach ?>
     <?php else : ?>
     <p class="italic text-center"><?= t('Keine Veranstaltungen') ?></p>
