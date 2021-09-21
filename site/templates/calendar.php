@@ -6,7 +6,22 @@
             <?= $page->text()->kt() ?>
         </div>
         <div class="mt-12 flex-none text-center">
-            <?php snippet('cover') ?>
+            <?php
+                if ($page->hasCover()) :
+                $file = $page->uid() . '.ics';
+            ?>
+            <a
+                class="lg:ml-12 group table relative"
+                download="<?= $file ?>"
+                href="<?= Str::replace($page->url(), 'https', 'webcal') . '/' . $file ?>"
+            >
+                <figure class="inline-block rounded-lg">
+                    <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
+                    <figcaption class="small-caption"><?= $page->getCover()->caption()->html() ?></figcaption>
+                </figure>
+                <?php snippet('components/shared/gradient-overlay', ['caption' => 'Alle Veranstaltungen im Abo', 'icon' => 'calendar-filled', 'details' => 'als iCal-Datei herunterladen']) ?>
+            </a>
+            <?php endif ?>
         </div>
     </div>
 </header>
