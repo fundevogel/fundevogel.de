@@ -1,3 +1,5 @@
+<?php header('Content-Type: text/calendar; charset=utf-8'); ?>
+<?php header('Content-Disposition: attachment; filename="' . $event->uid() . '.ical"'); ?>
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//<?= site()->url() ?>//Fundevogel//<?= str::upper(site()->language()->code()) . "\n" ?>
