@@ -19,7 +19,7 @@
 
         if ($start_time->isNotEmpty()) {
             echo t('Zeit') . ': ' . date('H:i', $start);
-            e($end_time && date('H:i', $end) !== date('H:i', $start), '- ' . date('H:i', $end));
+            e($end_time && date('H:i', $end) !== date('H:i', $start), ' - ' . date('H:i', $end));
             echo ' ' . t('Uhr') . '<br>';
         }
 
