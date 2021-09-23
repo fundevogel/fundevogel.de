@@ -13,7 +13,7 @@ return [
             $title = page('kalender')->uid();
 
             # (2) Include all current events
-            $events = kirby()->collection('events/past');
+            $events = kirby()->collection('events/open');
 
             # If page for given event exists ..
             if ($event = page('kalender/veranstaltungen/' . $all)) {
