@@ -16,7 +16,11 @@
                     <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
                     <figcaption class="small-caption"><?= $page->getCover()->caption()->html() ?></figcaption>
                 </figure>
-                <?php snippet('components/shared/gradient-overlay', ['caption' => 'Alle Veranstaltungen im Abo', 'icon' => 'calendar-filled', 'details' => 'als iCal-Datei herunterladen']) ?>
+                <?php snippet('components/shared/gradient-overlay', [
+                    'caption' => t('Aktuelle Veranstaltungen'),
+                    'icon' => 'calendar-filled',
+                    'details' => t('als iCal-Datei abonnieren')
+                ]) ?>
             </a>
             <?php endif ?>
         </div>
@@ -66,12 +70,22 @@
                 ?>
                 <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
                     <div class="mb-8 flex justify-center">
-                        <a class="rounded-full group overflow-hidden" href="<?= $annualEvent->url() ?>">
+                        <a
+                            class="rounded-full group overflow-hidden"
+                            href="<?= $annualEvent->url() ?>"
+                        >
                             <?= $annualEvent->getPreview() ?>
                         </a>
                     </div>
                     <div class="text-center">
-                        <h3><a class="text-orange-medium hover:text-orange-dark" href="<?= $annualEvent->url() ?>"><?= $annualEvent->title()->html() ?></a></h3>
+                        <h3>
+                            <a
+                                class="text-orange-medium hover:text-orange-dark"
+                                href="<?= $annualEvent->url() ?>"
+                            >
+                                <?= $annualEvent->title()->html() ?>
+                            </a>
+                        </h3>
                         <?= $annualEvent->previewDescription()->kt() ?>
                     </div>
                 </div>
