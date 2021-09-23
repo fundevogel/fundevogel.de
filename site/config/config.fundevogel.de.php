@@ -17,7 +17,7 @@ return [
             'active' => true,
             'ignore' => function ($page) {
                 return in_array($page->intendedTemplate(), ['contact']) === true;
-            }
-        ]
+            },
+        ],
     ],
 ];
