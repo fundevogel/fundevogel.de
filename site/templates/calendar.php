@@ -5,7 +5,7 @@
         <div class="flex-1">
             <?= $page->text()->kt() ?>
         </div>
-        <div class="mt-12 flex-none text-center">
+        <div class="mt-12 flex-none flex justify-center">
             <?php if ($page->hasCover()) : ?>
             <a
                 class="lg:ml-12 group table relative"
