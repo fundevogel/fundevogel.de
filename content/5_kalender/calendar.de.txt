@@ -4,10 +4,12 @@ Title: Kalender
 
 Text:
 
-## Wir freuen uns auf Sie
-Hier findet ihr alle Informationen zu den aktuellen Veranstaltungen des Fundevogels.
+## Wir freuen uns auf Euch
+Hier findet Ihr alle Informationen zu den aktuellen Veranstaltungen des Fundevogels.
 
-Wenn ihr sehen wollt, was wir in der Vergangenheit so auf die Beine gestellt haben, dann schaut doch mal vorbei in unserem (link: kalender/vergangene-veranstaltungen text: Archiv).
+Unseren Veranstaltungskalender könnt Ihr mit einem Klick auf das nebenstehende Bild auch abonnieren - so finden alle künftigen Veranstaltungen ihren Weg direkt in Euren Kalender!
+
+Wenn Ihr sehen wollt, was wir in der Vergangenheit so alles auf die Beine gestellt haben, dann schaut doch mal vorbei in unserem (link: kalender/vergangene-veranstaltungen text: Archiv).
 
 ----
 

@@ -9,7 +9,9 @@ Slug: calendar
 Text:
 
 ## We look forward to seeing you
-Here you will find all information about the current events of the Fundevogel.
+Here you will find everything you need to know about our upcoming events.
+
+It's also possible to subscribe to our event calendar - this way, all upcoming events will appear in your calendar or app automagically!
 
 If you want to see what we have done in the past, you can also find the past events (link: kalender/vergangene-veranstaltungen text: here).
 
