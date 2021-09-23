@@ -6,14 +6,11 @@
             <?= $page->text()->kt() ?>
         </div>
         <div class="mt-12 flex-none text-center">
-            <?php
-                if ($page->hasCover()) :
-                $file = $page->uid() . '.ics';
-            ?>
+            <?php if ($page->hasCover()) : ?>
             <a
                 class="lg:ml-12 group table relative"
-                download="<?= $file ?>"
-                href="<?= Str::replace($page->url(), 'https', 'webcal') . '/' . $file ?>"
+                download="<?= basename($iCal) ?>"
+                href="<?= $iCal ?>"
             >
                 <figure class="inline-block rounded-lg">
                     <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>

@@ -30,12 +30,12 @@
         e($end_date && date('d.m.Y', $end) !== date('d.m.Y', $start), t('Ende') . ': ' . date('d.m.Y', $end));
 
         # Event as calendar download
-        $file = $event->uid() . '.ics';
+        $iCal = $event->iCal();
     ?>
     <a
         class="mt-4 flex items-center"
-        download="<?= $file ?>"
-        href="<?= $page->url() . '/' . $file ?>"
+        download="<?= basename($iCal) ?>"
+        href="<?= $iCal ?>"
     >
         <?= useSVG($event->title(), 'w-6 h-6 fill-current', 'calendar-filled') ?>
         <span class="ml-2">
