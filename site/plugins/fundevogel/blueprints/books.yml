@@ -11,20 +11,20 @@ fields:
     width: 2/3
 
   icon:
-    extends: fields/icon
+    extends: fields/base/icon
     width: 1/3
 
   books: fields/books
 
   useDetails:
-    extends: fields/toggle
+    extends: fields/base/toggle
     label:
       de: Nur Details anzeigen?
       en: Only show details?
     width: 1/2
 
   useTaxonomy:
-    extends: fields/toggle
+    extends: fields/base/toggle
     label:
       de: Schlagworte verwenden?
       en: Use taxonomy?
