@@ -1,0 +1,139 @@
+Title: Willkommen in Oddleigh
+
+----
+
+Isbn: 978-3-95640-224-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Tor Freeman
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Matthias Wieland
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: Ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Krimis/Thriller, Mystery
+
+----
+
+Description:
+
+Hauptkommissarin Jessie und Sergeant Sid sollen in der kleinen Stadt Oddleigh für Recht und Ordnung sorgen. Für Kreuzworträtsel auf dem Polizeirevier bleibt dabei nicht viel Zeit, denn Oddleigh ist kein gewöhnlicher Ort. Überall gehen rätselhafte Dinge vor sich: Eine alte Villa mit einem schauerlichen Fluch, eine Raupensekte in heller Aufregung - furchtlos nehmen Jessie und Sid jeden noch so eigentümlichen Fall in Angriff...
+
+Skurrile und charmante Protagonisten, liebevolle Zeichnungen und überraschendes Storytelling - in "Willkommen in Oddleigh" schickt die englische Kinderbuchautorin Tor Freeman ihre jungen Leserinnen und Leser auf Abenteuer voller Spannung, Einfallsreichtum und schrägem Witz.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002605502/63715/10002/-3/Buecher/Tor-Freeman/Willkommen-in-Oddleigh
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- willkommen-in-oddleigh_tor-freeman.jpg
+
+----
+
+Categories: Kinderbuch, Comic
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

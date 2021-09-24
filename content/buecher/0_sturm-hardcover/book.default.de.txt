@@ -1,0 +1,135 @@
+Title: Sturm
+
+----
+
+Isbn: 978-3-7348-5028-8
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Christoph Scheuring
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Magellan
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 304
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Hurrikan, Klimaschutz, Tierschutz
+
+----
+
+Description: Eigentlich haben Nora und Johan nichts gemein außer einer gegenseitigen tiefen Verachtung. Sie ist eine militante Klima- und Tierschützerin aus Deutschland, die bereit ist, zum Schutz der Lebewesen sogar Gesetze zu brechen und ins Gefängnis zu gehen. Und er ist ein junger, wortkarger Fischer an der kanadischen Küste, der jeden Tag Tiere tötet und sich auch gar nichts anderes vorstellen kann. Als ein Gericht Nora zu Sozialstunden auf seinem Schiff verurteilt, beginnen stürmische Zeiten. Zuerst nur zwischen den beiden. Dann aber gerät das Schiff weit draußen auf dem Atlantik in den schlimmsten Hurrikan seit Menschengedenken. Dieser Sturm verändert alles. Auch ihre Sicht aufeinander.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002583852/63715/10002/-3/Buecher_Kinder--und-Jugend/Christoph-Scheuring/Sturm
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- sturm_christoph-scheuring.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: Heinrich-Wolgast-Preis
+
+----
+
+Awardedition: 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-preis-sturm-von-christoph-scheuring-ausgezeichnet
+
+----
+
+Participant: 

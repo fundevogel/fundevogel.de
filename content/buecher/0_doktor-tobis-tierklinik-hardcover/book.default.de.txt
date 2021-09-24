@@ -1,0 +1,136 @@
+Title: Doktor Tobis Tierklinik
+
+----
+
+Isbn: 978-3-8369-5382-5
+
+----
+
+Subtitle: Ein Tag im Krankenhaus
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Sharon Rentta
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Leena Flegler
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 0 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2011
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Krankenhaus, Ärzte
+
+----
+
+Description: Heute ist für Tobi Tapir ein ganz besonderer Tag! Denn heute arbeitet er als Arzt, genau wie seine Mama. So ein Krankenhaus ist ganz schön groß - und Dr. Tobi hat viel zu tun: Ein Leopard hat seine Flecken verloren, ein Hund hat einen Wecker verschluckt und eine Schlange hat sich aus Versehen verknotet. Doch ein guter Arzt weiß, wie er seinen Patienten helfen kann. Und Dr. Tobi ist nie um einen Einfall verlegen!Zusammen mit dem kleinen tapsigen Tapir erkunden Kinder ein Krankenhaus und erfahren auf höchst amüsante Weise viel darüber, was dort so alles geschieht. Das ideale Buch zum Thema Arzt und Krankenhaus!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460838789648/63715/10002/-3/Buecher_Bilderbuecher/Sharon-Rentta/Doktor-Tobis-Tierklinik
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  doktor-tobis-tierklinik_sharon-rentta.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: Heinrich-Wolgast-Preis
+
+----
+
+Awardedition: 2013
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

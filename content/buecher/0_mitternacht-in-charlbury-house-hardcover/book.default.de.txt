@@ -1,0 +1,140 @@
+Title: Mitternacht in Charlbury House
+
+----
+
+Isbn: 978-3-522-18515-8
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Helen Peters
+
+----
+
+Illustrator: Verena Körting
+
+----
+
+Translator: Cornelia Panzacchi
+
+----
+
+Publisher: Thienemann in der Thienemann-Esslinger Verlag GmbH
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 368
+
+----
+
+Price: 15,00
+
+----
+
+Topics: Abenteuer, Geister, Historische Romane/Erzählungen, Mädchen
+
+----
+
+Description:
+
+Unheimlich ist es in dem alten Herrenhaus. Und dann taucht mitten in der Nacht auch noch ein Geist auf! Panisch rennt Evi aus dem Schlafzimmer. Doch der Flur sieht plötzlich ganz anders aus. Und auch Evi trägt andere Kleidung. Auf unerklärliche Weise ist sie im Jahr 1814 gelandet. Fortan muss sie als Dienstmädchen Töpfe schrubben, Kamine fegen und Bettpfannen leeren. Nur wenn es ihr gelingt, ein Familiengeheimnis zu lösen, kann sie in die Gegenwart zurückkehren ...
+
+Atmosphärisch wie "Nacht über Frost Hollow Hall"
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002989106/63715/10002/-3/Buecher_Kinder--und-Jugend/Helen-Peters/Mitternacht-in-Charlbury-House
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  mitternacht-in-charlbury-house_helen-peters.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

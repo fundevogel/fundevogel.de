@@ -1,0 +1,136 @@
+Title: Seepferdchen sind ausverkauft
+
+----
+
+Isbn: 978-3-89565-391-9
+
+----
+
+Subtitle: Bilderbuch
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Constanze Spengler
+
+----
+
+Illustrator: Katja Gehrmann
+
+----
+
+Translator: 
+
+----
+
+Publisher: Moritz
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 2. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 48
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Haustiere / Heimtiere
+
+----
+
+Description: Mikas Papa arbeitet zwar daheim, steckt aber über beide Ohren in Arbeit. Der versprochene Baggerseebesuch scheint in weiter Ferne! Um sich Luft zu verschaffen, erlaubt er Mika, sich ein Haustierzu kaufen ...Damit beginnt eine wunderbar turbulente Geschichte, in deren Verlauf ein Tier nach dem anderen die Wohnung bevölkert, ohne dass der gestresste Papa etwas davon mitbekommt! Auf die Maus folgt ein Hund, auf den Hund ein Seehund, auf den Seehund ein Pinguin, auf den Pinguin ein Papagei, bis zuletzt ein kleiner, aber sehr musikalischer Elefant in die Wohnung einzieht ...Dieses Buch vorzulesen macht große Freude - Vorlesern wie Zuhörern!Auf den durchwegs doppelseitigen Bildtafeln gibt es viel zu entdecken, was der Text offen lässt und so ist dies ein Bilderbuch, nach dem Kinder immer wieder aufs Neue verlangen werden.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002544137/63715/10002/-3/Buecher_Bilderbuecher/Constanze-Spengler/Seepferdchen-sind-ausverkauft
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  seepferdchen-sind-ausverkauft_constanze-spengler.jpg
+
+----
+
+Categories: Bilderbuch, Vorlesebuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

@@ -1,0 +1,136 @@
+Title: Ringo, ich und ein komplett ahnungsloser Sommer
+
+----
+
+Isbn: 978-3-8369-6112-7
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Judith Burger
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 176
+
+----
+
+Price: 14,00
+
+----
+
+Topics: Eltern, Familie, Ferien, Freundschaft, Junge, Mädchen, Pubertät, Schwimmen, Sommer
+
+----
+
+Description: Draußen fliegt die Welt vorbei. Asta sitzt im Zug und vor ihr liegt der schönste Sommer aller Zeiten, bestimmt! Denn in Geschrey, am Ende der Welt, scheint die Sonne länger, der Regen ist weniger nass, die Zeit läuft langsamer - und hier wohnt Ringo. Mit ihrem besten Freund will Asta im See baden, abhängen, Eis essen, Blödsinn machen. Und Theater spielen: In diesem Sommer kriegt sie das erste Mal eine kleine Rolle im Sommertheater, das ihre Eltern jährlich in Geschrey inszenieren. Doch dann kommt alles ganz anders. Plötzlich ist Ringo der Star und Asta ist abgehängt. Hält das ihre Freundschaft aus? Nichts bleibt, wie es ist. Alles verändert sich. Nicht zuletzt man selbst. Eine Sommergeschichte voller Poesie und Leichtigkeit. Und die Geschichte einer großen Freundschaft.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003423359/63715/10002/-3/Buecher_Kinder--und-Jugend/Judith-Burger/Ringo-ich-und-ein-komplett-ahnungsloser-Sommer
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  ringo-ich-und-ein-komplett-ahnungsloser-sommer_judith-burger.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

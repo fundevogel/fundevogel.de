@@ -1,0 +1,135 @@
+Title: Perfect Storm
+
+----
+
+Isbn: 978-3-8369-6099-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Dirk Reinhardt
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 14 Jahren
+
+----
+
+Antolin: ab 9. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 414
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Hacker / Hacking, Krimis/Thriller
+
+----
+
+Description: LFF - das sind Dylan, Luisa, Felix, Boubacar, Kyoko und Matthew. Die jungen Hacker aus der ganzen Welt haben sich online bei einem Computerspiel kennengelernt und angefreundet.  Als sie von Menschenrechtsverletzungen im Kongo erfahren, in die zwei US-Konzerne verwickelt sind, beschließen sie, sich in deren Netzwerke einzuhacken. Sollte es ihnen gelingen, belastendes Material öffentlich zu machen, könnten die Enthüllungen einen weltweiten Sturm der Empörung auslösen. Doch ein junger Agent des amerikanischen Geheimdienstes ist ihnen auf der Spur ...Ein packender Thriller über sechs Jugendliche, die nicht tatenlos dabei zusehen wollen, wie skrupellose Konzerne mit menschenverachtenden Methoden Milliardengewinne machen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003422165/63715/10002/-3/Buecher_Kinder--und-Jugend/Dirk-Reinhardt/Perfect-Storm
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- perfect-storm_dirk-reinhardt.jpg
+
+----
+
+Categories: Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

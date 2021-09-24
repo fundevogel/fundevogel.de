@@ -1,0 +1,136 @@
+Title: Das Gespenst des Karl Marx
+
+----
+
+Isbn: 978-3-03734-432-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Ronan De Calan
+
+----
+
+Illustrator: Mary Donatien
+
+----
+
+Translator: Heinz Jatho
+
+----
+
+Publisher: diaphanes
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2014
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 14,95
+
+----
+
+Topics: Karl Marx, Kapitalismus, Geld
+
+----
+
+Description: §Ich bin Karl Marx... was ich unter diesem Tuch mache? Oh, das ist eine lange Geschichte - es ist die Geschichte des Klassenkampfes, und die ist nicht nur lang, sondern auch traurig! Aber wir wollen mal sehen, ob wir ihr nicht ein glückliches Ende verpassen können. Denn wozu soll man das Ende einer Geschichte erfinden, wenn es kein gutes Ende ist?§
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460844679412/63715/10002/-3/Buecher_Kinder--und-Jugend/Ronan-De-Calan/Das-Gespenst-des-Karl-Marx
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  das-gespenst-des-karl-marx_ronan-de-calan.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: true
+
+----
+
+Series: Platon & Co.
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: Heinrich-Wolgast-Preis
+
+----
+
+Awardedition: 2015
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/heinrich-wolgast-preis-fuer-das-gespenst-des-karl-marx
+
+----
+
+Participant: 
