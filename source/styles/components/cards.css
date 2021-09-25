@@ -39,9 +39,7 @@
 /* dashed card */
 
 .card.is-dashed {
-  @apply px-8;
-  @apply py-6;
-  @apply border-4;
+  @apply border-2;
   @apply border-dashed;
 }
 
