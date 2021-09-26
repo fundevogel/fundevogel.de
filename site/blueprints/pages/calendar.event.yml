@@ -3,56 +3,226 @@ title:
   en: Event
 icon: calendar
 
-num: '{{ page.date.toDate("Ymd") }}'
+num: "{{ page.date.toDate('Ymd') }}"
 
 options: options/post
 
-tabs:
-  # Content
-  tab_content:
-    extends: tabs/content
-    fields:
-      location:
-        label:
-          de: Veranstaltungsort
-          en: Event location
-        type: text
-        width: 2/3
-
-      date:
-        extends: fields/base/date
-        width: 1/3
-
-      link:
-        extends: fields/base/url
-        width: 2/3
-
-      category:
-        label:
-          de: Art der Veranstaltung
-          en: Event category
-        type: select
-        options:
-          # Author
-          Autorengespräch: Autorengespräch
-          Lesung: Lesung
-
-          # School + Kindergarten
-          "Kindergarteninterne Veranstaltung": Kindergarten
-          "Schulinterne Veranstaltung": Schule
-          "Veranstaltung für angemeldete Schulklassen": Schulklassen
-
-          # Generic
-          Büchertisch: Büchertisch
-          "Feier / Fest": Feier bzw. Fest
-          Weltgeschichtentag: Weltgeschichtentag
-          "Präsentation und Vorstellung ausgewählter Neuerscheinungen": HerbstLESE
-          "Lirum Larum Lesefest": LirumLarum
-
-        width: 1/3
-
-    sidebar:
-      sidebar_fields:
+columns:
+  left_column:
+    width: 1/2
+    sections:
+      left_fields:
         type: fields
         fields:
-          timescale: custom/calendar/timescale
+          text:
+            type: markdown
+
+          category:
+            extends: fields/base/select
+            label:
+              de: Art der Veranstaltung
+              en: Event category
+            width: 1/3
+            options:
+              # Author
+              Autorengespräch: Autorengespräch
+              Lesung: Lesung
+
+              # School + Kindergarten
+              "Kindergarteninterne Veranstaltung": Kindergarten
+              "Schulinterne Veranstaltung": Schule
+              "Veranstaltung für angemeldete Schulklassen": Schulklassen
+
+              # Generic
+              Büchertisch: Büchertisch
+              "Feier / Fest": Feier bzw. Fest
+              Weltgeschichtentag: Weltgeschichtentag
+              "Präsentation und Vorstellung ausgewählter Neuerscheinungen": HerbstLESE
+              "Lirum Larum Lesefest": LirumLarum
+
+          location:
+            label:
+              de: Veranstaltungsort
+              en: Event location
+            type: text
+            icon: map
+            width: 2/3
+
+          audience:
+            label:
+              de: Zielgruppe
+              en: Audience
+            type: text
+            width: 1/3
+
+          link:
+            extends: fields/base/url
+            width: 2/3
+
+          details:
+            type: markdown
+
+  right_column:
+    width: 1/2
+    sections:
+      right_fields:
+        type: fields
+        fields:
+          multipleDays:
+            extends: fields/base/toggle
+            label:
+              de: Mehrtägig?
+              en: Multi-day?
+            width: 1/3
+
+          date:
+            extends: fields/base/date
+            width: 1/3
+
+          dateEnd:
+            extends: fields/base/date
+            label:
+              de: Letzter Tag
+              en: Last day of the event
+            default: false
+            when:
+              multipleDays: true
+            width: 1/3
+
+          gap_one:
+            type: gap
+
+          showTime:
+            extends: fields/base/toggle
+            label:
+              de: Zeitangabe?
+              en: Exact time?
+            default: false
+            width: 1/3
+
+          timeStart:
+            extends: fields/base/time
+            label:
+              de: Beginn (Zeit)
+              en: Start (Time)
+            when:
+              showTime: true
+            width: 1/3
+
+          timeEnd:
+            extends: fields/base/time
+            label:
+              de: Ende (Zeit)
+              en: End (Time)
+            when:
+              showTime: true
+            width: 1/3
+
+          gap_two:
+            type: gap
+
+          costsAdmission:
+            extends: fields/base/toggle
+            label:
+              de: Eintrittspreis?
+              en: Admission fee?
+            default: false
+            width: 1/3
+
+          admissionChildren:
+            extends: fields/base/number
+            label:
+              de: Kinder
+              en: Children
+            step: .01
+            after: €
+            width: 1/3
+            when:
+              costsAdmission: true
+
+          admissionAdults:
+            extends: fields/base/number
+            label:
+              de: Erwachsene
+              en: Adults
+            step: .01
+            after: €
+            width: 1/3
+            when:
+              costsAdmission: true
+
+          gap_three:
+            type: gap
+
+          registrationRequired:
+            extends: fields/base/toggle
+            label:
+              de: Anmeldung notwendig?
+              en: Registration required?
+            default: false
+            width: 1/3
+
+          openUntil:
+            extends: fields/base/date
+            label:
+              de: .. bis?
+              en: .. by?
+            width: 1/3
+            when:
+              registrationRequired: true
+
+          seats:
+            extends: fields/base/number
+            label:
+              de: Verfügbare Plätze
+              en: Available seats
+            width: 1/3
+            after:
+              de: Plätze
+              en: seats
+            when:
+              registrationRequired: true
+
+          gap_four:
+            type: gap
+
+          infos:
+            extends: fields/base/checkboxes
+            label:
+              de: Benötigte Informationen
+              en: Information needed
+            options:
+              - Name
+              - Email
+              - Telefon
+              - Personenzahl
+            width: 1/2
+            when:
+              registrationRequired: true
+
+          contact:
+            extends: fields/base/checkboxes
+            label:
+              de: Kontaktmöglichkeiten
+              en: Contact details
+            options:
+              - im Laden
+              - via Email
+              - telefonisch
+              - per Telefax
+            width: 1/2
+            when:
+              registrationRequired: true
+
+          note:
+            label:
+              de: Freitext
+              en: Free text
+            type: markdown
+            help:
+              de: |
+                Dieser Text ist optional und wird unter den Angaben zur Anmeldung angezeigt.
+              en: |
+                This text is optional and will be shown below the information regarding registration.
+            when:
+              registrationRequired: true
