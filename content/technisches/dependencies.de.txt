@@ -54,23 +54,23 @@ Langdata:
 
 - 
   title: PHP
-  share: 66.7
+  share: 70.1
   color: '#4F5D95'
 - 
   title: TypeScript
-  share: 20.7
+  share: 18.7
   color: '#2b7489'
 - 
   title: Python
-  share: 6.6
+  share: 5.9
   color: '#3572A5'
 - 
   title: CSS
-  share: 4.2
+  share: 3.8
   color: '#563d7c'
 - 
   title: Shell
-  share: 1.5
+  share: 1.2
   color: '#89e051'
 - 
   title: Vue
@@ -99,16 +99,16 @@ Phpdata:
 - 
   maintainer: bnomei
   name: kirby3-feed
-  version: 1.3.10
+  version: 1.4.2
   license: MIT
   description: >
-    Generate a RSS/JSON-Feed from a
+    Generate a RSS/JSON/Sitemap-Feed from a
     Pages-Collection
   url: https://github.com/bnomei/kirby3-feed
 - 
   maintainer: bnomei
   name: kirby3-fingerprint
-  version: 3.0.13
+  version: 3.0.14
   license: MIT
   description: >
     File Method and css/js helper to add
@@ -119,7 +119,7 @@ Phpdata:
 - 
   maintainer: bnomei
   name: kirby3-janitor
-  version: 2.6.9
+  version: 2.9.0
   license: MIT
   description: >
     Kirby 3 Plugin for running jobs like
@@ -170,8 +170,16 @@ Phpdata:
     https://github.com/fundevogel/kirby3-donuts
 - 
   maintainer: fundevogel
+  name: php-mastodon
+  version: 0.6.0
+  license: GPL-3.0
+  description: "A small PHP library for interacting with Mastodon's REST API."
+  url: >
+    https://github.com/fundevogel/php-mastodon
+- 
+  maintainer: fundevogel
   name: php-pcbis
-  version: 2.0.2
+  version: 2.5.0
   license: GPL-3.0
   description: pcbis.de helper, written in PHP
   url: https://github.com/fundevogel/php-pcbis
@@ -213,7 +221,7 @@ Phpdata:
 - 
   maintainer: mzur
   name: kirby-uniform
-  version: 4.3.2
+  version: 5.0.0
   license: GPL-2.0-or-later
   description: >
     A versatile Kirby plugin to handle web
@@ -230,7 +238,7 @@ Phpdata:
 - 
   maintainer: s1syphos
   name: kirby3-dejure
-  version: 1.3.0
+  version: 1.4.3
   license: MIT
   description: >
     Auto-linking legal norms to dejure.org
@@ -262,7 +270,7 @@ Pkgdata:
 - 
   maintainer: atomiks
   name: tippy.js
-  version: 6.2.6
+  version: 6.3.1
   license: MIT
   description: >
     The complete tooltip, popover, dropdown,
@@ -307,7 +315,7 @@ Pkgdata:
 - 
   maintainer: metafizzy
   name: infinite-scroll
-  version: 3.0.6
+  version: 4.0.1
   license: GPL-3.0
   description: Automatically add next page
   url: >
@@ -325,7 +333,7 @@ Pkgdata:
 - 
   maintainer: tailwindlabs
   name: tailwindcss
-  version: 2.2.4
+  version: 2.2.7
   license: MIT
   description: >
     A utility-first CSS framework for
@@ -343,11 +351,11 @@ Licensetoken: GPL-3.0
 
 ----
 
-Loc: 5.307
+Loc: 5.809
 
 ----
 
-Commits: 26
+Commits: 37
 
 ----
 
