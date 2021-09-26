@@ -1,0 +1,135 @@
+Title: Die vier Schwestern
+
+----
+
+Isbn: 978-3-95640-188-6
+
+----
+
+Subtitle: 4 Jahreszeiten
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Malika Ferdjoukh
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Annette von der Weppen
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2019
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 152
+
+----
+
+Price: 20,00
+
+----
+
+Topics: Schwester / Schwestern
+
+----
+
+Description: Eigentlich sind es sogar fünf Schwestern, die in der alten Villa am Meer leben, aber Charlie, die Älteste, hat sich nach dem Tod der Eltern der Führung des Haushalts und der Erziehung ihrer vier Geschwister Enid, Hortense, Bettina und Geneviève verschrieben. Fünf Mädchen in einer windschiefen Villa am Meer, das riecht nach turbulenten Abenteuern, reichlich Zwist und abgrundtiefen Geheimnissen.Malika Ferdjoukhs Jugendromane strotzen vor vielschichtigen Figuren, deren Lebenslust so treffend wie charmant in Lucie Durbianos Zeichnungen eingefangen wird. "Die vier Schwestern - 4 Jahreszeiten" - hier dreht sich alles um die aufregende Gefühlswelt jugendlicher Mädchen.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000001755887/63715/10002/-3/Buecher_Kinder--und-Jugend/Malika-Ferdjoukh/Die-vier-Schwestern
+
+----
+
+Drawer: Lucie Durbiano
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- die-vier-schwestern_malika-ferdjoukh.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

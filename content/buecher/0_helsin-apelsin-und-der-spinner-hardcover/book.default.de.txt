@@ -1,0 +1,136 @@
+Title: Helsin Apelsin und der Spinner
+
+----
+
+Isbn: 978-3-407-75554-4
+
+----
+
+Subtitle: Roman
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Stefanie Höfler
+
+----
+
+Illustrator: Anke Kuhl
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 208
+
+----
+
+Price: 12,95
+
+----
+
+Topics: Emotion / Gefühl
+
+----
+
+Description: Der neue Roman für Kinder von Stefanie Höfler!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002535176/63715/10002/-3/Buecher_Kinder--und-Jugend/Stefanie-Hoefler/Helsin-Apelsin-und-der-Spinner
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  helsin-apelsin-und-der-spinner_stefanie-hoefler.jpg
+
+----
+
+Categories: Kinderbuch, Vorlesebuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

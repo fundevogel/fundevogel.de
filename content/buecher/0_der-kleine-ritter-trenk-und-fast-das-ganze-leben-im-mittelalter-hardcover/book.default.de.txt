@@ -1,0 +1,136 @@
+Title: Der kleine Ritter Trenk und fast das ganze Leben im Mittelalter
+
+----
+
+Isbn: 978-3-7891-8530-4
+
+----
+
+Subtitle: Ein Ritterabenteuer mit ziemlich viel Sachwissen
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Kirsten Boie
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Oetinger
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 4. Klasse
+
+----
+
+Releaseyear: 2012
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 272
+
+----
+
+Price: 19,00
+
+----
+
+Topics: Mittelalter, Ritter
+
+----
+
+Description: Auf ins Mittelalter! Ein Geschichtsausflug mit dem kleinen Ritter Trenk.Gibt der böse Ritter Wertolt denn niemals Ruhe? Nun will er die freundliche Drachenfamilie erschlagen. Doch das lassen Trenk und seine Freundin Thekla nicht zu! Nach jedem Kapitel führt ein umfangreicher Sachteil in das Leben der Menschen im Mittelalter ein. Wie war das damals mit der Schule? Warum durfte man beim Essen rülpsen, sich aber nicht ins Tischtuch schnäuzen? Wie wurden Handwerker ausgebildet, was bedeutete es, ein Leibeigener zu sein und welche Waffen trugen die Ritter? Außerdem gibt es Bastel- und Rezeptanregungen und man erfährt Erstaunliches über auch heute noch gebräuchliche Sprichwörter. Kirsten Boie lädt in ihrem Buch mit prachtvollen Illustrationen von Barbara Scholz, einem hinreißenden Trenk-Abenteuer, spielerisch aufbereitetem Wissen über das Leben in jener Zeit und Beschäftigungstipps zu einem ebenso spannenden wie lehrreichen Ausflug ins Mittelalter ein.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/4099276460840745524/63715/10002/-3/Buecher_Kinder--und-Jugend/Kirsten-Boie/Der-kleine-Ritter-Trenk-und-fast-das-ganze-Leben-im-Mittelalter
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-kleine-ritter-trenk-und-fast-das-ganze-leben-im-mittelalter_kirsten-boie.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: true
+
+----
+
+Series: Der kleine Ritter Trenk
+
+----
+
+Volume: 4
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: Barbara Scholz

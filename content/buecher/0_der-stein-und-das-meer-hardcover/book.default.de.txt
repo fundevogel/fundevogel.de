@@ -1,0 +1,136 @@
+Title: Der Stein und das Meer
+
+----
+
+Isbn: 978-3-95854-151-1
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Alexandra Helmig
+
+----
+
+Illustrator: Stefanie Harjes
+
+----
+
+Translator: 
+
+----
+
+Publisher: mixtvision
+
+----
+
+Age: ab 3 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 32
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Geduld, Zeit / Zeitmessung
+
+----
+
+Description: Jeden Tag schaut der Stein Sören sehnsuchtsvoll von seinem Felsen aus aufs Meer. So gerne möchte er das Meer spüren und seine Geheimnisse ergründen. Aber er muss warten - für eine sehr lange Zeit. Zarte Illustrationen von Stefanie Harjes und der poetische Text von Alexandra Helmig entführen von der Hektik des Alltags und lassen uns die Geduld neu entdecken.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002537096/63715/10002/-3/Buecher_Kinder--und-Jugend/Alexandra-Helmig/Der-Stein-und-das-Meer---Nominiert-fuer-den-Deutschen-Jugendliteraturpreis-
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  der-stein-und-das-meer_alexandra-helmig.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 
