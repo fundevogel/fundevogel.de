@@ -8,6 +8,7 @@ return function ($page) {
         ->listed()
         ->filterBy('intendedTemplate', 'in', [
             'news.toot',
+            'news.event',
             'news.article',
             'news.recommendation',
         ])->flip();

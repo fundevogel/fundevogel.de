@@ -99,6 +99,7 @@ tabs:
           posts_drafts:
             templates:
               - news.toot
+              - news.event
               - news.article
               - news.recommendation
             parent: site.find('news')
@@ -106,6 +107,7 @@ tabs:
           posts_unlisted:
             templates:
               - news.toot
+              - news.event
               - news.article
               - news.recommendation
             parent: site.find('news')
@@ -115,6 +117,7 @@ tabs:
           posts_listed:
             templates:
               - news.toot
+              - news.event
               - news.article
               - news.recommendation
             parent: site.find('news')

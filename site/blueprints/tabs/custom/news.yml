@@ -14,12 +14,14 @@ columns:
       posts_drafts:
         templates:
           - news.toot
+          - news.event
           - news.article
           - news.recommendation
 
       posts_unlisted:
         templates:
           - news.toot
+          - news.event
           - news.article
           - news.recommendation
 
@@ -28,5 +30,6 @@ columns:
       posts_listed:
         templates:
           - news.toot
+          - news.event
           - news.article
           - news.recommendation

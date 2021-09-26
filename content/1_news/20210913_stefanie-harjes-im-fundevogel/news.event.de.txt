@@ -1,0 +1,29 @@
+Title: Stefanie Harjes im Fundevogel
+
+----
+
+Text:
+
+Wir freuen uns auf einen spannenden Nachmittag mit euch!
+
+Euer Team vom
+**Fundevogel**
+
+----
+
+Date: 2021-09-13
+
+----
+
+Event:
+
+- >
+  kalender/veranstaltungen/stefanie-harjes-im-fundevogel
+
+----
+
+Subtitle-wanted: true
+
+----
+
+Subtitle: Lirum Larum Lesefest

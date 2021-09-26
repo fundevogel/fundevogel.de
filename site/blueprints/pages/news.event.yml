@@ -1,0 +1,39 @@
+title:
+  de: Kalendereintrag
+  en: Calendar entry
+
+num: "{{ page.date.toDate('Ymd') }}"
+
+options: options/post
+
+tabs:
+  # Content
+  tab_content:
+    extends: tabs/content
+    fields:
+      text:
+        help:
+          de: |
+            Dieser Text ist optional und erscheint unter dem Einleitungstext der Veranstaltung.
+          en: |
+            This text is optional and will be shown below the introductory text of the event.
+
+    sidebar:
+      sidebar_fields:
+        type: fields
+        fields:
+          date: fields/base/date
+
+          event:
+            label:
+              de: Veranstaltung
+              en: Event
+            type: pages
+            multiple: false
+            query: kirby.collection('events/current')
+            info: "{{ page.date.toDate('d.m.Y') }}"
+            required: true
+            translate: false
+
+  # Files
+  tab_files: tabs/files
