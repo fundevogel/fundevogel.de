@@ -58,6 +58,6 @@ return [
             '<ol class="list">',
         ];
 
-        return preg_replace($from, $to, $field->value());
+        return Str::replace(preg_replace($from, $to, $field->value()), ' class="invisible"', '');
     },
 ];
