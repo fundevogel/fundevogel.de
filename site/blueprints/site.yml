@@ -122,6 +122,49 @@ tabs:
               - news.recommendation
             parent: site.find('news')
 
+  # Events
+  tab_events:
+    label:
+      de: Veranstaltungen
+      en: Events
+    icon: calendar
+    columns:
+      left:
+        width: 1/2
+        sections:
+          lesetipps_info:
+            extends: sections/info
+            text:
+              de: |
+                Um eine **neue Veranstaltung** anzulegen, wähle links "Hinzufügen", gib den Namen der Veranstaltung an und bestätige mit "Entwurf anlegen". Anschließend kannst du Texte schreiben und Bilder hochladen bzw. bearbeiten.
+
+                **Hinweis:** Danach muss die Veranstaltung noch "veröffentlicht" werden: Klicke einfach unter der Überschrift der Veranstaltung auf "Entwurf" und ändere den Status auf "Öffentlich".
+              en: |
+                Adding a **new event** is pretty simple, just choose "Add" on the left side, enter the title of the event and hit "Create draft". After that, you can write texts and upload images or edit them.
+
+                **Note:** After that the event still has to be "published". In order to do that, click on "Draft" (below the event's title) and change the status to "Published".
+
+      right:
+        width: 1/2
+        sections:
+          lesetipps_drafts:
+            extends: sections/drafts
+            template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
+
+          lesetipps_unlisted:
+            extends: sections/unlisted
+            template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
+
+      full:
+        sections:
+          lesetipps_listed:
+            extends: sections/listed
+            layout: cards
+            template: calendar.event
+            parent: site.find('kalender/veranstaltungen')
+
   # Settings
   tab_settings:
     extends: tabs/content
