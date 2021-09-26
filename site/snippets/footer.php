@@ -34,12 +34,6 @@
                                 <?= useSVG('Feed', 'w-6 h-6 fill-current') ?>
                                 <span class="px-2"><?= t('Abonnieren') ?></span>
                             </a>
-                            <?php if ($site->instagram()->isNotEmpty()) : ?>
-                            <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->instagram() ?>" title="<?= t('Instagram') ?>" target="_blank">
-                                <?= useSVG('Instagram', 'w-6 h-6 fill-current') ?>
-                                <span class="px-2"><?= t('Digitale Geschichten') ?></span>
-                            </a>
-                            <?php endif ?>
                             <?php if ($site->mastodon()->isNotEmpty()) : ?>
                             <a class="js-tippy flex justify-center items-center mb-2 sm:mr-3 outline-none" href="<?= $site->mastodon() ?>" title="<?= t('Mastodon') ?>" target="_blank" rel="me">
                                 <?= useSVG('Mastodon', 'w-6 h-6 fill-current') ?>

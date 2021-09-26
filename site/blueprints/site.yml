@@ -137,10 +137,6 @@ tabs:
         label: Online-Shop
         required: true
 
-      instagram:
-        extends: fields/base/url
-        label: Instagram
-
       mastodon:
         extends: fields/base/url
         label: Mastodon
