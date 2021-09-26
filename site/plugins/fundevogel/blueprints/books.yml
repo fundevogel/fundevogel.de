@@ -19,8 +19,8 @@ fields:
   useDetails:
     extends: fields/base/toggle
     label:
-      de: Nur Details anzeigen?
-      en: Only show details?
+      de: Details anzeigen?
+      en: Show details?
     width: 1/2
 
   useTaxonomy:
