@@ -10,7 +10,7 @@ Date: 2016-10-15
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -30,23 +30,23 @@ Zaeris Veranstaltungen zeichnen sich dadurch aus, dass der Künstler während de
 
 ----
 
-Begin-time: 15:00:00
+Timestart: 15:00:00
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2016-10-15
+Dateend: 2016-10-15
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

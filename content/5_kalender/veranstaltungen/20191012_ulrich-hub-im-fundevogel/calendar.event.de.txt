@@ -10,7 +10,7 @@ Date: 2019-10-12
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,20 +22,20 @@ Text: Im Rahmen des Lirum Larum Lesefestes werden wir dieses Jahr den den Schrif
 
 ----
 
-Begin-time: 15:00:00
+Timestart: 15:00:00
 
 ----
 
-End-time: 16:30:00
+Timeend: 16:30:00
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false

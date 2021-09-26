@@ -33,19 +33,27 @@
     <?php foreach($openEvents as $timeRange => $events) : ?>
     <h2 class="mb-8 text-center"><?= $timeRange ?></h2>
     <?php foreach($events as $event) : ?>
-    <article class="container px-4">
+    <article class="">
         <div class="flex flex-col lg:flex-row">
             <div class="flex-1">
                 <h3><?= $event->title()->html() ?></h3>
                 <?= $event->text()->kt() ?>
             </div>
-            <aside class="lg:ml-10 pt-4 lg:pt-10 lg:max-w-sm">
-                <div class="card">
-                    <h4><?= t('Termin im Überblick') ?></h4>
-                    <?php snippet('calendar/quick-view', compact('event')) ?>
-                </div>
+            <aside class="lg:ml-10 pt-4 lg:pt-10 w-full lg:max-w-xs">
+                <?php snippet('calendar/quickview', compact('event')) ?>
             </aside>
         </div>
+        <?php if ($event->details()->isNotEmpty()) : ?>
+        <div class="mt-12">
+            <?= $event->details()->kt() ?>
+        </div>
+        <?php endif ?>
+        <?php if ($event->registrationRequired()->bool()) : ?>
+        <aside class="mt-12 px-8 py-6 card is-dashed">
+            <?php snippet('calendar/registration', compact('event')) ?>
+        </aside>
+        <?php endif ?>
+
     </article>
     <?php e($event !== $events->last(), '<hr class="max-w-xs">') ?>
     <?php endforeach ?>

@@ -18,7 +18,7 @@
 <?php endif ?>
 <?php if ($page->hasAward()) : ?>
 <aside class="container">
-    <div class="mt-12 card is-dashed">
+    <div class="mt-12 px-8 py-6 card is-dashed">
         <?php snippet('lesetipps/award/' . $page->getAward()['identifier']) ?>
     </div>
 </aside>

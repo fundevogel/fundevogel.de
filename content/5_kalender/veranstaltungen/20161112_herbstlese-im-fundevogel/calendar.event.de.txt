@@ -10,7 +10,7 @@ Date: 2016-11-12
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -30,23 +30,23 @@ Aus der Vielzahl der Neuheiten haben wir für Sie eine Auswahl von empfehlenswer
 
 ----
 
-Begin-time: 19:00:00
+Timestart: 19:00:00
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2016-11-12
+Dateend: 2016-11-12
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

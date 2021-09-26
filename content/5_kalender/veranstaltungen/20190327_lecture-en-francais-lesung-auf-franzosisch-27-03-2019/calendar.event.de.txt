@@ -10,7 +10,7 @@ Date: 2019-03-27
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -29,23 +29,23 @@ Entrée libre - Sur inscription : 0761/25218 ou info@fundevogel.de
 
 ----
 
-Begin-time: 15:00:00
+Timestart: 15:00:00
 
 ----
 
-End-time: 17:00:00
+Timeend: 17:00:00
 
 ----
 
-End-date: 2019-03-27
+Dateend: 2019-03-27
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

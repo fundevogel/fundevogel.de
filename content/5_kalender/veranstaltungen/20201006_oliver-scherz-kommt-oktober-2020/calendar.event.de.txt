@@ -10,7 +10,7 @@ Date: 2020-10-06
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -31,20 +31,20 @@ Wir freuen uns auf euch!
 
 ----
 
-Begin-time: 16:00:00
+Timestart: 16:00:00
 
 ----
 
-End-time: 17:00:00
+Timeend: 17:00:00
 
 ----
 
-End-date: 2020-10-06
+Dateend: 2020-10-06
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true

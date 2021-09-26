@@ -10,7 +10,7 @@ Date: 2018-08-04
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Wir freuen uns schon jetzt auf ein schönes Stadionfest und ein spannendes Jubil
 
 ----
 
-Begin-time: 11:00:00
+Timestart: 11:00:00
 
 ----
 
-End-time: 16:00:00
+Timeend: 16:00:00
 
 ----
 
-End-date: 2018-08-04
+Dateend: 2018-08-04
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

@@ -10,7 +10,7 @@ Date: 2019-10-13
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,20 +26,20 @@ Nähere Infos und die genauen Zeiten der Veranstaltung werden noch bekannt gegeb
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: false
+Showtime: false
 
 ----
 
-Multiple-days: false
+Multipledays: false

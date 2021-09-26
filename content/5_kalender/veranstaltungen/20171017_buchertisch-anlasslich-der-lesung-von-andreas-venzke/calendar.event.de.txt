@@ -10,7 +10,7 @@ Date: 2017-10-17
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Büchertisch bei der Veranstaltung mit dem Füchsleclub des SC-Freiburg: �
 
 ----
 
-Begin-time: 11:30:00
+Timestart: 11:30:00
 
 ----
 
-End-time: 12:30:00
+Timeend: 12:30:00
 
 ----
 
-End-date: 2017-10-17
+Dateend: 2017-10-17
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

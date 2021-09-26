@@ -10,7 +10,7 @@ Date: 2019-02-02
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -28,23 +28,23 @@ Der Eintritt ist frei! Anmeldung bitte telefonisch: 0761 / 207 39 0 oder per Mai
 
 ----
 
-Begin-time: 11:00:00
+Timestart: 11:00:00
 
 ----
 
-End-time: 14:00:00
+Timeend: 14:00:00
 
 ----
 
-End-date: 2019-02-02
+Dateend: 2019-02-02
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

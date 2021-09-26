@@ -10,7 +10,7 @@ Date: 2018-10-16
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Die Veranstaltung richtet sich an Kinder im Alter von 4-7 Jahren und wird ca. 1,
 
 ----
 
-Begin-time: 15:00:00
+Timestart: 15:00:00
 
 ----
 
-End-time: 16:30:00
+Timeend: 16:30:00
 
 ----
 
-End-date: 2018-10-16
+Dateend: 2018-10-16
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

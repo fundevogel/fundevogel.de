@@ -2,7 +2,7 @@ Title: Buchausstellung im Kindergarten St. Gallus
 
 ----
 
-Location: 
+Location:
 
 ----
 
@@ -10,32 +10,32 @@ Date: 2019-11-17
 
 ----
 
-Link: 
+Link:
 
 ----
 
-Category: 
+Category:
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false

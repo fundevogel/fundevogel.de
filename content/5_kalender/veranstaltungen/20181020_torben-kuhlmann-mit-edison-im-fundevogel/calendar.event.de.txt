@@ -10,7 +10,7 @@ Date: 2018-10-20
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Die Veranstaltung richtet sich an Kinder und Erwachsene ab 5 Jahren und wird ca.
 
 ----
 
-Begin-time: 14:00:00
+Timestart: 14:00:00
 
 ----
 
-End-time: 15:30:00
+Timeend: 15:30:00
 
 ----
 
-End-date: 2018-10-20
+Dateend: 2018-10-20
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

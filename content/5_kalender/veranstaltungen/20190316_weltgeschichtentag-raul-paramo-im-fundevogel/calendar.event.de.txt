@@ -30,23 +30,23 @@ Das komplette Programm der Weltgeschichtentage gibt es unter: www.weltgeschichte
 
 ----
 
-Begin-time: 12:00:00
+Timestart: 12:00:00
 
 ----
 
-End-time: 13:30:00
+Timeend: 13:30:00
 
 ----
 
-End-date: 2019-03-16
+Dateend: 2019-03-16
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

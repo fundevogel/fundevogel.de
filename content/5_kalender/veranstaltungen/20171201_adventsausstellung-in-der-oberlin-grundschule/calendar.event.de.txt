@@ -10,7 +10,7 @@ Date: 2017-12-01
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Zum Adventscafé präsentiert der Fundevogel einen bunten Strauß von Büc
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-12-02
+Dateend: 2017-12-02
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true
 
 ----
 

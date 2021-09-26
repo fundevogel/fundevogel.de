@@ -10,7 +10,7 @@ Date: 2018-10-21
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Zum großen Abschlussfest des diesjährigen **Lirum Larum Lesefestes** im 
 
 ----
 
-Begin-time: 12:30:00
+Timestart: 12:30:00
 
 ----
 
-End-time: 18:00:00
+Timeend: 18:00:00
 
 ----
 
-End-date: 2018-10-21
+Dateend: 2018-10-21
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

@@ -10,7 +10,7 @@ Date: 2018-03-17
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -31,23 +31,23 @@ Informationen und das komplette Programm zum Weltgeschichtentag findet ihr unter
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2018-03-17
+Dateend: 2018-03-17
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

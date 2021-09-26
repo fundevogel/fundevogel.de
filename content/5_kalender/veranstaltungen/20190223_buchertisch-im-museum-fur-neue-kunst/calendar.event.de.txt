@@ -10,7 +10,7 @@ Date: 2019-02-23
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -25,23 +25,23 @@ Die Teilnahme an der Lesung kostet den regulären Museums-Eintritt.
 
 ----
 
-Begin-time: 15:00:00
+Timestart: 15:00:00
 
 ----
 
-End-time: 16:00:00
+Timeend: 16:00:00
 
 ----
 
-End-date: 2019-02-23
+Dateend: 2019-02-23
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 
