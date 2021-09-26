@@ -10,7 +10,7 @@ Date: 2017-03-29
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -28,23 +28,23 @@ Bitte prüft am Tag der Lesung auf unserer Webseite oder beim (link: http://www.
 
 ----
 
-Begin-time: 15:30:00
+Timestart: 15:30:00
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-03-29
+Dateend: 2017-03-29
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

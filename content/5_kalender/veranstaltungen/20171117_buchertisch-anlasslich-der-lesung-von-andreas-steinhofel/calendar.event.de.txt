@@ -10,7 +10,7 @@ Date: 2017-11-17
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Mit seinem neuen Rico-Oskar-Buch ist Andreas Steinhöfel zu Gast im Literaturhau
 
 ----
 
-Begin-time: 17:00:00
+Timestart: 17:00:00
 
 ----
 
-End-time: 18:30:00
+Timeend: 18:30:00
 
 ----
 
-End-date: 2017-11-17
+Dateend: 2017-11-17
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

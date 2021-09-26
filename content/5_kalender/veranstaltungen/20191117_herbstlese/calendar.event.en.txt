@@ -15,31 +15,31 @@ Um Anmeldung wird gebeten.
 
 ----
 
-Begin-time: 19:00
+Timestart: 19:00
 
 ----
 
-End-time: 21:00
+Timeend: 21:00
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 
-Location: 
+Location:
 
 ----
 
-Link: 
+Link:
 
 ----
 

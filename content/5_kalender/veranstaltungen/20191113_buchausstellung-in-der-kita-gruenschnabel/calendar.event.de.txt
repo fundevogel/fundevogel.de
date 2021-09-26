@@ -10,7 +10,7 @@ Date: 2019-11-13
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -18,24 +18,24 @@ Category: Kindergarteninterne Veranstaltung
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2019-11-22
+Dateend: 2019-11-22
 
 ----
 
-Show-time: false
+Showtime: false
 
 ----
 
-Multiple-days: true
+Multipledays: true

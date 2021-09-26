@@ -1,37 +1,37 @@
-Location: 
+Location:
 
 ----
 
-Date: 
+Date:
 
 ----
 
-Link: 
+Link:
 
 ----
 
-Category: 
+Category:
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false

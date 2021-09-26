@@ -10,7 +10,7 @@ Date: 2017-11-30
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -18,27 +18,27 @@ Category: Schulinterne Veranstaltung
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-12-01
+Dateend: 2017-12-01
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true
 
 ----
 

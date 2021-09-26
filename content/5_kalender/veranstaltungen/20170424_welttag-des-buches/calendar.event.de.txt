@@ -26,23 +26,23 @@ Informationen zur Anmeldung für 2018 unter 0761/25218 oder (link: http://www.we
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-05-12
+Dateend: 2017-05-12
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true
 
 ----
 

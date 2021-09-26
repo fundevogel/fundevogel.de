@@ -10,7 +10,7 @@ Date: 2018-09-30
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Wir freuen uns das Gemeindefest der Friedenskirche zum Erntedank mit einem
 
 ----
 
-Begin-time: 11:00:00
+Timestart: 11:00:00
 
 ----
 
-End-time: 16:00:00
+Timeend: 16:00:00
 
 ----
 
-End-date: 2018-09-30
+Dateend: 2018-09-30
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

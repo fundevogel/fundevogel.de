@@ -10,7 +10,7 @@ Date: 2017-06-22
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -27,23 +27,23 @@ In Zusammenarbeit u.a. mit dem Literaturbüro Freiburg.*
 
 ----
 
-Begin-time: 16:30:00
+Timestart: 16:30:00
 
 ----
 
-End-time: 18:00:00
+Timeend: 18:00:00
 
 ----
 
-End-date: 2017-06-22
+Dateend: 2017-06-22
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

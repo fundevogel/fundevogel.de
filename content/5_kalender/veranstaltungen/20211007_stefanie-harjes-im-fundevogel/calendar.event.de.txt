@@ -4,41 +4,11 @@ Title: Stefanie Harjes im Fundevogel
 
 Text:
 
-Wir freuen wir uns sehr, euch im Rahmen des **28. Lirum Larum Lesefestes **zu einer besonderen Veranstaltung zu uns in den Fundevogel einladen zu dürfen.
+Wir freuen wir uns sehr, euch im Rahmen des **28. Lirum Larum Lesefestes** zu einer besonderen Veranstaltung zu uns in den Fundevogel einladen zu dürfen:
 
-Am **Donnerstag, dem 07. Oktober 2021 um 15 Uhr** kommt **Stefanie Harjes** zu uns! Sie ist Illustratorin und hat viele wunderbare Bilderbücher gestaltet, die ihr vielleicht schon bei uns entdeckt oder im Bücherregal stehen habt: „Der Stein und das Meer“ oder „Wen du brauchst“ zum Beispiel.
+Am **Donnerstag, dem 07. Oktober 2021 um 15 Uhr** kommt **Stefanie Harjes** zu uns! Sie ist Illustratorin und hat viele wunderbare Bilderbücher gestaltet, die ihr vielleicht schon bei uns entdeckt oder im Bücherregal stehen habt: "Der Stein und das Meer" oder "Wen du brauchst" zum Beispiel.
 
-Wenn ihr sie noch nicht kennt, macht das aber gar nichts – sie stellt sich euch gerne vor! Und vor allem möchte sie gemeinsam mit euch basteln, kreativ werden, erfinden! Freut euch auf einen spannenden Workshop.
-
-Aus einem Papierschnipsel oder einer Linie kann alles entstehen! Und das Beste ist: Kunst kann jede/r! Aus Materialfundstücken erfinden wir bisher noch unentdeckte Wesen. Aus dem (fast) Nichts wächst ein einziges Bild, zu dessen Gelingen wir alle gemeinsam beitragen, allein und miteinander. Am Ende des Workshops dürfen alle Beteiligten natürlich ihre eigenen Kreationen mit nach Hause nehmen, ist doch klar!
-
-**Alles, was ihr dafür braucht, ist:**
-Papierreste und „missglückte“ Kunstwerke, die zerschnitten werden dürfen
-
-**Alles, was wir dafür brauchen, ist:**
-eure Namen, Telefonnummer und Personenanzahl, mit der ihr kommt.
-
-Die Plätze sind begrenzt, deswegen **meldet euch bitte bis zum 1.10. bei uns an!**
-Nach dem Workshop gibt es um 17 Uhr eine öffentliche Signierstunde, da könnt ihr Stefanie Harjes zum Beispiel um ein Autogramm in eurem Bilderbuch bitten. Oder ein neues Lieblingsbuch bei uns kaufen.
-
-Wir freuen uns auf einen spannenden Nachmittag mit euch!
-
-Euer Team vom Fundevogel
-
-*Für Kinder ab 5 Jahren. Der Eintritt ist frei.
-Begrenzte Platzzahl! Bitte anmelden per Telefon, (email: info@fundevogel.de text: E-Mail) oder Fax.*
-
-----
-
-Location: Buchhandlung Fundevogel
-
-----
-
-Date: 2021-10-07
-
-----
-
-Link: 
+Wenn Ihr sie noch nicht kennt, macht das aber gar nichts – sie stellt sich Euch gerne vor! Und vor allem möchte sie gemeinsam mit Euch basteln, kreativ werden, erfinden - freut Euch auf einen spannenden Workshop!
 
 ----
 
@@ -46,20 +16,77 @@ Category: Lirum Larum Lesefest
 
 ----
 
-Multiple-days: true
+Location: Buchhandlung Fundevogel
 
 ----
 
-End-date: 2021-10-07
+Audience: Für Kinder ab 5 Jahren
 
 ----
 
-Show-time: true
+Link: https://www.freiburg.de/pb/,(anker1606622)/370683.html#anker1606622_Mi7
 
 ----
 
-Begin-time: 15:00:00
+Details:
+
+Aus einem Papierschnipsel oder einer Linie kann alles entstehen! Und das Beste ist: Kunst kann jede:r! Aus Materialfundstücken erfinden wir bisher noch unentdeckte Wesen. Aus dem (fast) Nichts wächst ein einziges Bild, zu dessen Gelingen wir alle gemeinsam beitragen, allein und miteinander. Am Ende des Workshops dürfen alle Beteiligten natürlich ihre eigenen Kreationen mit nach Hause nehmen, ist doch klar!
+
+**Was ihr braucht:**
+Papierreste und "missglückte" Kunstwerke, die zerschnitten werden dürfen!
+
+Nach dem Workshop gibt es um 17 Uhr eine öffentliche Signierstunde, da könnt Ihr Stefanie Harjes zum Beispiel um ein Autogramm in eurem Bilderbuch bitten. Oder ein neues Lieblingsbuch bei uns kaufen.
+
+Wir freuen uns auf einen spannenden Nachmittag mit Euch!
 
 ----
 
-End-time: 17:00:00
+Multipledays: false
+
+----
+
+Date: 2021-10-07
+
+----
+
+Dateend: 
+
+----
+
+Showtime: true
+
+----
+
+Timestart: 15:00:00
+
+----
+
+Timeend: 17:00:00
+
+----
+
+Costsadmission: false
+
+----
+
+Registrationrequired: true
+
+----
+
+Openuntil: 2021-10-01
+
+----
+
+Infos: Name, Telefon, Personenzahl
+
+----
+
+Contact: via Email, telefonisch, per Telefax
+
+----
+
+Note: Für den Workshop benötigt ihr Papierreste oder "missglückte" Kunstwerke, die zerschnitten werden dürfen!
+
+----
+
+Age: Kinder ab 5 Jahren

@@ -10,7 +10,7 @@ Date: 2017-04-24
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -18,27 +18,27 @@ Category: Kindergarteninterne Veranstaltung
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-04-28
+Dateend: 2017-04-28
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true
 
 ----
 

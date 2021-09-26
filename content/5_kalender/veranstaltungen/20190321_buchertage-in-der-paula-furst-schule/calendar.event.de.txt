@@ -10,7 +10,7 @@ Date: 2019-03-21
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -18,27 +18,27 @@ Category: Schulinterne Veranstaltung
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2019-03-22
+Dateend: 2019-03-22
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: true
+Multipledays: true
 
 ----
 

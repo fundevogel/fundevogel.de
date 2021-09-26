@@ -10,7 +10,7 @@ Date: 2017-09-24
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Wie jedes Jahr freuen wir uns besonders am Fest der Friedensgemeinde anläßlich
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2017-09-24
+Dateend: 2017-09-24
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

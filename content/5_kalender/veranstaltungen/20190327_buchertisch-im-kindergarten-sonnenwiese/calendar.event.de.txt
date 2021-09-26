@@ -10,7 +10,7 @@ Date: 2019-03-27
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -18,27 +18,27 @@ Category: Kindergarteninterne Veranstaltung
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2019-03-27
+Dateend: 2019-03-27
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

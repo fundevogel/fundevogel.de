@@ -10,7 +10,7 @@ Date: 2017-10-13
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Wir sind mit dem SC-Freiburg und dem Füchsle in Sachen "Fußball und lese
 
 ----
 
-Begin-time: 09:45:00
+Timestart: 09:45:00
 
 ----
 
-End-time: 10:45:00
+Timeend: 10:45:00
 
 ----
 
-End-date: 2017-10-13
+Dateend: 2017-10-13
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

@@ -10,7 +10,7 @@ Date: 2019-10-11
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,20 +22,20 @@ Text: Wir freuen uns im Rahmen des Lirum Larum Lesefestes den Autor **Finn-Ole H
 
 ----
 
-Begin-time: 17:00:00
+Timestart: 17:00:00
 
 ----
 
-End-time: 18:30:00
+Timeend: 18:30:00
 
 ----
 
-End-date: 
+Dateend:
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false

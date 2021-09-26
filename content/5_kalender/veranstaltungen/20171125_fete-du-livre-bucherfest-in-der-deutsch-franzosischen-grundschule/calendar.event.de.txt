@@ -10,7 +10,7 @@ Date: 2017-11-25
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -22,23 +22,23 @@ Text: Anlässlich des deutsch-französischen Bücherfests präsentieren wir Ihne
 
 ----
 
-Begin-time: 12:00:00
+Timestart: 12:00:00
 
 ----
 
-End-time: 16:30:00
+Timeend: 16:30:00
 
 ----
 
-End-date: 2017-11-25
+Dateend: 2017-11-25
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

@@ -10,7 +10,7 @@ Date: 2018-03-08
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -26,23 +26,23 @@ Bei ihrem Besuch in unserer Buchhandlung können die Schüler aus Frankreich in 
 
 ----
 
-Begin-time: 
+Timestart:
 
 ----
 
-End-time: 
+Timeend:
 
 ----
 
-End-date: 2018-03-08
+Dateend: 2018-03-08
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

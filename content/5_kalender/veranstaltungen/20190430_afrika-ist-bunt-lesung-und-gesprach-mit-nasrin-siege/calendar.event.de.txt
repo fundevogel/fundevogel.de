@@ -10,7 +10,7 @@ Date: 2019-04-30
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -27,23 +27,23 @@ Nähere Informationen zur Veranstaltung unter
 
 ----
 
-Begin-time: 16:00:00
+Timestart: 16:00:00
 
 ----
 
-End-time: 17:00:00
+Timeend: 17:00:00
 
 ----
 
-End-date: 2019-04-30
+Dateend: 2019-04-30
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 

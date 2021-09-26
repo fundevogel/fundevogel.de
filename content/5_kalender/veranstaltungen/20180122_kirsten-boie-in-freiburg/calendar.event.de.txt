@@ -10,7 +10,7 @@ Date: 2018-01-22
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -33,23 +33,23 @@ Internet: www.katholische-akademie-freiburg.de
 
 ----
 
-Begin-time: 16:00:00
+Timestart: 16:00:00
 
 ----
 
-End-time: 20:30:00
+Timeend: 20:30:00
 
 ----
 
-End-date: 2018-01-22
+Dateend: 2018-01-22
 
 ----
 
-Show-time: true
+Showtime: true
 
 ----
 
-Multiple-days: false
+Multipledays: false
 
 ----
 
