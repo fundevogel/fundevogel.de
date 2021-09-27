@@ -1,4 +1,4 @@
-Titleattribute: Wir freuen uns auf Ihren Besuch!
+Titleattribute: Wir freuen uns auf Euren Besuch!
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Im Fundevogel ist viel los - kommen Sie vorbei!
+Caption: Im Fundevogel ist viel los - kommt vorbei!
 
 ----
 

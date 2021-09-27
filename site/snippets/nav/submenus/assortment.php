@@ -1,5 +1,5 @@
 <p class="text-sm">
-    Ob Neuerscheinung oder Klassiker - bei uns findet ihr die ganze Vielfalt der Kinder- und Jugendliteratur - und das passende Buch!
+    Ob Neuerscheinung oder Klassiker - bei uns findet Ihr die ganze Vielfalt der Kinder- und Jugendliteratur - und das passende Buch!
 </p>
 <hr class="my-4 max-w-xs">
 <ul class="mt-6 flex flex-col">

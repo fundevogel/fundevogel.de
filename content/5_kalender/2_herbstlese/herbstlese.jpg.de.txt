@@ -1,4 +1,4 @@
-Titleattribute: Besuchen Sie uns zur traditionellen HerbstLese!
+Titleattribute: Besucht uns zur traditionellen HerbstLese!
 
 ----
 
@@ -14,7 +14,7 @@ Caption-wanted: true
 
 ----
 
-Caption: Die HerbstLese hat Tradition - seien Sie dabei!
+Caption: Die HerbstLese hat Tradition - seid dabei!
 
 ----
 

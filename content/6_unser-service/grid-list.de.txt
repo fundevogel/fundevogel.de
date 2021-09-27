@@ -11,19 +11,19 @@ Schaut Euch um, mit Muße und Neugier. Steckt genüsslich die Nasen zwischen die
 
 Cards:
 
-- 
+-
   entry: 'Eine **fachkundige Beratung** (wenn gewünscht), die sich an Euren persönlichen Interessen und Bedürfnissen orientiert.'
-- 
+-
   entry: '**Vielfältige Veranstaltungen** im Rahmen von Leseförderung und -forderung. Alljährliche Fixpunkte sind unsere Veranstaltungen rund um den Welttag des Buches, sowie die Autorenlesungen im Rahmen des **Lirum Larum Lesefestes** und unsere beliebte **„Bücherlese“** im Herbst, bei der wir unsere liebsten Neuerscheinungen des Herbstes bei einem gemütlichen Abend in den Räumlichkeiten des Fundevogels vorstellen. **Informationen** zu diesen und weiteren Veranstaltungen findet Ihr im (link: /kalender/ text: Kalender).'
-- 
+-
   entry: '**Schnelle Bestellung** aller lieferbarer Titel, übrigens auch außerhalb des Kinder- und Jugendbuchsortiments. Das geht bei uns im Laden, (email: info@fundevogel.de text: per Mail) oder Telefon oder (link: https://shop.fundevogel.de text: gleich hier target: blank).'
-- 
-  entry: '**Buchausstellungen und Büchertische** in Einrichtungen bzw. auf Veranstaltungen. Gerne stellen wir Ihnen eine **individuelle Buchauswahl** zusammen. Bitte nehmt **rechtzeitig Kontakt** mit uns auf, damit wir den Rahmen gemeinsam festlegen und eine für Euch passende Buchauswahl treffen können.'
-- 
+-
+  entry: '**Buchausstellungen und Büchertische** in Einrichtungen bzw. auf Veranstaltungen. Gerne stellen wir Euch eine **individuelle Buchauswahl** zusammen. Bitte nehmt **rechtzeitig Kontakt** mit uns auf, damit wir den Rahmen gemeinsam festlegen und eine für Euch passende Buchauswahl treffen können.'
+-
   entry: 'Gründlich recherchierte **Literaturlisten** zu individuellen Themen. Setzt Euch bei Bedarf einfach mit uns (email: info@fundevogel.de text: in Verbindung).'
-- 
+-
   entry: 'Besuche von **Schulklassen, Kindergartengruppen** etc. im Fundevogel. Bitte meldet einen Besuch als Klasse bzw. Gruppe frühzeitig an. So können wir uns darauf vorbereiten und auf Eure Wünsche eingehen.'
-- 
+-
   entry: 'Und in der **Buchhandlung** selbst: Hier gibt es eine **Kinderspielecke**, einen **Wickelplatz**, Sitzgelegenheiten zum Schmökern, Stöbern oder Verschnaufen; ein **motiviertes Team** - und natürlich **jede Menge erlesene Bücher** für Menschen ab der Geburt bis ins Erwachsenenalter!'
 
 ----
@@ -34,7 +34,7 @@ Cover:
 
 ----
 
-Meta-title: 
+Meta-title:
 
 ----
 
@@ -42,15 +42,15 @@ Meta-description: Hereinspaziert! Euch erwarten fachkundige Beratung, vielfälti
 
 ----
 
-Meta-keywords: 
+Meta-keywords:
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -60,15 +60,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -78,23 +78,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -102,35 +102,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -144,8 +144,8 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:

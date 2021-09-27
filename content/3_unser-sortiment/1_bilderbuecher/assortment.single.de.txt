@@ -24,7 +24,7 @@ Favorites:
   text: >
     "Macht die Augen zu", sagte Frederick
     und kletterte auf einen großen Stein.
-    "Jetzt schicke ich euch die
+    "Jetzt schicke ich Euch die
     Sonnenstrahlen. Fühlt ihr schon, wie
     warm sie sind? Schön warm und golden."
   hasquote: 'true'

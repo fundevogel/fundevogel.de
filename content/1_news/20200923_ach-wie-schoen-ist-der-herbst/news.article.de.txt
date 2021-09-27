@@ -6,7 +6,7 @@ Text:
 
 Wunderbare Herbsttage erleben wir momentan in Freiburg. Die goldene Sonne und der blaue Himmel laden zu Spaziergängen und Lesestunden unter Bäumen ein. Und wenn in den nächsten Tagen doch schlechteres Wetter bei uns Einzug halten sollte, dann kommt doch in den Fundevogel und bestaunt unsere prachtvolle Herbstdeko. Das wunderschöne Herbstbild, das uns die Tochter unserer Kollegin gemalt hat, verbreitet die goldene Atmosphäre dieser schönen Jahreszeit bei jedem Wetter. Und die vielen Herbstbücher eignen sich sowohl für einen spätsommerlichen Tag im Wald als auch für einen Regentag unter der Bettdecke.
 
-Wir wünsche euch allen schöne Herbsttage und freuen uns auf euren Besuch im Fundevogel!
+Wir wünschen Euch allen schöne Herbsttage und freuen uns auf euren Besuch im Fundevogel!
 
 ----
 
@@ -14,7 +14,7 @@ Subtitle-wanted: false
 
 ----
 
-Subtitle: 
+Subtitle:
 
 ----
 

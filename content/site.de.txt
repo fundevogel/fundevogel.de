@@ -6,7 +6,7 @@ Shop: https://fundevogel.buchkatalog.de
 
 ----
 
-Instagram: 
+Instagram:
 
 ----
 
@@ -16,16 +16,16 @@ Mastodon: https://freiburg.social/@fundevogel
 
 Awards:
 
-- 
+-
   identifier: wolgast
   award: Heinrich-Wolgast-Preis
   donor: Gewerkschaft Erziehung und Wissenschaft
   donorlink: https://www.gew.de
   description: |
     Der Heinrich-Wolgast-Preis wird alle zwei Jahre von der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank) (GEW) vergeben und würdigt Kinder- und Jugendliteratur in allen medialen Formen, die sich in besonderer Weise der Darstellung von Arbeitswelten in der Kinder- und Jugendliteratur verpflichtet haben - weitere Informationen zur Preisverleihung findet ihr (link: https://www.gew.de/ausschuesse-arbeitsgruppen/weitere-gruppen/die-ajum/wolgast-preis text: hier target: blank).
-    
+
     Die GEW engagiert sich für Chancengleichheit und Mitbestimmung in einem demokratischen und inklusiven Bildungswesen und ist Mitglied im (link: https://www.dgb.de text: Deutschen Gewerkschaftsbund target: blank).
-- 
+-
   identifier: lesepeter
   award: LesePeter
   donor: >
@@ -34,7 +34,7 @@ Awards:
   donorlink: https://www.ajum.de
   description: |
     Die Auszeichnung "LesePeter" wird monatlich von der (link: https://www.ajum.de text: Arbeitsgemeinschaft Jugendliteratur und Medien target: blank) (AJuM) vergeben und würdigt herausragende Bücher. Die Vergabe erfolgt abwechselnd in den Sparten *Kinderbuch*, *Jugendbuch*, *Sachbuch* und *Bilderbuch* - die Liste aller Preisträger findet ihr (link: https://www.ajum.de/html/Lesepeter/chronos.htm text: hier target: blank).
-    
+
     Die AJuM engagiert sich bundesweit für Leseförderung und Medienbildung in Kindergarten, Schule, Bibliothek, Hort, Hochschule und anderen Einrichtungen und ist Teil der (link: https://www.gew.de text: Gewerkschaft Erziehung und Wissenschaft target: blank).
 
 ----
@@ -59,11 +59,11 @@ Meta-description: Herzlich Willkommen im Fundevogel! Hier findet Ihr erlesene Sc
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -77,11 +77,11 @@ Meta-phone-number: 0761/25218
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -91,23 +91,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -115,35 +115,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -157,11 +157,11 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:
 
 ----
 
@@ -172,19 +172,19 @@ Coronamode: false
 Coronatext:
 
 ## Wir haben wieder geöffnet!
-Wir freuen uns sehr, dass wir ab dem 8.3.21 unsere Buchhandlung wieder für euch öffnen dürfen.
+Wir freuen uns sehr, dass wir ab dem 8.3.21 unsere Buchhandlung wieder für Euch öffnen dürfen.
 
-**Wir sind zu folgenden Zeiten für euch da:
+**Wir sind zu folgenden Zeiten für Euch da:
 Mo-Fr: 9:30 Uhr - 18 Uhr
 Sa: 9:30 Uhr - 16 Uhr**
 
 Um weiterhin die Ansteckungsgefahr so gering wie möglich zu halten, wird es einige Schutzmaßnahmen geben.
 So werden maximal 3 Kunden gleichzeitig den Verkaufsraum betreten können. Außerdem möchten wir alle Kunden bitten einen Mindestabstand von mindestens 1,5 Metern zu anderen Personen einzuhalten.
-Wir werden zu Ihrer Sicherheit Schutzmasken tragen und begrüßen diese Maßnahme auch bei unseren Kunden.
-Kunden mit Erkältungssymptomen bitten wir ihren Einkauf durch andere Familienangehörige erledigen zu lassen.
+Wir werden zu Eurer Sicherheit Schutzmasken tragen und begrüßen diese Maßnahme auch bei unseren Kunden.
+Kund:innen mit Erkältungssymptomen bitten wir, ihren Einkauf durch andere Familienangehörige erledigen zu lassen.
 Weiterhin besteht natürlich die Möglichkeit Bestellungen telefonisch oder per Mail in Auftrag zu geben und die bestellten Bücher von uns liefern zu lassen.
 
-Wir nehmen all eure Bestellungen entgegen und liefern direkt zu euch nach Hause. Innerhalb des Stadtgebietes schwingen wir uns für euch auf´s Fahrrad und außerhalb des Stadtgebietes satteln wir auf das Auto oder die deutsche Post um. Auf diese Weise hoffen wir dazu beitragen zu können, dass euch der Lesestoff nicht ausgeht und wir alle diese unruhigen Zeiten unbeschadet überstehen. Bleibt gesund!
+Wir nehmen all Eure Bestellungen entgegen und liefern direkt zu Euch nach Hause. Innerhalb des Stadtgebietes schwingen wir uns für Euch aufs Fahrrad und außerhalb des Stadtgebietes satteln wir auf das Auto oder die deutsche Post um. Auf diese Weise hoffen wir dazu beitragen zu können, dass Euch der Lesestoff nicht ausgeht und wir alle diese unruhigen Zeiten unbeschadet überstehen. Bleibt gesund!
 
 Übrigens: Bei uns könnt Ihr alle lieferbaren Titel bestellen, auch außerhalb des Kinder- und Jugendbuchsortiments.
 

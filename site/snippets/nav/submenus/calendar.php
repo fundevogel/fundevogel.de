@@ -1,5 +1,5 @@
 <p class="text-sm">
-    Hier findet ihr alle Informationen zu den aktuellen Veranstaltungen und jährlichen Höhepunkten des Fundevogels.
+    Hier findet Ihr alle Informationen zu den aktuellen Veranstaltungen und jährlichen Höhepunkten des Fundevogels.
 </p>
 <hr class="my-4 max-w-xs">
 <ul class="mt-6 flex flex-col">

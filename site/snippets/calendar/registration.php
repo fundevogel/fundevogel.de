@@ -34,7 +34,7 @@
         }
     ?>
     <li>
-        <?php e($event->seats()->isEmpty(), 'Aufgrund der begrenzten Anzahl an Plätzen ', 'Deshalb ') ?>bitten wir euch um <strong>vorherige Anmeldung<?= $openUntil ?></strong><?= $contact ?><?= $infos ?>.
+        <?php e($event->seats()->isEmpty(), 'Aufgrund der begrenzten Anzahl an Plätzen ', 'Deshalb ') ?>bitten wir Euch um <strong>vorherige Anmeldung<?= $openUntil ?></strong><?= $contact ?><?= $infos ?>.
     </li>
 
     <?php if ($event->costsAdmission()->bool()) : ?>

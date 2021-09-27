@@ -10,7 +10,7 @@ Mit der Hilfe des großen Zauberers Merlin erhält er das magische Schwert Excal
 
 ----
 
-Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
+Verdict: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter Euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
 
 ----
 
@@ -45,7 +45,7 @@ Meta-title: Artus - König auf Camelot
 
 ----
 
-Meta-description: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
+Meta-description: Eine tragische Legende, die spannend nacherzählt und von wundervollen Illustrationen begleitet wird. Und als kleiner Wissenszusatz für die besonders Neugierigen unter Euch, findet ihr kleine Infoboxen mit vielen spannenden Kommentaren rund um die Welt von keltischen Mythen, König Artus und seinen Rittern.
 
 ----
 

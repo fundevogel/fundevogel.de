@@ -8,9 +8,9 @@ Slug: frueh-liche-weihnachten
 
 Text:
 
-Wir können es selbst kaum glauben, aber es ist wahr: noch sieben Wochen bis Weihnachten! Wir kommen im Fundevogel zwischen all den eingetroffenen Adventskalendern, Bilderbüchern und Vorlesegeschichten zur Weihnachtszeit so laaangsam in Stimmung – und wollen euch natürlich daran teilhaben lassen!
+Wir können es selbst kaum glauben, aber es ist wahr: noch sieben Wochen bis Weihnachten! Wir kommen im Fundevogel zwischen all den eingetroffenen Adventskalendern, Bilderbüchern und Vorlesegeschichten zur Weihnachtszeit so laaangsam in Stimmung – und wollen Euch natürlich daran teilhaben lassen!
 
-Hier kommen ein paar Fotos aus dem weihnachtlich dekorierten Fundevogel! Nach Plätzchen duftet es hier zwar noch nicht, aber die Stimmung wird zunehmend festlich … Wir möchten euch herzlich einladen, schon jetzt bei uns auf Geschenkesuche zu gehen und vielleicht sogar dem Weihnachtsmann zuvorzukommen – auf dass wir eine entspannte und sichere Vorweihnachtszeit verbringen können.
+Hier kommen ein paar Fotos aus dem weihnachtlich dekorierten Fundevogel! Nach Plätzchen duftet es hier zwar noch nicht, aber die Stimmung wird zunehmend festlich … Wir möchten Euch herzlich einladen, schon jetzt bei uns auf Geschenkesuche zu gehen und vielleicht sogar dem Weihnachtsmann zuvorzukommen – auf dass wir eine entspannte und sichere Vorweihnachtszeit verbringen können.
 
 In diesem Sinne: Früh-liche Weihnachten und bis bald im Fundevogel oder am Telefon!
 
@@ -20,7 +20,7 @@ Subtitle-wanted: false
 
 ----
 
-Subtitle: 
+Subtitle:
 
 ----
 

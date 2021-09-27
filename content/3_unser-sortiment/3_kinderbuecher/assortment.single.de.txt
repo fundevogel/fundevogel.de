@@ -11,7 +11,7 @@ Mit großen Buchstaben, einfachen, klaren Texten und phantasievollen Illustratio
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Gemeinsam B\u00fccher erleben"},"id":"fdac748a-e9d1-4062-9a61-974a1b88f947","isHidden":false,"type":"heading"},{"content":{"text":"<p>In gem\u00fctlicher Atmosph\u00e4re und fernab des oft so trubeligen Alltags kann das Vorlesen f\u00fcr Kinder und Eltern ein wunderbarer Moment der N\u00e4he, Geborgenheit und Erholung sein.<\/p><p>Wir haben f\u00fcr euch viele tolle Vorleseb\u00fccher ausgew\u00e4hlt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.<\/p>"},"id":"f859f65a-e877-44ad-9952-29318cad5571","isHidden":false,"type":"text"}],"id":"372b36ef-be50-4031-8275-2f6f493243eb","width":"1\/1"}],"id":"acbc4eef-075d-4ac1-9484-c92f1bd5deda"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Gemeinsam B\u00fccher erleben"},"id":"fdac748a-e9d1-4062-9a61-974a1b88f947","isHidden":false,"type":"heading"},{"content":{"text":"<p>In gem\u00fctlicher Atmosph\u00e4re und fernab des oft so trubeligen Alltags kann das Vorlesen f\u00fcr Kinder und Eltern ein wunderbarer Moment der N\u00e4he, Geborgenheit und Erholung sein.<\/p><p>Wir haben f\u00fcr Euch viele tolle Vorleseb\u00fccher ausgew\u00e4hlt, mit denen sich gemeinsam neue Welten entdecken und erleben lassen.<\/p>"},"id":"f859f65a-e877-44ad-9952-29318cad5571","isHidden":false,"type":"text"}],"id":"372b36ef-be50-4031-8275-2f6f493243eb","width":"1\/1"}],"id":"acbc4eef-075d-4ac1-9484-c92f1bd5deda"}]
 
 ----
 
@@ -199,7 +199,7 @@ Meta-title:
 
 ----
 
-Meta-description: Wir haben für euch nicht nur Erstlesebücher, sondern auch Vorlesebücher ausgesucht, um gemeinsam mit den Großen neue Welten entdecken und erleben können.
+Meta-description: Wir haben für Euch nicht nur Erstlesebücher, sondern auch Vorlesebücher ausgesucht, um gemeinsam mit den Großen neue Welten entdecken und erleben können.
 
 ----
 

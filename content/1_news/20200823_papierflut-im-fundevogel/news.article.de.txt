@@ -2,7 +2,7 @@ Title: Papierflut im Fundevogel
 
 ----
 
-Text: "Man sieht ja vor lauter Pappkartons den Keller nicht!" Wenn dieser Satz zu hören ist heißt es tief durchatmen und dann rein in die Papierflut. Fleißige Hände zerkleinern Pappkartons, schnüren Pakete aus Altpapier und stapeln alles fein säuberlich neben dem Bächle vor dem Fundevogel auf. Was am Ende entlang der Hauswand zu sehen ist sind die stummen Zeugen der zahllosen Bücherschätze, die im Laufe der Zeit ihren Weg zu uns - und schließlich zu euch - gefunden haben.
+Text: "Man sieht ja vor lauter Pappkartons den Keller nicht!" Wenn dieser Satz zu hören ist heißt es tief durchatmen und dann rein in die Papierflut. Fleißige Hände zerkleinern Pappkartons, schnüren Pakete aus Altpapier und stapeln alles fein säuberlich neben dem Bächle vor dem Fundevogel auf. Was am Ende entlang der Hauswand zu sehen ist, sind die stummen Zeugen der zahllosen Bücherschätze, die im Laufe der Zeit ihren Weg zu uns - und schließlich zu Euch - gefunden haben.
 
 ----
 
@@ -10,7 +10,7 @@ Subtitle-wanted: false
 
 ----
 
-Subtitle: 
+Subtitle:
 
 ----
 

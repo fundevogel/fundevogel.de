@@ -2,7 +2,7 @@ Title: Inventur im Fundevogel am 18. Januar
 
 ----
 
-Text: Wieder einmal ist es so weit: Putzen, Abstauben, Bücher zählen - die Inventur steht an. Damit wir uns nicht verzählen und kein Kunde versehentlich die Nase abgestaubt bekommt, bleibt unser Abholfenster am Montag, dem 18. Januar für den Publikumsverkehr geschlossen. Die Buchbestellung über unsere Website steht Euch aber natürlich auch an diesem Tag zur Verfügung. Ab Dienstag, dem 19. Januar sind wir wieder in vollem Umfang für euch da.
+Text: Wieder einmal ist es so weit: Putzen, Abstauben, Bücher zählen - die Inventur steht an. Damit wir uns nicht verzählen und kein Kunde versehentlich die Nase abgestaubt bekommt, bleibt unser Abholfenster am Montag, dem 18. Januar für den Publikumsverkehr geschlossen. Die Buchbestellung über unsere Website steht Euch aber natürlich auch an diesem Tag zur Verfügung. Ab Dienstag, dem 19. Januar sind wir wieder in vollem Umfang für Euch da.
 
 ----
 
@@ -10,7 +10,7 @@ Subtitle-wanted: false
 
 ----
 
-Subtitle: 
+Subtitle:
 
 ----
 

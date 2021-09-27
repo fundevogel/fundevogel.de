@@ -5,7 +5,7 @@ Title: Presse
 Text:
 
 ## Danke für Ihr Interesse!
-Es ist uns ein Anliegen, die Beschäftigung mit Literatur für Kinder und Jugendliche aktiv zu fördern und zu begleiten; wir sind daher für eure und Ihre Berichterstattung über unsere Buchhandlung dankbar.
+Es ist uns ein Anliegen, die Beschäftigung mit Literatur für Kinder und Jugendliche aktiv zu fördern und zu begleiten; wir sind daher für Eure Berichterstattung über unsere Buchhandlung dankbar.
 
 Dafür haben wir nachfolgend Bilder und Texte zusammengestellt, die im Rahmen einer Berichterstattung über den Fundevogel als Informationsgrundlage dienen können.
 
@@ -28,7 +28,7 @@ Noch heute sind da der Laden, die Liebe und die gemeinsame Idee, welche die "Gr�
 
 Presskit:
 
-Alle Informationen und Bilder über den Fundevogel finden Sie auch in unserer Pressemappe - **schnell, übersichtlich und kompakt**. Natürlich können auch alle sonstigen Texte unserer Webseite im Rahmen einer Berichterstattung genutzt werden.
+Alle Informationen und Bilder über den Fundevogel findet Ihr auch in unserer Pressemappe - **schnell, übersichtlich und kompakt**. Natürlich können auch alle sonstigen Texte unserer Webseite im Rahmen einer Berichterstattung genutzt werden.
 
 Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer NutzerInnen legen, haben wir auch eine Reihe (link: technisches text: technische Informationen) über unsere Webseite zusammengestellt - außerdem ist der gesamte Quellcode unseres Internetauftritts auf GitHub (link: https://github.com/Fundevogel/fundevogel.de text: frei verfügbar target: blank).
 
