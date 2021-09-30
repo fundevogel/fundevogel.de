@@ -7,22 +7,54 @@ num: "{{ page.date.toDate('Ymd') }}"
 
 options: options/post
 
-columns:
-  left_column:
-    width: 1/2
-    sections:
-      left_fields:
+tabs:
+  tab_content:
+    extends: tabs/content
+    fields:
+      text:
+        type: markdown
+        help:
+          de: |
+            Dieser Text ist wird unter der Rubrik "Aktuelles" angezeigt.
+          en: |
+            This text will be displayed on the "News" page.
+
+      details:
+        type: markdown
+        help:
+          de: |
+            Dieser Text ist optional und wird <span style="text-decoration: underline">nicht</span> in der Rubrik "Aktuelles" angezeigt.
+          en: |
+            This text is optional and <span style="text-decoration: underline">will not</span> be displayed on the "News" page.
+
+    sidebar:
+      sidebar_fields:
         type: fields
         fields:
-          text:
-            type: markdown
+          date:
+            extends: fields/base/date
+            label:
+              de: (Erster) Tag
+              en: (First) day of the event
+            time:
+              step: 5
+            width: 1/2
+
+          dateEnd:
+            extends: fields/base/date
+            label:
+              de: Letzter Tag
+              en: Last day of the event
+            default: false
+            time:
+              step: 5
+            width: 1/2
 
           category:
             extends: fields/base/select
             label:
               de: Art der Veranstaltung
               en: Event category
-            width: 1/3
             options:
               # Author
               Autorengespräch: Autorengespräch
@@ -46,183 +78,134 @@ columns:
               en: Event location
             type: text
             icon: map
-            width: 2/3
 
           audience:
             label:
               de: Zielgruppe
               en: Audience
             type: text
-            width: 1/3
-
-          link:
-            extends: fields/base/url
-            width: 2/3
-
-          details:
-            type: markdown
-
-  right_column:
-    width: 1/2
-    sections:
-      right_fields:
-        type: fields
-        fields:
-          multipleDays:
-            extends: fields/base/toggle
-            label:
-              de: Mehrtägig?
-              en: Multi-day?
-            width: 1/3
-
-          date:
-            extends: fields/base/date
-            width: 1/3
-
-          dateEnd:
-            extends: fields/base/date
-            label:
-              de: Letzter Tag
-              en: Last day of the event
-            default: false
-            when:
-              multipleDays: true
-            width: 1/3
-
-          gap_one:
-            type: gap
-
-          showTime:
-            extends: fields/base/toggle
-            label:
-              de: Zeitangabe?
-              en: Exact time?
-            default: false
-            width: 1/3
-
-          timeStart:
-            extends: fields/base/time
-            label:
-              de: Beginn (Zeit)
-              en: Start (Time)
-            when:
-              showTime: true
-            width: 1/3
-
-          timeEnd:
-            extends: fields/base/time
-            label:
-              de: Ende (Zeit)
-              en: End (Time)
-            when:
-              showTime: true
-            width: 1/3
-
-          gap_two:
-            type: gap
-
-          costsAdmission:
-            extends: fields/base/toggle
-            label:
-              de: Eintrittspreis?
-              en: Admission fee?
-            default: false
-            width: 1/3
-
-          admissionChildren:
-            extends: fields/base/number
-            label:
-              de: Kinder
-              en: Children
-            step: .01
-            after: €
-            width: 1/3
-            when:
-              costsAdmission: true
-
-          admissionAdults:
-            extends: fields/base/number
-            label:
-              de: Erwachsene
-              en: Adults
-            step: .01
-            after: €
-            width: 1/3
-            when:
-              costsAdmission: true
-
-          gap_three:
-            type: gap
-
-          registrationRequired:
-            extends: fields/base/toggle
-            label:
-              de: Anmeldung notwendig?
-              en: Registration required?
-            default: false
-            width: 1/3
-
-          openUntil:
-            extends: fields/base/date
-            label:
-              de: .. bis?
-              en: .. by?
-            width: 1/3
-            when:
-              registrationRequired: true
-
-          seats:
-            extends: fields/base/number
-            label:
-              de: Verfügbare Plätze
-              en: Available seats
-            width: 1/3
-            after:
-              de: Plätze
-              en: seats
-            when:
-              registrationRequired: true
-
-          gap_four:
-            type: gap
-
-          infos:
-            extends: fields/base/checkboxes
-            label:
-              de: Benötigte Informationen
-              en: Information needed
-            options:
-              - Name
-              - Email
-              - Telefon
-              - Personenzahl
-            width: 1/2
-            when:
-              registrationRequired: true
-
-          contact:
-            extends: fields/base/checkboxes
-            label:
-              de: Kontaktmöglichkeiten
-              en: Contact details
-            options:
-              - im Laden
-              - via Email
-              - telefonisch
-              - per Telefax
-            width: 1/2
-            when:
-              registrationRequired: true
-
-          note:
-            label:
-              de: Freitext
-              en: Free text
-            type: markdown
             help:
               de: |
-                Dieser Text ist optional und wird unter den Angaben zur Anmeldung angezeigt.
+                Beispiel: "Für Kinder ab 6 Jahren"
               en: |
-                This text is optional and will be shown below the information regarding registration.
-            when:
-              registrationRequired: true
+                Example: "for children from 6 years onwards"
+
+  tab_registration:
+    label:
+      de: Anmeldung
+      en: Registration
+    icon: users
+    columns:
+      left_column:
+        width: 1/2
+        sections:
+          left_fields:
+            type: fields
+            fields:
+              registrationRequired:
+                extends: fields/base/toggle
+                label:
+                  de: Anmeldung notwendig?
+                  en: Registration required?
+                default: false
+                width: 1/3
+
+              openUntil:
+                extends: fields/base/date
+                label:
+                  de: .. bis?
+                  en: .. by?
+                width: 1/3
+                when:
+                  registrationRequired: true
+
+              seats:
+                extends: fields/base/number
+                label:
+                  de: Verfügbare Plätze
+                  en: Available seats
+                width: 1/3
+                after:
+                  de: Plätze
+                  en: seats
+                when:
+                  registrationRequired: true
+
+              infos:
+                extends: fields/base/checkboxes
+                label:
+                  de: Benötigte Informationen
+                  en: Information needed
+                options:
+                  - Name
+                  - Email
+                  - Telefon
+                  - Personenzahl
+                width: 1/2
+                when:
+                  registrationRequired: true
+
+              contact:
+                extends: fields/base/checkboxes
+                label:
+                  de: Kontaktmöglichkeiten
+                  en: Contact details
+                options:
+                  - im Laden
+                  - via Email
+                  - telefonisch
+                  - per Telefax
+                width: 1/2
+                when:
+                  registrationRequired: true
+
+              note:
+                label:
+                  de: Freitext
+                  en: Free text
+                type: markdown
+                help:
+                  de: |
+                    Dieser Text ist optional und wird unter den Angaben zur Anmeldung angezeigt.
+                  en: |
+                    This text is optional and will be shown below the information regarding registration.
+                when:
+                  registrationRequired: true
+
+      right_column:
+        width: 1/2
+        sections:
+          right_fields:
+            type: fields
+            fields:
+              link: fields/base/url
+
+              costsAdmission:
+                extends: fields/base/toggle
+                label:
+                  de: Eintrittspreis?
+                  en: Admission fee?
+                default: false
+                width: 1/3
+
+              admissionChildren:
+                extends: fields/base/number
+                label:
+                  de: Kinder
+                  en: Children
+                step: .01
+                after: €
+                width: 1/3
+                when:
+                  costsAdmission: true
+
+              admissionAdults:
+                extends: fields/base/number
+                label:
+                  de: Erwachsene
+                  en: Adults
+                step: .01
+                after: €
+                width: 1/3
+                when:
+                  costsAdmission: true

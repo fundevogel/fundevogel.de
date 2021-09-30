@@ -12,6 +12,27 @@ Wenn Ihr sie noch nicht kennt, macht das aber gar nichts – sie stellt sich Euc
 
 ----
 
+Details:
+
+Aus einem Papierschnipsel oder einer Linie kann alles entstehen! Und das Beste ist: Kunst kann jede:r! Aus Materialfundstücken erfinden wir bisher noch unentdeckte Wesen. Aus dem (fast) Nichts wächst ein einziges Bild, zu dessen Gelingen wir alle gemeinsam beitragen, allein und miteinander. Am Ende des Workshops dürfen alle Beteiligten natürlich ihre eigenen Kreationen mit nach Hause nehmen, ist doch klar!
+
+**Was ihr braucht:**
+Papierreste und "missglückte" Kunstwerke, die zerschnitten werden dürfen!
+
+Nach dem Workshop gibt es um 17 Uhr eine *öffentliche Signierstunde*, da könnt Ihr Stefanie Harjes zum Beispiel um ein Autogramm in eurem Bilderbuch bitten. Oder ein neues Lieblingsbuch bei uns kaufen.
+
+Wir freuen uns auf einen spannenden Nachmittag mit Euch!
+
+----
+
+Date: 2021-10-07 15:00:00
+
+----
+
+Dateend: 2021-10-07 17:00:00
+
+----
+
 Category: Lirum Larum Lesefest
 
 ----
@@ -21,51 +42,6 @@ Location: Buchhandlung Fundevogel
 ----
 
 Audience: Für Kinder ab 5 Jahren
-
-----
-
-Link: https://www.freiburg.de/pb/,(anker1606622)/370683.html#anker1606622_Mi7
-
-----
-
-Details:
-
-Aus einem Papierschnipsel oder einer Linie kann alles entstehen! Und das Beste ist: Kunst kann jede:r! Aus Materialfundstücken erfinden wir bisher noch unentdeckte Wesen. Aus dem (fast) Nichts wächst ein einziges Bild, zu dessen Gelingen wir alle gemeinsam beitragen, allein und miteinander. Am Ende des Workshops dürfen alle Beteiligten natürlich ihre eigenen Kreationen mit nach Hause nehmen, ist doch klar!
-
-**Was ihr braucht:**
-Papierreste und "missglückte" Kunstwerke, die zerschnitten werden dürfen!
-
-Nach dem Workshop gibt es um 17 Uhr eine öffentliche Signierstunde, da könnt Ihr Stefanie Harjes zum Beispiel um ein Autogramm in eurem Bilderbuch bitten. Oder ein neues Lieblingsbuch bei uns kaufen.
-
-Wir freuen uns auf einen spannenden Nachmittag mit Euch!
-
-----
-
-Multipledays: false
-
-----
-
-Date: 2021-10-07
-
-----
-
-Dateend:
-
-----
-
-Showtime: true
-
-----
-
-Timestart: 15:00:00
-
-----
-
-Timeend: 17:00:00
-
-----
-
-Costsadmission: false
 
 ----
 
@@ -86,6 +62,30 @@ Contact: via Email, telefonisch, per Telefax
 ----
 
 Note: Für den Workshop benötigt ihr Papierreste oder "missglückte" Kunstwerke, die zerschnitten werden dürfen!
+
+----
+
+Link: https://www.freiburg.de/pb/,(anker1606622)/370683.html#anker1606622_Mi7
+
+----
+
+Costsadmission: false
+
+----
+
+Showtime: true
+
+----
+
+Timestart: 15:00:00
+
+----
+
+Timeend: 17:00:00
+
+----
+
+Multipledays: true
 
 ----
 
