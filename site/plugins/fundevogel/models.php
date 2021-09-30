@@ -87,6 +87,7 @@ class CalendarFile extends File {
         $this->eventName = $page->title();
         $this->eventLocation = $page->location();
         $this->eventUrl = page('kalender')->url() . '/' . $page->slug() . '.ics';
+        // $this->eventUrl = $page->url() . '.ics';
         $this->timezone = new DateTimeZone('Europe/Berlin');
 
         parent::__construct([

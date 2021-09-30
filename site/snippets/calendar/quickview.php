@@ -2,34 +2,26 @@
     <h4 class="text-base"><?= t('Termin im Überblick') ?></h4>
     <p class="content text-sm">
         <?php
-            # Event start date & time
-            $dateStart = $event->date();
-            $timeStart = $event->timeStart();
-            $start = strtotime($dateStart . ' ' . $timeStart);
-
-            # Event end date & time
-            $dateEnd = $event->dateEnd();
-            $timeEnd = $event->timeEnd();
-            $end = strtotime($dateEnd . ' ' . $timeEnd);
-
             # Print date(s)
             # (1) Start date
-            e($start, date('d.m.Y', $start));
+            $start = $event->date();
+
+            echo $start->toDate('d.m.Y');
 
             # (2) End date (if specified)
-            if ($event->multipleDays()->bool()) {
-                e(date('Ymd', $end) > date('Ymd', $start), ' - ' . date('d.m.Y', $end));
+            $end = $event->dateEnd();
+
+            if ($end->toDate('Ymd') <= $start->toDate('Ymd')) {
+                $end->toDate('d.m.Y');
             }
 
             # Print time(s)
-            if ($event->showTime()->bool()) {
+            if ($start->toDate('H:i') != '00:00') {
                 # Start
-                if ($timeStart->isNotEmpty()) {
-                    echo ', ' . date('H:i', $start);
+                echo ', ' . $start->toDate('H:i');
 
-                    # End (if specified)
-                    e($timeEnd && date('H:i', $end) !== date('H:i', $start), ' - ' . date('H:i', $end));
-                }
+                # End (if specified)
+                e($end->toDate('H:i') != '00:00', ' - ' . $end->toDate('H:i'));
 
                 echo ' ' . t('Uhr');
             }
@@ -61,8 +53,8 @@
         ?>
         <a
             class="mt-4 flex justify-center items-center"
-            download="<?= basename($iCal) ?>"
-            href="<?= $iCal ?>"
+            download="<?= $iCal->filename() ?>"
+            href="<?= $iCal->url() ?>"
         >
             <?= useSVG($event->title(), 'w-6 h-6 fill-current', 'calendar-filled') ?>
             <span class="ml-2">

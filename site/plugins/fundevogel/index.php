@@ -32,4 +32,8 @@ Kirby::plugin('fundevogel/fv', [
         'blocks/hr'     => __DIR__ . '/snippets/hr.php',
         'webPicture'    => __DIR__ . '/snippets/webPicture.php',
     ],
+
+    'components' => [
+        'file::version' => __DIR__ . '/components.php',
+    ],
 ]);
