@@ -3,6 +3,10 @@
 # Generic functions
 require_once __DIR__ . '/functions.php';
 
+# Models
+require_once __DIR__ . '/models.php';
+
+
 # Kirby plugins
 Kirby::plugin('fundevogel/fv', [
     # Blueprints
