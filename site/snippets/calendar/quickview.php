@@ -49,7 +49,7 @@
             }
 
             # Provide download for event
-            $iCal = $event->iCal();
+            $iCal = $event->file('calendar.ics');
         ?>
         <a
             class="mt-4 flex justify-center items-center"

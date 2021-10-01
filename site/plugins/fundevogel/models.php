@@ -86,15 +86,13 @@ class CalendarFile extends File {
 
         $this->eventName = $page->title();
         $this->eventLocation = $page->location();
-        $this->eventUrl = page('kalender')->url() . '/' . $page->slug() . '.ics';
-        // $this->eventUrl = $page->url() . '.ics';
         $this->timezone = new DateTimeZone('Europe/Berlin');
 
         parent::__construct([
-            'filename' => $page->slug() . '.ics',
+            'filename' => 'calendar.ics',
             'template' => 'calendar',
             'parent'   => $page,
-            'url'      => $this->eventUrl,
+            'url'      => $page->url() . '.ics',
             'content'  => []
         ]);
     }
