@@ -2,8 +2,20 @@ Titleattribute: Mehr als nur HTML - die Webseite des Fundevogels
 
 ----
 
+Source: 
+
+----
+
 Altattribute: Abbildung verwendeter Programmiersprachen als Ringdiagramm
 
 ----
 
-Template: donut
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
