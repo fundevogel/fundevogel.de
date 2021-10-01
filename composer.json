@@ -43,6 +43,7 @@
         "fundevogel/kirby3-donuts": "1.2.0",
         "fundevogel/php-mastodon": "0.6.0",
         "fundevogel/php-pcbis": "2.5.0",
+        "goat1000/svggraph": "3.10.0",
         "guzzlehttp/guzzle": "7.3.0",
         "k-community/markdown-field": "1.0.9",
         "kschu91/largest-remainder-method": "1.0.0",
