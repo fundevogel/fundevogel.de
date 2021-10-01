@@ -43,7 +43,12 @@
                         </div>
                         <nav class="text-xs flex flex-wrap justify-center mb-4" role="navigation">
                             <?php if ($pgpKey = $site->file('0xCED8B32D46ADF2A5.asc')) : ?>
-                            <a class="js-tippy outline-none" href="<?= $pgpKey->url() ?>" title="<?= $pgpKey->content()->mail() ?>">
+                            <a
+                                class="js-tippy outline-none"
+                                href="<?= $pgpKey->url() ?>"
+                                title="<?= $pgpKey->content()->mail() ?>"
+                                data-barba-prevent="self"
+                            >
                                 <span><?= $pgpKey->title()->html() ?></span>
                             </a>
                             <span class="mx-2 select-none">|</span>
