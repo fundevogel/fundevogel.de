@@ -9,7 +9,7 @@
   @apply inline-block;
   @apply font-medium text-orange-medium text-opacity-100;
   @apply bg-orange-light;
-  @apply border-4 border-dashed border-orange-medium;
+  @apply border-2 border-dashed border-orange-medium;
   @apply rounded-lg;
   @apply appearance-none outline-none;
 
@@ -59,7 +59,7 @@
 
 .dk-select-options {
   @apply bg-orange-light;
-  @apply border-4 border-dashed border-orange-medium;
+  @apply border-2 border-dashed border-orange-medium;
   @apply m-0;
   @apply overflow-x-hidden;
   @apply overflow-y-auto;

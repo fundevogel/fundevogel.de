@@ -27,7 +27,7 @@
     <h2 class="mb-12 text-center"><?= t(Str::ucfirst($identifier) . '-Überschrift') ?></h2>
     <div class="js-masonry">
         <?php foreach($cards as $card) : ?>
-        <div class="card">
+        <div class="card is-dashed">
             <?= $card->entry()->kt() ?>
         </div>
         <?php endforeach ?>
