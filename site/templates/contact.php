@@ -13,12 +13,15 @@
                 <?php snippet('contact/details', ['type' => 'hours']) ?>
             </div>
         </div>
-        <div class="mt-12 flex-none text-center">
-            <?php if ($page->hasCover()) : ?>
-            <figure class="js-lightbox group inline-block lg:ml-12 rounded-lg overflow-hidden relative cursor-pointer">
-                <?= $page->getCover()->createImage('rounded-lg transition-all', 'cover', true, true) ?>
-                <figcaption class="big-caption sketch group-hover:-translate-y-full"><?= $page->getCover()->caption()->html() ?></figcaption>
-            </figure>
+        <div class="mt-12 flex-none flex justify-center items-center">
+            <?php
+                if ($page->hasCover()) :
+                $images = new Files([$page->cover()->toFile()]);
+                $caption = $page->getCover()->caption()->html();
+            ?>
+            <div class="lg:ml-12">
+                <?php snippet('components/caption-gallery', compact('images', 'caption')) ?>
+            </div>
             <?php endif ?>
         </div>
     </div>
