@@ -290,19 +290,13 @@ return [
         $largestRemainder = new \Aeq\LargestRemainder\Math\LargestRemainder($percentages);
         $largestRemainder->setPrecision(1);
 
-        $roundedPercentages = [];
-
-        foreach ($largestRemainder->round() as $number) {
-            $roundedPercentages[] = $number / 100;
-        }
-
         # Fetch GitHub's language colors
         $colorData = json_decode(F::read(kirby()->root('config') . '/colors.json'), true);
 
         # Build languages array
         $data = [];
 
-        foreach (array_combine($languages, $roundedPercentages) as $language => $percentage) {
+        foreach (array_combine($languages, $largestRemainder->round()) as $language => $percentage) {
             $data[$language] = [
                 'value' => $percentage,
                 'color' => $colorData[$language],
@@ -310,14 +304,62 @@ return [
         }
 
         # Generate chart from language data
-        $page->toDonut($data, 'programmiersprachen', 15, null, 'w-56 h-56 block');
+        $graph = new \Goat1000\SVGGraph\SVGGraph(100, 100, [
+            # General options
+            'structure' => ['key' => 0, 'value' => 1, 'colour' => 2],
+            'sort' => false,
 
-        $file = $page->image('programmiersprachen.svg');
+            # SVG options
+            'svg_class' => 'block w-56 h-56',
+            'auto_fit' => true,
+
+            # Graph options
+            'start_angle'  => -90,
+            'inner_radius' => 0.7,
+            'stroke_width' => 0,
+
+            # Background
+            'back_stroke_width' => 0,
+            'back_colour' => null,
+
+            # Padding
+            'pad_bottom' => 0,
+            'pad_left'   => 0,
+            'pad_right'  => 0,
+            'pad_top'    => 0,
+
+            # Remove labels
+             'show_labels' => false,
+
+            # Remove JavaScript
+            'show_tooltips' => false,
+        ]);
+
+        $values = [];
+
+        $count = 0; foreach ($data as $entry) {
+            $values[] = [$count, $entry['value'], $entry['color']];
+            $count++;
+            $values[] = [$count, 0.3, 'none'];
+            $count++;
+        }
+
+        $graph->values($values);
+
+        $file = new File([
+            'parent' => $page,
+            'filename' => 'programmiersprachen.svg',
+        ]);
+
+        if (!F::write($file->root(), $graph->fetch('DonutGraph', false))) {
+            throw new Exception('Couldn\'t create chart!');
+        }
 
         try {
             $file->update([
                 'titleAttribute' => 'Mehr als nur HTML - die Webseite des Fundevogels',
                 'altAttribute' => 'Abbildung verwendeter Programmiersprachen als Ringdiagramm',
+                'template' => 'image',
             ]);
 
             $languageArray = [];
@@ -325,7 +367,7 @@ return [
             foreach ($data as $language => $values) {
                 $languageArray[] = [
                     'title' => $language,
-                    'share' => (float) $values['value'] * 100,
+                    'share' => (float) $values['value'],
                     'color' => $values['color']
                 ];
             }

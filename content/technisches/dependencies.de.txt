@@ -119,7 +119,7 @@ Phpdata:
 -
   maintainer: bnomei
   name: kirby3-janitor
-  version: 2.9.0
+  version: 2.10.0
   license: MIT
   description: >
     Kirby 3 Plugin for running jobs like
@@ -129,7 +129,7 @@ Phpdata:
 -
   maintainer: bnomei
   name: kirby3-security-headers
-  version: 2.5.1
+  version: 2.5.2
   license: MIT
   description: >
     Kirby 3 Plugin for easier Security
@@ -190,6 +190,13 @@ Phpdata:
   license: proprietary
   description: The Kirby 3 core
   url: https://github.com/getkirby/kirby
+-
+  maintainer: goat1000
+  name: svggraph
+  version: 3.10.0
+  license: LGPL-3.0-only
+  description: Generates SVG graphs
+  url: https://github.com/goat1000/SVGGraph
 -
   maintainer: guzzlehttp
   name: guzzle
@@ -351,11 +358,11 @@ Licensetoken: GPL-3.0
 
 ----
 
-Loc: 5.809
+Loc: 5.856
 
 ----
 
-Commits: 37
+Commits: 40
 
 ----
 
