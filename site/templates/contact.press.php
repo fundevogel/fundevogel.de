@@ -51,7 +51,7 @@
             <li class="bg-orange-medium relative overflow-hidden rounded-lg">
                 <a class="group h-40 block rounded-lg" href="<?= $image->url() ?>" download="<?= $image->url() ?>">
                     <figure class="rounded-lg">
-                        <?= $image->createImage('rounded-lg', 'contact.press.gallery', false, true) ?>
+                        <?= $image->createImage('rounded-lg', 'contact.press.grid', false, true) ?>
                         <figcaption class="absolute inset-0 flex items-center justify-center text-center bg-black bg-opacity-40 rounded-lg">
                             <span class="max-w-75 font-normal text-sm text-white text-shadow"><?= $image->caption()->html() ?></span>
                         </figcaption>
