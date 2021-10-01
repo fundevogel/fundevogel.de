@@ -72,8 +72,10 @@ return [
     ],
     [
         'pattern' => 'kalender/veranstaltungen/(:any)',
-        'action' => function() {
-            return go('kalender', 301);
+        'action' => function($any) {
+            if (!$Str::contains($any, '.ics')) {
+                return go('kalender', 301);
+            }
         },
     ],
     [
