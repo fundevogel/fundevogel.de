@@ -58,9 +58,6 @@ return [
         'yuv' => '420',
     ],
 
-    # Generate donuts charts as inline SVG
-    'fundevogel.donuts.inline' => true,
-
     # Store redirects as JSON
     'distantnative.retour.config' => __DIR__ . '/settings/redirects.json',
 
