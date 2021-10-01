@@ -1,0 +1,21 @@
+Title: Public PGP-Key
+
+----
+
+Mail: maschinenraum@fundevogel.de
+
+----
+
+Cryptography: Elliptic Curve Cryptography (ECC)
+
+----
+
+Type: Curve 25519
+
+----
+
+Length: 256
+
+----
+
+Fingerprint: 167D697B4009B36C0963FFA8CED8B32D46ADF2A5

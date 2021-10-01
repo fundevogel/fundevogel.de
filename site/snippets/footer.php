@@ -42,6 +42,12 @@
                             <?php endif ?>
                         </div>
                         <nav class="text-xs flex flex-wrap justify-center mb-4" role="navigation">
+                            <?php if ($pgpKey = $site->file('0xCED8B32D46ADF2A5.asc')) : ?>
+                            <a class="js-tippy outline-none" href="<?= $pgpKey->url() ?>" title="<?= $pgpKey->content()->mail() ?>">
+                                <span><?= $pgpKey->title()->html() ?></span>
+                            </a>
+                            <span class="mx-2 select-none">|</span>
+                            <?php endif ?>
                             <a class="js-tippy outline-none" href="<?= url('unsere-agb') ?>" title="<?= t('Allgemeine Geschäftsbedingungen') ?>">
                                 <span><?= t('AGB') ?></span>
                             </a>
