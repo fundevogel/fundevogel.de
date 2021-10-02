@@ -74,7 +74,7 @@
             <h2 class="title text-orange-medium"><?= t('Jährliche Höhepunkte') ?></h2>
             <div class="flex flex-col lg:flex-row">
                 <?php foreach ($annualEvents as $event) : ?>
-                <div class="<?php e($event->num() == 1, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
+                <div class="<?php e($event->num() == 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
                     <div class="mb-8 flex justify-center">
                         <a class="rounded-full group overflow-hidden" href="<?= $event->url() ?>">
                             <?= $event->getPreview() ?>
