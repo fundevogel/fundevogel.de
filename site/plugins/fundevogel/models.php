@@ -1,63 +1,47 @@
 <?php
 
+use DateTime;
+use DateTimeZone;
+
 use Kirby\Cms\File;
+use Kirby\Cms\Page;
 
 use Jsvrcek\ICS\Model\Calendar;
 use Jsvrcek\ICS\Model\CalendarEvent;
 use Jsvrcek\ICS\Model\Description\Location;
+use Jsvrcek\ICS\Model\Relationship\Organizer;
 
 use Jsvrcek\ICS\Utility\Formatter;
 use Jsvrcek\ICS\CalendarStream;
 use Jsvrcek\ICS\CalendarExport;
 
 
+class iCalPage extends Page {
+    /**
+     * @return \Kirby\Cms\Files
+     */
+    public function files()
+    {
+        return parent::files()->add(new CalendarFile($this));
+    }
+}
+
+
 class CalendarFile extends File {
-    /**
-     * Start of event
-     *
-     * @var \DateTime
-     */
-    private $eventStart = null;
-
-
-    /**
-     * End of event
-     *
-     * @var \DateTime
-     */
-    private $eventEnd = null;
-
-
-    /**
-     * Name of event
-     *
-     * @var string
-     */
-    private $eventName = null;
-
-
-    /**
-     * Whether event takes a whole day
-     *
-     * @var bool
-     */
-    private $wholeDay = false;
-
-
-    /**
-     * Location of event
-     *
-     * @var string
-     */
-    private $eventLocation = null;
-
-
     /**
      * Timezone
      *
      * @var \DateTimeZone
      */
     private $timezone = null;
+
+
+    /**
+     * Event pages
+     *
+     * @var \Kirby\Cms\Pages
+     */
+    private $events = null;
 
 
     /**
@@ -69,24 +53,17 @@ class CalendarFile extends File {
      */
     public function __construct(\Kirby\Cms\Page $page)
     {
-        $this->eventStart = new DateTime($page->date(), $this->timezone);
-
-        if ($page->dateEnd()->isEmpty()) {
-            $this->eventEnd = clone $this->eventStart;
-            $this->eventEnd->setTime(23, 59, 59);
-
-            if ($this->eventStart->format('H:i:s') === '00:00:00') {
-                $this->wholeDay = true;
-            }
-        }
-
-        else {
-            $this->eventEnd = new DateTime($page->dateEnd(), $this->timezone);
-        }
-
-        $this->eventName = $page->title();
-        $this->eventLocation = $page->location();
+        # Define timezone
         $this->timezone = new DateTimeZone('Europe/Berlin');
+
+        # Define global events (as fallback)
+        $this->events = kirby()->collection('events/all');
+
+        # If event page is being passed ..
+        if ($page->intendedTemplate() == 'calendar.event') {
+            # .. use it as standalone
+            $this->events = new Pages([$page]);
+        }
 
         parent::__construct([
             'filename' => 'calendar.ics',
@@ -128,29 +105,58 @@ class CalendarFile extends File {
      */
     public function read(): string
     {
-        # Location
-        $location = new Location();
-        $location->setName($this->eventLocation);
+        $calendar = (new Calendar())
+            ->setProdId('-//Buchhandlung Fundevogel//Kalender//DE')
+            ->setTimezone($this->timezone);
 
-        $event = new CalendarEvent();
+        # Event organizer
+        $organizer = (new Organizer(new Formatter()))
+            ->setValue(site()->mail())
+            ->setName('Buchhandlung Fundevogel')
+            ->setLanguage('de');
 
-        $event
-            ->setStart($this->eventStart)
-            ->setEnd($this->eventEnd)
-            ->setAllDay($this->wholeDay)
-            ->setSummary($this->eventName)
-            ->addLocation($location);
+        foreach ($this->events as $event) {
+            # Event date & time
+            $wholeDay = false;
 
-        $calendar = new Calendar();
-        $calendar
-            ->setProdId('fundevogel')
-            ->setTimezone($this->timezone)
-            ->addEvent($event);
+            $eventStart = new DateTime($event->date(), $this->timezone);
 
-        $calendarExport = new CalendarExport(new CalendarStream, new Formatter());
-        $calendarExport->addCalendar($calendar);
+            if ($event->dateEnd()->isEmpty()) {
+                $eventEnd = clone $eventStart;
+                $eventEnd->setTime(23, 59, 59);
 
-        return $calendarExport->getStream();
+                if ($eventStart->format('H:i:s') === '00:00:00') {
+                    $wholeDay = true;
+                }
+            }
+
+            else {
+                $eventEnd = new DateTime($event->dateEnd(), $this->timezone);
+            }
+
+            # Event location
+            $location = (new Location())
+                ->setName($event->location())
+                ->setLanguage('de');
+
+            # Event
+            $entry = (new CalendarEvent())
+                ->setOrganizer($organizer)
+                ->setUid($this->parent->uid())
+                ->setStart($eventStart)
+                ->setEnd($eventEnd)
+                ->setAllDay($wholeDay)
+                ->setSummary($event->title())
+                ->setDescription($event->text())
+                ->setUrl($event->link())
+                ->addLocation($location);
+
+            $calendar->addEvent($entry);
+        }
+
+        return (new CalendarExport(new CalendarStream, new Formatter()))
+            ->addCalendar($calendar)
+            ->getStream();
     }
 
 

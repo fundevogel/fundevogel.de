@@ -2,20 +2,17 @@
 
 class CalendarPage extends Page {
     /**
-     * Builds URL of iCal / `ics` calendar file for all events
+     * @return \Kirby\Cms\Pages
      */
-    public function ical(): string
-    {
-        return Str::replace($this->url(), ['https', 'http'], ['webcal', 'webcal']) . '/' . Str::slug(t('Aktuelle Veranstaltungen')) . '.ics';
-    }
-
-
     public function subpages()
     {
         return Pages::factory($this->inventory()['children'], $this);
     }
 
 
+    /**
+     * @return \Kirby\Cms\Pages
+     */
     public function children()
     {
         return parent::children()->add(Pages::factory([
