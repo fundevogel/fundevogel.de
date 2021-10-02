@@ -47,14 +47,11 @@
             else {
                 echo t('Eintritt frei') . '!';
             }
-
-            # Provide download for event
-            $iCal = $event->file('calendar.ics');
         ?>
         <a
             class="mt-4 flex justify-center items-center"
-            download="<?= $iCal->filename() ?>"
-            href="<?= $iCal->url() ?>"
+            href="<?= $event->url() . '.ics' ?>"
+            data-barba-prevent="self"
         >
             <?= useSVG($event->title(), 'w-6 h-6 fill-current', 'calendar-filled') ?>
             <span class="ml-2">
