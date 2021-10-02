@@ -18,6 +18,14 @@ return [
     'routes' => require 'routes.php',
     'thumbs' => require_once 'thumbs.php',
 
+    'hooks' => [
+        'page.update:before' => function (\Kirby\Cms\Page $page)
+        {
+            if (kirby()->collection('events/past')->has($page)) {
+                throw new Exception('Vergangene Veranstaltungen sind gesperrt.');
+            }
+        }
+    ],
 
     ##
     # KIRBY OPTIONS

@@ -9,8 +9,8 @@
             <?php if ($page->hasCover()) : ?>
             <a
                 class="lg:ml-12 group table relative"
-                download="<?= basename($iCal) ?>"
-                href="<?= $iCal ?>"
+                href="<?= Str::replace(page('kalender/veranstaltungen')->url(), ['https', 'http'], ['webcal', 'webcal']) . '.ics' ?>"
+                data-barba-prevent="self"
             >
                 <figure class="inline-block rounded-lg">
                     <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
@@ -63,6 +63,7 @@
     <p class="italic text-center"><?= t('Keine Veranstaltungen') ?></p>
     <?php endif ?>
 </section>
+<?php if ($annualEvents->isNotEmpty()) : ?>
 <aside class="wave">
     <?= useSeparator('orange-light', 'top-reversed') ?>
     <div class="pt-12 pb-6 lg:pb-4 bg-orange-light">
@@ -72,48 +73,37 @@
             </div>
             <h2 class="title text-orange-medium"><?= t('Jährliche Höhepunkte') ?></h2>
             <div class="flex flex-col lg:flex-row">
-                <?php
-                    $count = 1;
-                    foreach ($annualEvents as $annualEvent) :
-                ?>
-                <div class="<?php e($count === 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
+                <?php foreach ($annualEvents as $event) : ?>
+                <div class="<?php e($event->num() == 2, 'lg:mx-12 xl:mx-16 ') ?>mb-8">
                     <div class="mb-8 flex justify-center">
-                        <a
-                            class="rounded-full group overflow-hidden"
-                            href="<?= $annualEvent->url() ?>"
-                        >
-                            <?= $annualEvent->getPreview() ?>
+                        <a class="rounded-full group overflow-hidden" href="<?= $event->url() ?>">
+                            <?= $event->getPreview() ?>
                         </a>
                     </div>
                     <div class="text-center">
                         <h3>
-                            <a
-                                class="text-orange-medium hover:text-orange-dark"
-                                href="<?= $annualEvent->url() ?>"
-                            >
-                                <?= $annualEvent->title()->html() ?>
+                            <a class="text-orange-medium hover:text-orange-dark" href="<?= $event->url() ?>">
+                                <?= $event->title()->html() ?>
                             </a>
                         </h3>
-                        <?= $annualEvent->previewDescription()->kt() ?>
+                        <?= $event->previewDescription()->kt() ?>
                     </div>
                 </div>
-                <?php
-                    $count++;
-                    endforeach
-                ?>
+                <?php endforeach ?>
             </div>
         </div>
     </div>
     <?= useSeparator('orange-light', 'bottom') ?>
 </aside>
+<?php endif ?>
 <?php if ($closedEvents->isNotEmpty()) : ?>
 <section class="container">
     <h2 class="mb-12 text-center"><?= t('Geschlossene Veranstaltungen') ?></h2>
     <div class="js-masonry">
-        <?php foreach ($closedEvents as $event) : ?>
+        <?php foreach ($kirby->collection('events/closed') as $event) : ?>
         <div class="card">
             <h4><?= $event->title() ?></h4>
-            <?php snippet('calendar/quick-view', compact('event')) ?>
+            <?php snippet('calendar/quickview', compact('event')) ?>
         </div>
         <?php endforeach ?>
     </div>

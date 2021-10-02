@@ -1,8 +1,6 @@
 <?php
 
 return function ($kirby) {
-    $events = $kirby->collection('events/all');
-
-    # Process events by ..
-    return $events->not($kirby->collection('events/past'));
+    # All events without past events equals current events
+    return $kirby->collection('events/all')->without($kirby->collection('events/past'));
 };

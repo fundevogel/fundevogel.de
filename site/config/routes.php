@@ -6,29 +6,6 @@
 
 return [
     [
-        'pattern' => 'kalender/(:all).ics',
-        'action' => function($all) {
-            # Set defaults
-            # (1) Name file after calendar page
-            $title = page('kalender')->uid();
-
-            # (2) Include all current events
-            $events = kirby()->collection('events/open');
-
-            # If page for given event exists ..
-            if ($event = page('kalender/veranstaltungen/' . $all)) {
-                # (1) .. name file after event
-                $title = $event->uid();
-
-                # (2) .. include only given event
-                $events = new Pages([$event]);
-            }
-
-            # Send iCal body
-            return snippet('calendar/ical', compact('title', 'events'));
-        },
-    ],
-    [
         'pattern' => 'news/(:any)',
         'action' => function($any) {
             if ($any == 'json') {
@@ -89,12 +66,6 @@ return [
     ],
     [
         'pattern' => 'kalender/veranstaltungen',
-        'action' => function() {
-            return go('kalender', 301);
-        },
-    ],
-    [
-        'pattern' => 'kalender/veranstaltungen/(:any)',
         'action' => function() {
             return go('kalender', 301);
         },
