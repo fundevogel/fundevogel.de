@@ -1,9 +1,6 @@
 <?php
 
 return function ($kirby, $page) {
-    # Calendar file
-    $iCal = $page->iCal();
-
     # Open events
     $openEvents = $kirby->collection('events/open')->group(function($event) {
         $date = $event->date();
@@ -24,16 +21,9 @@ return function ($kirby, $page) {
         return t('In der Ferne');
     });
 
-    # Closed events
-    $closedEvents = $kirby->collection('events/closed');
-
-    # Annual events
-    $annualEvents = $page->children()->filterBy('intendedTemplate', 'calendar.single');
-
-    return compact(
-        'iCal',
-        'openEvents',
-        'closedEvents',
-        'annualEvents',
-    );
+    return [
+        'openEvents' => $openEvents,
+        'closedEvents' => $kirby->collection('events/closed'),
+        'annualEvents' => $kirby->collection('events/annual'),
+    ];
 };
