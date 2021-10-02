@@ -22,6 +22,8 @@ Gelegentlich informieren wir auf unserer Webseite auch über Neuigkeiten aus dem
 - Neuigkeiten als Feed im (link: news/json text: JSON target: blank)-Format
 - Neuigkeiten als Feed im (link: news/rss text: RSS target: blank)-Format
 
+Kurze Geschichten aus dem Ladenalltag, neue Lesetipps und mehr veröffentlichen wir außerdem (link: https://freiburg.social/@Fundevogel text: auf Mastodon target: blank) - praktischerweise ebenfalls einfach als (link: https://freiburg.social/@Fundevogel.rss text: RSS-Feed) zu abonnieren!
+
 ----
 
 Cover:
