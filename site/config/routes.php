@@ -71,14 +71,6 @@ return [
         },
     ],
     [
-        'pattern' => 'kalender/veranstaltungen/(:any)',
-        'action' => function($any) {
-            if (!$Str::contains($any, '.ics')) {
-                return go('kalender', 301);
-            }
-        },
-    ],
-    [
        'pattern' => 'sitemap.xml',
        'action' => function() {
             $pages = site()->pages()->index();
