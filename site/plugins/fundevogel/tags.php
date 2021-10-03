@@ -53,6 +53,9 @@ return [
                 'role'   => $tag->role,
                 'title'  => $tag->title,
                 'target' => $tag->target,
+
+                # (2) Prevent Barba preloading
+                'data-barba-prevent' => 'true',
             ];
 
             # (2) Add tooltips if `title` attribute present
