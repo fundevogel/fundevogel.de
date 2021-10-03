@@ -8,7 +8,9 @@
         </div>
         <div class="mt-12 lg:ml-12 flex-none flex justify-center">
             <?php foreach ($editions as $edition) : ?>
-            <?php snippet('lesetipps/edition', compact('edition')) ?>
+            <div>
+                <?php snippet('lesetipps/edition', compact('edition')) ?>
+            </div>
             <?php endforeach ?>
         </div>
     </div>

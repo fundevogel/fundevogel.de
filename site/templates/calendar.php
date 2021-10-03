@@ -5,25 +5,27 @@
         <div class="flex-1">
             <?= $page->text()->kt() ?>
         </div>
+        <?php if ($page->hasCover()) : ?>
         <div class="mt-12 flex-none flex justify-center">
-            <?php if ($page->hasCover()) : ?>
-            <a
-                class="lg:ml-12 group table relative"
-                href="<?= Str::replace(page('kalender/veranstaltungen')->url(), ['https', 'http'], ['webcal', 'webcal']) . '.ics' ?>"
-                data-barba-prevent="self"
-            >
-                <figure class="inline-block rounded-lg">
-                    <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
-                    <figcaption class="small-caption"><?= $page->getCover()->caption()->html() ?></figcaption>
-                </figure>
-                <?php snippet('components/shared/gradient-overlay', [
-                    'caption' => t('Aktuelle Veranstaltungen'),
-                    'icon' => 'calendar-filled',
-                    'details' => t('als iCal-Datei abonnieren')
-                ]) ?>
-            </a>
-            <?php endif ?>
+            <div>
+                <a
+                    class="lg:ml-12 group table relative"
+                    href="<?= Str::replace(page('kalender/veranstaltungen')->url(), ['https', 'http'], ['webcal', 'webcal']) . '.ics' ?>"
+                    data-barba-prevent="self"
+                >
+                    <figure class="inline-block rounded-lg">
+                        <?= $page->getCover()->createImage('rounded-t-lg', 'cover', false, true) ?>
+                        <figcaption class="small-caption"><?= $page->getCover()->caption()->html() ?></figcaption>
+                    </figure>
+                    <?php snippet('components/shared/gradient-overlay', [
+                        'caption' => t('Aktuelle Veranstaltungen'),
+                        'icon' => 'calendar-filled',
+                        'details' => t('als iCal-Datei abonnieren')
+                    ]) ?>
+                </a>
+            </div>
         </div>
+        <?php endif ?>
     </div>
 </header>
 <hr>
