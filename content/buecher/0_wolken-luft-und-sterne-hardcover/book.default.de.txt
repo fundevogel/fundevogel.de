@@ -1,0 +1,140 @@
+Title: Wolken, Luft und Sterne
+
+----
+
+Isbn: 978-3-8369-6133-2
+
+----
+
+Subtitle: Von der Erde bis ins All
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Hélène Druvert
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Ursula Bachhausen
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 40
+
+----
+
+Price: 26,00
+
+----
+
+Topics: Erde, Himmel, Luft, Luftfahrt, Stern, Wind, Wolken
+
+----
+
+Description:
+
+Der Himmel ist wie ein riesiges Gebäude: In jedem Stockwerk gibt es etwas zu entdecken. Direkt zu unseren Füßen werden Pollen durch den Wind von einer Pflanze zur nächsten getragen, Insekten und Vögel schwirren durch die Luft. Hoch oben können wir Wolken und vielleicht ein Flugzeug oder ein anderes Fluggerät entdecken. Wenn wir noch weiter hinaufsteigen, erwartet uns das Weltall mit unzähligen Planeten, Sternen und Asteroiden. Mit seinen Klappen und ästhetischen Scherenschnitten hält dieses Buch noch viele weitere Überraschungen bereit. So kommen wir dem Himmel ganz nah!
+
+In diesem großformatigen Sachbuch kann man dank zahlreicher Lasercut-Scherenschnitte und vieler Klappen die wunderbare Welt des Himmels erforschen - bis in die Weiten des Weltalls!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003725376/63715/10002/-3/Buecher_Sachbuecher/Hlne-Druvert/Wolken-Luft-und-Sterne
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  wolken-luft-und-sterne_helene-druvert.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

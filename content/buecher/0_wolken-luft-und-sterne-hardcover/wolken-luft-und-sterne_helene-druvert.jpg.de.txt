@@ -1,0 +1,21 @@
+Titleattribute: "Wolken, Luft und Sterne" von Hélène Druvert
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Wolken, Luft und Sterne" von Hélène Druvert
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image
