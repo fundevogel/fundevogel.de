@@ -7,28 +7,28 @@ fields:
       en: Opening hours
 
   weekStart:
-    extends: fields/time
+    extends: fields/base/time
     label:
       de: Beginn (Woche)
       en: Start (Week)
     width: 1/2
 
   weekEnd:
-    extends: fields/time
+    extends: fields/base/time
     label:
       de: Ende (Woche)
       en: End (Week)
     width: 1/2
 
   weekendStart:
-    extends: fields/time
+    extends: fields/base/time
     label:
       de: Beginn (Wochenende)
       en: Start (Weekend)
     width: 1/2
 
   weekendEnd:
-    extends: fields/time
+    extends: fields/base/time
     label:
       de: Ende (Wochenende)
       en: End (Weekend)

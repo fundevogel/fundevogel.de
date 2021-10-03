@@ -10,7 +10,7 @@ tabs:
     extends: tabs/content
     fields:
       directions: custom/contact/directions
-      form: custom/constact/form
+      form: custom/contact/form
 
     sidebar:
       sidebar_fields:

@@ -8,7 +8,7 @@ Slug: contact
 
 Text:
 
-## Votre chemin pour nous
+## Comment vous parviendrez
 Notre librairie se trouve dans la Marienstraße idylienne située à la périphérie de la vieille ville méridionale, toujours à l’intérieur de la zone piétonne, dans un quartier léger dont la magie invite de la même manière les résidents et les touristes à rester - venez voir par vous-même !
 
 ----
@@ -25,13 +25,23 @@ Tram: Si vous venez en tram : arrêtez-vous à "Bertoldsbrunnen", "Holzmarkt" ou
 
 ----
 
-Cover:
+Formtext:
 
-- stadtkarte-fundevogel.jpg
+## Ein offenes Ohr
+Der kleine Neffe hat am Wochenende Geburtstag und Ihr braucht noch eine Last-Minute-Beratung? Ihr plant eine Veranstaltung und wünscht Euch einen gut sortierten Büchertisch? Und wie heißt noch dieses tolle Buch, von dem die Kollegin neulich so geschwärmt hat ..
+
+Über das Kontaktformular steht Euch eine **schnelle und einfache Möglichkeit** zur Verfügung, **mit uns in Verbindung zu treten**. Lasst uns wissen, was ihr denkt oder braucht, und wir melden uns zeitnah per Email bei Euch. Wir freuen uns, von Euch zu hören!
 
 ----
 
-Meta-title:
+Formerror:
+
+### Fehler beim Absenden
+Beim Versuch, eine Nachricht zu senden, ist leider etwas schiefgegangen:
+
+----
+
+Meta-title: 
 
 ----
 
@@ -39,15 +49,11 @@ Meta-description: La librairie Fundevogel est au coeur de la vielle ville idylli
 
 ----
 
-Meta-keywords:
+Meta-canonical-url: 
 
 ----
 
-Meta-canonical-url:
-
-----
-
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -57,15 +63,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -75,23 +81,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -99,35 +105,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -141,8 +147,33 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Kontaktinfos:
+
+## Kontaktinfos
+Marienstr. 13 - 79098 Freiburg
+Tel.: 0761/25218 - Fax: 0761/30041
+info@fundevogel.de
+
+----
+
+Oeffnungszeiten: 
+
+----
+
+Time-start: 09:30:00
+
+----
+
+Time-end: 18:00:00

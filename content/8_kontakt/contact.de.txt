@@ -4,7 +4,7 @@ Title: Kontakt
 
 Text:
 
-## Euer Weg zu uns
+## So erreicht Ihr uns
 Unsere Buchhandlung befindet sich in der idyllischen Marienstraße am Rande der südlichen Altstadt, noch innerhalb der Fußgängerzone, in einem gemütlichen Viertel, dessen ganz eigene Magie Einheimische und Touristen gleichermaßen zum Verweilen einlädt - kommt und seht selbst!
 
 ----
@@ -30,6 +30,13 @@ Der kleine Neffe hat am Wochenende Geburtstag und Ihr braucht noch eine Last-Min
 
 ----
 
+Formerror:
+
+### Fehler beim Absenden
+Beim Versuch, eine Nachricht zu senden, ist leider etwas schiefgegangen:
+
+----
+
 Cover:
 
 - stadtkarte-fundevogel.jpg
@@ -52,13 +59,6 @@ Weekendend: 16:00:00
 
 ----
 
-Formerror:
-
-### Fehler beim Absenden
-Beim Versuch, eine Nachricht zu senden, ist leider etwas schiefgegangen:
-
-----
-
 Meta-title: Für Euch erreichbar
 
 ----
@@ -67,11 +67,11 @@ Meta-description: Ihr erreicht uns wochentags 9:30–18:30 Uhr, samstags 9:30–
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -81,15 +81,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -99,23 +99,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -123,35 +123,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -165,15 +165,15 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
 
 ----
 
-Meta-keywords:
+Meta-keywords: 
 
 ----
 
@@ -186,7 +186,7 @@ info@fundevogel.de
 
 ----
 
-Oeffnungszeiten:
+Oeffnungszeiten: 
 
 ----
 
