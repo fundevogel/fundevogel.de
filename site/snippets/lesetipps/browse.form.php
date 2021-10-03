@@ -18,7 +18,7 @@
                     foreach ($array as $item) :
                     $params = A::update(params(), [$field => rawurlencode($item)]);
 
-                    // Reset page count when changing category
+                    # Reset page count when changing category
                     if ($isPaginated = param('page')) {
                         unset($params['page']);
                     }
@@ -35,7 +35,7 @@
 
     <div class="mt-4 flex flex-col md:flex-row">
         <div class="flex-1">
-            <form class="w-full pl-4 pr-2 py-2 bg-orange-light border-4 border-dashed border-orange-medium rounded-lg flex justify-between items-center relative">
+            <form class="form-input pl-4 pr-2 flex justify-between items-center relative">
                 <input
                     class="w-full font-base text-orange-medium placeholder-orange-medium placeholder-opacity-100 bg-orange-light appearance-none outline-none focus:outline-none active:outline-none"
                     type="search"

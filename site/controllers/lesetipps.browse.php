@@ -31,7 +31,7 @@ return function ($kirby, $page) {
 
                 $results = $results->filter(function($lesetipp) use ($books) {
                     foreach ($books as $book) {
-                        if ($lesetipp->books()->toPages()->has($book)) {
+                        if ($lesetipp->book()->toPages()->has($book)) {
                             return $lesetipp;
                         }
                     }
