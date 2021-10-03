@@ -46,10 +46,10 @@
                             <a
                                 class="js-tippy outline-none"
                                 href="<?= $pgpKey->url() ?>"
-                                title="<?= $pgpKey->content()->mail() ?>"
+                                title="<?= chunk_split($pgpKey->content()->fingerprint(), 4, ' ') ?> - <?= $pgpKey->content()->mail() ?>"
                                 data-barba-prevent="self"
                             >
-                                <span><?= $pgpKey->title()->html() ?></span>
+                                <span><?= $pgpKey->title() ?></span>
                             </a>
                             <span class="mx-2 select-none">|</span>
                             <?php endif ?>
