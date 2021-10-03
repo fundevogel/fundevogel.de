@@ -26,15 +26,11 @@ Noch heute sind da der Laden, die Liebe und die gemeinsame Idee, welche die "Gr�
 
 ----
 
-Presskit:
-
-Alle Informationen und Bilder über den Fundevogel findet Ihr auch in unserer Pressemappe - **schnell, übersichtlich und kompakt**. Natürlich können auch alle sonstigen Texte unserer Webseite im Rahmen einer Berichterstattung genutzt werden.
-
-Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer NutzerInnen legen, haben wir auch eine Reihe (link: technisches text: technische Informationen) über unsere Webseite zusammengestellt - außerdem ist der gesamte Quellcode unseres Internetauftritts auf GitHub (link: https://github.com/Fundevogel/fundevogel.de text: frei verfügbar target: blank).
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"B\u00fccher \u00f6ffnen Welten - Welten \u00f6ffnen dich"},"id":"653ac68e-8498-474b-a922-b695a31df11f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Lesef\u00f6rderung mit vielf\u00e4ltigen Angeboten und Aktionen f\u00fcr Kinderg\u00e4rten und Schulen, anl\u00e4sslich der Feierlichkeiten zum <a href=\"https:\/\/fundevogel.de\/kalender\/welttag-des-buches\" rel=\"noopener noreferrer nofollow\">Welttag des Buches<\/a> oder als <a href=\"https:\/\/fundevogel.de\/unser-netzwerk\" rel=\"noopener noreferrer nofollow\">Kooperationspartner<\/a> des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts \u201cFu\u00dfball und Lesen\u201d.<\/p><p>Daneben veranstaltet der Fundevogel regelm\u00e4\u00dfig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkr\u00e4ftig an Planung und Durchf\u00fchrung des \u201c<a href=\"https:\/\/fundevogel.de\/kalender\/lirum-larum-lesefest\" rel=\"noopener noreferrer nofollow\">Lirum Larum Lesefestes<\/a>\u201d der Stadt Freiburg, einem j\u00e4hrlich im Oktober stattfindenden Kinderliteraturfestival.<\/p><p>Ein besonderes Ereignis bildet die \"<a href=\"https:\/\/fundevogel.de\/kalender\/herbstlese\" rel=\"noopener noreferrer nofollow\">HerbstLese<\/a>\": in gem\u00fctlicher Atmosph\u00e4re stellen die MitarbeiterInnen der Buchhandlung ihre ganz pers\u00f6nlichen Lieblingsb\u00fccher aus der Flut herbstlicher Neuerscheinungen vor.<\/p>"},"id":"99900931-4305-4e76-973d-84fa74c0ffc6","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"17bdc3f0-8890-4c69-bbe9-dd4d354719aa","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Gemeinsam in die Zukunft"},"id":"3a82c5d3-f467-426a-90c8-33d2078a00ab","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zusammen mit seinen Kundinnen und Kunden, FreundInnen und F\u00f6rderern soll der Fundevogel als Genossenschaft fortgef\u00fchrt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:<\/p><p>Der besondere Geist des Ladens soll auch f\u00fcr zuk\u00fcnftige Generationen erhalten bleiben, w\u00e4hrend die digitale Transformation des Buchmarktes fortw\u00e4hrend neue Herausforderungen hervorbringt.<\/p><p><strong>Einer f\u00fcr alle und alle f\u00fcr einen<\/strong> - wir freuen uns darauf!<\/p>"},"id":"b683b6cf-1e79-4b30-8bbe-2746dda098c0","isHidden":false,"type":"text"}],"id":"dfd305b3-a57d-475a-92a5-d2fbcf13fdd1","width":"1\/1"}],"id":"16833d52-1088-4531-a142-ab342f37f595"}]
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"B\u00fccher \u00f6ffnen Welten - Welten \u00f6ffnen dich"},"id":"653ac68e-8498-474b-a922-b695a31df11f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Damals wie heute engagiert sich die Kinder- und Jugendbuchhandlung Fundevogel im Bereich der Lesef\u00f6rderung mit vielf\u00e4ltigen Angeboten und Aktionen f\u00fcr Kinderg\u00e4rten und Schulen, anl\u00e4sslich der Feierlichkeiten zum <a href=\"https:\/\/fundevogel.de\/kalender\/welttag-des-buches\" rel=\"noopener noreferrer nofollow\">Welttag des Buches<\/a> oder als <a href=\"https:\/\/fundevogel.de\/netzwerk\" rel=\"noopener noreferrer nofollow\">Kooperationspartner<\/a> des Freiburger Bundesligisten SC Freiburg im Rahmen des Projekts \u201cFu\u00dfball und Lesen\u201d.<\/p><p>Daneben veranstaltet der Fundevogel regelm\u00e4\u00dfig Lesungen mit AutorInnen aus dem Bereich der Kinder- und Jugendliteratur und beteiligt sich tatkr\u00e4ftig an Planung und Durchf\u00fchrung des \u201c<a href=\"https:\/\/fundevogel.de\/kalender\/lirum-larum-lesefest\" rel=\"noopener noreferrer nofollow\">Lirum Larum Lesefestes<\/a>\u201d der Stadt Freiburg, einem j\u00e4hrlich im Oktober stattfindenden Kinderliteraturfestival.<\/p><p>Ein besonderes Ereignis bildet die \"<a href=\"https:\/\/fundevogel.de\/kalender\/herbstlese\" rel=\"noopener noreferrer nofollow\">HerbstLese<\/a>\": in gem\u00fctlicher Atmosph\u00e4re stellen die MitarbeiterInnen der Buchhandlung ihre ganz pers\u00f6nlichen Lieblingsb\u00fccher aus der Flut herbstlicher Neuerscheinungen vor.<\/p>"},"id":"99900931-4305-4e76-973d-84fa74c0ffc6","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"17bdc3f0-8890-4c69-bbe9-dd4d354719aa","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Gemeinsam in die Zukunft"},"id":"3a82c5d3-f467-426a-90c8-33d2078a00ab","isHidden":false,"type":"heading"},{"content":{"text":"<p>Zusammen mit seinen Kundinnen und Kunden, FreundInnen und F\u00f6rderern soll der Fundevogel als Genossenschaft fortgef\u00fchrt werden - denn alle Beteiligten verbindet ein gemeinsamer Wunsch:<\/p><p>Der besondere Geist des Ladens soll auch f\u00fcr zuk\u00fcnftige Generationen erhalten bleiben, w\u00e4hrend die digitale Transformation des Buchmarktes fortw\u00e4hrend neue Herausforderungen hervorbringt.<\/p><p><strong>Einer f\u00fcr alle und alle f\u00fcr einen<\/strong> - wir freuen uns darauf!<\/p>"},"id":"b683b6cf-1e79-4b30-8bbe-2746dda098c0","isHidden":false,"type":"text"}],"id":"dfd305b3-a57d-475a-92a5-d2fbcf13fdd1","width":"1\/1"}],"id":"16833d52-1088-4531-a142-ab342f37f595"}]
+Subtitle: Bilder zum Download
 
 ----
 
@@ -52,7 +48,11 @@ Gallery:
 
 ----
 
-Subtitle: Bilder zum Download
+Presskit:
+
+Alle Informationen und Bilder über den Fundevogel findet Ihr auch in unserer Pressemappe - **schnell, übersichtlich und kompakt**. Natürlich können auch alle sonstigen Texte unserer Webseite im Rahmen einer Berichterstattung genutzt werden.
+
+Da wir im digitalen Raum großen Wert auf Transparenz und die Freiheiten unserer NutzerInnen legen, haben wir auch eine Reihe (link: technisches text: technische Informationen) über unsere Webseite zusammengestellt - außerdem ist der gesamte Quellcode unseres Internetauftritts auf GitHub (link: https://github.com/Fundevogel/fundevogel.de text: frei verfügbar).
 
 ----
 
@@ -64,15 +64,11 @@ Meta-description: Es ist unser zentrales Anliegen, die Beschäftigung mit Litera
 
 ----
 
-Meta-keywords:
+Meta-canonical-url: 
 
 ----
 
-Meta-canonical-url:
-
-----
-
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -82,15 +78,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -100,23 +96,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -124,35 +120,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -166,11 +162,15 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
+
+----
+
+Meta-keywords: 
 
 ----
 
