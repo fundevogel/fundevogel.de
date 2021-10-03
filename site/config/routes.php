@@ -122,6 +122,36 @@ return [
         },
     ],
     [
+        'pattern' => 'kalender/json',
+        'method' => 'GET',
+        'action'  => function () {
+            $options = [
+                'title'       => 'Veranstaltungen vom Fundevogel',
+                'description' => 'Alle Veranstaltungen des Fundevogels.',
+                'feedurl'     => page('kalender')->url() . '/json',
+                'link'        => 'kalender',
+                'snippet'     => 'feed/json',
+            ];
+
+            return kirby()->collection('events/all')->flip()->limit(12)->feed($options);
+        },
+    ],
+    [
+        'pattern' => 'kalender/rss',
+        'method' => 'GET',
+        'action'  => function () {
+            $options = [
+                'title'       => 'Veranstaltungen vom Fundevogel',
+                'description' => 'Alle Veranstaltungen des Fundevogels.',
+                'feedurl'     => page('kalender')->url() . '/rss',
+                'link'        => 'kalender',
+                'snippet'     => 'feed/rss',
+            ];
+
+            return kirby()->collection('events/all')->flip()->limit(12)->feed($options);
+        },
+    ],
+    [
         'pattern' => 'feeds/json',
         'method' => 'GET',
         'action'  => function () {

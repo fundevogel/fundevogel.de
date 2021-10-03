@@ -33,7 +33,7 @@
         "getkirby/cms": "3.5.7.1",
         "afbora/kirby-minify-html": "1.5.0",
         "beebmx/kirby-env": "3.0.0",
-        "bnomei/kirby3-feed": "1.4.2",
+        "bnomei/kirby3-feed": "1.5.1",
         "bnomei/kirby3-fingerprint": "3.0.14",
         "bnomei/kirby3-janitor": "2.10.0",
         "bnomei/kirby3-security-headers": "2.5.2",

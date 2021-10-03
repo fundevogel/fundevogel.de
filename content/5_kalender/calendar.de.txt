@@ -7,7 +7,7 @@ Text:
 ## Wir freuen uns auf Euch
 Hier findet Ihr alle Informationen zu den aktuellen Veranstaltungen des Fundevogels.
 
-Unseren Veranstaltungskalender könnt Ihr mit einem Klick auf das nebenstehende Bild auch abonnieren - so finden alle künftigen Veranstaltungen ihren Weg direkt in Euren Kalender!
+Unseren Veranstaltungskalender könnt Ihr mit einem Klick auf das nebenstehende Bild auch abonnieren - so finden künftig alle Veranstaltungen ihren Weg direkt in Euren Kalender! Alternativ auch als Feed in den Formaten (link: kalender/json text: JSON target: blank) und (link: kalender/rss text: RSS target: blank).
 
 Wenn Ihr sehen wollt, was wir in der Vergangenheit so alles auf die Beine gestellt haben, dann schaut doch mal vorbei in unserem (link: kalender/vergangene-veranstaltungen text: Archiv).
 
