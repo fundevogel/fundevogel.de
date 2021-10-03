@@ -24,7 +24,7 @@ Im Laufe der Weiterentwicklung unserer Webseite kommen neue Pakete hinzu, andere
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Bildquellen"},"id":"84c075d7-8e98-4a82-9001-1e1645a93ef9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Daneben spielen auch andere Ressourcen eine gro\u00dfe Rolle, die ebenfalls nicht unerw\u00e4hnt bleiben sollen. Bei der Verwendung hochwertiger Abbildungen und Grafiken gehen wir so vor:<\/p>"},"id":"a1be15ec-a6e9-432f-9a52-eb70b078bb8f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Alle Buchcover, die auf unserer Webseite zu finden sind, stammen (soweit nicht anders angegeben) aus dem (link: https:\/\/portal.dnb.de text: Katalog) der (link: wiki=Deutsche Nationalbibliothek text: Deutschen Nationabibliothek).<\/li><li>Als (short: Icons desc: Symbolbilder) verwenden wir die exzellenten &amp; quelloffenen Sets (link: https:\/\/feathericons.com text: Feather Icons) und (link: https:\/\/akveo.github.io\/eva-icons text: Eva Icons), zwei Graphiken stammen au\u00dferdem jeweils von den (link: https:\/\/heroicons.dev text: Hero Icons) und den (link: https:\/\/vorillaz.github.io\/devicons text: Devicons).<\/li><li>F\u00fcr hochwertige, lizenzfreie Bilder aller Art ist (link: https:\/\/unsplash.com text: Unsplash) unsere erste Wahl.<\/li><\/ul>"},"id":"6dfebccf-b48d-437d-b012-9d338e0409bb","isHidden":false,"type":"list"},{"content":{"size":"sm"},"id":"d1b7fea3-ca29-4a5d-9d4e-97fcd60c603c","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Schnittstellen"},"id":"d721c20d-e01e-49f8-850c-a967035de852","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Nutzung einer (short: API desc: Programmierschnittstelle, engl. 'application programming interface') erm\u00f6glicht uns zudem die Abfrage bestimmter Informationen, etwa Titeldaten von B\u00fcchern \u00fcber die <a href=\"https:\/\/www.knv-zeitfracht.de\/wp-content\/uploads\/2021\/01\/Webservice_ZF_2.0_21.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">WSDL-Schnittstelle<\/a> unseres Gro\u00dfh\u00e4ndlers <a href=\"http:\/\/www.knv-zeitfracht.de\" rel=\"noopener noreferrer nofollow\">KNV Zeitfracht<\/a>.<\/p><p>F\u00fcr die Informationen auf dieser Seite verwenden wir Schnittstellen<\/p>"},"id":"21286938-738a-4be7-9087-2d0f4e2bacd3","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>der Plattform <a href=\"https:\/\/packagist.org\/apidoc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Packagist<\/a> f\u00fcr unsere (link: wiki=Composer (Paketverwaltung) text: Composer)-Pakete,<\/li><li>des Open-Source-Projekts <a href=\"https:\/\/api-docs.npms.io\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">npms<\/a> f\u00fcr alles, was mittels (link: wiki=npm (Software) text: npm) eingebunden wird,<\/li><li>des Code-Hosters <a href=\"https:\/\/docs.github.com\/de\/rest\" target=\"_blank\" title=\"\" rel=\"noopener noreferrer nofollow\">GitHub<\/a> f\u00fcr Informationen zu unserem (link: wiki text: Git)-Repositorium,<\/li><li>des Mozilla-Angebots <a href=\"https:\/\/github.com\/mozilla\/http-observatory\/blob\/master\/httpobs\/docs\/api.md\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Observatory<\/a> zur Bewertung sicherheitsrelevanter Einstellungen sowie<\/li><li>des Google-Dienstes <a href=\"https:\/\/developers.google.com\/speed\/docs\/insights\/v5\/about\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">PageSpeed Insights<\/a> zur Erfassung der Leistungsf\u00e4higkeit.<\/li><\/ul>"},"id":"68eaa416-e877-428a-a6d7-2e5e6b964458","isHidden":false,"type":"list"},{"content":{"text":"<p>Ob verwendete Software, Programmiersprachen (einschlie\u00dflich Diagramm) oder Codezeilen und Commits - <strong>alle Angaben werden \"per Knopfdruck\" aktualisiert<\/strong>: Dabei sendet der Computer, auf dem (short: unsere Webseite desc: Es besteht also zu keinem Zeitpunkt eine Verbindung zwischen Euch und den aufgef\u00fchrten Diensten!) l\u00e4uft (der sogenannte <em>Server<\/em>), an jede der oben genannten APIs eine (short: Anfrage desc: engl. 'request') und macht aus ihrer (short: Antwort desc: engl. 'response') anschlie\u00dfend <strong>\"ganz normalen\" Seiteninhalt<\/strong> - genau wie diesen Text hier.<\/p>"},"id":"581fe84d-c5aa-48b1-b42f-cbcaa45ff6e1","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Probiert es aus!"},"id":"d5a5f8c8-244d-4300-808b-5e98544668b8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wenn ihr unsere Seite selbst auf Sicherheit oder Geschwindigkeit abklopfen wollt, k\u00f6nnt ihr die <a href=\"https:\/\/observatory.mozilla.org\/analyze\/fundevogel.de\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tests von Mozillas Observatory<\/a> und <a href=\"https:\/\/developers.google.com\/speed\/pagespeed\/insights\/?url=fundevogel.de\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Googles PageSpeed-Dienst<\/a> auch selbst durchf\u00fchren - diese Dienste erleichtern den Einstieg in die Optimierung von Webseiten, indem sie erste Anhaltspunkte f\u00fcr m\u00f6gliche Problemstellen liefern.<\/p><p>Im Bereich der Webentwicklung gibt es viele kostenlose (englischsprachige) Werkzeuge, um die Leistungsf\u00e4higkeit einer Webseite unter die Lupe zu nehmen; diese basieren aber oftmals auf bestehenden L\u00f6sungen und bringen neben einer aufger\u00e4umten, graphisch ansprechenden Oberfl\u00e4che inhatlich wenig eigenes. Ein positives Gegenbeispiel soll allerdings nicht unerw\u00e4hnt bleiben: der <a href=\"https:\/\/www.webpagetest.org\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">WebPageTest<\/a>, dessen gesamter Code <a href=\"https:\/\/github.com\/WPO-Foundation\/webpagetest\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">offen einsehbar<\/a> einsehbar ist.<\/p>"},"id":"55a27045-6984-408b-8504-8cc34a26dbe6","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"fe1cbbd7-4639-4948-aa72-633f7eeec21a","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Sonstige Dienste"},"id":"33fa3d38-60b8-47cd-9f99-6ba5986baf5a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Daneben nutzen wir f\u00fcr unsere Webseite folgende hilfreiche Werkzeuge:<\/p>"},"id":"89978047-740b-4319-8fe9-fadf8d2d4a28","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Gelegentlich testen wir manuell, mit welchen Einstellungen sich eine (short: SVG-Graphik optimieren desc: Vektorgraphiken sind Zeichenketten - manches kann man zusammenfassen, manches weglassen) l\u00e4sst - dann greifen wir auf den Dienst <a href=\"https:\/\/jakearchibald.github.io\/svgomg\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SVGOMG<\/a> zur\u00fcck, den der Google-Entwickler Jake Archibald <a href=\"https:\/\/github.com\/jakearchibald\/svgomg\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">zur Verf\u00fcgung stellt<\/a>.<\/li><li>F\u00fcr die \u00dcbersetzung einzelner W\u00f6rter - seltener auch mal kleinerer Texte - in andere Sprachen nutzen wir den frei verf\u00fcgbaren <a href=\"https:\/\/www.presidencymt.eu\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">EU Council Presidency Translator<\/a>, welcher anl\u00e4sslich der deutschen Ratspr\u00e4sidentschaft ver\u00f6ffentlicht wurde und auf dem von einem Supercomputer in Island betriebenen <a href=\"https:\/\/www.heise.de\/hintergrund\/Maschinenintelligenz-Der-Besseruebersetzer-3814856.html\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">maschinenlernenden DeepL-\u00dcbersetzer<\/a> aus K\u00f6ln basiert (angetrieben von Wasserkraft und Erdw\u00e4rme).<\/li><\/ul>"},"id":"2ecce928-f295-40e4-9557-60ecb24ab001","isHidden":false,"type":"list"}],"id":"59b51327-2ee1-4252-a62b-9c3abbc918ce","width":"1\/1"}],"id":"6b88aed4-6eeb-4b13-a29d-ecf1b81b3fb0"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Bildquellen"},"id":"84c075d7-8e98-4a82-9001-1e1645a93ef9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Daneben spielen auch andere Ressourcen eine gro\u00dfe Rolle, die ebenfalls nicht unerw\u00e4hnt bleiben sollen. Bei der Verwendung hochwertiger Abbildungen und Grafiken gehen wir so vor:<\/p>"},"id":"a1be15ec-a6e9-432f-9a52-eb70b078bb8f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Alle Buchcover, die auf unserer Webseite zu finden sind, stammen (soweit nicht anders angegeben) aus dem (link: https:\/\/portal.dnb.de text: Katalog) der (link: wiki=Deutsche Nationalbibliothek text: Deutschen Nationabibliothek).<\/li><li>Als (short: Icons desc: Symbolbilder) verwenden wir die exzellenten &amp; quelloffenen Sets (link: https:\/\/feathericons.com text: Feather Icons) und (link: https:\/\/akveo.github.io\/eva-icons text: Eva Icons), zwei Graphiken stammen au\u00dferdem jeweils von den (link: https:\/\/heroicons.dev text: Hero Icons) und den (link: https:\/\/vorillaz.github.io\/devicons text: Devicons).<\/li><li>F\u00fcr hochwertige, lizenzfreie Bilder aller Art ist (link: https:\/\/unsplash.com text: Unsplash) unsere erste Wahl.<\/li><\/ul>"},"id":"6dfebccf-b48d-437d-b012-9d338e0409bb","isHidden":false,"type":"list"},{"content":{"size":"sm"},"id":"d1b7fea3-ca29-4a5d-9d4e-97fcd60c603c","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Schnittstellen"},"id":"d721c20d-e01e-49f8-850c-a967035de852","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Nutzung einer (short: API desc: Programmierschnittstelle, engl. 'application programming interface') erm\u00f6glicht uns zudem die Abfrage bestimmter Informationen, etwa Titeldaten von B\u00fcchern \u00fcber die <a href=\"https:\/\/www.knv-zeitfracht.de\/wp-content\/uploads\/2021\/01\/Webservice_ZF_2.0_21.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">WSDL-Schnittstelle<\/a> unseres Gro\u00dfh\u00e4ndlers <a href=\"http:\/\/www.knv-zeitfracht.de\" rel=\"noopener noreferrer nofollow\">KNV Zeitfracht<\/a>.<\/p><p>F\u00fcr die Informationen auf dieser Seite verwenden wir Schnittstellen<\/p>"},"id":"21286938-738a-4be7-9087-2d0f4e2bacd3","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>der Plattform <a href=\"https:\/\/packagist.org\/apidoc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Packagist<\/a> f\u00fcr unsere (link: wiki=Composer (Paketverwaltung) text: Composer)-Pakete,<\/li><li>des Open-Source-Projekts <a href=\"https:\/\/api-docs.npms.io\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">npms<\/a> f\u00fcr alles, was mittels (link: wiki=npm (Software) text: npm) eingebunden wird,<\/li><li>des Code-Hosters <a href=\"https:\/\/docs.github.com\/de\/rest\" target=\"_blank\" title=\"\" rel=\"noopener noreferrer nofollow\">GitHub<\/a> f\u00fcr Informationen zu unserem (link: wiki text: Git)-Repositorium,<\/li><li>des Mozilla-Angebots <a href=\"https:\/\/github.com\/mozilla\/http-observatory\/blob\/master\/httpobs\/docs\/api.md\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Observatory<\/a> zur Bewertung sicherheitsrelevanter Einstellungen sowie<\/li><li>des Google-Dienstes <a href=\"https:\/\/developers.google.com\/speed\/docs\/insights\/v5\/about\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">PageSpeed Insights<\/a> zur Erfassung der Leistungsf\u00e4higkeit.<\/li><\/ul>"},"id":"68eaa416-e877-428a-a6d7-2e5e6b964458","isHidden":false,"type":"list"},{"content":{"text":"<p>Ob verwendete Software, Programmiersprachen (einschlie\u00dflich Diagramm) oder Codezeilen und Commits - <strong>alle Angaben werden \"per Knopfdruck\" aktualisiert<\/strong>: Dabei sendet der Computer, auf dem (short: unsere Webseite desc: Es besteht also zu keinem Zeitpunkt eine Verbindung zwischen Euch und den aufgef\u00fchrten Diensten!) l\u00e4uft (der sogenannte <em>Server<\/em>), an jede der oben genannten APIs eine (short: Anfrage desc: engl. 'request') und macht aus ihrer (short: Antwort desc: engl. 'response') anschlie\u00dfend <strong>\"ganz normalen\" Seiteninhalt<\/strong> - genau wie diesen Text hier.<\/p>"},"id":"581fe84d-c5aa-48b1-b42f-cbcaa45ff6e1","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Probiert es aus!"},"id":"d5a5f8c8-244d-4300-808b-5e98544668b8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Im Bereich der Webentwicklung gibt es viele kostenlose (zumeist englischsprachige) Werkzeuge, um die Leistungsf\u00e4higkeit einer Webseite unter die Lupe zu nehmen; diese basieren aber oftmals auf bestehenden L\u00f6sungen und bringen neben einer aufger\u00e4umten, graphisch ansprechenden Oberfl\u00e4che inhatlich wenig eigenes. Ein positives Gegenbeispiel soll allerdings nicht unerw\u00e4hnt bleiben: der <a href=\"https:\/\/www.webpagetest.org\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">WebPageTest<\/a>, dessen gesamter Code <a href=\"https:\/\/github.com\/WPO-Foundation\/webpagetest\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">offen einsehbar<\/a> einsehbar ist.<\/p><p>Wenn ihr unsere Seite selbst auf Sicherheit oder Geschwindigkeit abklopfen wollt, k\u00f6nnt ihr die <a href=\"https:\/\/observatory.mozilla.org\/analyze\/fundevogel.de\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tests von Mozillas Observatory<\/a> und <a href=\"https:\/\/developers.google.com\/speed\/pagespeed\/insights\/?url=fundevogel.de\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Googles PageSpeed-Dienst<\/a> auch selbst durchf\u00fchren - diese Dienste erleichtern den Einstieg in die Optimierung von Webseiten, indem sie erste Anhaltspunkte f\u00fcr m\u00f6gliche Problemstellen liefern.<\/p>"},"id":"55a27045-6984-408b-8504-8cc34a26dbe6","isHidden":false,"type":"text"},{"content":{"size":"sm"},"id":"fe1cbbd7-4639-4948-aa72-633f7eeec21a","isHidden":false,"type":"hr"},{"content":{"level":"h2","text":"Sonstige Dienste"},"id":"33fa3d38-60b8-47cd-9f99-6ba5986baf5a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Daneben nutzen wir f\u00fcr unsere Webseite folgende hilfreiche Werkzeuge:<\/p>"},"id":"89978047-740b-4319-8fe9-fadf8d2d4a28","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Gelegentlich testen wir manuell, mit welchen Einstellungen sich eine (short: SVG-Graphik optimieren desc: Vektorgraphiken sind Zeichenketten - manches kann man zusammenfassen, manches weglassen) l\u00e4sst - dann greifen wir auf den Dienst <a href=\"https:\/\/jakearchibald.github.io\/svgomg\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SVGOMG<\/a> zur\u00fcck, den der Google-Entwickler Jake Archibald <a href=\"https:\/\/github.com\/jakearchibald\/svgomg\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">zur Verf\u00fcgung stellt<\/a>.<\/li><li>F\u00fcr die \u00dcbersetzung einzelner W\u00f6rter - seltener auch mal kleinerer Texte - in andere Sprachen nutzen wir den frei verf\u00fcgbaren <a href=\"https:\/\/www.presidencymt.eu\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">EU Council Presidency Translator<\/a>, welcher anl\u00e4sslich der deutschen Ratspr\u00e4sidentschaft ver\u00f6ffentlicht wurde und auf dem von einem Supercomputer in Island betriebenen <a href=\"https:\/\/www.heise.de\/hintergrund\/Maschinenintelligenz-Der-Besseruebersetzer-3814856.html\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">maschinenlernenden DeepL-\u00dcbersetzer<\/a> aus K\u00f6ln basiert (angetrieben von Wasserkraft und Erdw\u00e4rme).<\/li><\/ul>"},"id":"2ecce928-f295-40e4-9557-60ecb24ab001","isHidden":false,"type":"list"}],"id":"59b51327-2ee1-4252-a62b-9c3abbc918ce","width":"1\/1"}],"id":"6b88aed4-6eeb-4b13-a29d-ecf1b81b3fb0"}]
 
 ----
 
@@ -52,27 +52,27 @@ Mit wachsendem Umfang der digitalen Anforderungen an unsere Buchhandlung sind ü
 
 Langdata:
 
--
+- 
   title: PHP
   share: 70.1
   color: '#4F5D95'
--
+- 
   title: TypeScript
   share: 18.7
   color: '#2b7489'
--
+- 
   title: Python
   share: 5.9
   color: '#3572A5'
--
+- 
   title: CSS
   share: 3.8
   color: '#563d7c'
--
+- 
   title: Shell
   share: 1.2
   color: '#89e051'
--
+- 
   title: Vue
   share: 0.3
   color: '#41b883'
@@ -81,7 +81,7 @@ Langdata:
 
 Phpdata:
 
--
+- 
   maintainer: afbora
   name: kirby-minify-html
   version: 1.5.0
@@ -89,23 +89,23 @@ Phpdata:
   description: Enable minify HTML output for Kirby 3
   url: >
     https://github.com/afbora/kirby-minify-html
--
+- 
   maintainer: beebmx
   name: kirby-env
   version: 3.0.0
   license: MIT
   description: Enable env variables to Kirby 3
   url: https://github.com/beebmx/kirby-env
--
+- 
   maintainer: bnomei
   name: kirby3-feed
-  version: 1.4.2
+  version: 1.5.1
   license: MIT
   description: >
     Generate a RSS/JSON/Sitemap-Feed from a
     Pages-Collection
   url: https://github.com/bnomei/kirby3-feed
--
+- 
   maintainer: bnomei
   name: kirby3-fingerprint
   version: 3.0.14
@@ -116,7 +116,7 @@ Phpdata:
     Subresource Integrity to file
   url: >
     https://github.com/bnomei/kirby3-fingerprint
--
+- 
   maintainer: bnomei
   name: kirby3-janitor
   version: 2.10.0
@@ -126,7 +126,7 @@ Phpdata:
     cleaning the cache from within the
     Panel, PHP code or a cronjob
   url: https://github.com/bnomei/kirby3-janitor
--
+- 
   maintainer: bnomei
   name: kirby3-security-headers
   version: 2.5.2
@@ -136,7 +136,7 @@ Phpdata:
     Headers setup
   url: >
     https://github.com/bnomei/kirby3-security-headers
--
+- 
   maintainer: diesdasdigital
   name: kirby-meta-knight
   version: "1.2"
@@ -144,7 +144,7 @@ Phpdata:
   description: Meta Knight – SEO for Kirby
   url: >
     https://github.com/diesdasdigital/kirby-meta-knight
--
+- 
   maintainer: distantnative
   name: retour-for-kirby
   version: 4.0.0-beta.1
@@ -152,7 +152,7 @@ Phpdata:
   description: Redirects and error tracking for Kirby
   url: >
     https://github.com/distantnative/retour-for-kirby
--
+- 
   maintainer: fundevogel
   name: kirby3-colorist
   version: 1.8.2
@@ -160,15 +160,7 @@ Phpdata:
   description: Kirby v3 wrapper for colorist
   url: >
     https://github.com/fundevogel/kirby3-colorist
--
-  maintainer: fundevogel
-  name: kirby3-donuts
-  version: 1.2.0
-  license: MIT
-  description: Kirby v3 wrapper for tiny-phpeanuts
-  url: >
-    https://github.com/fundevogel/kirby3-donuts
--
+- 
   maintainer: fundevogel
   name: php-mastodon
   version: 0.6.0
@@ -176,35 +168,45 @@ Phpdata:
   description: "A small PHP library for interacting with Mastodon's REST API."
   url: >
     https://github.com/fundevogel/php-mastodon
--
+- 
   maintainer: fundevogel
   name: php-pcbis
   version: 2.5.0
   license: GPL-3.0
   description: pcbis.de helper, written in PHP
   url: https://github.com/fundevogel/php-pcbis
--
+- 
   maintainer: getkirby
   name: cms
   version: 3.5.7.1
   license: proprietary
   description: The Kirby 3 core
   url: https://github.com/getkirby/kirby
--
+- 
   maintainer: goat1000
   name: svggraph
   version: 3.10.0
   license: LGPL-3.0-only
   description: Generates SVG graphs
   url: https://github.com/goat1000/SVGGraph
--
+- 
   maintainer: guzzlehttp
   name: guzzle
   version: 7.3.0
   license: MIT
   description: Guzzle is a PHP HTTP client library
   url: https://github.com/guzzle/guzzle
--
+- 
+  maintainer: jsvrcek
+  name: ics
+  version: "0.8"
+  license: MIT
+  description: >
+    abstraction layer for creating
+    multi-byte safe RFC 5545 compliant .ics
+    files
+  url: https://github.com/jasvrcek/ICS
+- 
   maintainer: k-community
   name: markdown-field
   version: 1.0.9
@@ -212,7 +214,7 @@ Phpdata:
   description: Enhanced markdown editor for Kirby 3
   url: >
     https://github.com/sylvainjule/kirby-markdown-field
--
+- 
   maintainer: kschu91
   name: largest-remainder-method
   version: "1.0"
@@ -225,7 +227,7 @@ Phpdata:
     rounded percentage values.
   url: >
     https://github.com/kschu91/largest-remainder-method
--
+- 
   maintainer: mzur
   name: kirby-uniform
   version: 5.0.0
@@ -234,7 +236,7 @@ Phpdata:
     A versatile Kirby plugin to handle web
     form actions.
   url: https://github.com/mzur/kirby-uniform
--
+- 
   maintainer: oblik
   name: kirby-plurals
   version: 1.0.0
@@ -242,7 +244,7 @@ Phpdata:
   description: Advanced pluralization for Kirby.
   url: >
     https://github.com/OblikStudio/kirby-plurals
--
+- 
   maintainer: s1syphos
   name: kirby3-dejure
   version: 1.4.3
@@ -252,7 +254,7 @@ Phpdata:
     for Kirby v3
   url: >
     https://github.com/S1SYPHOS/kirby3-dejure
--
+- 
   maintainer: s1syphos
   name: php-thx
   version: 1.2.1
@@ -264,7 +266,7 @@ Phpdata:
 
 Pkgdata:
 
--
+- 
   maintainer: aFarkas
   name: lazysizes
   version: 5.2.2
@@ -274,7 +276,7 @@ Pkgdata:
     for images (including responsive
     images), iframes and scripts (widgets).
   url: https://github.com/aFarkas/lazysizes
--
+- 
   maintainer: atomiks
   name: tippy.js
   version: 6.3.1
@@ -283,7 +285,7 @@ Pkgdata:
     The complete tooltip, popover, dropdown,
     and menu solution for the web
   url: https://github.com/atomiks/tippyjs
--
+- 
   maintainer: bigbitecreative
   name: macy
   version: 2.5.1
@@ -293,7 +295,7 @@ Pkgdata:
     masonry layout library
   url: >
     https://github.com/bigbitecreative/macy.js
--
+- 
   maintainer: davidcetinkaya
   name: embla-carousel
   version: 4.0.5
@@ -303,7 +305,7 @@ Pkgdata:
     fluid motion and great swipe precision
   url: >
     https://github.com/davidcetinkaya/embla-carousel
--
+- 
   maintainer: henrygd
   name: bigpicture
   version: 2.5.3
@@ -312,14 +314,14 @@ Pkgdata:
     Lightweight image and video viewer,
     supports youtube / vimeo
   url: https://github.com/henrygd/bigpicture
--
+- 
   maintainer: juliangarnier
   name: animejs
   version: 3.2.1
   license: MIT
   description: JavaScript animation engine
   url: https://github.com/juliangarnier/anime
--
+- 
   maintainer: metafizzy
   name: infinite-scroll
   version: 4.0.1
@@ -327,7 +329,7 @@ Pkgdata:
   description: Automatically add next page
   url: >
     https://github.com/metafizzy/infinite-scroll
--
+- 
   maintainer: robdel12
   name: dropkickjs
   version: 2.2.4
@@ -337,7 +339,7 @@ Pkgdata:
     beautiful, graceful, and painless custom
     dropdowns.
   url: https://github.com/robdel12/DropKick
--
+- 
   maintainer: tailwindlabs
   name: tailwindcss
   version: 2.2.7
@@ -388,11 +390,11 @@ Meta-description: Wir alle wollen ausprobieren und Neues entdecken, machen Fehle
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
-Meta-author:
+Meta-author: 
 
 ----
 
@@ -402,15 +404,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number:
+Meta-phone-number: 
 
 ----
 
-Og-title:
+Og-title: 
 
 ----
 
-Og-description:
+Og-description: 
 
 ----
 
@@ -420,23 +422,23 @@ Og-image:
 
 ----
 
-Og-site-name:
+Og-site-name: 
 
 ----
 
-Og-url:
+Og-url: 
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -444,35 +446,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
-Twitter-title:
+Twitter-title: 
 
 ----
 
-Twitter-description:
+Twitter-description: 
 
 ----
 
@@ -486,11 +488,11 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site:
+Twitter-site: 
 
 ----
 
-Twitter-creator:
+Twitter-creator: 
 
 ----
 
@@ -498,11 +500,11 @@ Cacheduration: 14
 
 ----
 
-Licenseshort:
+Licenseshort: 
 
 ----
 
-Licenselong:
+Licenselong: 
 
 ----
 
