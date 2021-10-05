@@ -210,30 +210,15 @@ return [
             }
         }
 
-        # (5) Repository data
-        # Fetch data from GitHub GitHub's repository API
-        $repoDataURL = 'https://api.github.com/repos/fundevogel/fundevogel.de';
-        $repoDataResponse = Remote::get($repoDataURL, $parameters);
-
-        # If everything goes as planned ..
-        if ($repoDataResponse->http_code() === 200) {
-            # .. process response
-            $repoData = $repoDataResponse->json(true);
-
-            # .. and add repository data
-            # TODO: Think about `size` and stuff like that
-            $source['licenseFull'] = $repoData['license']['name'];
-            $source['licenseToken'] = $repoData['license']['spdx_id'];
-        }
-
         # Report back results
         $success = true;
         $message = 'Update erfolgreich!';
 
         if (empty($source)) {
             $message = 'Nichts zu tun!';
+        }
 
-        } else {
+        else {
             try {
                 # Attempt page update
                 $page->update($source);
