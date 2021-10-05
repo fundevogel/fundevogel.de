@@ -72,13 +72,6 @@ tabs:
               "Präsentation und Vorstellung ausgewählter Neuerscheinungen": HerbstLESE
               "Lirum Larum Lesefest": LirumLarum
 
-          location:
-            label:
-              de: Veranstaltungsort
-              en: Event location
-            type: text
-            icon: map
-
           audience:
             label:
               de: Zielgruppe
@@ -89,6 +82,28 @@ tabs:
                 Beispiel: "Für Kinder ab 6 Jahren"
               en: |
                 Example: "for children from 6 years onwards"
+
+          location:
+            label:
+              de: Veranstaltungsort
+              en: Event location
+            type: text
+            icon: map
+
+          coordinates:
+            label:
+              de: Koordinaten
+              en: Coordinates
+            type: locator
+            tiles: openstreetmap
+            center:
+              lat: 47.992697
+              lon: 7.852519
+            zoom:
+              min: 4
+              default: 18
+              max: 18
+            marker: light
 
   tab_registration:
     label:
