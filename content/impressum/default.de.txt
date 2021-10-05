@@ -2,11 +2,11 @@ Title: Impressum
 
 ----
 
-Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Fundevogel"},"id":"2a7b28a9-552c-47e0-9e1a-842da79f3f51","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Kinder- und Jugendbuchhandlung<\/strong><br>Marienstr. 13<br>79098 Freiburg i. Br.<\/p><p>Telefon: 0761 \/ 25218<br>Telefax: 0761 \/ 30041<br>E-Mail: info@fundevogel.de<\/p><p><strong>Inhaber<\/strong><br>Claus-Peter Jepsen<\/p><p><strong>\u00dcber diese Webseite:<\/strong><\/p>"},"id":"7285a474-55d9-4b1f-bde1-b0726897b31f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>F\u00fcr Konzeption, Gestaltung &amp; Umsetzung unserer Webseite danken wir <a href=\"https:\/\/twobrain.io\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Martin Folkers<\/a>.<\/li><li>Weitere (technische) Informationen zu unserer Webseite sowie Bildquellen findet ihr <a href=\"https:\/\/fundevogel.de\/technisches\" rel=\"noopener noreferrer nofollow\">hier<\/a>.<\/li><\/ul>"},"id":"6beecc78-5d7f-469f-b8c5-c9f490eb408b","isHidden":false,"type":"list"}],"id":"b012d8ff-da26-4434-890a-2b6e081b7d83","width":"1\/2"},{"blocks":[{"content":{"text":"<p><strong>Bankverbindung:<\/strong><br>Volksbank Freiburg: BLZ 680&nbsp;900&nbsp;00<br>Kontonummer: 7240708<\/p><p>F\u00fcr Zahlungen aus dem Ausland:<br>IBAN DE 266&nbsp;809&nbsp;0000000&nbsp;7240708<br>Volksbank Freiburg<br>BIC GENO DE 61 FR 1<\/p><p>Handelsregisternummer: Nicht ben\u00f6tigt<br>Umsatzsteuer-ID: DE 142035994<br>Steuernummer: 06112\/49132 - FA Freiburg-Stadt<\/p><p><strong>Haftungshinweis:<\/strong><br>F\u00fcr Formen und Inhalte externer Links \u00fcbernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber daf\u00fcr verantwortlich sind.<\/p>"},"id":"73f2166e-2c1d-4544-94e6-87e25af43640","isHidden":false,"type":"text"}],"id":"5a2e3f65-65b3-4962-8293-da7a91490d06","width":"1\/2"}],"id":"9ceee18d-5c28-4a6f-b8c5-f38141ce1b06"}]
+Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Fundevogel"},"id":"2a7b28a9-552c-47e0-9e1a-842da79f3f51","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Kinder- und Jugendbuchhandlung<\/strong><br>Marienstr. 13<br>79098 Freiburg im Breisgau<\/p><p><strong>Inhaber<\/strong><br>Claus-Peter Jepsen<\/p><p><strong>Bankverbindung<\/strong><br>Volksbank Freiburg<\/p><p>Internationaler Zahlungsverkehr:<br>IBAN: DE26 6809&nbsp;0000 0007 2407 08<br>BIC: GENODE61FR1<\/p><p>Nationaler Zahlungsverkehr:<br>Kontonummer: 7240708 \u00b7 BLZ: 68090000<\/p><p><strong>Sonstige Angaben<br><\/strong>Finanzamt Freiburg-Stadt<br>Umsatzsteuer-ID: DE142035994<br>Steuernummer: 06112\/49132<\/p><p><strong>Haftungshinweis<\/strong><br>F\u00fcr Formen und Inhalte externer Links \u00fcbernehmen wir keine Haftung, sondern verweisen darauf, dass allein deren Betreiber:innen daf\u00fcr verantwortlich sind.<\/p><p><\/p>"},"id":"7285a474-55d9-4b1f-bde1-b0726897b31f","isHidden":false,"type":"text"}],"id":"b012d8ff-da26-4434-890a-2b6e081b7d83","width":"1\/2"},{"blocks":[{"content":{"text":"<p><strong>Kontakt<\/strong><br>Telefon: 0761\/25218<br>Telefax: 0761\/30041<\/p><p>Bei Anfragen und Bestellungen:<br>info@fundevogel.de<\/p><p>Bei technischen Fragen oder Problemen:<br>maschinenraum@fundevogel.de<\/p><p>F\u00fcr die verschl\u00fcsselte Kommunikation k\u00f6nnt Ihr dessen (pubkey: 0xCED8B32D46ADF2A5 text: \u00f6ffentlichen Schl\u00fcssel) nutzen; sein \"Fingerprint\" lautet:<\/p><p>(pubkey: 0xCED8B32D46ADF2A5 fingerprint: true)<\/p><p><strong>Reichweite<\/strong><br>Die vorstehenden Angaben erfassen auch alle von uns betriebenen Auftritte in sogenannten \"Sozialen Medien\"; dies gilt gleicherma\u00dfen f\u00fcr die Hinweise zum (link: datenschutz text: Datenschutz).<\/p><p><strong>\u00dcber diese Webseite<\/strong><\/p>"},"id":"73f2166e-2c1d-4544-94e6-87e25af43640","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>F\u00fcr Konzeption, Gestaltung &amp; Umsetzung unserer Webseite danken wir <a href=\"https:\/\/twobrain.io\" target=\"blank\" rel=\"noopener noreferrer nofollow\">Martin Folkers<\/a>.<\/li><li>Bildquellen sowie technische Informationen zu unserer Webseite findet Ihr <a href=\"https:\/\/fundevogel.de\/technisches\" rel=\"noopener noreferrer nofollow\">hier<\/a>.<\/li><\/ul>"},"id":"6beecc78-5d7f-469f-b8c5-c9f490eb408b","isHidden":false,"type":"list"}],"id":"5a2e3f65-65b3-4962-8293-da7a91490d06","width":"1\/2"}],"id":"9ceee18d-5c28-4a6f-b8c5-f38141ce1b06"}]
 
 ----
 
-Date: 2021-03-24
+Cover: 
 
 ----
 
@@ -15,10 +15,6 @@ Meta-title: Unser Impressum
 ----
 
 Meta-description: Kinder- und Jugendbuchhandlung Fundevogel für Freiburg und Umgebung | Marienstraße 13, 79098 Freiburg | Telefon: 0761 / 25218 | E-Mail: info@fundevogel.de
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -119,3 +115,11 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Date: 2021-03-24
+
+----
+
+Meta-keywords: 
