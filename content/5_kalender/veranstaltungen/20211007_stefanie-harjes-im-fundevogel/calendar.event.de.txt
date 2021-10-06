@@ -37,11 +37,16 @@ Category: Lirum Larum Lesefest
 
 ----
 
+Audience: Für Kinder ab 5 Jahren
+
+----
+
 Location: Buchhandlung Fundevogel
 
 ----
 
 Coordinates:
+
 lat: 47.992697
 lon: 7.852519
 number: "13"
@@ -49,9 +54,7 @@ city: Freiburg im Breisgau
 country: Germany
 postcode: "79098"
 address: Marienstraße
-----
-
-Audience: Für Kinder ab 5 Jahren
+osm: 679144412
 
 ----
 
