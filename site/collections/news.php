@@ -1,7 +1,7 @@
 <?php
 
 return function ($site) {
-    return $site->find('news')
+    return $site->find('aktuelles')
                 ->children()
                 ->filterBy('intendedTemplate', 'news.article')
                 ->listed()

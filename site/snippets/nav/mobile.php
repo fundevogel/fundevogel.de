@@ -4,7 +4,7 @@
         <a
             class="js-link w-full py-2<?php e($item->isOpen(), ' text-red-medium bg-white opacity-0', ' text-white hover:text-red-medium hover:bg-white opacity-0') ?>"
             href="<?= $item->url() ?>"
-            title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>"
+            title="<?php e($item->isHomePage(), t('Menü-home'), $item->title()->html()) ?>"
         >
             <span><?= t('Menü-' . $item->id()) ?></span>
         </a>

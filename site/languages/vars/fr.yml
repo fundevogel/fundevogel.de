@@ -1,6 +1,6 @@
 # Nav menu: entries
 Menü: Menu
-Menü-news: Bienvenue!
+Menü-aktuelles: Bienvenue!
 Menü-fundevogel-und-team: Fundevogel
 Menü-unser-sortiment: Assortiment
 Menü-lesetipps: Coin des livres
@@ -10,7 +10,7 @@ Menü-unser-netzwerk: Réseau
 Menü-kontakt: Contact
 
 # Nav menu: title attributes
-Menü-Startseite: Page d'accueil
+Menü-home: Page d'accueil
 Menü-shop: Notre boutique en ligne
 
 

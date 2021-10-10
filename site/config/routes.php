@@ -6,14 +6,14 @@
 
 return [
     [
-        'pattern' => 'news/(:any)',
+        'pattern' => 'aktuelles/(:any)',
         'action' => function($any) {
             if ($any == 'json') {
                 $options = [
                     'title'       => 'Neues aus dem Fundevogel',
                     'description' => 'Alle Neuigkeiten rund um den Fundevogel, die Kinder- und Jugendbuchhandlung in Freiburg.',
-                    'feedurl'     => site()->url() . '/news/json/',
-                    'link'        => 'news',
+                    'feedurl'     => site()->url() . '/aktuelles/json/',
+                    'link'        => 'aktuelles',
                     'snippet'     => 'feed/json',
                 ];
 
@@ -25,8 +25,8 @@ return [
                     'title'       => 'Neues aus dem Fundevogel',
                     'description' => 'Alle Neuigkeiten rund um den Fundevogel, die Kinder- und Jugendbuchhandlung in Freiburg.',
                     'url'         => site()->url(),
-                    'feedurl'     => site()->url() . '/news/rss/',
-                    'link'        => 'news',
+                    'feedurl'     => site()->url() . '/aktuelles/rss/',
+                    'link'        => 'aktuelles',
                     'snippet'     => 'feed/rss',
                 ];
 
@@ -35,7 +35,7 @@ return [
 
             $identifiers = [];
 
-            foreach (kirby()->collection('news')->limit(page()->perpage()->int()) as $article) {
+            foreach (kirby()->collection('news')->limit(page('aktuelles')->perpage()->int()) as $article) {
                 $identifiers[] = $article->slug();
             }
 
@@ -92,33 +92,24 @@ return [
         },
     ],
     [
+        'pattern' => 'news',
+        'method' => 'GET',
+        'action'  => function () {
+            return go('aktuelles', 301);
+        },
+    ],
+    [
         'pattern' => 'news/json',
         'method' => 'GET',
         'action'  => function () {
-            $options = [
-                'title'       => 'Neues aus dem Fundevogel',
-                'description' => 'Alle Neuigkeiten rund um den Fundevogel, die Kinder- und Jugendbuchhandlung in Freiburg.',
-                'feedurl'     => site()->url() . '/news/json/',
-                'link'        => 'news',
-                'snippet'     => 'feed/json',
-            ];
-
-            return kirby()->collection('news')->limit(12)->feed($options);
+            return go('aktuelles/json', 301);
         },
     ],
     [
         'pattern' => 'news/rss',
         'method' => 'GET',
         'action'  => function () {
-            $options = [
-                'title'       => 'Neues aus dem Fundevogel',
-                'description' => 'Alle Neuigkeiten rund um den Fundevogel, die Kinder- und Jugendbuchhandlung in Freiburg.',
-                'feedurl'     => site()->url() . '/news/rss/',
-                'link'        => 'news',
-                'snippet'     => 'feed/rss',
-            ];
-
-            return kirby()->collection('news')->limit(12)->feed($options);
+            return go('aktuelles/rss', 301);
         },
     ],
     [

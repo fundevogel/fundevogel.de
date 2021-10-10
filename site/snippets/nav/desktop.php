@@ -15,7 +15,7 @@
             <a
                 class="<?php e($hasSubmenu, 'js-singleton ', 'js-tippy ') ?>flex items-center text-white relative outline-none<?php e($item->isOpen(), ' is-active') ?>"
                 href="<?= $item->url() ?>"
-                title="<?php e($item->isHomePage(), t('Menü-Startseite'), $item->title()->html()) ?>"
+                title="<?php e($item->isHomePage(), t('Menü-home'), $item->title()->html()) ?>"
                 data-template="js-<?php e($hasSubmenu, $identifier, 'undefined') ?>"
                 itemprop="url"
             >
