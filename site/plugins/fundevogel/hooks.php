@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'kirbytext:after' => function ($text) {
+    'kirbytext:after' => function ($text)
+    {
         # Modify 'author' inside `blockquote` elements for consistent styling
-
         $text = preg_replace_callback('#<footer>(.*?)</footer>#', function ($matches) {
             $html = '';
 
@@ -31,5 +31,5 @@ return [
         $to[2] = '<ol class="list">';
 
         return preg_replace($from, $to, $text);
-    }
+    },
 ];
