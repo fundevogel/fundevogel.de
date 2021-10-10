@@ -63,3 +63,46 @@ function useSeparator($color = 'orange-light', $position = 'top') {
 
     return '<div class="w-full">' . Str::replace($svg, '<svg', '<svg class="w-full h-auto ' . $margin . ' fill-current text-' . $color .'" role="img"', 1) . '</div>';
 }
+
+
+function geo2osm(string $lat, string $lon): string
+{
+    # Initialize cache
+    $cache = kirby()->cache('locator');
+
+    # Determine cache key
+    $key = "$lat+$lon";
+
+    # Check cachecontents
+    $url = $cache->get($key);
+
+    # If there's nothing in the cache ..
+    if (empty($url)) {
+        # .. fetch it!
+        # (1) Define parameters
+        $parameters = [
+            'timeout' => 0,
+            'headers' => ['User-Agent' => 'maschinenraum@fundevogel.de'],
+        ];
+
+        # (2) Make request
+        $nominatim = "https://nominatim.openstreetmap.org/reverse?lat=$lat&lon=$lon&format=jsonv2";
+        $response = Remote::get($nominatim, $parameters);
+
+        # If everything goes as planned ..
+        if ($response->code() !== 200) {
+            return '';
+        }
+
+        # .. process response
+        $data = $response->json(false);
+
+        # Build URL
+        $url = 'https://www.openstreetmap.org/node/' . $data->osm_id;
+
+        # Cache results
+        $cache->set($key, $url, 0);
+    }
+
+    return $url;
+}

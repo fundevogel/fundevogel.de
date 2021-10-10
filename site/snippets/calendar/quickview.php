@@ -58,5 +58,27 @@
                 <?= t('iCal-Datei herunterladen') ?>
             </span>
         </a>
+        <?php
+            # Build link to OpenStreetMap
+            # (1) Get coordinates
+            $coordinates = $event->coordinates()->toLocation();
+
+            # (2) Fetch URL
+            $geoURL = '';
+
+            if ($coordinates->isNotEmpty()) {
+                $geoURL = geo2osm($coordinates->lat(), $coordinates->lon());
+            }
+
+            if (!empty($geoURL)) :
+        ?>
+        <a
+            class="mt-2 flex justify-center items-center"
+            href="<?= $geoURL ?>"
+        >
+            <?= useSVG($event->location(), 'w-6 h-6 fill-current', 'map-filled') ?>
+            <span class="ml-2">OpenStreetMap</span>
+        </a>
+        <?php endif ?>
     </p>
 </div>
