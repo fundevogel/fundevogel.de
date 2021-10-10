@@ -15,11 +15,11 @@
             <a
                 class="<?php e($hasSubmenu, 'js-singleton ', 'js-tippy ') ?>flex items-center text-white relative outline-none<?php e($item->isOpen(), ' is-active') ?>"
                 href="<?= $item->url() ?>"
-                title="<?php e($item->isHomePage(), t('Menü-home'), $item->title()->html()) ?>"
+                title="<?php e($item->isHomePage(), t('menu-home'), $item->title()->html()) ?>"
                 data-template="js-<?php e($hasSubmenu, $identifier, 'undefined') ?>"
                 itemprop="url"
             >
-                <span itemprop="name"><?= t('Menü-' . $item->id()) ?></span>
+                <span itemprop="name"><?= t('menu-' . $item->id()) ?></span>
             </a>
             <?php if ($hasSubmenu) : ?>
             <div id="js-<?= $identifier ?>" class="px-6 py-4 border-4 border-red-light border-dashed bg-yellow-light rounded-lg hidden">
@@ -38,12 +38,12 @@
     <a
         class="js-tippy mr-4 hidden lg:flex items-center text-white relative outline-none"
         href="<?php e($site->shop()->isNotEmpty(), $site->shop(), '#') ?>"
-        title="<?= t('Menü-shop') ?>"
+        title="<?= t('menu-shop') ?>"
         data-template="js-undefined"
         target="_blank"
         rel="noopener"
     >
-        <?= useSVG(t('Menü-shop'), 'w-6 h-6 fill-current', 'cart') ?>
+        <?= useSVG(t('menu-shop'), 'w-6 h-6 fill-current', 'cart') ?>
         <span class="px-2">Shop</span>
     </a>
 

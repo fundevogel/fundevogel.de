@@ -1,17 +1,17 @@
 # Nav menu: entries
-Menü: Menu
-Menü-aktuelles: Bienvenue!
-Menü-fundevogel-und-team: Fundevogel
-Menü-unser-sortiment: Assortiment
-Menü-lesetipps: Coin des livres
-Menü-kalender: Agenda
-Menü-unser-service: Service
-Menü-unser-netzwerk: Réseau
-Menü-kontakt: Contact
+menu: Menu
+menu-aktuelles: Bienvenue!
+menu-fundevogel-und-team: Fundevogel
+menu-unser-sortiment: Assortiment
+menu-lesetipps: Coin des livres
+menu-kalender: Agenda
+menu-unser-service: Service
+menu-unser-netzwerk: Réseau
+menu-kontakt: Contact
 
 # Nav menu: title attributes
-Menü-home: Page d'accueil
-Menü-shop: Notre boutique en ligne
+menu-home: Page d'accueil
+menu-shop: Notre boutique en ligne
 
 
 # Language menu
