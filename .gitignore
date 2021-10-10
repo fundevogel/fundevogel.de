@@ -35,6 +35,7 @@ venv
 
 
 # Temporary files
+/site/logs
 /public/media
 /public/assets
 /public/favicons
