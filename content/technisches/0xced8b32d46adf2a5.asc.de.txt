@@ -1,0 +1,63 @@
+Key: CED8B32D46ADF2A5
+
+----
+
+Fpr: 167D 697B 4009 B36C 0963 FFA8 CED8 B32D 46AD F2A5
+
+----
+
+Algorithm: EdDSA
+
+----
+
+Crypto: Elliptic Curve Cryptography
+
+----
+
+Length: 80
+
+----
+
+Type: ed25519
+
+----
+
+Name: daedalOS
+
+----
+
+Comment: support
+
+----
+
+Email: maschinenraum@fundevogel.de
+
+----
+
+Subkeys:
+
+- 
+  key: 7FFD284ACE6F597E
+  created: 2021-09-30
+  expires: ""
+  algorithm: ECDH
+  crypto: Elliptic Curve Cryptography
+  length: "88"
+  type: cv25519
+  version: "4"
+
+----
+
+Created: 2021-09-30
+
+----
+
+Expires: 
+
+----
+
+Template: pubkey
+
+----
+
+Version: 4

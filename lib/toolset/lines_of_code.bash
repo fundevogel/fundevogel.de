@@ -39,6 +39,23 @@ pcbis=$(git ls-files site/plugins/kirby3-pcbis/**/*.php \
     | cut -d ' ' -f2
 )
 
-total=$((count + fv + pcbis))
+# Count published FV plugins separately
+# (1) Kirby plugin for `colorist`
+colorist=$(ls site/plugins/kirby3-colorist/**/*.php \
+    | grep -Ev 'vendor' \
+    | xargs wc -l \
+    | tail -1 \
+    | cut -d ' ' -f3
+)
+
+# (2) Kirby plugin for `gpg`
+gnupg=$(ls site/plugins/kirby3-gnupg/**/*.php \
+    | grep -Ev 'vendor' \
+    | xargs wc -l \
+    | tail -1 \
+    | cut -d ' ' -f3
+)
+
+total=$((count + fv + pcbis + colorist + gnupg))
 
 echo "$total"

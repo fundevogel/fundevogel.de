@@ -42,14 +42,14 @@
                             <?php endif ?>
                         </div>
                         <nav class="text-xs flex flex-wrap justify-center mb-4" role="navigation">
-                            <?php if ($pgpKey = $site->file('0xCED8B32D46ADF2A5.asc')) : ?>
+                            <?php if ($pgpKey = page('technisches')->file('0xCED8B32D46ADF2A5.asc')) : ?>
                             <a
                                 class="js-tippy outline-none"
                                 href="<?= $pgpKey->url() ?>"
-                                title="<?= chunk_split($pgpKey->content()->fingerprint(), 4, ' ') ?> - <?= $pgpKey->content()->mail() ?>"
+                                title="<?= $pgpKey->fpr() ?>"
                                 data-barba-prevent="self"
                             >
-                                <span><?= $pgpKey->title() ?></span>
+                                <span>Public PGP-Key</span>
                             </a>
                             <span class="mx-2 select-none">|</span>
                             <?php endif ?>
