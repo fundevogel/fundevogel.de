@@ -52,27 +52,27 @@ Mit wachsendem Umfang der digitalen Anforderungen an unsere Buchhandlung sind ü
 
 Langdata:
 
-- 
+-
   title: PHP
   share: 70.1
   color: '#4F5D95'
-- 
+-
   title: TypeScript
   share: 18.7
   color: '#2b7489'
-- 
+-
   title: Python
   share: 5.9
   color: '#3572A5'
-- 
+-
   title: CSS
   share: 3.8
   color: '#563d7c'
-- 
+-
   title: Shell
   share: 1.2
   color: '#89e051'
-- 
+-
   title: Vue
   share: 0.3
   color: '#41b883'
@@ -81,7 +81,7 @@ Langdata:
 
 Phpdata:
 
-- 
+-
   maintainer: afbora
   name: kirby-minify-html
   version: 1.5.0
@@ -89,14 +89,14 @@ Phpdata:
   description: Enable minify HTML output for Kirby 3
   url: >
     https://github.com/afbora/kirby-minify-html
-- 
+-
   maintainer: beebmx
   name: kirby-env
   version: 3.0.0
   license: MIT
   description: Enable env variables to Kirby 3
   url: https://github.com/beebmx/kirby-env
-- 
+-
   maintainer: bnomei
   name: kirby3-feed
   version: 1.5.1
@@ -105,7 +105,7 @@ Phpdata:
     Generate a RSS/JSON/Sitemap-Feed from a
     Pages-Collection
   url: https://github.com/bnomei/kirby3-feed
-- 
+-
   maintainer: bnomei
   name: kirby3-fingerprint
   version: 3.0.14
@@ -116,7 +116,7 @@ Phpdata:
     Subresource Integrity to file
   url: >
     https://github.com/bnomei/kirby3-fingerprint
-- 
+-
   maintainer: bnomei
   name: kirby3-janitor
   version: 2.10.0
@@ -126,7 +126,7 @@ Phpdata:
     cleaning the cache from within the
     Panel, PHP code or a cronjob
   url: https://github.com/bnomei/kirby3-janitor
-- 
+-
   maintainer: bnomei
   name: kirby3-security-headers
   version: 2.5.2
@@ -136,7 +136,7 @@ Phpdata:
     Headers setup
   url: >
     https://github.com/bnomei/kirby3-security-headers
-- 
+-
   maintainer: diesdasdigital
   name: kirby-meta-knight
   version: "1.2"
@@ -144,7 +144,7 @@ Phpdata:
   description: Meta Knight – SEO for Kirby
   url: >
     https://github.com/diesdasdigital/kirby-meta-knight
-- 
+-
   maintainer: distantnative
   name: retour-for-kirby
   version: 4.0.0-beta.1
@@ -152,7 +152,7 @@ Phpdata:
   description: Redirects and error tracking for Kirby
   url: >
     https://github.com/distantnative/retour-for-kirby
-- 
+-
   maintainer: fundevogel
   name: kirby3-colorist
   version: 1.8.2
@@ -160,7 +160,17 @@ Phpdata:
   description: Kirby v3 wrapper for colorist
   url: >
     https://github.com/fundevogel/kirby3-colorist
-- 
+-
+  maintainer: fundevogel
+  name: kirby3-gnupg
+  version: 1.0.0
+  license: "MIT"
+  description: >
+    Add information about PGP public keys on
+    upload in Kirby v3
+  url: >
+    https://github.com/fundevogel/kirby3-gnupg
+-
   maintainer: fundevogel
   name: php-mastodon
   version: 0.6.0
@@ -168,35 +178,35 @@ Phpdata:
   description: "A small PHP library for interacting with Mastodon's REST API."
   url: >
     https://github.com/fundevogel/php-mastodon
-- 
+-
   maintainer: fundevogel
   name: php-pcbis
   version: 2.5.0
   license: GPL-3.0
   description: pcbis.de helper, written in PHP
   url: https://github.com/fundevogel/php-pcbis
-- 
+-
   maintainer: getkirby
   name: cms
   version: 3.5.7.1
   license: proprietary
   description: The Kirby 3 core
   url: https://github.com/getkirby/kirby
-- 
+-
   maintainer: goat1000
   name: svggraph
   version: 3.10.0
   license: LGPL-3.0-only
   description: Generates SVG graphs
   url: https://github.com/goat1000/SVGGraph
-- 
+-
   maintainer: guzzlehttp
   name: guzzle
   version: 7.3.0
   license: MIT
   description: Guzzle is a PHP HTTP client library
   url: https://github.com/guzzle/guzzle
-- 
+-
   maintainer: jsvrcek
   name: ics
   version: "0.8"
@@ -206,7 +216,7 @@ Phpdata:
     multi-byte safe RFC 5545 compliant .ics
     files
   url: https://github.com/jasvrcek/ICS
-- 
+-
   maintainer: k-community
   name: markdown-field
   version: 1.0.9
@@ -214,7 +224,7 @@ Phpdata:
   description: Enhanced markdown editor for Kirby 3
   url: >
     https://github.com/sylvainjule/kirby-markdown-field
-- 
+-
   maintainer: kschu91
   name: largest-remainder-method
   version: "1.0"
@@ -227,7 +237,7 @@ Phpdata:
     rounded percentage values.
   url: >
     https://github.com/kschu91/largest-remainder-method
-- 
+-
   maintainer: mzur
   name: kirby-uniform
   version: 5.0.0
@@ -236,7 +246,7 @@ Phpdata:
     A versatile Kirby plugin to handle web
     form actions.
   url: https://github.com/mzur/kirby-uniform
-- 
+-
   maintainer: oblik
   name: kirby-plurals
   version: 1.0.0
@@ -244,7 +254,7 @@ Phpdata:
   description: Advanced pluralization for Kirby.
   url: >
     https://github.com/OblikStudio/kirby-plurals
-- 
+-
   maintainer: s1syphos
   name: kirby3-dejure
   version: 1.4.3
@@ -254,7 +264,7 @@ Phpdata:
     for Kirby v3
   url: >
     https://github.com/S1SYPHOS/kirby3-dejure
-- 
+-
   maintainer: s1syphos
   name: php-thx
   version: 1.2.1
@@ -266,7 +276,7 @@ Phpdata:
 
 Pkgdata:
 
-- 
+-
   maintainer: aFarkas
   name: lazysizes
   version: 5.2.2
@@ -276,7 +286,7 @@ Pkgdata:
     for images (including responsive
     images), iframes and scripts (widgets).
   url: https://github.com/aFarkas/lazysizes
-- 
+-
   maintainer: atomiks
   name: tippy.js
   version: 6.3.1
@@ -285,7 +295,7 @@ Pkgdata:
     The complete tooltip, popover, dropdown,
     and menu solution for the web
   url: https://github.com/atomiks/tippyjs
-- 
+-
   maintainer: bigbitecreative
   name: macy
   version: 2.5.1
@@ -295,7 +305,7 @@ Pkgdata:
     masonry layout library
   url: >
     https://github.com/bigbitecreative/macy.js
-- 
+-
   maintainer: davidcetinkaya
   name: embla-carousel
   version: 4.0.5
@@ -305,7 +315,7 @@ Pkgdata:
     fluid motion and great swipe precision
   url: >
     https://github.com/davidcetinkaya/embla-carousel
-- 
+-
   maintainer: henrygd
   name: bigpicture
   version: 2.5.3
@@ -314,14 +324,14 @@ Pkgdata:
     Lightweight image and video viewer,
     supports youtube / vimeo
   url: https://github.com/henrygd/bigpicture
-- 
+-
   maintainer: juliangarnier
   name: animejs
   version: 3.2.1
   license: MIT
   description: JavaScript animation engine
   url: https://github.com/juliangarnier/anime
-- 
+-
   maintainer: metafizzy
   name: infinite-scroll
   version: 4.0.1
@@ -329,7 +339,7 @@ Pkgdata:
   description: Automatically add next page
   url: >
     https://github.com/metafizzy/infinite-scroll
-- 
+-
   maintainer: robdel12
   name: dropkickjs
   version: 2.2.4
@@ -339,7 +349,7 @@ Pkgdata:
     beautiful, graceful, and painless custom
     dropdowns.
   url: https://github.com/robdel12/DropKick
-- 
+-
   maintainer: tailwindlabs
   name: tailwindcss
   version: 2.2.7
@@ -360,11 +370,11 @@ Licensetoken: GPL-3.0
 
 ----
 
-Loc: 5.856
+Loc: 6.571
 
 ----
 
-Commits: 40
+Commits: 38
 
 ----
 
@@ -390,11 +400,11 @@ Meta-description: Wir alle wollen ausprobieren und Neues entdecken, machen Fehle
 
 ----
 
-Meta-canonical-url: 
+Meta-canonical-url:
 
 ----
 
-Meta-author: 
+Meta-author:
 
 ----
 
@@ -404,15 +414,15 @@ Meta-image:
 
 ----
 
-Meta-phone-number: 
+Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title:
 
 ----
 
-Og-description: 
+Og-description:
 
 ----
 
@@ -422,23 +432,23 @@ Og-image:
 
 ----
 
-Og-site-name: 
+Og-site-name:
 
 ----
 
-Og-url: 
+Og-url:
 
 ----
 
-Og-audio: 
+Og-audio:
 
 ----
 
-Og-video: 
+Og-video:
 
 ----
 
-Og-determiner: 
+Og-determiner:
 
 ----
 
@@ -446,35 +456,35 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time: 
+Og-type-article-published-time:
 
 ----
 
-Og-type-article-modified-time: 
+Og-type-article-modified-time:
 
 ----
 
-Og-type-article-expiration-time: 
+Og-type-article-expiration-time:
 
 ----
 
-Og-type-article-author: 
+Og-type-article-author:
 
 ----
 
-Og-type-article-section: 
+Og-type-article-section:
 
 ----
 
-Og-type-article-tag: 
+Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title:
 
 ----
 
-Twitter-description: 
+Twitter-description:
 
 ----
 
@@ -488,11 +498,11 @@ Twitter-card-type: summary_large_image
 
 ----
 
-Twitter-site: 
+Twitter-site:
 
 ----
 
-Twitter-creator: 
+Twitter-creator:
 
 ----
 
@@ -500,11 +510,11 @@ Cacheduration: 14
 
 ----
 
-Licenseshort: 
+Licenseshort:
 
 ----
 
-Licenselong: 
+Licenselong:
 
 ----
 
