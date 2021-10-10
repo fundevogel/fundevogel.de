@@ -132,16 +132,16 @@ return [
         ],
         'html' => function($tag): string
         {
-            if ($pgpKey = site()->file($tag->value . '.asc')) {
+            if ($pgpKey = page('technisches')->file($tag->value . '.asc')) {
                 if ($tag->fingerprint) {
-                    return chunk_split($pgpKey->content()->fingerprint(), 4, ' ');
+                    return $pgpKey->fpr();
                 }
 
                 return kirbytag([
                     'link' => $pgpKey->url(),
                     'class' => 'js-tippy outline-none',
-                    'text' => $tag->text ?? $pgpKey->title(),
-                    'title' => $pgpKey->content()->type() . ' (' . $pgpKey->algorithm() . ') - ' . $pgpKey->length() . 'bit',
+                    'text' => $tag->text ?? 'Public PGP-Key',
+                    'title' => $pgpKey->crypto() . ' (' . $pgpKey->algorithm() . ') - ' . $pgpKey->length() . 'bit',
                 ]);
             }
 
