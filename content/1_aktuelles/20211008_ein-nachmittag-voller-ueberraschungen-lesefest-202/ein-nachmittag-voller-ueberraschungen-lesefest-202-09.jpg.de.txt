@@ -1,0 +1,21 @@
+Titleattribute: Die Basteleien der Kinder wurde an den Wänden ausgestellt
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Kreative Figuren und Gestalten aus dem Workshop hängen an der Wand
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

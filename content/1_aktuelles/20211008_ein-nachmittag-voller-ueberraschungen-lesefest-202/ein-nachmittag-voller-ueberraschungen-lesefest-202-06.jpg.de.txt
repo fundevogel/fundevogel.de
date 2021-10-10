@@ -1,0 +1,21 @@
+Titleattribute: Lesung aus dem Bilderbuch "Der Stein und das Meer"
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Stefanie Harjes hält das Bilderbuch "Der Stein und das Meer" in die Höhe und liest den Kindern daraus vor
+
+----
+
+Caption-wanted: false
+
+----
+
+Caption: 
+
+----
+
+Template: image

@@ -1,5 +1,0 @@
-Caption-wanted: false
-
-----
-
-Template: image
