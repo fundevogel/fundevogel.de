@@ -32,7 +32,7 @@ return [
     ##
 
     # Set alternative `home` identifier
-    'home' => 'news',
+    'home' => 'aktuelles',
 
     # Enable languages (currently supported are DE, EN & FR)
     'languages' => true,

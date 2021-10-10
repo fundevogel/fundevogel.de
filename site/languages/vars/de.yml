@@ -1,17 +1,17 @@
 # Nav menu: entries
-Menü: Menü
-Menü-news: Willkommen!
-Menü-fundevogel-und-team: Fundevogel
-Menü-unser-sortiment: Sortiment
-Menü-lesetipps: Lesetipps
-Menü-kalender: Kalender
-Menü-unser-service: Service
-Menü-unser-netzwerk: Netzwerk
-Menü-kontakt: Kontakt
+menu: menu
+menu-aktuelles: Willkommen!
+menu-fundevogel-und-team: Fundevogel
+menu-unser-sortiment: Sortiment
+menu-lesetipps: Lesetipps
+menu-kalender: Kalender
+menu-unser-service: Service
+menu-unser-netzwerk: Netzwerk
+menu-kontakt: Kontakt
 
 # Nav menu: title attributes
-Menü-Startseite: Startseite
-Menü-shop: Unser Onlineshop
+menu-home: Startseite
+menu-shop: Unser Onlineshop
 
 
 # Language menu

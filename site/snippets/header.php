@@ -11,7 +11,7 @@
                         <div class="flex justify-between items-center">
                             <?php snippet('nav/mobile') ?>
 
-                            <button class="js-toggle toggle lg:hidden z-50" type="button" data-menu="<?= t('Menü') ?>" aria-label="<?= t('Menü') ?>">
+                            <button class="js-toggle toggle lg:hidden z-50" type="button" data-menu="<?= t('menu') ?>" aria-label="<?= t('menu') ?>">
                                 <span></span>
                             </button>
 

@@ -155,7 +155,7 @@ def task_rename_images():
         ]
 
         # Get this party started
-        for path in Path(get_var('path', contents + '/1_news')).iterdir():
+        for path in Path(get_var('path', contents + '/1_aktuelles')).iterdir():
             dir_name = path.parts[-1]
 
             if dir_name in block_list:
