@@ -32,6 +32,8 @@ tabs:
               en: Giving thanks
             type: markdown
 
+      pubkeys: sections/pubkeys
+
   # Data
   tab_data:
     preset: page

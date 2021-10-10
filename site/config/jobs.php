@@ -1,5 +1,8 @@
 <?php
 
+use Fundevogel\GnuPG;
+
+
 # Define request parameters
 $parameters = [
     'timeout' => 0,
@@ -496,6 +499,22 @@ return [
                     'description' => $toot->data['media_attachments'][$index]['description'],
                 ]);
             }
+
+            $success = true;
+        }
+
+        return [
+            'status' => $success ? 200 : 404,
+            'label'  => $success ? 'Update erfolgreich!' : 'Mistikus totalus!',
+            'reload' => $success,
+        ];
+    },
+    'getPubkey' => function ($page, $data) {
+        $success = false;
+
+        # Check if PGP key exists
+        if ($file = $page->file($data)) {
+            $file->update((new GnuPG($file->root()))->data);
 
             $success = true;
         }
