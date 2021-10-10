@@ -71,13 +71,13 @@ function geo2osm(string $lat, string $lon): string
     $cache = kirby()->cache('locator');
 
     # Determine cache key
-    // $key = md5($lat . $lon);
+    $key = "$lat+$lon";
 
-    // $data = $cache->get($key);
+    # Check cachecontents
+    $url = $cache->get($key);
 
-    $data = null;
     # If there's nothing in the cache ..
-    if (empty($data)) {
+    if (empty($url)) {
         # .. fetch it!
         # (1) Define parameters
         $parameters = [
@@ -86,22 +86,23 @@ function geo2osm(string $lat, string $lon): string
         ];
 
         # (2) Make request
-        $url = "https://nominatim.openstreetmap.org/reverse?lat=$lat&lon=$lon&format=jsonv2";
-        $response = Remote::get($url, $parameters);
+        $nominatim = "https://nominatim.openstreetmap.org/reverse?lat=$lat&lon=$lon&format=jsonv2";
+        $response = Remote::get($nominatim, $parameters);
 
         # If everything goes as planned ..
-        if ($response->http_code() != 200) {
+        if ($response->code() !== 200) {
             return '';
         }
 
         # .. process response
-        $data = json_decode(json_encode($data), true);
+        $data = $response->json(false);
+
+        # Build URL
+        $url = 'https://www.openstreetmap.org/node/' . $data->osm_id;
 
         # Cache results
-        // $cache->set($key, $data, 0);
+        $cache->set($key, $url, 0);
     }
 
-    var_dump($data);
-
-    return '';
+    return $url;
 }
