@@ -1,0 +1,152 @@
+Title: Unfollow
+
+----
+
+Text:
+
+Zum Beginn der Graphic Novel wird Earthboi als hochbegabt und äußerst eigenwillig beschrieben. Nachdem seine Mutter unter seinem Bett in einer Schachtel tote Tiere gefunden hatte, musste er zu einem Kinderpsychologen und dann in die Psychiatrie. Dort findet er erste Anhänger, erste Follower. Sie helfen ihm, aus der Psychiatrie auszubrechen, um dann ein erfolgreicher Influencer zu werden. Er wird sogar auf einem „Time“-Cover zu sehen sein. Später lernt er Yu kennen, eine Programmiererin und Künstlerin, von der er einiges lernen kann und in die er sich verliebt.  
+
+Der besondere Reiz der Graphic Novel entsteht durch die Wahl der Erzählinstanz. Der Text gibt die Worte eines kollektiven Wir wieder – die Worte seiner ersten Follower. Durch diese in der Literaturgeschichte selten anzutreffende Wahl der Fokalisierung wissen Lesende nie genau, wie die Geschehnisse eigentlich einzuordnen sind. Beispielsweise irritieren schon auf den ersten Seiten, wie Earthboi die Genese der Welt über mehrere Zeitalter miterlebt. Ferner erzeugen quasi-religiöse Formulierungen Irritationsmomente, zum Beispiel wenn die ersten Follower ihn als „fleischgewordenen Sohn“ der Erde bezeichnen. Darüber hinaus muss zwischen den Zeilen erlesen werden, wann sich die Hingabe der Follower in eine kritische Haltung verwandelt.
+
+----
+
+Verdict: Viele zeitgenössische Motive machen die anspruchsvolle Lektüre für Jugendliche zugänglich. Die Graphic Novel bietet unzählige Anlässe, über aktuelle gesellschaftliche Herausforderungen ins Gespräch zu kommen.
+
+----
+
+Conclusion:
+
+### Viele zeitgenössische Motive
+Die Panels erzählen kongruent zum Text und laden zum Verweilen ein. Das Cover zeigt mit seinem kalten Blau und dem warmen Rosa die beiden Grundtöne, welche alle Panels durchziehen und zusammen mit dem autortypischen Figurendesign den Eindruck selbstreferenzieller Artifizialität und Unergründlichkeit evozieren. Die anspruchsvolle Lektüre ist dennoch insbesondere für jugendliche Leser*innen zugänglich. Das liegt an den vielen zeitgenössischen Motiven – Earthboi erinnert in seiner Wirkung auf seine Generation an Greta Thunberg – und Dingen, die gerade junge Menschen kennen, z.B. Streaming, Patreon, Java-Script, Direct Messaging via Instagram, aber auch gefährliche Trends wie Hustensaft als Modedroge.
+
+Die Graphic Novel bietet unzählige Anlässe, über aktuelle gesellschaftliche Herausforderungen ins Gespräch zu kommen, zum Beispiel Klimawandel, Filter-Bubbles, Influencer-Kultur, Personenkult, Wachstumszwang, Konsum, Artensterben, informationelle Selbstbestimmung und digitale Überwachung. Das Zusammenspiel von Lebensweltbezug und überindividueller Relevanz für unser jetziges Miteinander könnte also kaum ausgeprägter sein.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-10-04
+
+----
+
+Book:
+
+- buecher/unfollow-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-10-13 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-10-13 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-10-13 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

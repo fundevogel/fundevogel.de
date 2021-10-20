@@ -1,0 +1,135 @@
+Title: Unfollow
+
+----
+
+Isbn: 978-3-95640-217-3
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Lukas Jüliger
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Reprodukt
+
+----
+
+Age: 
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2020
+
+----
+
+Binding: 
+
+----
+
+Pagecount: 160
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Digitales Zeitalter, Klimawandel, Social Media, Natur
+
+----
+
+Description: Dass Earthboi, der so alt ist wie das Leben auf der Erde selbst, sich ausgerechnet zu unserer Zeit in menschlicher Form manifestiert, kann kein Zufall sein. Er kennt die Natur und ihre Lebewesen in allen Facetten, er hat ihre Entstehung beobachtet und begleitet. Und nun betrachtet er entsetzt die verheerenden Auswirkungen des Anthropozäns auf die Natur, die nicht mehr rückgängig zu machen sind. Er entwickelt eine App, die UserInnen ein ökologisches Bewusstsein "einpflanzt" und wird zu einem globalen Anführer, einer Art Messias, dessen Anhängerschar stetig wächst. Ist die Rettung des Planeten vereinbar mit der Rettung der Menschheit?Lukas Jüligers "Unfollow" stößt mitten in die Klimadebatte. Kritisch setzt er sich mit aktuellen Fragen auseinander: Gibt es alternative, nachhaltige Lebensentwürfe? Wie gehen wir mit den gewaltigen ökologischen und sozialen Umwälzungen als Folge des Klimawandels um, mit denen wir uns künftig immer stärker konfrontiert sehen werden? Und ist ein Personenkult im digitalen Zeitalter plan- und konstruierbar?
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000002605278/63715/10002/-3/Buecher/Lukas-Jueliger/Unfollow
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- unfollow_lukas-jueliger.jpg
+
+----
+
+Categories: Comic, Jugendbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Oktober 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/lesepeter-oktober-2021-graphic-novel-influencer-in-der-natur
+
+----
+
+Participant: 
