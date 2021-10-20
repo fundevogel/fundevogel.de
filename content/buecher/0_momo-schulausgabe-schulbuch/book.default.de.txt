@@ -1,0 +1,135 @@
+Title: Momo, Schulausgabe
+
+----
+
+Isbn: 978-3-522-20210-7
+
+----
+
+Subtitle: Oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte. Ein Märchen-Roman
+
+----
+
+Type: Schulbuch
+
+----
+
+Author: Michael Ende
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Thienemann in der Thienemann-Esslinger Verlag GmbH
+
+----
+
+Age: ab 12 Jahren
+
+----
+
+Antolin: 6. Klasse
+
+----
+
+Releaseyear: 2014
+
+----
+
+Binding: kartoniert/broschiert
+
+----
+
+Pagecount: 304
+
+----
+
+Price: 9,99
+
+----
+
+Topics: Deutsch, Lektüre (Sekundarstufe I)
+
+----
+
+Description: Weltbestseller, Klassiker, Kultbuch - für Mädchen und Jungen ab 12 JahrenMomo, ein kleines struppiges Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann ...Michael Endes Märchen-Roman voller Poesie und Herzenswärme über den Zauber der ZeitDer Bestseller in der preisgünstigen Broschurausgabe auch als Schulausgabe geeignet.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: 
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- momo-schulausgabe_michael-ende.jpg
+
+----
+
+Categories: 
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

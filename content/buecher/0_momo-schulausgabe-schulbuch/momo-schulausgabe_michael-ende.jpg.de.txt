@@ -1,0 +1,13 @@
+Titleattribute: "Momo, Schulausgabe" von Michael Ende
+
+----
+
+Source: Deutsche Nationalbibliothek
+
+----
+
+Altattribute: Cover des Buches "Momo, Schulausgabe" von Michael Ende
+
+----
+
+Template: image
