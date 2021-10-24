@@ -56,8 +56,7 @@ return [
     'bnomei.janitor.jobs' => require_once 'jobs.php',
 
     # Enable auto-linking to `dejure.org` (specific templates only)
-    # Update: Disable kirby3-dejure for now
-    'kirby3-dejure.enable' => false,
+    'kirby3-dejure.allowList' => ['default'],
 
     # Define AVIF conversion options
     'fundevogel.colorist' => [
