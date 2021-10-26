@@ -35,7 +35,7 @@
         "beebmx/kirby-env": "3.0.0",
         "bnomei/kirby3-feed": "1.5.1",
         "bnomei/kirby3-fingerprint": "3.0.14",
-        "bnomei/kirby3-janitor": "2.10.0",
+        "bnomei/kirby3-janitor": "2.12.0",
         "bnomei/kirby3-security-headers": "2.5.2",
         "diesdasdigital/kirby-meta-knight": "1.2.0",
         "distantnative/retour-for-kirby": "4.0.0-beta.1",
@@ -50,7 +50,7 @@
         "kschu91/largest-remainder-method": "1.0.0",
         "mzur/kirby-uniform": "5.0.0",
         "oblik/kirby-plurals": "1.0.0",
-        "s1syphos/kirby3-dejure": "1.4.3",
+        "s1syphos/kirby3-dejure": "1.4.4",
         "s1syphos/php-thx": "1.2.1",
         "sylvainjule/locator": "1.0.8"
     },
