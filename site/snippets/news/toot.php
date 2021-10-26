@@ -1,6 +1,6 @@
 <div class="container">
     <?php
-        $images = $article->images();
+        $images = $article->getImages();
         $hasGallery = count($images) > 2;
     ?>
     <div class="flex flex-col lg:flex-row justify-center">
