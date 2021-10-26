@@ -30,7 +30,7 @@ Publisher: Reprodukt
 
 ----
 
-Age: 
+Age: ab 14 Jahren
 
 ----
 
@@ -54,11 +54,15 @@ Price: 18,00
 
 ----
 
-Topics: Digitales Zeitalter, Klimawandel, Social Media, Natur
+Topics: Digitales Zeitalter, Klimawandel, Social Media, Natur, informationelle Selbstbestimmung, Konsum, Wachstumszwang
 
 ----
 
-Description: Dass Earthboi, der so alt ist wie das Leben auf der Erde selbst, sich ausgerechnet zu unserer Zeit in menschlicher Form manifestiert, kann kein Zufall sein. Er kennt die Natur und ihre Lebewesen in allen Facetten, er hat ihre Entstehung beobachtet und begleitet. Und nun betrachtet er entsetzt die verheerenden Auswirkungen des Anthropozäns auf die Natur, die nicht mehr rückgängig zu machen sind. Er entwickelt eine App, die UserInnen ein ökologisches Bewusstsein "einpflanzt" und wird zu einem globalen Anführer, einer Art Messias, dessen Anhängerschar stetig wächst. Ist die Rettung des Planeten vereinbar mit der Rettung der Menschheit?Lukas Jüligers "Unfollow" stößt mitten in die Klimadebatte. Kritisch setzt er sich mit aktuellen Fragen auseinander: Gibt es alternative, nachhaltige Lebensentwürfe? Wie gehen wir mit den gewaltigen ökologischen und sozialen Umwälzungen als Folge des Klimawandels um, mit denen wir uns künftig immer stärker konfrontiert sehen werden? Und ist ein Personenkult im digitalen Zeitalter plan- und konstruierbar?
+Description:
+
+Dass Earthboi, der so alt ist wie das Leben auf der Erde selbst, sich ausgerechnet zu unserer Zeit in menschlicher Form manifestiert, kann kein Zufall sein. Er kennt die Natur und ihre Lebewesen in allen Facetten, er hat ihre Entstehung beobachtet und begleitet. Und nun betrachtet er entsetzt die verheerenden Auswirkungen des Anthropozäns auf die Natur, die nicht mehr rückgängig zu machen sind. Er entwickelt eine App, die UserInnen ein ökologisches Bewusstsein "einpflanzt" und wird zu einem globalen Anführer, einer Art Messias, dessen Anhängerschar stetig wächst. Ist die Rettung des Planeten vereinbar mit der Rettung der Menschheit?
+
+Lukas Jüligers "Unfollow" stößt mitten in die Klimadebatte. Kritisch setzt er sich mit aktuellen Fragen auseinander: Gibt es alternative, nachhaltige Lebensentwürfe? Wie gehen wir mit den gewaltigen ökologischen und sozialen Umwälzungen als Folge des Klimawandels um, mit denen wir uns künftig immer stärker konfrontiert sehen werden? Und ist ein Personenkult im digitalen Zeitalter plan- und konstruierbar?
 
 ----
 
