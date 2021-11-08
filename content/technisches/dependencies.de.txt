@@ -119,7 +119,7 @@ Phpdata:
 - 
   maintainer: bnomei
   name: kirby3-janitor
-  version: 2.10.0
+  version: 2.12.0
   license: MIT
   description: >
     Kirby 3 Plugin for running jobs like
@@ -256,14 +256,11 @@ Phpdata:
     https://github.com/OblikStudio/kirby-plurals
 - 
   maintainer: s1syphos
-  name: kirby3-dejure
-  version: 1.4.3
-  license: MIT
-  description: >
-    Auto-linking legal norms to dejure.org
-    for Kirby v3
-  url: >
-    https://github.com/S1SYPHOS/kirby3-dejure
+  name: kirby3-gesetze
+  version: 1.0.0
+  license: ""
+  description: ""
+  url: ""
 - 
   maintainer: s1syphos
   name: php-thx
@@ -271,6 +268,14 @@ Phpdata:
   license: MIT
   description: 'Acknowledge the people behind your frontend dependencies - and give thanks!'
   url: https://github.com/S1SYPHOS/php-thx
+- 
+  maintainer: sylvainjule
+  name: locator
+  version: 1.0.8
+  license: MIT
+  description: 'A map & geolocation field, built on top of open-source services / Mapbox'
+  url: >
+    https://github.com/sylvainjule/kirby-locator
 
 ----
 
@@ -370,11 +375,11 @@ Licensetoken: GPL-3.0
 
 ----
 
-Loc: 6.571
+Loc: 6.631
 
 ----
 
-Commits: 38
+Commits: 30
 
 ----
 
