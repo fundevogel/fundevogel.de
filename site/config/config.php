@@ -55,8 +55,13 @@ return [
     # Janitor jobs
     'bnomei.janitor.jobs' => require_once 'jobs.php',
 
-    # Enable auto-linking to `dejure.org` (specific templates only)
-    'kirby3-dejure.allowList' => ['default'],
+    # Enable auto-linking legal norms (specific templates only)
+    'kirby3-gesetze.drivers.blockList' => ['dejure', 'buzer'],
+    'kirby3-gesetze.allowList' => ['default'],
+    'kirby3-gesetze.attributes' => [
+        'class' => 'js-tippy',
+        'data-tippy-theme' => 'fundevogel red',
+    ],
 
     # Define AVIF conversion options
     'fundevogel.colorist' => [
