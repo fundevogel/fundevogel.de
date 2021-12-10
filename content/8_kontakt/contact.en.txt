@@ -27,17 +27,17 @@ Tram: Or you just take the tram - the nearest tram stops are "Bertoldsbrunnen", 
 
 Formtext:
 
-## Ein offenes Ohr
-Der kleine Neffe hat am Wochenende Geburtstag und Ihr braucht noch eine Last-Minute-Beratung? Ihr plant eine Veranstaltung und wünscht Euch einen gut sortierten Büchertisch? Und wie heißt noch dieses tolle Buch, von dem die Kollegin neulich so geschwärmt hat ..
+## A friendly ear
+Your little nephew's birthday is coming up and you could use a last-minute purchase advice? Your institution is planning an event and requires a well-assorted book stand? And what's the name of this great book again that your colleague fancied so much ..
 
-Über das Kontaktformular steht Euch eine **schnelle und einfache Möglichkeit** zur Verfügung, **mit uns in Verbindung zu treten**. Lasst uns wissen, was ihr denkt oder braucht, und wir melden uns zeitnah per Email bei Euch. Wir freuen uns, von Euch zu hören!
+The contact form below provides a **fast and easy way to get in touch** with us. Let us know what you are looking for (or the person you want to give a present to) and we will get back to you!
 
 ----
 
 Formerror:
 
-### Fehler beim Absenden
-Beim Versuch, eine Nachricht zu senden, ist leider etwas schiefgegangen:
+### Sending failed
+While attempting to send over your message, it appears that something went wrong:
 
 ----
 

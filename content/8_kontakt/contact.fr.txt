@@ -27,17 +27,19 @@ Tram: Si vous venez en tram : arrêtez-vous à "Bertoldsbrunnen", "Holzmarkt" ou
 
 Formtext:
 
-## Ein offenes Ohr
-Der kleine Neffe hat am Wochenende Geburtstag und Ihr braucht noch eine Last-Minute-Beratung? Ihr plant eine Veranstaltung und wünscht Euch einen gut sortierten Büchertisch? Und wie heißt noch dieses tolle Buch, von dem die Kollegin neulich so geschwärmt hat ..
+## Une oreille attentive
+L'anniversaire de votre petit neveu est ce week-end et vous avez besoin de conseils pour un cadeau de dernière minute ? Vous organisez un événement et vous souhaitez
+une table de littérature assortie ? Et quel est le nom de ce grand livre dont votre collègue s'est extasié l'autre jour ... ?
 
-Über das Kontaktformular steht Euch eine **schnelle und einfache Möglichkeit** zur Verfügung, **mit uns in Verbindung zu treten**. Lasst uns wissen, was ihr denkt oder braucht, und wir melden uns zeitnah per Email bei Euch. Wir freuen uns, von Euch zu hören!
+Le formulaire de contact vous fournit un moyen **rapide et simple** de **prendre contact avec nous**.
+Dites-nous ce que vous pensez ou ce dont vous avez besoin, et nous vous répondrons rapidement par courrier électronique. Nous vous enverrons un courriel dès que possible. Nous sommes impatients d'avoir de vos nouvelles !
 
 ----
 
 Formerror:
 
-### Fehler beim Absenden
-Beim Versuch, eine Nachricht zu senden, ist leider etwas schiefgegangen:
+### Erreur d'envoi
+Malheureusement, quelque chose a mal tourné lorsque j'ai essayé d'envoyer un message. a mal tourné :
 
 ----
 
