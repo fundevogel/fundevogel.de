@@ -1,0 +1,136 @@
+Title: Das Universum ist verdammt groß und supermystisch
+
+----
+
+Isbn: 978-3-407-75600-8
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Lisa Krusche
+
+----
+
+Illustrator: 
+
+----
+
+Translator: 
+
+----
+
+Publisher: Beltz
+
+----
+
+Age: ab 10 Jahren
+
+----
+
+Antolin: 5. Klasse
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 192
+
+----
+
+Price: 13,00
+
+----
+
+Topics: Familie, Freundschaft, Zirkus, Universum, Trennung, Roadtrip
+
+----
+
+Description: Gustav spricht nicht mehr. So lange, bis seine Mutter "den Mann" aufgibt, der eh bald wieder weg sein wird. Charles kratzt Gustavs Stummheit nicht, sie will mit ihm losziehen, um seinen Vater zu finden. Und Gustavs Opa kommt mit auf die Reise, die sie quer durch Europa führt, von Berlin bis nach Istanbul. Und während Gustav immer wieder zweifelt, ist Charles überzeugt von der supermystischen Kraft des Universums und dass am Ende alles gut werden kann.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003632096/63715/10002/-3/Buecher_Kinder--und-Jugend/Lisa-Krusche/Das-Universum-ist-verdammt-gross-und-supermystisch
+
+----
+
+Drawer: Felicitas Horstschäfer
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- >
+  das-universum-ist-verdammt-gross-und-supermystisch_lisa-krusche.jpg
+
+----
+
+Categories: Kinderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: false
+
+----
+
+Award: 
+
+----
+
+Awardedition: 
+
+----
+
+Leselink: 
+
+----
+
+Participant: 

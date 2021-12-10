@@ -1,0 +1,163 @@
+Title: Alle zählen
+
+----
+
+Text:
+
+### Von Mengen und Unikaten
+Bereits die Doppeldeutigkeit des Titels "Alle zählen" spiegelt eindrücklich das Konzept des Buches wider. Beginnend bei Null werden sukzessiv wachsende Personengruppen in den Fokus gerückt und in Wort und Bild mit verschiedenen Eigenschaften ausgestaltet. Mit der Zahl 1 wird den Leserinnen und Lesern zunächst ein Junge vorgestellt, der abends in seinem Bett liegt, seine Herzschläge zählt und sich fragt, wie viele Menschen dieselben Sterne sehen wie er. Auf den folgenden Seiten erweitert sich durch das Hinzufügen je einer weiteren Person das Umfeld dieses Protagonisten, indem Familienmitglieder, Freundinnen und Freunde und Mitschülerinnen und Mitschüler auftreten, die ihrerseits mit anderen in Verbindung stehen.
+
+Durch das Aufzeigen alltäglicher Orte, an denen Menschen scheinbar zufällig zusammenkommen, wie im Fahrstuhl, im Supermarkt oder beim Marathonlauf kann durch das Suchen bereits bekannter Figuren entdeckt werden, wie vernetzt diese untereinander sind. Auch große Menschenmengen mit neunzig Personen bei einer Preisverleihung, zweihundert an einem Strand oder schließlich eintausend bei der Beobachtung eines Kometen werden in den Illustrationen umgesetzt, um abschließend einen Blick auf die Erde zu gewähren: "Siebeneinhalb Milliarden Menschen zusammen auf einem Planeten. Jeder hat seine persönliche, einzigartige Geschichte. Alle zählen. Und einer von ihnen bist du!"
+
+----
+
+Verdict:
+
+Mit einem Blick auf die Menschen vermittelt das Bilderbuch Vorstellungen von Mengen und gleichsam eine Idee von Gemeinsamkeit und Individualität: Wie viele Personen denken, fühlen und erleben etwas in einem besonderen Moment?
+
+Mit reduzierten Illustrationen, die zu eindrucksvollen Wimmelbildern anschwellen, und kurzen Beschreibungen, die mehr Fragen aufwerfen als sie beantworten, werden Leserinnen und Leser zur genauen Betrachtung und zum gemeinsamen Philosophieren über das Leben eingeladen.
+
+----
+
+Conclusion:
+
+### Von literarischen Mustern und umherkreisenden Fragen
+Informationen erhalten Leserinnen und Leser durch den knappen unscheinbaren Text am unteren Bildrand, der elliptisch immer auf die gleiche Weise zunächst die Figuren in den lebensweltlichen Kontext einordnet, um daraufhin einzelne Teilmengen genauer vorzustellen. Manche Aussagen betreffen alle: So will beispielsweise keine oder keiner als letzte oder letzter in die Brennballmannschaft gewählt werden. Andere Zuschreibungen beziehen sich auf Gruppen oder einzelne Figuren. In jedem Fall bleiben die Protagonistinnen und Protagonisten zunächst namenlos, was dazu führt, dass eine Zuordnung von Bild und Text nur vage vermutet werden kann und zum Rätseln und Zurückblättern einlädt.
+
+Wer könnte einen Impfstoff entwickeln? Wer sagt etwas, das für eine andere Person für den Rest ihres Lebens in Erinnerung bleiben wird? Wer ist auf der Flucht? Wer ist verliebt? Wer wäre lieber an einem anderen Ort? Ein paar dieser Geheimnisse werden am Ende des Bilderbuches aufgedeckt, wo zu den einzelnen Seiten einige Hinweise und Hintergrundinformationen zu den Figuren gegeben werden. Wer stattdessen nach weiteren Rätseln sucht, findet hier auch eine ganze Doppelseite mit Suchaufträgen zu den Bildern ("Wo ist dieses Selfie aufgenommen?") oder mit philosophischen Fragen ("Was zählt am meisten in deinem Leben?").
+
+### Von zarten Linien und kräftigen Farben
+Auch die Gesamtgestaltung des Bilderbuches strebt danach, die Individualität der Menschen in den Fokus zu rücken. Mit einem satten Blau wird dickgedruckt auf jeder Seite zunächst die Zahl der Personenmenge angegeben. In der gleichen Farbe wird mit filigranen Linien und zahlreichen Details ein Hintergrund ausdifferenziert, vor dem die Figuren bunt und plakativ hervortreten. Trotz der sehr abstrahierten Darstellungsweise gelingt es, durch Körpergröße, Haut- und Haarfarbe, Frisur und bunte Kleidung die Protagonistinnen und Protagonisten wiedererkennbar werden zu lassen und gleichsam die Vielfalt der Gesellschaft abzubilden. Dick und Dünn, Alt und Jung, mit Kopftuch, mit Basecap oder im Rollstuhl – viele Heterogenitätsdimensionen zeigen sich im Bild, ohne diese zu betonen oder zu werten.
+
+### Vom Großen und Ganzen
+Kristin Roskifte gelingt es in diesem Werk, die Komplexität der Gesellschaft faszinierend unkompliziert darzustellen, indem sie eine zunächst scheinbar unüberschaubare Masse in ihre Einzelglieder zerlegt.  Durch das Mitverfolgen einzelner Figuren über die Buchseiten hinweg, ergeben sich chronologische Geschichten, die den Charakteren individuelle Züge geben. Da es aber von Bild zu Bild mehr Menschen werden, wird ebenso deutlich, wie komplex unser Leben ist. Bei allen Unterschieden, wird stets darauf verwiesen, dass es grundsätzliche Werte und Bedürfnisse gibt, die alle miteinander teilen. Das Bilderbuch lädt neben dem wiederholten Lesen und Betrachten ebenso zum Diskutieren und Philosophieren mit anderen ein, und wird dadurch zum Gegenstand zwischenmenschlichen Austausches.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-12-10
+
+----
+
+Book:
+
+- buecher/alle-zaehlen-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-12-10 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-12-10 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-12-10 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

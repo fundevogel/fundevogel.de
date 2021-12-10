@@ -1,0 +1,135 @@
+Title: Alle zählen
+
+----
+
+Isbn: 978-3-8369-6036-6
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Kristin Roskifte
+
+----
+
+Illustrator: 
+
+----
+
+Translator: Maike Dörries
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 5 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 64
+
+----
+
+Price: 18,00
+
+----
+
+Topics: Zählen, Suchbild / Vexierbild / Wimmelbild
+
+----
+
+Description: Siebeneinhalb Milliarden Menschen zusammen auf einem Planeten. Jeder Einzelne hat seine persönliche, einzigartige Geschichte. Alle zählen. Und einer von ihnen bist du!Dieses außergewöhnliche Zählbuch von 0 bis 7,5 Milliarden ist zugleich ein raffiniertes Such-, Rätsel-, Wimmel- und Geschichtenbuch, in das man sich stunden- und tagelang vertiefen kann, um die zahlreichen darin versteckten Geheimnisse zu lüften und den mannigfaltigen individuellen Geschichten zu folgen. Die farbenfrohen Illustrationen geben ein buntes und facettenreiches Bild von der Vielfalt der Menschen auf unserem Planeten.
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003423948/63715/10002/-3/Buecher_Kinder--und-Jugend/Kristin-Roskifte/Alle-zaehlen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- alle-zaehlen_kristin-roskifte.jpg
+
+----
+
+Categories: Bilderbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: Dezember 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/lesepeter-dezember-2021-auszeichnung-bilderbuch-alle-zaehlen
+
+----
+
+Participant: 

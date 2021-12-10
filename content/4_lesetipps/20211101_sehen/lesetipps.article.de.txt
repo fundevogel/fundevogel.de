@@ -1,0 +1,157 @@
+Title: Sehen
+
+----
+
+Text:
+
+Der Sehsinn ist der wichtigste Sinn des Menschen und der am intensivsten erforschte. Seine Leistungen bringen selbst Expertinnen und Experten noch zum Staunen. Wir erkennen Dinge, die so gigantisch und weit entfernt sind wie die Sterne im Universum und so winzig und nah wie Bakterien auf unserer Haut. Außerdem können wir zehn Millionen Farbtöne unterscheiden. Schon das allein macht den Sehsinn bemerkenswert.
+
+Ein sehr komplexes und spannendes Thema wird aus ganz verschieden Blickwinkeln von dem ukrainischen Autorenduo bearbeitet, so dass Leserinnen und Leser ein umfassendes Bild zu diesem Sinnesorgan erhält. Augenfarben, Augenaufbau, Farben erkennen, Spiegelbild und Gesichtserkennung sind ebenso Bestandteil des Inhalts wie die Bedeutung von Symbolen, kleine Dinge unter dem Mikroskop, weit entfernte Dinge mit dem Teleskop, unsichtbare Dinge und optische Täuschungen.
+
+### Informative Texte
+In ausdrucksvollen Bildern lernen Leserinnen und Leser alles, was man über das Sehen wissen muss: Dass Babys kurz nach der Geburt alles verschwommen wahrnehmen, welche Hilfsmittel wir für das exakte Sehen brauchen oder welche Tiere besser sehen als Menschen. Manchmal brauchen unsere Auge Hilfe und eine Brille wird fällig. Tiere beispielsweise sehen die Welt mit anderen Augen als Menschen, was anhand der Darstellung von Sichtfeldern verschiedener Tiere verdeutlicht wird.
+
+Informative und kurze Texte vermitteln eine unglaubliche Fülle an Sachinformationen, die dann in den farbigen Bildern umgesetzt werden. Haie können sehr gut in trübem Wasser sehen, Schmetterlinge noch mehr Farben erkennen als der Mensch, die Augen von Chamäleons und Ratten unabhängig voneinander in verschiedene Richtungen blicken.
+
+----
+
+Verdict: Ein sehr komplexes und spannendes Thema wird in dem Sachbuch "Sehen" aus ganz verschieden Blickwinkeln bearbeitet. Interessante Sachtexte und stilisierte Bilder werden mit philosophischen Fragen und Gedanken verknüpft - so entsteht ein Buch, das neue Perspektiven schafft und zum Gedankenaustausch einlädt.
+
+----
+
+Conclusion:
+
+### Optische Akzente
+In diesem graphisch wunderbar gestalteten Buch werden durch auffällige neon-orangefarbene Töne Akzente gesetzt, die optisch buchstäblich ins "Auge fallen". Der Sehnerv der Leserinnen und Leser wird somit absichtlich "gereizt". Mit nur vier Farben - Gelb, Blau, Ocker und einem neonfarbenen Orangeton - werden sowohl die formatfüllenden Bilder als auch reduzierte Einzeldarstellungen visuell eindrucksvoll in Szene gesetzt.
+
+Durch die Verknüpfung von Bild und Text entsteht ein vielperspektivisches Werk, dem es gelingt, das Sehen philosophisch und wissenschaftlich für Kinder und Erwachsene gleichermaßen äußerst anschaulich und informativ aufzubereiten. Interessante Sachtexte werden  mit philosophischen Fragen und Gedanken verknüpft. So entsteht ein unglaublich tolles Buch, das neue Perspektiven schafft und zum Gedankenaustausch einlädt.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-11-01
+
+----
+
+Book:
+
+- buecher/sehen-hardcover
+
+----
+
+Isexternal: true
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-11-05 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-11-05 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-11-05 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

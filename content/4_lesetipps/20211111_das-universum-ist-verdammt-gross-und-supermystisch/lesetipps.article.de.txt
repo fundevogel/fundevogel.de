@@ -1,0 +1,152 @@
+Title: Das Universum ist verdammt groß und supermystisch
+
+----
+
+Text:
+
+Gustav spricht nicht. Nicht weil er nicht kann, sondern weil er nicht will! Aus Protest, denn seine Mutter Lily soll "den Mann" in den Wind schießen, der nicht Gustavs Vater ist und ihr das Herz brechen wird – und Gustav will nur seinen Vater als Vater, obwohl er den überhaupt nicht kennt. Die Pflichtbesuche bei seinem Opa im Altenheim helfen auch nicht wirklich, denn Gustavs Opa spricht fast genau so wenig wie er selbst.
+
+Gustav führt gerade wieder ein (stummes) Gespräch mit seiner Wasserpflanze Agatha, als plötzlich die vorwitzige Charles neben ihm am Kanal auftaucht – und die ist so gar nicht auf den Mund gefallen. Charles ist nicht nur wortgewandt und schlau, sondern auch ziemlich gut im Sachenherausfinden und beschließt kurzerhand, dass es an der Zeit ist, Gustavs Vater zu suchen. Und ehe der weiß, wie ihm geschieht, sitzt er mit Charles und seinem Opa im Bulli auf dem Weg nach Polen. Denn Gustavs Vater war Teil der gleichen Zirkustruppe, zu der auch Opa früher gehörte, und die ist mittlerweile in alle Winde verstreut. Und Opa ist auf einmal gar nicht mehr schweigsam, sondern wie ausgewechselt! Liegt das an Charles?
+
+----
+
+Verdict: Ein Abenteuer, wie es im Buche steht – mit großartigem Witz und tiefer Weisheit! Und nicht nur für Kinder superunterhaltsam; von Charles können auch Erwachsene so einiges lernen!
+
+----
+
+Conclusion:
+
+Tatsächlich erweisen sich die Zirkusfreunde als Hilfe bei der Suche (manche mehr als andere) und so führt sie die Spur von Polen durch die Slowakei bis schließlich hinein ins pulsierende Istanbul ..
+
+So wie es sich für ein echtes Abenteuer gehört, geht das nicht immer reibungslos vonstatten – doch Charles' Vertrauen in das Universum ist unerschütterlich: Das ist nämlich verdammt groß und supermystisch.
+
+----
+
+Layouts: 
+
+----
+
+Date: 2021-11-11
+
+----
+
+Book:
+
+- >
+  buecher/das-universum-ist-verdammt-gross-und-supermystisch-hardcover
+
+----
+
+Isexternal: false
+
+----
+
+Isadvanced: false
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2021-11-11 00:00:00
+
+----
+
+Og-type-article-modified-time: 2021-11-11 00:00:00
+
+----
+
+Og-type-article-expiration-time: 2021-11-11 00:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 

@@ -1,0 +1,135 @@
+Title: Sehen
+
+----
+
+Isbn: 978-3-8369-6050-2
+
+----
+
+Subtitle: 
+
+----
+
+Type: Hardcover
+
+----
+
+Author: Romana Romanyschyn
+
+----
+
+Illustrator: Andrij Lessiw
+
+----
+
+Translator: Claudia Dathe
+
+----
+
+Publisher: Gerstenberg Verlag
+
+----
+
+Age: ab 8 Jahren
+
+----
+
+Antolin: 
+
+----
+
+Releaseyear: 2021
+
+----
+
+Binding: gebunden
+
+----
+
+Pagecount: 56
+
+----
+
+Price: 20,00
+
+----
+
+Topics: Biologie, Blindheit, Iris, Naturwissenschaft, Optik, Optische Täuschung, Pupille, Sehen
+
+----
+
+Description: Sehen ist neben dem Hören der wichtigste Sinn des Menschen. Wie funktioniert unser Sehsystem, wie ist das menschliche Auge aufgebaut? Mithilfe meiner Augen kann ich Hell und Dunkel, Farben und Formen unterscheiden. Ich kann auf den ersten Blick sehen, ob jemand traurig oder glücklich ist. Neugeborene sehen die Welt noch unscharf und verschwommen und Tiere sehen anders als wir Menschen. Unglaublich kleine Dinge erscheinen durch ein Mikroskop betrachtet erstaunlich groß. Und manchmal täuscht uns das Auge auch. Doch Sehen ist so viel mehr, als wir über unsere Augen wahrnehmen. Wer ich wirklich bin, zeigt mir der Spiegel nicht. Eine Reise in die Welt des Sehens, des Sichtbaren und Unsichtbaren. Und ein Sachbilderbuch über die Kunst, die Welt mit immer wieder neuen Augen zu sehen!
+
+----
+
+Isavailable: true
+
+----
+
+Olacode: 
+
+----
+
+Olamessage: 
+
+----
+
+Shop: https://fundevogel.buchkatalog.de/webapp/wcs/stores/servlet/Product/3000003423950/63715/10002/-3/Buecher/Romana-Romanyschyn/Sehen
+
+----
+
+Drawer: 
+
+----
+
+Photographer: 
+
+----
+
+Editor: 
+
+----
+
+Participants: 
+
+----
+
+Cover:
+
+- sehen_romana-romanyschyn.jpg
+
+----
+
+Categories: Sachbuch
+
+----
+
+Isseries: false
+
+----
+
+Series: 
+
+----
+
+Volume: 
+
+----
+
+Hasaward: true
+
+----
+
+Award: LesePeter
+
+----
+
+Awardedition: November 2021
+
+----
+
+Leselink: https://www.gew.de/aktuelles/detailseite/neuigkeiten/sachbuch-ueber-den-wichtigsten-sinn-des-menschen-ausgezeichnet
+
+----
+
+Participant: 

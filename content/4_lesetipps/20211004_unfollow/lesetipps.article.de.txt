@@ -4,7 +4,7 @@ Title: Unfollow
 
 Text:
 
-Zum Beginn der Graphic Novel wird Earthboi als hochbegabt und äußerst eigenwillig beschrieben. Nachdem seine Mutter unter seinem Bett in einer Schachtel tote Tiere gefunden hatte, musste er zu einem Kinderpsychologen und dann in die Psychiatrie. Dort findet er erste Anhänger, erste Follower. Sie helfen ihm, aus der Psychiatrie auszubrechen, um dann ein erfolgreicher Influencer zu werden. Er wird sogar auf einem „Time“-Cover zu sehen sein. Später lernt er Yu kennen, eine Programmiererin und Künstlerin, von der er einiges lernen kann und in die er sich verliebt.  
+Zum Beginn der Graphic Novel wird Earthboi als hochbegabt und äußerst eigenwillig beschrieben. Nachdem seine Mutter unter seinem Bett in einer Schachtel tote Tiere gefunden hatte, musste er zu einem Kinderpsychologen und dann in die Psychiatrie. Dort findet er erste Anhänger, erste Follower. Sie helfen ihm, aus der Psychiatrie auszubrechen, um dann ein erfolgreicher Influencer zu werden. Er wird sogar auf einem "Time"-Cover zu sehen sein. Später lernt er Yu kennen, eine Programmiererin und Künstlerin, von der er einiges lernen kann und in die er sich verliebt.  
 
 Der besondere Reiz der Graphic Novel entsteht durch die Wahl der Erzählinstanz. Der Text gibt die Worte eines kollektiven Wir wieder – die Worte seiner ersten Follower. Durch diese in der Literaturgeschichte selten anzutreffende Wahl der Fokalisierung wissen Lesende nie genau, wie die Geschehnisse eigentlich einzuordnen sind. Beispielsweise irritieren schon auf den ersten Seiten, wie Earthboi die Genese der Welt über mehrere Zeitalter miterlebt. Ferner erzeugen quasi-religiöse Formulierungen Irritationsmomente, zum Beispiel wenn die ersten Follower ihn als „fleischgewordenen Sohn“ der Erde bezeichnen. Darüber hinaus muss zwischen den Zeilen erlesen werden, wann sich die Hingabe der Follower in eine kritische Haltung verwandelt.
 
@@ -45,11 +45,11 @@ Isadvanced: false
 
 ----
 
-Meta-title: 
+Meta-title: Unfollow
 
 ----
 
-Meta-description: 
+Meta-description: Das Zusammenspiel von Lebensweltbezug und überindividueller Relevanz für unser jetziges Miteinander könnte also kaum ausgeprägter sein.
 
 ----
 
@@ -69,11 +69,11 @@ Meta-phone-number:
 
 ----
 
-Og-title: 
+Og-title: Unfollow
 
 ----
 
-Og-description: 
+Og-description: Das Zusammenspiel von Lebensweltbezug und überindividueller Relevanz für unser jetziges Miteinander könnte also kaum ausgeprägter sein.
 
 ----
 
@@ -129,11 +129,11 @@ Og-type-article-tag:
 
 ----
 
-Twitter-title: 
+Twitter-title: Unfollow
 
 ----
 
-Twitter-description: 
+Twitter-description: Das Zusammenspiel von Lebensweltbezug und überindividueller Relevanz für unser jetziges Miteinander könnte also kaum ausgeprägter sein.
 
 ----
 

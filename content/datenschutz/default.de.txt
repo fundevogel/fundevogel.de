@@ -6,7 +6,7 @@ Layouts: [{"attrs":{"style":"default","heading":"","icon":""},"columns":[{"block
 
 ----
 
-Date: 2020-07-07
+Cover: 
 
 ----
 
@@ -15,10 +15,6 @@ Meta-title: Datenschutzerklärung
 ----
 
 Meta-description: Wir nehmen den Schutz Ihrer persönlichen Daten ernst ... aber mal ehrlich: wer schon keine Daten erhebt, muss sich um ihren Verbleib nicht sorgen!
-
-----
-
-Meta-keywords: 
 
 ----
 
@@ -119,3 +115,11 @@ Twitter-site:
 ----
 
 Twitter-creator: 
+
+----
+
+Date: 2020-07-07
+
+----
+
+Meta-keywords: 
