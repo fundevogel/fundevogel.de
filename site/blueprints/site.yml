@@ -147,19 +147,19 @@ tabs:
       right:
         width: 1/2
         sections:
-          lesetipps_drafts:
+          events_drafts:
             extends: sections/drafts
             template: calendar.event
             parent: site.find('kalender/veranstaltungen')
 
-          lesetipps_unlisted:
+          events_unlisted:
             extends: sections/unlisted
             template: calendar.event
             parent: site.find('kalender/veranstaltungen')
 
       full:
         sections:
-          lesetipps_listed:
+          events_listed:
             extends: sections/listed
             layout: cards
             template: calendar.event
