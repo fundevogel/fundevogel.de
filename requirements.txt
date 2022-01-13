@@ -5,7 +5,7 @@ cloudpickle==1.6.0
 doit==0.33.1
 fonttools==4.26.2
 idna==3.2
-Pillow==8.3.2
+Pillow==9.0.0
 pyinotify==0.9.6
 PyYAML==5.4.1
 requests==2.26.0
