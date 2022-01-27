@@ -1,0 +1,140 @@
+Title: Journée mondiale du livre
+
+----
+
+Text:
+
+## Journée mondiale du livre
+Chaque année, le 23 avril, nous célébrons la "Journée mondiale du livre" afin de transmettre aux enfants le plaisir de la lecture et de leur faire découvrir la littérature.
+
+À cette occasion, de nombreuses classes nous rendent visite à la librairie sur une période d'un mois. Avec les élèves, nous célébrons la Journée du livre et nous nous plongeons ensemble dans le monde de la littérature.
+
+----
+
+Layouts: [{"attrs":{"style":"default","heading":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Une tradition r\u00e9gionale devient un jour de f\u00eate mondial"},"id":"623a2669-7db6-4f7c-86db-17b023183348","isHidden":false,"type":"heading"},{"content":{"text":"<p>Inspir\u00e9e par l'ancienne coutume catalane consistant \u00e0 offrir des roses et des livres le jour de la Saint-Georges, l'Organisation des Nations unies pour l'\u00e9ducation, la science et la culture (UNESCO desc) a d\u00e9clar\u00e9 en 1995 le 23 avril \"Journ\u00e9e mondiale du livre\", une f\u00eate mondiale pour la lecture, les livres et les droits des auteurs.<\/p><p>Au-del\u00e0 de cette coutume, cette journ\u00e9e rev\u00eat une importance particuli\u00e8re pour une autre raison : il s'agit de la date du d\u00e9c\u00e8s de William Shakespeare et de Miguel de Cervantes.<\/p>"},"id":"8564b156-5ade-4362-8c78-d825d3378c6c","isHidden":false,"type":"text"},{"content":{"images":["welttag-im-fundevogel-01.jpg","welttag-im-fundevogel-02.jpg","welttag-im-fundevogel-03.jpg"],"heading":""},"id":"13b95821-f219-49ee-8990-15305aebf3af","isHidden":false,"type":"gallery"}],"id":"d3b0d1da-98c8-41cb-942e-5237953ac713","width":"1\/1"}],"id":"b241393a-142d-4e00-a868-9bcc5fb4111c"},{"attrs":{"style":"default","heading":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"D\u00e9roulement"},"id":"d835b3ba-421b-4dfd-9452-e6a5fb3a012b","isHidden":false,"type":"heading"},{"content":{"text":"<p>C'est avec beaucoup de plaisir que les \u00e9l\u00e8ves participent chaque ann\u00e9e \u00e0 notre quiz sur les livres et explorent avec enthousiasme les \u00e9tag\u00e8res d\u00e9cor\u00e9es de roses. \u00c0 la fin de la visite, chaque enfant peut recevoir son livre pour la Journ\u00e9e mondiale.<\/p>"},"id":"146383ae-b9e2-4318-b31c-98f1041031c4","isHidden":false,"type":"text"}],"id":"454ffd13-64fc-40d6-a527-a92c7828a81c","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Inscription"},"id":"614f4acc-d935-46e0-b58a-233c90330d19","isHidden":false,"type":"heading"},{"content":{"text":"<p>Chaque ann\u00e9e, de nombreuses classes visitent le Fundevogel pour partir \u00e0 la d\u00e9couverte du monde. Si vous aussi souhaitez y participer, votre enseignant(e) peut nous envoyer un e-mail !<\/p>"},"id":"2d86dcc3-9ab8-4553-8323-6878bf3a2db1","isHidden":false,"type":"text"}],"id":"1fc3249c-7682-47e9-9a49-e0357cac2173","width":"1\/2"}],"id":"9d564f6f-1ed2-41a3-a38f-ee773f31d66d"},{"attrs":{"style":"box","heading":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"Informations utiles"},"id":"1432fdff-2986-4817-9bab-0ddb40f126cf","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Il y a plein de choses \u00e0 d\u00e9couvrir sur le site officiel de la Journ\u00e9e mondiale.<\/li><li>Les \u00e9v\u00e9nements \u00e0 Fribourg et dans les environs sur les pages de la ville de Fribourg.<\/li><li>En tant que partenaire de la Journ\u00e9e mondiale en Allemagne, la fondation \"Stiftung Lesen\" participe \u00e9galement.<\/li><\/ul>"},"id":"d32a726b-616b-432d-82f2-ed4f41619c24","isHidden":false,"type":"list"}],"id":"7233638e-dcaa-4b83-b5f7-feb9af7a9832","width":"1\/1"}],"id":"14195198-0a5d-45ed-8800-f5a65144a2a9"}]
+
+----
+
+Previewdescription: Chaque année, à l'occasion de la Journée mondiale de la lecture, des livres et des droits des auteurs, le 23 avril, de nombreuses classes viennent à la librairie pour feuilleter dans les rayons décorés de roses et célébrer avec nous le monde des livres de manière ludique.
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: Lors de la "Journée mondiale du livre", de nombreuses classes nous rendent visite, découvrent les étagères de la librairie décorées de roses et fêtent avec nous le monde des livres.
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image:
+
+- welttag-des-buches.jpg
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image:
+
+- welttag-des-buches.jpg
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image:
+
+- welttag-des-buches.jpg
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Handle: Tag des Buches

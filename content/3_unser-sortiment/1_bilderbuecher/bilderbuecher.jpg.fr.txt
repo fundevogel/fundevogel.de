@@ -1,0 +1,17 @@
+Titleattribute: Les livres à grands images rassemblent toute la famille.
+
+----
+
+Source: Eigenmaterial
+
+----
+
+Altattribute: Étagères en bois avec des livres pour enfants.
+
+----
+
+Caption: Les livres illustrés donnent envie !
+
+----
+
+Template: image

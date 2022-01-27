@@ -9,7 +9,7 @@ Slug: agenda
 Text:
 
 ## Venez nombreux!
-Cliquez sur le lien pour pouvoir consulter notre agenda tranquillement de chez vous!
+Cliquez sur le lien pour pouvoir consulter notre agenda!
 
 Il est également possible de s’abonner à notre calendrier des événements. De cette manière, tous les événements à venir apparaîtront automatiquement dans votre calendrier!
 
