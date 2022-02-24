@@ -1,3 +1,3 @@
-# fundevogel.de
+# Attention
 
-:copyright: Fundevogel Kinder- und Jugendbuchhandlung
+This repository has moved to [codeberg.org](https://codeberg.org/fundevogel/fundevogel.de).
